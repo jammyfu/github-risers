@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import risers_core as core  # noqa: E402
 import archive  # noqa: E402
+import data_checks  # noqa: E402
 import render_readme  # noqa: E402
 from i18n import LANGS  # noqa: E402
 
@@ -49,14 +50,9 @@ class DataTests(unittest.TestCase):
                 self.assertGreaterEqual(g["gained"], 0)
                 self.assertLessEqual(g["effective_days"], days)
                 self.assertAlmostEqual(g["per_day"], g["gained"] / g["effective_days"], places=2)
-            if p["history_complete"]:
-                # full history from the API should add up to the current star count;
-                # GitHub allows a small edge discrepancy (removed stars / bucket boundaries)
-                self.assertTrue(
-                    core.history_total_within_slack(p["history_total"], p["stars"]),
-                    f"{p['name']}: |history_total {p['history_total']} - stars {p['stars']}| "
-                    f"> {core.HISTORY_TOTAL_STAR_SLACK}",
-                )
+        # live-data drift (history vs live stars) is a warning in tools/data_checks.py, never a unit-test failure
+        errors, _warnings = data_checks.check(stats, projects, json.loads((ROOT / "data/stars.json").read_text("utf-8")))
+        self.assertEqual(errors, [])
 
     def test_snapshots_have_today(self):
         snaps = json.loads((ROOT / "data/stars.json").read_text("utf-8"))

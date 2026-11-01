@@ -56,9 +56,10 @@ class HistoryTests(unittest.TestCase):
         self.assertTrue(core.history_total_within_slack(100, 95))
         self.assertTrue(core.history_total_within_slack(100, 100))
         self.assertFalse(core.history_total_within_slack(100, 106))
-        src = Path(__file__).resolve().parents[1].joinpath("tests/test_repo.py").read_text("utf-8")
-        self.assertIn("history_total_within_slack", src)
-        self.assertNotRegex(src, r"assertLessEqual\(abs\(p\[.history_total.\] - p\[.stars.\]\), 2")
+        src = Path(__file__).resolve().parents[1].joinpath("tools/data_checks.py").read_text("utf-8")
+        self.assertIn("history_total_within_slack", src)  # the daily data check warns on this drift
+        repo_tests = Path(__file__).resolve().parents[1].joinpath("tests/test_repo.py").read_text("utf-8")
+        self.assertNotIn("history_total_within_slack", repo_tests)  # drift must not fail a unit test
 
 
 class RankTests(unittest.TestCase):

@@ -59,6 +59,12 @@
 - Gaps found: stale `CURRENT_PLAN.md`/`MASTER_PLAN.md`/`TODO_BACKLOG.md`/governance files; dirty-worktree and record-order rules only in chat; no check of the plan shape; no regression test that `verify.py` and `local_daily.sh` avoid PATH/`shell=True`.
 - Added `tools/next_plan.py --check`, `tests/test_harness.py`, and wrote the rules into `AGENTS.md` and `docs/`.
 
+## 2026-11-01 — daily-update root cause (PLAN-004)
+
+- Failed runs: 41122642510 (hook completeness test on live data) and 41235403615 (`history_total` vs `stars` gap of 3). Common cause: Verify ran the full unit-test suite on freshly fetched data.
+- Added `tools/data_checks.py`, `verify.py --daily`, rate-limit/5xx retry in `api_get`, push retry with rebase; tests in `tests/test_daily_robustness.py`.
+- Verification: `python3 tools/verify.py` green; `python3 tools/verify.py --daily` green.
+
 ## 2026-11-01 — README date and first-screen polish (PLAN-003)
 
 - Replaced the static `updated-YYYY--MM--DD` shields badge with a dynamic JSON badge that reads `$.today_utc` from `data/stats.json` on `main`.

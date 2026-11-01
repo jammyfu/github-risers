@@ -85,8 +85,17 @@ would skip. The Beijing slot and the next day's runs still refresh the data, so 
 
 ## Option A: GitHub Actions (preferred when it runs)
 
-`.github/workflows/daily-update.yml` regenerates the data, runs `tools/verify.py`, and commits to `main` if anything changed.
+`.github/workflows/daily-update.yml` regenerates the data, runs `tools/verify.py --daily`, and commits to `main` if anything changed.
 It uses only first-party `actions/*` and the built-in `GITHUB_TOKEN`.
+
+Why `--daily` (root cause of the 2026-10-30 and 2026-10-31 failures): the run used to execute the whole unit-test suite
+against the data it had just fetched, so anything that moves with GitHub (a new repo without a hook yet, a 3-star gap between
+`/stargazers/history` and `/repos`) failed the run and the day's update was lost. Now the daily run only validates the data
+(`tools/data_checks.py`): **errors** fail (project list mismatch, negative or inconsistent growth, no snapshot for today,
+history vs stars off by more than `max(50, 1 %)`, more than 25 % of repos fetched as missing) and **warnings** (history vs stars
+off by more than `HISTORY_TOTAL_STAR_SLACK`, a few missing repos) show as `::warning::` annotations. The unit tests still run in
+`ci.yml` on every pull request. API calls retry 5xx, network errors, `429` and rate-limited `403` with backoff (honouring
+`Retry-After` / `X-RateLimit-Reset`, capped at 120 s); the push step rebases onto `main` and retries up to 5 times.
 `.github/workflows/ci.yml` runs `tools/verify.py` on every pull request and push to `main` (no network).
 
 Scheduled workflows run from the default branch only.
@@ -115,7 +124,7 @@ gh api repos/jammyfu/github-risers/check-runs/<job_id>/annotations --jq '.[].mes
 
 ```bash
 GITHUB_TOKEN=$(gh auth token) python3 tools/update_stars.py   # fetch + render only
-tools/local_daily.sh                  # update, verify, commit, push to main (any time)
+tools/local_daily.sh                  # update, verify (--daily), commit, push to main (any time)
 tools/local_daily.sh --no-push        # update, verify, commit locally
 tools/local_daily.sh --slot beijing   # only proceeds if it is 00:xx in Asia/Shanghai
 tools/local_daily.sh --slot la        # only proceeds if it is 00:xx in America/Los_Angeles (DST-aware)

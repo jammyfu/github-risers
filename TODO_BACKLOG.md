@@ -2,7 +2,7 @@
 
 ## Now
 
-- [ ] After the history-slack PR is merged, confirm the next `daily-update` run commits data (the 2026-11-01 pattern of Verify blocking a 3-star `history_total` gap must not recur)
+- [ ] After the daily-update reliability PR (PLAN-004) is merged, confirm the next scheduled `daily-update` run commits data (Verify must only fail on real data errors)
 - [ ] Confirm the first unattended cron runs after the merge: `cn-0000` (Beijing) and `pt-0000` (Los Angeles) folders appear under `rankings/<date>/` (`gh run list --workflow daily-update.yml`)
 - [ ] Developer Tools new-repo board: 15 of 20 entries were flagged ⚠ in the last run because star-farmed repos use `cli` / `developer-tools`; decide whether to add a quality signal (owner call)
 - [ ] Design and Data new-repo boards are thin (0-2 entries): widen with specific topics only (no generic ones; `tests/test_spam.py` guards that)

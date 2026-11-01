@@ -81,7 +81,9 @@ jobs:
         run: python3 tools/update_stars.py --slot "$SLOT"
       - name: Verify
         if: steps.gate.outputs.run == 'true'
-        run: python3 tools/verify.py
+        # Data checks only (tools/data_checks.py): hard errors fail, drift against the GitHub API warns.
+        # The unit tests run in ci.yml on every pull request, not against live data here.
+        run: python3 tools/verify.py --daily
       - name: Commit and push if anything changed
         if: steps.gate.outputs.run == 'true'
         run: |
@@ -93,4 +95,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data rankings latest README*.md docs/HOW_IT_WORKS*.md docs/DETAILS*.md
           git commit -m "chore(data): daily star update $(date -u +%F)"
-          git push origin HEAD:main
+          # main can move while the job runs (a merged PR): rebase onto it and retry instead of failing the day.
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt); rebasing onto origin/main"
+            sleep $((attempt * 5))
+            git pull --rebase origin main || { git rebase --abort || true; echo "rebase conflict" >&2; exit 1; }
+          done
+          echo "could not push after 5 attempts" >&2
+          exit 1
