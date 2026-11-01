@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Install: copy to ~/Library/LaunchAgents/com.jammyfu.risers-i18n.plist (fix the paths), then
+     launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.jammyfu.risers-i18n.plist
+     The Mac's clock is Beijing time, so 01:15 and 17:15 are ~1h after the Actions slots (00:00 and 15:00/16:00). -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.jammyfu.risers-i18n</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/jammyfu/works/AI/PersonalProject/github-risers-i18n/tools/mac_i18n_cron.sh</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>1</integer><key>Minute</key><integer>15</integer></dict>
+    <dict><key>Hour</key><integer>17</integer><key>Minute</key><integer>15</integer></dict>
+  </array>
+  <key>StandardOutPath</key><string>/Users/jammyfu/Library/Logs/risers-i18n.log</string>
+  <key>StandardErrorPath</key><string>/Users/jammyfu/Library/Logs/risers-i18n.log</string>
+  <key>EnvironmentVariables</key>
+  <dict><key>PATH</key><string>/Users/jammyfu/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string></dict>
+</dict>
+</plist>

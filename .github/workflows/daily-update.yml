@@ -64,7 +64,7 @@ jobs:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
         run: |
           if [ -z "$CURSOR_API_KEY" ]; then
-            echo "CURSOR_API_KEY not set: translation will be skipped."
+            echo "CURSOR_API_KEY not set (by design): new-repo descriptions are translated by the owner's Mac job (tools/mac_i18n_cron.sh, ~1h after this run)."
             exit 0
           fi
           curl -fsSL https://cursor.com/install | bash

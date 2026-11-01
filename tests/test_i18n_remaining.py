@@ -35,7 +35,9 @@ class LibrarySchemaTests(unittest.TestCase):
                 self.assertEqual(h, newcomer_i18n.src_hash(entry["src"]), f"{name}: key is not the source hash")
                 for lang, text in entry.items():
                     if lang in ("hook", "hook_prev"):  # the one-line table hook, a separate field (tests/test_hooks.py)
-                        self.assertEqual(set(text), set(LANGS), name)
+                        # a hook that broke the length rule in one language is left out until the next run, so a
+                        # freshly translated repo may have fewer than five (the run never invents a longer one)
+                        self.assertTrue(set(text) <= set(LANGS) and text, name)
                     elif lang not in ("src", "seen"):
                         self.assertIn(lang, LANGS, f"{name}: unknown language {lang}")
                         self.assertTrue(text.strip(), f"{name} {lang}")

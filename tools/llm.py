@@ -74,7 +74,7 @@ class CursorAgent:
     def unavailable_reason(self) -> str | None:
         """None when ready to use; otherwise why not (never substitutes another model)."""
         if not self.env.get(KEY_ENV):
-            return f"{KEY_ENV} is not set (add it as a GitHub Actions secret)"
+            return f"{KEY_ENV} is not set (in CI that is expected: translation runs on the owner's Mac, tools/mac_i18n_cron.sh)"
         if not self.binary:
             return "Cursor CLI (`agent`) is not installed"
         try:

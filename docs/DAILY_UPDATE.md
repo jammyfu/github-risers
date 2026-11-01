@@ -61,8 +61,11 @@ text + language; it is shown only on a hit (the text is unchanged), otherwise th
 
 Since the i18n pipeline, `tools/update_stars.py` fills this cache itself: after discovering the ranking it
 translates every displayed description that has no current translation (already translated ones are skipped),
-then renders. In CI this uses the Cursor CLI and the optional repository secret `CURSOR_API_KEY`; without it, or if
-anything fails, the run carries on with the existing texts. Polishing the copy is done on the owner's machine with
+then renders. In CI this can use the Cursor CLI and the optional repository secret `CURSOR_API_KEY`; this repo has no
+such secret on purpose, so the Actions run skips translation and carries on with the existing texts. The translation is done by the
+owner's Mac: a launchd job (`tools/com.jammyfu.risers-i18n.plist`, Beijing 01:15 and 17:15, ~1h after the Actions slots) runs
+`tools/mac_i18n_cron.sh`, which pulls, translates what is missing with the signed-in Antigravity CLI (`agy`), renders, verifies,
+commits `chore(i18n): ...` and pushes to main. Log: `~/Library/Logs/risers-i18n.log`. Polishing the copy is done on the owner's machine with
 the Antigravity CLI (`tools/polish_local.sh`, or `tools/local_daily.sh`), never in CI. Details, guards and the manual commands are in
 [I18N_PIPELINE.md](I18N_PIPELINE.md). `python3 tools/newcomer_i18n.py` still lists the gaps.
 

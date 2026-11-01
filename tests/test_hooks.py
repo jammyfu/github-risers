@@ -148,12 +148,14 @@ class SloganTests(unittest.TestCase):
                "nodedevelopersack/Cubase", "scarletscreengrasp/Uttorent", "twilightstonerestore/Glary-Utilities-Pro"}
 
     def test_listed_repos_are_rewritten_too_except_literal_labels_and_one_already_plain_text(self):
-        same = {n for n, v in LIB["entries"].items() for e in v.values() if e["hook"] == e["hook_prev"]}
+        same = {n for n, v in LIB["entries"].items() for e in v.values() if "hook_prev" in e and e["hook"] == e["hook_prev"]}
         # cracked / pre-activated installers keep their flat literal label (rule 7); tstack's source text is already the plain hook
         self.assertEqual(same, self.LITERAL | {"t3dotgg/tstack"})
         for n, v in LIB["entries"].items():
             if n not in same:
                 for e in v.values():
+                    if "hook_prev" not in e:  # added later by the Mac job; has no earlier hook to differ from
+                        continue
                     self.assertNotEqual(e["hook"]["zh-Hans"], e["hook_prev"]["zh-Hans"], n)
 
     def test_regenerating_a_hook_keeps_the_previous_one(self):
