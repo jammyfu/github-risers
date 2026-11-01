@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 2026-11-01 (README date and first screen)
+
+- The README `updated` badge is a dynamic shields.io JSON badge that reads `today_utc` from `data/stats.json`. The stamp line is filled from `generated_at` on every daily-update render. No update date is typed into `tools/i18n.py`.
+- First screen adds two short Q&As: how the numbers are computed, and how to use or contribute. Footer links `CONTRIBUTING.md`. Schedule on the stamp matches Actions: Beijing 00:00 (UTC+8) and Los Angeles 00:00 (`America/Los_Angeles`).
+
 ## 2026-10-29
 
 - Rankings by stars/day (week, month, year) with total stars last, all from the GitHub API.

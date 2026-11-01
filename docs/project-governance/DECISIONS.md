@@ -67,3 +67,12 @@
 
 - The daily-update Verify step (`tests/test_repo.py`) still requires a full history sum to stay close to `stargazers_count`. The allowed absolute delta is now 5 (`tools/risers_core.py::HISTORY_TOTAL_STAR_SLACK`).
 - A 3-star gap is accepted; a gap larger than 5 still fails. The check is not removed.
+
+## 2026-11-01 (README update date)
+
+### Do not bake the update date into the badge URL
+
+- The `updated` badge used to be `img.shields.io/badge/updated-YYYY--MM--DD-…`, which froze the date in the generated README.
+- It now reads `$.today_utc` from `data/stats.json` on `main` via shields.io dynamic JSON. When the daily job writes a new `today_utc`, the badge refreshes without anyone editing the README by hand.
+- The stamp line still comes from `stats.generated_at` on every `tools/render_readme.py` run (the same path the daily-update workflow uses). Templates in `tools/i18n.py` contain `{ts}` only; no `YYYY-MM-DD` is typed in.
+- First-screen FAQ grew by two items (how the numbers are computed; how to use or contribute). They link existing `docs/FAQ.md` anchors; the GEO FAQ file is not generated.

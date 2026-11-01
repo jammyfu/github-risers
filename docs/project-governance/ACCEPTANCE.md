@@ -18,6 +18,12 @@
 - Every scheduled entry (both Beijing and Los Angeles crons, `workflow_dispatch`, local launchd) runs `tools/update_stars.py` (`tests/test_spam.py::ScheduledPathTests`)
 - README is a first screen (top 10 per board); the full top 20 is in `latest/`; GEO files exist and are linked
 
+## README update date
+
+- The `updated` badge is dynamic (`shields.io` JSON → `data/stats.json` `today_utc`); i18n templates contain no `YYYY-MM-DD`
+- The stamp line is written from `stats.generated_at` on every `python3 tools/render_readme.py` run
+- First screen states what the list is, the Beijing / Los Angeles schedule, how numbers are computed, and how to use or contribute
+
 ## Phase 4: harness
 
 - `CURRENT_PLAN.md` passes `python3 tools/next_plan.py --check` (one Plan ID, one Goal, 3-7 tasks, Out of Scope, Verification, Next Candidates)

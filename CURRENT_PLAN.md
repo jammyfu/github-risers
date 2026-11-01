@@ -2,32 +2,32 @@
 
 ## Plan ID
 
-PLAN-002
+PLAN-003
 
 ## Goal
 
-Raise the Verify `history_total` vs `stars` slack so a 3-star GitHub discrepancy no longer blocks the daily data push, without dropping the integrity check.
+Polish the generated README first screen and stop baking an update date into the badge URL; the date must come from `data/stats.json` and refresh on every daily-update run.
 
 ## In Scope
 
-- The absolute-delta assertion in `tests/test_repo.py` (and a named constant for it)
-- A regression test that a 3-star gap is accepted and a larger gap still fails
-- Docs that currently claim the history sum equals `stargazers_count` exactly
+- `tools/render_readme.py` and `tools/i18n.py` (README / HOW_IT_WORKS / DETAILS copy)
+- Regenerated `README*.md` (and the other generated pages the renderer writes)
+- Tests that the update badge is dynamic and the stamp text is filled from `stats.json`
+- Concise first-screen copy: what the list is, the Actions schedule, how numbers are computed, how to use or contribute, links
 
 ## Out of Scope
 
-- Ranking logic, categories, newcomers, hooks, translations, GEO files
-- Disabling `tools/verify.py` or skipping the history cross-check
-- Secrets, workflow credentials, merging to `main`
+- Ranking logic, categories, the ⚠ suspected-crack rules, `data/stats.json` numbers
+- Secrets, the daily-update cron times, GEO files (`docs/FAQ.md`, `docs/FACTS.md`, `CITATION.cff`, social preview)
+- Merging to `main`
 
 ## Tasks
 
-- [x] Confirm the 2026-11-01 daily-update failure is `assertLessEqual(..., 2)` on `affaan-m/ECC` (diff 3)
-- [x] Raise the allowed absolute delta from 2 to 5 via a named constant; keep the check
-- [x] Add a unit test that delta 3 passes and delta > 5 still fails
-- [x] Document the slack (why 5, why not exact) and record the decision
-- [x] Run `python3 tools/verify.py` and `python3 tools/next_plan.py --check`
-- [x] Open a PR against `main` (do not merge)
+- [x] Replace the static `updated-YYYY--MM--DD` shields badge with a dynamic badge that reads `today_utc` from `data/stats.json`
+- [x] Keep the stamp line filled from `stats.generated_at` on every `render_readme` / daily-update run
+- [x] Add two first-screen FAQ items (how numbers are computed; how to use or contribute) linking existing `docs/FAQ.md` anchors
+- [x] Add a test that templates contain no hard-coded update date and that the rendered stamp follows `generated_at`
+- [ ] Owner reviews the PR; merge only with approval
 
 ## Verification
 

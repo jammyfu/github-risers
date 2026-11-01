@@ -203,9 +203,32 @@ class SlimReadmeTests(unittest.TestCase):
                      render_readme.SITE, f"## {s['tops_title']}", f"## {s['faq_title']}"]
             positions = [head.index(x) for x in order]
             self.assertEqual(positions, sorted(positions), code)
-            self.assertLessEqual(len(head.splitlines()), 45, code)
+            self.assertLessEqual(len(head.splitlines()), 58, code)
             for gone in (s["intro"], s["schedule"], s["tops_intro"], s["new_intro"], s["method"][0], s["contrib"], "<details>"):
                 self.assertNotIn(gone, text, f"{code}: {gone[:40]}")
+
+    def test_update_date_is_from_stats_not_baked_into_templates(self):
+        """The update date is never typed into i18n strings or the badge URL."""
+        for code, s in render_readme.S.items():
+            for key, value in s.items():
+                blob = value if isinstance(value, str) else " ".join(value)
+                self.assertNotRegex(blob, r"20\d{2}-\d{2}-\d{2}", f"{code}.{key} has a hard-coded date")
+        src = (ROOT / "tools/render_readme.py").read_text("utf-8")
+        self.assertNotRegex(src, r"badge/updated-\d{4}")
+        self.assertIn("today_utc", src)
+        ts = render_readme.stamp_ts(stats)
+        cats_by_id = {c["id"]: c for c in cats}
+        for code, (fname, _l) in LANGS.items():
+            text = self.readme(code)
+            head = self.head(code)
+            self.assertIn(ts, head, fname)
+            self.assertIn("badge/dynamic/json", head, fname)
+            self.assertNotRegex(head, r"badge/updated-\d{4}--\d\d--\d\d")
+        moved = dict(stats)
+        moved["generated_at"] = "2026-11-01T12:34:00Z"
+        rendered = render_readme.render("en", projects, moved, cats_by_id)
+        self.assertIn("2026-11-01 12:34", rendered)
+        self.assertNotIn(ts, rendered.split("##", 1)[0])
 
     def test_title_names_and_english_adds_the_ranking_rule(self):
         S_ = render_readme.S
@@ -220,16 +243,22 @@ class SlimReadmeTests(unittest.TestCase):
             self.assertEqual(len(badges), 3, code)
             self.assertIn("license-MIT", badges[0])
             self.assertIn("actions/workflows/ci.yml/badge.svg", badges[1])
-            self.assertRegex(badges[2], r"badge/updated-\d{4}--\d\d--\d\d-")
+            self.assertIn("badge/dynamic/json", badges[2])
+            self.assertIn("data%2Fstats.json", badges[2])
+            self.assertIn("today_utc", badges[2])
+            self.assertNotRegex(badges[2], r"updated-\d{4}--\d\d--\d\d")
 
     def test_geo_links_are_present_in_every_language(self):
         for code in LANG_CODES:
             text, s = self.readme(code), render_readme.S[code]
             for needle in ("https://jammyfu.github.io/github-risers/", "docs/FAQ.md#what-is-github-risers",
                            "docs/FAQ.md#is-it-the-same-as-github-trending", "docs/FAQ.md#how-often-is-it-updated",
-                           "docs/FACTS.md", "CITATION.cff", ".github/social-preview.png", s["website"], s["star_ask"]):
+                           "docs/FAQ.md#how-is-the-growth-rate-computed",
+                           "docs/FAQ.md#how-can-i-suggest-a-project-or-report-a-mistake",
+                           "docs/FACTS.md", "CITATION.cff", "CONTRIBUTING.md", ".github/social-preview.png",
+                           s["website"], s["star_ask"]):
                 self.assertIn(needle, text, f"{code}: {needle}")
-            for key in ("q1", "q2", "q3"):
+            for key in ("q1", "q2", "q3", "q4", "q5"):
                 self.assertIn(f"### {s[key]}", text, code)
 
     def test_faq_links_point_at_real_faq_headings(self):

@@ -4,11 +4,11 @@
 
 <img src=".github/social-preview.png" alt="GitHub スター急上昇ランキング / GitHub Risers" width="640">
 
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/updated-2026--10--31-brightgreen.svg)](latest/rankings.ja.md)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjammyfu%2Fgithub-risers%2Fmain%2Fdata%2Fstats.json&query=%24.today_utc&label=updated&color=brightgreen)](latest/rankings.ja.md)
 
 総スター数ではなく、1 日あたりに増えたスター数で GitHub リポジトリを並べます。AI が先頭で、開発者ツール、セキュリティ、Web / フロントエンド、インフラ、デザイン / クリエイティブ、データが続きます。1 日 2 回更新。
 
-2026-10-31 04:53（UTC）更新、1 日 2 回（北京時間 0 時、ロサンゼルス時間 0 時）。
+データ取得 2026-10-31 04:53（UTC）。1 日 2 回：北京時間 0 時（UTC+8）、ロサンゼルス時間 0 時（America/Los_Angeles）。
 
 [ウェブサイト](https://jammyfu.github.io/github-risers/) · [仕組み](docs/HOW_IT_WORKS.ja.md) · [ファクト](docs/FACTS.md) · [履歴](rankings/README.ja.md) · [最新](latest/rankings.ja.md)
 
@@ -41,6 +41,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 ### 更新は何回？
 
 1 日 2 回、北京時間 0 時とロサンゼルス時間 0 時です。実行のたびに保存します。 [詳しく見る](docs/FAQ.md#how-often-is-it-updated)
+
+### 数値はどう出す？
+
+直近 7・30・365 の完了した UTC 日の増加スターを日数で割ります。数値はすべて GitHub API から取得し、手入力や推定はしません。 [詳しく見る](docs/FAQ.md#how-is-the-growth-rate-computed)
+
+### 使い方と参加方法は？
+
+下のランキングを見るか、latest/ の上位 20 件を見てください。収録プロジェクトを足すには data/projects.json（5 言語）を編集して pull request を出します。 [詳しく見る](docs/FAQ.md#how-can-i-suggest-a-project-or-report-a-mistake)
 
 ## AI
 
@@ -521,4 +529,4 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 引用の仕方：[CITATION.cff](CITATION.cff) を見てください。
 
-数字の出し方と参加方法：[docs/HOW_IT_WORKS.ja.md](docs/HOW_IT_WORKS.ja.md)。新規リポジトリのルール：[docs/NEW_ARRIVALS.md](docs/NEW_ARRIVALS.md)。カテゴリ：[docs/CATEGORIES.md](docs/CATEGORIES.md)。
+数字の出し方と参加方法：[docs/HOW_IT_WORKS.ja.md](docs/HOW_IT_WORKS.ja.md)。新規リポジトリのルール：[docs/NEW_ARRIVALS.md](docs/NEW_ARRIVALS.md)。カテゴリ：[docs/CATEGORIES.md](docs/CATEGORIES.md)。プルリクエスト：[CONTRIBUTING.md](CONTRIBUTING.md)。
