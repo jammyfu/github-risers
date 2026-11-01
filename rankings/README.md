@@ -6,6 +6,7 @@ Latest: [`latest/rankings.md`](../latest/rankings.md) · [`latest/stats.json`](.
 
 | Date | Slot | Fetched (UTC) | #1 new (7 days) | #1 this week | #1 this month | #1 this year | Snapshot |
 |---|---|---|---|---|---|---|---|
+| 2026-11-01 | Manual 12:12 UTC (`manual-1212`) | 2026-11-01T12:12:54Z | wangzan101/Mika (1,145/day) | morluto/rea (5,274/day) | morluto/rea (13,860/day) | deepseek-ai/deepseek-harness (3,346/day) | [2026-11-01/manual-1212](2026-11-01/manual-1212/rankings.md) · [json](2026-11-01/manual-1212/stats.json) |
 | 2026-11-01 | Manual 09:05 UTC (`manual-0905`) | 2026-11-01T09:05:03Z | wangzan101/Mika (1,136/day) | morluto/rea (5,275/day) | morluto/rea (13,861/day) | deepseek-ai/deepseek-harness (3,346/day) | [2026-11-01/manual-0905](2026-11-01/manual-0905/rankings.md) · [json](2026-11-01/manual-0905/stats.json) |
 | 2026-10-31 | Manual 04:53 UTC (`manual-0453`) | 2026-10-31T04:53:23Z | wangzan101/Mika (1,045/day) | morluto/rea (5,589/day) | morluto/rea (13,748/day) | deepseek-ai/deepseek-harness (3,378/day) | [2026-10-31/manual-0453](2026-10-31/manual-0453/rankings.md) · [json](2026-10-31/manual-0453/stats.json) |
 | 2026-10-30 | Manual 08:39 UTC (`manual-0839`) | 2026-10-30T08:39:25Z | rddmwmddr/android-ad-cleaner (798/day) | morluto/rea (5,942/day) | morluto/rea (13,623/day) | deepseek-ai/deepseek-harness (3,412/day) | [2026-10-30/manual-0839](2026-10-30/manual-0839/rankings.md) · [json](2026-10-30/manual-0839/stats.json) |

@@ -6,6 +6,7 @@
 
 | 日付 | スロット | 取得日時（UTC） | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | スナップショット |
 |---|---|---|---|---|---|---|---|
+| 2026-11-01 | 手動実行 12:12 UTC (`manual-1212`) | 2026-11-01T12:12:54Z | wangzan101/Mika (1,145/日) | morluto/rea (5,274/日) | morluto/rea (13,860/日) | deepseek-ai/deepseek-harness (3,346/日) | [2026-11-01/manual-1212](2026-11-01/manual-1212/rankings.ja.md) · [json](2026-11-01/manual-1212/stats.json) |
 | 2026-11-01 | 手動実行 09:05 UTC (`manual-0905`) | 2026-11-01T09:05:03Z | wangzan101/Mika (1,136/日) | morluto/rea (5,275/日) | morluto/rea (13,861/日) | deepseek-ai/deepseek-harness (3,346/日) | [2026-11-01/manual-0905](2026-11-01/manual-0905/rankings.ja.md) · [json](2026-11-01/manual-0905/stats.json) |
 | 2026-10-31 | 手動実行 04:53 UTC (`manual-0453`) | 2026-10-31T04:53:23Z | wangzan101/Mika (1,045/日) | morluto/rea (5,589/日) | morluto/rea (13,748/日) | deepseek-ai/deepseek-harness (3,378/日) | [2026-10-31/manual-0453](2026-10-31/manual-0453/rankings.ja.md) · [json](2026-10-31/manual-0453/stats.json) |
 | 2026-10-30 | 手動実行 08:39 UTC (`manual-0839`) | 2026-10-30T08:39:25Z | rddmwmddr/android-ad-cleaner (798/日) | morluto/rea (5,942/日) | morluto/rea (13,623/日) | deepseek-ai/deepseek-harness (3,412/日) | [2026-10-30/manual-0839](2026-10-30/manual-0839/rankings.ja.md) · [json](2026-10-30/manual-0839/stats.json) |

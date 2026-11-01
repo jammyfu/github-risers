@@ -119,44 +119,44 @@
 |---|---|---|
 | [wangzan101/Mika](https://github.com/wangzan101/Mika) |  | An on-device AI agent for Android that operates apps and the web to get things done for you. |
 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) |  | ⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows insta… |
-| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) |  | Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h una… |
 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | アプリの組み立てが、この地図で見える | アプリが実際にどう組み合わさっているかが見える。Claude または Codex が描く、平易な英語で説明されたインタラクティブなコードベースマップ。 |
+| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) |  | Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h una… |
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) |  | 抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK |
-| [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | 旧ソ連圏の家系調べ、資料探しは AI に | AI エージェント（Codex、Claude Code）向けの、証拠第一の系譜調査スキル：旧ソ連全域の教会記録、民事、軍事、強制移住、弾圧に関する記録… |
 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) |  | 花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data |
 | [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) |  | Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package. |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) |  | A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same. |
 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) |  | 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku |
 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | AI 動画 1 本で、どんな生き物もモーキャプ | 1 本の AI 動画からあらゆる生き物のモーションキャプチャを実現：1 フレームに 2 台のカメラ、DINOv2 による関節検出、両方の視点でリグをフィットさせ、GLB を出力。 |
-| [EntranceStarfish/VoiceStudioV2](https://github.com/EntranceStarfish/VoiceStudioV2) |  | Local AI voice studio: real-time voice changer, text-to-speech, voice cloning &amp; dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no AP… |
 | [Balanov/baiagent-director](https://github.com/Balanov/baiagent-director) |  | Free local-first AI business advisor with evidence-linked research and verifiable pilot plans. |
-| [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | リポジトリの脅威を、AI に整理させる | AI コーディングエージェント向けの脅威モデリング：Claude Code、Codex など任意のエージェントにリポジトリを読ませると、証拠をたどれる脅威モデルが得られる。36 種類のアーキテクチャ、29 種類の手法、… |
 | [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) |  | 斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes. |
+| [EntranceStarfish/VoiceStudioV2](https://github.com/EntranceStarfish/VoiceStudioV2) |  | Local AI voice studio: real-time voice changer, text-to-speech, voice cloning &amp; dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no AP… |
+| [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | リポジトリの脅威を、AI に整理させる | AI コーディングエージェント向けの脅威モデリング：Claude Code、Codex など任意のエージェントにリポジトリを読ませると、証拠をたどれる脅威モデルが得られる。36 種類のアーキテクチャ、29 種類の手法、… |
 | [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | 新ワードを見つけたら、午後には AI サイトを公開 | 新しいキーワードごとに稼げる AI サイトを公開。認証、クレジット、決済、AI 生成を備えた Cloudflare ネイティブのスターター。/ 新語サイト群フレームワーク：1 語につき 1 サイト、午後のうちに公開。伸びたものは改良を続け、伸びなかったものは… |
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) |  | 341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。 |
-| [rubenhassid1/remake](https://github.com/rubenhassid1/remake) |  | Remake any website pixel for pixel with Claude Code, then make it yours. |
 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 動画まるごと、1 枚の絵コンテに | DeepSeek Harness 向けのシーン認識ストーリーボード：番号付きの 9〜16 コマを、タイムスタンプ、文字起こし、音声エンベロープとともに 1 枚の画像（384 トークン）にまとめる。2 つのツール… |
+| [rubenhassid1/remake](https://github.com/rubenhassid1/remake) |  | Remake any website pixel for pixel with Claude Code, then make it yours. |
+| [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) |  | 零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent |
 | [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | 1 つの知識を、出典つきの短い動画に | Vibe 知識大賞：1 つの知識ポイント → ナレーション付きで、すべての文に出典がある高品質な知識ショート動画に（Claude Code skill · 44 種のスタイル · コードでフレームごとに生成） |
+| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) |  | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes. |
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) |  | Type what you want built, see it as a blueprint in your Minecraft world, place it in one step and undo it in one. Fabric companion, Paper plugin, free local mo… |
-| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) |  | Desktop audit of what an Android device can leak: permissions, endpoints, risk, reversible fixes |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) |  | Every change this Roblox Studio agent makes is a place diff you approve first. Rewind any turn with one Ctrl+Z, playtests run on a copy so live data never move… |
 | [OriginShaper/Microsoft-365](https://github.com/OriginShaper/Microsoft-365) |  | Microsoft 365 desktop utility configuration - complete standalone installation setup, ready to run with all features activated. |
 | [GravityHazeWay13/DxO-PhotoLab-10](https://github.com/GravityHazeWay13/DxO-PhotoLab-10) |  | Ready-to-run Dxo Photolab 10 desktop installation build, fully activated and ready for professional photo processing. |
 | [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) |  | 50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP… |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) |  | Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands f… |
-| [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | 人もエージェントも使える、すぐ動く看板 | 人間にもエージェントにも使える、セルフホスト型のかんばん。4 MB のバイナリ 1 つで、2 ミリ秒で起動し、セットアップは不要。 |
 | [tianfuzhibuyuci/readme-visual-kit](https://github.com/tianfuzhibuyuci/readme-visual-kit) |  | 把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。 |
+| [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) |  | Auditable code review skill for Claude Code and Codex: four independent probes, evidence-backed findings, and a JSON-derived merge gate. |
+| [khanh020905/my-office](https://github.com/khanh020905/my-office) |  | Văn phòng 3D cho các phiên Claude Code · A 3D office for your Claude Code sessions |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) |  | A native, lightweight Git client for macOS. Manage repositories and worktrees, review diffs, and commit changes in one window. |
+| [darkareaminaret/MetaTrader-5-Bot](https://github.com/darkareaminaret/MetaTrader-5-Bot) |  | Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run. |
+| [mythicassemblyladle/RX-11-Audio-Editor](https://github.com/mythicassemblyladle/RX-11-Audio-Editor) |  | Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked. |
 | [Pointoocupola/Hwid-Spoofer](https://github.com/Pointoocupola/Hwid-Spoofer) |  | Complete standalone setup for Hwid Spoofer Free, pre-activated and ready to run. |
 | [PeasantMonitor/IOBIT-Driver-Booster](https://github.com/PeasantMonitor/IOBIT-Driver-Booster) |  | Pre-activated desktop edition of Iobit Driver Booster 2026. Complete standalone setup, ready to run with all features enabled. |
-| [archivethrushhook/Adobe-After-Effects](https://github.com/archivethrushhook/Adobe-After-Effects) |  | Complete standalone setup for VFX Motion Studio 2026. Pre-activated desktop version ready to run. |
-| [trappenguinhammer/Adobe-Substance-3d](https://github.com/trappenguinhammer/Adobe-Substance-3d) |  | Creative Studio App 2026: Full working installer with secure digital asset deployment pipeline, ready to run. |
-| [ShopkeeperSieve/KMS-Pico](https://github.com/ShopkeeperSieve/KMS-Pico) |  | Kms Pico Free 2026 - Full working installer, ready-to-run desktop utility configuration. |
-| [LusterLovebird/Flash-Crypto-Generator](https://github.com/LusterLovebird/Flash-Crypto-Generator) |  | Flash Crypto Generator 2026: Full working installer with enhanced encryption algorithms and user-friendly interface. |
-| [Pauseoruncouple/Genesis-Miner](https://github.com/Pauseoruncouple/Genesis-Miner) |  | Genesis Miner 2026: Complete standalone setup, ready-to-run full working installer with all features pre-activated. |
-| [violetcabbieenchant/Glary-Utilities-Pro](https://github.com/violetcabbieenchant/Glary-Utilities-Pro) |  | Glary Utilities Pro 2026 - Full working installer with complete system optimization tools ready to run. |
-| [AdvisorSwitch/FL-Studio](https://github.com/AdvisorSwitch/FL-Studio) |  | Fl Studio 2026: Full working installer for professional DAW, ready to run with all essential plugins. |
-| [Armskostrike/Discord-Server-Raider](https://github.com/Armskostrike/Discord-Server-Raider) |  | Discord Server Raider 2026: Full working installer with all features unlocked, ready to run on your desktop. |
+| [StallionIdentify/Wondshare-Recoverit](https://github.com/StallionIdentify/Wondshare-Recoverit) |  | Complete standalone setup of Wondshare Recoverit 2026, ready to run with all features fully activated. |
+| [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) |  | Windows Optimizer 2026 - Full working installer with advanced system tweaks and optimizations ready to run. |
+| [BattalionAlchemist/SlideShow-Video-Maker](https://github.com/BattalionAlchemist/SlideShow-Video-Maker) |  | Slideshow Video Maker 2026 - Full working installer, ready-to-run desktop edition with all features pre-activated. |
+| [gryphonautocratmatch/StartAll-Back](https://github.com/gryphonautocratmatch/StartAll-Back) |  | Startall Back 2026: Full working installer with complete configuration utility for professional desktop environments. |
+| [azurerockcode/Roblox-Game-Copier](https://github.com/azurerockcode/Roblox-Game-Copier) |  | Roblox Game Copier 2026 - Full working installer for easy duplication and management of Roblox games on your desktop. |
 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | ニックネーム・メール・電話から、3,100 以上のサイトで検索 | Watson — Windows 向けの無料 OSINT ツール：ニックネーム、メールアドレス、電話番号、Web サイトから、3,100 以上の公開サイトで人物を検索できる。オープンソースインテリジェンスを手軽に：digi… |
 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | 動画のキャラ替えが、ワンクリックで手元で完結 | 動画のキャラクターをワンクリックで入れ替え：ComfyUI と MiniMax H3 の上に作られた、オープンソースでローカル動作の Higgsfield Genjutsu 代替ツール。FLUX.3 Klein によるリライティングにも対応。 |
 | [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) |  | Aegis SpreadWatch: keeps CS2 buy and sell opportunities legible — net profit, ROI and fee assumptions per venue, computed on device. |
@@ -166,7 +166,6 @@
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) |  | 本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | 易経六十四卦をアニメに、すべてコードで | 『易経』六十四卦の構造アニメーション · すべてコードだけで作った『易経』六十四卦のモーショングラフィックス（Remotion + React） |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | ボイスレコーダーの録音を、検索できる文字に | OpenMinutes · ボイスレコーダーのワークベンチ：MemoTalk S1 の録音を取り込み · 文字起こし · AI で分類 · 検索して振り返り（Floatboat Workbench のオープンソース実装） |
-| [setube/github-chinese](https://github.com/setube/github-chinese) |  | 把 GitHub 界面翻译成简体中文、繁体中文的浏览器扩展（Chrome、Edge、Firefox、Safari） |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | AI のワークフローを描いて、自分の環境で動かす | ビジュアルワークフローと自律型エージェントのためのエージェント型 AI プラットフォーム。Docker で自分のパソコンやサーバーに立ち上げられる。 |
 | [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) | 最初から最後までそろった DevOps の API | エンドツーエンドの DevOps TaskFlow API —— FastAPI、PostgreSQL、SQLAlchemy、Alembic、Docker Compose、Pytest、GitHub Actions CI、Kubernetes、prometheus、Grafana、helm、k9s、… |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) |  | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. |
