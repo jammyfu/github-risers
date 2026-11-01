@@ -28,7 +28,21 @@ REPO = "jammyfu/github-risers"
 SITE = "https://jammyfu.github.io/github-risers/"
 SOCIAL_IMAGE = ".github/social-preview.png"
 # Anchors of docs/FAQ.md (owned by the GEO work, checked by a test); only linked, never generated here.
-FAQ_ANCHORS = ("what-is-github-risers", "is-it-the-same-as-github-trending", "how-often-is-it-updated")
+FAQ_ANCHORS = (
+    "what-is-github-risers",
+    "is-it-the-same-as-github-trending",
+    "how-often-is-it-updated",
+    "how-is-the-growth-rate-computed",
+    "how-can-i-suggest-a-project-or-report-a-mistake",
+)
+# shields.io reads data/stats.json on main; the README markdown never embeds a date in the badge URL.
+UPDATED_BADGE = (
+    "https://img.shields.io/badge/dynamic/json?"
+    "url=https%3A%2F%2Fraw.githubusercontent.com%2Fjammyfu%2Fgithub-risers%2Fmain%2Fdata%2Fstats.json"
+    "&query=%24.today_utc"
+    "&label=updated"
+    "&color=brightgreen"
+)
 
 
 def switcher(lang: str) -> str:
@@ -233,13 +247,19 @@ def tops_table(stats: dict, projects: list[dict], cats: dict, lang: str, link: b
     return "\n".join(lines)
 
 
+def stamp_ts(stats: dict) -> str:
+    """UTC timestamp from stats.json (`generated_at`), not a date typed into the README."""
+    return stats["generated_at"].replace("T", " ").replace("Z", "")[:16]
+
+
 def badges(stats: dict, lang: str) -> str:
-    """Three badges, no more: licence, CI, last update."""
-    day = stats["generated_at"][:10].replace("-", "--")  # shields.io: "--" is a literal hyphen
+    """Three badges, no more: licence, CI, last update (date from stats.json, not baked in)."""
+    if "today_utc" not in stats:
+        raise KeyError("stats.json must have today_utc for the updated badge")
     return " ".join([
         "[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)",
         f"[![CI](https://github.com/{REPO}/actions/workflows/ci.yml/badge.svg)](https://github.com/{REPO}/actions/workflows/ci.yml)",
-        f"[![updated](https://img.shields.io/badge/updated-{day}-brightgreen.svg)](latest/{archive.rankings_name(lang)})",
+        f"[![updated]({UPDATED_BADGE})](latest/{archive.rankings_name(lang)})",
     ])
 
 
@@ -263,7 +283,7 @@ def render(lang: str, projects: list[dict], stats: dict, cats: dict, tr: dict | 
         f'<img src="{SOCIAL_IMAGE}" alt="{s["title"]}" width="640">', "",
         badges(stats, lang), "",
         s["tagline"], "",
-        s["stamp"].format(ts=stats["generated_at"].replace("T", " ").replace("Z", "")[:16]), "",
+        s["stamp"].format(ts=stamp_ts(stats)), "",
         s["links"].format(website=s["website"], site=SITE, how=how, index=f"rankings/{archive.index_name(lang)}",
                           latest=latest), "",
         f"## {s['tops_title']}", "",

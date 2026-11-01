@@ -4,11 +4,11 @@
 
 <img src=".github/social-preview.png" alt="GitHub Risers: Ranked by Stars Gained per Day" width="640">
 
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/updated-2026--10--31-brightgreen.svg)](latest/rankings.md)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjammyfu%2Fgithub-risers%2Fmain%2Fdata%2Fstats.json&query=%24.today_utc&label=updated&color=brightgreen)](latest/rankings.md)
 
 Trending GitHub repos ranked by star growth (stars gained per day), not total stars: AI first, then developer tools, security, web, infrastructure, design and data.
 
-Updated 2026-10-31 04:53 UTC, twice a day (00:00 Beijing, 00:00 Los Angeles).
+Data from 2026-10-31 04:53 UTC. Twice a day: 00:00 Beijing (UTC+8) and 00:00 Los Angeles (America/Los_Angeles).
 
 [Website](https://jammyfu.github.io/github-risers/) · [How it works](docs/HOW_IT_WORKS.md) · [Facts](docs/FACTS.md) · [History](rankings/README.md) · [Latest](latest/rankings.md)
 
@@ -41,6 +41,14 @@ GitHub Trending is GitHub's own page. GitHub Risers is an independent open-sourc
 ### How often is it updated?
 
 Twice a day, at 00:00 Beijing time and 00:00 Los Angeles time. Every run is archived. [Read more](docs/FAQ.md#how-often-is-it-updated)
+
+### How is the data computed?
+
+Stars gained in the last 7, 30 or 365 complete UTC days, divided by those days. All numbers come from the GitHub API; nothing is typed or estimated. [Read more](docs/FAQ.md#how-is-the-growth-rate-computed)
+
+### How do I use or contribute?
+
+Read the boards below, or the full top 20 in latest/. To add a tracked project, edit data/projects.json (five languages) and open a pull request. [Read more](docs/FAQ.md#how-can-i-suggest-a-project-or-report-a-mistake)
 
 ## AI
 
@@ -521,4 +529,4 @@ If this saved you time, give the repo a star so others can find it.
 
 How to cite: see [CITATION.cff](CITATION.cff).
 
-How the numbers are produced and how to contribute: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md). New-repo rules: [docs/NEW_ARRIVALS.md](docs/NEW_ARRIVALS.md). Categories: [docs/CATEGORIES.md](docs/CATEGORIES.md).
+How the numbers are produced and how to contribute: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md). New-repo rules: [docs/NEW_ARRIVALS.md](docs/NEW_ARRIVALS.md). Categories: [docs/CATEGORIES.md](docs/CATEGORIES.md). Pull requests: [CONTRIBUTING.md](CONTRIBUTING.md).

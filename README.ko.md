@@ -4,11 +4,11 @@
 
 <img src=".github/social-preview.png" alt="GitHub 스타 급상승 랭킹 / GitHub Risers" width="640">
 
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/updated-2026--10--31-brightgreen.svg)](latest/rankings.ko.md)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjammyfu%2Fgithub-risers%2Fmain%2Fdata%2Fstats.json&query=%24.today_utc&label=updated&color=brightgreen)](latest/rankings.ko.md)
 
 총 스타 수가 아니라 하루에 늘어난 스타 수로 GitHub 저장소를 줄 세웁니다. AI가 맨 앞이고 개발자 도구, 보안, Web / 프론트엔드, 인프라, 디자인 / 크리에이티브, 데이터가 뒤따릅니다. 하루 두 번 갱신합니다.
 
-2026-10-31 04:53(UTC) 갱신, 하루 두 번(베이징 0시, 로스앤젤레스 0시).
+데이터 시각 2026-10-31 04:53(UTC). 하루 두 번: 베이징 0시(UTC+8), 로스앤젤레스 0시(America/Los_Angeles).
 
 [웹사이트](https://jammyfu.github.io/github-risers/) · [작동 방식](docs/HOW_IT_WORKS.ko.md) · [팩트](docs/FACTS.md) · [지난 랭킹](rankings/README.ko.md) · [최신](latest/rankings.ko.md)
 
@@ -41,6 +41,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 ### 얼마나 자주 갱신하나요?
 
 하루 두 번, 베이징 시간 0시와 로스앤젤레스 시간 0시입니다. 실행할 때마다 보관합니다. [더 보기](docs/FAQ.md#how-often-is-it-updated)
+
+### 숫자는 어떻게 계산하나요?
+
+최근 7·30·365개의 완료된 UTC 일에 늘어난 스타를 그 일수로 나눕니다. 숫자는 모두 GitHub API에서 가져오며 손으로 넣거나 추정하지 않습니다. [더 보기](docs/FAQ.md#how-is-the-growth-rate-computed)
+
+### 어떻게 보고 어떻게 기여하나요?
+
+아래 랭킹을 보거나 latest/의 상위 20개를 보세요. 수록 프로젝트를 추가하려면 data/projects.json(다섯 언어)을 고친 뒤 pull request를 보내세요. [더 보기](docs/FAQ.md#how-can-i-suggest-a-project-or-report-a-mistake)
 
 ## AI
 
@@ -521,4 +529,4 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 인용 방법: [CITATION.cff](CITATION.cff)를 보세요.
 
-숫자를 만드는 방법과 참여 방법: [docs/HOW_IT_WORKS.ko.md](docs/HOW_IT_WORKS.ko.md). 신규 저장소 규칙: [docs/NEW_ARRIVALS.md](docs/NEW_ARRIVALS.md). 카테고리: [docs/CATEGORIES.md](docs/CATEGORIES.md).
+숫자를 만드는 방법과 참여 방법: [docs/HOW_IT_WORKS.ko.md](docs/HOW_IT_WORKS.ko.md). 신규 저장소 규칙: [docs/NEW_ARRIVALS.md](docs/NEW_ARRIVALS.md). 카테고리: [docs/CATEGORIES.md](docs/CATEGORIES.md). 풀 리퀘스트: [CONTRIBUTING.md](CONTRIBUTING.md).
