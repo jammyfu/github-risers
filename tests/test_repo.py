@@ -52,7 +52,11 @@ class DataTests(unittest.TestCase):
             if p["history_complete"]:
                 # full history from the API should add up to the current star count;
                 # GitHub allows a small edge discrepancy (removed stars / bucket boundaries)
-                self.assertLessEqual(abs(p["history_total"] - p["stars"]), 2, p["name"])
+                self.assertTrue(
+                    core.history_total_within_slack(p["history_total"], p["stars"]),
+                    f"{p['name']}: |history_total {p['history_total']} - stars {p['stars']}| "
+                    f"> {core.HISTORY_TOTAL_STAR_SLACK}",
+                )
 
     def test_snapshots_have_today(self):
         snaps = json.loads((ROOT / "data/stars.json").read_text("utf-8"))

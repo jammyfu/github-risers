@@ -16,7 +16,12 @@ Why `stargazers/history` and not `stargazers` + `starred_at`: since July 2026 Gi
 ([changelog](https://github.blog/changelog/2026-06-30-upcoming-access-restrictions-to-public-api-endpoints-and-ui-views/)).
 The privacy-safe replacement is `stargazers/history`, which returns daily counts without user identities
 ([changelog](https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data/)).
-Cross-check built into the tests: for every repo whose full history was read, the sum of the history equals `stargazers_count`.
+Cross-check built into the tests: for every repo whose full history was read,
+`|history_total - stargazers_count|` must be ≤ `HISTORY_TOTAL_STAR_SLACK` (5).
+GitHub's weekly buckets can lag the live count by a few stars (un-stars, same-day
+stars, UTC vs bucket boundaries). Slack was 2 until 2026-11-01, when
+`affaan-m/ECC` was off by 3 and the daily push was skipped
+(run [41235403615](https://github.com/jammyfu/github-risers/actions/runs/41235403615)).
 
 ### One code path for every scheduled run
 

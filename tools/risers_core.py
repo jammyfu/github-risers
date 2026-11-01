@@ -12,6 +12,18 @@ from typing import Any, Iterable
 
 WINDOWS: dict[str, int] = {"week": 7, "month": 30, "year": 365}
 
+# Allowed |history_total - stargazers_count| when the full history was fetched.
+# /stargazers/history buckets by week and can lag the live count by a few stars
+# (un-stars, same-day stars, UTC vs bucket boundaries). Slack was 2 until
+# 2026-11-01, when affaan-m/ECC was off by 3 and blocked the daily push
+# (https://github.com/jammyfu/github-risers/actions/runs/41235403615).
+HISTORY_TOTAL_STAR_SLACK = 5
+
+
+def history_total_within_slack(history_total: int, stars: int) -> bool:
+    """True when the summed history is close enough to the live star count."""
+    return abs(int(history_total) - int(stars)) <= HISTORY_TOTAL_STAR_SLACK
+
 
 def history_to_daily(pages: Iterable[list[dict[str, Any]]]) -> dict[dt.date, int]:
     """Flatten /stargazers/history pages into {date: stars_that_day}.

@@ -26,6 +26,10 @@
 - READMEs in all five languages are now a first screen: headline, one sentence, update stamp, the category leaders table (rows link to the category boards), then the category boards. Intro, schedule, "how it is produced", categories table and contributing moved to generated `docs/HOW_IT_WORKS*.md`; the long new-repo explanation moved there too.
 - README first screen reworked (generator only): first line `GitHub 涨星榜 / GitHub Risers` (English: `GitHub Risers: Ranked by Stars Gained per Day`), header image `.github/social-preview.png`, three badges (MIT, CI, last updated), website link, three Q&A subheads linking `docs/FAQ.md`, a star prompt, a "how to cite" line (`CITATION.cff`) and a link to `docs/FACTS.md`. Each board shows the top 10 in the README; the full top 20 stays in `latest/`. Those linked files come from the GEO pull request (#9); the generator only links them, and a test checks the FAQ anchors.
 
+## 2026-11-01 (history slack)
+
+- Daily-update Verify still cross-checks `history_total` against `stargazers_count` for every repo with a complete history. The allowed absolute delta is 5 (was 2), so a 3-star GitHub bucket lag no longer skips the data push. Larger gaps still fail.
+
 ## 2026-10-31 (ad-grade slogans)
 
 - The 70 tracked projects now use the zh-Hans slogan set (pain first, only source facts; `tests/fixtures/slogans_zh.md`); zh-Hant / en / ja / ko were written to carry the same meaning and flavour. The 44 listed new repos were rewritten under the same rules (15 pre-activated installer labels and `t3dotgg/tstack` stay literal).
