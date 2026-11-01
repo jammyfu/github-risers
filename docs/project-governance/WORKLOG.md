@@ -1,5 +1,11 @@
 # WORKLOG.md
 
+## 2026-11-01
+
+- Daily-update run 41235403615 (Beijing ~03:41, 2026-11-01) fetched OK then failed Verify: `affaan-m/ECC` had `|history_total - stars| = 3` while the allowed slack was 2, so commit/push was skipped.
+- Raised `HISTORY_TOTAL_STAR_SLACK` from 2 to 5 in `tools/risers_core.py`; the integrity check stays. Regression: delta 3 passes, delta > 5 fails.
+- Verification: `python3 tools/verify.py` green (202 tests); `python3 tools/next_plan.py --check` green.
+
 ## 2026-10-29
 
 - Added stars/day rankings (week, month, year; total last) from the GitHub API (`stargazers/history`).

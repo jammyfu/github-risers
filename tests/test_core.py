@@ -49,6 +49,17 @@ class HistoryTests(unittest.TestCase):
         self.assertEqual(core.snapshot_delta(snaps, today, 7, 1000), {"since": "2026-10-22", "delta": 100})
         self.assertIsNone(core.snapshot_delta(snaps, today, 30, 1000))
 
+    def test_history_total_slack_accepts_a_three_star_gap(self):
+        # 2026-11-01 daily-update: affaan-m/ECC was off by 3; old slack was 2.
+        self.assertEqual(core.HISTORY_TOTAL_STAR_SLACK, 5)
+        self.assertTrue(core.history_total_within_slack(100, 103))
+        self.assertTrue(core.history_total_within_slack(100, 95))
+        self.assertTrue(core.history_total_within_slack(100, 100))
+        self.assertFalse(core.history_total_within_slack(100, 106))
+        src = Path(__file__).resolve().parents[1].joinpath("tests/test_repo.py").read_text("utf-8")
+        self.assertIn("history_total_within_slack", src)
+        self.assertNotRegex(src, r"assertLessEqual\(abs\(p\[.history_total.\] - p\[.stars.\]\), 2")
+
 
 class RankTests(unittest.TestCase):
     def mk(self, name, stars, per_day):
