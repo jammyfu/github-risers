@@ -41,7 +41,31 @@ class GitHubError(RuntimeError):
         self.status = status
 
 
-def api_get(path: str, token: str, retries: int = 3) -> Any:
+RETRY_STATUS = (500, 502, 503, 504)
+MAX_WAIT = 120  # never sleep longer than this for one retry (the job has a 45 minute budget)
+
+
+def retry_wait(code: int, headers: Any, attempt: int) -> float | None:
+    """Seconds to wait before retrying a failed request, or None when the failure is final.
+
+    5xx: exponential backoff. 429 and 403 with a rate-limit signal (Retry-After, or X-RateLimit-Remaining 0
+    with a reset time): wait as the server says, capped. A plain 403/404/422 is final (access, missing repo).
+    """
+    backoff = min(2 ** (attempt + 1), 30)
+    if code in RETRY_STATUS:
+        return backoff
+    if code in (403, 429):
+        retry_after = headers.get("Retry-After") if headers else None
+        if retry_after and str(retry_after).isdigit():
+            return min(int(retry_after) + 1, MAX_WAIT)
+        if headers and headers.get("X-RateLimit-Remaining") == "0" and str(headers.get("X-RateLimit-Reset", "")).isdigit():
+            return min(max(int(headers["X-RateLimit-Reset"]) - time.time(), 0) + 1, MAX_WAIT)
+        if code == 429:
+            return backoff
+    return None
+
+
+def api_get(path: str, token: str, retries: int = 5) -> Any:
     req = urllib.request.Request(
         API + path,
         headers={
@@ -57,15 +81,16 @@ def api_get(path: str, token: str, retries: int = 3) -> Any:
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", "replace")[:200]
-            if e.code in (500, 502, 503, 504) and attempt < retries - 1:
-                time.sleep(2 * (attempt + 1))
+            wait = retry_wait(e.code, e.headers, attempt)
+            if wait is not None and attempt < retries - 1:
+                time.sleep(wait)
                 continue
             raise GitHubError(e.code, body) from None
-        except urllib.error.URLError as e:
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
             if attempt < retries - 1:
-                time.sleep(2 * (attempt + 1))
+                time.sleep(min(2 ** (attempt + 1), 30))
                 continue
-            raise GitHubError(0, str(e.reason)) from None
+            raise GitHubError(0, str(getattr(e, "reason", e))) from None
     raise GitHubError(0, "unreachable")
 
 

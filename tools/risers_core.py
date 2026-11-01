@@ -14,10 +14,25 @@ WINDOWS: dict[str, int] = {"week": 7, "month": 30, "year": 365}
 
 # Allowed |history_total - stargazers_count| when the full history was fetched.
 # /stargazers/history buckets by week and can lag the live count by a few stars
-# (un-stars, same-day stars, UTC vs bucket boundaries). Slack was 2 until
-# 2026-11-01, when affaan-m/ECC was off by 3 and blocked the daily push
+# (un-stars, same-day stars, UTC vs bucket boundaries). Over this the daily data check only WARNS
+# (tools/data_checks.py); it fails above history_total_hard_limit(). Slack was 2 until 2026-11-01, when
+# affaan-m/ECC was off by 3 and blocked the daily push
 # (https://github.com/jammyfu/github-risers/actions/runs/41235403615).
 HISTORY_TOTAL_STAR_SLACK = 5
+
+
+# Beyond this the history and the star count disagree for a real reason (truncated pagination, wrong repo),
+# not API timing: the daily data check fails instead of warning. Max of an absolute floor and 1 % of the stars.
+HISTORY_TOTAL_HARD_FLOOR = 50
+HISTORY_TOTAL_HARD_SHARE = 0.01
+
+
+def history_total_hard_limit(stars: int) -> int:
+    return max(HISTORY_TOTAL_HARD_FLOOR, int(int(stars) * HISTORY_TOTAL_HARD_SHARE))
+
+
+def history_total_within_hard_limit(history_total: int, stars: int) -> bool:
+    return abs(int(history_total) - int(stars)) <= history_total_hard_limit(stars)
 
 
 def history_total_within_slack(history_total: int, stars: int) -> bool:

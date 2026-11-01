@@ -68,6 +68,14 @@
 - The daily-update Verify step (`tests/test_repo.py`) still requires a full history sum to stay close to `stargazers_count`. The allowed absolute delta is now 5 (`tools/risers_core.py::HISTORY_TOTAL_STAR_SLACK`).
 - A 3-star gap is accepted; a gap larger than 5 still fails. The check is not removed.
 
+## 2026-11-01 (daily-update root cause)
+
+### The daily run validates data; it does not run the unit tests against live data
+
+- Failures: run 41122642510 (2026-10-30 20:22Z, hook test: new repos without a hook) and run 41235403615 (2026-10-31 19:41Z, `history_total` vs `stars` off by 3). Each fix raised one limit; the next live value would have failed again, and a failed run discards the whole day's update.
+- Decision: `tools/verify.py --daily` = compile + `tools/data_checks.py` (hard errors fail, API-timing drift warns) + README freshness. Unit tests stay in CI (`ci.yml`) on every PR. Real data errors still fail.
+- Plus: `api_get` retries 429 / rate-limited 403 / 5xx / network errors with capped backoff; the push step rebases and retries.
+
 ## 2026-11-01 (README update date)
 
 ### Do not bake the update date into the badge URL

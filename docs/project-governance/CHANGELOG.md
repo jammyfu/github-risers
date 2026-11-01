@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 2026-11-01 (daily-update reliability)
+
+- The daily run no longer runs the unit tests against live data. `python3 tools/verify.py --daily` validates the generated data (`tools/data_checks.py`): real errors fail, GitHub API timing drift only warns. CI still runs every unit test on pull requests.
+- API retries for rate limits (`429`, rate-limited `403`), 5xx and network errors with capped backoff; the push step rebases onto `main` and retries.
+
 ## 2026-11-01 (README date and first screen)
 
 - The README `updated` badge is a dynamic shields.io JSON badge that reads `today_utc` from `data/stats.json`. The stamp line is filled from `generated_at` on every daily-update render. No update date is typed into `tools/i18n.py`.
