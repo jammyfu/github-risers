@@ -54,6 +54,16 @@
         "ko": "증거 연계 연구 및 검증 가능한 파일럿 계획을 갖춘 무료 로컬 우선 AI 비즈니스 어드바이저."
       }
     },
+    "Balanov/uncut": {
+      "2604b8b860ad": {
+        "src": "A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+        "zh-Hans": "适用于 shell、CI 和本地模型的 7 MB 无损编码智能体 harness。无 TUI。无静默上下文截断。",
+        "seen": "2026-11-02",
+        "zh-Hant": "適用於 shell、CI 和本機模型的 7 MB 無損編碼代理 harness。無 TUI。無靜默上下文截斷。",
+        "ja": "shell、CI、ローカルモデル向けの 7 MB ロスレスコーディングエージェント harness。TUI なし。サイレントなコンテキストカットなし。",
+        "ko": "shell, CI 및 로컬 모델을 위한 7 MB 무손실 코딩 에이전트 하네스. TUI 없음. 무언의 컨텍스트 컷 없음."
+      }
+    },
     "BattalionAlchemist/SlideShow-Video-Maker": {
       "74e259ed8bf8": {
         "src": "Slideshow Video Maker 2026 - Full working installer, ready-to-run desktop edition with all features pre-activated.",
@@ -124,7 +134,8 @@
         "hook": {
           "en": "Ads Blocker 2026 installer, listed as ad-blocking tool",
           "ja": "Ads Blocker 2026、広告ブロック表記",
-          "ko": "Ads Blocker 2026 광고 차단 표기"
+          "ko": "Ads Blocker 2026 광고 차단 표기",
+          "zh-Hans": "Ads Blocker 2026 桌面广告拦截安装包"
         }
       }
     },
@@ -219,10 +230,15 @@
       "4cceb0513b89": {
         "src": "Every change this Roblox Studio agent makes is a place diff you approve first. Rewind any turn with one Ctrl+Z, playtests run on a copy so live data never move…",
         "zh-Hans": "这款 Roblox Studio 智能体所做的每一项更改都是由你先批准的 place diff。只需一次 Ctrl+Z 即可回退任何轮次，测试游玩在副本上运行，因此实际数据绝不会移动…",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "這款 Roblox Studio 代理所做的每一項變更都是由你先批准的 place diff。只需一次 Ctrl+Z 即可回退任何輪次，測試遊玩在複本上執行，因此實際資料絕不會移動…",
         "ja": "この Roblox Studio エージェントによるすべての変更は、最初にあなたが承認する place diff です。Ctrl+Z 1回で任意のターンを巻き戻し、プレイテストはコピー上で実行されるため、本番データが移動することはありません…",
-        "ko": "이 Roblox Studio 에이전트가 수행하는 모든 변경 사항은 먼저 승인하는 place diff입니다. Ctrl+Z 한 번으로 모든 턴을 되돌릴 수 있으며, 플레이 테스트는 사본에서 실행되므로 라이브 데이터가 절대 이동하지 않습니다…"
+        "ko": "이 Roblox Studio 에이전트가 수행하는 모든 변경 사항은 먼저 승인하는 place diff입니다. Ctrl+Z 한 번으로 모든 턴을 되돌릴 수 있으며, 플레이 테스트는 사본에서 실행되므로 라이브 데이터가 절대 이동하지 않습니다…",
+        "hook": {
+          "en": "Approve Roblox Studio agent changes before they apply",
+          "ja": "エージェントの変更を確認してから適用",
+          "ko": "에이전트의 변경 사항을 미리 확인하고 적용"
+        }
       }
     },
     "Fangludisclose/SystemCare-Pro": {
@@ -277,20 +293,30 @@
       "08883a580a03": {
         "src": "Folio — a simple, clean, open-source PDF reader for Windows",
         "zh-Hans": "Folio — 一款适用于 Windows 的简单、简洁的开源 PDF 阅读器",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Folio — 一款適用於 Windows 的簡單、簡潔的開源 PDF 閱讀器",
         "ja": "Folio — Windows 向けのシンプルでクリーンなオープンソース PDF リーダー",
-        "ko": "Folio — Windows를 위한 심플하고 깔끔한 오픈 소스 PDF 리더"
+        "ko": "Folio — Windows를 위한 심플하고 깔끔한 오픈 소스 PDF 리더",
+        "hook": {
+          "en": "PDF app too heavy? Read documents cleanly on Windows",
+          "ja": "PDFリーダーが重い？Windowsで軽快に閲覧",
+          "ko": "PDF 리더가 복잡할 때, 윈도우에서 깔끔하게 읽기"
+        }
       }
     },
     "GravityHazeWay13/DxO-PhotoLab-10": {
       "0b34d9268225": {
         "src": "Ready-to-run Dxo Photolab 10 desktop installation build, fully activated and ready for professional photo processing.",
         "zh-Hans": "开箱即用的 Dxo Photolab 10 桌面安装构建版本，已完全激活，随时可用于专业照片处理。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "開箱即用的 Dxo Photolab 10 桌面安裝組建版本，已完全啟用，隨時可用於專業相片處理。",
         "ja": "すぐに実行可能な Dxo Photolab 10 デスクトップインストールビルド、完全にアクティベート済みでプロフェッショナルな写真処理に対応。",
-        "ko": "바로 실행 가능한 Dxo Photolab 10 데스크톱 설치 빌드, 완전히 활성화되었으며 전문적인 사진 처리를 위해 준비됨."
+        "ko": "바로 실행 가능한 Dxo Photolab 10 데스크톱 설치 빌드, 완전히 활성화되었으며 전문적인 사진 처리를 위해 준비됨.",
+        "hook": {
+          "en": "DxO PhotoLab 10 desktop build, listed as activated",
+          "ja": "有効化済みと記載のDxO PhotoLab 10デスクトップ構成",
+          "ko": "활성화 상태로 기재된 DxO PhotoLab 10 데스크톱 빌드"
+        }
       }
     },
     "JunWan666/astrbot-for-android": {
@@ -322,10 +348,15 @@
       "812ce203dc87": {
         "src": "Aegis SpreadWatch: keeps CS2 buy and sell opportunities legible — net profit, ROI and fee assumptions per venue, computed on device.",
         "zh-Hans": "Aegis SpreadWatch: 让 CS2 买卖机会清晰可见——每个交易场所的净利润、ROI 和费用假设，均在设备端计算。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Aegis SpreadWatch: 讓 CS2 買賣機會清晰可見——每個交易場所的淨利潤、ROI 和費用假設，均在裝置端計算。",
         "ja": "Aegis SpreadWatch: CS2 の売買機会をわかりやすく表示 — プラットフォームごとの純利益、ROI、手数料の前提条件をデバイス上で計算。",
-        "ko": "Aegis SpreadWatch: CS2 매수 및 매도 기회를 명확하게 파악 — 플랫폼별 순이익, ROI 및 수수료 가정을 기기에서 계산."
+        "ko": "Aegis SpreadWatch: CS2 매수 및 매도 기회를 명확하게 파악 — 플랫폼별 순이익, ROI 및 수수료 가정을 기기에서 계산.",
+        "hook": {
+          "en": "Can't tell real CS2 profit? See net returns with venue fees",
+          "ja": "CS2の取引利益が曖昧？手数料込みの純利益を確認",
+          "ko": "CS2 거래 이익이 헷갈릴 때, 수수료 뺀 순이익 확인"
+        }
       }
     },
     "Lostbrocreate/Adobe-InDesign": {
@@ -376,34 +407,98 @@
         }
       }
     },
+    "Moh4696/open-3d-skills": {
+      "412bdce021dc": {
+        "src": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, bro…",
+        "hook": {
+          "en": "Agent can't build 3D sites? Add skills for 3D animations",
+          "ja": "3Dサイトが作れない？エージェント用アニメスキル",
+          "ko": "3D 사이트 구현이 막힐 때, 에이전트에 3D 스킬 추가"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "面向 3D 和动画网站的八个智能体技能：代码生成的 three.js 场景、滚动胶片、透明视频、光标绑定、爆炸图、AI 动作资产、bro…",
+        "zh-Hant": "面向 3D 和動畫網站的八個代理技能：代碼生成的 three.js 場景、滾動膠片、透明影片、游標綁定、爆炸圖、AI 動作資產、bro…",
+        "ja": "3D およびアニメーション Web サイト向けの 8 つのエージェントスキル：コードからの three.js シーン、スクロールフィルム、透過動画、カーソルリグ、分解図、AI モーションアセット、bro…",
+        "ko": "3D 및 애니메이션 웹사이트를 위한 8가지 에이전트 스킬: 코드로 생성한 three.js 장면, 스크롤 필름, 투명 비디오, 커서 리깅, 분해도, AI 모션 에셋, bro…"
+      }
+    },
     "N1nEmAn/sapper-v2": {
       "e093bc12f56f": {
         "src": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h una…",
         "zh-Hans": "自主渗透测试军团 —— AI 指挥官 + 工蜂集群 + 分层事实-意图图谱。第三届腾讯智慧攻防在线冠军（634 支队伍 · 8h una…",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "自主滲透測試軍團 —— AI 指揮官 + 工蜂集群 + 分層事實-意圖圖譜。第三屆騰訊智慧攻防線上冠軍（634 支隊伍 · 8h una…",
         "ja": "自律型ペンテスト軍団 — AI司令官 + ワーカー群 + 階層型事実-意図グラフ。第3回Tencent Intelligent Attack-Defenseオンラインチャンピオン（634チーム · 8h una…",
-        "ko": "자율 침투 테스트 군단 — AI 지휘관 + 워커 스웜 + 계층형 팩트-인텐트 그래프. 제3회 Tencent Intelligent Attack-Defense 온라인 챔피언 (634개 팀 · 8h una…"
+        "ko": "자율 침투 테스트 군단 — AI 지휘관 + 워커 스웜 + 계층형 팩트-인텐트 그래프. 제3회 Tencent Intelligent Attack-Defense 온라인 챔피언 (634개 팀 · 8h una…",
+        "hook": {
+          "en": "Security checks taking too long? Let an AI team run pentests",
+          "zh-Hans": "安全测试太费劲？让 AI 军团自主排查",
+          "zh-Hant": "安全測試太費勁？讓 AI 軍團自主排查",
+          "ja": "セキュリティ診断の手間を、AI自律テストで解消",
+          "ko": "보안 점검이 힘들 때, AI 군단이 알아서 모의해킹"
+        }
+      }
+    },
+    "NadirCardinal/AnyUnlock": {
+      "2451411e29ca": {
+        "src": "AnyUnlock 2026: Full working installer for quick and easy access to all utility configurations.",
+        "hook": {
+          "en": "AnyUnlock 2026 installer, listed as full working setup",
+          "ja": "AnyUnlock 2026インストーラー、全設定入りと記載",
+          "ko": "AnyUnlock 2026 설치 프로그램, 전체 설정 포함 표기"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "AnyUnlock 2026：快速轻松访问所有实用工具配置的完整可用安装程序。",
+        "zh-Hant": "AnyUnlock 2026：快速輕鬆存取所有實用工具配置的完整可用安裝程式。",
+        "ja": "AnyUnlock 2026: すべてのユーティリティ設定にすばやく簡単にアクセスできる完全に機能するインストーラー。",
+        "ko": "AnyUnlock 2026: 모든 유틸리티 구성에 빠르고 쉽게 접근할 수 있는 완전 작동 설치 프로그램."
       }
     },
     "NiazMorshed2007/reanimate": {
       "52b096492bb2": {
         "src": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
         "zh-Hans": "一个逐帧逆向任何动画、随后验证副本运动完全一致的 Claude Code 技能。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "一個逐幀逆向任何動畫、隨後驗證複本運作完全一致的 Claude Code 技能。",
         "ja": "あらゆるアニメーションをフレーム単位でリバースエンジニアリングし、複製が全く同じように動くことを証明するClaude Codeスキル。",
-        "ko": "모든 애니메이션을 프레임 단위로 역공학 분석한 뒤 복제본이 동일하게 움직이는지 증명하는 Claude Code 스킬."
+        "ko": "모든 애니메이션을 프레임 단위로 역공학 분석한 뒤 복제본이 동일하게 움직이는지 증명하는 Claude Code 스킬.",
+        "hook": {
+          "en": "Can't copy an animation? Match movements frame by frame",
+          "zh-Hans": "动效抄不像？逐帧还原并验证完全一致",
+          "zh-Hant": "動效抄不像？逐幀還原並驗證完全一致",
+          "ja": "アニメ再現が難しい？1コマずつ解析して一致を証明",
+          "ko": "어려운 애니메이션 복제, 프레임 단위로 똑같이 재현"
+        }
       }
     },
     "OriginShaper/Microsoft-365": {
       "acafd56e89d8": {
         "src": "Microsoft 365 desktop utility configuration - complete standalone installation setup, ready to run with all features activated.",
         "zh-Hans": "Microsoft 365 桌面实用工具配置 - 完整的独立安装设置，已激活所有功能，开箱即用。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Microsoft 365 桌面公用程式設定 - 完整的獨立安裝設定，已啟用所有功能，開箱即用。",
         "ja": "Microsoft 365 デスクトップユーティリティ構成 - 完全なスタンドアロンインストールセットアップ、すべての機能がアクティベートされ、すぐに実行可能。",
-        "ko": "Microsoft 365 데스크톱 유틸리티 구성 - 완전한 독립 실행형 설치 설정, 모든 기능이 활성화되어 바로 실행 가능."
+        "ko": "Microsoft 365 데스크톱 유틸리티 구성 - 완전한 독립 실행형 설치 설정, 모든 기능이 활성화되어 바로 실행 가능.",
+        "hook": {
+          "en": "Microsoft 365 desktop setup, listed as fully activated",
+          "ja": "有効化済みと記載のMicrosoft 365デスクトップ構成",
+          "ko": "활성화 상태로 기재된 Microsoft 365 데스크톱 구성"
+        }
+      }
+    },
+    "Pauseoruncouple/Genesis-Miner": {
+      "fd1374121cef": {
+        "src": "Genesis Miner 2026: Complete standalone setup, ready-to-run full working installer with all features pre-activated.",
+        "hook": {
+          "en": "Genesis Miner 2026 installer listed as pre-activated",
+          "ja": "Genesis Miner 2026 事前有効化インストーラー",
+          "ko": "Genesis Miner 2026 사전 활성화 표기 설치본"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "Genesis Miner 2026：完整的独立安装程序，所有功能预先激活、开箱即用的完整可用安装程序。",
+        "zh-Hant": "Genesis Miner 2026：完整的獨立安裝程式，所有功能預先啟動、即開即用的完整可用安裝程式。",
+        "ja": "Genesis Miner 2026: 完全なスタンドアロンセットアップ、すべての機能が事前アクティベート済みですぐに実行可能な完全動作インストーラー。",
+        "ko": "Genesis Miner 2026: 모든 기능이 사전 활성화되어 바로 실행 가능한 완전 독립형 설치 프로그램이자 완전 작동 설치 프로그램."
       }
     },
     "PeasantMonitor/IOBIT-Driver-Booster": {
@@ -468,11 +563,18 @@
       "76c9aff1fc93": {
         "src": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
         "zh-Hans": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "抓取抖音單條影片完整評論區（一級 + 樓中樓）的代理技能：在已登入的 Chrome 裡照抄頁面真實請求，簽名交給頁面 SDK",
         "ja": "抖音（Douyin）単一動画の完全なコメント欄（1次コメント + 返信スレッド）を取得するエージェントスキル：ログイン済みのChromeで実際のページリクエストを複製し、署名はページSDKに委託",
         "ko": "도우인(Douyin) 단일 영상의 전체 댓글 영역(1차 댓글 + 대댓글)을 수집하는 에이전트 스킬: 로그인된 Chrome에서 실제 페이지 요청을 그대로 복사하고, 서명은 페이지 SDK에 위임",
-        "en": "An Agent Skill to scrape the complete comments section (top-level + nested replies) of a single Douyin video: duplicates real page requests in a logged-in Chrome, delegating signatures to the page SDK"
+        "en": "An Agent Skill to scrape the complete comments section (top-level + nested replies) of a single Douyin video: duplicates real page requests in a logged-in Chrome, delegating signatures to the page SDK",
+        "hook": {
+          "en": "Can't scrape Douyin replies? Grab full nested comments",
+          "zh-Hans": "抖音评论抓不全？完整抓取所有楼中楼",
+          "zh-Hant": "抖音評論抓不全？完整抓取所有樓中樓",
+          "ja": "抖音の返信が取得できない？階層コメントを丸ごと抽出",
+          "ko": "더우인 댓글이 안 긁힐 때, 대댓글까지 모든 댓글 수집"
+        }
       }
     },
     "Pointoocupola/Hwid-Spoofer": {
@@ -581,6 +683,23 @@
         }
       }
     },
+    "Speedzyaminaret/UnlockTool": {
+      "95eec074d287": {
+        "src": "Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.",
+        "hook": {
+          "en": "Unlocktool 2026 desktop configuration installer",
+          "zh-Hans": "Unlocktool 2026 桌面配置工具安装包",
+          "zh-Hant": "Unlocktool 2026 桌面設定工具安裝程式",
+          "ja": "Unlocktool 2026 デスクトップ設定ツール",
+          "ko": "Unlocktool 2026 데스크톱 설정 프로그램"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "Unlocktool 2026：专业桌面配置实用工具的完整可用安装程序，即开即用。",
+        "zh-Hant": "Unlocktool 2026：專業桌面配置實用工具的完整可用安裝程式，即開即用。",
+        "ja": "Unlocktool 2026: プロフェッショナルなデスクトップ設定ユーティリティの完全に機能するインストーラー、すぐに実行可能。",
+        "ko": "Unlocktool 2026: 바로 실행 가능한 전문 데스크톱 구성 유틸리티용 완전 작동 설치 프로그램."
+      }
+    },
     "StallionIdentify/Wondshare-Recoverit": {
       "63c7d5006693": {
         "src": "Complete standalone setup of Wondshare Recoverit 2026, ready to run with all features fully activated.",
@@ -595,30 +714,47 @@
       "a0b8265025ba": {
         "src": "Windows Optimizer 2026 - Full working installer with advanced system tweaks and optimizations ready to run.",
         "zh-Hans": "Windows Optimizer 2026 - 包含高级系统微调与优化、随时可运行的完整可用安装程序。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Windows Optimizer 2026 - 包含進階系統調整與最佳化、隨時可運行的完整可用安裝程式。",
         "ja": "Windows Optimizer 2026 - 高度なシステム調整と最適化を備え、すぐに実行可能な完全に動作するインストーラー。",
-        "ko": "Windows Optimizer 2026 - 고급 시스템 조정 및 최적화가 포함되어 바로 실행 가능한 완전한 작동 설치 프로그램."
+        "ko": "Windows Optimizer 2026 - 고급 시스템 조정 및 최적화가 포함되어 바로 실행 가능한 완전한 작동 설치 프로그램.",
+        "hook": {
+          "en": "Windows Optimizer 2026 installer with system tweaks",
+          "ja": "Windows Optimizer 2026 最適化ツール",
+          "ko": "Windows Optimizer 2026 시스템 최적화 도구"
+        }
       }
     },
     "Straitbrashadow/minecraft-ai-mod-builder": {
       "1ab0822bd791": {
         "src": "Type what you want built, see it as a blueprint in your Minecraft world, place it in one step and undo it in one. Fabric companion, Paper plugin, free local mo…",
         "zh-Hans": "输入你想建造的内容，在你的 Minecraft 世界中将其视为蓝图，一步放置并一步撤销。Fabric 伴侣、Paper 插件、免费本地 mo…",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "輸入你想建造的內容，在你的 Minecraft 世界中將其視為藍圖，一步放置並一步撤銷。Fabric 伴侶、Paper 外掛、免費本機 mo…",
         "ja": "作りたいものを入力し、Minecraft の世界で設計図として確認、ワンステップで配置してワンステップで元に戻せます。Fabric コンパニオン、Paper プラグイン、無料のローカル mo…",
-        "ko": "만들고 싶은 것을 입력하고 Minecraft 월드에서 청사진으로 확인한 다음 한 단계로 배치하고 한 단계로 실행 취소하세요. Fabric 동반자, Paper 플러그인, 무료 로컬 mo…"
+        "ko": "만들고 싶은 것을 입력하고 Minecraft 월드에서 청사진으로 확인한 다음 한 단계로 배치하고 한 단계로 실행 취소하세요. Fabric 동반자, Paper 플러그인, 무료 로컬 mo…",
+        "hook": {
+          "en": "Type what you want built and place it in one step",
+          "zh-Hans": "输入建筑想法，在游戏中一键放置或撤销",
+          "zh-Hant": "輸入建築想法，在遊戲中一鍵放置或復原",
+          "ja": "作りたい建築を入力しワールドに一発配置",
+          "ko": "원하는 건축을 입력해 월드에 한 번에 배치"
+        }
       }
     },
     "Townlanurture/aegis-skin-terminal": {
       "d066d80d8095": {
         "src": "Aegis Skin Terminal: local-first CS2 trading workspace with a fee-aware spread scanner, vault workspace and offline Steam Guard codes.",
         "zh-Hans": "Aegis Skin Terminal: 本地优先的 CS2 交易工作区，配备感知费用的价差扫描器、保管库工作区和离线 Steam Guard 代码。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Aegis Skin Terminal: 本機優先的 CS2 交易工作區，配備感知費用的價差掃描器、保險庫工作區和離線 Steam Guard 代碼。",
         "ja": "Aegis Skin Terminal: 手数料を考慮したスプレッドスキャナー、保管庫ワークスペース、オフライン Steam Guard コードを備えたローカルファーストの CS2 取引ワークスペース。",
-        "ko": "Aegis Skin Terminal: 수수료를 고려한 스프레드 스캐너, 보관함 작업 공간, 오프라인 Steam Guard 코드를 갖춘 로컬 우선 CS2 거래 워크스페이스."
+        "ko": "Aegis Skin Terminal: 수수료를 고려한 스프레드 스캐너, 보관함 작업 공간, 오프라인 Steam Guard 코드를 갖춘 로컬 우선 CS2 거래 워크스페이스.",
+        "hook": {
+          "en": "Miss CS2 trading spreads? Scan profits locally with fees",
+          "ja": "CS2の価格差が見えない？手数料込みでローカル確認",
+          "ko": "CS2 가격차가 고민될 때, 수수료 따져 로컬 확인"
+        }
       }
     },
     "UniteCuttlefishBolt/Canva-Pro": {
@@ -695,10 +831,17 @@
       "4f80b5e5646a": {
         "src": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands f…",
         "zh-Hans": "适用于你的 pi 编程智能体的远程控制。Pi-Remote 可将实时 pi 终端会话镜像到任何浏览器，以便你可以查看运行过程、回复提示词以及发送命令 f…",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "適用於你的 pi 程式設計代理的遠端控制。Pi-Remote 可將即時 pi 終端機會話鏡像到任何瀏覽器，以便你可以查看執行過程、回覆提示詞以及傳送命令 f…",
         "ja": "pi コーディングエージェントのためのリモートコントロール。Pi-Remote は実行中の pi ターミナルセッションを任意のブラウザにミラーリングするため、実行の確認、プロンプトへの回答、コマンドの送信 f…",
-        "ko": "pi 코딩 에이전트를 위한 원격 제어. Pi-Remote는 라이브 pi 터미널 세션을 모든 브라우저에 미러링하므로 실행을 확인하고 프롬프트에 답변하며 명령을 전송 f…"
+        "ko": "pi 코딩 에이전트를 위한 원격 제어. Pi-Remote는 라이브 pi 터미널 세션을 모든 브라우저에 미러링하므로 실행을 확인하고 프롬프트에 답변하며 명령을 전송 f…",
+        "hook": {
+          "en": "Control your pi coding agent from any browser",
+          "zh-Hans": "在任意浏览器中远程控制 pi 智能体",
+          "zh-Hant": "在任意瀏覽器中遠端控制 pi 代理",
+          "ja": "ブラウザからpiのコーディングエージェントを遠隔操作",
+          "ko": "브라우저에서 pi 코딩 에이전트를 원격 제어"
+        }
       }
     },
     "ZiChuanLan/agent-purge": {
@@ -765,11 +908,18 @@
       "0b0a2285ae3f": {
         "src": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
         "zh-Hans": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "花叔開源的全球鳥類貼紙庫 · 涵蓋所有 11,064 種現生鳥類物種的貼紙，包含 43 種語言的名稱與結構化資料",
         "ja": "花叔（Huashu）がオープンソース化した世界の鳥類ステッカーライブラリ · 現生する全11,064種の鳥類ステッカー、43言語の名前と構造化データを収録",
         "ko": "화슈(Huashu)가 오픈소스로 공개한 전 세계 조류 스티커 라이브러리 · 43개 언어로 된 이름과 구조화된 데이터를 갖춘 현존하는 11,064종의 조류 스티커",
-        "en": "Huashu's open-source global bird sticker library · Stickers for all 11,064 living bird species, with names in 43 languages and structured data"
+        "en": "Huashu's open-source global bird sticker library · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+        "hook": {
+          "en": "Need bird stickers? Browse all 11,064 living bird species",
+          "zh-Hans": "找鸟类贴纸太难？集齐 11,064 种鸟",
+          "zh-Hant": "找鳥類貼紙太難？集齊 11,064 種鳥",
+          "ja": "鳥の素材が見つからない？11,064種の鳥を網羅",
+          "ko": "새 스티커가 필요할 때, 11,064종의 조류 모음"
+        }
       }
     },
     "andyhuo520/digital-human-koubo": {
@@ -849,10 +999,15 @@
       "1037a7a85ff3": {
         "src": "Roblox Game Copier 2026 - Full working installer for easy duplication and management of Roblox games on your desktop.",
         "zh-Hans": "Roblox Game Copier 2026 - 用于在桌面上轻松复制和管理 Roblox 游戏的完整可用安装程序。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Roblox Game Copier 2026 - 用於在桌面上輕鬆複製和管理 Roblox 遊戲的完整可用安裝程式。",
         "ja": "Roblox Game Copier 2026 - デスクトップ上で Roblox ゲームを簡単に複製および管理するための完全に動作するインストーラー。",
-        "ko": "Roblox Game Copier 2026 - 데스크톱에서 Roblox 게임을 쉽게 복제하고 관리할 수 있는 완전히 작동하는 설치 프로그램."
+        "ko": "Roblox Game Copier 2026 - 데스크톱에서 Roblox 게임을 쉽게 복제하고 관리할 수 있는 완전히 작동하는 설치 프로그램.",
+        "hook": {
+          "en": "Roblox Game Copier 2026 installer for desktop",
+          "ja": "Roblox Game Copier 2026 デスクトップツール",
+          "ko": "Roblox Game Copier 2026 데스크톱 복사 도구"
+        }
       }
     },
     "boardshogunfluctuate/Capri-AI": {
@@ -863,6 +1018,21 @@
         "zh-Hant": "⚡ 告訴你的 PC 該做什麼。Capri 是一款賽博龐克風格的 AI 代理，可透過 Claude Code、Codex 或 Antigravity 處理你的檔案、專案與程式碼。Windows insta…",
         "ja": "⚡ PCに指示を出すだけ。Capriは、Claude Code、Codex、またはAntigravityを通じてファイル、プロジェクト、コードを操作するサイバーパンクAIエージェントです。Windows insta…",
         "ko": "⚡ PC에 할 일을 지시하세요. Capri는 Claude Code, Codex 또는 Antigravity를 통해 파일, 프로젝트, 코드를 다루는 사이버펑크 AI 에이전트입니다. Windows insta…"
+      }
+    },
+    "caru-ini/stack-diagram": {
+      "b35b80141e99": {
+        "src": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "hook": {
+          "en": "Hate drawing architecture? Get a diagram from one sentence",
+          "ja": "構成図を描くのが面倒？一文で公式ロゴ付き図が完成",
+          "ko": "구조도 그리기 귀찮을 때, 한 문장으로 공식 다이어그램 완성"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "智能体技能：用一句话描述你的技术栈，获取带有官方徽标的架构图",
+        "zh-Hant": "代理技能：用一句話描述你的技術棧，獲取帶有官方標誌的架構圖",
+        "ja": "エージェントスキル：スタックを一文で説明し、公式ロゴ付きのアーキテクチャ図を取得",
+        "ko": "에이전트 스킬: 스택을 한 문장으로 설명하고 공식 로고가 포함된 아키텍처 다이어그램 받기"
       }
     },
     "ccch1mneyyy/dsh-go": {
@@ -977,10 +1147,17 @@
       "e9fc1888a80e": {
         "src": "A native, lightweight Git client for macOS. Manage repositories and worktrees, review diffs, and commit changes in one window.",
         "zh-Hans": "适用于 macOS 的原生、轻量级 Git 客户端。在单个窗口中管理仓库和 worktree、审查 diff 并提交更改。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "適用於 macOS 的原生、輕量級 Git 用戶端。在單個視窗中管理儲存庫和 worktree、審查 diff 並提交變更。",
         "ja": "macOS 向けのネイティブで軽量な Git クライアント。1つのウィンドウでリポジトリと worktree の管理、diff の確認、変更のコミットを実行。",
-        "ko": "macOS용 네이티브 경량 Git 클라이언트. 단일 창에서 저장소 및 worktree 관리, diff 검토, 변경 사항 커밋 수행."
+        "ko": "macOS용 네이티브 경량 Git 클라이언트. 단일 창에서 저장소 및 worktree 관리, diff 검토, 변경 사항 커밋 수행.",
+        "hook": {
+          "en": "Manage repos, diffs, and commits in a single window",
+          "zh-Hans": "单窗口搞定仓库管理、差异比对与提交",
+          "zh-Hant": "單視窗搞定倉庫管理、比對差異與提交",
+          "ja": "差分確認からコミットまで1画面で完結",
+          "ko": "저장소 관리와 커밋을 한 화면에서 해결"
+        }
       }
     },
     "emanuele-em/kanzo": {
@@ -1053,10 +1230,15 @@
       "5b03a1603ec0": {
         "src": "Startall Back 2026: Full working installer with complete configuration utility for professional desktop environments.",
         "zh-Hans": "Startall Back 2026: 适用于专业桌面环境的完整可用安装程序，配有完整的配置实用工具。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Startall Back 2026: 適用於專業桌面環境的完整可用安裝程式，配有完整的配置實用工具。",
         "ja": "Startall Back 2026: プロフェッショナルなデスクトップ環境向けの完全な構成ユーティリティを備えた、完全に動作するインストーラー。",
-        "ko": "Startall Back 2026: 전문적인 데스크톱 환경을 위한 완전한 구성 유틸리티가 포함된 완전하게 작동하는 설치 프로그램."
+        "ko": "Startall Back 2026: 전문적인 데스크톱 환경을 위한 완전한 구성 유틸리티가 포함된 완전하게 작동하는 설치 프로그램.",
+        "hook": {
+          "en": "Startall Back 2026 desktop configuration installer",
+          "ja": "Startall Back 2026 デスクトップ設定ツール",
+          "ko": "Startall Back 2026 데스크톱 설정 프로그램"
+        }
       }
     },
     "haydenschmitty/floorplan": {
@@ -1265,14 +1447,38 @@
         }
       }
     },
+    "kevinraymond/florilegium": {
+      "56540e653ad7": {
+        "src": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "hook": {
+          "en": "Tired of plain margins? Draw Delft-blue floral borders",
+          "zh-Hans": "页面太单调？画上代尔夫特蓝花卉页边",
+          "zh-Hant": "頁面太單調？畫上代爾夫特藍花卉頁邊",
+          "ja": "余白が味気ない？デルフトブルーの花柄を自動で描く",
+          "ko": "여백이 심심할 때 델프트 블루 꽃무늬를 자동으로 그리기"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "为 LuaLaTeX 程序化生成的代尔夫特蓝花卉页边，使用 Lua 绘制",
+        "zh-Hant": "為 LuaLaTeX 程式化生成的代爾夫特藍花卉頁邊，使用 Lua 繪製",
+        "ja": "Lua で描画された、LuaLaTeX 向けのプロシージャル生成デルフトブルー花柄ページ余白",
+        "ko": "Lua로 그린 LuaLaTeX용 절차적 생성 델프트 블루 꽃무늬 페이지 여백"
+      }
+    },
     "khanh020905/my-office": {
       "4f15d14c77b8": {
         "src": "Văn phòng 3D cho các phiên Claude Code · A 3D office for your Claude Code sessions",
         "zh-Hans": "适用于你的 Claude Code 会话的 3D 办公室",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "適用於你的 Claude Code 工作階段的 3D 辦公室",
         "ja": "Claude Code セッション用の 3D オフィス",
-        "ko": "Claude Code 세션을 위한 3D 사무실"
+        "ko": "Claude Code 세션을 위한 3D 사무실",
+        "hook": {
+          "en": "A 3D office for your Claude Code sessions",
+          "zh-Hans": "为 Claude Code 打造 3D 办公空间",
+          "zh-Hant": "為 Claude Code 打造 3D 辦公空間",
+          "ja": "Claude Code用の3Dオフィス空間",
+          "ko": "Claude Code를 위한 3D 오피스 공간"
+        }
       }
     },
     "konlu/story-studio": {
@@ -1304,10 +1510,17 @@
       "882bfa7e576e": {
         "src": "Auditable code review skill for Claude Code and Codex: four independent probes, evidence-backed findings, and a JSON-derived merge gate.",
         "zh-Hans": "适用于 Claude Code 和 Codex 的可审计代码审查技能：四个独立探针、以证据为支撑的发现以及基于 JSON 的合并门禁。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "適用於 Claude Code 和 Codex 的可審計程式碼審查技能：四個獨立探針、以證據為支援的發現以及基於 JSON 的合併閘道。",
         "ja": "Claude Code および Codex 向けの監査可能なコードレビューのスキル：4つの独立したプローブ、証拠に基づく指摘事項、JSON 由来のマージゲート。",
-        "ko": "Claude Code 및 Codex를 위한 감사 가능한 코드 검토 스킬: 4개의 독립 프로브, 증거 기반 결과, JSON 파생 병합 게이트."
+        "ko": "Claude Code 및 Codex를 위한 감사 가능한 코드 검토 스킬: 4개의 독립 프로브, 증거 기반 결과, JSON 파생 병합 게이트.",
+        "hook": {
+          "en": "Check code with clear evidence before you merge",
+          "zh-Hans": "代码审查有据可依，合并更有把握",
+          "zh-Hant": "程式碼審查有據可依，合并不怕出錯",
+          "ja": "確かな根拠でコード検証を助けるレビュー用スキル",
+          "ko": "명확한 근거로 코드 검증을 돕는 리뷰 스킬"
+        }
       }
     },
     "mochiiwuff/capri-desktop": {
@@ -1386,10 +1599,17 @@
       "f24f9c5c33ef": {
         "src": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP…",
         "zh-Hans": "使用 cheap-ag 将你的 Claude 用量提升 50 倍。Opus 制定计划，极低成本的模型编写每一行代码，测试决定交付内容。你的 20 美元套餐不再达到上限。一个 MCP…",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "使用 cheap-ag 將你的 Claude 用量提升 50 倍。Opus 制定計劃，極其便宜的模型撰寫每一行程式碼，測試決定交付內容。你的 20 美元方案不再達到上限。一個 MCP…",
         "ja": "cheap-ag で Claude の使用量を 50 倍に。Opus が計画し、非常に安価なモデルがすべての行を書き、テストが出荷内容を決定します。20 ドルのプランが上限に達することはなくなります。1つの MCP…",
-        "ko": "cheap-ag로 Claude 사용량을 50배 늘리세요. Opus가 계획하고, 매우 저렴한 모델이 모든 줄을 작성하며, 테스트를 통해 출시 항목을 결정합니다. $20 요금제가 한도에 도달하지 않게 됩니다. 하나의 MCP…"
+        "ko": "cheap-ag로 Claude 사용량을 50배 늘리세요. Opus가 계획하고, 매우 저렴한 모델이 모든 줄을 작성하며, 테스트를 통해 출시 항목을 결정합니다. $20 요금제가 한도에 도달하지 않게 됩니다. 하나의 MCP…",
+        "hook": {
+          "en": "Stop hitting limits on your Claude subscription",
+          "zh-Hans": "避免用尽 Claude 额度，低成本写代码",
+          "zh-Hant": "避免用盡 Claude 配額，低成本寫程式",
+          "ja": "Claudeの利用制限を気にせずコード作成",
+          "ko": "Claude 사용량 한도 걱정 없이 코드 작성"
+        }
       }
     },
     "mythicassemblyladle/RX-11-Audio-Editor": {
@@ -1430,11 +1650,16 @@
       "8b038f27c970": {
         "src": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
         "zh-Hans": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个技能，一套设计系统；作品库、内容生产工作流、语气档案",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "歸藏设计 · DeepSeek Harness 插件：網頁 PPT、圖文卡片、網頁排版、去 AI 味四個技能，一套設計系統；作品庫、內容生產工作流、語氣檔案",
         "ja": "歸藏设计 · DeepSeek Harness プラグイン：Web PPT、画像・テキストカード、Web組版、AI感を消す4つのスキル、1つのデザインシステム；作品ライブラリ、コンテンツ制作ワークフロー、トーンプロファイル",
         "ko": "歸藏设计 · DeepSeek Harness 플러그인: 웹 PPT, 이미지·텍스트 카드, 웹 조판, AI 느낌 없애기 4개 스킬, 하나의 디자인 시스템; 작품 라이브러리, 콘텐츠 제작 워크플로, 톤 프로필",
-        "en": "歸藏设计 · DeepSeek Harness plugin: web PPT, graphic cards, web layout, de-AI four skills, a design system; showcase library, content production workflow, tone profile"
+        "en": "歸藏设计 · DeepSeek Harness plugin: web PPT, graphic cards, web layout, de-AI four skills, a design system; showcase library, content production workflow, tone profile",
+        "hook": {
+          "en": "Content feels too AI? Design slides and pages with 4 skills",
+          "ja": "AI臭さが抜けない？4つのスキルでデザインを整える",
+          "ko": "AI 티가 너무 날 때 4개 스킬로 디자인을 깔끔하게 정리"
+        }
       }
     },
     "patch-gg/anymove": {
@@ -1465,10 +1690,17 @@
       "d514651ff71d": {
         "src": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
         "zh-Hans": "244 个像素艺术效果，每一个都是一小段代码。外加一个用于制作自己效果的 Claude Code 技能。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "244 個像素藝術效果，每一個都是一小段程式碼。外加一個用於製作自己效果的 Claude Code 技能。",
         "ja": "244種類のピクセルアートエフェクト、すべてが小さなコード片。さらに独自の作品を作成するための Claude Code スキルも付属。",
-        "ko": "244개의 픽셀 아트 효과, 각각은 작은 코드 조각. 자신만의 효과를 만들 수 있는 Claude Code 스킬도 포함."
+        "ko": "244개의 픽셀 아트 효과, 각각은 작은 코드 조각. 자신만의 효과를 만들 수 있는 Claude Code 스킬도 포함.",
+        "hook": {
+          "en": "Need pixel art effects? Pick from 244 small code snippets",
+          "zh-Hans": "缺像素特效？244段简短代码直接套用",
+          "zh-Hant": "缺像素特效？244段簡短程式碼直接套用",
+          "ja": "ドット絵演出に悩んだら244本の短いコードを貼るだけ",
+          "ko": "도트 효과가 고민일 때 244개 짧은 코드로 바로 해결"
+        }
       }
     },
     "qybaihe/bla": {
@@ -1655,20 +1887,50 @@
       "efbdb7c92574": {
         "src": "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whispe…",
         "zh-Hans": "用于 YouTube 解说视频的 AI 动态图形：74 个动画 HTML 解说面板（图表、图解、韦恩图、时间线、热力图），与你的语音同步，借助 Whispe…",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "用於 YouTube 解說影片的 AI 動態圖形：74 個動畫 HTML 解說面板（圖表、圖解、韋恩圖、時間線、熱力圖），與你的語音同步，借助 Whispe…",
         "ja": "YouTube解説動画向けAIモーショングラフィックス：74個のアニメーションHTML解説ボード（チャート、図、ベン図、タイムライン、ヒートマップ）、あなたの音声と同期、Whispe…",
-        "ko": "YouTube 설명 동영상용 AI 모션 그래픽: 74개의 애니메이션 HTML 설명 보드(차트, 다이어그램, 벤 다이어그램, 타임라인, 히트맵), 당신의 음성과 동기화, Whispe…"
+        "ko": "YouTube 설명 동영상용 AI 모션 그래픽: 74개의 애니메이션 HTML 설명 보드(차트, 다이어그램, 벤 다이어그램, 타임라인, 히트맵), 당신의 음성과 동기화, Whispe…",
+        "hook": {
+          "en": "Tired of animating explainers? Sync 74 boards to your voice",
+          "zh-Hans": "解说动效难做？74个看板随语音同步",
+          "zh-Hant": "解說動效難做？74個看板隨語音同步",
+          "ja": "解説動画の演出が大変？74種のボードを音声と同期",
+          "ko": "해설 영상 제작이 막막할 때 74개 보드를 음성과 동기화"
+        }
+      }
+    },
+    "sleepy-zone/ai-ref-library-cn": {
+      "3c56b6af547f": {
+        "src": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+        "hook": {
+          "en": "Hard to prompt AI art? Reference faces, poses, and outfits",
+          "zh-Hans": "AI作图缺参考？备齐脸型姿势与服装",
+          "zh-Hant": "AI作圖缺參考？備齊臉型姿勢與服裝",
+          "ja": "AI作画の参考が欲しい？顔・ポーズ・服装の素材集",
+          "ko": "AI 그림 소재가 부족할 때, 얼굴·포즈·의상 레퍼런스"
+        },
+        "seen": "2026-11-02",
+        "zh-Hans": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+        "zh-Hant": "AI 作圖素材庫 · 中文版（臉 / 姿勢 / 服裝）",
+        "ja": "AI 作図素材ライブラリ · 中国語版（顔 / ポーズ / 服装）",
+        "ko": "AI 작화 소재 라이브러리 · 중국어판 (얼굴 / 포즈 / 의상)",
+        "en": "AI drawing asset library · Chinese version (face / pose / clothing)"
       }
     },
     "solderdatabraid29/aegis-vaultgrid": {
       "27d15dbb20e2": {
         "src": "Aegis VaultGrid: pairs a CS2 inventory vault with a fee-aware order planner. Local JSON state, no account needed to browse.",
         "zh-Hans": "Aegis VaultGrid: 将 CS2 库存保险库与感知费用的订单规划器相结合。本地 JSON 状态，无需账户即可浏览。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Aegis VaultGrid: 將 CS2 庫存保險庫與感知費用的訂單規劃器相結合。本機 JSON 狀態，無需帳戶即可瀏覽。",
         "ja": "Aegis VaultGrid: CS2 インベントリ保管庫と手数料を考慮した注文プランナーを連携。ローカル JSON 状態、閲覧にアカウントは不要。",
-        "ko": "Aegis VaultGrid: CS2 인벤토리 보관함과 수수료를 고려한 주문 플래너를 결합. 로컬 JSON 상태, 둘러보는 데 계정 불필요."
+        "ko": "Aegis VaultGrid: CS2 인벤토리 보관함과 수수료를 고려한 주문 플래너를 결합. 로컬 JSON 상태, 둘러보는 데 계정 불필요.",
+        "hook": {
+          "en": "Hard to plan CS2 orders with fees? Browse with no account",
+          "ja": "CS2の注文手数料が不安？アカウント不要で計画",
+          "ko": "CS2 주문 수수료가 고민될 때, 계정 없이 바로 계획"
+        }
       }
     },
     "t3dotgg/tstack": {
@@ -1699,10 +1961,17 @@
       "3992d2ac4d2c": {
         "src": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
         "zh-Hans": "Persona AI SDK：集默认人设、持久化角色记忆与 Bedrock/OpenAI 适配器于一体的软件包。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "Persona AI SDK：集預設人設、持久化角色記憶與 Bedrock/OpenAI 適配器於一體的套件。",
         "ja": "Persona AI SDK：デフォルトのペルソナ、永続的なキャラクターメモリ、Bedrock/OpenAIアダプターを1つのパッケージに統合。",
-        "ko": "Persona AI SDK: 기본 페르소나, 지속성 있는 캐릭터 기억, Bedrock/OpenAI 어댑터를 하나의 패키지에 담았습니다."
+        "ko": "Persona AI SDK: 기본 페르소나, 지속성 있는 캐릭터 기억, Bedrock/OpenAI 어댑터를 하나의 패키지에 담았습니다.",
+        "hook": {
+          "en": "AI forgets conversations? Give characters durable memory",
+          "zh-Hans": "AI总记不住聊天？为角色添上持久记忆",
+          "zh-Hant": "AI總記不住聊天？為角色添上持久記憶",
+          "ja": "AIが会話を忘れてしまう？キャラに長期記憶を即追加",
+          "ko": "대화를 자꾸 잊는 AI, 캐릭터에게 오래가는 기억을"
+        }
       }
     },
     "thomasunise/argus": {
@@ -1733,11 +2002,18 @@
       "01c5685b5e38": {
         "src": "把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。",
         "zh-Hans": "把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "把帶原始碼依據的專案說明變成三張 README 圖：功能流程、簡化架構、快速上手。本地 SVG 渲染器 + Agent Skill，無需 API Key。",
         "ja": "ソースコードの根拠を持つプロジェクト説明を3枚の README 図（機能フロー、簡略化アーキテクチャ、クイックスタート）に変換。ローカル SVG レンダラー + Agent Skill、API Key 不要。",
         "ko": "소스 코드 근거가 있는 프로젝트 설명을 3장의 README 다이어그램(기능 흐름, 단순화된 아키텍처, 빠른 시작)으로 변환합니다. 로컬 SVG 렌더러 + Agent Skill, API Key 불필요.",
-        "en": "Turn project documentation with source code evidence into three README diagrams: feature flow, simplified architecture, and quick start. Local SVG renderer + Agent Skill, no API Key required."
+        "en": "Turn project documentation with source code evidence into three README diagrams: feature flow, simplified architecture, and quick start. Local SVG renderer + Agent Skill, no API Key required.",
+        "hook": {
+          "en": "Turn project docs into three README diagrams locally",
+          "zh-Hans": "本地将项目说明生成三张 README 架构图",
+          "zh-Hant": "本機將專案說明生成三張 README 架構圖",
+          "ja": "ローカルで説明文から3枚のREADME図を生成",
+          "ko": "로컬에서 프로젝트 설명으로 README 다이어그램 생성"
+        }
       }
     },
     "twilightstonerestore/Glary-Utilities-Pro": {
@@ -1828,10 +2104,17 @@
       "2948c35a9fd0": {
         "src": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
         "zh-Hans": "一款适用于 Android 的设备端 AI 智能体，可通过操作 App 和网页替你完成各项事务。",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "一款適用於 Android 的裝置端 AI 代理，可透過操作 App 與網頁為你處理各項事務。",
         "ja": "アプリやウェブを操作して作業をこなしてくれる、Android向けのオンデバイスAIエージェント。",
-        "ko": "앱과 웹을 조작하여 사용자를 대신해 작업을 처리해 주는 Android용 온디바이스 AI 에이전트."
+        "ko": "앱과 웹을 조작하여 사용자를 대신해 작업을 처리해 주는 Android용 온디바이스 AI 에이전트.",
+        "hook": {
+          "en": "Too many taps? Let an AI agent run apps and web for you",
+          "zh-Hans": "手机琐事太多？让智能体替你操作应用",
+          "zh-Hant": "手機瑣事太多？讓代理替你操作應用",
+          "ja": "スマホ操作が面倒なら、エージェントにお任せ",
+          "ko": "귀찮은 앱 작업, 에이전트가 대신 실행해 줘요"
+        }
       },
       "fbc4ac54e724": {
         "src": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
@@ -1906,15 +2189,33 @@
         }
       }
     },
+    "zhanghao123vip/ai-manju-skills": {
+      "ea27e5d1abfd": {
+        "src": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+        "zh-Hans": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+        "seen": "2026-11-02",
+        "zh-Hant": "21 個題材的 AI 漫劇全流程 Skill：一句點子生成企劃案、資產圖提示詞、分集劇本、分鏡與影片提示詞。可用於 Claude Code、WorkBuddy、DeepSeek",
+        "ja": "21の題材に対応した AI 漫劇全工程 Skill：ワンアイデアから企画書、アセット画像プロンプト、各話脚本、絵コンテと動画プロンプトを生成。Claude Code、WorkBuddy、DeepSeek で利用可能",
+        "ko": "21개 소재의 AI 만화 드라마 전체 프로세스 Skill: 한 줄 아이디어로 기획서, 에셋 이미지 프롬프트, 회차별 대본, 스토리보드 및 비디오 프롬프트 생성. Claude Code, WorkBuddy, DeepSeek에 사용 가능",
+        "en": "Full-process AI comic drama Skill for 21 genres: generate proposals, asset image prompts, episode scripts, storyboards, and video prompts from a single idea. Can be used for Claude Code, WorkBuddy, DeepSeek"
+      }
+    },
     "zklmiao/prompt-vault": {
       "5d06eadc2d04": {
         "src": "本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows",
         "zh-Hans": "本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows",
-        "seen": "2026-11-01",
+        "seen": "2026-11-02",
         "zh-Hant": "本機優先的提示詞收藏桌面工具 · Tauri 2 + React 19 + TypeScript · 適用於 Windows 的本機優先提示詞保管庫",
         "ja": "ローカル優先のプロンプト収集デスクトップツール · Tauri 2 + React 19 + TypeScript · Windows 向けのローカル優先プロンプト保管庫",
         "ko": "로컬 우선 프롬프트 수집 데스크톱 도구 · Tauri 2 + React 19 + TypeScript · Windows용 로컬 우선 프롬프트 보관함",
-        "en": "Local-first prompt collection desktop tool · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows"
+        "en": "Local-first prompt collection desktop tool · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows",
+        "hook": {
+          "en": "Scattered prompts? Save and manage them locally on Windows",
+          "zh-Hans": "提示词到处乱放？在桌面本地统一收藏",
+          "zh-Hant": "提示詞到處亂放？在桌面本機統一收藏",
+          "ja": "プロンプトの管理に困ったら、ローカルで保存",
+          "ko": "프롬프트 찾기 번거로울 때, 로컬에서 바로 보관"
+        }
       }
     }
   }

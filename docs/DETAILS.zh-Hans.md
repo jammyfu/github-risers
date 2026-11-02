@@ -117,60 +117,60 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 让设备端 AI 智能体帮你操作应用与网页 | 面向 Android 的端侧 AI 智能体，可操作应用和网页为你完成任务。 |
-| [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) |  | 智能体技能：用一句话描述你的技术栈，即可获取带有官方徽标的架构图 |
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 手机琐事太多？让智能体替你操作应用 | 一款适用于 Android 的设备端 AI 智能体，可通过操作 App 和网页替你完成各项事务。 |
+| [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) |  | Agent skill: describe your stack in a sentence, get an architecture diagram with official logos |
 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 代码库怎么拼起来的，看这张图 | 看清你的应用究竟是如何拼装在一起的。一张可交互、用通俗英语讲解的代码库地图，由 Claude 或 Codex 绘制。 |
-| [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 动效难还原？逐帧拆解并验证完全一致 | 一个逐帧逆向任何动画、然后证明副本运动完全相同的 Claude Code 技能。 |
-| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 让 AI 指挥官率领集群自主完成渗透测试 | 自主渗透测试军团 — AI 指挥官 + 工作节点集群 + 分层事实-意图图谱。第 3 届 Tencent 智能攻防线上冠军 (634 支队伍 · 8h una… |
-| [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | 鸟类素材难找齐？收录全部现存鸟类贴纸 | 花叔开源的全球鸟类贴纸库 · 包含全部 11,064 种现存鸟类贴纸，提供 43 种语言名称及结构化数据 |
-| [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) |  | AI 作图素材库 · 中文版（脸 / 姿势 / 服装） |
-| [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 抓取抖音视频的完整评论与楼中楼回复 | 抓取抖音单条视频完整评论区（一级 + 楼中楼）的智能体技能：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK |
-| [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) | 为 AI 角色赋予持久记忆与预设人设 | Persona AI SDK：在一个包中提供默认人设、持久化角色记忆以及 Bedrock/OpenAI 适配器。 |
-| [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | 不用 root，手机装个 APK 就能自动操作 | 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku |
-| [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 只要一句点子，直接生成完整 AI 漫剧 | 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek |
-| [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) | 用中文读斯坦福课，带你做 AI 智能体 | 斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes. |
+| [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 动效抄不像？逐帧还原并验证完全一致 | 一个逐帧逆向任何动画、随后验证副本运动完全一致的 Claude Code 技能。 |
+| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 安全测试太费劲？让 AI 军团自主排查 | 自主渗透测试军团 —— AI 指挥官 + 工蜂集群 + 分层事实-意图图谱。第三届腾讯智慧攻防在线冠军（634 支队伍 · 8h una… |
+| [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | 找鸟类贴纸太难？集齐 11,064 种鸟 | 花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data |
+| [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | AI作图缺参考？备齐脸型姿势与服装 | AI 作图素材库 · 中文版（脸 / 姿势 / 服装） |
+| [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 抖音评论抓不全？完整抓取所有楼中楼 | 抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK |
+| [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) | AI总记不住聊天？为角色添上持久记忆 | Persona AI SDK：集默认人设、持久化角色记忆与 Bedrock/OpenAI 适配器于一体的软件包。 |
+| [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) |  | 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku |
+| [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) |  | 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek |
+| [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) |  | 斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes. |
 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | 一段 AI 视频，给任何生物做动作捕捉 | 只用一段 AI 视频，为任何生物做动作捕捉：一个画面里两个机位、DINOv2 关节识别、在两个视角中拟合骨架，输出 GLB。 |
-| [Balanov/baiagent-director](https://github.com/Balanov/baiagent-director) | 在本地免费获取有据可查的 AI 商业方案 | 免费的本地优先 AI 商业顾问，具备证据关联的研究和可验证的试点计划。 |
+| [Balanov/baiagent-director](https://github.com/Balanov/baiagent-director) |  | 免费的本地优先 AI 商业顾问，具备证据关联的研究与可验证的试点计划。 |
 | [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | 让 AI 把仓库面临的威胁理清楚 | 面向 AI 编程智能体的威胁建模：让 Claude Code、Codex 或任何智能体读取你的仓库，生成有证据可追溯的威胁模型。36 种架构，29 种方法，… |
 | [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | 追到新词，一下午上线一个 AI 站 | 为每个新关键词上线一个赚钱的 AI 网站。基于 Cloudflare 的启动模板，含登录认证、积分、支付和 AI 生成。/ 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起… |
-| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | 选 341 种风格，一键渲染代码动画 | 341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。 |
+| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) |  | 341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。 |
 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 整段视频，压成一张分镜图 | 面向 DeepSeek Harness 的场景感知分镜：把 9–16 个带编号的格子，连同时间戳、文字稿和音频包络，打包进同一张图（384 个 token）。两个工具… |
-| [rubenhassid1/remake](https://github.com/rubenhassid1/remake) | 像素级复刻任意网站，改造成自己的 | 使用 Claude Code 逐像素复刻任何网站，然后将其化为己有。 |
+| [rubenhassid1/remake](https://github.com/rubenhassid1/remake) |  | 使用 Claude Code 逐像素复刻任何网站，然后将其化为己有。 |
 | [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | 一个知识点，做成带出处的短片 | Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片） |
-| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 扫出应用数据流向，给出可回滚的修复 | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes. |
-| [Balanov/uncut](https://github.com/Balanov/uncut) | 不偷删上下文，无损运行本地编程智能体 | 适用于 Shell、CI 和本地模型的 7 MB 无损编码智能体 harness。无 TUI。无静默上下文裁剪。 |
-| [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 输入想法，在麦块一键放置或撤销建筑 | 输入你想建造的内容，在你的 Minecraft 世界中将其视为蓝图，一步放置并一步撤销。Fabric 伴侣、Paper 插件、免费本地 mo… |
-| [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 先确认智能体改动，随时撤销防止误改 | 该 Roblox Studio 智能体所做的每一项更改都是由你先批准的 place diff。用一个 Ctrl+Z 倒回任意轮次，测试在副本上运行，因此实时数据绝不 move… |
-| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 让低价模型写代码，告别使用额度限制 | 用 cheap-ag 将你的 Claude 使用量提升 50x。Opus 规划，极其便宜的模型编写每一行，测试决定交付内容。你的 $20 方案不再触及限制。一个 MCP… |
-| [OriginShaper/Microsoft-365](https://github.com/OriginShaper/Microsoft-365) |  | Microsoft 365 桌面实用工具配置 - 完整的独立安装设置，所有功能已激活，即开即用。 |
-| [GravityHazeWay13/DxO-PhotoLab-10](https://github.com/GravityHazeWay13/DxO-PhotoLab-10) |  | 即开即用的 Dxo Photolab 10 桌面安装构建版本，完全激活并已为专业照片处理准备就绪。 |
-| [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | 在浏览器查看终端，远程控制编程智能体 | 适用于你的 pi 编码智能体的远程控制。Pi-Remote 将实时的 pi 终端会话镜像到任何浏览器，以便你可以观看运行、回答提示词并发送命令 f… |
-| [tianfuzhibuyuci/readme-visual-kit](https://github.com/tianfuzhibuyuci/readme-visual-kit) | README 没人看？把项目说明变成三张图 | 把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。 |
-| [khanh020905/my-office](https://github.com/khanh020905/my-office) | 把 Claude Code 会话搬进 3D 办公室 | Claude Code 会话的 3D 办公室 · 适用于你的 Claude Code 会话的 3D 办公室 |
-| [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 代码该不该合并？用证据帮你把关 | 适用于 Claude Code 和 Codex 的可审计代码审查技能：四个独立探针、有证据支持的发现以及基于 JSON 的合并门禁。 |
-| [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 在一个窗口里比对差异并提交修改 | 一款适用于 macOS 的原生、轻量级 Git 客户端。在一个窗口中管理仓库与 worktrees、查看 diff 以及提交更改。 |
-| [Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool) | Unlocktool 2026 桌面配置工具安装程序 | Unlocktool 2026：专业桌面配置实用工具的完整可用安装程序，开箱即用。 |
-| [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) |  | Windows Optimizer 2026 - 包含高级系统调整与优化、开箱即用的完整可用安装程序。 |
-| [gryphonautocratmatch/StartAll-Back](https://github.com/gryphonautocratmatch/StartAll-Back) |  | Startall Back 2026：面向专业桌面环境、附带完整配置实用工具的完整可用安装程序。 |
-| [azurerockcode/Roblox-Game-Copier](https://github.com/azurerockcode/Roblox-Game-Copier) | Roblox Game Copier 2026 桌面安装程序 | Roblox Game Copier 2026 - 用于在桌面轻松复制和管理 Roblox 游戏的完整可用安装程序。 |
-| [CelestialStarfish/Ads-Blocker](https://github.com/CelestialStarfish/Ads-Blocker) |  | Ads Blocker 2026：具备完整广告拦截功能的完整可用安装程序。已准备好在桌面上运行。 |
-| [Pauseoruncouple/Genesis-Miner](https://github.com/Pauseoruncouple/Genesis-Miner) |  | Genesis Miner 2026：完整独立安装包，所有功能已预激活、开箱即用的完整可用安装程序。 |
+| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) |  | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes. |
+| [Balanov/uncut](https://github.com/Balanov/uncut) |  | A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts. |
+| [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 输入建筑想法，在游戏中一键放置或撤销 | 输入你想建造的内容，在你的 Minecraft 世界中将其视为蓝图，一步放置并一步撤销。Fabric 伴侣、Paper 插件、免费本地 mo… |
+| [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) |  | 这款 Roblox Studio 智能体所做的每一项更改都是由你先批准的 place diff。只需一次 Ctrl+Z 即可回退任何轮次，测试游玩在副本上运行，因此实际数据绝不会移动… |
+| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 避免用尽 Claude 额度，低成本写代码 | 使用 cheap-ag 将你的 Claude 用量提升 50 倍。Opus 制定计划，极低成本的模型编写每一行代码，测试决定交付内容。你的 20 美元套餐不再达到上限。一个 MCP… |
+| [OriginShaper/Microsoft-365](https://github.com/OriginShaper/Microsoft-365) |  | Microsoft 365 桌面实用工具配置 - 完整的独立安装设置，已激活所有功能，开箱即用。 |
+| [GravityHazeWay13/DxO-PhotoLab-10](https://github.com/GravityHazeWay13/DxO-PhotoLab-10) |  | 开箱即用的 Dxo Photolab 10 桌面安装构建版本，已完全激活，随时可用于专业照片处理。 |
+| [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | 在任意浏览器中远程控制 pi 智能体 | 适用于你的 pi 编程智能体的远程控制。Pi-Remote 可将实时 pi 终端会话镜像到任何浏览器，以便你可以查看运行过程、回复提示词以及发送命令 f… |
+| [tianfuzhibuyuci/readme-visual-kit](https://github.com/tianfuzhibuyuci/readme-visual-kit) | 本地将项目说明生成三张 README 架构图 | 把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。 |
+| [khanh020905/my-office](https://github.com/khanh020905/my-office) | 为 Claude Code 打造 3D 办公空间 | 适用于你的 Claude Code 会话的 3D 办公室 |
+| [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 代码审查有据可依，合并更有把握 | 适用于 Claude Code 和 Codex 的可审计代码审查技能：四个独立探针、以证据为支撑的发现以及基于 JSON 的合并门禁。 |
+| [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 单窗口搞定仓库管理、差异比对与提交 | 适用于 macOS 的原生、轻量级 Git 客户端。在单个窗口中管理仓库和 worktree、审查 diff 并提交更改。 |
+| [Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool) | Unlocktool 2026 桌面配置工具安装包 | Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run. |
+| [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) |  | Windows Optimizer 2026 - 包含高级系统微调与优化、随时可运行的完整可用安装程序。 |
+| [gryphonautocratmatch/StartAll-Back](https://github.com/gryphonautocratmatch/StartAll-Back) |  | Startall Back 2026: 适用于专业桌面环境的完整可用安装程序，配有完整的配置实用工具。 |
+| [azurerockcode/Roblox-Game-Copier](https://github.com/azurerockcode/Roblox-Game-Copier) |  | Roblox Game Copier 2026 - 用于在桌面上轻松复制和管理 Roblox 游戏的完整可用安装程序。 |
+| [CelestialStarfish/Ads-Blocker](https://github.com/CelestialStarfish/Ads-Blocker) | Ads Blocker 2026 桌面广告拦截安装包 | Ads Blocker 2026：具备完整广告拦截功能的完整可用安装程序。已准备好在桌面上运行。 |
+| [Pauseoruncouple/Genesis-Miner](https://github.com/Pauseoruncouple/Genesis-Miner) |  | Genesis Miner 2026: Complete standalone setup, ready-to-run full working installer with all features pre-activated. |
 | [CourtHunterKey/Discord-Quest-Completer](https://github.com/CourtHunterKey/Discord-Quest-Completer) |  | Discord Quest Completer 2026 - 完整可用的安装程序，开箱即用的桌面实用工具，所有任务均已预先配置。 |
-| [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) | AnyUnlock 2026 工具配置安装程序 | AnyUnlock 2026: 完整可用的安装程序，可快速轻松地访问所有实用工具配置。 |
+| [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) |  | AnyUnlock 2026: Full working installer for quick and easy access to all utility configurations. |
 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | 昵称邮箱电话，查遍 3,100 多个站点 | Watson —— 免费的 Windows OSINT 工具：按昵称、邮箱、电话或网站，在 3,100 多个公开站点上搜索人物。让开源情报变得简单：digi… |
 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | 视频换角色，一键在本机完成 | 一键为视频换角色：基于 ComfyUI 和 MiniMax H3 构建的开源本地版 Higgsfield Genjutsu 替代方案，并用 FLUX.3 Klein 重新打光。 |
-| [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) |  | Aegis SpreadWatch: 让 CS2 买卖机会清晰易读 — 在设备端计算每个平台的净利润、ROI 和手续费假设。 |
-| [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) |  | 适用于 3D 和动画网站的八个智能体技能: 从代码构建 three.js 场景、滚动胶卷、透明视频、光标绑定、爆炸图、AI 动作资产、bro… |
-| [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) |  | Aegis VaultGrid: 将 CS2 库存保险库与考虑费用的订单规划器相结合。本地 JSON 状态，无需账户即可浏览。 |
-| [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) |  | Aegis Skin Terminal: 本地优先的 CS2 交易工作区，配备考虑费用的价差扫描器、保险库工作区和离线 Steam Guard 验证码。 |
-| [Forward-Future/folio](https://github.com/Forward-Future/folio) |  | Folio — 一款适用于 Windows 的简约、整洁、开源 PDF 阅读器 |
-| [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) |  | 本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows |
+| [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) |  | Aegis SpreadWatch: 让 CS2 买卖机会清晰可见——每个交易场所的净利润、ROI 和费用假设，均在设备端计算。 |
+| [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) |  | Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, bro… |
+| [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) |  | Aegis VaultGrid: 将 CS2 库存保险库与感知费用的订单规划器相结合。本地 JSON 状态，无需账户即可浏览。 |
+| [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) |  | Aegis Skin Terminal: 本地优先的 CS2 交易工作区，配备感知费用的价差扫描器、保管库工作区和离线 Steam Guard 代码。 |
+| [Forward-Future/folio](https://github.com/Forward-Future/folio) |  | Folio — 一款适用于 Windows 的简单、简洁的开源 PDF 阅读器 |
+| [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | 提示词到处乱放？在桌面本地统一收藏 | 本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | 六十四卦做成动画，全靠代码 | 《易经》六十四卦结构动画 · 完全用代码制作的《易经》六十四卦动态图形（Remotion + React） |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | 录音笔的录音，转成能搜的文字 | OpenMinutes · 录音笔工作台：MemoTalk S1 录音的导入 · 转录 · AI 归类 · 检索复盘（Floatboat Workbench 开源实现） |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | 画出 AI 工作流，在自己电脑上跑 | 面向可视化工作流和自主智能体的智能体式 AI 平台。可用 Docker 在你自己的电脑或服务器上运行。 |
-| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 像素特效难画？直接复制代码还能自制 | 244 种像素艺术特效，每一个都是一小段代码。外加一个制作属于你自己的效果的 Claude Code 技能。 |
-| [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 排版边距太单调？自动画出青花瓷花边 | 为 LuaLaTeX 程序化生成的代尔夫特蓝花卉页面边距，使用 Lua 绘制 |
-| [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | 排版太有 AI 味？用设计技能重塑风格 | 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案 |
+| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 缺像素特效？244段简短代码直接套用 | 244 个像素艺术效果，每一个都是一小段代码。外加一个用于制作自己效果的 Claude Code 技能。 |
+| [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 页面太单调？画上代尔夫特蓝花卉页边 | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
+| [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) |  | 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个技能，一套设计系统；作品库、内容生产工作流、语气档案 |
 | [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation) | 代码动画难做？文案与声音直接生成 | 把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。 |
 | [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | AI 智能体写的界面，帮你检查设计规范 | 针对通过 AI 编程智能体构建的界面（Web 以及 SwiftUI 和 Jetpack Compose 应用）的设计规则与零依赖检查器。支持英语和土耳其语。 |
-| [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | 解说视频难做图？让动态图表跟着语音走 | 适用于 YouTube 解说视频的 AI 动态图形：74 个动态 HTML 解说面板（图表、架构图、文氏图、时间线、热力图），通过 Whispe… 与你的语音同步 |
+| [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | 解说动效难做？74个看板随语音同步 | 用于 YouTube 解说视频的 AI 动态图形：74 个动画 HTML 解说面板（图表、图解、韦恩图、时间线、热力图），与你的语音同步，借助 Whispe… |

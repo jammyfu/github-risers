@@ -1,0 +1,4 @@
+{
+  "_comment": "Which texts tools/i18n_pipeline.py has already polished. key = kind|name|lang; sha = hash of the text as it is now. Safe to delete: everything is polished again.",
+  "items": {}
+}
