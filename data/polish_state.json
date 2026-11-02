@@ -1,4 +1,131 @@
 {
   "_comment": "Which texts tools/i18n_pipeline.py has already polished. key = kind|name|lang; sha = hash of the text as it is now. Safe to delete: everything is polished again.",
-  "items": {}
+  "items": {
+    "newcomer|Balanov/baiagent-director@eaa6600f4c80|zh-Hans": {
+      "sha": "18e9e09bfff9",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|Balanov/uncut@2604b8b860ad|zh-Hans": {
+      "sha": "211243649d72",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|DiplomatHearth/roblox-ai-place-diff@4cceb0513b89|zh-Hans": {
+      "sha": "857fad4b9586",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|N1nEmAn/sapper-v2@e093bc12f56f|zh-Hans": {
+      "sha": "e376d366e778",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|NiazMorshed2007/reanimate@52b096492bb2|zh-Hans": {
+      "sha": "7bcc92b710f8",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|Pluviobyte/douyin-comments@76c9aff1fc93|zh-Hans": {
+      "sha": "76c9aff1fc93",
+      "v": 1,
+      "ok": false,
+      "fails": 1
+    },
+    "newcomer|SAOS-3624/dsh-video-storyboard@e4ff78f9cb72|zh-Hans": {
+      "sha": "3dc5ac10c1c6",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|Straitbrashadow/minecraft-ai-mod-builder@1ab0822bd791|zh-Hans": {
+      "sha": "5f63df05089e",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|Verlintas/NOIR@de5c69630f29|zh-Hans": {
+      "sha": "de5c69630f29",
+      "v": 1,
+      "ok": false,
+      "fails": 1
+    },
+    "newcomer|XiaoyeCodes/code-animation-prompts@09b374f56fc0|zh-Hans": {
+      "sha": "09b374f56fc0",
+      "v": 1,
+      "ok": false,
+      "fails": 1
+    },
+    "newcomer|alchaincyf/huashu-bird-sticker@0b0a2285ae3f|zh-Hans": {
+      "sha": "0b0a2285ae3f",
+      "v": 1,
+      "ok": false,
+      "fails": 1
+    },
+    "newcomer|andyhuo520/vibe-knowledge@09f577c63726|zh-Hans": {
+      "sha": "09f577c63726",
+      "v": 1,
+      "ok": false,
+      "fails": 1
+    },
+    "newcomer|caru-ini/stack-diagram@b35b80141e99|zh-Hans": {
+      "sha": "a41a96052c61",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|haydenschmitty/floorplan@0d7b5039191e|zh-Hans": {
+      "sha": "2c9add005643",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|jackwener/DSH-Android@5b96b25575cb|zh-Hans": {
+      "sha": "52e265267608",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|jmanico/grim-prompter@63f0f920065f|zh-Hans": {
+      "sha": "66484f49a70c",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|patch-gg/anymove@eeffd1cbf6fb|zh-Hans": {
+      "sha": "98c2c88b01da",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|rubenhassid1/remake@0396323211ba|zh-Hans": {
+      "sha": "30ff2a3d18b2",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|shipwords-dev/shipwords@f5a7f45302ae|zh-Hans": {
+      "sha": "005948099674",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|sleepy-zone/ai-ref-library-cn@3c56b6af547f|zh-Hans": {
+      "sha": "a90a7ae4bde0",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|tavern-labs-ai/persona-ai-sdk@3992d2ac4d2c|zh-Hans": {
+      "sha": "4d5fde28368e",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|wanghao-SunSky/cs329z-chinese@74e5fab684ab|zh-Hans": {
+      "sha": "851fa3d5bd73",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|wangzan101/Mika@2948c35a9fd0|zh-Hans": {
+      "sha": "4a3d469c6e74",
+      "v": 1,
+      "ok": true
+    },
+    "newcomer|zhanghao123vip/ai-manju-skills@ea27e5d1abfd|zh-Hans": {
+      "sha": "ea27e5d1abfd",
+      "v": 1,
+      "ok": false,
+      "fails": 1
+    }
+  }
 }
