@@ -1,0 +1,4665 @@
+{
+  "generated_at": "2026-11-02T23:18:30Z",
+  "today_utc": "2026-11-02",
+  "slot": {
+    "name": "cn",
+    "id": "cn-0000",
+    "date": "2026-11-03",
+    "label": "Beijing 00:00",
+    "tz": "Asia/Shanghai"
+  },
+  "windows_days": {
+    "week": 7,
+    "month": 30,
+    "year": 365
+  },
+  "method": "stars = GET /repos/{r}.stargazers_count; gained = sum of daily buckets from GET /repos/{r}/stargazers/history over the N complete UTC days before today; newcomers = per-category GitHub search (topics in data/categories.json; repo must carry a category topic)",
+  "projects": [
+    {
+      "name": "morluto/rea",
+      "ok": true,
+      "stars": 422740,
+      "created_at": "2026-04-14T00:51:32Z",
+      "archived": false,
+      "github_description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 34330,
+          "effective_days": 7,
+          "per_day": 4904.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 419602,
+          "effective_days": 30,
+          "per_day": 13986.733,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 420016,
+          "effective_days": 202,
+          "per_day": 2079.287,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 422740,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "ok": true,
+      "stars": 224103,
+      "created_at": "2025-04-30T20:08:00Z",
+      "archived": false,
+      "github_description": "The open source coding agent.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2578,
+          "effective_days": 7,
+          "per_day": 368.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 13671,
+          "effective_days": 30,
+          "per_day": 455.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 195028,
+          "effective_days": 365,
+          "per_day": 534.323,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "stablyai/orca",
+      "ok": true,
+      "stars": 113572,
+      "created_at": "2026-03-17T03:28:57Z",
+      "archived": false,
+      "github_description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6941,
+          "effective_days": 7,
+          "per_day": 991.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 29569,
+          "effective_days": 30,
+          "per_day": 985.633,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 112912,
+          "effective_days": 230,
+          "per_day": 490.922,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 113572,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "ok": true,
+      "stars": 57354,
+      "created_at": "2026-06-18T14:08:44Z",
+      "archived": false,
+      "github_description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 9348,
+          "effective_days": 7,
+          "per_day": 1335.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 33053,
+          "effective_days": 30,
+          "per_day": 1101.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 56662,
+          "effective_days": 137,
+          "per_day": 413.591,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 57354,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "ok": true,
+      "stars": 77709,
+      "created_at": "2026-03-10T01:51:06Z",
+      "archived": false,
+      "github_description": "Write HTML. Render video. Built for agents.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 5020,
+          "effective_days": 7,
+          "per_day": 717.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 21653,
+          "effective_days": 30,
+          "per_day": 721.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 77306,
+          "effective_days": 237,
+          "per_day": 326.186,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 77709,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "ok": true,
+      "stars": 182863,
+      "created_at": "2026-06-12T00:52:37Z",
+      "archived": false,
+      "github_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6192,
+          "effective_days": 7,
+          "per_day": 884.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 31390,
+          "effective_days": 30,
+          "per_day": 1046.333,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 182348,
+          "effective_days": 143,
+          "per_day": 1275.161,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 182863,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "ok": true,
+      "stars": 141159,
+      "created_at": "2026-04-03T15:49:07Z",
+      "archived": false,
+      "github_description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 5381,
+          "effective_days": 7,
+          "per_day": 768.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 18134,
+          "effective_days": 30,
+          "per_day": 604.467,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 140701,
+          "effective_days": 213,
+          "per_day": 660.568,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 141159,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "ok": true,
+      "stars": 393753,
+      "created_at": "2025-11-24T10:16:47Z",
+      "archived": false,
+      "github_description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 1026,
+          "effective_days": 7,
+          "per_day": 146.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 4507,
+          "effective_days": 30,
+          "per_day": 150.233,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 393647,
+          "effective_days": 343,
+          "per_day": 1147.659,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 393753,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "ok": true,
+      "stars": 269552,
+      "created_at": "2026-08-13T11:56:32Z",
+      "archived": false,
+      "github_description": "DeepSeek Harness: Everything is a Plugin.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 7360,
+          "effective_days": 7,
+          "per_day": 1051.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 27731,
+          "effective_days": 30,
+          "per_day": 924.367,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 268781,
+          "effective_days": 81,
+          "per_day": 3318.284,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 269552,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "ok": true,
+      "stars": 295627,
+      "created_at": "2026-01-18T00:51:51Z",
+      "archived": false,
+      "github_description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6249,
+          "effective_days": 7,
+          "per_day": 892.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 25054,
+          "effective_days": 30,
+          "per_day": 835.133,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 294971,
+          "effective_days": 288,
+          "per_day": 1024.205,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 295627,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "yetone/magpie",
+      "ok": true,
+      "stars": 28379,
+      "created_at": "2026-09-23T16:22:35Z",
+      "archived": false,
+      "github_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6346,
+          "effective_days": 7,
+          "per_day": 906.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 23768,
+          "effective_days": 30,
+          "per_day": 792.267,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 28009,
+          "effective_days": 40,
+          "per_day": 700.225,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 28379,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "ok": true,
+      "stars": 108066,
+      "created_at": "2026-02-24T02:10:24Z",
+      "archived": false,
+      "github_description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 5235,
+          "effective_days": 7,
+          "per_day": 747.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 19273,
+          "effective_days": 30,
+          "per_day": 642.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 107763,
+          "effective_days": 251,
+          "per_day": 429.335,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 108066,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "ok": true,
+      "stars": 108684,
+      "created_at": "2026-02-19T21:44:05Z",
+      "archived": false,
+      "github_description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 5591,
+          "effective_days": 7,
+          "per_day": 798.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 16488,
+          "effective_days": 30,
+          "per_day": 549.6,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 108084,
+          "effective_days": 256,
+          "per_day": 422.203,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 108684,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "ok": true,
+      "stars": 144268,
+      "created_at": "2025-11-30T11:36:31Z",
+      "archived": false,
+      "github_description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 3587,
+          "effective_days": 7,
+          "per_day": 512.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 12077,
+          "effective_days": 30,
+          "per_day": 402.567,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 143947,
+          "effective_days": 337,
+          "per_day": 427.142,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 144268,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "cheaper-inference/OmniRoute",
+      "ok": true,
+      "stars": 83967,
+      "created_at": "2026-02-13T12:38:31Z",
+      "archived": false,
+      "github_description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2595,
+          "effective_days": 7,
+          "per_day": 370.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 11807,
+          "effective_days": 30,
+          "per_day": 393.567,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 83691,
+          "effective_days": 262,
+          "per_day": 319.431,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 83966,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "ok": true,
+      "stars": 110358,
+      "created_at": "2026-03-02T15:01:51Z",
+      "archived": false,
+      "github_description": "The open-source app everyone uses to manage agents at work",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2724,
+          "effective_days": 7,
+          "per_day": 389.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 14023,
+          "effective_days": 30,
+          "per_day": 467.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 110004,
+          "effective_days": 245,
+          "per_day": 448.996,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 110358,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "ok": true,
+      "stars": 151211,
+      "created_at": "2025-08-04T14:16:16Z",
+      "archived": false,
+      "github_description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2498,
+          "effective_days": 7,
+          "per_day": 356.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 12428,
+          "effective_days": 30,
+          "per_day": 414.267,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 148237,
+          "effective_days": 365,
+          "per_day": 406.129,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "ok": true,
+      "stars": 259851,
+      "created_at": "2025-07-22T22:22:28Z",
+      "archived": false,
+      "github_description": "The agent that grows with you",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2698,
+          "effective_days": 7,
+          "per_day": 385.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 10043,
+          "effective_days": 30,
+          "per_day": 334.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 259591,
+          "effective_days": 365,
+          "per_day": 711.208,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "ok": true,
+      "stars": 24008,
+      "created_at": "2026-03-21T00:28:43Z",
+      "archived": false,
+      "github_description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2283,
+          "effective_days": 7,
+          "per_day": 326.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 4837,
+          "effective_days": 30,
+          "per_day": 161.233,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 23895,
+          "effective_days": 226,
+          "per_day": 105.73,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 24008,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "ok": true,
+      "stars": 112821,
+      "created_at": "2026-02-15T20:20:26Z",
+      "archived": false,
+      "github_description": "Production-grade engineering skills for AI coding agents.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2156,
+          "effective_days": 7,
+          "per_day": 308.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 12469,
+          "effective_days": 30,
+          "per_day": 415.633,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 112620,
+          "effective_days": 260,
+          "per_day": 433.154,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 112820,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "ok": true,
+      "stars": 110698,
+      "created_at": "2025-08-31T20:50:03Z",
+      "archived": false,
+      "github_description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6863,
+          "effective_days": 7,
+          "per_day": 980.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 15196,
+          "effective_days": 30,
+          "per_day": 506.533,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 109589,
+          "effective_days": 365,
+          "per_day": 300.244,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "anthropics/skills",
+      "ok": true,
+      "stars": 186760,
+      "created_at": "2025-09-22T15:53:31Z",
+      "archived": false,
+      "github_description": "Public repository for Agent Skills",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2772,
+          "effective_days": 7,
+          "per_day": 396.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 7766,
+          "effective_days": 30,
+          "per_day": 258.867,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 171960,
+          "effective_days": 365,
+          "per_day": 471.123,
+          "young": false
+        }
+      },
+      "history_complete": true,
+      "history_total": 186760,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "astral-sh/uv",
+      "ok": true,
+      "stars": 91480,
+      "created_at": "2023-10-02T20:24:11Z",
+      "archived": false,
+      "github_description": "An extremely fast Python package and project manager, written in Rust.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 315,
+          "effective_days": 7,
+          "per_day": 45.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1265,
+          "effective_days": 30,
+          "per_day": 42.167,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 21302,
+          "effective_days": 365,
+          "per_day": 58.362,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "oven-sh/bun",
+      "ok": true,
+      "stars": 96519,
+      "created_at": "2021-04-14T00:48:17Z",
+      "archived": false,
+      "github_description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 138,
+          "effective_days": 7,
+          "per_day": 19.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 684,
+          "effective_days": 30,
+          "per_day": 22.8,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 16560,
+          "effective_days": 365,
+          "per_day": 45.37,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "biomejs/biome",
+      "ok": true,
+      "stars": 26041,
+      "created_at": "2023-07-27T20:30:22Z",
+      "archived": false,
+      "github_description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 51,
+          "effective_days": 7,
+          "per_day": 7.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 213,
+          "effective_days": 30,
+          "per_day": 7.1,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4582,
+          "effective_days": 365,
+          "per_day": 12.553,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "zed-industries/zed",
+      "ok": true,
+      "stars": 92573,
+      "created_at": "2021-02-20T03:01:06Z",
+      "archived": false,
+      "github_description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 396,
+          "effective_days": 7,
+          "per_day": 56.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1588,
+          "effective_days": 30,
+          "per_day": 52.933,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 25673,
+          "effective_days": 365,
+          "per_day": 70.337,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "helix-editor/helix",
+      "ok": true,
+      "stars": 46774,
+      "created_at": "2020-06-01T04:26:56Z",
+      "archived": false,
+      "github_description": "A post-modern modal text editor.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 101,
+          "effective_days": 7,
+          "per_day": 14.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 451,
+          "effective_days": 30,
+          "per_day": 15.033,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6766,
+          "effective_days": 365,
+          "per_day": 18.537,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "jdx/mise",
+      "ok": true,
+      "stars": 35689,
+      "created_at": "2023-01-09T14:44:21Z",
+      "archived": false,
+      "github_description": "dev tools, env vars, task runner",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 284,
+          "effective_days": 7,
+          "per_day": 40.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1193,
+          "effective_days": 30,
+          "per_day": 39.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 15052,
+          "effective_days": 365,
+          "per_day": 41.238,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "cli/cli",
+      "ok": true,
+      "stars": 46845,
+      "created_at": "2019-10-03T15:24:53Z",
+      "archived": false,
+      "github_description": "GitHub’s official command line tool",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 110,
+          "effective_days": 7,
+          "per_day": 15.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 422,
+          "effective_days": 30,
+          "per_day": 14.067,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6262,
+          "effective_days": 365,
+          "per_day": 17.156,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "BurntSushi/ripgrep",
+      "ok": true,
+      "stars": 69660,
+      "created_at": "2016-03-11T02:02:33Z",
+      "archived": false,
+      "github_description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 227,
+          "effective_days": 7,
+          "per_day": 32.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 989,
+          "effective_days": 30,
+          "per_day": 32.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 13358,
+          "effective_days": 365,
+          "per_day": 36.597,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "ok": true,
+      "stars": 38917,
+      "created_at": "2019-04-11T01:01:07Z",
+      "archived": false,
+      "github_description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 201,
+          "effective_days": 7,
+          "per_day": 28.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 761,
+          "effective_days": 30,
+          "per_day": 25.367,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 10106,
+          "effective_days": 365,
+          "per_day": 27.688,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "anchore/grype",
+      "ok": true,
+      "stars": 13163,
+      "created_at": "2020-05-26T13:44:38Z",
+      "archived": false,
+      "github_description": "A vulnerability scanner for container images and filesystems",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 49,
+          "effective_days": 7,
+          "per_day": 7.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 202,
+          "effective_days": 30,
+          "per_day": 6.733,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2355,
+          "effective_days": 365,
+          "per_day": 6.452,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "semgrep/semgrep",
+      "ok": true,
+      "stars": 17413,
+      "created_at": "2019-12-13T09:29:54Z",
+      "archived": false,
+      "github_description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 130,
+          "effective_days": 7,
+          "per_day": 18.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 580,
+          "effective_days": 30,
+          "per_day": 19.333,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4372,
+          "effective_days": 365,
+          "per_day": 11.978,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "projectdiscovery/nuclei",
+      "ok": true,
+      "stars": 32545,
+      "created_at": "2020-04-03T18:47:11Z",
+      "archived": false,
+      "github_description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 229,
+          "effective_days": 7,
+          "per_day": 32.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 917,
+          "effective_days": 30,
+          "per_day": 30.567,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7603,
+          "effective_days": 365,
+          "per_day": 20.83,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "falcosecurity/falco",
+      "ok": true,
+      "stars": 9547,
+      "created_at": "2016-01-19T21:58:12Z",
+      "archived": false,
+      "github_description": "Cloud Native Runtime Security",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 26,
+          "effective_days": 7,
+          "per_day": 3.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 123,
+          "effective_days": 30,
+          "per_day": 4.1,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1271,
+          "effective_days": 365,
+          "per_day": 3.482,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "google/osv-scanner",
+      "ok": true,
+      "stars": 11368,
+      "created_at": "2022-11-14T01:05:20Z",
+      "archived": false,
+      "github_description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 83,
+          "effective_days": 7,
+          "per_day": 11.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 240,
+          "effective_days": 30,
+          "per_day": 8.0,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3488,
+          "effective_days": 365,
+          "per_day": 9.556,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "securego/gosec",
+      "ok": true,
+      "stars": 8996,
+      "created_at": "2016-07-18T18:01:08Z",
+      "archived": false,
+      "github_description": "Go security checker",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 12,
+          "effective_days": 7,
+          "per_day": 1.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 43,
+          "effective_days": 30,
+          "per_day": 1.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 561,
+          "effective_days": 365,
+          "per_day": 1.537,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "OWASP/CheatSheetSeries",
+      "ok": true,
+      "stars": 33852,
+      "created_at": "2018-12-21T14:26:43Z",
+      "archived": false,
+      "github_description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 107,
+          "effective_days": 7,
+          "per_day": 15.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 479,
+          "effective_days": 30,
+          "per_day": 15.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3524,
+          "effective_days": 365,
+          "per_day": 9.655,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "vercel/next.js",
+      "ok": true,
+      "stars": 143234,
+      "created_at": "2016-10-05T23:32:51Z",
+      "archived": false,
+      "github_description": "The React Framework",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 155,
+          "effective_days": 7,
+          "per_day": 22.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 738,
+          "effective_days": 30,
+          "per_day": 24.6,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 10335,
+          "effective_days": 365,
+          "per_day": 28.315,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "facebook/react",
+      "ok": true,
+      "stars": 251874,
+      "created_at": "2013-05-24T16:15:54Z",
+      "archived": false,
+      "github_description": "The library for web and native user interfaces.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 346,
+          "effective_days": 7,
+          "per_day": 49.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1649,
+          "effective_days": 30,
+          "per_day": 54.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 15193,
+          "effective_days": 365,
+          "per_day": 41.625,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "vuejs/core",
+      "ok": true,
+      "stars": 54820,
+      "created_at": "2018-06-12T13:49:36Z",
+      "archived": false,
+      "github_description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 80,
+          "effective_days": 7,
+          "per_day": 11.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 410,
+          "effective_days": 30,
+          "per_day": 13.667,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3622,
+          "effective_days": 365,
+          "per_day": 9.923,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "ok": true,
+      "stars": 88538,
+      "created_at": "2016-11-20T18:13:05Z",
+      "archived": false,
+      "github_description": "web development for the rest of us",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 108,
+          "effective_days": 7,
+          "per_day": 15.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 486,
+          "effective_days": 30,
+          "per_day": 16.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 5274,
+          "effective_days": 365,
+          "per_day": 14.449,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "withastro/astro",
+      "ok": true,
+      "stars": 63677,
+      "created_at": "2021-03-15T17:19:47Z",
+      "archived": false,
+      "github_description": "The web framework for content-driven websites.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 204,
+          "effective_days": 7,
+          "per_day": 29.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 764,
+          "effective_days": 30,
+          "per_day": 25.467,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 10497,
+          "effective_days": 365,
+          "per_day": 28.759,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "ok": true,
+      "stars": 98055,
+      "created_at": "2017-10-06T14:59:14Z",
+      "archived": false,
+      "github_description": "A utility-first CSS framework for rapid UI development.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 106,
+          "effective_days": 7,
+          "per_day": 15.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 486,
+          "effective_days": 30,
+          "per_day": 16.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 8527,
+          "effective_days": 365,
+          "per_day": 23.362,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "ok": true,
+      "stars": 127202,
+      "created_at": "2023-01-04T12:43:27Z",
+      "archived": false,
+      "github_description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 668,
+          "effective_days": 7,
+          "per_day": 95.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 2623,
+          "effective_days": 30,
+          "per_day": 87.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 30353,
+          "effective_days": 365,
+          "per_day": 83.159,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "tanstack/query",
+      "ok": true,
+      "stars": 50521,
+      "created_at": "2019-09-10T19:23:58Z",
+      "archived": false,
+      "github_description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 48,
+          "effective_days": 7,
+          "per_day": 6.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 210,
+          "effective_days": 30,
+          "per_day": 7.0,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3856,
+          "effective_days": 365,
+          "per_day": 10.564,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "ok": true,
+      "stars": 128619,
+      "created_at": "2014-06-06T22:56:04Z",
+      "archived": false,
+      "github_description": "Production-Grade Container Scheduling and Management",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 203,
+          "effective_days": 7,
+          "per_day": 29.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 892,
+          "effective_days": 30,
+          "per_day": 29.733,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 11583,
+          "effective_days": 365,
+          "per_day": 31.734,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "docker/compose",
+      "ok": true,
+      "stars": 38585,
+      "created_at": "2013-12-09T11:40:58Z",
+      "archived": false,
+      "github_description": "Define and run multi-container applications with Docker",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 113,
+          "effective_days": 7,
+          "per_day": 16.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 371,
+          "effective_days": 30,
+          "per_day": 12.367,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2619,
+          "effective_days": 365,
+          "per_day": 7.175,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "ok": true,
+      "stars": 50118,
+      "created_at": "2014-03-13T22:25:48Z",
+      "archived": false,
+      "github_description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 92,
+          "effective_days": 7,
+          "per_day": 13.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 399,
+          "effective_days": 30,
+          "per_day": 13.3,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3769,
+          "effective_days": 365,
+          "per_day": 10.326,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "pulumi/pulumi",
+      "ok": true,
+      "stars": 25840,
+      "created_at": "2016-10-31T21:02:47Z",
+      "archived": false,
+      "github_description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 30,
+          "effective_days": 7,
+          "per_day": 4.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 124,
+          "effective_days": 30,
+          "per_day": 4.133,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2081,
+          "effective_days": 365,
+          "per_day": 5.701,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "ok": true,
+      "stars": 78663,
+      "created_at": "2015-01-13T19:45:03Z",
+      "archived": false,
+      "github_description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 265,
+          "effective_days": 7,
+          "per_day": 37.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 2521,
+          "effective_days": 30,
+          "per_day": 84.033,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 11877,
+          "effective_days": 365,
+          "per_day": 32.54,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "traefik/traefik",
+      "ok": true,
+      "stars": 65446,
+      "created_at": "2015-09-13T19:04:02Z",
+      "archived": false,
+      "github_description": "The Cloud Native Application Proxy",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 89,
+          "effective_days": 7,
+          "per_day": 12.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 482,
+          "effective_days": 30,
+          "per_day": 16.067,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 8713,
+          "effective_days": 365,
+          "per_day": 23.871,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "ok": true,
+      "stars": 66915,
+      "created_at": "2012-11-24T11:14:12Z",
+      "archived": false,
+      "github_description": "The Prometheus monitoring system and time series database.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 158,
+          "effective_days": 7,
+          "per_day": 22.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 698,
+          "effective_days": 30,
+          "per_day": 23.267,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6540,
+          "effective_days": 365,
+          "per_day": 17.918,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "grafana/grafana",
+      "ok": true,
+      "stars": 77645,
+      "created_at": "2013-12-11T15:59:56Z",
+      "archived": false,
+      "github_description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 173,
+          "effective_days": 7,
+          "per_day": 24.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 746,
+          "effective_days": 30,
+          "per_day": 24.867,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7869,
+          "effective_days": 365,
+          "per_day": 21.559,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "ok": true,
+      "stars": 135054,
+      "created_at": "2020-01-02T01:04:43Z",
+      "archived": false,
+      "github_description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 492,
+          "effective_days": 7,
+          "per_day": 70.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1981,
+          "effective_days": 30,
+          "per_day": 66.033,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 27021,
+          "effective_days": 365,
+          "per_day": 74.03,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "penpot/penpot",
+      "ok": true,
+      "stars": 61998,
+      "created_at": "2015-12-29T22:09:07Z",
+      "archived": false,
+      "github_description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 338,
+          "effective_days": 7,
+          "per_day": 48.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1499,
+          "effective_days": 30,
+          "per_day": 49.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 21718,
+          "effective_days": 365,
+          "per_day": 59.501,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "jgraph/drawio",
+      "ok": true,
+      "stars": 9140,
+      "created_at": "2016-09-06T12:59:15Z",
+      "archived": false,
+      "github_description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 142,
+          "effective_days": 7,
+          "per_day": 20.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 612,
+          "effective_days": 30,
+          "per_day": 20.4,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6477,
+          "effective_days": 365,
+          "per_day": 17.745,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "lottiefiles/lottie-ios",
+      "ok": true,
+      "stars": 43,
+      "created_at": "2019-12-09T03:41:33Z",
+      "archived": false,
+      "github_description": "An iOS library to natively render After Effects vector animations",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 0,
+          "effective_days": 7,
+          "per_day": 0.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 0,
+          "effective_days": 30,
+          "per_day": 0.0,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1,
+          "effective_days": 365,
+          "per_day": 0.003,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "airbnb/lottie-web",
+      "ok": true,
+      "stars": 32332,
+      "created_at": "2015-02-20T21:02:59Z",
+      "archived": false,
+      "github_description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 64,
+          "effective_days": 7,
+          "per_day": 9.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 223,
+          "effective_days": 30,
+          "per_day": 7.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1091,
+          "effective_days": 365,
+          "per_day": 2.989,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "saadeghi/daisyui",
+      "ok": true,
+      "stars": 42734,
+      "created_at": "2020-11-28T22:57:27Z",
+      "archived": false,
+      "github_description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 73,
+          "effective_days": 7,
+          "per_day": 10.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 277,
+          "effective_days": 30,
+          "per_day": 9.233,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4226,
+          "effective_days": 365,
+          "per_day": 11.578,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "lucide-icons/lucide",
+      "ok": true,
+      "stars": 25474,
+      "created_at": "2020-06-08T15:36:21Z",
+      "archived": false,
+      "github_description": "Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. ",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 167,
+          "effective_days": 7,
+          "per_day": 23.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 682,
+          "effective_days": 30,
+          "per_day": 22.733,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6247,
+          "effective_days": 365,
+          "per_day": 17.115,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "phosphor-icons/homepage",
+      "ok": true,
+      "stars": 7755,
+      "created_at": "2020-07-14T21:45:56Z",
+      "archived": false,
+      "github_description": "The homepage of Phosphor Icons, a flexible icon family for everyone",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 38,
+          "effective_days": 7,
+          "per_day": 5.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 181,
+          "effective_days": 30,
+          "per_day": 6.033,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2195,
+          "effective_days": 365,
+          "per_day": 6.014,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "duckdb/duckdb",
+      "ok": true,
+      "stars": 42754,
+      "created_at": "2018-06-26T15:04:45Z",
+      "archived": false,
+      "github_description": "DuckDB is a high-performance analytical database system",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 209,
+          "effective_days": 7,
+          "per_day": 29.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 928,
+          "effective_days": 30,
+          "per_day": 30.933,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 9360,
+          "effective_days": 365,
+          "per_day": 25.644,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "pola-rs/polars",
+      "ok": true,
+      "stars": 40254,
+      "created_at": "2020-05-13T19:45:33Z",
+      "archived": false,
+      "github_description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 65,
+          "effective_days": 7,
+          "per_day": 9.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 383,
+          "effective_days": 30,
+          "per_day": 12.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4852,
+          "effective_days": 365,
+          "per_day": 13.293,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "apache/arrow",
+      "ok": true,
+      "stars": 17272,
+      "created_at": "2016-02-17T08:00:23Z",
+      "archived": false,
+      "github_description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 49,
+          "effective_days": 7,
+          "per_day": 7.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 122,
+          "effective_days": 30,
+          "per_day": 4.067,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1316,
+          "effective_days": 365,
+          "per_day": 3.605,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "ok": true,
+      "stars": 14112,
+      "created_at": "2016-03-10T02:38:00Z",
+      "archived": false,
+      "github_description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 31,
+          "effective_days": 7,
+          "per_day": 4.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 169,
+          "effective_days": 30,
+          "per_day": 5.633,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2465,
+          "effective_days": 365,
+          "per_day": 6.753,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "apache/superset",
+      "ok": true,
+      "stars": 75392,
+      "created_at": "2015-07-21T18:55:34Z",
+      "archived": false,
+      "github_description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 105,
+          "effective_days": 7,
+          "per_day": 15.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 464,
+          "effective_days": 30,
+          "per_day": 15.467,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7448,
+          "effective_days": 365,
+          "per_day": 20.405,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "ClickHouse/ClickHouse",
+      "ok": true,
+      "stars": 50721,
+      "created_at": "2016-06-02T08:28:18Z",
+      "archived": false,
+      "github_description": "ClickHouse® is a real-time analytics database management system",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 127,
+          "effective_days": 7,
+          "per_day": 18.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 589,
+          "effective_days": 30,
+          "per_day": 19.633,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7629,
+          "effective_days": 365,
+          "per_day": 20.901,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "apache/kafka",
+      "ok": true,
+      "stars": 34118,
+      "created_at": "2011-08-15T18:06:16Z",
+      "archived": false,
+      "github_description": "Apache Kafka - A distributed event streaming platform",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 65,
+          "effective_days": 7,
+          "per_day": 9.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 293,
+          "effective_days": 30,
+          "per_day": 9.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3295,
+          "effective_days": 365,
+          "per_day": 9.027,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "jupyter/notebook",
+      "ok": true,
+      "stars": 13459,
+      "created_at": "2015-04-09T06:58:03Z",
+      "archived": false,
+      "github_description": "Jupyter Interactive Notebook",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 5,
+          "effective_days": 7,
+          "per_day": 0.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 71,
+          "effective_days": 30,
+          "per_day": 2.367,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 907,
+          "effective_days": 365,
+          "per_day": 2.485,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": null,
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    }
+  ],
+  "newcomers": {
+    "ok": true,
+    "window_days": 7,
+    "since": "2026-10-26T23:18:30Z",
+    "min_stars": 100,
+    "top_n": 20,
+    "categories": {
+      "ai": {
+        "category": "ai",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:ai",
+            "q": "topic:ai created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 8
+          },
+          {
+            "label": "topic:artificial-intelligence",
+            "q": "topic:artificial-intelligence created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:llm",
+            "q": "topic:llm created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 17
+          },
+          {
+            "label": "topic:large-language-models",
+            "q": "topic:large-language-models created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:llm-agent",
+            "q": "topic:llm-agent created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:ai-agents",
+            "q": "topic:ai-agents created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 12
+          },
+          {
+            "label": "topic:ai-agent",
+            "q": "topic:ai-agent created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 6
+          },
+          {
+            "label": "topic:mcp",
+            "q": "topic:mcp created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 5
+          },
+          {
+            "label": "topic:mcp-server",
+            "q": "topic:mcp-server created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:claude-code",
+            "q": "topic:claude-code created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 27
+          },
+          {
+            "label": "topic:generative-ai",
+            "q": "topic:generative-ai created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:machine-learning",
+            "q": "topic:machine-learning created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:deep-learning",
+            "q": "topic:deep-learning created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 2
+          },
+          {
+            "label": "topic:rag",
+            "q": "topic:rag created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 2
+          },
+          {
+            "label": "topic:vibe-coding",
+            "q": "topic:vibe-coding created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          }
+        ],
+        "candidates_seen": 49,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [
+          {
+            "name": "wangzan101/Mika",
+            "repo_id": 1438540053,
+            "url": "https://github.com/wangzan101/Mika",
+            "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+            "language": "Kotlin",
+            "stars": 5250,
+            "created_at": "2026-10-29T14:34:07Z",
+            "age_days": 4.36,
+            "per_day": 1203.0,
+            "topics": [
+              "accessibility",
+              "ai-agent",
+              "android",
+              "automation",
+              "jetpack-compose",
+              "kotlin",
+              "llm",
+              "mobile-agent"
+            ]
+          },
+          {
+            "name": "caru-ini/stack-diagram",
+            "repo_id": 1441517767,
+            "url": "https://github.com/caru-ini/stack-diagram",
+            "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+            "language": "TypeScript",
+            "stars": 1156,
+            "created_at": "2026-11-01T05:35:12Z",
+            "age_days": 1.74,
+            "per_day": 665.0,
+            "topics": [
+              "agent-skills",
+              "architecture-diagram",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "diagram",
+              "system-architecture",
+              "tech-stack"
+            ]
+          },
+          {
+            "name": "Balanov/uncut",
+            "repo_id": 1442056769,
+            "url": "https://github.com/Balanov/uncut",
+            "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+            "language": "Go",
+            "stars": 571,
+            "created_at": "2026-11-01T17:19:30Z",
+            "age_days": 1.25,
+            "per_day": 457.1,
+            "topics": [
+              "agent-harness",
+              "cli",
+              "coding-agent",
+              "go",
+              "headless",
+              "llm",
+              "local-models"
+            ]
+          },
+          {
+            "name": "haydenschmitty/floorplan",
+            "repo_id": 1435672472,
+            "url": "https://github.com/haydenschmitty/floorplan",
+            "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+            "language": "JavaScript",
+            "stars": 2227,
+            "created_at": "2026-10-27T12:03:01Z",
+            "age_days": 6.47,
+            "per_day": 344.3,
+            "topics": [
+              "ai-coding",
+              "architecture-diagram",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "codebase-visualization",
+              "codex",
+              "codex-plugin",
+              "developer-tools",
+              "onboarding",
+              "openai",
+              "vibe-coding"
+            ]
+          },
+          {
+            "name": "modelflare-ai/AnyModelBot",
+            "repo_id": 1435475558,
+            "url": "https://github.com/modelflare-ai/AnyModelBot",
+            "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM…",
+            "language": "TypeScript",
+            "stars": 1328,
+            "created_at": "2026-10-27T08:51:18Z",
+            "age_days": 6.6,
+            "per_day": 201.1,
+            "topics": [
+              "ai-agent",
+              "ai-assistant",
+              "chatbot",
+              "claude",
+              "computer-use",
+              "deepseek",
+              "desktop-app",
+              "dsh",
+              "electron",
+              "feishu",
+              "gemini",
+              "gpt",
+              "grok",
+              "llm",
+              "local-first",
+              "modelflare",
+              "multi-model",
+              "openai-compatible",
+              "personal-ai-agent",
+              "wechat"
+            ]
+          },
+          {
+            "name": "NiazMorshed2007/reanimate",
+            "repo_id": 1438029127,
+            "url": "https://github.com/NiazMorshed2007/reanimate",
+            "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+            "language": "JavaScript",
+            "stars": 944,
+            "created_at": "2026-10-29T06:20:59Z",
+            "age_days": 4.71,
+            "per_day": 200.6,
+            "topics": [
+              "agent-skills",
+              "animation",
+              "claude-code",
+              "claude-skills",
+              "frontend",
+              "motion",
+              "playwright"
+            ]
+          },
+          {
+            "name": "N1nEmAn/sapper-v2",
+            "repo_id": 1439885901,
+            "url": "https://github.com/N1nEmAn/sapper-v2",
+            "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h una…",
+            "language": "Python",
+            "stars": 596,
+            "created_at": "2026-10-30T15:12:35Z",
+            "age_days": 3.34,
+            "per_day": 178.6,
+            "topics": [
+              "ai-agents",
+              "autonomous-agents",
+              "claude-code",
+              "ctf",
+              "llm",
+              "multi-agent",
+              "pentest"
+            ]
+          },
+          {
+            "name": "zhanghao123vip/ai-manju-skills",
+            "repo_id": 1440461338,
+            "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+            "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+            "language": null,
+            "stars": 458,
+            "created_at": "2026-10-31T03:22:12Z",
+            "age_days": 2.83,
+            "per_day": 161.8,
+            "topics": [
+              "ai-skills",
+              "ai-video",
+              "chinese",
+              "claude-code",
+              "prompt-engineering"
+            ]
+          },
+          {
+            "name": "sleepy-zone/ai-ref-library-cn",
+            "repo_id": 1438607462,
+            "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+            "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+            "language": "JavaScript",
+            "stars": 667,
+            "created_at": "2026-10-29T15:28:16Z",
+            "age_days": 4.33,
+            "per_day": 154.2,
+            "topics": [
+              "ai",
+              "gpt"
+            ]
+          },
+          {
+            "name": "alchaincyf/huashu-bird-sticker",
+            "repo_id": 1439308037,
+            "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+            "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+            "language": null,
+            "stars": 572,
+            "created_at": "2026-10-30T05:19:33Z",
+            "age_days": 3.75,
+            "per_day": 152.6,
+            "topics": [
+              "ai-generated",
+              "biodiversity",
+              "birding",
+              "birds",
+              "birdwatching",
+              "claude-code",
+              "codex",
+              "dataset",
+              "illustration",
+              "ioc-world-bird-list",
+              "multilingual",
+              "open-data",
+              "ornithology",
+              "stickers",
+              "taxonomy"
+            ]
+          },
+          {
+            "name": "jackwener/DSH-Android",
+            "repo_id": 1436184001,
+            "url": "https://github.com/jackwener/DSH-Android",
+            "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+            "language": "Kotlin",
+            "stars": 750,
+            "created_at": "2026-10-27T19:26:12Z",
+            "age_days": 6.16,
+            "per_day": 121.7,
+            "topics": [
+              "ai-agent",
+              "android",
+              "deepseek",
+              "deepseek-harness",
+              "llm",
+              "phone-agent",
+              "shizuku"
+            ]
+          },
+          {
+            "name": "SAOS-3624/dsh-see-now",
+            "repo_id": 1441851226,
+            "url": "https://github.com/SAOS-3624/dsh-see-now",
+            "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+            "language": "JavaScript",
+            "stars": 161,
+            "created_at": "2026-11-01T13:32:34Z",
+            "age_days": 1.41,
+            "per_day": 114.4,
+            "topics": [
+              "ai-agent",
+              "dsh",
+              "dsh-plugin",
+              "ffmpeg",
+              "llm",
+              "realtime",
+              "screen-capture",
+              "token-efficient",
+              "vision"
+            ]
+          },
+          {
+            "name": "Pluviobyte/douyin-comments",
+            "repo_id": 1439924913,
+            "url": "https://github.com/Pluviobyte/douyin-comments",
+            "description": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
+            "language": "JavaScript",
+            "stars": 371,
+            "created_at": "2026-10-30T15:47:16Z",
+            "age_days": 3.31,
+            "per_day": 112.0,
+            "topics": [
+              "agent-skill",
+              "claude-code",
+              "comments-scraper",
+              "douyin"
+            ]
+          },
+          {
+            "name": "wanghao-SunSky/cs329z-chinese",
+            "repo_id": 1437467754,
+            "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+            "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+            "language": "HTML",
+            "stars": 445,
+            "created_at": "2026-10-28T18:18:24Z",
+            "age_days": 5.21,
+            "per_day": 85.4,
+            "topics": [
+              "agent-memory",
+              "agentic-ai",
+              "ai-agents",
+              "chinese",
+              "chinese-tutorial",
+              "course-notes",
+              "cs329z",
+              "engineering-ai-agents",
+              "llm",
+              "llm-evaluation",
+              "multi-agent",
+              "python",
+              "rag",
+              "stanford",
+              "tutorial"
+            ]
+          },
+          {
+            "name": "tavern-labs-ai/persona-ai-sdk",
+            "repo_id": 1440937647,
+            "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+            "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+            "language": "TypeScript",
+            "stars": 197,
+            "created_at": "2026-10-31T14:29:10Z",
+            "age_days": 2.37,
+            "per_day": 83.2,
+            "topics": [
+              "ai",
+              "bedrock",
+              "characters",
+              "llm",
+              "memory",
+              "persona",
+              "personality",
+              "sdk"
+            ]
+          },
+          {
+            "name": "patch-gg/anymove",
+            "repo_id": 1435425970,
+            "url": "https://github.com/patch-gg/anymove",
+            "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+            "language": "Python",
+            "stars": 487,
+            "created_at": "2026-10-27T08:00:42Z",
+            "age_days": 6.64,
+            "per_day": 73.4,
+            "topics": [
+              "agent-skills",
+              "animation",
+              "blender",
+              "claude-code-plugin",
+              "dinov2",
+              "gamedev",
+              "generative-ai",
+              "motion-capture"
+            ]
+          },
+          {
+            "name": "Moh4696/open-3d-skills",
+            "repo_id": 1440671949,
+            "url": "https://github.com/Moh4696/open-3d-skills",
+            "description": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, bro…",
+            "language": "JavaScript",
+            "stars": 185,
+            "created_at": "2026-10-31T08:46:18Z",
+            "age_days": 2.61,
+            "per_day": 71.0,
+            "topics": [
+              "3d",
+              "agent-skills",
+              "animation",
+              "claude-code",
+              "codex",
+              "cursor",
+              "frontend",
+              "scroll-animation",
+              "threejs",
+              "webgl"
+            ]
+          },
+          {
+            "name": "XiaoyeCodes/code-animation-prompts",
+            "repo_id": 1438282469,
+            "url": "https://github.com/XiaoyeCodes/code-animation-prompts",
+            "description": "341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。",
+            "language": "HTML",
+            "stars": 297,
+            "created_at": "2026-10-29T10:45:47Z",
+            "age_days": 4.52,
+            "per_day": 65.7,
+            "topics": [
+              "agent-skills",
+              "animation",
+              "claude-code",
+              "codex",
+              "creative-coding",
+              "prompts",
+              "video-generation"
+            ]
+          },
+          {
+            "name": "jmanico/grim-prompter",
+            "repo_id": 1437033043,
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods,…",
+            "language": null,
+            "stars": 348,
+            "created_at": "2026-10-28T12:09:26Z",
+            "age_days": 5.46,
+            "per_day": 63.7,
+            "topics": [
+              "ai-agents",
+              "appsec",
+              "claude-code",
+              "codex",
+              "linddun",
+              "llm",
+              "pasta",
+              "prompt-engineering",
+              "security",
+              "stride",
+              "threat-modeling"
+            ]
+          },
+          {
+            "name": "Interactive-Active-AI/NextTransformer",
+            "repo_id": 1440630308,
+            "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+            "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous…",
+            "language": "Python",
+            "stars": 165,
+            "created_at": "2026-10-31T07:46:13Z",
+            "age_days": 2.65,
+            "per_day": 62.3,
+            "topics": [
+              "auto-research",
+              "benchmark",
+              "deep-learning",
+              "language-models",
+              "linear-attention",
+              "llm",
+              "looped-transformer",
+              "pytorch",
+              "sparse-attention",
+              "transformer"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "devtools": {
+        "category": "devtools",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:cli",
+            "q": "topic:cli created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 5
+          },
+          {
+            "label": "topic:developer-tools",
+            "q": "topic:developer-tools created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 144
+          },
+          {
+            "label": "topic:devtools",
+            "q": "topic:devtools created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:lsp",
+            "q": "topic:lsp created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:package-manager",
+            "q": "topic:package-manager created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:linter",
+            "q": "topic:linter created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:formatter",
+            "q": "topic:formatter created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:build-tool",
+            "q": "topic:build-tool created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 149,
+        "ok": true,
+        "excluded_duplicates": [
+          "Balanov/uncut",
+          "haydenschmitty/floorplan"
+        ],
+        "items": [
+          {
+            "name": "Verlintas/NOIR",
+            "repo_id": 1441272552,
+            "url": "https://github.com/Verlintas/NOIR",
+            "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+            "language": "Kotlin",
+            "stars": 1265,
+            "created_at": "2026-10-31T21:34:39Z",
+            "age_days": 2.07,
+            "per_day": 610.5,
+            "topics": [
+              "adb",
+              "android",
+              "android-privacy",
+              "android-security",
+              "android-tools",
+              "apk-analysis",
+              "bloatware",
+              "cli",
+              "cross-platform",
+              "debloat",
+              "jadx",
+              "kotlin",
+              "kotlin-multiplatform",
+              "privacy",
+              "privacy-tools",
+              "security-audit",
+              "static-analysis",
+              "telemetry",
+              "terminal-ui",
+              "tui"
+            ]
+          },
+          {
+            "name": "AssassinCreator/steam-stash-value-report-card",
+            "repo_id": 1442356805,
+            "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+            "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+            "language": "Python",
+            "stars": 590,
+            "created_at": "2026-11-02T00:40:47Z",
+            "age_days": 1.0,
+            "per_day": 590.0,
+            "topics": [
+              "cli",
+              "inventory",
+              "price-check",
+              "python",
+              "report-card",
+              "steam",
+              "steam-market",
+              "valuation"
+            ]
+          },
+          {
+            "name": "Straitbrashadow/minecraft-ai-mod-builder",
+            "repo_id": 1440235284,
+            "url": "https://github.com/Straitbrashadow/minecraft-ai-mod-builder",
+            "description": "Type what you want built, see it as a blueprint in your Minecraft world, place it in one step and undo it in one. Fabric companion, Paper plugin, free local mo…",
+            "language": "Java",
+            "stars": 200,
+            "created_at": "2026-10-30T21:11:28Z",
+            "age_days": 3.09,
+            "per_day": 64.8,
+            "topics": [
+              "ai-mods",
+              "blueprint",
+              "cli",
+              "fabric",
+              "minecraft",
+              "minecraft-mods",
+              "paper",
+              "rust"
+            ]
+          },
+          {
+            "name": "DiplomatHearth/roblox-ai-place-diff",
+            "repo_id": 1440261653,
+            "url": "https://github.com/DiplomatHearth/roblox-ai-place-diff",
+            "description": "Every change this Roblox Studio agent makes is a place diff you approve first. Rewind any turn with one Ctrl+Z, playtests run on a copy so live data never move…",
+            "language": "Rust",
+            "stars": 160,
+            "created_at": "2026-10-30T21:47:26Z",
+            "age_days": 3.06,
+            "per_day": 52.2,
+            "topics": [
+              "cli",
+              "diff",
+              "luau",
+              "rewind",
+              "roblox",
+              "roblox-studio",
+              "rojo",
+              "rust"
+            ]
+          },
+          {
+            "name": "Xpropel/Pi-Remote",
+            "repo_id": 1436947605,
+            "url": "https://github.com/Xpropel/Pi-Remote",
+            "description": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands f…",
+            "language": "TypeScript",
+            "stars": 261,
+            "created_at": "2026-10-28T10:46:22Z",
+            "age_days": 5.52,
+            "per_day": 47.3,
+            "topics": [
+              "ai-agent",
+              "coding-agent",
+              "developer-tools",
+              "nodejs",
+              "pi",
+              "pi-coding-agent",
+              "react",
+              "relay",
+              "remote-control",
+              "self-hosted",
+              "terminal",
+              "typescript",
+              "web-terminal",
+              "websocket"
+            ]
+          },
+          {
+            "name": "muaaz9329/cheap-ag",
+            "repo_id": 1437694471,
+            "url": "https://github.com/muaaz9329/cheap-ag",
+            "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP…",
+            "language": "TypeScript",
+            "stars": 227,
+            "created_at": "2026-10-28T22:26:18Z",
+            "age_days": 5.04,
+            "per_day": 45.1,
+            "topics": [
+              "agentic-coding",
+              "ai-agents",
+              "anthropic",
+              "cheap-llm",
+              "claude",
+              "claude-code",
+              "claude-code-hooks",
+              "claude-code-plugin",
+              "claude-code-skill",
+              "cost-optimization",
+              "deepseek",
+              "developer-tools",
+              "llm",
+              "llm-agents",
+              "mcp",
+              "mcp-server",
+              "multi-agent",
+              "opencode",
+              "opencode-go",
+              "openrouter"
+            ]
+          },
+          {
+            "name": "tianfuzhibuyuci/readme-visual-kit",
+            "repo_id": 1435748450,
+            "url": "https://github.com/tianfuzhibuyuci/readme-visual-kit",
+            "description": "把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。",
+            "language": "JavaScript",
+            "stars": 208,
+            "created_at": "2026-10-27T13:11:15Z",
+            "age_days": 6.42,
+            "per_day": 32.4,
+            "topics": [
+              "agent-skills",
+              "developer-tools",
+              "diagrams",
+              "documentation",
+              "readme",
+              "svg"
+            ]
+          },
+          {
+            "name": "khanh020905/my-office",
+            "repo_id": 1437056868,
+            "url": "https://github.com/khanh020905/my-office",
+            "description": "Văn phòng 3D cho các phiên Claude Code · A 3D office for your Claude Code sessions",
+            "language": "JavaScript",
+            "stars": 154,
+            "created_at": "2026-10-28T12:30:47Z",
+            "age_days": 5.45,
+            "per_day": 28.3,
+            "topics": [
+              "3d",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "dashboard",
+              "developer-tools",
+              "threejs",
+              "vietnam",
+              "visualization"
+            ]
+          },
+          {
+            "name": "kyy-logs/code-review-skill",
+            "repo_id": 1438113516,
+            "url": "https://github.com/kyy-logs/code-review-skill",
+            "description": "Auditable code review skill for Claude Code and Codex: four independent probes, evidence-backed findings, and a JSON-derived merge gate.",
+            "language": "Shell",
+            "stars": 119,
+            "created_at": "2026-10-29T07:57:07Z",
+            "age_days": 4.64,
+            "per_day": 25.6,
+            "topics": [
+              "agent-skills",
+              "ai-code-review",
+              "claude-code",
+              "code-review",
+              "codex",
+              "developer-tools",
+              "static-analysis"
+            ]
+          },
+          {
+            "name": "dufu1991/foldgit",
+            "repo_id": 1436539221,
+            "url": "https://github.com/dufu1991/foldgit",
+            "description": "A native, lightweight Git client for macOS. Manage repositories and worktrees, review diffs, and commit changes in one window.",
+            "language": "Swift",
+            "stars": 128,
+            "created_at": "2026-10-28T03:07:24Z",
+            "age_days": 5.84,
+            "per_day": 21.9,
+            "topics": [
+              "developer-tools",
+              "diff-viewer",
+              "git",
+              "git-client",
+              "git-worktree",
+              "macos",
+              "swift",
+              "swiftui"
+            ]
+          },
+          {
+            "name": "onurozcan/omux",
+            "repo_id": 1436131253,
+            "url": "https://github.com/onurozcan/omux",
+            "description": "Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma…",
+            "language": "Swift",
+            "stars": 115,
+            "created_at": "2026-10-27T18:34:06Z",
+            "age_days": 6.2,
+            "per_day": 18.6,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "git-worktree",
+              "macos",
+              "macos-app",
+              "openai",
+              "openai-codex",
+              "swift",
+              "swiftui",
+              "terminal",
+              "terminal-emulator"
+            ]
+          },
+          {
+            "name": "Bridgeyaprovide/roblox-game-copier",
+            "repo_id": 1442806791,
+            "url": "https://github.com/Bridgeyaprovide/roblox-game-copier",
+            "description": "Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.",
+            "language": null,
+            "stars": 502,
+            "created_at": "2026-11-02T10:14:34Z",
+            "age_days": 1.0,
+            "per_day": 502.0,
+            "topics": [
+              "automation",
+              "desktop",
+              "developer-tools",
+              "open-source",
+              "python",
+              "roblox-copier",
+              "roblox-game-copy",
+              "scripts",
+              "software-engineering",
+              "system",
+              "uncopylock",
+              "uncopylocker",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "phrase:pre-activated"
+          },
+          {
+            "name": "rivetpelicanstir/total-commander",
+            "repo_id": 1442807641,
+            "url": "https://github.com/rivetpelicanstir/total-commander",
+            "description": "Total Commander 10.5 - Full working installer with all plugins and settings included for seamless desktop experience.",
+            "language": null,
+            "stars": 499,
+            "created_at": "2026-11-02T10:15:22Z",
+            "age_days": 1.0,
+            "per_day": 499.0,
+            "topics": [
+              "automation",
+              "commander",
+              "developer-tools",
+              "file-tools",
+              "how-to-install-total-commander",
+              "open-source",
+              "productivity-utility",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "total-commander",
+              "total-commander-cracked-2026",
+              "total-commander-final",
+              "total-commander-for-windows",
+              "total-commander-free-2026",
+              "total-commander-setup-failed-fix",
+              "total-commander-windows",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "phrase:full working installer"
+          },
+          {
+            "name": "AquaTradesmanAbide/genesis-miner",
+            "repo_id": 1442804894,
+            "url": "https://github.com/AquaTradesmanAbide/genesis-miner",
+            "description": "Genesis Miner 2026: Full working installer with all features unlocked, ready to run on your desktop.",
+            "language": null,
+            "stars": 488,
+            "created_at": "2026-11-02T10:12:41Z",
+            "age_days": 1.0,
+            "per_day": 488.0,
+            "topics": [
+              "automation",
+              "bitcoin-mining-tools",
+              "cpu-mining",
+              "cpumining",
+              "cryptominer",
+              "developer-tools",
+              "gpu-mining",
+              "gpumining",
+              "miner-monero",
+              "miner-monitoring",
+              "monero-miner-suite",
+              "monero-mining",
+              "monero-mining-tools",
+              "monerominersuite",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility"
+            ],
+            "suspicious": "phrase:full working installer"
+          },
+          {
+            "name": "stalkerswifthub/discord-quest-completer",
+            "repo_id": 1442803997,
+            "url": "https://github.com/stalkerswifthub/discord-quest-completer",
+            "description": "Discord Quest Completer 2026: Complete standalone setup, ready to run with all features activated.",
+            "language": null,
+            "stars": 469,
+            "created_at": "2026-11-02T10:11:47Z",
+            "age_days": 1.0,
+            "per_day": 469.0,
+            "topics": [
+              "automation",
+              "developer-tools",
+              "discord-automation",
+              "discord-orbs",
+              "discord-quest",
+              "discord-quest-completer-2026",
+              "discord-quest-completer-bot",
+              "discord-quest-completer-free",
+              "discord-quests",
+              "discord-rewards",
+              "discordtools",
+              "moderation-discord-bot",
+              "open-source",
+              "python",
+              "quest-completer",
+              "quest-discord",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility"
+            ],
+            "suspicious": "phrase:standalone setup"
+          },
+          {
+            "name": "GalaxyShadeSquare/windows-optimizer",
+            "repo_id": 1442808145,
+            "url": "https://github.com/GalaxyShadeSquare/windows-optimizer",
+            "description": "Optimized Windows Environment 2026 - Full working installer with advanced system tweaks and enhancements ready to run.",
+            "language": null,
+            "stars": 400,
+            "created_at": "2026-11-02T10:15:45Z",
+            "age_days": 1.0,
+            "per_day": 400.0,
+            "topics": [
+              "automation",
+              "developer-tools",
+              "fps-booster-no-lag",
+              "frame-rate-boost",
+              "game-booster-free",
+              "open-source",
+              "optimize-windows",
+              "optimizer-tool",
+              "python",
+              "software-engineering",
+              "speed-up-pc",
+              "unattendedwininstall",
+              "windows-10-optimizer",
+              "windows-bloatware",
+              "windows-optimization",
+              "windows-optimization-tool",
+              "windows-optimizer-performance-latency-tweaks",
+              "windows-performance-optimizer",
+              "windows-script",
+              "windows-scripts"
+            ],
+            "suspicious": "phrase:full working installer"
+          },
+          {
+            "name": "HandcuffHelper/ads-blocker",
+            "repo_id": 1442802361,
+            "url": "https://github.com/HandcuffHelper/ads-blocker",
+            "description": "Ads Blocker 2026: Full working installer with enhanced ad detection and blocking capabilities. Ready-to-run desktop software utility.",
+            "language": null,
+            "stars": 400,
+            "created_at": "2026-11-02T10:10:12Z",
+            "age_days": 1.0,
+            "per_day": 400.0,
+            "topics": [
+              "adblock-lists",
+              "adblocker-ultimate-list",
+              "adblockplus",
+              "adguard-list",
+              "adsblock",
+              "automation",
+              "block-ads",
+              "desktop",
+              "developer-tools",
+              "dnsfilter",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "phrase:full working installer"
+          },
+          {
+            "name": "MeshBeatDitch/startall-back",
+            "repo_id": 1442807524,
+            "url": "https://github.com/MeshBeatDitch/startall-back",
+            "description": "Startall Back 2026 - Full working installer for professional desktop software utility configuration. Ready to run out-of-the-box solution.",
+            "language": null,
+            "stars": 400,
+            "created_at": "2026-11-02T10:15:16Z",
+            "age_days": 1.0,
+            "per_day": 400.0,
+            "topics": [
+              "automation",
+              "desktop",
+              "developer-tools",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "start-menu",
+              "startallback",
+              "startallback-pro",
+              "startallback-pro-download",
+              "startallback-pro-edition",
+              "startallback-pro-edition-2026",
+              "startallback-windows-11-start-menu-pro-install",
+              "startisback",
+              "system",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "phrase:full working installer"
+          },
+          {
+            "name": "Streetbratreasure/anyunlock",
+            "repo_id": 1442802414,
+            "url": "https://github.com/Streetbratreasure/anyunlock",
+            "description": "Anyunlock 2026: Full working installer for a powerful desktop utility configuration, ready to run right out of the box.",
+            "language": null,
+            "stars": 339,
+            "created_at": "2026-11-02T10:10:15Z",
+            "age_days": 1.0,
+            "per_day": 339.0,
+            "topics": [
+              "apple-id-remove",
+              "apple-id-remover",
+              "developer-tools",
+              "device-tool",
+              "frp-tool",
+              "ios-bypass",
+              "ios-find-my-bypass",
+              "ios-jailbreak",
+              "ios-mdm-bypass",
+              "iphone-mdm-remove",
+              "iphone-passcode",
+              "iphone-restore",
+              "lockdown-browser-bypass",
+              "mdm-bypass",
+              "open-source",
+              "palera1n",
+              "python",
+              "screen-passcode-recovery",
+              "software-engineering",
+              "unlocking"
+            ],
+            "suspicious": "phrase:full working installer"
+          },
+          {
+            "name": "Tempofaengage/unlocktool",
+            "repo_id": 1442807874,
+            "url": "https://github.com/Tempofaengage/unlocktool",
+            "description": "Unlocktool 2023: Full working installer with enhanced security features for professional desktop use.",
+            "language": null,
+            "stars": 301,
+            "created_at": "2026-11-02T10:15:33Z",
+            "age_days": 1.0,
+            "per_day": 301.0,
+            "topics": [
+              "android-repair-tools",
+              "automation",
+              "desktop",
+              "developer-tools",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "unlock-phone",
+              "unlock-tool-2027",
+              "unlocking",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "phrase:full working installer"
+          }
+        ],
+        "suspicious_in_board": 9
+      },
+      "security": {
+        "category": "security",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:cybersecurity",
+            "q": "topic:cybersecurity created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:vulnerability",
+            "q": "topic:vulnerability created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:sast",
+            "q": "topic:sast created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:devops-security",
+            "q": "topic:devops-security created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:supply-chain-security",
+            "q": "topic:supply-chain-security created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:container-security",
+            "q": "topic:container-security created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:pentest",
+            "q": "topic:pentest created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:infosec",
+            "q": "topic:infosec created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 1,
+        "ok": true,
+        "excluded_duplicates": [
+          "N1nEmAn/sapper-v2"
+        ],
+        "items": [],
+        "suspicious_in_board": 0
+      },
+      "web": {
+        "category": "web",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:frontend",
+            "q": "topic:frontend created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 2
+          },
+          {
+            "label": "topic:react",
+            "q": "topic:react created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 9
+          },
+          {
+            "label": "topic:vue",
+            "q": "topic:vue created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:svelte",
+            "q": "topic:svelte created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:css",
+            "q": "topic:css created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:nextjs",
+            "q": "topic:nextjs created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:tailwind",
+            "q": "topic:tailwind created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 12,
+        "ok": true,
+        "excluded_duplicates": [
+          "Moh4696/open-3d-skills",
+          "NiazMorshed2007/reanimate",
+          "Xpropel/Pi-Remote"
+        ],
+        "items": [
+          {
+            "name": "shipwords-dev/shipwords",
+            "repo_id": 1436698875,
+            "url": "https://github.com/shipwords-dev/shipwords",
+            "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. / 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起…",
+            "language": "TypeScript",
+            "stars": 346,
+            "created_at": "2026-10-28T06:35:51Z",
+            "age_days": 5.7,
+            "per_day": 60.7,
+            "topics": [
+              "ai",
+              "cloudflare",
+              "cloudflare-workers",
+              "d1",
+              "react",
+              "saas-boilerplate",
+              "saas-starter",
+              "seo",
+              "stripe",
+              "tanstack-start"
+            ]
+          },
+          {
+            "name": "mofan6/Moect",
+            "repo_id": 1440759001,
+            "url": "https://github.com/mofan6/Moect",
+            "description": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter &amp; backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导…",
+            "language": "Python",
+            "stars": 144,
+            "created_at": "2026-10-31T10:45:53Z",
+            "age_days": 2.52,
+            "per_day": 57.1,
+            "topics": [
+              "archive",
+              "chat-archive",
+              "chat-backup",
+              "chat-export",
+              "chat-history",
+              "data-export",
+              "desktop",
+              "html-export",
+              "media-export",
+              "offline",
+              "python",
+              "react",
+              "wechat",
+              "wechat-backup",
+              "wechat-exporter",
+              "wechat-history",
+              "wechat4",
+              "wechatmsg",
+              "weixin",
+              "windows"
+            ]
+          },
+          {
+            "name": "Lavagroabide/aegis-spreadwatch",
+            "repo_id": 1440328255,
+            "url": "https://github.com/Lavagroabide/aegis-spreadwatch",
+            "description": "Aegis SpreadWatch: keeps CS2 buy and sell opportunities legible — net profit, ROI and fee assumptions per venue, computed on device.",
+            "language": "TypeScript",
+            "stars": 156,
+            "created_at": "2026-10-30T23:33:11Z",
+            "age_days": 2.99,
+            "per_day": 52.2,
+            "topics": [
+              "analytics",
+              "cs2",
+              "desktop",
+              "net-return",
+              "offline-first",
+              "react",
+              "rust",
+              "skins",
+              "spread",
+              "tauri"
+            ]
+          },
+          {
+            "name": "solderdatabraid29/aegis-vaultgrid",
+            "repo_id": 1440330836,
+            "url": "https://github.com/solderdatabraid29/aegis-vaultgrid",
+            "description": "Aegis VaultGrid: pairs a CS2 inventory vault with a fee-aware order planner. Local JSON state, no account needed to browse.",
+            "language": "TypeScript",
+            "stars": 139,
+            "created_at": "2026-10-30T23:37:42Z",
+            "age_days": 2.99,
+            "per_day": 46.5,
+            "topics": [
+              "cs2",
+              "desktop-app",
+              "inventory",
+              "local-first",
+              "order-planner",
+              "react",
+              "rust",
+              "steam",
+              "tauri",
+              "vault"
+            ]
+          },
+          {
+            "name": "Townlanurture/aegis-skin-terminal",
+            "repo_id": 1440322914,
+            "url": "https://github.com/Townlanurture/aegis-skin-terminal",
+            "description": "Aegis Skin Terminal: local-first CS2 trading workspace with a fee-aware spread scanner, vault workspace and offline Steam Guard codes.",
+            "language": "TypeScript",
+            "stars": 136,
+            "created_at": "2026-10-30T23:24:07Z",
+            "age_days": 3.0,
+            "per_day": 45.4,
+            "topics": [
+              "counter-strike",
+              "cs2",
+              "desktop-app",
+              "react",
+              "rust",
+              "skin-trading",
+              "spread-calculator",
+              "steam-market",
+              "tauri",
+              "typescript"
+            ]
+          },
+          {
+            "name": "zklmiao/prompt-vault",
+            "repo_id": 1436582041,
+            "url": "https://github.com/zklmiao/prompt-vault",
+            "description": "本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows",
+            "language": "TypeScript",
+            "stars": 241,
+            "created_at": "2026-10-28T04:07:24Z",
+            "age_days": 5.8,
+            "per_day": 41.6,
+            "topics": [
+              "desktop-app",
+              "local-first",
+              "prompt-engineering",
+              "prompt-management",
+              "react",
+              "rust",
+              "tauri",
+              "tauri-app",
+              "typescript",
+              "windows"
+            ]
+          },
+          {
+            "name": "jianxinss/iching-64-motion",
+            "repo_id": 1435122338,
+            "url": "https://github.com/jianxinss/iching-64-motion",
+            "description": "《易经》六十四卦结构动画 · I Ching 64 Hexagrams motion graphics, made entirely with code (Remotion + React)",
+            "language": "TypeScript",
+            "stars": 164,
+            "created_at": "2026-10-27T01:41:01Z",
+            "age_days": 6.9,
+            "per_day": 23.8,
+            "topics": [
+              "chinese-culture",
+              "data-visualization",
+              "hexagram",
+              "i-ching",
+              "motion-graphics",
+              "react",
+              "remotion",
+              "yijing"
+            ]
+          },
+          {
+            "name": "floatboatai/OpenMinutes",
+            "repo_id": 1437077388,
+            "url": "https://github.com/floatboatai/OpenMinutes",
+            "description": "OpenMinutes · 录音笔工作台：MemoTalk S1 录音的导入 · 转录 · AI 归类 · 检索复盘（Floatboat Workbench 开源实现）",
+            "language": "TypeScript",
+            "stars": 108,
+            "created_at": "2026-10-28T12:48:27Z",
+            "age_days": 5.44,
+            "per_day": 19.9,
+            "topics": [
+              "ai-classification",
+              "floatboat",
+              "memotalk",
+              "react",
+              "speech-to-text",
+              "sqlite",
+              "transcription",
+              "typescript",
+              "voice-recorder",
+              "workbench"
+            ]
+          },
+          {
+            "name": "fush520/fush-vue-mcp",
+            "repo_id": 1435953741,
+            "url": "https://github.com/fush520/fush-vue-mcp",
+            "description": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
+            "language": "JavaScript",
+            "stars": 104,
+            "created_at": "2026-10-27T15:56:51Z",
+            "age_days": 6.31,
+            "per_day": 16.5,
+            "topics": [
+              "ai-agents",
+              "anti-debug",
+              "chrome-extension",
+              "mcp",
+              "pentesting",
+              "reverse-engineering-tools",
+              "security-tools",
+              "vue"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "infra": {
+        "category": "infra",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:kubernetes",
+            "q": "topic:kubernetes created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:docker",
+            "q": "topic:docker created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:devops",
+            "q": "topic:devops created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:infrastructure",
+            "q": "topic:infrastructure created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:terraform",
+            "q": "topic:terraform created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:observability",
+            "q": "topic:observability created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:containers",
+            "q": "topic:containers created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:sre",
+            "q": "topic:sre created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 1,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [
+          {
+            "name": "davemessew/AgentFlux",
+            "repo_id": 1435861325,
+            "url": "https://github.com/davemessew/AgentFlux",
+            "description": "Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.",
+            "language": "TypeScript",
+            "stars": 247,
+            "created_at": "2026-10-27T14:43:07Z",
+            "age_days": 6.36,
+            "per_day": 38.8,
+            "topics": [
+              "ai-agents",
+              "docker",
+              "ollama",
+              "self-hosted",
+              "workflows"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "design": {
+        "category": "design",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:design-system",
+            "q": "topic:design-system created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 2
+          },
+          {
+            "label": "topic:figma",
+            "q": "topic:figma created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:animation",
+            "q": "topic:animation created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 9
+          },
+          {
+            "label": "topic:svg",
+            "q": "topic:svg created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 3
+          },
+          {
+            "label": "topic:ui-design",
+            "q": "topic:ui-design created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 14,
+        "ok": true,
+        "excluded_duplicates": [
+          "Moh4696/open-3d-skills",
+          "NiazMorshed2007/reanimate",
+          "XiaoyeCodes/code-animation-prompts",
+          "patch-gg/anymove",
+          "tianfuzhibuyuci/readme-visual-kit"
+        ],
+        "items": [
+          {
+            "name": "patch-gg/pixelfx",
+            "repo_id": 1439372976,
+            "url": "https://github.com/patch-gg/pixelfx",
+            "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+            "language": "JavaScript",
+            "stars": 3469,
+            "created_at": "2026-10-30T06:43:25Z",
+            "age_days": 3.69,
+            "per_day": 939.8,
+            "topics": [
+              "agent-skills",
+              "animation",
+              "canvas",
+              "claude-code-plugin",
+              "gamedev",
+              "pixel-art",
+              "sprite-sheet",
+              "vfx"
+            ]
+          },
+          {
+            "name": "kevinraymond/florilegium",
+            "repo_id": 1439430391,
+            "url": "https://github.com/kevinraymond/florilegium",
+            "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+            "language": "Lua",
+            "stars": 1363,
+            "created_at": "2026-10-30T07:49:05Z",
+            "age_days": 3.65,
+            "per_day": 373.9,
+            "topics": [
+              "generative-art",
+              "latex",
+              "latex-package",
+              "lua",
+              "lualatex",
+              "postscript",
+              "procedural-generation",
+              "svg",
+              "typography"
+            ]
+          },
+          {
+            "name": "op7418/dsh-guizang-design",
+            "repo_id": 1439854729,
+            "url": "https://github.com/op7418/dsh-guizang-design",
+            "description": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+            "language": "HTML",
+            "stars": 253,
+            "created_at": "2026-10-30T14:45:30Z",
+            "age_days": 3.36,
+            "per_day": 75.4,
+            "topics": [
+              "deepseek-harness",
+              "design-system",
+              "dsh-plugin",
+              "skills"
+            ]
+          },
+          {
+            "name": "artemnovitckii/claude-animation-skills",
+            "repo_id": 1441434221,
+            "url": "https://github.com/artemnovitckii/claude-animation-skills",
+            "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, li…",
+            "language": "JavaScript",
+            "stars": 129,
+            "created_at": "2026-11-01T02:53:31Z",
+            "age_days": 1.85,
+            "per_day": 69.7,
+            "topics": [
+              "animation",
+              "claude-code",
+              "claude-skills",
+              "hyperframes",
+              "reels",
+              "threejs"
+            ]
+          },
+          {
+            "name": "GuoZheng-de-BaBa/nursing-research-skills",
+            "repo_id": 1439816295,
+            "url": "https://github.com/GuoZheng-de-BaBa/nursing-research-skills",
+            "description": "护研搭子｜18个开源护理科研AI技能，覆盖检索、设计、数据、统计、写作与图表；新增队列研究和RCT流程、模板及合成示例。",
+            "language": "Python",
+            "stars": 170,
+            "created_at": "2026-10-30T14:11:53Z",
+            "age_days": 3.38,
+            "per_day": 50.3,
+            "topics": [
+              "agent-skills",
+              "codex",
+              "cross-sectional-study",
+              "evidence-based-practice",
+              "literature-review",
+              "nursing",
+              "nursing-research",
+              "python",
+              "research-integrity",
+              "scientific-visualization",
+              "scientific-writing",
+              "svg",
+              "systematic-review"
+            ]
+          },
+          {
+            "name": "Akillll-DuoHe/fy-code-animation",
+            "repo_id": 1439548693,
+            "url": "https://github.com/Akillll-DuoHe/fy-code-animation",
+            "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+            "language": "TypeScript",
+            "stars": 134,
+            "created_at": "2026-10-30T09:55:43Z",
+            "age_days": 3.56,
+            "per_day": 37.7,
+            "topics": [
+              "animation",
+              "chinese",
+              "code-animation",
+              "deepseek-harness",
+              "dsh-skill",
+              "motion-design",
+              "remotion",
+              "skill"
+            ]
+          },
+          {
+            "name": "enmerasoftware/ai-design-check",
+            "repo_id": 1436739802,
+            "url": "https://github.com/enmerasoftware/ai-design-check",
+            "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+            "language": "JavaScript",
+            "stars": 198,
+            "created_at": "2026-10-28T07:20:59Z",
+            "age_days": 5.66,
+            "per_day": 35.0,
+            "topics": [
+              "agent-skill",
+              "ai",
+              "android",
+              "claude-code",
+              "design-rules",
+              "design-system",
+              "ios",
+              "jetpack-compose",
+              "lint",
+              "swiftui",
+              "tailwindcss",
+              "ui"
+            ]
+          },
+          {
+            "name": "ersinkoc/AI-Video-Factory",
+            "repo_id": 1439022059,
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps the human in charge.",
+            "language": "TypeScript",
+            "stars": 132,
+            "created_at": "2026-10-29T22:27:41Z",
+            "age_days": 4.04,
+            "per_day": 32.7,
+            "topics": [
+              "ai-video",
+              "animation",
+              "claude",
+              "remotion",
+              "typescript",
+              "video-generation",
+              "youtube"
+            ]
+          },
+          {
+            "name": "sirioberati/YouTube-AI-Motion-Graphics",
+            "repo_id": 1436067604,
+            "url": "https://github.com/sirioberati/YouTube-AI-Motion-Graphics",
+            "description": "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whispe…",
+            "language": "HTML",
+            "stars": 134,
+            "created_at": "2026-10-27T17:35:05Z",
+            "age_days": 6.24,
+            "per_day": 21.5,
+            "topics": [
+              "ai-agents",
+              "ai-video",
+              "animation",
+              "claude",
+              "claude-code",
+              "claude-design",
+              "claude-skills",
+              "content-creation",
+              "data-visualization",
+              "explainer-boards",
+              "explainer-video",
+              "ffmpeg",
+              "gsap",
+              "html-animation",
+              "motion-graphics",
+              "open-source",
+              "video-automation",
+              "whisper",
+              "workflow",
+              "youtube"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "data": {
+        "category": "data",
+        "window_days": 7,
+        "since": "2026-10-26T23:18:30Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:database",
+            "q": "topic:database created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:etl",
+            "q": "topic:etl created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:data-engineering",
+            "q": "topic:data-engineering created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:sql",
+            "q": "topic:sql created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:olap",
+            "q": "topic:olap created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:dataframe",
+            "q": "topic:dataframe created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:big-data",
+            "q": "topic:big-data created:>=2026-10-26T23:18:30Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 0,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [],
+        "suspicious_in_board": 0
+      }
+    },
+    "error": null
+  },
+  "category_ids": [
+    "ai",
+    "devtools",
+    "security",
+    "web",
+    "infra",
+    "design",
+    "data"
+  ]
+}

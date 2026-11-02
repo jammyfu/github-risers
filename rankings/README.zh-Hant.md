@@ -6,6 +6,7 @@
 
 | 日期 | 時段 | 取得時間（UTC） | 新儲存庫第 1 名（7 天） | 本週第 1 名 | 本月第 1 名 | 今年第 1 名 | 快照 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-03 | 北京時間 00:00 (`cn-0000`) | 2026-11-02T23:18:30Z | wangzan101/Mika (1,203/天) | morluto/rea (4,904/天) | morluto/rea (13,987/天) | deepseek-ai/deepseek-harness (3,318/天) | [2026-11-03/cn-0000](2026-11-03/cn-0000/rankings.zh-Hant.md) · [json](2026-11-03/cn-0000/stats.json) |
 | 2026-11-02 | 北京時間 00:00 (`cn-0000`) | 2026-11-01T20:08:04Z | wangzan101/Mika (1,156/天) | morluto/rea (5,273/天) | morluto/rea (13,859/天) | deepseek-ai/deepseek-harness (3,346/天) | [2026-11-02/cn-0000](2026-11-02/cn-0000/rankings.zh-Hant.md) · [json](2026-11-02/cn-0000/stats.json) |
 | 2026-11-01 | 手動執行 12:12 UTC (`manual-1212`) | 2026-11-01T12:12:54Z | wangzan101/Mika (1,145/天) | morluto/rea (5,274/天) | morluto/rea (13,860/天) | deepseek-ai/deepseek-harness (3,346/天) | [2026-11-01/manual-1212](2026-11-01/manual-1212/rankings.zh-Hant.md) · [json](2026-11-01/manual-1212/stats.json) |
 | 2026-11-01 | 手動執行 09:05 UTC (`manual-0905`) | 2026-11-01T09:05:03Z | wangzan101/Mika (1,136/天) | morluto/rea (5,275/天) | morluto/rea (13,861/天) | deepseek-ai/deepseek-harness (3,346/天) | [2026-11-01/manual-0905](2026-11-01/manual-0905/rankings.zh-Hant.md) · [json](2026-11-01/manual-0905/stats.json) |
