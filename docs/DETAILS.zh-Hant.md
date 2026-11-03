@@ -152,9 +152,9 @@
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - 完整可用的安裝程式，包含所有外掛和設定，帶來無縫的桌面體驗。 |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: 完整可用的安裝程式，已解鎖所有功能，可在您的桌面上直接執行。 |
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) |  | Discord Quest Completer 2026: 完整的獨立安裝程式，所有功能均已啟用，可直接執行。 |
-| [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) |  | Optimized Windows Environment 2026 - 完整可用的安裝程式，帶有進階系統調整和增強功能，可直接執行。 |
-| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) |  | Ads Blocker 2026: 完整可用的安裝程式，具有增強的廣告偵測和阻擋功能。可直接執行的桌面實用軟體工具。 |
-| [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) |  | Startall Back 2026 - 用於專業桌面實用軟體設定的完整可用安裝程式。開箱即用的解決方案。 |
+| [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | Windows 最佳化環境 2026 安裝檔 | Optimized Windows Environment 2026 - 完整可用的安裝程式，帶有進階系統調整和增強功能，可直接執行。 |
+| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | Ads Blocker 2026 桌面軟體安裝檔 | Ads Blocker 2026: 完整可用的安裝程式，具有增強的廣告偵測和阻擋功能。可直接執行的桌面實用軟體工具。 |
+| [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | Startall Back 2026 桌面配置安裝檔 | Startall Back 2026 - 用於專業桌面實用軟體設定的完整可用安裝程式。開箱即用的解決方案。 |
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | Anyunlock 2026 桌面實用工具安裝包 | Anyunlock 2026: 用於強大桌面實用工具設定的完整可用安裝程式，開箱即用。 |
 | [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | Unlocktool 2023 桌面工具安裝包 | Unlocktool 2023: 完整可用的安裝程式，具有增強的資安功能，適用於專業桌面使用。 |
 | [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | 追到新詞，一下午上線一個 AI 站 | 為每個新關鍵字上線一個賺錢的 AI 網站。基於 Cloudflare 的起始範本，含登入驗證、點數、付款和 AI 生成。/ 新詞站群框架：一個新詞一個站，一個下午上線。起量的繼續迭代，沒起… |

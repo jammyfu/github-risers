@@ -152,8 +152,8 @@
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - シームレスなデスクトップ体験のためにすべてのプラグインと設定が含まれた、完全に動作するインストーラー。 |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: すべての機能がアンロックされ、デスクトップですぐに実行できる、完全に動作するインストーラー。 |
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) |  | Discord Quest Completer 2026: すべての機能が有効化され、すぐに実行できる完全なスタンドアロンセットアップ。 |
-| [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) |  | Optimized Windows Environment 2026 - 高度なシステムの調整と機能強化を備え、すぐに実行できる完全に動作するインストーラー。 |
-| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) |  | Ads Blocker 2026: 強化された広告検出およびブロック機能を備えた、完全に動作するインストーラー。すぐに実行できるデスクトップソフトウェアユーティリティ。 |
+| [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | Windows 最適化 2026 インストーラー | Optimized Windows Environment 2026 - 高度なシステムの調整と機能強化を備え、すぐに実行できる完全に動作するインストーラー。 |
+| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | Ads Blocker 2026 インストーラー | Ads Blocker 2026: 強化された広告検出およびブロック機能を備えた、完全に動作するインストーラー。すぐに実行できるデスクトップソフトウェアユーティリティ。 |
 | [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | Startall Back 2026 デスクトップインストーラー | Startall Back 2026 - プロフェッショナルなデスクトップソフトウェアユーティリティ構成のための完全に動作するインストーラー。すぐに使えるソリューション。 |
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | Anyunlock 2026 デスクトップインストーラー | Anyunlock 2026: 強力なデスクトップユーティリティ構成のための完全に動作するインストーラーで、導入後すぐに実行可能。 |
 | [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | Unlocktool 2023 デスクトップインストーラー | Unlocktool 2023: プロフェッショナルなデスクトップ用途向けに強化されたセキュリティ機能を備えた、完全に動作するインストーラー。 |

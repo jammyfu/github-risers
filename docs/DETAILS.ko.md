@@ -152,8 +152,8 @@
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램. |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) |  | Discord Quest Completer 2026: 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 설치 프로그램. |
-| [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) |  | Optimized Windows Environment 2026 - 고급 시스템 조정 및 향상 기능을 갖추고 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |
-| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) |  | Ads Blocker 2026: 향상된 광고 감지 및 차단 기능을 갖춘 완벽하게 작동하는 설치 프로그램. 바로 실행 가능한 데스크톱 소프트웨어 유틸리티. |
+| [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | Windows 최적화 2026 설치 프로그램 | Optimized Windows Environment 2026 - 고급 시스템 조정 및 향상 기능을 갖추고 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |
+| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | Ads Blocker 2026 데스크톱 설치 프로그램 | Ads Blocker 2026: 향상된 광고 감지 및 차단 기능을 갖춘 완벽하게 작동하는 설치 프로그램. 바로 실행 가능한 데스크톱 소프트웨어 유틸리티. |
 | [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | Startall Back 2026 데스크톱 유틸리티 설치기 | Startall Back 2026 - 전문적인 데스크톱 소프트웨어 유틸리티 구성을 위한 완벽하게 작동하는 설치 프로그램. 즉시 사용 가능한 솔루션. |
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | Anyunlock 2026 데스크톱 유틸리티 설치기 | Anyunlock 2026: 강력한 데스크톱 유틸리티 구성을 위한 완벽하게 작동하는 설치 프로그램으로, 즉시 실행 가능합니다. |
 | [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | Unlocktool 2023 데스크톱 설치기 | Unlocktool 2023: 전문 데스크톱용으로 강화된 보안 기능을 갖춘 완벽하게 작동하는 설치 프로그램. |

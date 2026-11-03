@@ -379,7 +379,14 @@
         "seen": "2026-11-03",
         "zh-Hant": "Optimized Windows Environment 2026 - 完整可用的安裝程式，帶有進階系統調整和增強功能，可直接執行。",
         "ja": "Optimized Windows Environment 2026 - 高度なシステムの調整と機能強化を備え、すぐに実行できる完全に動作するインストーラー。",
-        "ko": "Optimized Windows Environment 2026 - 고급 시스템 조정 및 향상 기능을 갖추고 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램."
+        "ko": "Optimized Windows Environment 2026 - 고급 시스템 조정 및 향상 기능을 갖추고 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램.",
+        "hook": {
+          "en": "Optimized Windows Environment 2026 installer",
+          "zh-Hans": "Windows 优化环境 2026 安装包",
+          "zh-Hant": "Windows 最佳化環境 2026 安裝檔",
+          "ja": "Windows 最適化 2026 インストーラー",
+          "ko": "Windows 최적화 2026 설치 프로그램"
+        }
       }
     },
     "GravityHazeWay13/DxO-PhotoLab-10": {
@@ -420,7 +427,14 @@
         "seen": "2026-11-03",
         "zh-Hant": "Ads Blocker 2026: 完整可用的安裝程式，具有增強的廣告偵測和阻擋功能。可直接執行的桌面實用軟體工具。",
         "ja": "Ads Blocker 2026: 強化された広告検出およびブロック機能を備えた、完全に動作するインストーラー。すぐに実行できるデスクトップソフトウェアユーティリティ。",
-        "ko": "Ads Blocker 2026: 향상된 광고 감지 및 차단 기능을 갖춘 완벽하게 작동하는 설치 프로그램. 바로 실행 가능한 데스크톱 소프트웨어 유틸리티."
+        "ko": "Ads Blocker 2026: 향상된 광고 감지 및 차단 기능을 갖춘 완벽하게 작동하는 설치 프로그램. 바로 실행 가능한 데스크톱 소프트웨어 유틸리티.",
+        "hook": {
+          "en": "Ads Blocker 2026 desktop software installer",
+          "zh-Hans": "Ads Blocker 2026 桌面软件安装包",
+          "zh-Hant": "Ads Blocker 2026 桌面軟體安裝檔",
+          "ja": "Ads Blocker 2026 インストーラー",
+          "ko": "Ads Blocker 2026 데스크톱 설치 프로그램"
+        }
       }
     },
     "Interactive-Active-AI/NextTransformer": {
@@ -517,7 +531,9 @@
         "hook": {
           "en": "Startall Back 2026 desktop utility installer",
           "ja": "Startall Back 2026 デスクトップインストーラー",
-          "ko": "Startall Back 2026 데스크톱 유틸리티 설치기"
+          "ko": "Startall Back 2026 데스크톱 유틸리티 설치기",
+          "zh-Hans": "Startall Back 2026 桌面配置安装包",
+          "zh-Hant": "Startall Back 2026 桌面配置安裝檔"
         }
       }
     },
