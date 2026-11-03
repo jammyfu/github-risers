@@ -142,16 +142,16 @@
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 作りたい建築を入力しワールドに一発配置 | 作りたいものを入力し、Minecraft の世界で設計図として確認、ワンステップで配置してワンステップで元に戻せます。Fabric コンパニオン、Paper プラグイン、無料のローカル mo… |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | エージェントの変更を確認してから適用 | この Roblox Studio エージェントによるすべての変更は、最初にあなたが承認する place diff です。Ctrl+Z 1回で任意のターンを巻き戻し、プレイテストはコピー上で実行されるため、本番データが移動することはありません… |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | ブラウザからpiのコーディングエージェントを遠隔操作 | pi コーディングエージェントのためのリモートコントロール。Pi-Remote は実行中の pi ターミナルセッションを任意のブラウザにミラーリングするため、実行の確認、プロンプトへの回答、コマンドの送信 f… |
-| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) |  | cheap-ag で使用量を 50 倍に。Opus/Astra プラン、格安モデルが全コードを記述し、テストが出荷内容を決定。20 ドルのプランが制限に達しなくなります。1つの MCP… |
+| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 制限を気にせず安価なモデルでコードを書く | cheap-ag で使用量を 50 倍に。Opus/Astra プラン、格安モデルが全コードを記述し、テストが出荷内容を決定。20 ドルのプランが制限に達しなくなります。1つの MCP… |
 | [tianfuzhibuyuci/readme-visual-kit](https://github.com/tianfuzhibuyuci/readme-visual-kit) | ローカルで説明文から3枚のREADME図を生成 | ソースコードの根拠を持つプロジェクト説明を3枚の README 図（機能フロー、簡略化アーキテクチャ、クイックスタート）に変換。ローカル SVG レンダラー + Agent Skill、API Key 不要。 |
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | Claude Code用の3Dオフィス空間 | Claude Code セッション用の 3D オフィス |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 確かな根拠でコード検証を助けるレビュー用スキル | Claude Code および Codex 向けの監査可能なコードレビューのスキル：4つの独立したプローブ、証拠に基づく指摘事項、JSON 由来のマージゲート。 |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 差分確認からコミットまで1画面で完結 | macOS 向けのネイティブで軽量な Git クライアント。1つのウィンドウでリポジトリと worktree の管理、diff の確認、変更のコミットを実行。 |
-| [onurozcan/omux](https://github.com/onurozcan/omux) |  | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
-| [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) |  | Roblox Game Copier 2026：簡単なインストールと使用のためにすべての機能が有効化された、事前アクティベート済みデスクトップ版。 |
-| [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - シームレスなデスクトップ体験のためにすべてのプラグインと設定が含まれた、完全に動作するインストーラー。 |
-| [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: すべての機能がアンロックされ、デスクトップですぐに実行できる、完全に動作するインストーラー。 |
-| [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) |  | Discord Quest Completer 2026: すべての機能が有効化され、すぐに実行できる完全なスタンドアロンセットアップ。 |
+| [onurozcan/omux](https://github.com/onurozcan/omux) | Claude Code を並べて実行するターミナル | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
+| [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | 事前アクティベート済みとされる 2026 導入版 | Roblox Game Copier 2026：簡単なインストールと使用のためにすべての機能が有効化された、事前アクティベート済みデスクトップ版。 |
+| [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | 全プラグイン同梱とされる 10.5 導入版 | Total Commander 10.5 - シームレスなデスクトップ体験のためにすべてのプラグインと設定が含まれた、完全に動作するインストーラー。 |
+| [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | 全機能解放済みとされる 2026 デスクトップ版 | Genesis Miner 2026: すべての機能がアンロックされ、デスクトップですぐに実行できる、完全に動作するインストーラー。 |
+| [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | 全機能有効化済みとされる 2026 導入版 | Discord Quest Completer 2026: すべての機能が有効化され、すぐに実行できる完全なスタンドアロンセットアップ。 |
 | [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | Windows 最適化 2026 インストーラー | Optimized Windows Environment 2026 - 高度なシステムの調整と機能強化を備え、すぐに実行できる完全に動作するインストーラー。 |
 | [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | Ads Blocker 2026 インストーラー | Ads Blocker 2026: 強化された広告検出およびブロック機能を備えた、完全に動作するインストーラー。すぐに実行できるデスクトップソフトウェアユーティリティ。 |
 | [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | Startall Back 2026 デスクトップインストーラー | Startall Back 2026 - プロフェッショナルなデスクトップソフトウェアユーティリティ構成のための完全に動作するインストーラー。すぐに使えるソリューション。 |

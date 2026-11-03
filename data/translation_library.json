@@ -27,7 +27,12 @@
         "seen": "2026-11-03",
         "zh-Hant": "Genesis Miner 2026: 完整可用的安裝程式，已解鎖所有功能，可在您的桌面上直接執行。",
         "ja": "Genesis Miner 2026: すべての機能がアンロックされ、デスクトップですぐに実行できる、完全に動作するインストーラー。",
-        "ko": "Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램."
+        "ko": "Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램.",
+        "hook": {
+          "en": "Genesis Miner 2026 installer, listed as fully unlocked",
+          "ja": "全機能解放済みとされる 2026 デスクトップ版",
+          "ko": "모든 기능이 잠금 해제된 2026 데스크톱 설치본"
+        }
       }
     },
     "AshReinvigorate/Microsoft-Office": {
@@ -137,7 +142,12 @@
         "seen": "2026-11-03",
         "zh-Hant": "Roblox Game Copier 2026：預先啟用桌面版，已啟用所有功能，便於安裝與使用。",
         "ja": "Roblox Game Copier 2026：簡単なインストールと使用のためにすべての機能が有効化された、事前アクティベート済みデスクトップ版。",
-        "ko": "Roblox Game Copier 2026: 쉬운 설치와 사용을 위해 모든 기능이 활성화된 사전 활성화 데스크톱 에디션."
+        "ko": "Roblox Game Copier 2026: 쉬운 설치와 사용을 위해 모든 기능이 활성화된 사전 활성화 데스크톱 에디션.",
+        "hook": {
+          "en": "Roblox Game Copier 2026 installer, listed as pre-activated",
+          "ja": "事前アクティベート済みとされる 2026 導入版",
+          "ko": "사전 활성화로 표기된 2026 데스크톱 설치본"
+        }
       }
     },
     "CaretakerPlain/Whale-Tracker": {
@@ -416,7 +426,9 @@
         "hook": {
           "en": "Stuck on nursing research? Use AI skills to plan and write",
           "ja": "看護研究が進まない時に、AIスキルで設計から執筆まで支援",
-          "ko": "간호 연구가 막힐 때, AI 스킬로 설계부터 작성까지 해결"
+          "ko": "간호 연구가 막힐 때, AI 스킬로 설계부터 작성까지 해결",
+          "zh-Hans": "护理科研太繁琐，AI 技能帮你做",
+          "zh-Hant": "護理科研太繁瑣，AI 技能幫你做"
         }
       }
     },
@@ -995,7 +1007,7 @@
       "de5c69630f29": {
         "src": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
         "zh-Hans": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-        "seen": "2026-11-02",
+        "seen": "2026-11-03",
         "zh-Hant": "手機隱私審計：用 adb 掃出 Android 應用的權限、回報端點與數據流向，並給出可復原的處置。桌面 Android 洩漏審計：權限、端點、數據流向、可復原的修復。",
         "ja": "スマホのプライバシー監査：adb で Android アプリの権限、送信先エンドポイント、データフローを検出し、ロールバック可能な対応を提示。デスクトップ Android リーク監査：権限、エンドポイント、データフロー、可逆的な修正。",
         "ko": "스마트폰 개인정보 감사: adb로 Android 앱의 권한, 전송 엔드포인트 및 데이터 흐름을 스캔하고 롤백 가능한 조치를 제공. 데스크톱 Android 유출 감사: 권한, 엔드포인트, 데이터 흐름, 되돌릴 수 있는 수정.",
@@ -1004,7 +1016,8 @@
           "en": "Audit Android app privacy leaks with reversible fixes",
           "zh-Hans": "扫出安卓应用隐私泄露，并支持安全回滚",
           "ja": "Android アプリの情報漏えいをスキャンして安全に対処",
-          "ko": "안드로이드 앱의 정보 유출을 점검하고 되돌릴 수 있게 조치"
+          "ko": "안드로이드 앱의 정보 유출을 점검하고 되돌릴 수 있게 조치",
+          "zh-Hant": "掃出手機應用隱私外洩並可隨時還原"
         }
       }
     },
@@ -1229,7 +1242,9 @@
         "hook": {
           "en": "No footage for reels? Animate with Claude Code skills",
           "ja": "動画素材がない時に、Claude Codeスキルでアニメ制作",
-          "ko": "영상 소재가 없을 때, Claude Code 스킬로 애니메이션 제작"
+          "ko": "영상 소재가 없을 때, Claude Code 스킬로 애니메이션 제작",
+          "zh-Hans": "做短视频没素材，用技能直接做动画",
+          "zh-Hant": "做短影音沒素材，用技能直接做動畫"
         }
       }
     },
@@ -1452,7 +1467,9 @@
         "hook": {
           "en": "Turn one topic into a YouTube video using Claude agents",
           "ja": "ひとつの話題から、Claudeエージェントが動画を完成",
-          "ko": "주제 하나로 Claude 에이전트가 완성하는 다국어 영상"
+          "ko": "주제 하나로 Claude 에이전트가 완성하는 다국어 영상",
+          "zh-Hans": "给一个主题，智能体做成多语言视频",
+          "zh-Hant": "給一個主題，代理做成多語言影片"
         }
       }
     },
@@ -1493,7 +1510,9 @@
         "hook": {
           "en": "Hard to inspect Vue apps? Run reverse and Web security tests",
           "ja": "Vueの解析に困ったら、リバースとWebセキュリティテスト",
-          "ko": "Vue 분석이 어려울 때, 리버스와 Web 보안 테스트"
+          "ko": "Vue 분석이 어려울 때, 리버스와 Web 보안 테스트",
+          "zh-Hans": "做安全测试，轻松逆向 Vue 前端",
+          "zh-Hant": "做安全測試，輕鬆逆向 Vue 前端"
         }
       }
     },
@@ -1836,7 +1855,9 @@
         "hook": {
           "en": "Tired of locked bots? Run your own on any model locally",
           "ja": "単一ボットに縛られず、ローカルで自由なモデルを動かす",
-          "ko": "특정 봇에 묶이지 않고 로컬에서 원하는 모델을 실행"
+          "ko": "특정 봇에 묶이지 않고 로컬에서 원하는 모델을 실행",
+          "zh-Hans": "在本地用任意模型打造专属 AI 机器人",
+          "zh-Hant": "在本機用任意模型打造專屬 AI 機器人"
         }
       }
     },
@@ -1913,7 +1934,12 @@
         "seen": "2026-11-03",
         "zh-Hant": "使用 cheap-ag 將您的使用量提升 50 倍。Opus/Astra 方案，極便宜的模型編寫每一行程式碼，測試決定交付內容。您的 $20 方案不再觸及限制。一個 MCP…",
         "ja": "cheap-ag で使用量を 50 倍に。Opus/Astra プラン、格安モデルが全コードを記述し、テストが出荷内容を決定。20 ドルのプランが制限に達しなくなります。1つの MCP…",
-        "ko": "cheap-ag로 사용량을 50배 늘리세요. Opus/Astra 플랜, 초저가 모델이 모든 줄을 작성하고 테스트가 배포 항목을 결정합니다. $20 플랜의 한도 도달이 중단됩니다. 하나의 MCP…"
+        "ko": "cheap-ag로 사용량을 50배 늘리세요. Opus/Astra 플랜, 초저가 모델이 모든 줄을 작성하고 테스트가 배포 항목을 결정합니다. $20 플랜의 한도 도달이 중단됩니다. 하나의 MCP…",
+        "hook": {
+          "en": "Stop hitting limits on your $20 plan with cheap models",
+          "ja": "制限を気にせず安価なモデルでコードを書く",
+          "ko": "저렴한 모델로 사용량 제한 없이 코드 작성하기"
+        }
       },
       "f24f9c5c33ef": {
         "src": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP…",
@@ -1963,6 +1989,18 @@
           "ja": "Cubase 13 事前アクティベート済みインストーラー",
           "ko": "Cubase 13 사전 활성화 설치판"
         }
+      }
+    },
+    "onurozcan/omux": {
+      "98e2a817f1b3": {
+        "src": "Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma…",
+        "hook": {
+          "en": "Run multiple Claude Code and Codex sessions side by side",
+          "zh-Hans": "在终端并排运行多个 Claude Code 会话",
+          "ja": "Claude Code を並べて実行するターミナル",
+          "ko": "Claude Code 세션을 나란히 실행하는 터미널"
+        },
+        "seen": "2026-11-03"
       }
     },
     "op7418/dsh-guizang-design": {
@@ -2080,7 +2118,12 @@
         "seen": "2026-11-03",
         "zh-Hant": "Total Commander 10.5 - 完整可用的安裝程式，包含所有外掛和設定，帶來無縫的桌面體驗。",
         "ja": "Total Commander 10.5 - シームレスなデスクトップ体験のためにすべてのプラグインと設定が含まれた、完全に動作するインストーラー。",
-        "ko": "Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램."
+        "ko": "Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램.",
+        "hook": {
+          "en": "Total Commander 10.5 installer, listed as full working",
+          "ja": "全プラグイン同梱とされる 10.5 導入版",
+          "ko": "모든 플러그인이 포함된 10.5 데스크톱 설치본"
+        }
       }
     },
     "routerhubSI/uncensored-ai-api": {
@@ -2280,7 +2323,12 @@
         "seen": "2026-11-03",
         "zh-Hant": "Discord Quest Completer 2026: 完整的獨立安裝程式，所有功能均已啟用，可直接執行。",
         "ja": "Discord Quest Completer 2026: すべての機能が有効化され、すぐに実行できる完全なスタンドアロンセットアップ。",
-        "ko": "Discord Quest Completer 2026: 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 설치 프로그램."
+        "ko": "Discord Quest Completer 2026: 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 설치 프로그램.",
+        "hook": {
+          "en": "Discord Quest Completer 2026 setup, listed as activated",
+          "ja": "全機能有効化済みとされる 2026 導入版",
+          "ko": "모든 기능이 활성화된 2026 단독 설치본"
+        }
       }
     },
     "t3dotgg/tstack": {

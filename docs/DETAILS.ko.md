@@ -142,16 +142,16 @@
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 원하는 건축을 입력해 월드에 한 번에 배치 | 만들고 싶은 것을 입력하고 Minecraft 월드에서 청사진으로 확인한 다음 한 단계로 배치하고 한 단계로 실행 취소하세요. Fabric 동반자, Paper 플러그인, 무료 로컬 mo… |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 에이전트의 변경 사항을 미리 확인하고 적용 | 이 Roblox Studio 에이전트가 수행하는 모든 변경 사항은 먼저 승인하는 place diff입니다. Ctrl+Z 한 번으로 모든 턴을 되돌릴 수 있으며, 플레이 테스트는 사본에서 실행되므로 라이브 데이터가 절대 이동하지 않습니다… |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | 브라우저에서 pi 코딩 에이전트를 원격 제어 | pi 코딩 에이전트를 위한 원격 제어. Pi-Remote는 라이브 pi 터미널 세션을 모든 브라우저에 미러링하므로 실행을 확인하고 프롬프트에 답변하며 명령을 전송 f… |
-| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) |  | cheap-ag로 사용량을 50배 늘리세요. Opus/Astra 플랜, 초저가 모델이 모든 줄을 작성하고 테스트가 배포 항목을 결정합니다. $20 플랜의 한도 도달이 중단됩니다. 하나의 MCP… |
+| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 저렴한 모델로 사용량 제한 없이 코드 작성하기 | cheap-ag로 사용량을 50배 늘리세요. Opus/Astra 플랜, 초저가 모델이 모든 줄을 작성하고 테스트가 배포 항목을 결정합니다. $20 플랜의 한도 도달이 중단됩니다. 하나의 MCP… |
 | [tianfuzhibuyuci/readme-visual-kit](https://github.com/tianfuzhibuyuci/readme-visual-kit) | 로컬에서 프로젝트 설명으로 README 다이어그램 생성 | 소스 코드 근거가 있는 프로젝트 설명을 3장의 README 다이어그램(기능 흐름, 단순화된 아키텍처, 빠른 시작)으로 변환합니다. 로컬 SVG 렌더러 + Agent Skill, API Key 불필요. |
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | Claude Code를 위한 3D 오피스 공간 | Claude Code 세션을 위한 3D 사무실 |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 명확한 근거로 코드 검증을 돕는 리뷰 스킬 | Claude Code 및 Codex를 위한 감사 가능한 코드 검토 스킬: 4개의 독립 프로브, 증거 기반 결과, JSON 파생 병합 게이트. |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 저장소 관리와 커밋을 한 화면에서 해결 | macOS용 네이티브 경량 Git 클라이언트. 단일 창에서 저장소 및 worktree 관리, diff 검토, 변경 사항 커밋 수행. |
-| [onurozcan/omux](https://github.com/onurozcan/omux) |  | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
-| [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) |  | Roblox Game Copier 2026: 쉬운 설치와 사용을 위해 모든 기능이 활성화된 사전 활성화 데스크톱 에디션. |
-| [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램. |
-| [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |
-| [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) |  | Discord Quest Completer 2026: 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 설치 프로그램. |
+| [onurozcan/omux](https://github.com/onurozcan/omux) | Claude Code 세션을 나란히 실행하는 터미널 | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
+| [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | 사전 활성화로 표기된 2026 데스크톱 설치본 | Roblox Game Copier 2026: 쉬운 설치와 사용을 위해 모든 기능이 활성화된 사전 활성화 데스크톱 에디션. |
+| [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | 모든 플러그인이 포함된 10.5 데스크톱 설치본 | Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램. |
+| [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | 모든 기능이 잠금 해제된 2026 데스크톱 설치본 | Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |
+| [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | 모든 기능이 활성화된 2026 단독 설치본 | Discord Quest Completer 2026: 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 설치 프로그램. |
 | [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | Windows 최적화 2026 설치 프로그램 | Optimized Windows Environment 2026 - 고급 시스템 조정 및 향상 기능을 갖추고 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |
 | [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | Ads Blocker 2026 데스크톱 설치 프로그램 | Ads Blocker 2026: 향상된 광고 감지 및 차단 기능을 갖춘 완벽하게 작동하는 설치 프로그램. 바로 실행 가능한 데스크톱 소프트웨어 유틸리티. |
 | [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | Startall Back 2026 데스크톱 유틸리티 설치기 | Startall Back 2026 - 전문적인 데스크톱 소프트웨어 유틸리티 구성을 위한 완벽하게 작동하는 설치 프로그램. 즉시 사용 가능한 솔루션. |

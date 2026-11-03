@@ -121,7 +121,7 @@
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 一句话描述技术栈，自动生成架构图 | 带官方徽标的架构图智能体技能：只需一句话描述你的技术栈即可直接获取 |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | 告别静默截断，无损运行代码智能体 | 无损、无头的编码智能体套件。一个 7 MB 静态二进制文件，四个工具，纯 stdin/stdout，无隐形截断。 |
 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 代码库怎么拼起来的，看这张图 | 看清你的应用究竟是如何拼装在一起的。一张可交互、用通俗英语讲解的代码库地图，由 Claude 或 Codex 绘制。 |
-| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |  | 🤖 Grok Bot、OpenAI dots 和 Claude Duet 的开源、本地优先替代品。在任何模型上拥有你自己的 AI 机器人：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM… |
+| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 在本地用任意模型打造专属 AI 机器人 | 🤖 Grok Bot、OpenAI dots 和 Claude Duet 的开源、本地优先替代品。在任何模型上拥有你自己的 AI 机器人：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM… |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 动效抄不像？逐帧还原并验证完全一致 | 逐帧逆向任何动画的 Claude Code 技能，随后直接验证副本运动完全一致 |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 安全测试太费劲？让 AI 军团自主排查 | 自主渗透测试军团配齐 AI 指挥官 + 工蜂集群 + 分层事实-意图图谱，拿下第三届腾讯智慧攻防在线冠军（634 支队伍 · 8h una… |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 只有一个点子，也能生成全流程 AI 漫剧 | 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek |
@@ -147,7 +147,7 @@
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | 为 Claude Code 打造 3D 办公空间 | 适用于你的 Claude Code 会话的 3D 办公室 |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 代码审查有据可依，合并更有把握 | 适用于 Claude Code 和 Codex 的可审计代码审查技能：四个独立探针、以证据为支撑的发现以及基于 JSON 的合并门禁。 |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 单窗口搞定仓库管理、差异比对与提交 | 适用于 macOS 的原生、轻量级 Git 客户端。在单个窗口中管理仓库和 worktree、审查 diff 并提交更改。 |
-| [onurozcan/omux](https://github.com/onurozcan/omux) |  | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
+| [onurozcan/omux](https://github.com/onurozcan/omux) | 在终端并排运行多个 Claude Code 会话 | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) |  | Roblox Game Copier 2026：预激活桌面版，已启用所有功能，便于安装和使用。 |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - 完整可用的安装程序，包含所有插件和设置，带来无缝的桌面体验。 |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: 完整可用的安装程序，已解锁所有功能，可在您的桌面上直接运行。 |
@@ -165,14 +165,14 @@
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | 提示词到处乱放？在桌面本地统一收藏 | 本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | 六十四卦做成动画，全靠代码 | 《易经》六十四卦结构动画 · 完全用代码制作的《易经》六十四卦动态图形（Remotion + React） |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | 录音笔的录音，转成能搜的文字 | OpenMinutes · 录音笔工作台：MemoTalk S1 录音的导入 · 转录 · AI 归类 · 检索复盘（Floatboat Workbench 开源实现） |
-| [fush520/fush-vue-mcp](https://github.com/fush520/fush-vue-mcp) |  | Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具） |
+| [fush520/fush-vue-mcp](https://github.com/fush520/fush-vue-mcp) | 做安全测试，轻松逆向 Vue 前端 | Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具） |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | 画出 AI 工作流，在自己电脑上跑 | 面向可视化工作流和自主智能体的智能体式 AI 平台。可用 Docker 在你自己的电脑或服务器上运行。 |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 缺像素特效？244段简短代码直接套用 | 244 个像素艺术效果，每一个都是一小段代码。外加一个用于制作自己效果的 Claude Code 技能。 |
 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 页面太单调？画上代尔夫特蓝花卉页边 | 为 LuaLaTeX 程序化生成的代尔夫特蓝花卉页边，使用 Lua 绘制 |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | 排版全是 AI 味？用一套设计系统去掉 | 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个技能，一套设计系统；作品库、内容生产工作流、语气档案 |
-| [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) |  | 六个无需素材即可为 reels 制作动画的 Claude Code 技能：3D 卡通解说、火柴人、极简线条艺术、3D 地图路线、分解视图、li… |
-| [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) |  | 护研搭子｜18个开源护理科研AI技能，覆盖检索、设计、数据、统计、写作与图表；新增队列研究和RCT流程、模板及合成示例。 |
+| [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 做短视频没素材，用技能直接做动画 | 六个无需素材即可为 reels 制作动画的 Claude Code 技能：3D 卡通解说、火柴人、极简线条艺术、3D 地图路线、分解视图、li… |
+| [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 护理科研太繁琐，AI 技能帮你做 | 护研搭子｜18个开源护理科研AI技能，覆盖检索、设计、数据、统计、写作与图表；新增队列研究和RCT流程、模板及合成示例。 |
 | [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation) | 代码动画难做？文案与声音直接生成 | 把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。 |
 | [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | AI 智能体写的界面，帮你检查设计规范 | 针对通过 AI 编程智能体构建的界面（Web 以及 SwiftUI 和 Jetpack Compose 应用）的设计规则与零依赖检查器。支持英语和土耳其语。 |
-| [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) |  | AI 视频工厂：从一个主题到成品的跨语言 YouTube 视频。Claude 智能体负责编写、规划、绘制与审核；Studio 让用户始终掌控全局。 |
+| [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | 给一个主题，智能体做成多语言视频 | AI 视频工厂：从一个主题到成品的跨语言 YouTube 视频。Claude 智能体负责编写、规划、绘制与审核；Studio 让用户始终掌控全局。 |
 | [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | 解说动效难做？74个看板随语音同步 | 用于 YouTube 解说视频的 AI 动态图形：74 个动画 HTML 解说面板（图表、图解、韦恩图、时间线、热力图），与你的语音同步，借助 Whispe… |

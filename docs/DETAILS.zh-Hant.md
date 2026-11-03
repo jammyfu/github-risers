@@ -121,7 +121,7 @@
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 一句話描述技術堆疊，自動畫出架構圖 | 代理技能：用一句話描述你的技術棧，獲取帶有官方標誌的架構圖 |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | 告別靜默截斷，無損運行程式碼代理 | 無損、無頭的編碼代理套件。一個 7 MB 靜態二進位檔，四個工具，純 stdin/stdout，無隱形截斷。 |
 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 程式碼庫怎麼拼起來的，看這張圖 | 看清你的應用程式究竟是如何組合在一起的。一張可互動、用淺顯英文說明的程式碼庫地圖，由 Claude 或 Codex 繪製。 |
-| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |  | 🤖 Grok Bot、OpenAI dots 和 Claude Duet 的開源、本機優先替代方案。在任何模型上擁有您自己的 AI 機器人：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM… |
+| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 在本機用任意模型打造專屬 AI 機器人 | 🤖 Grok Bot、OpenAI dots 和 Claude Duet 的開源、本機優先替代方案。在任何模型上擁有您自己的 AI 機器人：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM… |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 動效抄不像？逐幀還原並驗證完全一致 | 一個逐幀逆向任何動畫、隨後驗證複本運作完全一致的 Claude Code 技能。 |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 安全測試太費勁？讓 AI 軍團自主排查 | 自主滲透測試軍團 —— AI 指揮官 + 工蜂集群 + 分層事實-意圖圖譜。第三屆騰訊智慧攻防線上冠軍（634 支隊伍 · 8h una… |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 只有一個點子，也能生成全流程 AI 漫劇 | 21 個題材的 AI 漫劇全流程 Skill：一句點子生成企劃案、資產圖提示詞、分集劇本、分鏡與影片提示詞。可用於 Claude Code、WorkBuddy、DeepSeek |
@@ -137,7 +137,7 @@
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | 選 341 種風格，一鍵渲染程式碼影片 | 341 種代碼動畫風格提示詞、193 張參考靜幀與離線挑選器，封裝為 Claude Code / Codex 技能，支援一鍵匯入與 HTML 影片渲染。 |
 | [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | 讓 AI 把儲存庫面臨的威脅理清楚 | 針對 AI 程式設計代理的威脅建模：讓 Claude Code、Codex 或任何代理讀取你的儲存庫，產生有證據可追溯的威脅模型。36 種架構，29 種方法，… |
 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | 告別算力偏差，用開源框架評測新模型 | :sunrise: 面向下一代 Transformer 的全面、前沿的開源框架，具有匹配計算量的基準測試以及一個自主… |
-| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) |  | 手機隱私審計：用 adb 掃出 Android 應用的權限、回報端點與數據流向，並給出可復原的處置。桌面 Android 洩漏審計：權限、端點、數據流向、可復原的修復。 |
+| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 掃出手機應用隱私外洩並可隨時還原 | 手機隱私審計：用 adb 掃出 Android 應用的權限、回報端點與數據流向，並給出可復原的處置。桌面 Android 洩漏審計：權限、端點、數據流向、可復原的修復。 |
 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | 不知庫存價值，在終端機盤點並做成卡片 | 在終端機中評估您的 Steam 庫存價值並列印為分享卡片：按遊戲、按市場、已售出與未售出。單個 Windows 可攜式組建，無需帳戶。 |
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 輸入建築想法，在遊戲中一鍵放置或復原 | 輸入你想建造的內容，在你的 Minecraft 世界中將其視為藍圖，一步放置並一步撤銷。Fabric 伴侶、Paper 外掛、免費本機 mo… |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 怕改壞場景，代理修改先由你確認 | 這款 Roblox Studio 代理所做的每一項變更都是由你先批准的 place diff。只需一次 Ctrl+Z 即可回退任何輪次，測試遊玩在複本上執行，因此實際資料絕不會移動… |
@@ -165,14 +165,14 @@
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | 提示詞到處亂放？在桌面本機統一收藏 | 本機優先的提示詞收藏桌面工具 · Tauri 2 + React 19 + TypeScript · 適用於 Windows 的本機優先提示詞保管庫 |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | 六十四卦做成動畫，全靠程式碼 | 《易經》六十四卦結構動畫 · 完全以程式碼製作的《易經》六十四卦動態圖形（Remotion + React） |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | 錄音筆的錄音，轉成能搜的文字 | OpenMinutes · 錄音筆工作台：MemoTalk S1 錄音的匯入 · 轉錄 · AI 歸類 · 檢索複盤（Floatboat Workbench 開源實作） |
-| [fush520/fush-vue-mcp](https://github.com/fush520/fush-vue-mcp) |  | Fush Vue MCP —— Vue 前端逆向 + Web 安全測試工具（Chrome 擴充功能 + MCP 伺服端，91 個工具） |
+| [fush520/fush-vue-mcp](https://github.com/fush520/fush-vue-mcp) | 做安全測試，輕鬆逆向 Vue 前端 | Fush Vue MCP —— Vue 前端逆向 + Web 安全測試工具（Chrome 擴充功能 + MCP 伺服端，91 個工具） |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | 畫出 AI 工作流程，在自己電腦上跑 | 適用於視覺化工作流程與自主代理的代理式 AI 平台。可用 Docker 在你自己的電腦或伺服器上執行。 |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 缺像素特效？244段簡短程式碼直接套用 | 244 個像素藝術效果，每一個都是一小段程式碼。外加一個用於製作自己效果的 Claude Code 技能。 |
 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 頁面太單調？畫上代爾夫特藍花卉頁邊 | 為 LuaLaTeX 程式化生成的代爾夫特藍花卉頁邊，使用 Lua 繪製 |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | 排版全是 AI 味？用一套設計系統去掉 | 歸藏设计 · DeepSeek Harness 插件：網頁 PPT、圖文卡片、網頁排版、去 AI 味四個技能，一套設計系統；作品庫、內容生產工作流、語氣檔案 |
-| [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) |  | 六個無需素材即可為 reels 製作動畫的 Claude Code 技能：3D 卡通解說、火柴人、極簡線條藝術、3D 地圖路線、分解視圖、li… |
-| [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) |  | 護研搭子｜18個開源護理科研AI技能，涵蓋檢索、設計、數據、統計、寫作與圖表；新增佇列研究和RCT流程、模板及合成範例。 |
+| [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 做短影音沒素材，用技能直接做動畫 | 六個無需素材即可為 reels 製作動畫的 Claude Code 技能：3D 卡通解說、火柴人、極簡線條藝術、3D 地圖路線、分解視圖、li… |
+| [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 護理科研太繁瑣，AI 技能幫你做 | 護研搭子｜18個開源護理科研AI技能，涵蓋檢索、設計、數據、統計、寫作與圖表；新增佇列研究和RCT流程、模板及合成範例。 |
 | [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation) | 代碼動畫難做？文案與聲音直接生成 | 把中文文案、畫風提示詞和聲音做成前後連貫的程式碼動畫（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 畫風庫檢索、語意分鏡、鏡頭轉場、角色表演、四案音樂與音效、檢查返修。 |
 | [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | 代理寫的介面不規範？一鍵檢查設計規則 | 針對透過 AI 編程代理構建的介面（Web 以及 SwiftUI 和 Jetpack Compose 應用程式）的設計規則與零依賴檢查器。英語和土耳其語。 |
-| [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) |  | AI 影片工廠：從一個主題到成品的多語言 YouTube 影片。Claude 代理負責撰寫、規劃、繪製與審核；Studio 讓使用者始終掌控全局。 |
+| [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | 給一個主題，代理做成多語言影片 | AI 影片工廠：從一個主題到成品的多語言 YouTube 影片。Claude 代理負責撰寫、規劃、繪製與審核；Studio 讓使用者始終掌控全局。 |
 | [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | 解說動效難做？74個看板隨語音同步 | 用於 YouTube 解說影片的 AI 動態圖形：74 個動畫 HTML 解說面板（圖表、圖解、韋恩圖、時間線、熱力圖），與你的語音同步，借助 Whispe… |
