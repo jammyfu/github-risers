@@ -20,6 +20,16 @@
         }
       }
     },
+    "AquaTradesmanAbide/genesis-miner": {
+      "763aa49dd31a": {
+        "src": "Genesis Miner 2026: Full working installer with all features unlocked, ready to run on your desktop.",
+        "zh-Hans": "Genesis Miner 2026: 完整可用的安装程序，已解锁所有功能，可在您的桌面上直接运行。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Genesis Miner 2026: 完整可用的安裝程式，已解鎖所有功能，可在您的桌面上直接執行。",
+        "ja": "Genesis Miner 2026: すべての機能がアンロックされ、デスクトップですぐに実行できる、完全に動作するインストーラー。",
+        "ko": "Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램."
+      }
+    },
     "AshReinvigorate/Microsoft-Office": {
       "41944f2cf9d4": {
         "src": "Microsoft Office 2026 complete standalone setup. Ready-to-run desktop installation with all features pre-activated.",
@@ -44,6 +54,23 @@
         }
       }
     },
+    "AssassinCreator/steam-stash-value-report-card": {
+      "7a03062552e0": {
+        "src": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+        "zh-Hans": "在终端中评估你的 Steam 库存价值并打印为分享卡片：按游戏、按市场、已售出和未售出。单个 Windows 便携版本，无需账户。",
+        "seen": "2026-11-03",
+        "zh-Hant": "在終端機中評估您的 Steam 庫存價值並列印為分享卡片：按遊戲、按市場、已售出與未售出。單個 Windows 可攜式組建，無需帳戶。",
+        "ja": "ターミナルで Steam インベントリの価値を評価し、シェアカードとして出力：ゲーム別、市場別、売れたものと売れ残っているもの。1つの Windows ポータブルビルド、アカウント不要。",
+        "ko": "터미널에서 Steam 보관함 가치를 평가하고 공유 카드로 출력: 게임별, 마켓별, 판매된 것과 남아있는 것. 단일 Windows 포터블 빌드, 계정 불필요.",
+        "hook": {
+          "en": "Unsure what your Steam stash is worth? Price it in terminal",
+          "zh-Hans": "不知库存价值，在终端盘点并生成分享卡",
+          "zh-Hant": "不知庫存價值，在終端機盤點並做成卡片",
+          "ja": "在庫価値が不明なら、ターミナルでSteamを査定",
+          "ko": "아이템 가치를 모를 때 터미널에서 Steam 정산"
+        }
+      }
+    },
     "Balanov/baiagent-director": {
       "eaa6600f4c80": {
         "src": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
@@ -62,6 +89,21 @@
       }
     },
     "Balanov/uncut": {
+      "2117ea1c0d56": {
+        "src": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+        "zh-Hans": "无损、无头的编码智能体套件。一个 7 MB 静态二进制文件，四个工具，纯 stdin/stdout，无隐形截断。",
+        "seen": "2026-11-03",
+        "zh-Hant": "無損、無頭的編碼代理套件。一個 7 MB 靜態二進位檔，四個工具，純 stdin/stdout，無隱形截斷。",
+        "ja": "ロスレスでヘッドレスなコーディングエージェントハーネス。1つの 7 MB 静的バイナリ、4つのツール、プレーンな stdin/stdout、サイレントカットなし。",
+        "ko": "무손실, 헤드리스 코딩 에이전트 하네스. 하나의 7 MB 정적 바이너리, 4개의 도구, 일반 stdin/stdout, 소리 없는 잘림 없음.",
+        "hook": {
+          "en": "Prevent silent code cuts with a lossless agent harness",
+          "zh-Hans": "告别静默截断，无损运行代码智能体",
+          "zh-Hant": "告別靜默截斷，無損運行程式碼代理",
+          "ja": "勝手なコード切断を防ぎ、無損失でエージェントを動かす",
+          "ko": "코드의 무단 절단을 막고 코딩 에이전트를 온전하게 실행"
+        }
+      },
       "2604b8b860ad": {
         "src": "A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
         "zh-Hans": "7 MB 无损编码智能体 harness：适用于 shell、CI 和本地模型，没有 TUI，更不会静默截断上下文。",
@@ -86,6 +128,16 @@
         "zh-Hant": "Slideshow Video Maker 2026 - 完整可用安裝程式，所有功能預先啟用且隨時可運行的桌面版。",
         "ja": "Slideshow Video Maker 2026 - 完全に動作するインストーラー、すべての機能が事前アクティベートされた実行可能なデスクトップ版。",
         "ko": "Slideshow Video Maker 2026 - 완전한 작동 설치 프로그램, 모든 기능이 사전 활성화되어 바로 실행 가능한 데스크톱 버전."
+      }
+    },
+    "Bridgeyaprovide/roblox-game-copier": {
+      "bf1a2e0550ac": {
+        "src": "Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.",
+        "zh-Hans": "Roblox Game Copier 2026：预激活桌面版，已启用所有功能，便于安装和使用。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Roblox Game Copier 2026：預先啟用桌面版，已啟用所有功能，便於安裝與使用。",
+        "ja": "Roblox Game Copier 2026：簡単なインストールと使用のためにすべての機能が有効化された、事前アクティベート済みデスクトップ版。",
+        "ko": "Roblox Game Copier 2026: 쉬운 설치와 사용을 위해 모든 기능이 활성화된 사전 활성화 데스크톱 에디션."
       }
     },
     "CaretakerPlain/Whale-Tracker": {
@@ -320,6 +372,16 @@
         }
       }
     },
+    "GalaxyShadeSquare/windows-optimizer": {
+      "12db3083ba2e": {
+        "src": "Optimized Windows Environment 2026 - Full working installer with advanced system tweaks and enhancements ready to run.",
+        "zh-Hans": "Optimized Windows Environment 2026 - 完整可用的安装程序，带有高级系统调整和增强功能，可直接运行。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Optimized Windows Environment 2026 - 完整可用的安裝程式，帶有進階系統調整和增強功能，可直接執行。",
+        "ja": "Optimized Windows Environment 2026 - 高度なシステムの調整と機能強化を備え、すぐに実行できる完全に動作するインストーラー。",
+        "ko": "Optimized Windows Environment 2026 - 고급 시스템 조정 및 향상 기능을 갖추고 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램."
+      }
+    },
     "GravityHazeWay13/DxO-PhotoLab-10": {
       "0b34d9268225": {
         "src": "Ready-to-run Dxo Photolab 10 desktop installation build, fully activated and ready for professional photo processing.",
@@ -332,6 +394,49 @@
           "en": "DxO PhotoLab 10 desktop build, listed as activated",
           "ja": "有効化済みと記載のDxO PhotoLab 10デスクトップ構成",
           "ko": "활성화 상태로 기재된 DxO PhotoLab 10 데스크톱 빌드"
+        }
+      }
+    },
+    "GuoZheng-de-BaBa/nursing-research-skills": {
+      "2a84359478b9": {
+        "src": "护研搭子｜18个开源护理科研AI技能，覆盖检索、设计、数据、统计、写作与图表；新增队列研究和RCT流程、模板及合成示例。",
+        "zh-Hans": "护研搭子｜18个开源护理科研AI技能，覆盖检索、设计、数据、统计、写作与图表；新增队列研究和RCT流程、模板及合成示例。",
+        "seen": "2026-11-03",
+        "zh-Hant": "護研搭子｜18個開源護理科研AI技能，涵蓋檢索、設計、數據、統計、寫作與圖表；新增佇列研究和RCT流程、模板及合成範例。",
+        "ja": "看護研究パートナー｜検索、設計、データ、統計、執筆、グラフを網羅する18のオープンソース看護研究AIスキル；コホート研究とRCTのプロセス、テンプレート、合成例を新たに追加。",
+        "ko": "간호 연구 메이트｜검색, 설계, 데이터, 통계, 논문 작성 및 도표를 아우르는 18개의 오픈 소스 간호 연구 AI 스킬; 코호트 연구 및 RCT 프로세스, 템플릿, 합성 예시 신규 추가.",
+        "en": "Nursing Research Companion | 18 open-source nursing research AI skills covering retrieval, design, data, statistics, writing, and charts; newly added cohort study and RCT workflows, templates, and synthetic examples.",
+        "hook": {
+          "en": "Stuck on nursing research? Use AI skills to plan and write",
+          "ja": "看護研究が進まない時に、AIスキルで設計から執筆まで支援",
+          "ko": "간호 연구가 막힐 때, AI 스킬로 설계부터 작성까지 해결"
+        }
+      }
+    },
+    "HandcuffHelper/ads-blocker": {
+      "d84b94473f67": {
+        "src": "Ads Blocker 2026: Full working installer with enhanced ad detection and blocking capabilities. Ready-to-run desktop software utility.",
+        "zh-Hans": "Ads Blocker 2026: 完整可用的安装程序，具有增强的广告检测和拦截功能。可直接运行的桌面实用软件工具。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Ads Blocker 2026: 完整可用的安裝程式，具有增強的廣告偵測和阻擋功能。可直接執行的桌面實用軟體工具。",
+        "ja": "Ads Blocker 2026: 強化された広告検出およびブロック機能を備えた、完全に動作するインストーラー。すぐに実行できるデスクトップソフトウェアユーティリティ。",
+        "ko": "Ads Blocker 2026: 향상된 광고 감지 및 차단 기능을 갖춘 완벽하게 작동하는 설치 프로그램. 바로 실행 가능한 데스크톱 소프트웨어 유틸리티."
+      }
+    },
+    "Interactive-Active-AI/NextTransformer": {
+      "960c8d09a764": {
+        "src": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous…",
+        "zh-Hans": ":sunrise: 面向下一代 Transformer 的全面、前沿的开源框架，具有匹配计算量的基准测试以及一个自主…",
+        "seen": "2026-11-03",
+        "zh-Hant": ":sunrise: 面向下一代 Transformer 的全面、前沿的開源框架，具有匹配計算量的基準測試以及一個自主…",
+        "ja": ":sunrise: 次世代 Transformer のための包括的で最先端のオープンソースフレームワーク。計算量に合わせたベンチマークと自律的な…",
+        "ko": ":sunrise: 차세대 Transformer를 위한 포괄적이고 최첨단 오픈 소스 프레임워크로, 연산량 맞춤형 벤치마킹 및 자율…",
+        "hook": {
+          "en": "Fix mismatched Transformer tests with an open framework",
+          "zh-Hans": "告别算力偏差，用开源框架评测新模型",
+          "zh-Hant": "告別算力偏差，用開源框架評測新模型",
+          "ja": "計算量の不揃いを防ぎ、オープンソースで新モデルを測定",
+          "ko": "연산량 불일치를 막고 오픈 소스로 차세대 모델 측정"
         }
       }
     },
@@ -401,6 +506,21 @@
         }
       }
     },
+    "MeshBeatDitch/startall-back": {
+      "15c06d69201e": {
+        "src": "Startall Back 2026 - Full working installer for professional desktop software utility configuration. Ready to run out-of-the-box solution.",
+        "zh-Hans": "Startall Back 2026 - 用于专业桌面实用软件配置的完整可用安装程序。开箱即用的解决方案。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Startall Back 2026 - 用於專業桌面實用軟體設定的完整可用安裝程式。開箱即用的解決方案。",
+        "ja": "Startall Back 2026 - プロフェッショナルなデスクトップソフトウェアユーティリティ構成のための完全に動作するインストーラー。すぐに使えるソリューション。",
+        "ko": "Startall Back 2026 - 전문적인 데스크톱 소프트웨어 유틸리티 구성을 위한 완벽하게 작동하는 설치 프로그램. 즉시 사용 가능한 솔루션.",
+        "hook": {
+          "en": "Startall Back 2026 desktop utility installer",
+          "ja": "Startall Back 2026 デスクトップインストーラー",
+          "ko": "Startall Back 2026 데스크톱 유틸리티 설치기"
+        }
+      }
+    },
     "MiniMax-AI/mcode-stack": {
       "f06ec0f214f8": {
         "src": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
@@ -431,9 +551,11 @@
         "hook": {
           "en": "Agent can't build 3D sites? Add skills for 3D animations",
           "ja": "3Dサイトが作れない？エージェント用アニメスキル",
-          "ko": "3D 사이트 구현이 막힐 때, 에이전트에 3D 스킬 추가"
+          "ko": "3D 사이트 구현이 막힐 때, 에이전트에 3D 스킬 추가",
+          "zh-Hans": "难做 3D 动效，为智能体配齐 8 个技能",
+          "zh-Hant": "難做 3D 動效，為代理配齊 8 個技能"
         },
-        "seen": "2026-11-02",
+        "seen": "2026-11-03",
         "zh-Hans": "面向 3D 和动画网站的八个智能体技能：代码生成的 three.js 场景、滚动胶片、透明视频、光标绑定、爆炸图、AI 动作资产、bro…",
         "zh-Hant": "面向 3D 和動畫網站的八個代理技能：代碼生成的 three.js 場景、滾動膠片、透明影片、游標綁定、爆炸圖、AI 動作資產、bro…",
         "ja": "3D およびアニメーション Web サイト向けの 8 つのエージェントスキル：コードからの three.js シーン、スクロールフィルム、透過動画、カーソルリグ、分解図、AI モーションアセット、bro…",
@@ -605,6 +727,24 @@
         "ko": "사전 활성화되어 바로 실행 가능한 Hwid Spoofer Free용 완전한 독립 실행형 설정."
       }
     },
+    "SAOS-3624/dsh-see-now": {
+      "f6568f266eb2": {
+        "src": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+        "zh-Hans": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+        "seen": "2026-11-03",
+        "zh-Hant": "讓 AI 即時看見你的螢幕：按變化量篩選幀、多幀拼進一張圖，靜止畫面幾乎不花 token",
+        "ja": "AI がリアルタイムで画面を見られるようにする：変化量でフレームをフィルタリングし、複数フレームを1枚の画像に結合、静止画面はトークンをほぼ消費しない",
+        "ko": "AI가 실시간으로 화면을 볼 수 있도록 지원: 변화량에 따라 프레임을 필터링하고 여러 프레임을 한 장의 이미지로 결합하여 정지 화면에서는 토큰을 거의 쓰지 않음",
+        "en": "Let AI see your screen in real time: filter frames by change amount, stitch multiple frames into one image, static screens cost almost no tokens",
+        "hook": {
+          "en": "Stop wasting tokens on still screens as AI watches",
+          "zh-Hans": "告别静止画面消耗，让 AI 实时看屏幕",
+          "zh-Hant": "告別靜止畫面消耗，讓 AI 即時看螢幕",
+          "ja": "静止画面の無駄を防ぎ、AIにリアルタイムで画面を見せる",
+          "ko": "정지 화면의 낭비 없이 AI가 실시간으로 화면을 확인"
+        }
+      }
+    },
     "SAOS-3624/dsh-video-storyboard": {
       "e4ff78f9cb72": {
         "src": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tool…",
@@ -757,6 +897,40 @@
           "zh-Hant": "輸入建築想法，在遊戲中一鍵放置或復原",
           "ja": "作りたい建築を入力しワールドに一発配置",
           "ko": "원하는 건축을 입력해 월드에 한 번에 배치"
+        }
+      }
+    },
+    "Streetbratreasure/anyunlock": {
+      "8b2a94e9c067": {
+        "src": "Anyunlock 2026: Full working installer for a powerful desktop utility configuration, ready to run right out of the box.",
+        "zh-Hans": "Anyunlock 2026: 用于强大桌面实用工具配置的完整可用安装程序，开箱即用。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Anyunlock 2026: 用於強大桌面實用工具設定的完整可用安裝程式，開箱即用。",
+        "ja": "Anyunlock 2026: 強力なデスクトップユーティリティ構成のための完全に動作するインストーラーで、導入後すぐに実行可能。",
+        "ko": "Anyunlock 2026: 강력한 데스크톱 유틸리티 구성을 위한 완벽하게 작동하는 설치 프로그램으로, 즉시 실행 가능합니다.",
+        "hook": {
+          "en": "Anyunlock 2026 desktop utility installer",
+          "zh-Hans": "Anyunlock 2026 桌面实用工具安装包",
+          "zh-Hant": "Anyunlock 2026 桌面實用工具安裝包",
+          "ja": "Anyunlock 2026 デスクトップインストーラー",
+          "ko": "Anyunlock 2026 데스크톱 유틸리티 설치기"
+        }
+      }
+    },
+    "Tempofaengage/unlocktool": {
+      "cbdb6a8104d2": {
+        "src": "Unlocktool 2023: Full working installer with enhanced security features for professional desktop use.",
+        "zh-Hans": "Unlocktool 2023: 完整可用的安装程序，具有增强的安全功能，适用于专业桌面使用。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Unlocktool 2023: 完整可用的安裝程式，具有增強的資安功能，適用於專業桌面使用。",
+        "ja": "Unlocktool 2023: プロフェッショナルなデスクトップ用途向けに強化されたセキュリティ機能を備えた、完全に動作するインストーラー。",
+        "ko": "Unlocktool 2023: 전문 데스크톱용으로 강화된 보안 기능을 갖춘 완벽하게 작동하는 설치 프로그램.",
+        "hook": {
+          "en": "Unlocktool 2023 desktop installer",
+          "zh-Hans": "Unlocktool 2023 桌面工具安装包",
+          "zh-Hant": "Unlocktool 2023 桌面工具安裝包",
+          "ja": "Unlocktool 2023 デスクトップインストーラー",
+          "ko": "Unlocktool 2023 데스크톱 설치기"
         }
       }
     },
@@ -1028,6 +1202,21 @@
         }
       }
     },
+    "artemnovitckii/claude-animation-skills": {
+      "d6407fdb857e": {
+        "src": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, li…",
+        "zh-Hans": "六个无需素材即可为 reels 制作动画的 Claude Code 技能：3D 卡通解说、火柴人、极简线条艺术、3D 地图路线、分解视图、li…",
+        "seen": "2026-11-03",
+        "zh-Hant": "六個無需素材即可為 reels 製作動畫的 Claude Code 技能：3D 卡通解說、火柴人、極簡線條藝術、3D 地圖路線、分解視圖、li…",
+        "ja": "素材不要で reels 向けアニメーションを作成できる 6 つの Claude Code スキル：3D カートゥーン解説、棒人間、ミニマルラインアート、3D マップルート、分解図、li…",
+        "ko": "영상 소스 없이 reels용 애니메이션을 제작할 수 있는 6개의 Claude Code 스킬: 3D 카툰 설명, 스틱맨, 미니멀 라인 아트, 3D 지도 경로, 분해도, li…",
+        "hook": {
+          "en": "No footage for reels? Animate with Claude Code skills",
+          "ja": "動画素材がない時に、Claude Codeスキルでアニメ制作",
+          "ko": "영상 소재가 없을 때, Claude Code 스킬로 애니메이션 제작"
+        }
+      }
+    },
     "azurerockcode/Roblox-Game-Copier": {
       "1037a7a85ff3": {
         "src": "Roblox Game Copier 2026 - Full working installer for easy duplication and management of Roblox games on your desktop.",
@@ -1236,6 +1425,21 @@
         }
       }
     },
+    "ersinkoc/AI-Video-Factory": {
+      "9577fcadc142": {
+        "src": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps the human in charge.",
+        "zh-Hans": "AI 视频工厂：从一个主题到成品的跨语言 YouTube 视频。Claude 智能体负责编写、规划、绘制与审核；Studio 让用户始终掌控全局。",
+        "seen": "2026-11-03",
+        "zh-Hant": "AI 影片工廠：從一個主題到成品的多語言 YouTube 影片。Claude 代理負責撰寫、規劃、繪製與審核；Studio 讓使用者始終掌控全局。",
+        "ja": "AI ビデオファクトリー：1つのトピックから完成した多言語 YouTube 動画まで。Claude エージェントが執筆、計画、描画、レビューを行い、Studio が人間の主導権を維持します。",
+        "ko": "AI 비디오 팩토리: 하나의 주제에서 완성된 다국어 YouTube 동영상까지. Claude 에이전트가 작성, 기획, 그림 생성 및 검토를 수행하며, Studio를 통해 사람이 계속 주도권을 갖습니다.",
+        "hook": {
+          "en": "Turn one topic into a YouTube video using Claude agents",
+          "ja": "ひとつの話題から、Claudeエージェントが動画を完成",
+          "ko": "주제 하나로 Claude 에이전트가 완성하는 다국어 영상"
+        }
+      }
+    },
     "floatboatai/OpenMinutes": {
       "9298847c1e08": {
         "src": "OpenMinutes · 录音笔工作台：MemoTalk S1 录音的导入 · 转录 · AI 归类 · 检索复盘（Floatboat Workbench 开源实现）",
@@ -1258,6 +1462,22 @@
           "zh-Hant": "錄音筆錄音轉文字、歸類、檢索",
           "ja": "録音を文字起こし・分類・検索できる作業台",
           "ko": "녹음을 변환·분류·검색하는 워크벤치"
+        }
+      }
+    },
+    "fush520/fush-vue-mcp": {
+      "78ee2b5bfaf0": {
+        "src": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
+        "zh-Hans": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
+        "seen": "2026-11-03",
+        "zh-Hant": "Fush Vue MCP —— Vue 前端逆向 + Web 安全測試工具（Chrome 擴充功能 + MCP 伺服端，91 個工具）",
+        "ja": "Fush Vue MCP —— Vue フロントエンドリバースエンジニアリング + Web セキュリティテストツール（Chrome 拡張機能 + MCP サーバー、91 個のツール）",
+        "ko": "Fush Vue MCP —— Vue 프론트엔드 리버스 엔지니어링 + Web 보안 테스트 도구(Chrome 확장 프로그램 + MCP 서버, 91개 도구)",
+        "en": "Fush Vue MCP —— Vue frontend reverse engineering + Web security testing tool (Chrome extension + MCP server, 91 tools)",
+        "hook": {
+          "en": "Hard to inspect Vue apps? Run reverse and Web security tests",
+          "ja": "Vueの解析に困ったら、リバースとWebセキュリティテスト",
+          "ko": "Vue 분석이 어려울 때, 리버스와 Web 보안 테스트"
         }
       }
     },
@@ -1401,7 +1621,7 @@
       "5b96b25575cb": {
         "src": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
         "zh-Hans": "安卓手机直接跑 DeepSeek Harness：免 ROOT 免 Termux，装一个 APK 即可读屏操作 App、改系统设置、做定时/条件自动化，引擎内嵌 App 进程且可选 Shizuku。",
-        "seen": "2026-11-02",
+        "seen": "2026-11-03",
         "zh-Hant": "免 ROOT 免 Termux，一個 APK 在安卓手機上跑 DeepSeek Harness。引擎內嵌 App 行程 · 讀屏操作 App · 改系統設定 · 定時/條件自動化 · 可選 Shizuku",
         "ja": "ROOT不要・Termux不要、単一のAPKでAndroidスマートフォン上にDeepSeek Harnessを実行。エンジン内蔵Appプロセス · 画面読み取りによるApp操作 · システム設定変更 · タイマー/条件付き自動化 · 任意のShizuku対応",
         "ko": "ROOT 불필요, Termux 불필요, 단 하나의 APK로 안드로이드 스마트폰에서 DeepSeek Harness를 실행합니다. 엔진 내장 App 프로세스 · 화면 판독 App 조작 · 시스템 설정 변경 · 타이머/조건부 자동화 · Shizuku 선택 가능",
@@ -1409,7 +1629,9 @@
         "hook": {
           "en": "Run DeepSeek Harness directly on Android with one APK",
           "ja": "root 不要、APK 一つで Android 上で DeepSeek を動かす",
-          "ko": "root 없이 APK 하나로 안드로이드에서 DeepSeek 실행"
+          "ko": "root 없이 APK 하나로 안드로이드에서 DeepSeek 실행",
+          "zh-Hans": "无需 root，装个 APK 直接在手机运行",
+          "zh-Hant": "無需 root，裝個 APK 直接在手機運行"
         }
       }
     },
@@ -1587,6 +1809,39 @@
         }
       }
     },
+    "modelflare-ai/AnyModelBot": {
+      "269022eef59d": {
+        "src": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM…",
+        "zh-Hans": "🤖 Grok Bot、OpenAI dots 和 Claude Duet 的开源、本地优先替代品。在任何模型上拥有你自己的 AI 机器人：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM…",
+        "seen": "2026-11-03",
+        "zh-Hant": "🤖 Grok Bot、OpenAI dots 和 Claude Duet 的開源、本機優先替代方案。在任何模型上擁有您自己的 AI 機器人：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM…",
+        "ja": "🤖 Grok Bot、OpenAI dots、Claude Duet に代わるオープンソースかつローカルファーストの選択肢。あらゆるモデルで自分専用の AI ボットを：GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM…",
+        "ko": "🤖 Grok Bot, OpenAI dots 및 Claude Duet의 오픈 소스, 로컬 우선 대체제. 모든 모델에서 나만의 AI 봇을: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM…",
+        "hook": {
+          "en": "Tired of locked bots? Run your own on any model locally",
+          "ja": "単一ボットに縛られず、ローカルで自由なモデルを動かす",
+          "ko": "특정 봇에 묶이지 않고 로컬에서 원하는 모델을 실행"
+        }
+      }
+    },
+    "mofan6/Moect": {
+      "cfaa4d8c28d9": {
+        "src": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter &amp; backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导…",
+        "zh-Hans": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter &amp; backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导…",
+        "seen": "2026-11-03",
+        "zh-Hant": "Windows 微信 4.x 聊天記錄導出、備份與離線歸檔工具 · WeChat chat history exporter &amp; backup. 支援好友/群聊、頭像、圖片、GIF 表情、音視頻、檔案、連結、小程序、引用回覆和合併轉發；支援 HTML、JSON、JSONL、TXT、CSV、Markdown 導…",
+        "ja": "Windows WeChat 4.x チャット履歴のエクスポート、バックアップおよびオフラインアーカイブツール · WeChat chat history exporter &amp; backup. フレンド/グループチャット、アバター、画像、GIFスタンプ、音声/動画、ファイル、リンク、ミニプログラム、引用返信、一括転送に対応；HTML、JSON、JSONL、TXT、CSV、Markdown エクスポート…",
+        "ko": "Windows WeChat 4.x 대화 기록 내보내기, 백업 및 오프라인 아카이브 도구 · WeChat chat history exporter &amp; backup. 친구/그룹 채팅, 프로필 사진, 이미지, GIF 이모티콘, 음성/영상, 파일, 링크, 미니프로그램, 인용 답장 및 묶어 전달 지원; HTML, JSON, JSONL, TXT, CSV, Markdown 내보내기…",
+        "en": "Windows WeChat 4.x chat history export, backup, and offline archiving tool · WeChat chat history exporter &amp; backup. Supports friends/group chats, avatars, images, GIF stickers, audio/video, files, links, mini programs, quote replies, and combined forwarding; supports HTML, JSON, JSONL, TXT, CSV, Markdown export…",
+        "hook": {
+          "en": "Worry about losing WeChat chats? Back them up offline",
+          "zh-Hans": "微信聊天记录想留存，离线导出与备份",
+          "zh-Hant": "微信聊天記錄想留存，離線匯出與備份",
+          "ja": "WeChatの会話を残したい時に、オフラインで書き出し保存",
+          "ko": "WeChat 대화 내용을 잃지 않게 오프라인으로 백업"
+        }
+      }
+    },
     "mokevnin/dev-quality-gates": {
       "49c698e5bd32": {
         "src": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits.",
@@ -1636,6 +1891,14 @@
       }
     },
     "muaaz9329/cheap-ag": {
+      "d2702f376713": {
+        "src": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP…",
+        "zh-Hans": "使用 cheap-ag 将你的使用量提升 50 倍。Opus/Astra 计划，极便宜的模型编写每一行代码，测试决定交付内容。你的 $20 计划不再触碰限制。一个 MCP…",
+        "seen": "2026-11-03",
+        "zh-Hant": "使用 cheap-ag 將您的使用量提升 50 倍。Opus/Astra 方案，極便宜的模型編寫每一行程式碼，測試決定交付內容。您的 $20 方案不再觸及限制。一個 MCP…",
+        "ja": "cheap-ag で使用量を 50 倍に。Opus/Astra プラン、格安モデルが全コードを記述し、テストが出荷内容を決定。20 ドルのプランが制限に達しなくなります。1つの MCP…",
+        "ko": "cheap-ag로 사용량을 50배 늘리세요. Opus/Astra 플랜, 초저가 모델이 모든 줄을 작성하고 테스트가 배포 항목을 결정합니다. $20 플랜의 한도 도달이 중단됩니다. 하나의 MCP…"
+      },
       "f24f9c5c33ef": {
         "src": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP…",
         "zh-Hans": "使用 cheap-ag 将你的 Claude 用量提升 50 倍。Opus 制定计划，极低成本的模型编写每一行代码，测试决定交付内容。你的 20 美元套餐不再达到上限。一个 MCP…",
@@ -1792,6 +2055,16 @@
           "ja": "中国メーカー製 Android の広告と通知をオフ",
           "ko": "중국산 안드로이드 폰의 광고·푸시 끄기"
         }
+      }
+    },
+    "rivetpelicanstir/total-commander": {
+      "97451f24dbb2": {
+        "src": "Total Commander 10.5 - Full working installer with all plugins and settings included for seamless desktop experience.",
+        "zh-Hans": "Total Commander 10.5 - 完整可用的安装程序，包含所有插件和设置，带来无缝的桌面体验。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Total Commander 10.5 - 完整可用的安裝程式，包含所有外掛和設定，帶來無縫的桌面體驗。",
+        "ja": "Total Commander 10.5 - シームレスなデスクトップ体験のためにすべてのプラグインと設定が含まれた、完全に動作するインストーラー。",
+        "ko": "Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램."
       }
     },
     "routerhubSI/uncensored-ai-api": {
@@ -1982,6 +2255,16 @@
           "zh-Hans": "不想登录看库存？在本地规划 CS2 订单",
           "zh-Hant": "不想登入看庫存？在本機規劃 CS2 訂單"
         }
+      }
+    },
+    "stalkerswifthub/discord-quest-completer": {
+      "6849969473f7": {
+        "src": "Discord Quest Completer 2026: Complete standalone setup, ready to run with all features activated.",
+        "zh-Hans": "Discord Quest Completer 2026: 完整的独立安装程序，所有功能均已激活，可直接运行。",
+        "seen": "2026-11-03",
+        "zh-Hant": "Discord Quest Completer 2026: 完整的獨立安裝程式，所有功能均已啟用，可直接執行。",
+        "ja": "Discord Quest Completer 2026: すべての機能が有効化され、すぐに実行できる完全なスタンドアロンセットアップ。",
+        "ko": "Discord Quest Completer 2026: 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 설치 프로그램."
       }
     },
     "t3dotgg/tstack": {
