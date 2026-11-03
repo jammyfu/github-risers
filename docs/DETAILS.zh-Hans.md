@@ -142,12 +142,12 @@
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 输入建筑想法，在游戏中一键放置或撤销 | Minecraft 蓝图建造：输入你想建造的内容并在你的世界中视为蓝图，一步放置并一步撤销，提供 Fabric 伴侣、Paper 插件与免费本地 mo… |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 怕改坏场景，智能体修改先由你确认 | Roblox Studio 智能体：所做的每一项更改都由你先批准 place diff，只需一次 Ctrl+Z 即可回退任何轮次，测试游玩在副本上运行因此实际数据绝不会移动… |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | 在任意浏览器中远程控制 pi 智能体 | 适用于你的 pi 编程智能体的远程控制。Pi-Remote 可将实时 pi 终端会话镜像到任何浏览器，以便你可以查看运行过程、回复提示词以及发送命令 f… |
-| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) |  | 使用 cheap-ag 将你的使用量提升 50 倍。Opus/Astra 计划，极便宜的模型编写每一行代码，测试决定交付内容。你的 $20 计划不再触碰限制。一个 MCP… |
+| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 套餐总碰上限？让便宜模型写代码 | 使用 cheap-ag 将你的使用量提升 50 倍。Opus/Astra 计划，极便宜的模型编写每一行代码，测试决定交付内容。你的 $20 计划不再触碰限制。一个 MCP… |
 | [tianfuzhibuyuci/readme-visual-kit](https://github.com/tianfuzhibuyuci/readme-visual-kit) | 本地将项目说明生成三张 README 架构图 | 把带源码依据的项目说明变成三张 README 图：功能流程、简化架构、快速上手。本地 SVG 渲染器 + Agent Skill，无需 API Key。 |
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | 为 Claude Code 打造 3D 办公空间 | 适用于你的 Claude Code 会话的 3D 办公室 |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 代码审查有据可依，合并更有把握 | 适用于 Claude Code 和 Codex 的可审计代码审查技能：四个独立探针、以证据为支撑的发现以及基于 JSON 的合并门禁。 |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 单窗口搞定仓库管理、差异比对与提交 | 适用于 macOS 的原生、轻量级 Git 客户端。在单个窗口中管理仓库和 worktree、审查 diff 并提交更改。 |
-| [onurozcan/omux](https://github.com/onurozcan/omux) | 在终端并排运行多个 Claude Code 会话 | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
+| [onurozcan/omux](https://github.com/onurozcan/omux) | 在终端并排运行多个 Claude Code 会话 | 用于并排运行多个 Claude Code 和 Codex 会话的原生 macOS 终端。项目、工作树、实时智能体状态、侧边栏 Allow/Deny、可恢复… |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) |  | Roblox Game Copier 2026：预激活桌面版，已启用所有功能，便于安装和使用。 |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) |  | Total Commander 10.5 - 完整可用的安装程序，包含所有插件和设置，带来无缝的桌面体验。 |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) |  | Genesis Miner 2026: 完整可用的安装程序，已解锁所有功能，可在您的桌面上直接运行。 |

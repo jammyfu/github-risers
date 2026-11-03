@@ -147,7 +147,7 @@
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | Claude Code를 위한 3D 오피스 공간 | Claude Code 세션을 위한 3D 사무실 |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 명확한 근거로 코드 검증을 돕는 리뷰 스킬 | Claude Code 및 Codex를 위한 감사 가능한 코드 검토 스킬: 4개의 독립 프로브, 증거 기반 결과, JSON 파생 병합 게이트. |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 저장소 관리와 커밋을 한 화면에서 해결 | macOS용 네이티브 경량 Git 클라이언트. 단일 창에서 저장소 및 worktree 관리, diff 검토, 변경 사항 커밋 수행. |
-| [onurozcan/omux](https://github.com/onurozcan/omux) | Claude Code 세션을 나란히 실행하는 터미널 | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
+| [onurozcan/omux](https://github.com/onurozcan/omux) | Claude Code 세션을 나란히 실행하는 터미널 | 여러 Claude Code 및 Codex 세션을 나란히 실행하기 위한 네이티브 macOS 터미널. 프로젝트, 워크트리, 실시간 에이전트 상태, 사이드바의 Allow/Deny, 재개… |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | 사전 활성화로 표기된 2026 데스크톱 설치본 | Roblox Game Copier 2026: 쉬운 설치와 사용을 위해 모든 기능이 활성화된 사전 활성화 데스크톱 에디션. |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | 모든 플러그인이 포함된 10.5 데스크톱 설치본 | Total Commander 10.5 - 원활한 데스크톱 경험을 위해 모든 플러그인과 설정이 포함된 완벽하게 작동하는 설치 프로그램. |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | 모든 기능이 잠금 해제된 2026 데스크톱 설치본 | Genesis Miner 2026: 모든 기능이 잠금 해제되어 데스크톱에서 바로 실행할 수 있는 완벽하게 작동하는 설치 프로그램. |

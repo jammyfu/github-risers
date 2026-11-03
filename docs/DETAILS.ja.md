@@ -147,7 +147,7 @@
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | Claude Code用の3Dオフィス空間 | Claude Code セッション用の 3D オフィス |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 確かな根拠でコード検証を助けるレビュー用スキル | Claude Code および Codex 向けの監査可能なコードレビューのスキル：4つの独立したプローブ、証拠に基づく指摘事項、JSON 由来のマージゲート。 |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 差分確認からコミットまで1画面で完結 | macOS 向けのネイティブで軽量な Git クライアント。1つのウィンドウでリポジトリと worktree の管理、diff の確認、変更のコミットを実行。 |
-| [onurozcan/omux](https://github.com/onurozcan/omux) | Claude Code を並べて実行するターミナル | Native macOS terminal for running many Claude Code and Codex sessions side by side. Projects, worktrees, live agent status, Allow/Deny from the sidebar, resuma… |
+| [onurozcan/omux](https://github.com/onurozcan/omux) | Claude Code を並べて実行するターミナル | 多数の Claude Code および Codex セッションを並べて実行するためのネイティブ macOS ターミナル。プロジェクト、ワークツリー、ライブエージェントステータス、サイドバーからの Allow/Deny、再開… |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | 事前アクティベート済みとされる 2026 導入版 | Roblox Game Copier 2026：簡単なインストールと使用のためにすべての機能が有効化された、事前アクティベート済みデスクトップ版。 |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | 全プラグイン同梱とされる 10.5 導入版 | Total Commander 10.5 - シームレスなデスクトップ体験のためにすべてのプラグインと設定が含まれた、完全に動作するインストーラー。 |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | 全機能解放済みとされる 2026 デスクトップ版 | Genesis Miner 2026: すべての機能がアンロックされ、デスクトップですぐに実行できる、完全に動作するインストーラー。 |

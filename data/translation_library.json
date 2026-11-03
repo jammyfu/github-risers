@@ -1938,7 +1938,9 @@
         "hook": {
           "en": "Stop hitting limits on your $20 plan with cheap models",
           "ja": "制限を気にせず安価なモデルでコードを書く",
-          "ko": "저렴한 모델로 사용량 제한 없이 코드 작성하기"
+          "ko": "저렴한 모델로 사용량 제한 없이 코드 작성하기",
+          "zh-Hans": "套餐总碰上限？让便宜模型写代码",
+          "zh-Hant": "方案總碰上限？讓便宜模型寫程式"
         }
       },
       "f24f9c5c33ef": {
@@ -1998,9 +2000,14 @@
           "en": "Run multiple Claude Code and Codex sessions side by side",
           "zh-Hans": "在终端并排运行多个 Claude Code 会话",
           "ja": "Claude Code を並べて実行するターミナル",
-          "ko": "Claude Code 세션을 나란히 실행하는 터미널"
+          "ko": "Claude Code 세션을 나란히 실행하는 터미널",
+          "zh-Hant": "會話太多難以照看？並排跑終端機"
         },
-        "seen": "2026-11-03"
+        "seen": "2026-11-03",
+        "zh-Hans": "用于并排运行多个 Claude Code 和 Codex 会话的原生 macOS 终端。项目、工作树、实时智能体状态、侧边栏 Allow/Deny、可恢复…",
+        "zh-Hant": "用於並排運行多個 Claude Code 和 Codex 會話的原生 macOS 終端機。專案、工作樹、即時代理狀態、側邊欄 Allow/Deny、可恢復…",
+        "ja": "多数の Claude Code および Codex セッションを並べて実行するためのネイティブ macOS ターミナル。プロジェクト、ワークツリー、ライブエージェントステータス、サイドバーからの Allow/Deny、再開…",
+        "ko": "여러 Claude Code 및 Codex 세션을 나란히 실행하기 위한 네이티브 macOS 터미널. 프로젝트, 워크트리, 실시간 에이전트 상태, 사이드바의 Allow/Deny, 재개…"
       }
     },
     "op7418/dsh-guizang-design": {
