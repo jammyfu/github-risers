@@ -2,6 +2,21 @@
   "_comment": "Translation library for new-repo descriptions, keyed by repo + sha256(source)[:12] + language. Used by tools/newcomer_i18n.py and tools/i18n_pipeline.py; see docs/I18N_PIPELINE.md.",
   "version": 2,
   "entries": {
+    "4yk5/Ghostman": {
+      "b41819dcf987": {
+        "src": "A fast, keyboard-driven TUI API client &amp; webhook inspector. No cloud, no Electron, 100% local-first.",
+        "zh-Hans": "一款快速、键盘驱动的 TUI API 客户端 &amp; webhook 检查器。无云端、无 Electron、100% 本地优先。",
+        "seen": "2026-11-04",
+        "zh-Hant": "一款快速、鍵盤驅動的 TUI API 客戶端 &amp; webhook 檢查器。無雲端、無 Electron、100% 本機優先。",
+        "ja": "高速でキーボード操作に対応した TUI API クライアント &amp; webhook インスペクター。クラウドなし、Electron なし、100% ローカルファースト。",
+        "ko": "빠르고 키보드 중심의 TUI API 클라이언트 &amp; webhook 검사기. 클라우드 없음, Electron 없음, 100% 로컬 우선.",
+        "hook": {
+          "en": "Inspect APIs and webhooks locally using your keyboard",
+          "ja": "キーボードでAPIを素早く検査、完全ローカル",
+          "ko": "키보드로 API와 webhook 검사, 완전 로컬"
+        }
+      }
+    },
     "Akillll-DuoHe/fy-code-animation": {
       "d42acaad092b": {
         "src": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
@@ -90,6 +105,23 @@
           "zh-Hant": "免費本機 AI 商業顧問，給出可驗證方案",
           "ja": "検証可能な計画を作る無料のローカル AI 経営顧問",
           "ko": "검증 가능한 계획을 세우는 무료 로컬 AI 비즈니스 고문"
+        }
+      }
+    },
+    "Balanov/skein": {
+      "106a6b8ab6bc": {
+        "src": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+        "zh-Hans": "具有纪元隔离工作和延迟完成拒绝的故障闭锁群编排。",
+        "seen": "2026-11-04",
+        "zh-Hant": "具有紀元隔離工作和延遲完成拒絕的故障閉鎖群編排。",
+        "ja": "エポックフェンスされた作業と遅延完了の拒絶を備えた、フェイルクローズ型のスウォームオーケストレーション。",
+        "ko": "에포크 펜스된 작업과 지연 완료 거부를 갖춘 장애 시 폐쇄(fail-closed) 스웜 오케스트레이션.",
+        "hook": {
+          "en": "Stop late or expired tasks from messing up swarm work",
+          "zh-Hans": "拦截超时过期任务，防止搞乱协同作业",
+          "zh-Hant": "攔截逾期任務，防止打亂多節點協同作業",
+          "ja": "期限切れタスクを遮断し群制御の乱れを防ぐ",
+          "ko": "만료된 작업을 차단해 군집 작업의 혼선을 방지"
         }
       }
     },
@@ -239,6 +271,21 @@
         }
       }
     },
+    "Codeonshovel/microsoft-365": {
+      "5c6621c10de4": {
+        "src": "Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation.",
+        "zh-Hans": "Microsoft 365 专业桌面实用工具配置 - 完整可用的安装程序，可实现无缝设置与运行。",
+        "seen": "2026-11-04",
+        "zh-Hant": "Microsoft 365 專業桌面實用工具配置 - 完整可用的安裝程式，可實現無縫設定與運作。",
+        "ja": "Microsoft 365 プロフェッショナル デスクトップ ユーティリティ構成 - シームレスなセットアップと運用のための完全動作インストーラー。",
+        "ko": "Microsoft 365 전문가용 데스크톱 유틸리티 구성 - 원활한 설정 및 작동을 위한 완전한 작동 설치 프로그램.",
+        "hook": {
+          "en": "Microsoft 365 desktop installer, listed as full working",
+          "ja": "Microsoft 365 デスクトップインストーラー",
+          "ko": "Microsoft 365 데스크톱 설치 프로그램"
+        }
+      }
+    },
     "CourtHunterKey/Discord-Quest-Completer": {
       "7d2c059d1850": {
         "src": "Discord Quest Completer 2026 - Full working installer, ready-to-run desktop utility with all quests pre-configured.",
@@ -251,6 +298,21 @@
           "en": "Discord Quest Completer 2026 desktop installer",
           "ja": "Discord Quest Completer 2026 デスクトップインストーラー",
           "ko": "Discord Quest Completer 2026 데스크톱 설치 프로그램"
+        }
+      }
+    },
+    "CraterAssembly31/microsoft-visio": {
+      "4b6255a90465": {
+        "src": "Microsoft Visio 2026: Full working installer with all templates and features activated, ready for immediate desktop use.",
+        "zh-Hans": "Microsoft Visio 2026：完整可用的安装程序，已激活所有模板和功能，可立即在桌面使用。",
+        "seen": "2026-11-04",
+        "zh-Hant": "Microsoft Visio 2026：完整可用的安裝程式，已啟用所有範本和功能，可立即在桌面使用。",
+        "ja": "Microsoft Visio 2026: すべてのテンプレートと機能がアクティベートされた完全動作インストーラー。デスクトップですぐに使用可能。",
+        "ko": "Microsoft Visio 2026: 모든 템플릿과 기능이 활성화되어 즉시 데스크톱에서 사용할 수 있는 완전한 작동 설치 프로그램.",
+        "hook": {
+          "en": "Microsoft Visio 2026 installer, listed as activated",
+          "ja": "Microsoft Visio 2026 インストーラー",
+          "ko": "Microsoft Visio 2026 설치 프로그램"
         }
       }
     },
@@ -316,6 +378,23 @@
           "ko": "에이전트의 변경 사항을 미리 확인하고 적용",
           "zh-Hans": "怕改坏场景，智能体修改先由你确认",
           "zh-Hant": "怕改壞場景，代理修改先由你確認"
+        }
+      }
+    },
+    "DominikScholz/open-bot-avatar": {
+      "a0595aa8614e": {
+        "src": "A JSON spec and renderer for interactive agent avatars",
+        "zh-Hans": "用于交互式智能体头像的 JSON 规范与渲染器",
+        "seen": "2026-11-04",
+        "zh-Hant": "用於互動式代理頭像的 JSON 規格與渲染器",
+        "ja": "インタラクティブなエージェントアバター用の JSON 仕様とレンダラー",
+        "ko": "대화형 에이전트 아바타를 위한 JSON 사양 및 렌더러",
+        "hook": {
+          "en": "Render interactive avatars for your agents",
+          "zh-Hans": "给互动智能体轻松渲染虚拟形象",
+          "zh-Hant": "給互動代理輕鬆渲染虛擬形象",
+          "ja": "対話型エージェントのアバターを簡単描画",
+          "ko": "인터랙티브 에이전트의 아바타를 간편하게 렌더링"
         }
       }
     },
@@ -549,6 +628,21 @@
         }
       }
     },
+    "Midnightclitug/iobit-driver-booster": {
+      "9a64b2421f5f": {
+        "src": "Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with all features pre-activated.",
+        "zh-Hans": "Iobit Driver Booster 2026 的完整独立安装程序。即开即用的安装程序，所有功能均已预激活。",
+        "seen": "2026-11-04",
+        "zh-Hant": "Iobit Driver Booster 2026 的完整獨立安裝程式。即開即用的安裝程式，所有功能均已預先啟用。",
+        "ja": "Iobit Driver Booster 2026 の完全なスタンドアロンセットアップ。すべての機能が事前アクティベートされた、すぐに実行可能なインストーラー。",
+        "ko": "Iobit Driver Booster 2026을 위한 완전한 독립형 설정. 모든 기능이 사전 활성화되어 즉시 실행 가능한 설치 프로그램.",
+        "hook": {
+          "en": "Iobit Driver Booster 2026 installer, pre-activated",
+          "ja": "Iobit Driver Booster 2026 インストーラ",
+          "ko": "Iobit Driver Booster 2026 설치"
+        }
+      }
+    },
     "MiniMax-AI/mcode-stack": {
       "f06ec0f214f8": {
         "src": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
@@ -588,6 +682,23 @@
         "zh-Hant": "面向 3D 和動畫網站的八個代理技能：代碼生成的 three.js 場景、滾動膠片、透明影片、游標綁定、爆炸圖、AI 動作資產、bro…",
         "ja": "3D およびアニメーション Web サイト向けの 8 つのエージェントスキル：コードからの three.js シーン、スクロールフィルム、透過動画、カーソルリグ、分解図、AI モーションアセット、bro…",
         "ko": "3D 및 애니메이션 웹사이트를 위한 8가지 에이전트 스킬: 코드로 생성한 three.js 장면, 스크롤 필름, 투명 비디오, 커서 리깅, 분해도, AI 모션 에셋, bro…"
+      }
+    },
+    "MomentumGuideContact/fonetrans": {
+      "001950313f01": {
+        "src": "Complete Fonetrans desktop edition 2026, ready-to-run with all features fully activated.",
+        "zh-Hans": "完整版 Fonetrans 桌面版 2026，所有功能已完全激活，开箱即用。",
+        "seen": "2026-11-04",
+        "zh-Hant": "完整版 Fonetrans 桌面版 2026，所有功能已完全啟用，開箱即用。",
+        "ja": "完全な Fonetrans デスクトップ版 2026。すべての機能が完全にアクティベートされ、すぐに実行可能。",
+        "ko": "모든 기능이 완전히 활성화되어 즉시 실행 가능한 완전한 Fonetrans 데스크톱 에디션 2026.",
+        "hook": {
+          "en": "Fonetrans desktop 2026, listed as fully activated",
+          "zh-Hans": "Fonetrans 桌面版 2026，标为已激活",
+          "zh-Hant": "Fonetrans 桌面版 2026，標為已啟用",
+          "ja": "Fonetrans デスクトップ2026、有効化済み表記",
+          "ko": "Fonetrans 데스크톱 2026, 활성화 완료 표기"
+        }
       }
     },
     "N1nEmAn/sapper-v2": {
@@ -636,6 +747,21 @@
           "zh-Hant": "動效抄不像？逐幀還原並驗證完全一致",
           "ja": "アニメ再現が難しい？1コマずつ解析して一致を証明",
           "ko": "어려운 애니메이션 복제, 프레임 단위로 똑같이 재현"
+        }
+      }
+    },
+    "Nucleusanwish/microsoft-office": {
+      "d0c39c695016": {
+        "src": "Complete standalone setup for Microsoft Office 2026, featuring full pre-activation and all essential components ready to run.",
+        "zh-Hans": "Microsoft Office 2026 的完整独立安装程序，具有完全预激活功能，所有基本组件均已准备就绪可直接运行。",
+        "seen": "2026-11-04",
+        "zh-Hant": "Microsoft Office 2026 的完整獨立安裝程式，具有完全預先啟用功能，所有基本元件均已準備就緒可直接執行。",
+        "ja": "Microsoft Office 2026 の完全なスタンドアロンセットアップ。完全な事前アクティベーションを特長とし、すべての必須コンポーネントがすぐに実行可能な状態で提供されます。",
+        "ko": "Microsoft Office 2026을 위한 완전한 독립형 설치 프로그램으로, 전체 사전 정품 인증 기능과 즉시 실행 가능한 모든 필수 구성 요소를 갖추고 있습니다.",
+        "hook": {
+          "en": "Microsoft Office 2026 installer, listed as pre-activated",
+          "ja": "Microsoft Office 2026インストーラー",
+          "ko": "Microsoft Office 2026 설치 프로그램"
         }
       }
     },
@@ -797,6 +923,23 @@
         }
       }
     },
+    "SalmeronDevZone/azure-lab": {
+      "ece651572556": {
+        "src": "Simulador de Azure para aprender DevOps sin cuenta ni costes: portal, Cloud Shell, Azure DevOps y una academia de 13 niveles con 47 laboratorios que se validan…",
+        "zh-Hans": "无需账户也无费用的 Azure 模拟器，用于学习 DevOps：门户、Cloud Shell、Azure DevOps 以及一个包含 13 个级别和 47 个可验证实验的学院…",
+        "seen": "2026-11-04",
+        "zh-Hant": "無需帳戶亦無費用的 Azure 模擬器，用於學習 DevOps：入口網站、Cloud Shell、Azure DevOps 以及一個包含 13 個級別和 47 個可驗證實驗的學院…",
+        "ja": "アカウントもコストもなしで DevOps を学ぶための Azure シミュレーター: ポータル、Cloud Shell、Azure DevOps、そして検証可能な 47 のラボを備えた 13 レベルのアカデミー…",
+        "ko": "계정이나 비용 없이 DevOps를 배우기 위한 Azure 시뮬레이터: 포털, Cloud Shell, Azure DevOps 및 검증 가능한 47개의 실습이 포함된 13개 레벨의 아카데미…",
+        "hook": {
+          "en": "Learn Azure DevOps without an account or paying costs",
+          "zh-Hans": "不用账号也不花钱，直接上手练习 Azure",
+          "zh-Hant": "不用帳號也不花錢，直接上手練習 Azure",
+          "ja": "アカウントや費用なしで Azure DevOps を学ぶ",
+          "ko": "계정이나 비용 없이 Azure DevOps 연습하기"
+        }
+      }
+    },
     "ScorpionHub17/KMS-Pico": {
       "28a1da717842": {
         "src": "Kms Pico Free 2026 complete standalone setup. Pre-activated desktop edition ready to run, ensuring a smooth installation experience.",
@@ -818,6 +961,21 @@
           "zh-Hant": "Kms Pico Free 2026 預啟用桌面版",
           "ja": "Kms Pico Free 2026 事前アクティベート済みデスクトップ版",
           "ko": "Kms Pico Free 2026 사전 활성화 데스크톱판"
+        }
+      }
+    },
+    "ShoreEvokerHeat/fl-studio": {
+      "a1c2ef9dc508": {
+        "src": "Fl Studio 2026 - Full working installer, complete standalone setup for professional audio production.",
+        "zh-Hans": "Fl Studio 2026 - 完整可用的安装程序，专为专业音频制作打造的完整独立设置。",
+        "seen": "2026-11-04",
+        "zh-Hant": "Fl Studio 2026 - 完整可用的安裝程式，專為專業音訊製作打造的完整獨立設定。",
+        "ja": "Fl Studio 2026 - プロフェッショナルなオーディオ制作のための完全動作インストーラー、完全なスタンドアロンセットアップ。",
+        "ko": "Fl Studio 2026 - 전문 오디오 제작을 위한 완전한 작동 설치 프로그램, 완전한 독립형 설정.",
+        "hook": {
+          "en": "Fl Studio 2026 installer, listed as full working",
+          "ja": "Fl Studio 2026 インストーラー",
+          "ko": "Fl Studio 2026 설치 프로그램"
         }
       }
     },
@@ -926,6 +1084,19 @@
           "ja": "作りたい建築を入力しワールドに一発配置",
           "ko": "원하는 건축을 입력해 월드에 한 번에 배치"
         }
+      },
+      "27c61eec52d0": {
+        "src": "Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.…",
+        "zh-Hans": "在 Minecraft 中氛围构建。在终端中描述建造内容，在你的世界中将其查看为蓝图，一步放置并一步撤销。还会编写 datapacks。…",
+        "seen": "2026-11-04",
+        "zh-Hant": "在 Minecraft 中氛圍構建。在終端機中描述建造內容，在你的世界中將其檢視為藍圖，一步放置並一步復原。也會編寫 datapacks。…",
+        "ja": "Minecraft でバイブビルド。ターミナルで建築内容を説明し、ワールド内で設計図として確認し、ワンステップで配置してワンステップで元に戻します。datapacks も作成します。…",
+        "ko": "Minecraft에서 느낌대로 건축하기(Vibe-build). 터미널에서 건축물을 설명하고, 월드에서 청사진으로 확인하며, 한 번에 배치하고 한 번에 실행 취소합니다. datapacks도 작성합니다.…",
+        "hook": {
+          "en": "Describe builds in terminal and place them in Minecraft",
+          "ja": "ターミナルで説明してMinecraftに建築を一括配置",
+          "ko": "터미널로 묘사하고 Minecraft에 건축물을 바로 배치"
+        }
       }
     },
     "Streetbratreasure/anyunlock": {
@@ -976,6 +1147,21 @@
           "ko": "CS2 가격차가 고민될 때, 수수료 따져 로컬 확인",
           "zh-Hans": "CS2 交易怕算漏手续费，本地直接扫差价",
           "zh-Hant": "CS2 交易怕算漏手續費，本機直接掃價差"
+        }
+      }
+    },
+    "UncensoredLabs/uncensored-ai-api": {
+      "4bcd05af4b5e": {
+        "src": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+        "zh-Hans": "未审查的 AI API 和浏览器聊天：DeepSeek 和 GLM 模型、流式传输、Python 和 TypeScript 示例、定价和设置指南。",
+        "seen": "2026-11-04",
+        "zh-Hant": "未審查的 AI API 和瀏覽器聊天：DeepSeek 和 GLM 模型、串流、Python 和 TypeScript 範例、定價和設定指南。",
+        "ja": "無修正 AI API とブラウザチャット：DeepSeek および GLM モデル、ストリーミング、Python および TypeScript の例、価格設定とセットアップガイド。",
+        "ko": "검열되지 않은 AI API 및 브라우저 채팅: DeepSeek 및 GLM 모델, 스트리밍, Python 및 TypeScript 예제, 가격 책정 및 설정 가이드.",
+        "hook": {
+          "en": "Chat with AI in browser or call models via API",
+          "ja": "ブラウザでAIと会話、APIでも呼び出せる",
+          "ko": "브라우저에서 AI와 대화하고 API로 모델 호출"
         }
       }
     },
@@ -1108,11 +1294,18 @@
       "cc22f1662366": {
         "src": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
         "zh-Hans": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
-        "seen": "2026-11-01",
+        "seen": "2026-11-04",
         "zh-Hant": "零基礎入門 AI 代理的基礎教學。不只是教學，也是一個能在本機跑起來的 代理：讀寫檔案、執行命令、MCP、長期記憶，自帶網頁端看清每一步。從 100 行最小循環開始，一課加一個能力，最後拆解 Claude Code、Codex 等主流 代理",
         "ja": "初心者向け AI エージェント入門の基礎チュートリアル。チュートリアルにとどまらず、ローカルで動くエージェントでもあります：ファイルの読み書き、コマンド実行、MCP、長期記憶、各ステップを確認できるウェブ画面付き。100 行の最小ループから始め、1 レッスンごとに 1 つの機能を追加し、最後は Claude Code、Codex などの主流エージェントを解剖",
         "ko": "초보자를 위한 AI 에이전트 입문 기초 튜토리얼. 단순한 튜토리얼이 아니라 로컬에서 실행 가능한 에이전트이기도 합니다: 파일 읽기/쓰기, 명령 실행, MCP, 장기 기억, 모든 단계를 볼 수 있는 자체 웹 인터페이스. 100줄의 최소 루프에서 시작하여 한 강의마다 하나의 능력을 추가하고, 마지막에는 Claude Code, Codex 등 주요 에이전트를 분석",
-        "en": "A beginner tutorial for getting started with AI agents. Not just a tutorial, but also an agent that runs locally: read and write files, execute commands, MCP, long-term memory, with a built-in web interface to see every step clearly. Starting from a 100-line minimal loop, adding one capability per lesson, and finally breaking down mainstream agents like Claude Code and Codex"
+        "en": "A beginner tutorial for getting started with AI agents. Not just a tutorial, but also an agent that runs locally: read and write files, execute commands, MCP, long-term memory, with a built-in web interface to see every step clearly. Starting from a 100-line minimal loop, adding one capability per lesson, and finally breaking down mainstream agents like Claude Code and Codex",
+        "hook": {
+          "en": "Build and run your first AI agent locally step by step",
+          "zh-Hans": "零基础写出并在本地运行自己的智能体",
+          "zh-Hant": "零基礎寫出並在本地運行自己的代理",
+          "ja": "初心者でも自分のAIエージェントを動かして学べる",
+          "ko": "기초부터 직접 로컬에서 실행해보는 AI 에이전트"
+        }
       }
     },
     "aa1143/NamiGPT": {
@@ -1260,6 +1453,21 @@
           "en": "Roblox Game Copier 2026 installer for desktop",
           "ja": "Roblox Game Copier 2026 デスクトップツール",
           "ko": "Roblox Game Copier 2026 데스크톱 복사 도구"
+        }
+      }
+    },
+    "blizzardoxtug/ph-downloader": {
+      "ca4b3204984a": {
+        "src": "Ph Down 2026: Complete standalone setup for professional desktop utility configuration, ready to run out of the box.",
+        "zh-Hans": "Ph Down 2026：专业桌面实用工具配置的完整独立安装程序，开箱即用。",
+        "seen": "2026-11-04",
+        "zh-Hant": "Ph Down 2026：專業桌面實用工具配置的完整獨立安裝程式，開箱即用。",
+        "ja": "Ph Down 2026: すぐに使えるプロフェッショナルなデスクトップ ユーティリティ構成用の完全なスタンドアロンセットアップ。",
+        "ko": "Ph Down 2026: 즉시 실행 가능한 전문가용 데스크톱 유틸리티 구성을 위한 완전한 독립형 설정.",
+        "hook": {
+          "en": "Ph Down 2026 desktop installer, listed as ready to run",
+          "ja": "Ph Down 2026 デスクトップインストーラー",
+          "ko": "Ph Down 2026 데스크톱 설치 프로그램"
         }
       }
     },
@@ -1470,6 +1678,23 @@
           "ko": "주제 하나로 Claude 에이전트가 완성하는 다국어 영상",
           "zh-Hans": "给一个主题，智能体做成多语言视频",
           "zh-Hant": "給一個主題，代理做成多語言影片"
+        }
+      }
+    },
+    "exzade/EXZA-Remote": {
+      "1ccc54a9353d": {
+        "src": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+        "zh-Hans": "为 ChatGPT、Claude 和兼容的 MCP 客户端提供安全的 AI 驱动远程计算机访问。",
+        "seen": "2026-11-04",
+        "zh-Hant": "為 ChatGPT、Claude 和相容的 MCP 用戶端提供安全且由 AI 驅動的遠端電腦存取。",
+        "ja": "ChatGPT、Claude、および互換性のある MCP クライアント向けの、安全な AI 搭載リモートコンピューターアクセス。",
+        "ko": "ChatGPT, Claude 및 호환되는 MCP 클라이언트를 위한 안전한 AI 기반 원격 컴퓨터 액세스.",
+        "hook": {
+          "en": "Let AI access and control your computer securely",
+          "zh-Hans": "让 AI 安全远程访问与控制你的电脑",
+          "zh-Hant": "讓 AI 安全遠端存取與控制你的電腦",
+          "ja": "AIがパソコンを安全に遠隔操作できるようにする",
+          "ko": "AI가 내 컴퓨터에 안전하게 원격 접속하도록 지원"
         }
       }
     },
@@ -1820,6 +2045,40 @@
         }
       }
     },
+    "lexifina/global-law": {
+      "edc6507143b1": {
+        "src": "Git for Global Law: the law of 700+ jurisdictions in git, each country's record a submodule where every commit is one change, dated by when it took effect and…",
+        "zh-Hans": "全球法律的 Git：Git 中的 700+ 个司法管辖区法律，每个国家的记录都是一个子模块，其中每次提交代表一项变更，按生效时间注明日期并…",
+        "seen": "2026-11-04",
+        "zh-Hant": "全球法律的 Git：Git 中的 700+ 個司法管轄區法律，每個國家的記錄都是一個子模組，其中每次提交代表一項變更，按生效時間註明日期並…",
+        "ja": "グローバル法のためのGit：Gitにおける700+の司法管轄区の法律。各国の記録はサブモジュールであり、すべてのコミットが1つの変更であり、施行日による日付が付けられ…",
+        "ko": "글로벌 법률을 위한 Git: Git으로 관리되는 700+개 관할권의 법률. 각 국가의 기록은 모든 커밋이 하나의 변경 사항인 서브모듈이며, 발효 시점으로 날짜가 지정되고…",
+        "hook": {
+          "en": "Track laws across 700+ jurisdictions like git commits",
+          "zh-Hans": "像看代码提交一样看全球法律变更",
+          "zh-Hant": "像看程式碼提交一樣追蹤全球法律變更",
+          "ja": "700超の法改正をgitの履歴のように追う",
+          "ko": "700여 개 관할권의 법률 변경을 git처럼 추적"
+        }
+      }
+    },
+    "mhfed/vn-law-check": {
+      "c9d130b52aa0": {
+        "src": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+        "zh-Hans": "面向 Claude Code、Cursor、Copilot、Windsurf、Cline，根据越南法律（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）进行的网站法律审计",
+        "seen": "2026-11-04",
+        "zh-Hant": "面向 Claude Code、Cursor、Copilot、Windsurf、Cline，根據越南法律（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）進行的網站法律審計",
+        "ja": "Claude Code、Cursor、Copilot、Windsurf、Cline向けの、ベトナム法（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）に基づくウェブサイト法務監査",
+        "ko": "Claude Code, Cursor, Copilot, Windsurf, Cline을 위한 베트남 법률(BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) 기준 웹사이트 법률 감사",
+        "hook": {
+          "en": "Check website legal compliance under Vietnamese law",
+          "zh-Hans": "检查网站是否符合越南法规要求",
+          "zh-Hant": "檢查網站是否符合越南法規要求",
+          "ja": "ウェブサイトがベトナム法を満たすか検査",
+          "ko": "웹사이트가 베트남 법률을 준수하는지 점검"
+        }
+      }
+    },
     "mochiiwuff/capri-desktop": {
       "425253e2de0a": {
         "src": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
@@ -1967,6 +2226,23 @@
         "zh-Hant": "Rx 11 Audio Editor 2026 完整獨立安裝設定。已解鎖所有功能且隨時可運行的桌面版。",
         "ja": "Rx 11 Audio Editor 2026 の完全なスタンドアロンインストールセットアップ。すべての機能がアンロックされた、すぐに実行可能なデスクトップ版。",
         "ko": "Rx 11 Audio Editor 2026 완전한 독립 실행형 설치 설정. 모든 기능이 잠금 해제되어 바로 실행 가능한 데스크톱 버전."
+      }
+    },
+    "narratarr/narratarr": {
+      "552e5252feab": {
+        "src": "Your audiobooks: found, fetched, and playing. An *arr-style audiobook manager with a built-in player.",
+        "zh-Hans": "你的有声书：寻找、获取并播放。内置播放器的 *arr 风格有声书管理器。",
+        "seen": "2026-11-04",
+        "zh-Hant": "你的有聲書：尋找、獲取並播放。內建播放器的 *arr 風格有聲書管理器。",
+        "ja": "あなたのオーディオブック：見つけて、取得して、再生する。内蔵プレーヤーを備えた *arr スタイルのオーディオブックマネージャー。",
+        "ko": "당신의 오디오북: 찾고, 가져오고, 재생합니다. 내장 플레이어가 있는 *arr 스타일 오디오북 관리자.",
+        "hook": {
+          "en": "Find, fetch, and play your audiobooks in one place",
+          "zh-Hans": "找寻、获取并播放有声书，一处轻松搞定",
+          "zh-Hant": "搜尋、取得並播放有聲書，一處輕鬆搞定",
+          "ja": "オーディオブックの検索から再生まで一括管理",
+          "ko": "오디오북 검색부터 가져오기, 재생까지 한 번에"
+        }
       }
     },
     "nodedevelopersack/Cubase": {
@@ -2285,6 +2561,22 @@
           "zh-Hant": "解說動效難做？74個看板隨語音同步",
           "ja": "解説動画の演出が大変？74種のボードを音声と同期",
           "ko": "해설 영상 제작이 막막할 때 74개 보드를 음성과 동기화"
+        }
+      }
+    },
+    "slateoriolewreck/ios-unlocker": {
+      "4372cf45ef0c": {
+        "src": "Complete standalone iOS Unlocker 2026 installation build, fully functional with no activation needed.",
+        "zh-Hans": "完整的独立 iOS Unlocker 2026 安装构建，功能完备且无需激活。",
+        "seen": "2026-11-04",
+        "zh-Hant": "完整的獨立 iOS Unlocker 2026 安裝組建，功能完備且無需啟用。",
+        "ja": "完全なスタンドアロンの iOS Unlocker 2026 インストールビルド。アクティベーション不要で完全に機能。",
+        "ko": "활성화가 필요 없는 완전한 기능의 독립형 iOS Unlocker 2026 설치 빌드.",
+        "hook": {
+          "en": "iOS Unlocker 2026 installer, listed as no activation needed",
+          "zh-Hant": "iOS Unlocker 2026 安裝檔，標為免啟用",
+          "ja": "iOS Unlocker 2026、認証不要表記",
+          "ko": "iOS Unlocker 2026, 활성화 불필요 표기"
         }
       }
     },

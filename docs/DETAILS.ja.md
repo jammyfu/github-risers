@@ -119,10 +119,10 @@
 |---|---|---|
 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | スマホ操作が面倒なら、エージェントにお任せ | アプリやウェブを操作して作業をこなしてくれる、Android向けのオンデバイスAIエージェント。 |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 構成図を描くのが面倒？一文で公式ロゴ付き図が完成 | エージェントスキル：スタックを一文で説明し、公式ロゴ付きのアーキテクチャ図を取得 |
-| [lexifina/global-law](https://github.com/lexifina/global-law) |  | Git for Global Law: the law of 700+ jurisdictions in git, each country's record a submodule where every commit is one change, dated by when it took effect and… |
+| [lexifina/global-law](https://github.com/lexifina/global-law) | 700超の法改正をgitの履歴のように追う | グローバル法のためのGit：Gitにおける700+の司法管轄区の法律。各国の記録はサブモジュールであり、すべてのコミットが1つの変更であり、施行日による日付が付けられ… |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | 勝手なコード切断を防ぎ、無損失でエージェントを動かす | ロスレスでヘッドレスなコーディングエージェントハーネス。1つの 7 MB 静的バイナリ、4つのツール、プレーンな stdin/stdout、サイレントカットなし。 |
-| [Balanov/skein](https://github.com/Balanov/skein) |  | Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection. |
-| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) |  | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline |
+| [Balanov/skein](https://github.com/Balanov/skein) | 期限切れタスクを遮断し群制御の乱れを防ぐ | エポックフェンスされた作業と遅延完了の拒絶を備えた、フェイルクローズ型のスウォームオーケストレーション。 |
+| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | ウェブサイトがベトナム法を満たすか検査 | Claude Code、Cursor、Copilot、Windsurf、Cline向けの、ベトナム法（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）に基づくウェブサイト法務監査 |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | アニメ再現が難しい？1コマずつ解析して一致を証明 | あらゆるアニメーションをフレーム単位でリバースエンジニアリングし、複製が全く同じように動くことを証明するClaude Codeスキル。 |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | セキュリティ診断の手間を、AI自律テストで解消 | 自律型ペンテスト軍団 — AI司令官 + ワーカー群 + 階層型事実-意図グラフ。第3回Tencent Intelligent Attack-Defenseオンラインチャンピオン（634チーム · 8h una… |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | アイデア一つから AI 漫画動画の全工程を作成 | 21の題材に対応した AI 漫劇全工程 Skill：ワンアイデアから企画書、アセット画像プロンプト、各話脚本、絵コンテと動画プロンプトを生成。Claude Code、WorkBuddy、DeepSeek で利用可能 |
@@ -133,42 +133,42 @@
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 抖音の返信が取得できない？階層コメントを丸ごと抽出 | 抖音（Douyin）単一動画の完全なコメント欄（1次コメント + 返信スレッド）を取得するエージェントスキル：ログイン済みのChromeで実際のページリクエストを複製し、署名はページSDKに委託 |
 | [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) | スタンフォード講義ノートで学ぶ AI エージェント実践 | スタンフォード Stanford CS329Z Engineering AI Agents 中国語チュートリアル：Python 開発者向け AI エージェントコース、19 講義と 4 つの実践、LLM、RAG、ツール呼び出し、記憶、マルチエージェント、評価と安全を網羅。完全な Markdown、オンラインおよびオフライン HTML。Chinese course notes. |
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | 341 種のスタイルを選びコード動画を一発作成 | 341 種類のコードアニメーションスタイルプロンプト、193 枚の参考静止画、オフラインセレクター。Claude Code / Codex スキルとしてパッケージ化され、ワンクリックインポートと HTML 動画レンダリングに対応。 |
-| [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) |  | 初心者向け AI エージェント入門の基礎チュートリアル。チュートリアルにとどまらず、ローカルで動くエージェントでもあります：ファイルの読み書き、コマンド実行、MCP、長期記憶、各ステップを確認できるウェブ画面付き。100 行の最小ループから始め、1 レッスンごとに 1 つの機能を追加し、最後は Claude Code、Codex などの主流エージェントを解剖 |
+| [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | 初心者でも自分のAIエージェントを動かして学べる | 初心者向け AI エージェント入門の基礎チュートリアル。チュートリアルにとどまらず、ローカルで動くエージェントでもあります：ファイルの読み書き、コマンド実行、MCP、長期記憶、各ステップを確認できるウェブ画面付き。100 行の最小ループから始め、1 レッスンごとに 1 つの機能を追加し、最後は Claude Code、Codex などの主流エージェントを解剖 |
 | [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | 1 つの知識を、出典つきの短い動画に | Vibe 知識大賞：1 つの知識ポイント → ナレーション付きで、すべての文に出典がある高品質な知識ショート動画に（Claude Code skill · 44 種のスタイル · コードでフレームごとに生成） |
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | 3Dサイトが作れない？エージェント用アニメスキル | 3D およびアニメーション Web サイト向けの 8 つのエージェントスキル：コードからの three.js シーン、スクロールフィルム、透過動画、カーソルリグ、分解図、AI モーションアセット、bro… |
 | [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) | AIが会話を忘れてしまう？キャラに長期記憶を即追加 | Persona AI SDK：デフォルトのペルソナ、永続的なキャラクターメモリ、Bedrock/OpenAIアダプターを1つのパッケージに統合。 |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Android アプリの情報漏えいをスキャンして安全に対処 | スマホのプライバシー監査：adb で Android アプリの権限、送信先エンドポイント、データフローを検出し、ロールバック可能な対応を提示。デスクトップ Android リーク監査：権限、エンドポイント、データフロー、可逆的な修正。 |
 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | 在庫価値が不明なら、ターミナルでSteamを査定 | ターミナルで Steam インベントリの価値を評価し、シェアカードとして出力：ゲーム別、市場別、売れたものと売れ残っているもの。1つの Windows ポータブルビルド、アカウント不要。 |
-| [MomentumGuideContact/fonetrans](https://github.com/MomentumGuideContact/fonetrans) |  | Complete Fonetrans desktop edition 2026, ready-to-run with all features fully activated. |
-| [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) |  | Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients. |
-| [slateoriolewreck/ios-unlocker](https://github.com/slateoriolewreck/ios-unlocker) |  | Complete standalone iOS Unlocker 2026 installation build, fully functional with no activation needed. |
-| [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) |  | Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… |
-| [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) |  | Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides. |
+| [MomentumGuideContact/fonetrans](https://github.com/MomentumGuideContact/fonetrans) | Fonetrans デスクトップ2026、有効化済み表記 | 完全な Fonetrans デスクトップ版 2026。すべての機能が完全にアクティベートされ、すぐに実行可能。 |
+| [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | AIがパソコンを安全に遠隔操作できるようにする | ChatGPT、Claude、および互換性のある MCP クライアント向けの、安全な AI 搭載リモートコンピューターアクセス。 |
+| [slateoriolewreck/ios-unlocker](https://github.com/slateoriolewreck/ios-unlocker) | iOS Unlocker 2026、認証不要表記 | 完全なスタンドアロンの iOS Unlocker 2026 インストールビルド。アクティベーション不要で完全に機能。 |
+| [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | ターミナルで説明してMinecraftに建築を一括配置 | Minecraft でバイブビルド。ターミナルで建築内容を説明し、ワールド内で設計図として確認し、ワンステップで配置してワンステップで元に戻します。datapacks も作成します。… |
+| [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) | ブラウザでAIと会話、APIでも呼び出せる | 無修正 AI API とブラウザチャット：DeepSeek および GLM モデル、ストリーミング、Python および TypeScript の例、価格設定とセットアップガイド。 |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | ブラウザからpiのコーディングエージェントを遠隔操作 | pi コーディングエージェントのためのリモートコントロール。Pi-Remote は実行中の pi ターミナルセッションを任意のブラウザにミラーリングするため、実行の確認、プロンプトへの回答、コマンドの送信 f… |
 | [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 制限を気にせず安価なモデルでコードを書く | cheap-ag で使用量を 50 倍に。Opus/Astra プラン、格安モデルが全コードを記述し、テストが出荷内容を決定。20 ドルのプランが制限に達しなくなります。1つの MCP… |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | エージェントの変更を確認してから適用 | この Roblox Studio エージェントによるすべての変更は、最初にあなたが承認する place diff です。Ctrl+Z 1回で任意のターンを巻き戻し、プレイテストはコピー上で実行されるため、本番データが移動することはありません… |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 確かな根拠でコード検証を助けるレビュー用スキル | Claude Code および Codex 向けの監査可能なコードレビューのスキル：4つの独立したプローブ、証拠に基づく指摘事項、JSON 由来のマージゲート。 |
 | [khanh020905/my-office](https://github.com/khanh020905/my-office) | Claude Code用の3Dオフィス空間 | Claude Code セッション用の 3D オフィス |
-| [4yk5/Ghostman](https://github.com/4yk5/Ghostman) |  | A fast, keyboard-driven TUI API client &amp; webhook inspector. No cloud, no Electron, 100% local-first. |
+| [4yk5/Ghostman](https://github.com/4yk5/Ghostman) | キーボードでAPIを素早く検査、完全ローカル | 高速でキーボード操作に対応した TUI API クライアント &amp; webhook インスペクター。クラウドなし、Electron なし、100% ローカルファースト。 |
 | [dufu1991/foldgit](https://github.com/dufu1991/foldgit) | 差分確認からコミットまで1画面で完結 | macOS 向けのネイティブで軽量な Git クライアント。1つのウィンドウでリポジトリと worktree の管理、diff の確認、変更のコミットを実行。 |
-| [Codeonshovel/microsoft-365](https://github.com/Codeonshovel/microsoft-365) |  | Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation. |
-| [Nucleusanwish/microsoft-office](https://github.com/Nucleusanwish/microsoft-office) |  | Complete standalone setup for Microsoft Office 2026, featuring full pre-activation and all essential components ready to run. |
-| [ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio) |  | Fl Studio 2026 - Full working installer, complete standalone setup for professional audio production. |
-| [blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader) |  | Ph Down 2026: Complete standalone setup for professional desktop utility configuration, ready to run out of the box. |
-| [CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio) |  | Microsoft Visio 2026: Full working installer with all templates and features activated, ready for immediate desktop use. |
-| [Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster) |  | Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with all features pre-activated. |
+| [Codeonshovel/microsoft-365](https://github.com/Codeonshovel/microsoft-365) | Microsoft 365 デスクトップインストーラー | Microsoft 365 プロフェッショナル デスクトップ ユーティリティ構成 - シームレスなセットアップと運用のための完全動作インストーラー。 |
+| [Nucleusanwish/microsoft-office](https://github.com/Nucleusanwish/microsoft-office) | Microsoft Office 2026インストーラー | Microsoft Office 2026 の完全なスタンドアロンセットアップ。完全な事前アクティベーションを特長とし、すべての必須コンポーネントがすぐに実行可能な状態で提供されます。 |
+| [ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio) | Fl Studio 2026 インストーラー | Fl Studio 2026 - プロフェッショナルなオーディオ制作のための完全動作インストーラー、完全なスタンドアロンセットアップ。 |
+| [blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader) | Ph Down 2026 デスクトップインストーラー | Ph Down 2026: すぐに使えるプロフェッショナルなデスクトップ ユーティリティ構成用の完全なスタンドアロンセットアップ。 |
+| [CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio) | Microsoft Visio 2026 インストーラー | Microsoft Visio 2026: すべてのテンプレートと機能がアクティベートされた完全動作インストーラー。デスクトップですぐに使用可能。 |
+| [Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster) | Iobit Driver Booster 2026 インストーラ | Iobit Driver Booster 2026 の完全なスタンドアロンセットアップ。すべての機能が事前アクティベートされた、すぐに実行可能なインストーラー。 |
 | [mofan6/Moect](https://github.com/mofan6/Moect) | WeChatの会話を残したい時に、オフラインで書き出し保存 | Windows WeChat 4.x チャット履歴のエクスポート、バックアップおよびオフラインアーカイブツール · WeChat chat history exporter &amp; backup. フレンド/グループチャット、アバター、画像、GIFスタンプ、音声/動画、ファイル、リンク、ミニプログラム、引用返信、一括転送に対応；HTML、JSON、JSONL、TXT、CSV、Markdown エクスポート… |
 | [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | 新ワードを見つけたら、午後には AI サイトを公開 | 新しいキーワードごとに稼げる AI サイトを公開。認証、クレジット、決済、AI 生成を備えた Cloudflare ネイティブのスターター。/ 新語サイト群フレームワーク：1 語につき 1 サイト、午後のうちに公開。伸びたものは改良を続け、伸びなかったものは… |
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | プロンプトの管理に困ったら、ローカルで保存 | ローカル優先のプロンプト収集デスクトップツール · Tauri 2 + React 19 + TypeScript · Windows 向けのローカル優先プロンプト保管庫 |
 | [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) | CS2の取引利益が曖昧？手数料込みの純利益を確認 | Aegis SpreadWatch: CS2 の売買機会をわかりやすく表示 — プラットフォームごとの純利益、ROI、手数料の前提条件をデバイス上で計算。 |
 | [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) | CS2の注文手数料が不安？アカウント不要で計画 | Aegis VaultGrid: CS2 インベントリ保管庫と手数料を考慮した注文プランナーを連携。ローカル JSON 状態、閲覧にアカウントは不要。 |
 | [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) | CS2の価格差が見えない？手数料込みでローカル確認 | Aegis Skin Terminal: 手数料を考慮したスプレッドスキャナー、保管庫ワークスペース、オフライン Steam Guard コードを備えたローカルファーストの CS2 取引ワークスペース。 |
-| [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) |  | Simulador de Azure para aprender DevOps sin cuenta ni costes: portal, Cloud Shell, Azure DevOps y una academia de 13 niveles con 47 laboratorios que se validan… |
+| [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | アカウントや費用なしで Azure DevOps を学ぶ | アカウントもコストもなしで DevOps を学ぶための Azure シミュレーター: ポータル、Cloud Shell、Azure DevOps、そして検証可能な 47 のラボを備えた 13 レベルのアカデミー… |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | ボイスレコーダーの録音を、検索できる文字に | OpenMinutes · ボイスレコーダーのワークベンチ：MemoTalk S1 の録音を取り込み · 文字起こし · AI で分類 · 検索して振り返り（Floatboat Workbench のオープンソース実装） |
-| [narratarr/narratarr](https://github.com/narratarr/narratarr) |  | Your audiobooks: found, fetched, and playing. An *arr-style audiobook manager with a built-in player. |
+| [narratarr/narratarr](https://github.com/narratarr/narratarr) | オーディオブックの検索から再生まで一括管理 | あなたのオーディオブック：見つけて、取得して、再生する。内蔵プレーヤーを備えた *arr スタイルのオーディオブックマネージャー。 |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | ドット絵演出に悩んだら244本の短いコードを貼るだけ | 244種類のピクセルアートエフェクト、すべてが小さなコード片。さらに独自の作品を作成するための Claude Code スキルも付属。 |
 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 余白が味気ない？デルフトブルーの花柄を自動で描く | Lua で描画された、LuaLaTeX 向けのプロシージャル生成デルフトブルー花柄ページ余白 |
-| [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) |  | A JSON spec and renderer for interactive agent avatars |
+| [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 対話型エージェントのアバターを簡単描画 | インタラクティブなエージェントアバター用の JSON 仕様とレンダラー |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | AI臭さが抜けない？4つのスキルでデザインを整える | 歸藏设计 · DeepSeek Harness プラグイン：Web PPT、画像・テキストカード、Web組版、AI感を消す4つのスキル、1つのデザインシステム；作品ライブラリ、コンテンツ制作ワークフロー、トーンプロファイル |
 | [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 看護研究が進まない時に、AIスキルで設計から執筆まで支援 | 看護研究パートナー｜検索、設計、データ、統計、執筆、グラフを網羅する18のオープンソース看護研究AIスキル；コホート研究とRCTのプロセス、テンプレート、合成例を新たに追加。 |
 | [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation) | 企画を動かせない？原稿と音声をコード動画に変える | 中国語のテキスト、画風プロンプト、音声を一貫したコードアニメーション（Remotion / Canvas / HTML）にする DeepSeek Harness スキル。341種類の画風ライブラリ検索、意味的絵コンテ、カメラトランジション、キャラクター演技、4案の音楽と効果音、チェックと手直し。 |
