@@ -6,6 +6,7 @@
 
 | 날짜 | 슬롯 | 가져온 시각(UTC) | 신규 1위(7일) | 이번 주 1위 | 이번 달 1위 | 올해 1위 | 스냅샷 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-05 | 베이징 00:00 (`cn-0000`) | 2026-11-04T21:42:33Z | KKKKhazix/agent-autoloop (1,528/일) | morluto/rea (4,321/일) | morluto/rea (14,176/일) | deepseek-ai/deepseek-harness (3,273/일) | [2026-11-05/cn-0000](2026-11-05/cn-0000/rankings.ko.md) · [json](2026-11-05/cn-0000/stats.json) |
 | 2026-11-04 | 베이징 00:00 (`cn-0000`) | 2026-11-03T21:28:29Z | wangzan101/Mika (1,139/일) | morluto/rea (4,514/일) | morluto/rea (14,121/일) | deepseek-ai/deepseek-harness (3,295/일) | [2026-11-04/cn-0000](2026-11-04/cn-0000/rankings.ko.md) · [json](2026-11-04/cn-0000/stats.json) |
 | 2026-11-03 | 베이징 00:00 (`cn-0000`) | 2026-11-02T23:18:30Z | wangzan101/Mika (1,203/일) | morluto/rea (4,904/일) | morluto/rea (13,987/일) | deepseek-ai/deepseek-harness (3,318/일) | [2026-11-03/cn-0000](2026-11-03/cn-0000/rankings.ko.md) · [json](2026-11-03/cn-0000/stats.json) |
 | 2026-11-02 | 베이징 00:00 (`cn-0000`) | 2026-11-01T20:08:04Z | wangzan101/Mika (1,156/일) | morluto/rea (5,273/일) | morluto/rea (13,859/일) | deepseek-ai/deepseek-harness (3,346/일) | [2026-11-02/cn-0000](2026-11-02/cn-0000/rankings.ko.md) · [json](2026-11-02/cn-0000/stats.json) |

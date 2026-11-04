@@ -6,6 +6,7 @@
 
 | 日付 | スロット | 取得日時（UTC） | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | スナップショット |
 |---|---|---|---|---|---|---|---|
+| 2026-11-05 | 北京時間 00:00 (`cn-0000`) | 2026-11-04T21:42:33Z | KKKKhazix/agent-autoloop (1,528/日) | morluto/rea (4,321/日) | morluto/rea (14,176/日) | deepseek-ai/deepseek-harness (3,273/日) | [2026-11-05/cn-0000](2026-11-05/cn-0000/rankings.ja.md) · [json](2026-11-05/cn-0000/stats.json) |
 | 2026-11-04 | 北京時間 00:00 (`cn-0000`) | 2026-11-03T21:28:29Z | wangzan101/Mika (1,139/日) | morluto/rea (4,514/日) | morluto/rea (14,121/日) | deepseek-ai/deepseek-harness (3,295/日) | [2026-11-04/cn-0000](2026-11-04/cn-0000/rankings.ja.md) · [json](2026-11-04/cn-0000/stats.json) |
 | 2026-11-03 | 北京時間 00:00 (`cn-0000`) | 2026-11-02T23:18:30Z | wangzan101/Mika (1,203/日) | morluto/rea (4,904/日) | morluto/rea (13,987/日) | deepseek-ai/deepseek-harness (3,318/日) | [2026-11-03/cn-0000](2026-11-03/cn-0000/rankings.ja.md) · [json](2026-11-03/cn-0000/stats.json) |
 | 2026-11-02 | 北京時間 00:00 (`cn-0000`) | 2026-11-01T20:08:04Z | wangzan101/Mika (1,156/日) | morluto/rea (5,273/日) | morluto/rea (13,859/日) | deepseek-ai/deepseek-harness (3,346/日) | [2026-11-02/cn-0000](2026-11-02/cn-0000/rankings.ja.md) · [json](2026-11-02/cn-0000/stats.json) |
