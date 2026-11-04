@@ -6,14 +6,16 @@
       "b41819dcf987": {
         "src": "A fast, keyboard-driven TUI API client &amp; webhook inspector. No cloud, no Electron, 100% local-first.",
         "zh-Hans": "一款快速、键盘驱动的 TUI API 客户端 &amp; webhook 检查器。无云端、无 Electron、100% 本地优先。",
-        "seen": "2026-11-04",
+        "seen": "2026-11-05",
         "zh-Hant": "一款快速、鍵盤驅動的 TUI API 客戶端 &amp; webhook 檢查器。無雲端、無 Electron、100% 本機優先。",
         "ja": "高速でキーボード操作に対応した TUI API クライアント &amp; webhook インスペクター。クラウドなし、Electron なし、100% ローカルファースト。",
         "ko": "빠르고 키보드 중심의 TUI API 클라이언트 &amp; webhook 검사기. 클라우드 없음, Electron 없음, 100% 로컬 우선.",
         "hook": {
           "en": "Inspect APIs and webhooks locally using your keyboard",
           "ja": "キーボードでAPIを素早く検査、完全ローカル",
-          "ko": "키보드로 API와 webhook 검사, 완전 로컬"
+          "ko": "키보드로 API와 webhook 검사, 완전 로컬",
+          "zh-Hans": "厌倦笨重工具，纯键盘操控且完全本地",
+          "zh-Hant": "厭倦笨重工具，純鍵盤操控且完全本機"
         }
       }
     },
@@ -47,6 +49,21 @@
           "en": "Genesis Miner 2026 installer, listed as fully unlocked",
           "ja": "全機能解放済みとされる 2026 デスクトップ版",
           "ko": "모든 기능이 잠금 해제된 2026 데스크톱 설치본"
+        }
+      }
+    },
+    "ArenaSoldierPlay/microsoft-office": {
+      "4eb3b5a57940": {
+        "src": "Microsoft Office 2026 complete standalone installation setup. Pre-activated desktop edition ready to run.",
+        "zh-Hans": "Microsoft Office 2026 完整独立安装程序。预激活桌面版，随时可用。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Microsoft Office 2026 完整獨立安裝程式。預先啟用的桌面版，隨時可用。",
+        "ja": "Microsoft Office 2026 完全スタンドアロンインストールセットアップ。事前アクティベート済みのすぐに実行可能なデスクトップ版。",
+        "ko": "Microsoft Office 2026 완전 독립형 설치 셋업. 바로 실행 가능한 사전 정품 인증 데스크톱 에디션.",
+        "hook": {
+          "en": "Microsoft Office 2026, listed as pre-activated",
+          "ja": "Microsoft Office 2026（事前有効化済み）",
+          "ko": "Microsoft Office 2026 사전 활성화 데스크톱 설치본"
         }
       }
     },
@@ -154,6 +171,21 @@
           "zh-Hant": "怕上下文被悄悄裁剪，代理無損寫程式",
           "ja": "文脈を勝手に切られず、エージェントでコード作成",
           "ko": "문맥이 몰래 잘리지 않게 코딩 에이전트 실행"
+        }
+      }
+    },
+    "Basinflaworship2/fl-studio": {
+      "73ee42fe3ef1": {
+        "src": "Fl Studio 2026: Full working installer with all essential plugins and features, ready to run on your desktop.",
+        "zh-Hans": "Fl Studio 2026：包含所有必备插件和功能的完整可用安装程序，可在你的桌面上直接运行。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Fl Studio 2026：包含所有必備外掛與功能的完整可用安裝程式，可在你的桌面上直接運行。",
+        "ja": "Fl Studio 2026: すべての必須プラグインと機能を備えた完全に動作するインストーラー。デスクトップですぐに実行可能です。",
+        "ko": "Fl Studio 2026: 모든 필수 플러그인과 기능을 포함하여 데스크톱에서 바로 실행 가능한 완전한 작동 설치 프로그램.",
+        "hook": {
+          "en": "Fl Studio 2026 desktop installer with essential plugins",
+          "ja": "Fl Studio 2026 デスクトップ版（プラグイン同梱）",
+          "ko": "Fl Studio 2026 주요 플러그인 포함 데스크톱 설치본"
         }
       }
     },
@@ -271,6 +303,23 @@
         }
       }
     },
+    "ChannelDivinerCast/VSCode-Extension-Helper": {
+      "7cb9f912d126": {
+        "src": "Lightweight desktop tool for Visual Studio Code users. Smart extension management, performance optimization, recommendation system and productivity helpers. Cl…",
+        "zh-Hans": "面向 Visual Studio Code 用户的轻量级桌面工具。智能扩展管理、性能优化、推荐系统与生产力助手。Cl…",
+        "seen": "2026-11-05",
+        "zh-Hant": "面向 Visual Studio Code 使用者的輕量級桌面工具。智慧擴充功能管理、效能最佳化、推薦系統與生產力輔助工具。Cl…",
+        "ja": "Visual Studio Code ユーザー向けの軽量デスクトップツール。スマートな拡張機能管理、パフォーマンスの最適化、レコメンドシステム、生産性向上ツール。Cl…",
+        "ko": "Visual Studio Code 사용자를 위한 경량 데스크톱 도구. 스마트 확장 프로그램 관리, 성능 최적화, 추천 시스템 및 생산성 도우미. Cl…",
+        "hook": {
+          "en": "VS Code running slow? Manage extensions and optimize it",
+          "zh-Hans": "扩展杂乱难管理，智能整理并优化性能",
+          "zh-Hant": "擴充功能雜亂難管，智慧管理並最佳化",
+          "ja": "拡張機能の管理や動作の重さに悩んだら、これで最適化",
+          "ko": "확장 프로그램이 꼬일 때, 스마트하게 관리하고 최적화"
+        }
+      }
+    },
     "Codeonshovel/microsoft-365": {
       "5c6621c10de4": {
         "src": "Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation.",
@@ -340,6 +389,21 @@
         }
       }
     },
+    "DenColonelWrinkle/ios-unlocker": {
+      "6187ecb888af": {
+        "src": "Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.",
+        "zh-Hans": "完整的独立 iOS Unlocker 2026 安装程序，所有功能均已激活，随时可用。",
+        "seen": "2026-11-05",
+        "zh-Hant": "完整的獨立 iOS Unlocker 2026 安裝程式，所有功能均已啟用，隨時可用。",
+        "ja": "すべての機能がアクティベートされ、すぐに実行できる完全なスタンドアロン iOS Unlocker 2026 セットアップ。",
+        "ko": "모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 iOS Unlocker 2026 설치 프로그램.",
+        "hook": {
+          "en": "iOS Unlocker 2026 setup, listed as fully activated",
+          "ja": "iOS Unlocker 2026（全機能有効）",
+          "ko": "iOS Unlocker 2026 전체 기능 활성화 설치본"
+        }
+      }
+    },
     "DenisSergeevitch/ex-ussr-kinship-research": {
       "0acb87efff3a": {
         "src": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Re…",
@@ -395,6 +459,21 @@
           "zh-Hant": "給互動代理輕鬆渲染虛擬形象",
           "ja": "対話型エージェントのアバターを簡単描画",
           "ko": "인터랙티브 에이전트의 아바타를 간편하게 렌더링"
+        }
+      }
+    },
+    "DriftRhymePrevail/genesis-miner": {
+      "f82801dcb50c": {
+        "src": "Genesis Miner 2026: Full working installer with optimized mining algorithms for enhanced performance.",
+        "zh-Hans": "Genesis Miner 2026：带有用于提升性能的优化挖矿算法的完整可用安装程序。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Genesis Miner 2026：帶有用於提升效能的最佳化挖礦演算法的完整可用安裝程式。",
+        "ja": "Genesis Miner 2026: パフォーマンス向上のための最適化されたマイニングアルゴリズムを備えた完全な実動インストーラー。",
+        "ko": "Genesis Miner 2026: 향상된 성능을 위해 최적화된 채굴 알고리즘이 적용된 완전한 작동 설치 프로그램.",
+        "hook": {
+          "en": "Genesis Miner 2026 installer, listed as working",
+          "ja": "稼働表記の Genesis Miner 2026",
+          "ko": "작동 표기된 Genesis Miner 2026 설치본"
         }
       }
     },
@@ -567,6 +646,42 @@
           "zh-Hant": "手機上免 Root 跑 AstrBot 和 NapCat",
           "ja": "スマホで AstrBot と NapCat を Root なしで実行",
           "ko": "루팅 없이 폰에서 AstrBot·NapCat 실행"
+        }
+      }
+    },
+    "JuneYaooo/rea-video": {
+      "c572aacfef1c": {
+        "src": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+        "zh-Hans": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+        "seen": "2026-11-05",
+        "zh-Hant": "逆向一切影片：實拍口播、桌拍、AI 影片、3D、代碼動效、混剪，逐鏡拆出畫面、花字、剪輯和聲音是怎麼做的，並給出復刻方案。Reverse-engineer any video, shot by shot.",
+        "ja": "あらゆる動画をリバースエンジニアリング：実写トーク、デスク撮影、AI 動画、3D、コードアニメーション、マッシュアップ。画面、テロップ、編集、音声の制作手法をカットごとに分解し、再現手順を提示します。Reverse-engineer any video, shot by shot.",
+        "ko": "모든 영상 리버스 엔지니어링: 실사 토크, 데스크 촬영, AI 영상, 3D, 코드 모션 그래픽, 교차 편집 등 장면별로 화면, 자막 효과, 편집, 사운드가 어떻게 제작되었는지 분석하고 재현 방안을 제시합니다. Reverse-engineer any video, shot by shot.",
+        "en": "Reverse-engineer any video: live-action talking head, desk setup, AI video, 3D, code animation, and mashups—breaking down how visuals, titles, editing, and sound were made shot by shot, and providing replication solutions. Reverse-engineer any video, shot by shot.",
+        "hook": {
+          "en": "Wonder how a video was made? Break it down shot by shot",
+          "zh-Hans": "看不懂视频怎么做，逐镜拆解画面与剪辑",
+          "zh-Hant": "看不懂影片怎麼做，逐鏡拆解畫面與剪輯",
+          "ja": "作り方が分からない動画を、コマごとに分解して再現",
+          "ko": "영상 제작법이 궁금할 때, 장면별로 분해해 복제"
+        }
+      }
+    },
+    "KKKKhazix/agent-autoloop": {
+      "088d1a7c3336": {
+        "src": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "zh-Hans": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "seen": "2026-11-05",
+        "zh-Hant": "讓你的命令行代理在後台自己接活、自己跟進到底；平時不煩你，遇到拿不準的事才發卡片找你拍板。",
+        "ja": "コマンドラインエージェントがバックグラウンドで自律的にタスクを引き受け、最後まで完遂。普段は邪魔をせず、判断に迷う時だけカードを送信して決定を仰ぎます。",
+        "ko": "커맨드라인 에이전트가 백그라운드에서 직접 작업을 맡아 끝까지 완수합니다. 평소에는 방해하지 않고, 확실하지 않은 일에 부딪힐 때만 카드를 보내 결정을 요청합니다.",
+        "en": "Let your command-line agent automatically take on tasks and follow up to the end in the background; it won't bother you ordinarily, sending a card to ask for your call only when uncertain.",
+        "hook": {
+          "en": "Tired of babysitting agents? Approve only when needed",
+          "zh-Hans": "不用一直盯梢，智能体拿不准时才找你",
+          "zh-Hant": "不用一直盯梢，代理拿不準時才找你",
+          "ja": "見守りは不要、エージェントが迷った時だけ確認",
+          "ko": "계속 지켜볼 필요 없이, 에이전트가 막힐 때만 확인"
         }
       }
     },
@@ -881,6 +996,38 @@
         "ko": "사전 활성화되어 바로 실행 가능한 Hwid Spoofer Free용 완전한 독립 실행형 설정."
       }
     },
+    "RaikageRegard/foneazy-mobile": {
+      "ad562850b6bc": {
+        "src": "Complete standalone setup for Foneazy Mobile 2023. Fully functional desktop installation ready to run.",
+        "zh-Hans": "Foneazy Mobile 2023 的完整独立安装程序。随时可运行的全功能桌面安装。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Foneazy Mobile 2023 的完整獨立安裝程式。隨時可運行的全功能桌面安裝。",
+        "ja": "Foneazy Mobile 2023 の完全なスタンドアロンセットアップ。すぐに実行できる完全機能のデスクトップインストール。",
+        "ko": "Foneazy Mobile 2023을 위한 완전한 독립형 설정. 즉시 실행 가능한 완전한 기능의 데스크톱 설치.",
+        "hook": {
+          "en": "Foneazy Mobile 2023 standalone desktop installer",
+          "zh-Hans": "Foneazy Mobile 2023 独立桌面安装程序",
+          "zh-Hant": "Foneazy Mobile 2023 獨立桌面安裝程式",
+          "ja": "Foneazy Mobile 2023 デスクトップ版",
+          "ko": "Foneazy Mobile 2023 데스크톱 설치 프로그램"
+        }
+      }
+    },
+    "RamCocoonSever/microstation-2026": {
+      "4de7b752da4a": {
+        "src": "Microstation 2026: Full working installer with all features pre-activated, ready for immediate desktop use.",
+        "zh-Hans": "Microstation 2026：预激活所有功能的完整可用安装程序，可立即在桌面使用。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Microstation 2026：預啟用所有功能的完整可用安裝程式，可立即在桌面使用。",
+        "ja": "Microstation 2026: すべての機能があらかじめ有効化された完全な実動インストーラーで、デスクトップですぐに使用できます。",
+        "ko": "Microstation 2026: 모든 기능이 사전 활성화된 완전한 작동 설치 프로그램으로, 데스크톱에서 즉시 사용할 수 있습니다.",
+        "hook": {
+          "en": "Microstation 2026 installer, listed as pre-activated",
+          "ja": "Microstation 2026（事前有効化済み）",
+          "ko": "Microstation 2026 사전 활성화 데스크톱 설치본"
+        }
+      }
+    },
     "SAOS-3624/dsh-see-now": {
       "f6568f266eb2": {
         "src": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -1088,14 +1235,16 @@
       "27c61eec52d0": {
         "src": "Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.…",
         "zh-Hans": "在 Minecraft 中氛围构建。在终端中描述建造内容，在你的世界中将其查看为蓝图，一步放置并一步撤销。还会编写 datapacks。…",
-        "seen": "2026-11-04",
+        "seen": "2026-11-05",
         "zh-Hant": "在 Minecraft 中氛圍構建。在終端機中描述建造內容，在你的世界中將其檢視為藍圖，一步放置並一步復原。也會編寫 datapacks。…",
         "ja": "Minecraft でバイブビルド。ターミナルで建築内容を説明し、ワールド内で設計図として確認し、ワンステップで配置してワンステップで元に戻します。datapacks も作成します。…",
         "ko": "Minecraft에서 느낌대로 건축하기(Vibe-build). 터미널에서 건축물을 설명하고, 월드에서 청사진으로 확인하며, 한 번에 배치하고 한 번에 실행 취소합니다. datapacks도 작성합니다.…",
         "hook": {
           "en": "Describe builds in terminal and place them in Minecraft",
           "ja": "ターミナルで説明してMinecraftに建築を一括配置",
-          "ko": "터미널로 묘사하고 Minecraft에 건축물을 바로 배치"
+          "ko": "터미널로 묘사하고 Minecraft에 건축물을 바로 배치",
+          "zh-Hans": "不想手动搭建，在终端描述即可一步放置",
+          "zh-Hant": "不想手動蓋，在終端機描述即可一步放置"
         }
       }
     },
@@ -1154,14 +1303,16 @@
       "4bcd05af4b5e": {
         "src": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
         "zh-Hans": "未审查的 AI API 和浏览器聊天：DeepSeek 和 GLM 模型、流式传输、Python 和 TypeScript 示例、定价和设置指南。",
-        "seen": "2026-11-04",
+        "seen": "2026-11-05",
         "zh-Hant": "未審查的 AI API 和瀏覽器聊天：DeepSeek 和 GLM 模型、串流、Python 和 TypeScript 範例、定價和設定指南。",
         "ja": "無修正 AI API とブラウザチャット：DeepSeek および GLM モデル、ストリーミング、Python および TypeScript の例、価格設定とセットアップガイド。",
         "ko": "검열되지 않은 AI API 및 브라우저 채팅: DeepSeek 및 GLM 모델, 스트리밍, Python 및 TypeScript 예제, 가격 책정 및 설정 가이드.",
         "hook": {
           "en": "Chat with AI in browser or call models via API",
           "ja": "ブラウザでAIと会話、APIでも呼び出せる",
-          "ko": "브라우저에서 AI와 대화하고 API로 모델 호출"
+          "ko": "브라우저에서 AI와 대화하고 API로 모델 호출",
+          "zh-Hans": "想接入模型？提供 API 与浏览器对话",
+          "zh-Hant": "想串接模型？提供 API 與瀏覽器對話"
         }
       }
     },
@@ -1186,6 +1337,21 @@
           "zh-Hant": "Canva Pro 2026 已解鎖安裝包",
           "ja": "Canva Pro 2026 全機能アンロック済みインストーラー",
           "ko": "Canva Pro 2026 전체 기능 잠금 해제 설치 파일"
+        }
+      }
+    },
+    "VectorLobsterBearing/landr-plugin-bundle": {
+      "858ef38b1908": {
+        "src": "Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop.",
+        "zh-Hans": "Landr Plugin Bundle 2026：预装所有基本插件的完整可用安装程序，可随时在您的桌面运行。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Landr Plugin Bundle 2026：預裝所有基本外掛的完整可用安裝程式，可隨時在您的桌面運行。",
+        "ja": "Landr Plugin Bundle 2026: すべての必須プラグインがあらかじめインストールされ、デスクトップですぐに実行できる完全な実動インストーラー。",
+        "ko": "Landr Plugin Bundle 2026: 모든 필수 플러그인이 사전 설치되어 데스크톱에서 바로 실행할 수 있는 완전한 작동 설치 프로그램.",
+        "hook": {
+          "en": "Landr Plugin Bundle 2026 desktop installer with plugins",
+          "ja": "Landr Plugin Bundle 2026（プラグイン同梱）",
+          "ko": "Landr Plugin Bundle 2026 플러그인 포함 설치본"
         }
       }
     },
@@ -1246,6 +1412,22 @@
           "zh-Hant": "選 341 種風格，一鍵渲染程式碼影片",
           "ja": "341 種のスタイルを選びコード動画を一発作成",
           "ko": "341가지 스타일로 코드 애니메이션 영상 원클릭 렌더링"
+        }
+      },
+      "81814d14c420": {
+        "src": "341 种代码动画风格提示词、196 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。",
+        "zh-Hans": "341 种代码动画风格提示词、196 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。",
+        "seen": "2026-11-05",
+        "zh-Hant": "341 種代碼動畫風格提示詞、196 張參考靜幀與離線挑選器，封裝為 Claude Code / Codex 技能，支援一鍵導入與 HTML 影片渲染。",
+        "ja": "341 種類のコードアニメーションスタイルプロンプト、196 枚のリファレンス静止画とオフラインセレクター。Claude Code / Codex スキルとしてカプセル化され、ワンクリックインポートと HTML 動画レンダリングに対応。",
+        "ko": "341가지 코드 애니메이션 스타일 프롬프트, 196장의 참조 정지 프레임 및 오프라인 선택기. Claude Code / Codex 스킬로 패키징되어 원클릭 가져오기 및 HTML 비디오 렌더링을 지원합니다.",
+        "en": "341 code animation style prompts, 196 reference stills, and an offline selector, packaged as a Claude Code / Codex Skill, supporting one-click import and HTML video rendering.",
+        "hook": {
+          "en": "Need code animation styles? Pick and import in one step",
+          "zh-Hans": "做代码动画缺灵感，挑选风格一键导入",
+          "zh-Hant": "做代碼動畫缺靈感，挑選風格一鍵匯入",
+          "ja": "コードアニメに悩んだら、スタイルを選んで一括導入",
+          "ko": "코드 애니메이션이 막힐 때, 스타일 골라 바로 적용"
         }
       }
     },
@@ -1581,6 +1763,23 @@
         }
       }
     },
+    "declarative-dragging/dragology": {
+      "e238d64204f8": {
+        "src": "Declarative dragging for SVG on the web",
+        "zh-Hans": "Web 上的 SVG 声明式拖拽",
+        "seen": "2026-11-05",
+        "zh-Hant": "Web 上的 SVG 宣告式拖曳",
+        "ja": "Web 上の SVG 向け宣言型ドラッグ",
+        "ko": "웹 상의 SVG를 위한 선언적 드래그",
+        "hook": {
+          "en": "Can't drag SVG on the web, just declare and move it",
+          "zh-Hans": "网页 SVG 不好拖，声明一下就能拖动",
+          "zh-Hant": "網頁 SVG 不好拖，宣告一下就能拖動",
+          "ja": "WebのSVGが動かしにくい時に、宣言だけでドラッグ",
+          "ko": "웹 SVG를 움직이기 어려울 때, 선언만으로 드래그"
+        }
+      }
+    },
     "designfuchen/word-atlas": {
       "5096668083c7": {
         "src": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1603,6 +1802,21 @@
           "zh-Hant": "帶插圖的雅思詞彙，7,298 詞",
           "ja": "挿絵つき IELTS 単語 7,298 語",
           "ko": "삽화로 배우는 IELTS 어휘 7,298개"
+        }
+      }
+    },
+    "driftcoralemporium/instagram-liker-bot": {
+      "0ba3a1b3b3e7": {
+        "src": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.",
+        "zh-Hans": "Instagram Liker Bot 2023：具备自动点赞和关注功能的完整独立安装程序，可随时在您的桌面运行。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Instagram Liker Bot 2023：具備自動按讚和追蹤功能的完整獨立安裝程式，可隨時在您的桌面運行。",
+        "ja": "Instagram Liker Bot 2023: 自動いいねおよびフォロー機能を備えた完全なスタンドアロンセットアップで、デスクトップですぐに実行できます。",
+        "ko": "Instagram Liker Bot 2023: 자동 좋아요 및 팔로우 기능을 갖춘 완전한 독립형 설정으로, 데스크톱에서 바로 실행할 수 있습니다.",
+        "hook": {
+          "en": "Instagram Liker Bot 2023 desktop automated liking setup",
+          "ja": "Instagram Liker Bot 2023 自動化ツール",
+          "ko": "Instagram Liker Bot 2023 데스크톱 자동화 프로그램"
         }
       }
     },
@@ -1738,6 +1952,23 @@
           "ko": "Vue 분석이 어려울 때, 리버스와 Web 보안 테스트",
           "zh-Hans": "做安全测试，轻松逆向 Vue 前端",
           "zh-Hant": "做安全測試，輕鬆逆向 Vue 前端"
+        }
+      }
+    },
+    "govijr/terminal-mac": {
+      "51f03e491da9": {
+        "src": "Entire MacOS running in your terminal.",
+        "zh-Hans": "在你的终端中运行整个 MacOS。",
+        "seen": "2026-11-05",
+        "zh-Hant": "在你的終端機中運行整個 MacOS。",
+        "ja": "ターミナル上で動作する完全な MacOS。",
+        "ko": "터미널에서 실행되는 전체 MacOS.",
+        "hook": {
+          "en": "Don't leave the terminal; run full MacOS right inside it",
+          "zh-Hans": "不想离开终端，在里面运行完整 macOS",
+          "zh-Hant": "不想離開終端機，在裡面運行完整 macOS",
+          "ja": "ターミナルから出ずに、完全な macOS を動かす",
+          "ko": "터미널을 나가지 않고, 안에서 전체 macOS 실행"
         }
       }
     },
@@ -2028,6 +2259,21 @@
         }
       }
     },
+    "kubai087/kubai-icons": {
+      "277d37eff81e": {
+        "src": "A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG.",
+        "zh-Hans": "以一致风格绘制动态图标的 Claude 技能，带有悬停动效或作为静态 SVG。",
+        "seen": "2026-11-05",
+        "zh-Hant": "以一致風格繪製動態圖示的 Claude 技能，帶有懸停動效或作為靜態 SVG。",
+        "ja": "ホバーモーションまたは静的 SVG として、統一されたスタイルで動的アイコンを描画する Claude スキル。",
+        "ko": "호버 모션 또는 정적 SVG로 일관된 스타일의 동적 아이콘을 그리는 Claude 스킬.",
+        "hook": {
+          "en": "Icons look mismatched, let a Claude skill draw one style",
+          "ja": "アイコンが不揃いなら、Claude スキルで統一描画",
+          "ko": "제각각인 아이콘, Claude 스킬로 맞춰 그리기"
+        }
+      }
+    },
     "kyy-logs/code-review-skill": {
       "882bfa7e576e": {
         "src": "Auditable code review skill for Claude Code and Codex: four independent probes, evidence-backed findings, and a JSON-derived merge gate.",
@@ -2059,6 +2305,21 @@
           "zh-Hant": "像看程式碼提交一樣追蹤全球法律變更",
           "ja": "700超の法改正をgitの履歴のように追う",
           "ko": "700여 개 관할권의 법률 변경을 git처럼 추적"
+        }
+      }
+    },
+    "marbleorbweb94/ninjatrader-bot": {
+      "a365ba25e7cb": {
+        "src": "Robust Ninjatrader Bot 2026, a complete standalone setup ready to run with all features pre-activated.",
+        "zh-Hans": "强大的 Ninjatrader Bot 2026，一个预激活所有功能且随时可运行的完整独立安装程序。",
+        "seen": "2026-11-05",
+        "zh-Hant": "強大的 Ninjatrader Bot 2026，一個預啟用所有功能且隨時可運行的完整獨立安裝程式。",
+        "ja": "堅牢な Ninjatrader Bot 2026、すべての機能があらかじめ有効化され、すぐに実行できる完全なスタンドアロンセットアップ。",
+        "ko": "견고한 Ninjatrader Bot 2026, 모든 기능이 사전 활성화되어 즉시 실행 가능한 완전한 독립형 설정.",
+        "hook": {
+          "en": "Ninjatrader Bot 2026, listed as pre-activated",
+          "ja": "有効化表記の Ninjatrader Bot 2026",
+          "ko": "Ninjatrader Bot 2026 사전활성화 표기"
         }
       }
     },
@@ -2342,6 +2603,21 @@
           "zh-Hant": "缺像素特效？244段簡短程式碼直接套用",
           "ja": "ドット絵演出に悩んだら244本の短いコードを貼るだけ",
           "ko": "도트 효과가 고민일 때 244개 짧은 코드로 바로 해결"
+        }
+      }
+    },
+    "purehazecottage/metatrader-5-bot": {
+      "f96c4b5cc2d5": {
+        "src": "Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop.",
+        "zh-Hans": "Metatrader 5 Bot 用于专业交易自动化的完整可用安装程序，可随时在您的桌面运行。",
+        "seen": "2026-11-05",
+        "zh-Hant": "Metatrader 5 Bot 用於專業交易自動化的完整可用安裝程式，可隨時在您的桌面運行。",
+        "ja": "Metatrader 5 Bot プロフェッショナルな取引自動化のための完全な実動インストーラーで、デスクトップですぐに実行できます。",
+        "ko": "Metatrader 5 Bot 전문 트레이딩 자동화를 위한 완전한 작동 설치 프로그램으로, 데스크톱에서 바로 실행할 수 있습니다.",
+        "hook": {
+          "en": "Metatrader 5 Bot desktop installer for trading automation",
+          "ja": "Metatrader 5 Bot デスクトップ自動取引版",
+          "ko": "Metatrader 5 Bot 데스크톱 자동 거래 설치본"
         }
       }
     },

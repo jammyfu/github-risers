@@ -117,55 +117,55 @@
 
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
-| [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) |  | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 見守りは不要、エージェントが迷った時だけ確認 | コマンドラインエージェントがバックグラウンドで自律的にタスクを引き受け、最後まで完遂。普段は邪魔をせず、判断に迷う時だけカードを送信して決定を仰ぎます。 |
 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | スマホ操作が面倒なら、エージェントにお任せ | アプリやウェブを操作して作業をこなしてくれる、Android向けのオンデバイスAIエージェント。 |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 構成図を描くのが面倒？一文で公式ロゴ付き図が完成 | エージェントスキル：スタックを一文で説明し、公式ロゴ付きのアーキテクチャ図を取得 |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | 勝手なコード切断を防ぎ、無損失でエージェントを動かす | ロスレスでヘッドレスなコーディングエージェントハーネス。1つの 7 MB 静的バイナリ、4つのツール、プレーンな stdin/stdout、サイレントカットなし。 |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | アニメ再現が難しい？1コマずつ解析して一致を証明 | あらゆるアニメーションをフレーム単位でリバースエンジニアリングし、複製が全く同じように動くことを証明するClaude Codeスキル。 |
 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | ウェブサイトがベトナム法を満たすか検査 | Claude Code、Cursor、Copilot、Windsurf、Cline向けの、ベトナム法（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）に基づくウェブサイト法務監査 |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | セキュリティ診断の手間を、AI自律テストで解消 | 自律型ペンテスト軍団 — AI司令官 + ワーカー群 + 階層型事実-意図グラフ。第3回Tencent Intelligent Attack-Defenseオンラインチャンピオン（634チーム · 8h una… |
-| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) |  | 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot. |
+| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | 作り方が分からない動画を、コマごとに分解して再現 | あらゆる動画をリバースエンジニアリング：実写トーク、デスク撮影、AI 動画、3D、コードアニメーション、マッシュアップ。画面、テロップ、編集、音声の制作手法をカットごとに分解し、再現手順を提示します。Reverse-engineer any video, shot by shot. |
 | [Balanov/skein](https://github.com/Balanov/skein) | 期限切れタスクを遮断し群制御の乱れを防ぐ | エポックフェンスされた作業と遅延完了の拒絶を備えた、フェイルクローズ型のスウォームオーケストレーション。 |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | アイデア一つから AI 漫画動画の全工程を作成 | 21の題材に対応した AI 漫劇全工程 Skill：ワンアイデアから企画書、アセット画像プロンプト、各話脚本、絵コンテと動画プロンプトを生成。Claude Code、WorkBuddy、DeepSeek で利用可能 |
 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | AI作画の参考が欲しい？顔・ポーズ・服装の素材集 | AI 作図素材ライブラリ · 中国語版（顔 / ポーズ / 服装） |
 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | 鳥の素材が見つからない？11,064種の鳥を網羅 | 花叔（Huashu）がオープンソース化した世界の鳥類ステッカーライブラリ · 現生する全11,064種の鳥類ステッカー、43言語の名前と構造化データを収録 |
 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | 静止画面の無駄を防ぎ、AIにリアルタイムで画面を見せる | AI がリアルタイムで画面を見られるようにする：変化量でフレームをフィルタリングし、複数フレームを1枚の画像に結合、静止画面はトークンをほぼ消費しない |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 動画素材がない時に、Claude Codeスキルでアニメ制作 | 素材不要で reels 向けアニメーションを作成できる 6 つの Claude Code スキル：3D カートゥーン解説、棒人間、ミニマルラインアート、3D マップルート、分解図、li… |
-| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) |  | 341 种代码动画风格提示词、196 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。 |
+| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | コードアニメに悩んだら、スタイルを選んで一括導入 | 341 種類のコードアニメーションスタイルプロンプト、196 枚のリファレンス静止画とオフラインセレクター。Claude Code / Codex スキルとしてカプセル化され、ワンクリックインポートと HTML 動画レンダリングに対応。 |
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 抖音の返信が取得できない？階層コメントを丸ごと抽出 | 抖音（Douyin）単一動画の完全なコメント欄（1次コメント + 返信スレッド）を取得するエージェントスキル：ログイン済みのChromeで実際のページリクエストを複製し、署名はページSDKに委託 |
 | [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | AIがパソコンを安全に遠隔操作できるようにする | ChatGPT、Claude、および互換性のある MCP クライアント向けの、安全な AI 搭載リモートコンピューターアクセス。 |
 | [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | 初心者でも自分のAIエージェントを動かして学べる | 初心者向け AI エージェント入門の基礎チュートリアル。チュートリアルにとどまらず、ローカルで動くエージェントでもあります：ファイルの読み書き、コマンド実行、MCP、長期記憶、各ステップを確認できるウェブ画面付き。100 行の最小ループから始め、1 レッスンごとに 1 つの機能を追加し、最後は Claude Code、Codex などの主流エージェントを解剖 |
 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | 計算量の不揃いを防ぎ、オープンソースで新モデルを測定 | :sunrise: 次世代 Transformer のための包括的で最先端のオープンソースフレームワーク。計算量に合わせたベンチマークと自律的な… |
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | 3Dサイトが作れない？エージェント用アニメスキル | 3D およびアニメーション Web サイト向けの 8 つのエージェントスキル：コードからの three.js シーン、スクロールフィルム、透過動画、カーソルリグ、分解図、AI モーションアセット、bro… |
-| [govijr/terminal-mac](https://github.com/govijr/terminal-mac) |  | Entire MacOS running in your terminal. |
+| [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ターミナルから出ずに、完全な macOS を動かす | ターミナル上で動作する完全な MacOS。 |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Android アプリの情報漏えいをスキャンして安全に対処 | スマホのプライバシー監査：adb で Android アプリの権限、送信先エンドポイント、データフローを検出し、ロールバック可能な対応を提示。デスクトップ Android リーク監査：権限、エンドポイント、データフロー、可逆的な修正。 |
 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | 在庫価値が不明なら、ターミナルでSteamを査定 | ターミナルで Steam インベントリの価値を評価し、シェアカードとして出力：ゲーム別、市場別、売れたものと売れ残っているもの。1つの Windows ポータブルビルド、アカウント不要。 |
 | [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) | ブラウザでAIと会話、APIでも呼び出せる | 無修正 AI API とブラウザチャット：DeepSeek および GLM モデル、ストリーミング、Python および TypeScript の例、価格設定とセットアップガイド。 |
-| [ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper) |  | Lightweight desktop tool for Visual Studio Code users. Smart extension management, performance optimization, recommendation system and productivity helpers. Cl… |
+| [ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper) | 拡張機能の管理や動作の重さに悩んだら、これで最適化 | Visual Studio Code ユーザー向けの軽量デスクトップツール。スマートな拡張機能管理、パフォーマンスの最適化、レコメンドシステム、生産性向上ツール。Cl… |
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | ターミナルで説明してMinecraftに建築を一括配置 | Minecraft でバイブビルド。ターミナルで建築内容を説明し、ワールド内で設計図として確認し、ワンステップで配置してワンステップで元に戻します。datapacks も作成します。… |
 | [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 制限を気にせず安価なモデルでコードを書く | cheap-ag で使用量を 50 倍に。Opus/Astra プラン、格安モデルが全コードを記述し、テストが出荷内容を決定。20 ドルのプランが制限に達しなくなります。1つの MCP… |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 確かな根拠でコード検証を助けるレビュー用スキル | Claude Code および Codex 向けの監査可能なコードレビューのスキル：4つの独立したプローブ、証拠に基づく指摘事項、JSON 由来のマージゲート。 |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | エージェントの変更を確認してから適用 | この Roblox Studio エージェントによるすべての変更は、最初にあなたが承認する place diff です。Ctrl+Z 1回で任意のターンを巻き戻し、プレイテストはコピー上で実行されるため、本番データが移動することはありません… |
 | [4yk5/Ghostman](https://github.com/4yk5/Ghostman) | キーボードでAPIを素早く検査、完全ローカル | 高速でキーボード操作に対応した TUI API クライアント &amp; webhook インスペクター。クラウドなし、Electron なし、100% ローカルファースト。 |
-| [DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker) |  | Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated. |
-| [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) |  | Microsoft Office 2026 complete standalone installation setup. Pre-activated desktop edition ready to run. |
-| [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) |  | Fl Studio 2026: Full working installer with all essential plugins and features, ready to run on your desktop. |
-| [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) |  | Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop. |
-| [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) |  | Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop. |
-| [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) |  | Complete standalone setup for Foneazy Mobile 2023. Fully functional desktop installation ready to run. |
-| [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) |  | Microstation 2026: Full working installer with all features pre-activated, ready for immediate desktop use. |
-| [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) |  | Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop. |
-| [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) |  | Genesis Miner 2026: Full working installer with optimized mining algorithms for enhanced performance. |
-| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) |  | Robust Ninjatrader Bot 2026, a complete standalone setup ready to run with all features pre-activated. |
+| [DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker) | iOS Unlocker 2026（全機能有効） | すべての機能がアクティベートされ、すぐに実行できる完全なスタンドアロン iOS Unlocker 2026 セットアップ。 |
+| [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) | Microsoft Office 2026（事前有効化済み） | Microsoft Office 2026 完全スタンドアロンインストールセットアップ。事前アクティベート済みのすぐに実行可能なデスクトップ版。 |
+| [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) | Fl Studio 2026 デスクトップ版（プラグイン同梱） | Fl Studio 2026: すべての必須プラグインと機能を備えた完全に動作するインストーラー。デスクトップですぐに実行可能です。 |
+| [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) | Instagram Liker Bot 2023 自動化ツール | Instagram Liker Bot 2023: 自動いいねおよびフォロー機能を備えた完全なスタンドアロンセットアップで、デスクトップですぐに実行できます。 |
+| [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) | Metatrader 5 Bot デスクトップ自動取引版 | Metatrader 5 Bot プロフェッショナルな取引自動化のための完全な実動インストーラーで、デスクトップですぐに実行できます。 |
+| [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) | Foneazy Mobile 2023 デスクトップ版 | Foneazy Mobile 2023 の完全なスタンドアロンセットアップ。すぐに実行できる完全機能のデスクトップインストール。 |
+| [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) | Microstation 2026（事前有効化済み） | Microstation 2026: すべての機能があらかじめ有効化された完全な実動インストーラーで、デスクトップですぐに使用できます。 |
+| [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) | Landr Plugin Bundle 2026（プラグイン同梱） | Landr Plugin Bundle 2026: すべての必須プラグインがあらかじめインストールされ、デスクトップですぐに実行できる完全な実動インストーラー。 |
+| [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) | 稼働表記の Genesis Miner 2026 | Genesis Miner 2026: パフォーマンス向上のための最適化されたマイニングアルゴリズムを備えた完全な実動インストーラー。 |
+| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | 有効化表記の Ninjatrader Bot 2026 | 堅牢な Ninjatrader Bot 2026、すべての機能があらかじめ有効化され、すぐに実行できる完全なスタンドアロンセットアップ。 |
 | [mofan6/Moect](https://github.com/mofan6/Moect) | WeChatの会話を残したい時に、オフラインで書き出し保存 | Windows WeChat 4.x チャット履歴のエクスポート、バックアップおよびオフラインアーカイブツール · WeChat chat history exporter &amp; backup. フレンド/グループチャット、アバター、画像、GIFスタンプ、音声/動画、ファイル、リンク、ミニプログラム、引用返信、一括転送に対応；HTML、JSON、JSONL、TXT、CSV、Markdown エクスポート… |
 | [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) | CS2の取引利益が曖昧？手数料込みの純利益を確認 | Aegis SpreadWatch: CS2 の売買機会をわかりやすく表示 — プラットフォームごとの純利益、ROI、手数料の前提条件をデバイス上で計算。 |
 | [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) | CS2の注文手数料が不安？アカウント不要で計画 | Aegis VaultGrid: CS2 インベントリ保管庫と手数料を考慮した注文プランナーを連携。ローカル JSON 状態、閲覧にアカウントは不要。 |
 | [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) | CS2の価格差が見えない？手数料込みでローカル確認 | Aegis Skin Terminal: 手数料を考慮したスプレッドスキャナー、保管庫ワークスペース、オフライン Steam Guard コードを備えたローカルファーストの CS2 取引ワークスペース。 |
 | [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | アカウントや費用なしで Azure DevOps を学ぶ | アカウントもコストもなしで DevOps を学ぶための Azure シミュレーター: ポータル、Cloud Shell、Azure DevOps、そして検証可能な 47 のラボを備えた 13 レベルのアカデミー… |
-| [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology) |  | Declarative dragging for SVG on the web |
+| [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology) | WebのSVGが動かしにくい時に、宣言だけでドラッグ | Web 上の SVG 向け宣言型ドラッグ |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | ドット絵演出に悩んだら244本の短いコードを貼るだけ | 244種類のピクセルアートエフェクト、すべてが小さなコード片。さらに独自の作品を作成するための Claude Code スキルも付属。 |
 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 余白が味気ない？デルフトブルーの花柄を自動で描く | Lua で描画された、LuaLaTeX 向けのプロシージャル生成デルフトブルー花柄ページ余白 |
-| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) |  | A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG. |
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | アイコンが不揃いなら、Claude スキルで統一描画 | ホバーモーションまたは静的 SVG として、統一されたスタイルで動的アイコンを描画する Claude スキル。 |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | AI臭さが抜けない？4つのスキルでデザインを整える | 歸藏设计 · DeepSeek Harness プラグイン：Web PPT、画像・テキストカード、Web組版、AI感を消す4つのスキル、1つのデザインシステム；作品ライブラリ、コンテンツ制作ワークフロー、トーンプロファイル |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 対話型エージェントのアバターを簡単描画 | インタラクティブなエージェントアバター用の JSON 仕様とレンダラー |
 | [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 看護研究が進まない時に、AIスキルで設計から執筆まで支援 | 看護研究パートナー｜検索、設計、データ、統計、執筆、グラフを網羅する18のオープンソース看護研究AIスキル；コホート研究とRCTのプロセス、テンプレート、合成例を新たに追加。 |

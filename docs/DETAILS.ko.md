@@ -117,55 +117,55 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
-| [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) |  | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 계속 지켜볼 필요 없이, 에이전트가 막힐 때만 확인 | 커맨드라인 에이전트가 백그라운드에서 직접 작업을 맡아 끝까지 완수합니다. 평소에는 방해하지 않고, 확실하지 않은 일에 부딪힐 때만 카드를 보내 결정을 요청합니다. |
 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 귀찮은 앱 작업, 에이전트가 대신 실행해 줘요 | 앱과 웹을 조작하여 사용자를 대신해 작업을 처리해 주는 Android용 온디바이스 AI 에이전트. |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 구조도 그리기 귀찮을 때, 한 문장으로 공식 다이어그램 완성 | 에이전트 스킬: 스택을 한 문장으로 설명하고 공식 로고가 포함된 아키텍처 다이어그램 받기 |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | 코드의 무단 절단을 막고 코딩 에이전트를 온전하게 실행 | 무손실, 헤드리스 코딩 에이전트 하네스. 하나의 7 MB 정적 바이너리, 4개의 도구, 일반 stdin/stdout, 소리 없는 잘림 없음. |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 어려운 애니메이션 복제, 프레임 단위로 똑같이 재현 | 모든 애니메이션을 프레임 단위로 역공학 분석한 뒤 복제본이 동일하게 움직이는지 증명하는 Claude Code 스킬. |
 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 웹사이트가 베트남 법률을 준수하는지 점검 | Claude Code, Cursor, Copilot, Windsurf, Cline을 위한 베트남 법률(BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) 기준 웹사이트 법률 감사 |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 보안 점검이 힘들 때, AI 군단이 알아서 모의해킹 | 자율 침투 테스트 군단 — AI 지휘관 + 워커 스웜 + 계층형 팩트-인텐트 그래프. 제3회 Tencent Intelligent Attack-Defense 온라인 챔피언 (634개 팀 · 8h una… |
-| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) |  | 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot. |
+| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | 영상 제작법이 궁금할 때, 장면별로 분해해 복제 | 모든 영상 리버스 엔지니어링: 실사 토크, 데스크 촬영, AI 영상, 3D, 코드 모션 그래픽, 교차 편집 등 장면별로 화면, 자막 효과, 편집, 사운드가 어떻게 제작되었는지 분석하고 재현 방안을 제시합니다. Reverse-engineer any video, shot by shot. |
 | [Balanov/skein](https://github.com/Balanov/skein) | 만료된 작업을 차단해 군집 작업의 혼선을 방지 | 에포크 펜스된 작업과 지연 완료 거부를 갖춘 장애 시 폐쇄(fail-closed) 스웜 오케스트레이션. |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 아이디어 하나로 AI 만화 영상의 전 과정을 제작 | 21개 소재의 AI 만화 드라마 전체 프로세스 Skill: 한 줄 아이디어로 기획서, 에셋 이미지 프롬프트, 회차별 대본, 스토리보드 및 비디오 프롬프트 생성. Claude Code, WorkBuddy, DeepSeek에 사용 가능 |
 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | AI 그림 소재가 부족할 때, 얼굴·포즈·의상 레퍼런스 | AI 작화 소재 라이브러리 · 중국어판 (얼굴 / 포즈 / 의상) |
 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | 새 스티커가 필요할 때, 11,064종의 조류 모음 | 화슈(Huashu)가 오픈소스로 공개한 전 세계 조류 스티커 라이브러리 · 43개 언어로 된 이름과 구조화된 데이터를 갖춘 현존하는 11,064종의 조류 스티커 |
 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | 정지 화면의 낭비 없이 AI가 실시간으로 화면을 확인 | AI가 실시간으로 화면을 볼 수 있도록 지원: 변화량에 따라 프레임을 필터링하고 여러 프레임을 한 장의 이미지로 결합하여 정지 화면에서는 토큰을 거의 쓰지 않음 |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 영상 소재가 없을 때, Claude Code 스킬로 애니메이션 제작 | 영상 소스 없이 reels용 애니메이션을 제작할 수 있는 6개의 Claude Code 스킬: 3D 카툰 설명, 스틱맨, 미니멀 라인 아트, 3D 지도 경로, 분해도, li… |
-| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) |  | 341 种代码动画风格提示词、196 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。 |
+| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | 코드 애니메이션이 막힐 때, 스타일 골라 바로 적용 | 341가지 코드 애니메이션 스타일 프롬프트, 196장의 참조 정지 프레임 및 오프라인 선택기. Claude Code / Codex 스킬로 패키징되어 원클릭 가져오기 및 HTML 비디오 렌더링을 지원합니다. |
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 더우인 댓글이 안 긁힐 때, 대댓글까지 모든 댓글 수집 | 도우인(Douyin) 단일 영상의 전체 댓글 영역(1차 댓글 + 대댓글)을 수집하는 에이전트 스킬: 로그인된 Chrome에서 실제 페이지 요청을 그대로 복사하고, 서명은 페이지 SDK에 위임 |
 | [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | AI가 내 컴퓨터에 안전하게 원격 접속하도록 지원 | ChatGPT, Claude 및 호환되는 MCP 클라이언트를 위한 안전한 AI 기반 원격 컴퓨터 액세스. |
 | [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | 기초부터 직접 로컬에서 실행해보는 AI 에이전트 | 초보자를 위한 AI 에이전트 입문 기초 튜토리얼. 단순한 튜토리얼이 아니라 로컬에서 실행 가능한 에이전트이기도 합니다: 파일 읽기/쓰기, 명령 실행, MCP, 장기 기억, 모든 단계를 볼 수 있는 자체 웹 인터페이스. 100줄의 최소 루프에서 시작하여 한 강의마다 하나의 능력을 추가하고, 마지막에는 Claude Code, Codex 등 주요 에이전트를 분석 |
 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | 연산량 불일치를 막고 오픈 소스로 차세대 모델 측정 | :sunrise: 차세대 Transformer를 위한 포괄적이고 최첨단 오픈 소스 프레임워크로, 연산량 맞춤형 벤치마킹 및 자율… |
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | 3D 사이트 구현이 막힐 때, 에이전트에 3D 스킬 추가 | 3D 및 애니메이션 웹사이트를 위한 8가지 에이전트 스킬: 코드로 생성한 three.js 장면, 스크롤 필름, 투명 비디오, 커서 리깅, 분해도, AI 모션 에셋, bro… |
-| [govijr/terminal-mac](https://github.com/govijr/terminal-mac) |  | Entire MacOS running in your terminal. |
+| [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 터미널을 나가지 않고, 안에서 전체 macOS 실행 | 터미널에서 실행되는 전체 MacOS. |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 안드로이드 앱의 정보 유출을 점검하고 되돌릴 수 있게 조치 | 스마트폰 개인정보 감사: adb로 Android 앱의 권한, 전송 엔드포인트 및 데이터 흐름을 스캔하고 롤백 가능한 조치를 제공. 데스크톱 Android 유출 감사: 권한, 엔드포인트, 데이터 흐름, 되돌릴 수 있는 수정. |
 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | 아이템 가치를 모를 때 터미널에서 Steam 정산 | 터미널에서 Steam 보관함 가치를 평가하고 공유 카드로 출력: 게임별, 마켓별, 판매된 것과 남아있는 것. 단일 Windows 포터블 빌드, 계정 불필요. |
 | [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) | 브라우저에서 AI와 대화하고 API로 모델 호출 | 검열되지 않은 AI API 및 브라우저 채팅: DeepSeek 및 GLM 모델, 스트리밍, Python 및 TypeScript 예제, 가격 책정 및 설정 가이드. |
-| [ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper) |  | Lightweight desktop tool for Visual Studio Code users. Smart extension management, performance optimization, recommendation system and productivity helpers. Cl… |
+| [ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper) | 확장 프로그램이 꼬일 때, 스마트하게 관리하고 최적화 | Visual Studio Code 사용자를 위한 경량 데스크톱 도구. 스마트 확장 프로그램 관리, 성능 최적화, 추천 시스템 및 생산성 도우미. Cl… |
 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 터미널로 묘사하고 Minecraft에 건축물을 바로 배치 | Minecraft에서 느낌대로 건축하기(Vibe-build). 터미널에서 건축물을 설명하고, 월드에서 청사진으로 확인하며, 한 번에 배치하고 한 번에 실행 취소합니다. datapacks도 작성합니다.… |
 | [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 저렴한 모델로 사용량 제한 없이 코드 작성하기 | cheap-ag로 사용량을 50배 늘리세요. Opus/Astra 플랜, 초저가 모델이 모든 줄을 작성하고 테스트가 배포 항목을 결정합니다. $20 플랜의 한도 도달이 중단됩니다. 하나의 MCP… |
 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 명확한 근거로 코드 검증을 돕는 리뷰 스킬 | Claude Code 및 Codex를 위한 감사 가능한 코드 검토 스킬: 4개의 독립 프로브, 증거 기반 결과, JSON 파생 병합 게이트. |
 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 에이전트의 변경 사항을 미리 확인하고 적용 | 이 Roblox Studio 에이전트가 수행하는 모든 변경 사항은 먼저 승인하는 place diff입니다. Ctrl+Z 한 번으로 모든 턴을 되돌릴 수 있으며, 플레이 테스트는 사본에서 실행되므로 라이브 데이터가 절대 이동하지 않습니다… |
 | [4yk5/Ghostman](https://github.com/4yk5/Ghostman) | 키보드로 API와 webhook 검사, 완전 로컬 | 빠르고 키보드 중심의 TUI API 클라이언트 &amp; webhook 검사기. 클라우드 없음, Electron 없음, 100% 로컬 우선. |
-| [DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker) |  | Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated. |
-| [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) |  | Microsoft Office 2026 complete standalone installation setup. Pre-activated desktop edition ready to run. |
-| [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) |  | Fl Studio 2026: Full working installer with all essential plugins and features, ready to run on your desktop. |
-| [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) |  | Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop. |
-| [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) |  | Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop. |
-| [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) |  | Complete standalone setup for Foneazy Mobile 2023. Fully functional desktop installation ready to run. |
-| [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) |  | Microstation 2026: Full working installer with all features pre-activated, ready for immediate desktop use. |
-| [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) |  | Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop. |
-| [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) |  | Genesis Miner 2026: Full working installer with optimized mining algorithms for enhanced performance. |
-| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) |  | Robust Ninjatrader Bot 2026, a complete standalone setup ready to run with all features pre-activated. |
+| [DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker) | iOS Unlocker 2026 전체 기능 활성화 설치본 | 모든 기능이 활성화되어 바로 실행할 수 있는 완전한 독립형 iOS Unlocker 2026 설치 프로그램. |
+| [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) | Microsoft Office 2026 사전 활성화 데스크톱 설치본 | Microsoft Office 2026 완전 독립형 설치 셋업. 바로 실행 가능한 사전 정품 인증 데스크톱 에디션. |
+| [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) | Fl Studio 2026 주요 플러그인 포함 데스크톱 설치본 | Fl Studio 2026: 모든 필수 플러그인과 기능을 포함하여 데스크톱에서 바로 실행 가능한 완전한 작동 설치 프로그램. |
+| [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) | Instagram Liker Bot 2023 데스크톱 자동화 프로그램 | Instagram Liker Bot 2023: 자동 좋아요 및 팔로우 기능을 갖춘 완전한 독립형 설정으로, 데스크톱에서 바로 실행할 수 있습니다. |
+| [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) | Metatrader 5 Bot 데스크톱 자동 거래 설치본 | Metatrader 5 Bot 전문 트레이딩 자동화를 위한 완전한 작동 설치 프로그램으로, 데스크톱에서 바로 실행할 수 있습니다. |
+| [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) | Foneazy Mobile 2023 데스크톱 설치 프로그램 | Foneazy Mobile 2023을 위한 완전한 독립형 설정. 즉시 실행 가능한 완전한 기능의 데스크톱 설치. |
+| [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) | Microstation 2026 사전 활성화 데스크톱 설치본 | Microstation 2026: 모든 기능이 사전 활성화된 완전한 작동 설치 프로그램으로, 데스크톱에서 즉시 사용할 수 있습니다. |
+| [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) | Landr Plugin Bundle 2026 플러그인 포함 설치본 | Landr Plugin Bundle 2026: 모든 필수 플러그인이 사전 설치되어 데스크톱에서 바로 실행할 수 있는 완전한 작동 설치 프로그램. |
+| [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) | 작동 표기된 Genesis Miner 2026 설치본 | Genesis Miner 2026: 향상된 성능을 위해 최적화된 채굴 알고리즘이 적용된 완전한 작동 설치 프로그램. |
+| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | Ninjatrader Bot 2026 사전활성화 표기 | 견고한 Ninjatrader Bot 2026, 모든 기능이 사전 활성화되어 즉시 실행 가능한 완전한 독립형 설정. |
 | [mofan6/Moect](https://github.com/mofan6/Moect) | WeChat 대화 내용을 잃지 않게 오프라인으로 백업 | Windows WeChat 4.x 대화 기록 내보내기, 백업 및 오프라인 아카이브 도구 · WeChat chat history exporter &amp; backup. 친구/그룹 채팅, 프로필 사진, 이미지, GIF 이모티콘, 음성/영상, 파일, 링크, 미니프로그램, 인용 답장 및 묶어 전달 지원; HTML, JSON, JSONL, TXT, CSV, Markdown 내보내기… |
 | [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) | CS2 거래 이익이 헷갈릴 때, 수수료 뺀 순이익 확인 | Aegis SpreadWatch: CS2 매수 및 매도 기회를 명확하게 파악 — 플랫폼별 순이익, ROI 및 수수료 가정을 기기에서 계산. |
 | [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) | CS2 주문 수수료가 고민될 때, 계정 없이 바로 계획 | Aegis VaultGrid: CS2 인벤토리 보관함과 수수료를 고려한 주문 플래너를 결합. 로컬 JSON 상태, 둘러보는 데 계정 불필요. |
 | [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) | CS2 가격차가 고민될 때, 수수료 따져 로컬 확인 | Aegis Skin Terminal: 수수료를 고려한 스프레드 스캐너, 보관함 작업 공간, 오프라인 Steam Guard 코드를 갖춘 로컬 우선 CS2 거래 워크스페이스. |
 | [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | 계정이나 비용 없이 Azure DevOps 연습하기 | 계정이나 비용 없이 DevOps를 배우기 위한 Azure 시뮬레이터: 포털, Cloud Shell, Azure DevOps 및 검증 가능한 47개의 실습이 포함된 13개 레벨의 아카데미… |
-| [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology) |  | Declarative dragging for SVG on the web |
+| [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology) | 웹 SVG를 움직이기 어려울 때, 선언만으로 드래그 | 웹 상의 SVG를 위한 선언적 드래그 |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 도트 효과가 고민일 때 244개 짧은 코드로 바로 해결 | 244개의 픽셀 아트 효과, 각각은 작은 코드 조각. 자신만의 효과를 만들 수 있는 Claude Code 스킬도 포함. |
 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 여백이 심심할 때 델프트 블루 꽃무늬를 자동으로 그리기 | Lua로 그린 LuaLaTeX용 절차적 생성 델프트 블루 꽃무늬 페이지 여백 |
-| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) |  | A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG. |
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 제각각인 아이콘, Claude 스킬로 맞춰 그리기 | 호버 모션 또는 정적 SVG로 일관된 스타일의 동적 아이콘을 그리는 Claude 스킬. |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | AI 티가 너무 날 때 4개 스킬로 디자인을 깔끔하게 정리 | 歸藏设计 · DeepSeek Harness 플러그인: 웹 PPT, 이미지·텍스트 카드, 웹 조판, AI 느낌 없애기 4개 스킬, 하나의 디자인 시스템; 작품 라이브러리, 콘텐츠 제작 워크플로, 톤 프로필 |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 인터랙티브 에이전트의 아바타를 간편하게 렌더링 | 대화형 에이전트 아바타를 위한 JSON 사양 및 렌더러 |
 | [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 간호 연구가 막힐 때, AI 스킬로 설계부터 작성까지 해결 | 간호 연구 메이트｜검색, 설계, 데이터, 통계, 논문 작성 및 도표를 아우르는 18개의 오픈 소스 간호 연구 AI 스킬; 코호트 연구 및 RCT 프로세스, 템플릿, 합성 예시 신규 추가. |
