@@ -148,10 +148,19 @@ class HeadlineTests(unittest.TestCase):
         for code, (fname, _l) in LANGS.items():
             s = render_readme.S[code]
             text = (ROOT / fname).read_text("utf-8")
-            self.assertIn("UTC+8", s["schedule"])  # the full schedule lives on the how-it-works page
-            self.assertIn("America/Los_Angeles", s["schedule"])
+            # Public copy only says it updates daily; clocks live in operator docs, not README / HOW_IT_WORKS.
+            self.assertRegex(s["stamp"], r"daily|每天更新|毎日更新|매일 갱신")
+            self.assertRegex(s["a3"], r"daily|每天更新|毎日更新|매일 갱신")
+            self.assertRegex(s["schedule"], r"daily|每天更新|毎日更新|매일 갱신")
+            for gone in ("UTC+8", "00:00", "Beijing", "Los Angeles", "twice", "两次", "兩次",
+                         "1 日 2 回", "하루 두 번", "America/Los_Angeles"):
+                self.assertNotIn(gone, s["stamp"], code)
+                self.assertNotIn(gone, s["a3"], code)
+                self.assertNotIn(gone, s["schedule"], code)
             how = (ROOT / "docs" / render_readme.how_name(code)).read_text("utf-8")
             self.assertIn(s["schedule"], how, code)
+            self.assertNotIn("UTC+8", text, fname)
+            self.assertNotIn("UTC+8", how, code)
             self.assertIn(f"docs/{render_readme.how_name(code)}", text, fname)  # README links to it
             sec = text.split(f"## {s['tops_title']}\n", 1)[1].split("\n## ", 1)[0]
             rows = [l for l in sec.splitlines() if l.startswith("| **")]

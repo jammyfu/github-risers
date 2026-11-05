@@ -8,7 +8,7 @@
 
 Trending GitHub repos ranked by star growth (stars gained per day), not total stars: AI first, then developer tools, security, web, infrastructure, design and data.
 
-Data from 2026-11-04 21:42 UTC. Twice a day: 00:00 Beijing (UTC+8) and 00:00 Los Angeles (America/Los_Angeles).
+Data from 2026-11-04 21:42 UTC. Updated daily.
 
 [Website](https://jammyfu.github.io/github-risers/) · [How it works](docs/HOW_IT_WORKS.md) · [Facts](docs/FACTS.md) · [History](rankings/README.md) · [Latest](latest/rankings.md)
 
@@ -40,7 +40,7 @@ GitHub Trending is GitHub's own page. GitHub Risers is an independent open-sourc
 
 ### How often is it updated?
 
-Twice a day, at 00:00 Beijing time and 00:00 Los Angeles time. Every run is archived. [Read more](docs/FAQ.md#how-often-is-it-updated)
+Updated daily. Every run is archived. [Read more](docs/FAQ.md#how-often-is-it-updated)
 
 ### How is the data computed?
 

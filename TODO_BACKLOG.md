@@ -2,8 +2,7 @@
 
 ## Now
 
-- [ ] After the daily-update reliability PR (PLAN-004) is merged, confirm the next scheduled `daily-update` run commits data (Verify must only fail on real data errors)
-- [ ] Confirm the first unattended cron runs after the merge: `cn-0000` (Beijing) and `pt-0000` (Los Angeles) folders appear under `rankings/<date>/` (`gh run list --workflow daily-update.yml`)
+- [ ] After the once-daily US schedule PR (PLAN-005) is merged, confirm the next scheduled `daily-update` run writes `rankings/<date>/pt-0000/` (`gh run list --workflow daily-update.yml`)
 - [ ] Developer Tools new-repo board: 15 of 20 entries were flagged ⚠ in the last run because star-farmed repos use `cli` / `developer-tools`; decide whether to add a quality signal (owner call)
 - [ ] Design and Data new-repo boards are thin (0-2 entries): widen with specific topics only (no generic ones; `tests/test_spam.py` guards that)
 

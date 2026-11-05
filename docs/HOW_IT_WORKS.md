@@ -6,7 +6,7 @@
 
 Total-star lists keep the old giants on top and bury what is taking off right now. GitHub Risers ranks repos by stars gained per day (last 7, 30 and 365 days) and groups them into categories, with AI as the main board. Every category has a hottest-new-repos board for repos created in the last 7 days, then week, month and year star-growth rankings, and total stars last. All numbers come straight from the GitHub API. Classification rules: [docs/CATEGORIES.md](CATEGORIES.md).
 
-Updated twice a day: 00:00 Beijing time (UTC+8) and 00:00 Los Angeles time (America/Los_Angeles, follows daylight saving). Each update is archived under its own time slot.
+Updated daily. Each update is archived.
 
 Each board in the README shows the top 10. The full top 20 of each board (from 70 tracked projects) is in the latest/ files.
 

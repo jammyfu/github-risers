@@ -16,7 +16,7 @@ A one-page, quotable summary. Details live in [CATEGORIES.md](CATEGORIES.md), [N
 | New-repo hotness | `stars / max(age in days, 1)`, repos created in the last 7 days, at least 100 stars, not a fork, not archived |
 | Star data source | GitHub REST API only: `GET /repos/{owner}/{repo}` for the total and `GET /repos/{owner}/{repo}/stargazers/history` for daily gains. Missing data is shown as missing, never filled in |
 | New-repo discovery | GitHub search API, one `topic:<t>` query per category topic; the repo must carry a category topic itself |
-| Update schedule | Twice a day: 00:00 Beijing time (UTC+8) and 00:00 Los Angeles time (follows daylight saving). Runs by GitHub Actions cron, so a run can start a few minutes late |
+| Update schedule | Daily. Runs by GitHub Actions, so a run can start a few minutes late |
 | History | Every run is kept under `rankings/<date>/<slot>/`; the newest copy is in `latest/` |
 | Languages | English, 简体中文, 繁體中文, 日本語, 한국어 |
 | Suspected cracked / pirated repos | Flagged by a published heuristic (`tools/spam.py`) and ranked after all normal repos in the new-repo board; never a category leader; never hidden |

@@ -2,39 +2,38 @@
 
 ## Plan ID
 
-PLAN-004
+PLAN-005
 
 ## Goal
 
-Stop the recurring daily-update failures at the root: the scheduled run must validate the data it generated (hard errors fail, GitHub API timing drift warns) instead of running the unit-test suite against live data, and must survive rate limits and a moving `main`.
+Production ranking updates run once a day at America/Los_Angeles midnight; public README copy only says it updates daily, with no cron clocks or dual Beijing+PT schedule.
 
 ## In Scope
 
-- `tools/data_checks.py`, `tools/verify.py --daily`, `.github/workflows/daily-update.yml`, `tools/local_daily.sh`
-- `tools/update_stars.py` API retry/backoff, `tools/risers_core.py` hard limit for history drift
-- Tests in `tests/test_daily_robustness.py`; docs in `docs/DAILY_UPDATE.md` and governance files
+- `.github/workflows/daily-update.yml`, `tools/schedule_guard.py` wiring, `docs/launchd/`, `tools/local_daily.sh`, `tools/mac_i18n_cron.sh`, `tools/com.jammyfu.risers-i18n.plist`
+- Public copy in `tools/i18n.py` (stamp / a3 / schedule / tagline), `docs/FAQ.md`, `docs/FACTS.md`; operator details in `docs/DAILY_UPDATE.md`
+- Tests in `tests/test_schedule.py`, `tests/test_spam.py`, `tests/test_repo.py`; governance files
 
 ## Out of Scope
 
-- Ranking logic, README copy, cron times, secrets, merging to `main`
+- Ranking logic, star-data fetch, translation pipeline, deleting historical `cn-0000` snapshots, merging to `main`
 
 ## Tasks
 
-- [x] Group the failed runs by cause (41122642510, 41235403615)
-- [x] Add `tools/data_checks.py` with error and warning severities and `verify.py --daily`
-- [x] Wire the workflow and `local_daily.sh` to `--daily`; unit tests stay in `ci.yml`
-- [x] Retry 429 / rate-limited 403 / 5xx / network errors; retry the push after rebasing onto `main`
-- [x] Regression tests for all of the above
-- [ ] Owner reviews the PR; merge only with approval
+- [x] Drop the Beijing cron from `daily-update.yml`; keep the two LA UTC crons with `schedule_guard.py`, slot `pt`
+- [x] Align local fallback (launchd / cron docs / i18n Mac job) to once daily after US midnight
+- [x] Change README / HOW_IT_WORKS strings so readers only see daily update / 每天更新, not clocks
+- [x] Update FAQ, FACTS, operator docs and tests that pinned twice-daily / Beijing 00:00
+- [x] Re-render generated pages; `python3 tools/verify.py` and `python3 tools/next_plan.py --check` pass
+- [x] Open a PR; do not merge
 
 ## Verification
 
 - `python3 tools/verify.py`
-- `python3 tools/verify.py --daily`
 - `python3 tools/next_plan.py --check`
 
 ## Next Candidates
 
-- After merge, confirm the next scheduled `daily-update` run commits data
+- After merge, confirm the next scheduled `daily-update` run writes `rankings/<date>/pt-0000/`
 - Thin Developer Tools / Design / Data new-repo boards: see `TODO_BACKLOG.md`
 - Acceleration column (this week vs the week before)

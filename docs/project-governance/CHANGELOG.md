@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 2026-11-06 (once-daily US schedule)
+
+- The ranking list updates once a day at America/Los_Angeles midnight (`0 7 * * *` / `0 8 * * *` UTC, DST-aware via `tools/schedule_guard.py`). The Beijing 00:00 cron is no longer a production slot.
+- README, FAQ, FACTS and HOW_IT_WORKS only say the list is updated daily. Exact clocks remain in `docs/DAILY_UPDATE.md`.
+
 ## 2026-11-01 (daily-update reliability)
 
 - The daily run no longer runs the unit tests against live data. `python3 tools/verify.py --daily` validates the generated data (`tools/data_checks.py`): real errors fail, GitHub API timing drift only warns. CI still runs every unit test on pull requests.

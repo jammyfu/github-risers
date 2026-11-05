@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Owner's-Mac job: translate the new-repo descriptions (and write their one-line hooks) that the GitHub Actions
 # daily-update could not, because translation needs a signed-in agent CLI and the repo has no CURSOR_API_KEY secret.
-# Runs from launchd ~1h after each Actions slot (Beijing 01:15 and 17:15, see tools/com.jammyfu.risers-i18n.plist).
+# Runs from launchd once a day ~1–2h after the Los Angeles midnight Actions slot
+# (Beijing 17:15; see tools/com.jammyfu.risers-i18n.plist).
 #
 #   tools/mac_i18n_cron.sh            # pull, translate if anything is missing, render, verify, commit, push to main
 #   tools/mac_i18n_cron.sh --no-push  # same, but commit locally only

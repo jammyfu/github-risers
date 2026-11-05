@@ -1,16 +1,14 @@
 name: daily-update
 
 # Each run also stores its result under rankings/<date>/<slot>/ (history) and latest/.
-# Runs at Beijing 00:00 and America/Los_Angeles 00:00 every day.
-#   Beijing (UTC+8, no DST):   16:00 UTC                       -> '0 16 * * *'
-#   Los Angeles midnight:      07:00 UTC in PDT, 08:00 UTC in PST -> '0 7 * * *' and '0 8 * * *'
-# GitHub cron is UTC-only, so the two LA entries both fire and tools/schedule_guard.py lets only the
+# Runs once a day at America/Los_Angeles 00:00 (follows DST).
+#   Los Angeles midnight: 07:00 UTC in PDT, 08:00 UTC in PST -> '0 7 * * *' and '0 8 * * *'
+# GitHub cron is UTC-only, so both entries fire and tools/schedule_guard.py lets only the
 # one that is actually 00:xx in America/Los_Angeles continue; the other one skips.
 # Scheduled workflows run from the default branch only. Runs can start a few minutes late.
 # If Actions is unavailable for the account, use tools/local_daily.sh (see docs/DAILY_UPDATE.md).
 on:
   schedule:
-    - cron: '0 16 * * *'
     - cron: '0 7 * * *'
     - cron: '0 8 * * *'
   workflow_dispatch:
@@ -34,15 +32,10 @@ jobs:
         id: gate
         env:
           EVENT: ${{ github.event_name }}
-          CRON: ${{ github.event.schedule }}
         run: |
-          # Beijing slot and manual runs always proceed. The two LA slots proceed only at LA midnight.
-          # Output "slot" names the history folder: cn -> rankings/<date>/cn-0000, pt -> pt-0000,
-          # auto (manual dispatch) -> cn/pt if the clock happens to be at a slot, else manual-HHMM.
-          if [ "$EVENT" = "schedule" ] && [ "$CRON" = "0 16 * * *" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "slot=cn" >> "$GITHUB_OUTPUT"
-          elif [ "$EVENT" = "schedule" ]; then
+          # Scheduled runs proceed only at Los Angeles midnight (history folder pt-0000).
+          # Manual dispatch always proceeds: auto -> pt if the clock is at LA midnight, else manual-HHMM.
+          if [ "$EVENT" = "schedule" ]; then
             if python3 tools/schedule_guard.py --tz America/Los_Angeles --hour 0; then
               echo "run=true" >> "$GITHUB_OUTPUT"
               echo "slot=pt" >> "$GITHUB_OUTPUT"

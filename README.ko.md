@@ -6,9 +6,9 @@
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjammyfu%2Fgithub-risers%2Fmain%2Fdata%2Fstats.json&query=%24.today_utc&label=updated&color=brightgreen)](latest/rankings.ko.md)
 
-총 스타 수가 아니라 하루에 늘어난 스타 수로 GitHub 저장소를 줄 세웁니다. AI가 맨 앞이고 개발자 도구, 보안, Web / 프론트엔드, 인프라, 디자인 / 크리에이티브, 데이터가 뒤따릅니다. 하루 두 번 갱신합니다.
+총 스타 수가 아니라 하루에 늘어난 스타 수로 GitHub 저장소를 줄 세웁니다. AI가 맨 앞이고 개발자 도구, 보안, Web / 프론트엔드, 인프라, 디자인 / 크리에이티브, 데이터가 뒤따릅니다. 매일 갱신합니다.
 
-데이터 시각 2026-11-04 21:42(UTC). 하루 두 번: 베이징 0시(UTC+8), 로스앤젤레스 0시(America/Los_Angeles).
+데이터 시각 2026-11-04 21:42(UTC). 매일 갱신합니다.
 
 [웹사이트](https://jammyfu.github.io/github-risers/) · [작동 방식](docs/HOW_IT_WORKS.ko.md) · [팩트](docs/FACTS.md) · [지난 랭킹](rankings/README.ko.md) · [최신](latest/rankings.ko.md)
 
@@ -40,7 +40,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 ### 얼마나 자주 갱신하나요?
 
-하루 두 번, 베이징 시간 0시와 로스앤젤레스 시간 0시입니다. 실행할 때마다 보관합니다. [더 보기](docs/FAQ.md#how-often-is-it-updated)
+매일 갱신합니다. 실행할 때마다 보관합니다. [더 보기](docs/FAQ.md#how-often-is-it-updated)
 
 ### 숫자는 어떻게 계산하나요?
 

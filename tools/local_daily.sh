@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Local daily update: fetch real star data, regenerate READMEs, verify, commit and push.
-# Slots (match the Actions schedule): --slot beijing runs only at 00:xx Asia/Shanghai,
-# --slot la runs only at 00:xx America/Los_Angeles (DST-aware), no --slot runs always.
+# Production cadence is once a day at America/Los_Angeles midnight (same as Actions).
+# --slot la runs only at 00:xx America/Los_Angeles (DST-aware); --slot beijing is optional
+# (00:xx Asia/Shanghai, writes cn-0000); no --slot runs always.
 # Each run is also archived under rankings/<date>/<cn-0000|pt-0000|manual-HHMM>/ and copied to latest/.
 # Every run also re-discovers per-category 7-day new-repo rankings via the search API (several minutes).
 # Use this when GitHub Actions cannot run (billing, quota, outage). Reads GITHUB_TOKEN;

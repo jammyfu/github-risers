@@ -15,14 +15,14 @@
 - Categories in `data/categories.json` (ai primary + 6 others), each with newcomers / week / month / year / total, total last
 - New repos are found by topic only and must carry a category topic; no generic topics (`tests/test_spam.py`)
 - Suspected cracked / pirated repos are listed after every normal repo, marked ⚠, and never appear in "Category leaders"
-- Every scheduled entry (both Beijing and Los Angeles crons, `workflow_dispatch`, local launchd) runs `tools/update_stars.py` (`tests/test_spam.py::ScheduledPathTests`)
+- Every scheduled entry (Los Angeles crons, `workflow_dispatch`, local launchd) runs `tools/update_stars.py` (`tests/test_spam.py::ScheduledPathTests`)
 - README is a first screen (top 10 per board); the full top 20 is in `latest/`; GEO files exist and are linked
 
 ## README update date
 
 - The `updated` badge is dynamic (`shields.io` JSON → `data/stats.json` `today_utc`); i18n templates contain no `YYYY-MM-DD`
 - The stamp line is written from `stats.generated_at` on every `python3 tools/render_readme.py` run
-- First screen states what the list is, the Beijing / Los Angeles schedule, how numbers are computed, and how to use or contribute
+- First screen states what the list is, that it updates daily, how numbers are computed, and how to use or contribute
 
 ## Phase 4: harness
 
