@@ -10,7 +10,7 @@ Open-source projects ranked by star growth speed (stars/day), grouped by categor
 
 ## Why
 
-Total-star lists let old projects stay on top; newly rising projects get buried. All numbers are pulled from the GitHub API daily at Beijing and Los Angeles midnight.
+Total-star lists let old projects stay on top; newly rising projects get buried. All numbers are pulled from the GitHub API daily.
 
 ## First goals
 

@@ -174,12 +174,13 @@ class ScheduledPathTests(unittest.TestCase):
         sh = (ROOT / "tools/local_daily.sh").read_text("utf-8")
         for text in (wf, sh):
             self.assertRegex(text, r"tools/update_stars\.py --slot")
-        # both Beijing and both LA cron entries feed the single "update" job that runs update_stars.py
+        # both LA cron entries feed the single "update" job that runs update_stars.py
         self.assertEqual(len(re.findall(r"update_stars\.py", wf)), 1)
-        for cron in ("'0 16 * * *'", "'0 7 * * *'", "'0 8 * * *'"):
+        for cron in ("'0 7 * * *'", "'0 8 * * *'"):
             self.assertIn(cron, wf)
+        self.assertNotIn("'0 16 * * *'", wf)
         plists = list((ROOT / "docs/launchd").glob("*.plist"))
-        self.assertEqual(len(plists), 2)  # Beijing 00:00 and Los Angeles 00:00
+        self.assertEqual([p.name for p in plists], ["com.jammyfu.github-risers.la.plist"])
         for pl in plists:
             self.assertIn("local_daily.sh", pl.read_text("utf-8"), pl.name)
 

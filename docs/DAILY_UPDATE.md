@@ -7,7 +7,7 @@ project that cannot be fetched is listed under "Missing data" in the README.
 
 1. `GET /repos/{owner}/{repo}` → `stargazers_count`, `created_at`.
 2. `GET /repos/{owner}/{repo}/stargazers/history` (newest week first, 30 weeks per page) until one year is covered.
-3. Re-discovers the "hottest new repos (last 7 days)" ranking with the GitHub search API (about 30 search requests, paced to the 30/min limit, so a run takes roughly 2 minutes; rules in [NEW_ARRIVALS.md](NEW_ARRIVALS.md)). Every slot run (Beijing and Los Angeles, Actions or local) redoes it from scratch.
+3. Re-discovers the "hottest new repos (last 7 days)" ranking with the GitHub search API (about 30 search requests, paced to the 30/min limit, so a run takes roughly 2 minutes; rules in [NEW_ARRIVALS.md](NEW_ARRIVALS.md)). Every production run (Los Angeles midnight, Actions or local) redoes it from scratch.
 4. Writes `data/stats.json` (growth per project), archives it under `rankings/<date>/<slot>/` and `latest/`, appends today's star count to `data/stars.json`
    (snapshots, used for cross-checks over time), then regenerates the five READMEs.
 
@@ -25,8 +25,8 @@ stars, UTC vs bucket boundaries). Slack was 2 until 2026-11-01, when
 
 ### One code path for every scheduled run
 
-The Beijing 00:00 cron (`0 16 * * *`), both Los Angeles crons (`0 7`/`0 8 * * *`, gated by `tools/schedule_guard.py`),
-`workflow_dispatch`, and the local launchd jobs (`docs/launchd/*.plist` -> `tools/local_daily.sh`) all end in the same
+Both Los Angeles crons (`0 7`/`0 8 * * *`, gated by `tools/schedule_guard.py`),
+`workflow_dispatch`, and the local launchd job (`docs/launchd/*.plist` -> `tools/local_daily.sh`) all end in the same
 command: `python3 tools/update_stars.py --slot <slot>`. That calls `newcomers.discover_all` -> `newcomers.discover_category`,
 so the topic-only category rules, the suspected-crack/pirated ordering (`tools/spam.py`, `newcomers.rank_items`) and the
 leader exclusion (`render_readme.leaders`) apply to every run. `tests/test_spam.py::ScheduledPathTests` guards this.
@@ -36,8 +36,8 @@ leader exclusion (`render_readme.leaders`) apply to every run. `tests/test_spam.
 Every run stores its result in its own folder and keeps it (nothing is overwritten except a re-run of the same slot):
 
 ```
-rankings/<date>/cn-0000/   Beijing 00:00 run      (date = Asia/Shanghai date)
-rankings/<date>/pt-0000/   Los Angeles 00:00 run  (date = America/Los_Angeles date)
+rankings/<date>/pt-0000/   Los Angeles 00:00 run  (date = America/Los_Angeles date)  ← production
+rankings/<date>/cn-0000/   optional Beijing 00:00 run (date = Asia/Shanghai date; kept for history)
 rankings/<date>/manual-HHMM/   any other run, e.g. manual dispatch (date/time = UTC)
     stats.json     full API-derived data of that run, plus a "slot" block and the new-repos ranking (`newcomers`)
     rankings.md    top-20 tables for that run, new-repos table first (English, compact)
@@ -49,8 +49,9 @@ data/stats.json      what the READMEs are rendered from (same as the newest run)
 
 The five READMEs show the latest ranking and link to the history index and `latest/rankings*.md` of their own language.
 The pages are generated from `tools/i18n.py` (strings) and `stats.json` (data); never edit them by hand.
-`tools/update_stars.py --slot cn|pt|manual|auto` picks the folder (`auto`, the default, uses cn if it is 00:xx in
-Beijing, pt if 00:xx in Los Angeles, otherwise manual). The workflow and `tools/local_daily.sh` pass the slot themselves.
+`tools/update_stars.py --slot cn|pt|manual|auto` picks the folder (`auto`, the default, uses pt if it is 00:xx in
+Los Angeles, cn if 00:xx in Beijing, otherwise manual). The scheduled workflow always passes `pt`; `tools/local_daily.sh`
+passes the slot itself.
 `tools/verify.py` checks that `latest/`, the indexes and every snapshot's `rankings*.md` (all languages) match their data.
 
 ## New-repo description translations and polish
@@ -63,17 +64,16 @@ Since the i18n pipeline, `tools/update_stars.py` fills this cache itself: after 
 translates every displayed description that has no current translation (already translated ones are skipped),
 then renders. In CI this can use the Cursor CLI and the optional repository secret `CURSOR_API_KEY`; this repo has no
 such secret on purpose, so the Actions run skips translation and carries on with the existing texts. The translation is done by the
-owner's Mac: a launchd job (`tools/com.jammyfu.risers-i18n.plist`, Beijing 01:15 and 17:15, ~1h after the Actions slots) runs
+owner's Mac: a launchd job (`tools/com.jammyfu.risers-i18n.plist`, Beijing 17:15, ~1–2h after the Los Angeles midnight Actions slot) runs
 `tools/mac_i18n_cron.sh`, which pulls, translates what is missing with the signed-in Antigravity CLI (`agy`), renders, verifies,
 commits `chore(i18n): ...` and pushes to main. Log: `~/Library/Logs/risers-i18n.log`. Polishing the copy is done on the owner's machine with
 the Antigravity CLI (`tools/polish_local.sh`, or `tools/local_daily.sh`), never in CI. Details, guards and the manual commands are in
 [I18N_PIPELINE.md](I18N_PIPELINE.md). `python3 tools/newcomer_i18n.py` still lists the gaps.
 
-## Schedule: Beijing 00:00 and Los Angeles 00:00
+## Schedule: once a day at Los Angeles 00:00
 
 | Slot | When | cron (UTC) |
 |---|---|---|
-| Beijing 00:00 (UTC+8, no DST) | 16:00 UTC | `0 16 * * *` |
 | America/Los_Angeles 00:00, PDT (UTC-7) | 07:00 UTC | `0 7 * * *` |
 | America/Los_Angeles 00:00, PST (UTC-8) | 08:00 UTC | `0 8 * * *` |
 
@@ -81,10 +81,10 @@ GitHub cron only knows UTC, so both LA entries fire every day. `tools/schedule_g
 checks the real Los Angeles clock and lets only the one that is actually 00:xx there continue; the other run skips
 (you will see a green run whose steps are skipped). Tests cover PDT, PST, both 2026 DST changes (Mar 8, Nov 1) and
 assert that exactly one of the two LA slots passes on every day of the year (`tests/test_schedule.py`).
-The Beijing entry is unguarded. Manual `workflow_dispatch` always runs.
+Manual `workflow_dispatch` always runs.
 
 Caveat: GitHub may start scheduled runs several minutes late. A run delayed past the end of the 00:xx hour in Los Angeles
-would skip. The Beijing slot and the next day's runs still refresh the data, so a delay never leaves it stale for more than a day.
+would skip until the next day's slot. Use `workflow_dispatch` (or `tools/local_daily.sh`) if a day needs a manual refresh.
 
 ## Option A: GitHub Actions (preferred when it runs)
 
@@ -129,8 +129,8 @@ gh api repos/jammyfu/github-risers/check-runs/<job_id>/annotations --jq '.[].mes
 GITHUB_TOKEN=$(gh auth token) python3 tools/update_stars.py   # fetch + render only
 tools/local_daily.sh                  # update, verify (--daily), commit, push to main (any time)
 tools/local_daily.sh --no-push        # update, verify, commit locally
-tools/local_daily.sh --slot beijing   # only proceeds if it is 00:xx in Asia/Shanghai
 tools/local_daily.sh --slot la        # only proceeds if it is 00:xx in America/Los_Angeles (DST-aware)
+tools/local_daily.sh --slot beijing   # optional; only proceeds if it is 00:xx in Asia/Shanghai
 ```
 
 `tools/local_daily.sh` reads `GITHUB_TOKEN` (falls back to `gh auth token`), refuses to run off `main` or
@@ -140,28 +140,24 @@ with `skip: ...` without touching anything. `ATLAS_NOW_UTC=2026-10-29T08:30:00Z`
 ### cron (Linux / macOS, machine clock in Beijing time)
 
 ```cron
-0 0 * * *       cd /path/to/github-risers && tools/local_daily.sh --slot beijing >> /tmp/risers-daily.log 2>&1
 0 15,16 * * *   cd /path/to/github-risers && tools/local_daily.sh --slot la      >> /tmp/risers-daily.log 2>&1
 ```
 
 Los Angeles midnight is 15:00 Beijing time in PDT and 16:00 in PST; the `la` slot fires at both and the guard picks the right one.
-If the machine uses another time zone, run the `la` line hourly (`0 * * * *`) and the guard does the rest; for Beijing use
-`CRON_TZ=Asia/Shanghai` where your cron supports it, or hourly with `--slot beijing`.
+If the machine uses another time zone, run the `la` line hourly (`0 * * * *`) and the guard does the rest.
 Do not commit a token. Put `GITHUB_TOKEN=...` at the top of the crontab, or leave it unset and rely on `gh auth login`.
 
 ### launchd (macOS, machine clock in Beijing time)
 
-Two agents: `docs/launchd/com.jammyfu.github-risers.beijing.plist` (00:00) and
-`docs/launchd/com.jammyfu.github-risers.la.plist` (15:00 and 16:00, guarded). Replace `/PATH/TO` with the clone path, then:
+One agent: `docs/launchd/com.jammyfu.github-risers.la.plist` (15:00 and 16:00, guarded). Replace `/PATH/TO` with the clone path, then:
 
 ```bash
-cp docs/launchd/com.jammyfu.github-risers.*.plist ~/Library/LaunchAgents/
-launchctl load ~/Library/LaunchAgents/com.jammyfu.github-risers.beijing.plist
+cp docs/launchd/com.jammyfu.github-risers.la.plist ~/Library/LaunchAgents/
 launchctl load ~/Library/LaunchAgents/com.jammyfu.github-risers.la.plist
 launchctl start com.jammyfu.github-risers.la     # test: prints "skip: ..." unless it is LA midnight
 ```
 
-They rely on `gh auth login` for the token (launchd has no shell profile).
+It relies on `gh auth login` for the token (launchd has no shell profile).
 
 ## Verify
 

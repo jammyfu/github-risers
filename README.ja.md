@@ -6,9 +6,9 @@
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![CI](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/github-risers/actions/workflows/ci.yml) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjammyfu%2Fgithub-risers%2Fmain%2Fdata%2Fstats.json&query=%24.today_utc&label=updated&color=brightgreen)](latest/rankings.ja.md)
 
-総スター数ではなく、1 日あたりに増えたスター数で GitHub リポジトリを並べます。AI が先頭で、開発者ツール、セキュリティ、Web / フロントエンド、インフラ、デザイン / クリエイティブ、データが続きます。1 日 2 回更新。
+総スター数ではなく、1 日あたりに増えたスター数で GitHub リポジトリを並べます。AI が先頭で、開発者ツール、セキュリティ、Web / フロントエンド、インフラ、デザイン / クリエイティブ、データが続きます。毎日更新。
 
-データ取得 2026-11-04 21:42（UTC）。1 日 2 回：北京時間 0 時（UTC+8）、ロサンゼルス時間 0 時（America/Los_Angeles）。
+データ取得 2026-11-04 21:42（UTC）。毎日更新。
 
 [ウェブサイト](https://jammyfu.github.io/github-risers/) · [仕組み](docs/HOW_IT_WORKS.ja.md) · [ファクト](docs/FACTS.md) · [履歴](rankings/README.ja.md) · [最新](latest/rankings.ja.md)
 
@@ -40,7 +40,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 ### 更新は何回？
 
-1 日 2 回、北京時間 0 時とロサンゼルス時間 0 時です。実行のたびに保存します。 [詳しく見る](docs/FAQ.md#how-often-is-it-updated)
+毎日更新します。実行のたびに保存します。 [詳しく見る](docs/FAQ.md#how-often-is-it-updated)
 
 ### 数値はどう出す？
 

@@ -2,7 +2,7 @@
 
 ## Goal
 
-A trustworthy ranking of fast-rising GitHub repositories by stars gained per day, grouped by category (AI first), refreshed twice a day from the GitHub API and readable in five languages.
+A trustworthy ranking of fast-rising GitHub repositories by stars gained per day, grouped by category (AI first), refreshed daily from the GitHub API and readable in five languages.
 
 ## Current phase
 
@@ -15,7 +15,7 @@ Phase 4: harness and upkeep (Phases 1-3 are done and merged).
 
 ### Phase 2: Growth data and automation (done)
 - stars/day for 7/30/365 days from `stargazers/history`
-- Daily update (Actions + local fallback) at Beijing 00:00 and Los Angeles 00:00, per-slot history, `latest/`
+- Daily update (Actions + local fallback) at America/Los_Angeles 00:00, per-slot history, `latest/`
 - Top-20 boards, 7-day newcomers board
 
 ### Phase 3: Categories, i18n pipeline, discovery (done)
@@ -30,7 +30,7 @@ Phase 4: harness and upkeep (Phases 1-3 are done and merged).
 ## Definition of done for a phase
 
 - `python3 tools/verify.py` passes; data in `data/stats.json` came from a real run
-- A daily update has run unattended at both the Beijing and Los Angeles slots
+- A daily update has run unattended at the Los Angeles slot
 
 ## Questions for next review
 

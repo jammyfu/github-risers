@@ -1,7 +1,7 @@
 # Hottest new repos (created in the last 7 days)
 
 The first board inside every category. Everything comes from the GitHub API; nothing is estimated or hand-picked.
-It is rebuilt on every run (Beijing 00:00 and Los Angeles 00:00), stored in the slot folder
+It is rebuilt on every daily run, stored in the slot folder
 `rankings/<date>/<slot>/` and copied to `latest/` like the other rankings. Code: `tools/newcomers.py`.
 Category rules: [CATEGORIES.md](CATEGORIES.md).
 

@@ -84,3 +84,11 @@
 - It now reads `$.today_utc` from `data/stats.json` on `main` via shields.io dynamic JSON. When the daily job writes a new `today_utc`, the badge refreshes without anyone editing the README by hand.
 - The stamp line still comes from `stats.generated_at` on every `tools/render_readme.py` run (the same path the daily-update workflow uses). Templates in `tools/i18n.py` contain `{ts}` only; no `YYYY-MM-DD` is typed in.
 - First-screen FAQ grew by two items (how the numbers are computed; how to use or contribute). They link existing `docs/FAQ.md` anchors; the GEO FAQ file is not generated.
+
+## 2026-11-06
+
+### Once a day at America/Los_Angeles midnight
+
+- Production cadence is one ranking update per day, not Beijing 00:00 plus Los Angeles 00:00.
+- GitHub cron is still UTC-only, so both `0 7 * * *` (PDT) and `0 8 * * *` (PST) stay; `tools/schedule_guard.py` lets exactly one through. Historical `cn-0000` snapshots are kept; new scheduled runs write `pt-0000`.
+- Public README / FAQ / FACTS / HOW_IT_WORKS copy only says the list is updated daily. Exact clocks stay in `docs/DAILY_UPDATE.md` for operators.

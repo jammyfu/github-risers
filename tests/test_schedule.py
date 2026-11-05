@@ -94,17 +94,17 @@ class LocalScriptTests(unittest.TestCase):
 class WorkflowScheduleTests(unittest.TestCase):
     wf = (ROOT / ".github/workflows/daily-update.yml").read_text("utf-8")
 
-    def test_three_crons(self):
+    def test_two_la_crons(self):
         crons = re.findall(r"- cron: '([^']+)'", self.wf)
-        self.assertEqual(sorted(crons), sorted(["0 16 * * *", "0 7 * * *", "0 8 * * *"]))
+        self.assertEqual(sorted(crons), sorted(["0 7 * * *", "0 8 * * *"]))
+        self.assertNotIn("0 16 * * *", self.wf)
 
     def test_la_guard_wired_and_steps_gated(self):
         self.assertIn("tools/schedule_guard.py --tz America/Los_Angeles --hour 0", self.wf)
         self.assertEqual(self.wf.count("if: steps.gate.outputs.run == 'true'"), 4)  # install CLI, fetch, verify, commit
-        # Beijing cron is the only unguarded schedule
-        self.assertIn('"$CRON" = "0 16 * * *"', self.wf)
-        self.assertIn("slot=cn", self.wf)
+        self.assertNotIn("slot=cn", self.wf)  # scheduled production is pt only
         self.assertIn("slot=pt", self.wf)
+        self.assertIn("slot=auto", self.wf)
         self.assertIn('--slot "$SLOT"', self.wf)
         self.assertIn("git add data rankings latest README*.md", self.wf)
 

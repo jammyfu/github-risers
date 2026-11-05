@@ -1,5 +1,11 @@
 # WORKLOG.md
 
+## 2026-11-06
+
+- PLAN-005: production cadence is once daily at America/Los_Angeles 00:00. Dropped the Beijing cron (`0 16 * * *`) and the Beijing launchd agent. Scheduled Actions runs always use slot `pt`.
+- Public copy (stamp / a3 / schedule / tagline, FAQ, FACTS) no longer names cron clocks or the dual Beijing+PT schedule; operator clocks stay in `docs/DAILY_UPDATE.md`.
+- i18n Mac job is once a day at Beijing 17:15 (~1–2h after LA midnight). `--slot beijing` remains available for optional local runs; historical `cn-0000` snapshots are untouched.
+
 ## 2026-11-01
 
 - Daily-update run 41235403615 (Beijing ~03:41, 2026-11-01) fetched OK then failed Verify: `affaan-m/ECC` had `|history_total - stars| = 3` while the allowed slack was 2, so commit/push was skipped.
