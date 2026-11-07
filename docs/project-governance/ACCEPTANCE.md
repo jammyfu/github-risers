@@ -4,7 +4,7 @@
 
 - Every project has stars/day for 7, 30 and 365 days or is listed as missing with the API error
 - Rankings in order: week, month, year, total (last)
-- Each project shows a star-history SVG in every README
+- Each project shows a star-history SVG in every README; README ranking tables keep numbers first and fold the charts in `<details>`
 - README.md is English; zh-Hans, zh-Hant, ja, ko exist; each has the switcher on its first line
 - No analytics/tracking script anywhere (`tests/test_repo.py::ZeroTelemetryTests`)
 - `daily-update.yml` and `tools/local_daily.sh` exist; `docs/DAILY_UPDATE.md` states whether Actions can run and why
@@ -22,7 +22,7 @@
 
 - The `updated` badge is dynamic (`shields.io` JSON → `data/stats.json` `today_utc`); i18n templates contain no `YYYY-MM-DD`
 - The stamp line is written from `stats.generated_at` on every `python3 tools/render_readme.py` run
-- First screen states what the list is, that it updates daily, how numbers are computed, and how to use or contribute
+- First screen states what the list is, that it updates daily, where the live boards are, how to use them, how numbers are computed, and how to use or contribute. Public README copy does not name a timezone or time slot.
 
 ## Phase 4: harness
 

@@ -1,6 +1,6 @@
 # GitHub Risers (GitHub 涨星榜)
 
-> GitHub trending repositories ranked by star growth (stars gained per day), not total stars. AI is the main board; developer tools, security, web, infrastructure, design and data have their own boards, each with a 7-day "hottest new repos" list. Numbers come from the GitHub API only. Updated twice a day: 00:00 Beijing time and 00:00 Los Angeles time. READMEs in English, 简体中文, 繁體中文, 日本語, 한국어. MIT license. Open source, no telemetry. Not affiliated with GitHub.
+> GitHub trending repositories ranked by star growth (stars gained per day), not total stars. AI is the main board; developer tools, security, web, infrastructure, design and data have their own boards, each with a 7-day "hottest new repos" list. Numbers come from the GitHub API only. Updated daily. READMEs in English, 简体中文, 繁體中文, 日本語, 한국어. MIT license. Open source, no telemetry. Not affiliated with GitHub.
 
 GitHub Risers is a script-generated leaderboard, not a manual editorial list. It is not a star-buying or promotion service and does not use generative AI to compute rankings.
 

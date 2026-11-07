@@ -1,5 +1,12 @@
 # CHANGELOG.md
 
+## 2026-11-07 (public first screen)
+
+- README first screen now states the value, the live-board URL, and three quick-use steps before the category leaders.
+- Star-history charts on README boards are folded; ranking tables keep the numbers. Full top 20 remains in `latest/`.
+- `llms.txt` and `CITATION.cff` now say daily, matching FAQ/FACTS/README. GitHub About is owner-managed and already daily.
+- Added `docs/github-profile-draft.md` as an unpublished bilingual draft for a profile README. It does not assert that `jammyfu/jammyfu` is missing. GitHub About is owner-managed and already daily.
+
 ## 2026-11-07 (complete current translations)
 
 - Completed detailed descriptions and short hooks for all current ranking entries in English, Simplified Chinese, Traditional Chinese, Japanese and Korean.

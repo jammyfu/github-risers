@@ -2,41 +2,44 @@
 
 ## Plan ID
 
-PLAN-007
+PLAN-008
 
 ## Goal
 
-Complete every missing detailed translation and one-line hook in the current ranking across all five languages, while preserving existing translations and all API-derived data.
+Make the public GitHub first screen easier for visitors to understand, open the live boards, and star the project, while adding a profile README draft and aligning leftover twice-daily public copy.
 
 ## In Scope
 
-- Current-source entries in `data/translation_library.json`
-- Generated README and details pages via `tools/render_readme.py`
-- Completeness, terminology, existing-entry preservation and publication checks
+- Generated README first-screen copy via `tools/i18n.py` and `tools/render_readme.py`
+- Folded star-history charts on README boards
+- `docs/github-profile-draft.md` unpublished draft for a `jammyfu/jammyfu` profile
+- Public cadence wording in `llms.txt`, `docs/llms.txt`, and `CITATION.cff`
+- Tests and governance records for those copy changes
 
 ## Out of Scope
 
-- Star data, ranking order, historical snapshot data, source descriptions, existing translations, model configuration, unrelated copy or automation redesign
+- Ranking, star-fetch, and workflow logic
+- Hand-editing ranking data or history snapshots
+- Merging to `main`
+- Creating `jammyfu/jammyfu` or changing the GitHub About field by API
+- Private repositories, star farming, invented usage or capability claims
 
 ## Tasks
 
-- [x] Audit repository requirements, current source hashes and missing language/hook fields
-- [x] Fill the missing detailed translations and short hooks using the glossary and existing guards
-- [x] Independently review all new wording and prove no old translated field changed
-- [x] Regenerate pages and verify zero translation/hook gaps across all current categories
-- [ ] Publish the completed content and verify CI and Pages on the resulting commit
+- [x] Confirm README vs About cadence: README stays daily without clocks; About is owner-managed and already daily
+- [x] First screen: clear value, live-board entry, quick use; fold README star-history charts
+- [x] Add `docs/github-profile-draft.md` (Chinese and English; verified public projects only)
+- [x] Align leftover public twice-daily wording in `llms.txt` and `CITATION.cff`
+- [x] Run `python3 tools/verify.py` and `python3 tools/next_plan.py --check`
+- [x] Open an unmerged pull request (https://github.com/jammyfu/github-risers/pull/21; not merged)
 
 ## Verification
 
-- `python3 tools/i18n_pipeline.py --translate --hooks --dry-run`
-- `python3 tools/newcomer_i18n.py --strict`
 - `python3 tools/verify.py`
-- `python3 tools/verify.py --daily`
 - `python3 tools/next_plan.py --check`
-- Compare all previously stored translation fields and API data with the base commit
 
 ## Next Candidates
 
-- Observe the next unattended scheduled update and same-day duplicate suppression
-- Consider making the operator completeness check cover hooks as well as translations without blocking raw-data refreshes
-- Thin newcomer boards and the acceleration column remain in `TODO_BACKLOG.md`
+- Owner may copy `docs/github-profile-draft.md` into `jammyfu/jammyfu` if they choose to publish it
+- Observe the next unattended daily update after any authorized merge
+- Do not treat a failed profile-repo fetch as proof that the repository is missing
