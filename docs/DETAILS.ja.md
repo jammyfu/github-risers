@@ -118,50 +118,50 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 見守りは不要、エージェントが迷った時だけ確認 | コマンドラインエージェントがバックグラウンドで自律的にタスクを引き受け、最後まで完遂。普段は邪魔をせず、判断に迷う時だけカードを送信して決定を仰ぎます。 |
-| [voyager-so/vork](https://github.com/voyager-so/vork) |  | Headless 3D and VFX engine for agents. Research preview. |
-| [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) |  | Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-sour… |
+| [voyager-so/vork](https://github.com/voyager-so/vork) | エージェントで3Dと視覚効果を扱う | エージェント向けのヘッドレス 3D・VFX エンジン. 研究プレビュー版. |
+| [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | AIでゲームのスクリプトを編集する | Roblox Studio 向けの Model Context Protocol サーバー. AI アシスタント (Claude, Cursor) を接続し、オブジェクトツリーの読み取り、スクリプトの編集、プレイテストの実行を安全に行う. オープンソース… |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 構成図を描くのが面倒？一文で公式ロゴ付き図が完成 | エージェントスキル：スタックを一文で説明し、公式ロゴ付きのアーキテクチャ図を取得 |
-| [JosssphZhou/poki](https://github.com/JosssphZhou/poki) |  | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. |
-| [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) |  | 3D modeling in Python, built for LLMs. |
-| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) |  | Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. |
-| [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) |  | Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox |
-| [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) |  | Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
+| [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | AIに実機のiPhoneを操作させる | AI エージェントに実機の iPhone を操作させる. ローカルの MCP サーバーとエージェントで、脱獄も追加ハードウェアも不要. |
+| [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 言語モデルがPythonで3Dを作る | LLMs 向けに作られた、Python での 3D モデリング. |
+| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | トルコ語の文章からAIの痕跡を取り除く | トルコ語の文章から人工知能の痕跡 (AI の粗製コンテンツ、翻訳調、翻訳くさい文構造、TDK の言語規範に反する誤り) を取り除く Agent Skill と Humanizer パッケージ. |
+| [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 使い捨てのWindows環境でアプリを試す | アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI |
+| [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AIチームに仕事を振り分ける | 人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。 |
 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | ウェブサイトがベトナム法を満たすか検査 | Claude Code、Cursor、Copilot、Windsurf、Cline向けの、ベトナム法（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）に基づくウェブサイト法務監査 |
-| [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) |  | Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight… |
+| [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | AIが長く覚えておくためのツールを比較 | 優れたエージェント記憶用 MCP サーバーのランキングと比較: Claude Code、Codex、Cursor、あらゆる MCP クライアント向けの長期記憶. Glen, Mem0, Supermemory, Zep, Hindsight… |
 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | 静止画面の無駄を防ぎ、AIにリアルタイムで画面を見せる | AI がリアルタイムで画面を見られるようにする：変化量でフレームをフィルタリングし、複数フレームを1枚の画像に結合、静止画面はトークンをほぼ消費しない |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 動画素材がない時に、Claude Codeスキルでアニメ制作 | 素材不要で reels 向けアニメーションを作成できる 6 つの Claude Code スキル：3D カートゥーン解説、棒人間、ミニマルラインアート、3D マップルート、分解図、li… |
-| [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills) |  | AI-Powered Web Security &amp; Automation - Official bonus skills, agents &amp; MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates) |
-| [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) |  | Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。 |
-| [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) |  | 医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing &amp; research skills. |
-| [orkbot-run/ork](https://github.com/orkbot-run/ork) |  | Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps. |
+| [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills) | AIでWebの安全を調べるテンプレート | AI による Web セキュリティ &amp; 自動化 - 電子書籍「Agentic Hacking」の公式特典スキル、エージェント &amp; MCP 設定 (28 個の SKILL.md テンプレート) |
+| [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | パソコンなしでiPhone上のAIを動かす | 完全ネイティブの SwiftUI インターフェースで、iPhone と iPad 上で DeepSeek Harness を実行する. パソコン不要、サーバー不要. iPhone と iPad 上で DeepSeek Harness をローカル実行し、インターフェースは完全ネイティブ。 |
+| [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) | 中国語と英語での医学論文執筆を支援 | 医学論文の執筆と研究のアシスタント：中国の医師と医学系大学院生向けの 32 個のエージェントスキルで、Claude Code、Codex に対応し、テーマ選び、PubMed 文献検索、中国語・英語での執筆、投稿誌選びと投稿、査読後の修正・再提出をカバー。医学執筆 &amp; 研究スキル. |
+| [orkbot-run/ork](https://github.com/orkbot-run/ork) | AIボット同士で作業中の会話を共有 | ソースコードを入手できる AI アシスタントで、永続的なボットが会話を共有し、隔離されたコンピューターで作業する. セルフホスト型で、Web、デスクトップ、モバイルのアプリを提供. |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | 勝手なコード切断を防ぎ、無損失でエージェントを動かす | ロスレスでヘッドレスなコーディングエージェントハーネス。1つの 7 MB 静的バイナリ、4つのツール、プレーンな stdin/stdout、サイレントカットなし。 |
-| [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) |  | Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remotion. 9+ agent skills, 20+ story flows, fact ledger, CC0 SFX. |
-| [Toyhom/awesome-computational-character-modeling](https://github.com/Toyhom/awesome-computational-character-modeling) |  | Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript. |
+| [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) | コーディングAIでナレーション付き縦動画 | コーディングエージェントと Remotion でナレーション付き縦型ショート動画 (TikTok, YouTube Shorts, Reels) を作る. 9+ のエージェントスキル, 20+ のストーリー構成, 事実台帳, CC0 SFX. |
+| [Toyhom/awesome-computational-character-modeling](https://github.com/Toyhom/awesome-computational-character-modeling) | キャラクターのモデリング研究を探す | Computational Character Modeling のサーベイ補足資料: 論文の構成に沿って整理したロールプレイ手法、データ基盤、評価. |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ターミナルから出ずに、完全な macOS を動かす | ターミナル上で動作する完全な MacOS。 |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Android アプリの情報漏えいをスキャンして安全に対処 | スマホのプライバシー監査：adb で Android アプリの権限、送信先エンドポイント、データフローを検出し、ロールバック可能な対応を提示。デスクトップ Android リーク監査：権限、エンドポイント、データフロー、可逆的な修正。 |
-| [devvmhq/devvm](https://github.com/devvmhq/devvm) |  | One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding |
-| [MetalHairdresser/slideshow-video-maker](https://github.com/MetalHairdresser/slideshow-video-maker) |  | Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen... |
-| [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) |  | Sp Flash Tool 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility configuration. |
-| [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) |  | Ads Blocker utility configuration folder for secure, efficient desktop software deployment in isolated environments. |
-| [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) |  | Aion 2: Optimized package deployment for AI-driven prompt engineering tasks, ensuring seamless local workstation execution in 2026. |
-| [FloorFlameDone/androidunlocker](https://github.com/FloorFlameDone/androidunlocker) |  | Android Unlocker Utility 2023 pre-configured environment for seamless local workstation deployment. |
-| [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) |  | Clion 2026 pre-configured environment for efficient local workstation deployment. |
-| [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) |  | Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and... |
-| [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) |  | Discord Server Cloner 2023 pre-configured environment for seamless local workstation deployment, enabling efficient server backup and... |
-| [KnitGnatConduit/ios-unlocker](https://github.com/KnitGnatConduit/ios-unlocker) |  | iOS Unlocker 1.5.3 automated deployment pipeline for seamless local workstation environment setup, ensuring optimal device management and... |
-| [lavagunsmithmystery/metatrader-5-bot](https://github.com/lavagunsmithmystery/metatrader-5-bot) |  | Metatrader 5 Bot repository configuration folder for streamlined automated deployment pipeline in professional desktop software utility environment. |
-| [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) |  | Multiaccountmanager 2023 pre-configured environment for seamless automated deployment pipeline, ensuring robust multi-account management on... |
-| [naturemidwifedream/uttorent](https://github.com/naturemidwifedream/uttorent) |  | Uttorent 3.5.1 pre-configured environment for secure, automated desktop software utility deployment in 2026. |
-| [hairwayrefresh/drfoneunlock](https://github.com/hairwayrefresh/drfoneunlock) |  | Drfoneunlock 2023 - Local workstation deployment package with pre-configured environment for efficient device unlocking operations. |
-| [HalberdierTackle/discord-server-raider](https://github.com/HalberdierTackle/discord-server-raider) |  | Discord Server Raider automated deployment pipeline for optimized package execution and secure environment setup in 2026. |
-| [MessengerCheer/scrcpy](https://github.com/MessengerCheer/scrcpy) |  | Scrcpy repository configuration folder for streamlined remote device control, compatible with current desktop environments as of 2026. |
-| [MuseumCuckoo/unlocktool](https://github.com/MuseumCuckoo/unlocktool) |  | Unlocktool 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal software catalog management. |
-| [NoonBrokerRevere97/wondshare-recoverit](https://github.com/NoonBrokerRevere97/wondshare-recoverit) |  | Wondshare Recoverit 15.3 automated deployment pipeline for efficient enterprise data recovery and management tasks in isolated workstation... |
-| [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) |  | Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on one globe, with sources and one-click fixes. |
-| [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) |  | Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report. |
-| [zeemscript/block-roll](https://github.com/zeemscript/block-roll) |  | Non-custodial, encrypted file storage &amp; sharing platform with Stellar payments and on-chain file notarization |
-| [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) |  | 同一需求，两版真跑，体验后审查采用。Two live builds for one task in DeepSeek Harness. |
-| [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) |  | Production compatibility gateway bridge &amp; observability platform connecting Claude Code CLI with Google Antigravity &amp; Gemini inference models via Anthr… |
+| [devvmhq/devvm](https://github.com/devvmhq/devvm) | 各プロジェクトに独立した開発環境を用意 | プロジェクトごとに一つの VM. プロジェクトのツールチェーンを備えた隔離サンドボックスで、自分でもコーディングエージェントでもすぐにコードを書き始められる |
+| [MetalHairdresser/slideshow-video-maker](https://github.com/MetalHairdresser/slideshow-video-maker) | 動画編集ソフトの自動デプロイ工程 | Slideshow Video Maker 2026 の自動デプロイパイプラインで、パッケージのデプロイを最適化し、プロ向け動画編集と画面... |
+| [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) | デスクトップソフトのデプロイ用設定済み環境 | Sp Flash Tool 2026 の自動デプロイパイプライン用の設定済み環境で、デスクトップユーティリティソフトの設定を円滑に行える. |
+| [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) | 隔離環境でのデスクトップソフトのデプロイ | Ads Blocker ユーティリティの設定フォルダで、隔離環境内でデスクトップソフトを安全かつ効率的にデプロイするためのもの. |
+| [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) | プロンプト設計作業向けパッケージのデプロイ | Aion 2: AI 駆動のプロンプトエンジニアリング作業向けにパッケージのデプロイを最適化し、2026 年のローカルワークステーションでの円滑な実行を確保する. |
+| [FloorFlameDone/androidunlocker](https://github.com/FloorFlameDone/androidunlocker) | ローカルワークステーションのデプロイ設定 | Android Unlocker Utility 2023 の設定済み環境で、ローカルワークステーションへの円滑なデプロイに対応する. |
+| [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) | ローカルワークステーションのデプロイ設定 | Clion 2026 の設定済み環境で、ローカルワークステーションへの効率的なデプロイに対応する. |
+| [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) | ローカルワークステーションのデプロイ設定 | Discord Quest Completer 2026 の設定済み環境で、ローカルワークステーションへの円滑なデプロイに対応し、ユーティリティの最適な性能と... |
+| [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) | サーバーバックアップ用の設定済み環境 | Discord Server Cloner 2023 の設定済み環境で、ローカルワークステーションへの円滑なデプロイに対応し、効率的なサーバーバックアップと... |
+| [KnitGnatConduit/ios-unlocker](https://github.com/KnitGnatConduit/ios-unlocker) | ローカルワークステーション環境の自動設定 | iOS Unlocker 1.5.3 の自動デプロイパイプラインで、ローカルワークステーション環境を円滑に設定し、最適なデバイス管理と... |
+| [lavagunsmithmystery/metatrader-5-bot](https://github.com/lavagunsmithmystery/metatrader-5-bot) | デスクトップソフトの自動デプロイ設定 | Metatrader 5 Bot リポジトリの設定フォルダで、プロ向けデスクトップユーティリティソフト環境の自動デプロイパイプラインを効率化するためのもの. |
+| [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) | 自動デプロイ工程用の設定済み環境 | Multiaccountmanager 2023 の設定済み環境で、自動デプロイパイプラインを円滑に実行し、堅牢な複数アカウント管理を実現する。対象は... |
+| [naturemidwifedream/uttorent](https://github.com/naturemidwifedream/uttorent) | Uttorent デスクトップツール展開環境 | 2026 年にデスクトップソフトウェアユーティリティを安全かつ自動で展開するための Uttorent 3.5.1 設定済み環境。 |
+| [hairwayrefresh/drfoneunlock](https://github.com/hairwayrefresh/drfoneunlock) | Drfoneunlock ワークステーション展開用 | Drfoneunlock 2023 - 効率的なデバイスのロック解除操作に向けた設定済み環境を備える、ローカルワークステーション用展開パッケージ。 |
+| [HalberdierTackle/discord-server-raider](https://github.com/HalberdierTackle/discord-server-raider) | Discord Server Raider 展開パイプライン | 2026 年にパッケージ実行を最適化し、安全に環境を設定するための Discord Server Raider 自動展開パイプライン。 |
+| [MessengerCheer/scrcpy](https://github.com/MessengerCheer/scrcpy) | Scrcpy リモートデバイス制御設定 | リモートデバイス制御を簡素化する Scrcpy リポジトリの設定フォルダー。2026 年時点の現行デスクトップ環境に対応。 |
+| [MuseumCuckoo/unlocktool](https://github.com/MuseumCuckoo/unlocktool) | Unlocktool ワークステーション展開環境 | ローカルワークステーションへの円滑な展開に向けた Unlocktool 2026 設定済み環境。ソフトウェアカタログの最適な管理を確保。 |
+| [NoonBrokerRevere97/wondshare-recoverit](https://github.com/NoonBrokerRevere97/wondshare-recoverit) | Wondshare Recoverit 展開パイプライン | 隔離されたワークステーションで企業データの復元と管理作業を効率的に行うための Wondshare Recoverit 15.3 自動展開パイプライン... |
+| [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) | 世界のセキュリティ事件を地球儀で随時確認 | あらゆるハッキング、エクスプロイト、情報漏えいをリアルタイムで：新たな脆弱性、進行中のエクスプロイト、情報漏えいを一つの地球儀に表示し、情報源とワンクリック修正も提供。 |
+| [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 公開ページの人物検索を一つのレポートに | 無料の人物検索デスクトップアプリ：3,100+ の公開ページでニックネーム、メールアドレス、電話番号、サイトを調べ、一つの読みやすいレポートを取得。 |
+| [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | ファイルを暗号化して保存・共有 | Stellar 決済とオンチェーンのファイル公証に対応する、非カストディ型の暗号化ファイル保存 &amp; 共有プラットフォーム |
+| [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) | 二つの動く版を試してから選ぶ | 同じ要件で二つの版を実際に動かし、試してから審査して採用する。DeepSeek Harness で一つのタスクに二つの実動ビルド。 |
+| [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | Claude Code を Gemini モデルに接続 | 本番環境向け互換性ゲートウェイブリッジ &amp; オブザーバビリティプラットフォーム。Claude Code CLI と Google Antigravity &amp; Gemini 推論モデルを接続し、経由するのは Anthr… |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | アイコンが不揃いなら、Claude スキルで統一描画 | ホバーモーションまたは静的 SVG として、統一されたスタイルで動的アイコンを描画する Claude スキル。 |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 対話型エージェントのアバターを簡単描画 | インタラクティブなエージェントアバター用の JSON 仕様とレンダラー |
-| [leodavincs/kalem](https://github.com/leodavincs/kalem) |  | Claude Code skill: her sahnenin kendi kalemi var. Videoyu sahnelere böler, her sahneye uygun motoru seçer (Paper.js, PixiJS, HyperFrames, Three.js, Manim). |
+| [leodavincs/kalem](https://github.com/leodavincs/kalem) | 動画の各シーンに合うエンジンを選ぶ | Claude Code スキル：各シーンには専用のペンがある。動画をシーンに分け、各シーンに適したエンジンを選ぶ (Paper.js, PixiJS, HyperFrames, Three.js, Manim)。 |

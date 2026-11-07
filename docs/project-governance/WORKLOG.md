@@ -96,3 +96,13 @@
 - Updated English and Simplified Chinese Pages body copy, facts table, FAQ, search/social metadata and JSON-LD to daily, matching the current public README/FAQ wording. No ranking data or layout changes.
 - Page verification first failed on the old structured description, then passed for both languages after correction; JSON-LD is valid and the visible FAQ matches its structured answer. Full verification passed with 231 tests; daily verification, plan validation and diff checks passed.
 - Merge the exact verified final head after its CI passes. No formal review approval is submitted. Next operational check: confirm main CI/Pages deployment, then observe the next unattended schedule run for refresh and duplicate suppression.
+
+
+## 2026-11-07 — complete current ranking translations (PLAN-007)
+
+- The current ranking had 38 missing detailed descriptions and 39 repos with missing hook languages. API/data success did not mean translation completeness; the previous completion report left this work unfinished.
+- Added 159 detailed translations and 192 one-line hooks across 40 current-source entries. This includes English for two Turkish source descriptions and one Vietnamese source description that the CJK-only English-gap detector did not report.
+- All 48 current newcomers now have complete displayed descriptions in all five languages and 240 valid hooks. Existing 70 tracked-project descriptions/hooks remain intact. Only missing fields were filled; prior library fields are preserved except the normal `seen` date metadata on entries used today.
+- Independent semantic review covered all new wording; corrected truncated endings, neutral software-package labels and the meaning of persistent bots. Detailed descriptions retain facts/names/versions; hooks remain separate short text.
+- Verification: 48/48 translation hits, zero translation or hook gaps; `newcomer_i18n.py --strict`, all 231 tests, `verify.py --daily`, plan and diff checks passed. API star counts, ranking inputs, latest stats and every historical stats snapshot are byte-identical to the base commit.
+- Next: publish and verify the exact final commit, then ensure future completeness checks cover all categories, hooks and non-English sources beyond CJK.

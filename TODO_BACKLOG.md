@@ -8,6 +8,8 @@
 
 ## Next
 
+- [ ] Add an explicit all-category translation-and-hook completion audit, including non-English sources beyond CJK, separate from the fail-safe raw-data refresh
+
 - [ ] Acceleration column (stars/day this week vs. previous week) from `data/stars.json` snapshots
 - [ ] Add more tracked projects (needs five-language `desc`)
 
