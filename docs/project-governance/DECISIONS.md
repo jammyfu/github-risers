@@ -92,3 +92,11 @@
 - Production cadence is one ranking update per day, not Beijing 00:00 plus Los Angeles 00:00.
 - GitHub cron is still UTC-only, so both `0 7 * * *` (PDT) and `0 8 * * *` (PST) stay; `tools/schedule_guard.py` lets exactly one through. Historical `cn-0000` snapshots are kept; new scheduled runs write `pt-0000`.
 - Public README / FAQ / FACTS / HOW_IT_WORKS copy only says the list is updated daily. Exact clocks stay in `docs/DAILY_UPDATE.md` for operators.
+
+
+## 2026-11-07 — tolerate delayed GitHub schedules (PLAN-006)
+
+- The target remains Los Angeles midnight with the existing two UTC crons. Use the committed `generated_at` converted to LA's calendar date to decide if a refresh is due, rather than the runner's current hour.
+- Any successfully committed refresh on that LA date suppresses scheduled duplicates, including manual refreshes. Manual dispatch remains unconditional; local hour-gated fallback is unchanged.
+- Keep workflow concurrency and fresh `main` checkout. Invalid/future state fails visibly; only exit 1 means an intentional skip. Do not backfill missed snapshots with today's numbers.
+- Code changes remain a draft PR until the owner approves merge. The immediate refresh uses the existing production workflow.

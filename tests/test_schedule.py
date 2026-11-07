@@ -1,8 +1,11 @@
 import datetime as dt
+import json
 import os
 import re
 import subprocess
 import sys
+import tempfile
+import shutil
 import unittest
 from pathlib import Path
 
@@ -68,6 +71,95 @@ class CliTests(unittest.TestCase):
         self.assertIn("skip:", skip.stdout)
 
 
+class DailyStateTests(unittest.TestCase):
+    def run_daily(self, now, state):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "stats.json"
+            if state is not None:
+                path.write_text(json.dumps(state), encoding="utf-8")
+            return subprocess.run(
+                [sys.executable, str(ROOT / "tools/schedule_guard.py"), "--tz", LA,
+                 "--daily-state", str(path), "--now", now], capture_output=True, text=True)
+
+    def test_seven_hour_delay_still_refreshes_stale_data(self):
+        r = self.run_daily("2026-11-06T15:26:58Z", {"generated_at": "2026-11-04T23:50:00Z"})
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("run:", r.stdout)
+
+    def test_second_delayed_trigger_skips_same_la_day(self):
+        r = self.run_daily("2026-11-06T16:26:58Z", {"generated_at": "2026-11-06T15:26:58Z"})
+        self.assertEqual(r.returncode, 1, r.stderr)
+        self.assertIn("skip:", r.stdout)
+
+    def test_utc_date_change_does_not_count_as_a_new_la_day(self):
+        r = self.run_daily("2026-11-07T07:00:00Z", {"generated_at": "2026-11-06T15:26:58Z"})
+        self.assertEqual(r.returncode, 1, r.stderr)
+
+    def test_la_midnight_starts_a_new_day_across_dst_changes(self):
+        cases = [
+            ("2026-03-08T08:00:00Z", "2026-03-07T08:00:00Z"),
+            ("2026-03-09T07:00:00Z", "2026-03-08T08:00:00Z"),
+            ("2026-11-01T07:00:00Z", "2026-10-31T07:00:00Z"),
+            ("2026-11-02T08:00:00Z", "2026-11-01T07:00:00Z"),
+        ]
+        for now, previous in cases:
+            with self.subTest(now=now):
+                r = self.run_daily(now, {"generated_at": previous})
+                self.assertEqual(r.returncode, 0, r.stderr)
+
+    def test_missing_state_allows_initial_refresh(self):
+        r = self.run_daily("2026-11-06T15:26:58Z", None)
+        self.assertEqual(r.returncode, 0, r.stderr)
+
+    def test_bad_and_future_state_are_errors_not_successful_skips(self):
+        for state in ({}, [], {"generated_at": "invalid"},
+                      {"generated_at": "2026-11-06T08:00:00"},
+                      {"generated_at": "2026-11-07T08:00:00Z"}):
+            with self.subTest(state=state):
+                r = self.run_daily("2026-11-06T15:26:58Z", state)
+                self.assertEqual(r.returncode, 2, r.stderr)
+                self.assertIn("error:", r.stderr)
+
+
+class WorkflowGateBehaviorTests(unittest.TestCase):
+    def run_gate(self, event, state):
+        workflow = (ROOT / ".github/workflows/daily-update.yml").read_text("utf-8")
+        gate = workflow.split("        run: |\n", 1)[1].split("      # Optional:", 1)[0]
+        script = "\n".join(line[10:] for line in gate.splitlines())
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "tools").mkdir()
+            shutil.copy(ROOT / "tools/schedule_guard.py", root / "tools/schedule_guard.py")
+            (root / "data").mkdir()
+            (root / "data/stats.json").write_text(json.dumps(state), encoding="utf-8")
+            output = root / "output"
+            env = dict(os.environ, EVENT=event, GITHUB_OUTPUT=str(output),
+                       ATLAS_NOW_UTC="2026-11-06T15:26:58Z")
+            r = subprocess.run(["/bin/bash", "-e", "-c", script], cwd=root, env=env,
+                               capture_output=True, text=True)
+            return r, output.read_text() if output.exists() else ""
+
+    def test_delayed_schedule_fetches_and_duplicate_skips(self):
+        r, output = self.run_gate("schedule", {"generated_at": "2026-11-04T23:50:00Z"})
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("run=true", output)
+        self.assertIn("slot=pt", output)
+        r, output = self.run_gate("schedule", {"generated_at": "2026-11-06T09:00:00Z"})
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("run=false", output)
+
+    def test_bad_state_fails_the_workflow_instead_of_reporting_success(self):
+        r, output = self.run_gate("schedule", {"generated_at": "invalid"})
+        self.assertEqual(r.returncode, 2, r.stderr)
+        self.assertNotIn("run=false", output)
+
+    def test_manual_dispatch_always_proceeds(self):
+        r, output = self.run_gate("workflow_dispatch", {"generated_at": "invalid"})
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("run=true", output)
+        self.assertIn("slot=auto", output)
+
+
 class LocalScriptTests(unittest.TestCase):
     def run_script(self, now, slot):
         env = {k: v for k, v in os.environ.items() if k not in ("GITHUB_TOKEN", "GH_TOKEN")}
@@ -100,7 +192,7 @@ class WorkflowScheduleTests(unittest.TestCase):
         self.assertNotIn("0 16 * * *", self.wf)
 
     def test_la_guard_wired_and_steps_gated(self):
-        self.assertIn("tools/schedule_guard.py --tz America/Los_Angeles --hour 0", self.wf)
+        self.assertIn("tools/schedule_guard.py --tz America/Los_Angeles --daily-state data/stats.json", self.wf)
         self.assertEqual(self.wf.count("if: steps.gate.outputs.run == 'true'"), 4)  # install CLI, fetch, verify, commit
         self.assertNotIn("slot=cn", self.wf)  # scheduled production is pt only
         self.assertIn("slot=pt", self.wf)

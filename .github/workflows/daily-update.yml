@@ -1,11 +1,12 @@
 name: daily-update
 
 # Each run also stores its result under rankings/<date>/<slot>/ (history) and latest/.
-# Runs once a day at America/Los_Angeles 00:00 (follows DST).
+# Targets America/Los_Angeles 00:00 (follows DST); delayed runs catch up that local day.
 #   Los Angeles midnight: 07:00 UTC in PDT, 08:00 UTC in PST -> '0 7 * * *' and '0 8 * * *'
-# GitHub cron is UTC-only, so both entries fire and tools/schedule_guard.py lets only the
-# one that is actually 00:xx in America/Los_Angeles continue; the other one skips.
-# Scheduled workflows run from the default branch only. Runs can start a few minutes late.
+# GitHub cron is UTC-only, so both entries fire. The guard checks the committed data's
+# Los Angeles date rather than requiring execution during 00:xx: late jobs still refresh,
+# and the second trigger skips once that local day's data has been committed.
+# Scheduled workflows run from the default branch only and may start hours late.
 # If Actions is unavailable for the account, use tools/local_daily.sh (see docs/DAILY_UPDATE.md).
 on:
   schedule:
@@ -33,13 +34,17 @@ jobs:
         env:
           EVENT: ${{ github.event_name }}
         run: |
-          # Scheduled runs proceed only at Los Angeles midnight (history folder pt-0000).
+          # Scheduled runs catch up if this Los Angeles day has no committed refresh (pt-0000).
           # Manual dispatch always proceeds: auto -> pt if the clock is at LA midnight, else manual-HHMM.
           if [ "$EVENT" = "schedule" ]; then
-            if python3 tools/schedule_guard.py --tz America/Los_Angeles --hour 0; then
+            if python3 tools/schedule_guard.py --tz America/Los_Angeles --daily-state data/stats.json; then
               echo "run=true" >> "$GITHUB_OUTPUT"
               echo "slot=pt" >> "$GITHUB_OUTPUT"
             else
+              status=$?
+              if [ "$status" -ne 1 ]; then
+                exit "$status"
+              fi
               echo "run=false" >> "$GITHUB_OUTPUT"
             fi
           else

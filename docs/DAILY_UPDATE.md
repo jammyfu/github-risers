@@ -77,14 +77,25 @@ the Antigravity CLI (`tools/polish_local.sh`, or `tools/local_daily.sh`), never 
 | America/Los_Angeles 00:00, PDT (UTC-7) | 07:00 UTC | `0 7 * * *` |
 | America/Los_Angeles 00:00, PST (UTC-8) | 08:00 UTC | `0 8 * * *` |
 
-GitHub cron only knows UTC, so both LA entries fire every day. `tools/schedule_guard.py --tz America/Los_Angeles --hour 0`
-checks the real Los Angeles clock and lets only the one that is actually 00:xx there continue; the other run skips
-(you will see a green run whose steps are skipped). Tests cover PDT, PST, both 2026 DST changes (Mar 8, Nov 1) and
-assert that exactly one of the two LA slots passes on every day of the year (`tests/test_schedule.py`).
-Manual `workflow_dispatch` always runs.
+GitHub cron only knows UTC, so both LA entries fire every day. Actions uses
+`tools/schedule_guard.py --tz America/Los_Angeles --daily-state data/stats.json` to compare
+`generated_at` in the committed data with the current **Los Angeles calendar date**. If today's
+refresh is missing, it runs even hours after midnight. Once a refresh for that date is committed,
+the second trigger skips. A manual refresh on the same LA day also counts; manual
+`workflow_dispatch` itself always runs when requested.
 
-Caveat: GitHub may start scheduled runs several minutes late. A run delayed past the end of the 00:xx hour in Los Angeles
-would skip until the next day's slot. Use `workflow_dispatch` (or `tools/local_daily.sh`) if a day needs a manual refresh.
+The `daily-update` concurrency group serializes runs, and each job checks out current `main`
+before evaluating the gate. A failed fetch/verify/push does not advance the committed timestamp,
+so the next trigger can retry. Missing state permits an initial refresh; corrupt, timezone-less or
+future timestamps fail the job instead of appearing as a successful skip. Regression tests execute
+the real gate shell with stale/current/invalid state and cover PST, PDT, and both DST transitions.
+Local `--slot la` retains its hour-based guard; this change is for delayed GitHub Actions runs.
+
+The cron times are targets, not guaranteed start times. On 2026-11-06 both jobs started roughly
+seven hours late and the old hour-only guard skipped all data steps. Delayed runs now use their
+actual execution day's `pt-0000` archive slot and record the real `generated_at`; no historical
+counts or missed-day snapshots are invented. If GitHub drops both triggers entirely, use
+`workflow_dispatch` (or `tools/local_daily.sh`) for a manual refresh.
 
 ## Option A: GitHub Actions (preferred when it runs)
 

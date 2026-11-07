@@ -78,3 +78,13 @@
 - Added FAQ q4/q5 (compute; use/contribute) linking existing GEO FAQ anchors; footer links `CONTRIBUTING.md`.
 - Test: templates contain no `YYYY-MM-DD`; rendered stamp follows `generated_at`; badge URL has no baked date.
 - Verification: `python3 tools/verify.py` green (202 tests).
+
+
+## 2026-11-07 — delayed schedule recovery (PLAN-006)
+
+- Runs 42235915488 and 42243101773 were green but skipped fetch/verify/commit: runner times were 14:39/15:26 UTC, outside the old LA 00:xx gate. Main data had last refreshed on 2026-11-04.
+- Production workflow run [42373937914](https://github.com/jammyfu/github-risers/actions/runs/42373937914) succeeded, committing `2656f40` with data generated at 2026-11-07T12:46:19Z. All 70 projects and seven newcomer categories fetched successfully; `latest/stats.json` matches `data/stats.json`, and daily verification reported zero data warnings. No generated data is hand-edited or backfilled here.
+- Added a committed-data local-date gate for Actions, same-day deduplication, visible state errors, and real CLI/shell regression tests. Manual dispatch and local-hour mode are unchanged.
+- Baseline: full verification passed with 222 tests. Observed the late-workflow regression fail (`run=false` instead of `run=true`) before implementation. Final full verification passed with 231 tests; `verify.py --daily` passed for all 70 committed projects with no data warnings; `next_plan.py --check` and `git diff --check` passed.
+- Independent code review found no actionable issues; all 21 schedule tests also passed independently. A full-year simulation of both cron triggers delayed seven hours produced exactly one refresh per LA day on all 365 days of 2026.
+- Next: owner review/approval of the draft code PR, then verify an unattended delayed scheduled update and same-day duplicate skip. No merge to main is performed in this round.
