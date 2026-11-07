@@ -103,7 +103,9 @@
 - README already said daily with no timezone; GitHub About still says twice a day. Public `llms.txt` and `CITATION.cff` were still on the old twice-daily wording and were aligned to daily without clocks.
 - First screen now leads with live boards and a three-step quick use. Star-history SVGs remain in every README, folded under `<details>`. No ranking data, workflows, or star numbers were hand-edited.
 - Added `docs/github-profile-draft.md` (Chinese and English) for a future `jammyfu/jammyfu` profile. It lists only verified public projects and URLs, and states that the profile is not published.
-- Next: `python3 tools/verify.py`, then an unmerged PR. GitHub About remains an owner settings change.
+- Verification: `python3 tools/verify.py` green (233 tests); `python3 tools/verify.py --daily` and `python3 tools/next_plan.py --check` green.
+- Unmerged PR: https://github.com/jammyfu/github-risers/pull/21
+- `jammyfu/open-game-skills` and `jammyfu/MagMark` README first-screen edits exist on local branches only. `git push` returned 403 (`Permission to jammyfu/<repo>.git denied to cursor[bot]`). ManagePullRequest is this repository only; no substitute API was used. GitHub About remains an owner settings change.
 
 ## 2026-11-07 — complete current ranking translations (PLAN-007)
 

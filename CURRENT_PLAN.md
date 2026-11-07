@@ -31,7 +31,7 @@ Make the public GitHub first screen easier for visitors to understand, open the 
 - [x] Add `docs/github-profile-draft.md` (Chinese and English; verified public projects only)
 - [x] Align leftover public twice-daily wording in `llms.txt` and `CITATION.cff`
 - [x] Run `python3 tools/verify.py` and `python3 tools/next_plan.py --check`
-- [ ] Open an unmerged pull request
+- [x] Open an unmerged pull request (https://github.com/jammyfu/github-risers/pull/21; not merged)
 
 ## Verification
 
