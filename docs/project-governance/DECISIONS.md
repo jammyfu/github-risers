@@ -105,9 +105,9 @@
 ## 2026-11-07 — public first screen vs GitHub About cadence
 
 - Public README, FAQ, FACTS, HOW_IT_WORKS, Pages, `llms.txt` and `CITATION.cff` say the boards update daily and do not name a timezone or time slot. Operator clocks stay in `docs/DAILY_UPDATE.md`.
-- The GitHub repository About description still says `updated twice a day`. That field is not in git; the owner changes it in GitHub Settings. Suggested text is recorded in `docs/github-profile-draft.md`.
+- The GitHub About description is not in git. The owner has already set it to daily; this repository does not change that field.
 - README ranking tables show numbers first. Star-history SVGs stay in the file, folded in `<details>`, so the first screen stays scannable without dropping the existing chart contract.
-- `docs/github-profile-draft.md` is a draft for a future `jammyfu/jammyfu` profile README. It is not a published homepage.
+- `docs/github-profile-draft.md` is an unpublished draft for a `jammyfu/jammyfu` profile README. A failed fetch does not prove the profile repository is missing; existence and access have not been independently verified here.
 
 ## 2026-11-07 — translation completion is separate from data freshness
 

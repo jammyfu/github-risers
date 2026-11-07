@@ -1,6 +1,10 @@
 # GitHub profile README draft (not published)
 
-This file is a bilingual draft for a future `jammyfu/jammyfu` profile README. It is **not** live. The profile repository `https://github.com/jammyfu/jammyfu` does not exist at the time of writing, and copying this text into GitHub Risers does not publish a homepage.
+This file is a bilingual draft for a `jammyfu/jammyfu` profile README. It is **not** live. Copying this text into GitHub Risers does not publish a homepage.
+
+个人主页仓的存在性与访问权限尚未独立核实；本文件仅为未发布草案。
+
+The existence and access of the profile repository have not been independently verified; this file is an unpublished draft only.
 
 Do not treat the copy below as a live profile, a usage report, or a list of private work. Only public repositories and public URLs already verified on GitHub / the open web are listed. No star counts, traffic numbers, trophies, or invented background.
 
@@ -8,9 +12,7 @@ Do not treat the copy below as a live profile, a usage report, or a list of priv
 
 GitHub Risers **README / FAQ / FACTS** already say the boards update **daily**, without naming a timezone or time slot. Operator clocks stay in `docs/DAILY_UPDATE.md`.
 
-The GitHub repository **About** description still says `updated twice a day`. That field is not stored in this repo. Suggested replacement (owner edits it in GitHub Settings → General → Description):
-
-`GitHub 涨星榜 | GitHub trending ranked by star growth, not total stars. AI first, updated daily.`
+The GitHub **About** description is repository settings, not stored in this repo. The owner has already set it to updated daily. This draft does not change it.
 
 ---
 

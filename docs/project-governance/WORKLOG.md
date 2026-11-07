@@ -100,12 +100,13 @@
 
 ## 2026-11-07 — public first screen and profile draft (PLAN-008)
 
-- README already said daily with no timezone; GitHub About still says twice a day. Public `llms.txt` and `CITATION.cff` were still on the old twice-daily wording and were aligned to daily without clocks.
+- README already said daily with no timezone. Public `llms.txt` and `CITATION.cff` were still on the old twice-daily wording and were aligned to daily without clocks. The owner later set GitHub About to daily; this repo does not edit that field.
 - First screen now leads with live boards and a three-step quick use. Star-history SVGs remain in every README, folded under `<details>`. No ranking data, workflows, or star numbers were hand-edited.
-- Added `docs/github-profile-draft.md` (Chinese and English) for a future `jammyfu/jammyfu` profile. It lists only verified public projects and URLs, and states that the profile is not published.
+- Added `docs/github-profile-draft.md` (Chinese and English) for a `jammyfu/jammyfu` profile. It lists only verified public projects and URLs. A failed fetch is not proof the profile repo is missing; the draft now says existence and access were not independently verified, and that the file is unpublished.
 - Verification: `python3 tools/verify.py` green (233 tests); `python3 tools/verify.py --daily` and `python3 tools/next_plan.py --check` green.
 - Unmerged PR: https://github.com/jammyfu/github-risers/pull/21
 - `jammyfu/open-game-skills` and `jammyfu/MagMark` README first-screen edits exist on local branches only. `git push` returned 403 (`Permission to jammyfu/<repo>.git denied to cursor[bot]`). ManagePullRequest is this repository only; no substitute API was used. GitHub About remains an owner settings change.
+- Correction on the same PR: `docs/github-profile-draft.md` no longer asserts that `jammyfu/jammyfu` does not exist. A failed fetch is not proof of absence. The draft now says existence and access were not independently verified, and that the file is unpublished. About was already set to daily by the owner.
 
 ## 2026-11-07 — complete current ranking translations (PLAN-007)
 

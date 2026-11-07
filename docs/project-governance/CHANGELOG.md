@@ -4,8 +4,8 @@
 
 - README first screen now states the value, the live-board URL, and three quick-use steps before the category leaders.
 - Star-history charts on README boards are folded; ranking tables keep the numbers. Full top 20 remains in `latest/`.
-- `llms.txt` and `CITATION.cff` now say daily, matching FAQ/FACTS/README. GitHub About still needs an owner edit in repository settings.
-- Added `docs/github-profile-draft.md` as an unpublished bilingual draft for a future profile README.
+- `llms.txt` and `CITATION.cff` now say daily, matching FAQ/FACTS/README. GitHub About is owner-managed and already daily.
+- Added `docs/github-profile-draft.md` as an unpublished bilingual draft for a profile README. It does not assert that `jammyfu/jammyfu` is missing. GitHub About is owner-managed and already daily.
 
 ## 2026-11-07 (complete current translations)
 

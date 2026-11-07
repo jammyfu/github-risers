@@ -12,7 +12,7 @@ Make the public GitHub first screen easier for visitors to understand, open the 
 
 - Generated README first-screen copy via `tools/i18n.py` and `tools/render_readme.py`
 - Folded star-history charts on README boards
-- `docs/github-profile-draft.md` for a future `jammyfu/jammyfu` profile
+- `docs/github-profile-draft.md` unpublished draft for a `jammyfu/jammyfu` profile
 - Public cadence wording in `llms.txt`, `docs/llms.txt`, and `CITATION.cff`
 - Tests and governance records for those copy changes
 
@@ -26,7 +26,7 @@ Make the public GitHub first screen easier for visitors to understand, open the 
 
 ## Tasks
 
-- [x] Confirm README vs About cadence: README stays daily without clocks; record that About still says twice a day
+- [x] Confirm README vs About cadence: README stays daily without clocks; About is owner-managed and already daily
 - [x] First screen: clear value, live-board entry, quick use; fold README star-history charts
 - [x] Add `docs/github-profile-draft.md` (Chinese and English; verified public projects only)
 - [x] Align leftover public twice-daily wording in `llms.txt` and `CITATION.cff`
@@ -40,6 +40,6 @@ Make the public GitHub first screen easier for visitors to understand, open the 
 
 ## Next Candidates
 
-- Owner updates the GitHub About description in repository settings
-- Owner may copy `docs/github-profile-draft.md` into `jammyfu/jammyfu` if that profile repository is created
+- Owner may copy `docs/github-profile-draft.md` into `jammyfu/jammyfu` if they choose to publish it
 - Observe the next unattended daily update after any authorized merge
+- Do not treat a failed profile-repo fetch as proof that the repository is missing

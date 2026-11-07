@@ -330,6 +330,9 @@ class SlimReadmeTests(unittest.TestCase):
         text = (ROOT / "docs/github-profile-draft.md").read_text("utf-8")
         self.assertIn("not published", text.lower())
         self.assertIn("jammyfu/jammyfu", text)
+        self.assertIn("个人主页仓的存在性与访问权限尚未独立核实；本文件仅为未发布草案。", text)
+        self.assertIn("have not been independently verified", text)
+        self.assertNotIn("does not exist", text.lower())
         for url in (
             "https://github.com/jammyfu/open-game-skills",
             "https://github.com/jammyfu/github-risers",
@@ -348,8 +351,8 @@ class SlimReadmeTests(unittest.TestCase):
             "KartBox", "Tallyo", "agriprice-lens",
         ):
             self.assertNotIn(gone, text)
-        self.assertRegex(text, r"updated twice a day")
         self.assertIn("updated daily", text)
+        self.assertNotIn("updated twice a day", text)
 
 
 class ZeroTelemetryTests(unittest.TestCase):

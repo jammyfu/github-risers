@@ -15,8 +15,8 @@
 
 ## Later
 
-- [ ] Owner can copy `docs/github-profile-draft.md` into `jammyfu/jammyfu` if that profile repository is created
-- [ ] Owner can set the GitHub About description to daily (it still says twice a day)
+- [ ] Owner can copy `docs/github-profile-draft.md` into `jammyfu/jammyfu` if they choose to publish it
+- [x] Owner set the GitHub About description to daily
 - [ ] Candidate discovery for tracked projects with owner approval
 
 ## Risks / Blockers
