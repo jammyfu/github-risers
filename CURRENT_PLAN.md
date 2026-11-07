@@ -2,38 +2,41 @@
 
 ## Plan ID
 
-PLAN-005
+PLAN-006
 
 ## Goal
 
-Production ranking updates run once a day at America/Los_Angeles midnight; public README copy only says it updates daily, with no cron clocks or dual Beijing+PT schedule.
+Recover the stale ranking data and let delayed GitHub schedule runs catch up once per Los Angeles calendar day without duplicate refreshes, with consistent daily-update copy on both public landing pages.
 
 ## In Scope
 
-- `.github/workflows/daily-update.yml`, `tools/schedule_guard.py` wiring, `docs/launchd/`, `tools/local_daily.sh`, `tools/mac_i18n_cron.sh`, `tools/com.jammyfu.risers-i18n.plist`
-- Public copy in `tools/i18n.py` (stamp / a3 / schedule / tagline), `docs/FAQ.md`, `docs/FACTS.md`; operator details in `docs/DAILY_UPDATE.md`
-- Tests in `tests/test_schedule.py`, `tests/test_spam.py`, `tests/test_repo.py`; governance files
+- `tools/schedule_guard.py`, `.github/workflows/daily-update.yml`, `tests/test_schedule.py`
+- `docs/DAILY_UPDATE.md`, English/Simplified Chinese Pages copy, and project governance records
+- Owner-authorized merge of PR #19 and deployment verification
+- Manual execution and verification of the existing production data workflow
 
 ## Out of Scope
 
-- Ranking logic, star-data fetch, translation pipeline, deleting historical `cn-0000` snapshots, merging to `main`
+- Ranking calculations, generated data edits, translations, cron frequency, local launchd settings
 
 ## Tasks
 
-- [x] Drop the Beijing cron from `daily-update.yml`; keep the two LA UTC crons with `schedule_guard.py`, slot `pt`
-- [x] Align local fallback (launchd / cron docs / i18n Mac job) to once daily after US midnight
-- [x] Change README / HOW_IT_WORKS strings so readers only see daily update / 每天更新, not clocks
-- [x] Update FAQ, FACTS, operator docs and tests that pinned twice-daily / Beijing 00:00
-- [x] Re-render generated pages; `python3 tools/verify.py` and `python3 tools/next_plan.py --check` pass
-- [x] Open a PR; do not merge
+- [x] Diagnose skipped schedule runs and start the existing manual data update
+- [x] Add regression tests for late runs, same-day deduplication, DST, invalid state and workflow error propagation
+- [x] Gate scheduled refreshes on the committed data's Los Angeles date, preserving manual dispatch and local-hour mode
+- [x] Run full verification and document operator behavior and follow-up
+- [x] Verify production refresh run 42373937914 and committed data at `2656f40`
+- [x] Correct both Pages descriptions and metadata; verify the final PR head
+- [ ] Verify the first unattended schedule run after the authorized merge; confirm no same-day duplicate
 
 ## Verification
 
 - `python3 tools/verify.py`
+- `python3 tools/verify.py --daily`
 - `python3 tools/next_plan.py --check`
 
 ## Next Candidates
 
-- After merge, confirm the next scheduled `daily-update` run writes `rankings/<date>/pt-0000/`
-- Thin Developer Tools / Design / Data new-repo boards: see `TODO_BACKLOG.md`
-- Acceleration column (this week vs the week before)
+- After owner-approved merge, verify a delayed scheduled run publishes data and the second trigger skips
+- Monitor Pages freshness separately from the data workflow if the bot commit does not trigger deployment
+- Thin newcomer boards and acceleration column remain in `TODO_BACKLOG.md`

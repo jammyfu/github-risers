@@ -1,18 +1,24 @@
 #!/usr/bin/env python3
-"""Exit 0 when the current local hour in a time zone equals --hour, else exit 1.
+"""Gate refreshes by local hour (local fallback) or by last successful data date (Actions).
 
-Why: GitHub cron is UTC-only. America/Los_Angeles midnight is 07:00 UTC during PDT and 08:00 UTC
-during PST, so the workflow schedules both and this guard lets exactly one of them proceed.
+Actions can start hours late. --daily-state compares generated_at from the committed data
+with the current date in --tz; only a successful refresh on that local date suppresses it.
+The two UTC cron entries still target LA midnight across DST. Workflow concurrency and
+checkout of current main ensure a later trigger observes the earlier committed refresh.
 
+  python3 tools/schedule_guard.py --tz America/Los_Angeles --daily-state data/stats.json
   python3 tools/schedule_guard.py --tz America/Los_Angeles --hour 0
-  python3 tools/schedule_guard.py --tz America/Los_Angeles --hour 0 --now 2026-11-02T08:00:00Z   # for tests
+
+Exit codes: 0 = run, 1 = intentional skip, 2 = invalid state/configuration.
 """
 from __future__ import annotations
 
 import argparse
 import datetime as dt
+import json
 import os
 import sys
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 
@@ -29,18 +35,52 @@ def is_local_hour(now_utc: dt.datetime, tz: str, hour: int) -> bool:
 def parse_now(value: str | None) -> dt.datetime:
     if not value:
         return dt.datetime.now(dt.timezone.utc)
-    return dt.datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(dt.timezone.utc)
+    parsed = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+    if parsed.tzinfo is None:
+        raise ValueError("timestamp must include a timezone")
+    return parsed.astimezone(dt.timezone.utc)
+
+
+def daily_update_due(now_utc: dt.datetime, tz: str, state_path: Path) -> bool:
+    if now_utc.tzinfo is None:
+        raise ValueError("now_utc must be timezone-aware")
+    zone = ZoneInfo(tz)
+    try:
+        state = json.loads(state_path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return True
+    generated = state["generated_at"]
+    if not isinstance(generated, str) or not generated:
+        raise ValueError("generated_at must be a nonempty timezone-aware timestamp")
+    previous = parse_now(generated)
+    if previous > now_utc:
+        raise ValueError("generated_at is in the future")
+    return previous.astimezone(zone).date() < now_utc.astimezone(zone).date()
 
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--tz", required=True)
-    ap.add_argument("--hour", type=int, required=True)
+    mode = ap.add_mutually_exclusive_group(required=True)
+    mode.add_argument("--hour", type=int)
+    mode.add_argument("--daily-state", type=Path, help="committed stats.json used for once-per-local-day refresh")
     ap.add_argument("--now", default=os.environ.get("ATLAS_NOW_UTC"),
                     help="override current time (ISO 8601, UTC); also read from ATLAS_NOW_UTC")
     args = ap.parse_args(argv)
-    now = parse_now(args.now)
-    h = local_hour(now, args.tz)
+    try:
+        now = parse_now(args.now)
+        if args.daily_state is not None:
+            due = daily_update_due(now, args.tz, args.daily_state)
+            day = now.astimezone(ZoneInfo(args.tz)).date()
+            if due:
+                print(f"run: no committed refresh for {day} in {args.tz}; late runs may catch up")
+                return 0
+            print(f"skip: committed data already refreshed on {day} in {args.tz}")
+            return 1
+        h = local_hour(now, args.tz)
+    except (ValueError, TypeError, KeyError, OSError) as exc:
+        print(f"error: cannot decide refresh: {exc}", file=sys.stderr)
+        return 2
     if h == args.hour:
         print(f"run: {now:%Y-%m-%d %H:%M}Z is {args.hour:02d}:xx in {args.tz}")
         return 0

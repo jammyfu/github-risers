@@ -29,3 +29,10 @@
 - `CURRENT_PLAN.md` passes `python3 tools/next_plan.py --check` (one Plan ID, one Goal, 3-7 tasks, Out of Scope, Verification, Next Candidates)
 - `tools/verify.py` and `tools/local_daily.sh` do not depend on the shell PATH or `shell=True` (`tests/test_harness.py`)
 - The harness files from `continuous-project-loop` exist and `AGENTS.md` names the two CoderSkills skills
+
+
+## Delayed daily schedules
+
+- A scheduled run delayed beyond midnight refreshes when no data is committed for its current Los Angeles day.
+- A second trigger on the same LA day skips after a successful commit, including across UTC date and DST boundaries.
+- Bad/future scheduling state produces a failed job, not a green skip; manual dispatch stays unconditional.
