@@ -1,6 +1,6 @@
-# Rankings snapshot: Beijing 00:00, 2026-11-05
+# Rankings snapshot: Manual 12:46 UTC, 2026-11-07
 
-Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window end: 2026-11-04 UTC). Top 20.
+Slot `manual-1246`. Data fetched from the GitHub API at 2026-11-07T12:46:19Z (window end: 2026-11-07 UTC). Top 20.
 
 ## AI
 
@@ -8,126 +8,126 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Repo | Created (UTC) | Stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 2026-11-03 | 2,398 | 1,527.7 |
-| 2 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 2026-10-29 | 6,596 | 1,047.4 |
-| 3 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 2026-11-01 | 1,738 | 473.3 |
-| 4 | [Balanov/uncut](https://github.com/Balanov/uncut) | 2026-11-01 | 600 | 188.5 |
-| 5 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 2026-10-29 | 1,170 | 176.2 |
-| 6 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 2026-11-02 | 408 | 162.3 |
-| 7 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 2026-10-30 | 798 | 151.4 |
-| 8 | [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | 2026-10-29 | 860 | 138.1 |
-| 9 | [Balanov/skein](https://github.com/Balanov/skein) | 2026-11-02 | 263 | 137.9 |
-| 10 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 2026-10-31 | 571 | 119.9 |
-| 11 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 2026-10-29 | 715 | 114.2 |
-| 12 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | 2026-10-30 | 646 | 113.7 |
-| 13 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | 2026-11-01 | 334 | 100.0 |
-| 14 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 2026-11-01 | 374 | 98.8 |
-| 15 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | 2026-10-29 | 527 | 81.6 |
-| 16 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 2026-10-30 | 393 | 74.9 |
-| 17 | [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | 2026-11-02 | 176 | 70.8 |
-| 18 | [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | 2026-10-30 | 336 | 61.7 |
-| 19 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | 2026-10-31 | 279 | 60.9 |
-| 20 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | 2026-10-31 | 244 | 53.8 |
+| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 2026-11-03 | 3,873 | 922.7 |
+| 2 | [voyager-so/vork](https://github.com/voyager-so/vork) | 2026-11-05 | 638 | 401.3 |
+| 3 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | 2026-11-06 | 427 | 336.0 |
+| 4 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 2026-11-01 | 2,024 | 321.3 |
+| 5 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 2026-11-05 | 453 | 237.9 |
+| 6 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 2026-11-03 | 934 | 223.3 |
+| 7 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 2026-11-05 | 249 | 147.1 |
+| 8 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 2026-11-06 | 137 | 137.0 |
+| 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 2026-11-07 | 107 | 107.0 |
+| 10 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 2026-11-02 | 466 | 90.6 |
+| 11 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | 2026-11-05 | 196 | 79.2 |
+| 12 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | 2026-11-01 | 447 | 74.9 |
+| 13 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 2026-11-01 | 462 | 72.1 |
+| 14 | [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills) | 2026-11-01 | 344 | 54.0 |
+| 15 | [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | 2026-11-05 | 117 | 47.1 |
+| 16 | [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) | 2026-11-01 | 276 | 46.7 |
+| 17 | [orkbot-run/ork](https://github.com/orkbot-run/ork) | 2026-11-04 | 123 | 45.5 |
+| 18 | [Balanov/uncut](https://github.com/Balanov/uncut) | 2026-11-01 | 254 | 43.7 |
+| 19 | [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) | 2026-11-04 | 106 | 39.1 |
+| 20 | [Toyhom/awesome-computational-character-modeling](https://github.com/Toyhom/awesome-computational-character-modeling) | 2026-11-02 | 198 | 36.4 |
 
 ### Fastest rising this week (last 7 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | +30,249 | 4,321.3 | 430,567 |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +8,615 | 1,230.7 | 112,745 |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +7,917 | 1,131.0 | 59,126 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +7,911 | 1,130.1 | 272,453 |
-| 5 | [stablyai/orca](https://github.com/stablyai/orca) | +6,729 | 961.3 | 115,377 |
-| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +5,952 | 850.3 | 109,992 |
-| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +5,896 | 842.3 | 297,183 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +5,768 | 824.0 | 184,476 |
-| 9 | [yetone/magpie](https://github.com/yetone/magpie) | +5,420 | 774.3 | 29,713 |
-| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +4,990 | 712.9 | 142,377 |
-| 11 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +4,477 | 639.6 | 78,874 |
-| 12 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +3,531 | 504.4 | 108,780 |
-| 13 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +3,332 | 476.0 | 145,185 |
-| 14 | [anthropics/skills](https://github.com/anthropics/skills) | +3,004 | 429.1 | 187,391 |
-| 15 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +2,908 | 415.4 | 111,079 |
-| 16 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +2,743 | 391.9 | 260,536 |
-| 17 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +2,536 | 362.3 | 84,535 |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +2,332 | 333.1 | 151,819 |
-| 19 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +2,233 | 319.0 | 224,582 |
-| 20 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +1,985 | 283.6 | 113,262 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | +26,494 | 3,784.9 | 439,541 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +10,230 | 1,461.4 | 64,844 |
+| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +8,653 | 1,236.1 | 275,423 |
+| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +7,647 | 1,092.4 | 114,234 |
+| 5 | [stablyai/orca](https://github.com/stablyai/orca) | +6,959 | 994.1 | 118,209 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +5,510 | 787.1 | 298,872 |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +5,125 | 732.1 | 186,120 |
+| 8 | [yetone/magpie](https://github.com/yetone/magpie) | +5,087 | 726.7 | 31,597 |
+| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +4,969 | 709.9 | 111,422 |
+| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +4,212 | 601.7 | 143,765 |
+| 11 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +4,147 | 592.4 | 80,322 |
+| 12 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +3,308 | 472.6 | 146,367 |
+| 13 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +2,973 | 424.7 | 109,858 |
+| 14 | [anthropics/skills](https://github.com/anthropics/skills) | +2,884 | 412.0 | 188,365 |
+| 15 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +2,880 | 411.4 | 111,884 |
+| 16 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +2,648 | 378.3 | 261,362 |
+| 17 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +2,419 | 345.6 | 85,310 |
+| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +2,193 | 313.3 | 152,528 |
+| 19 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +2,017 | 288.1 | 225,176 |
+| 20 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +1,846 | 263.7 | 113,823 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | +425,294 | 14,176.5 | 430,567 |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +34,178 | 1,139.3 | 59,126 |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | +30,287 | 1,009.6 | 115,377 |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +29,866 | 995.5 | 184,476 |
-| 5 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +29,609 | 987.0 | 272,453 |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +25,205 | 840.2 | 297,183 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +24,512 | 817.1 | 29,713 |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +21,988 | 732.9 | 78,874 |
-| 9 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +18,964 | 632.1 | 142,377 |
-| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +17,879 | 596.0 | 108,780 |
-| 11 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +17,554 | 585.1 | 109,992 |
-| 12 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +16,509 | 550.3 | 112,745 |
-| 13 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +14,036 | 467.9 | 111,079 |
-| 14 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +13,939 | 464.6 | 224,582 |
-| 15 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +12,620 | 420.7 | 151,819 |
-| 16 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +12,566 | 418.9 | 145,185 |
-| 17 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +12,269 | 409.0 | 113,262 |
-| 18 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +11,837 | 394.6 | 84,535 |
-| 19 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +10,346 | 344.9 | 260,536 |
-| 20 | [anthropics/skills](https://github.com/anthropics/skills) | +8,256 | 275.2 | 187,391 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | +421,747 | 14,058.2 | 439,541 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +38,501 | 1,283.4 | 64,844 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | +31,348 | 1,044.9 | 118,209 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +31,273 | 1,042.4 | 275,423 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +29,248 | 974.9 | 186,120 |
+| 6 | [yetone/magpie](https://github.com/yetone/magpie) | +25,289 | 843.0 | 31,597 |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +25,236 | 841.2 | 298,872 |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +21,836 | 727.9 | 80,322 |
+| 9 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +19,728 | 657.6 | 143,765 |
+| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +18,258 | 608.6 | 111,422 |
+| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +16,757 | 558.6 | 114,234 |
+| 12 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +16,687 | 556.2 | 109,858 |
+| 13 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +14,169 | 472.3 | 225,176 |
+| 14 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +13,659 | 455.3 | 111,884 |
+| 15 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +13,156 | 438.5 | 146,367 |
+| 16 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +12,337 | 411.2 | 152,528 |
+| 17 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +11,748 | 391.6 | 85,310 |
+| 18 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +11,209 | 373.6 | 113,823 |
+| 19 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +10,570 | 352.3 | 261,362 |
+| 20 | [anthropics/skills](https://github.com/anthropics/skills) | +8,894 | 296.5 | 188,365 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +271,643 | 3,272.8 † (÷83d) | 272,453 |
-| 2 | [morluto/rea](https://github.com/morluto/rea) | +428,259 | 2,099.3 † (÷204d) | 430,567 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +183,956 | 1,268.7 † (÷145d) | 184,476 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +393,830 | 1,141.5 † (÷345d) | 393,916 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +296,703 | 1,023.1 † (÷290d) | 297,183 |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +260,301 | 713.2 | 260,536 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +29,358 | 699.0 † (÷42d) | 29,713 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +141,989 | 660.4 † (÷215d) | 142,377 |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +194,584 | 533.1 | 224,582 |
-| 10 | [stablyai/orca](https://github.com/stablyai/orca) | +114,808 | 494.9 † (÷232d) | 115,377 |
-| 11 | [anthropics/skills](https://github.com/anthropics/skills) | +172,361 | 472.2 | 187,391 |
-| 12 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +110,905 | 449.0 † (÷247d) | 111,079 |
-| 13 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +113,104 | 431.7 † (÷262d) | 113,262 |
-| 14 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +108,531 | 429.0 † (÷253d) | 108,780 |
-| 15 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +144,903 | 427.4 † (÷339d) | 145,185 |
-| 16 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +109,677 | 425.1 † (÷258d) | 109,992 |
-| 17 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +58,403 | 420.2 † (÷139d) | 59,126 |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +148,779 | 407.6 | 151,819 |
-| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +78,527 | 328.6 † (÷239d) | 78,874 |
-| 20 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +84,355 | 319.5 † (÷264d) | 84,535 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +275,200 | 3,200.0 † (÷86d) | 275,423 |
+| 2 | [morluto/rea](https://github.com/morluto/rea) | +438,859 | 2,120.1 † (÷207d) | 439,541 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +185,998 | 1,256.7 † (÷148d) | 186,120 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +394,082 | 1,132.4 † (÷348d) | 394,104 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +298,729 | 1,019.6 † (÷293d) | 298,872 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +261,277 | 715.8 | 261,362 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +31,451 | 698.9 † (÷45d) | 31,597 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +143,665 | 659.0 † (÷218d) | 143,765 |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +194,589 | 533.1 | 225,176 |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | +118,020 | 502.2 † (÷235d) | 118,209 |
+| 11 | [anthropics/skills](https://github.com/anthropics/skills) | +173,016 | 474.0 | 188,365 |
+| 12 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +64,514 | 454.3 † (÷142d) | 64,844 |
+| 13 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +111,817 | 447.3 † (÷250d) | 111,884 |
+| 14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +113,782 | 429.4 † (÷265d) | 113,823 |
+| 15 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +109,775 | 428.8 † (÷256d) | 109,858 |
+| 16 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +146,286 | 427.7 † (÷342d) | 146,367 |
+| 17 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +111,328 | 426.5 † (÷261d) | 111,422 |
+| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +149,386 | 409.3 | 152,528 |
+| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +80,217 | 331.5 † (÷242d) | 80,322 |
+| 20 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +85,237 | 319.2 † (÷267d) | 85,310 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 430,567 |
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 393,916 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 297,183 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 272,453 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 260,536 |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 224,582 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills) | 187,391 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 184,476 |
-| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 151,819 |
-| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 145,185 |
-| 11 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 142,377 |
-| 12 | [stablyai/orca](https://github.com/stablyai/orca) | 115,377 |
-| 13 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 113,262 |
-| 14 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 112,745 |
-| 15 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 111,079 |
-| 16 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 109,992 |
-| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 108,780 |
-| 18 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 84,535 |
-| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 78,874 |
-| 20 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 59,126 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 439,541 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 394,104 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 298,872 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 275,423 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 261,362 |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 225,176 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | 188,365 |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 186,120 |
+| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 152,528 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 146,367 |
+| 11 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 143,765 |
+| 12 | [stablyai/orca](https://github.com/stablyai/orca) | 118,209 |
+| 13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 114,234 |
+| 14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 113,823 |
+| 15 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 111,884 |
+| 16 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 111,422 |
+| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 109,858 |
+| 18 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 85,310 |
+| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 80,322 |
+| 20 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 64,844 |
 
 ## Developer Tools
 
@@ -135,80 +135,78 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Repo | Created (UTC) | Stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2026-11-03 | 1,437 | 814.8 |
-| 2 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 2026-10-31 | 2,003 | 500.1 |
-| 3 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | 2026-11-02 | 744 | 258.7 |
-| 4 | [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) | 2026-11-01 | 672 | 221.5 |
-| 5 | [ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper) | 2026-11-04 | 163 | 163.0 |
-| 6 | [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 2026-10-30 | 200 | 39.8 |
-| 7 | [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 2026-10-28 | 270 | 38.7 |
-| 8 | [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 2026-10-29 | 240 | 36.5 |
-| 9 | [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 2026-10-30 | 163 | 32.6 |
-| 10 | [4yk5/Ghostman](https://github.com/4yk5/Ghostman) | 2026-10-30 | 110 | 19.7 |
-| 11 | [DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker) ⚠ | 2026-11-04 | 301 | 301.0 |
-| 12 | [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 13 | [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 14 | [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 15 | [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 16 | [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 17 | [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 18 | [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) ⚠ | 2026-11-04 | 300 | 300.0 |
-| 19 | [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) ⚠ | 2026-11-04 | 295 | 295.0 |
-| 20 | [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) ⚠ | 2026-11-02 | 300 | 121.1 |
-
-⚠ = suspected cracked / pirated / activator repo (matched by name or description rules in [docs/CATEGORIES.md](docs/CATEGORIES.md)). These are still listed, but always ranked after every normal repo and never shown as a category leader.
+| 1 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2026-11-03 | 2,206 | 502.4 |
+| 2 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 2026-10-31 | 2,842 | 428.5 |
+| 3 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | 2026-11-06 | 296 | 238.9 |
+| 4 | [MetalHairdresser/slideshow-video-maker](https://github.com/MetalHairdresser/slideshow-video-maker) | 2026-11-06 | 221 | 221.0 |
+| 5 | [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) | 2026-11-06 | 221 | 221.0 |
+| 6 | [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) | 2026-11-06 | 220 | 220.0 |
+| 7 | [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) | 2026-11-06 | 220 | 220.0 |
+| 8 | [FloorFlameDone/androidunlocker](https://github.com/FloorFlameDone/androidunlocker) | 2026-11-06 | 220 | 220.0 |
+| 9 | [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) | 2026-11-06 | 220 | 220.0 |
+| 10 | [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) | 2026-11-06 | 220 | 220.0 |
+| 11 | [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) | 2026-11-06 | 220 | 220.0 |
+| 12 | [KnitGnatConduit/ios-unlocker](https://github.com/KnitGnatConduit/ios-unlocker) | 2026-11-06 | 220 | 220.0 |
+| 13 | [lavagunsmithmystery/metatrader-5-bot](https://github.com/lavagunsmithmystery/metatrader-5-bot) | 2026-11-06 | 220 | 220.0 |
+| 14 | [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) | 2026-11-06 | 220 | 220.0 |
+| 15 | [naturemidwifedream/uttorent](https://github.com/naturemidwifedream/uttorent) | 2026-11-06 | 220 | 220.0 |
+| 16 | [hairwayrefresh/drfoneunlock](https://github.com/hairwayrefresh/drfoneunlock) | 2026-11-06 | 219 | 219.0 |
+| 17 | [HalberdierTackle/discord-server-raider](https://github.com/HalberdierTackle/discord-server-raider) | 2026-11-06 | 217 | 217.0 |
+| 18 | [MessengerCheer/scrcpy](https://github.com/MessengerCheer/scrcpy) | 2026-11-06 | 217 | 217.0 |
+| 19 | [MuseumCuckoo/unlocktool](https://github.com/MuseumCuckoo/unlocktool) | 2026-11-06 | 217 | 217.0 |
+| 20 | [NoonBrokerRevere97/wondshare-recoverit](https://github.com/NoonBrokerRevere97/wondshare-recoverit) | 2026-11-06 | 217 | 217.0 |
 
 ### Fastest rising this week (last 7 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +404 | 57.7 | 92,690 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +321 | 45.9 | 91,543 |
-| 3 | [jdx/mise](https://github.com/jdx/mise) | +283 | 40.4 | 35,772 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +217 | 31.0 | 69,699 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +133 | 19.0 | 96,546 |
-| 6 | [cli/cli](https://github.com/cli/cli) | +99 | 14.1 | 46,873 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix) | +96 | 13.7 | 46,784 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +42 | 6.0 | 26,049 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +1,521 | 217.3 | 94,047 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +396 | 56.6 | 91,720 |
+| 3 | [jdx/mise](https://github.com/jdx/mise) | +331 | 47.3 | 35,889 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +305 | 43.6 | 69,857 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +247 | 35.3 | 96,677 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +176 | 25.1 | 46,905 |
+| 7 | [cli/cli](https://github.com/cli/cli) | +107 | 15.3 | 46,901 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +42 | 6.0 | 26,055 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +1,635 | 54.5 | 92,690 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +1,319 | 44.0 | 91,543 |
-| 3 | [jdx/mise](https://github.com/jdx/mise) | +1,240 | 41.3 | 35,772 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +993 | 33.1 | 69,699 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +701 | 23.4 | 96,546 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +442 | 14.7 | 46,784 |
-| 7 | [cli/cli](https://github.com/cli/cli) | +425 | 14.2 | 46,873 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +214 | 7.1 | 26,049 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +2,766 | 92.2 | 94,047 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +1,417 | 47.2 | 91,720 |
+| 3 | [jdx/mise](https://github.com/jdx/mise) | +1,223 | 40.8 | 35,889 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +1,083 | 36.1 | 69,857 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +813 | 27.1 | 96,677 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +516 | 17.2 | 46,905 |
+| 7 | [cli/cli](https://github.com/cli/cli) | +440 | 14.7 | 46,901 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +216 | 7.2 | 26,055 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +25,641 | 70.2 | 92,690 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +21,199 | 58.1 | 91,543 |
-| 3 | [oven-sh/bun](https://github.com/oven-sh/bun) | +16,555 | 45.4 | 96,546 |
-| 4 | [jdx/mise](https://github.com/jdx/mise) | +15,085 | 41.3 | 35,772 |
-| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +13,357 | 36.6 | 69,699 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +6,650 | 18.2 | 46,784 |
-| 7 | [cli/cli](https://github.com/cli/cli) | +6,263 | 17.2 | 46,873 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +4,556 | 12.5 | 26,049 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +26,702 | 73.2 | 94,047 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +21,102 | 57.8 | 91,720 |
+| 3 | [oven-sh/bun](https://github.com/oven-sh/bun) | +16,646 | 45.6 | 96,677 |
+| 4 | [jdx/mise](https://github.com/jdx/mise) | +15,141 | 41.5 | 35,889 |
+| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +13,453 | 36.9 | 69,857 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +6,685 | 18.3 | 46,905 |
+| 7 | [cli/cli](https://github.com/cli/cli) | +6,275 | 17.2 | 46,901 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +4,503 | 12.3 | 26,055 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96,546 |
-| 2 | [zed-industries/zed](https://github.com/zed-industries/zed) | 92,690 |
-| 3 | [astral-sh/uv](https://github.com/astral-sh/uv) | 91,543 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 69,699 |
-| 5 | [cli/cli](https://github.com/cli/cli) | 46,873 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | 46,784 |
-| 7 | [jdx/mise](https://github.com/jdx/mise) | 35,772 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | 26,049 |
+| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96,677 |
+| 2 | [zed-industries/zed](https://github.com/zed-industries/zed) | 94,047 |
+| 3 | [astral-sh/uv](https://github.com/astral-sh/uv) | 91,720 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 69,857 |
+| 5 | [helix-editor/helix](https://github.com/helix-editor/helix) | 46,905 |
+| 6 | [cli/cli](https://github.com/cli/cli) | 46,901 |
+| 7 | [jdx/mise](https://github.com/jdx/mise) | 35,889 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | 26,055 |
 
 ## Security
 
@@ -216,58 +214,59 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Repo | Created (UTC) | Stars | Stars/day |
 |---|---|---|---:|---:|
+| 1 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) | 2026-11-02 | 113 | 23.5 |
 
 ### Fastest rising this week (last 7 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +211 | 30.1 | 32,588 |
-| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +183 | 26.1 | 38,984 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +131 | 18.7 | 17,457 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +115 | 16.4 | 33,885 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +92 | 13.1 | 11,396 |
-| 6 | [anchore/grype](https://github.com/anchore/grype) | +50 | 7.1 | 13,176 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +20 | 2.9 | 9,551 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | +9 | 1.3 | 8,999 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +232 | 33.1 | 39,090 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +193 | 27.6 | 32,656 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +174 | 24.9 | 17,535 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +118 | 16.9 | 33,928 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +113 | 16.1 | 11,447 |
+| 6 | [anchore/grype](https://github.com/anchore/grype) | +57 | 8.1 | 13,203 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +21 | 3.0 | 9,560 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | +7 | 1.0 | 9,000 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +922 | 30.7 | 32,588 |
-| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +790 | 26.3 | 38,984 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +590 | 19.7 | 17,457 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +487 | 16.2 | 33,885 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +269 | 9.0 | 11,396 |
-| 6 | [anchore/grype](https://github.com/anchore/grype) | +213 | 7.1 | 13,176 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +116 | 3.9 | 9,551 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | +43 | 1.4 | 8,999 |
+| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +919 | 30.6 | 32,656 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +853 | 28.4 | 39,090 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +638 | 21.3 | 17,535 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +415 | 13.8 | 33,928 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +310 | 10.3 | 11,447 |
+| 6 | [anchore/grype](https://github.com/anchore/grype) | +225 | 7.5 | 13,203 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +116 | 3.9 | 9,560 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | +43 | 1.4 | 9,000 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +10,129 | 27.8 | 38,984 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +7,621 | 20.9 | 32,588 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +4,398 | 12.0 | 17,457 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +3,541 | 9.7 | 33,885 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +3,510 | 9.6 | 11,396 |
-| 6 | [anchore/grype](https://github.com/anchore/grype) | +2,357 | 6.5 | 13,176 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +1,268 | 3.5 | 9,551 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | +562 | 1.5 | 8,999 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +10,221 | 28.0 | 39,090 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +7,668 | 21.0 | 32,656 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +4,463 | 12.2 | 17,535 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +3,571 | 9.8 | 33,928 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +3,553 | 9.7 | 11,447 |
+| 6 | [anchore/grype](https://github.com/anchore/grype) | +2,367 | 6.5 | 13,203 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +1,269 | 3.5 | 9,560 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | +560 | 1.5 | 9,000 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38,984 |
-| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | 33,885 |
-| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 32,588 |
-| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | 17,457 |
-| 5 | [anchore/grype](https://github.com/anchore/grype) | 13,176 |
-| 6 | [google/osv-scanner](https://github.com/google/osv-scanner) | 11,396 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9,551 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | 8,999 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 39,090 |
+| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | 33,928 |
+| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 32,656 |
+| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | 17,535 |
+| 5 | [anchore/grype](https://github.com/anchore/grype) | 13,203 |
+| 6 | [google/osv-scanner](https://github.com/google/osv-scanner) | 11,447 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9,560 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | 9,000 |
 
 ## Web / Frontend
 
@@ -275,64 +274,61 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Repo | Created (UTC) | Stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [mofan6/Moect](https://github.com/mofan6/Moect) | 2026-10-31 | 285 | 64.0 |
-| 2 | [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) | 2026-10-30 | 156 | 31.7 |
-| 3 | [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) | 2026-10-30 | 139 | 28.3 |
-| 4 | [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) | 2026-10-30 | 136 | 27.6 |
-| 5 | [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | 2026-10-30 | 117 | 21.1 |
-| 6 | [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology) | 2026-10-29 | 106 | 15.5 |
+| 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 2026-11-05 | 412 | 178.4 |
+| 2 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 2026-11-05 | 164 | 65.0 |
+| 3 | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) | 2026-11-02 | 180 | 32.6 |
 
 ### Fastest rising this week (last 7 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +624 | 89.1 | 127,358 |
-| 2 | [facebook/react](https://github.com/facebook/react) | +333 | 47.6 | 251,958 |
-| 3 | [withastro/astro](https://github.com/withastro/astro) | +199 | 28.4 | 63,726 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +163 | 23.3 | 143,322 |
-| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +102 | 14.6 | 98,065 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +102 | 14.6 | 88,556 |
-| 7 | [vuejs/core](https://github.com/vuejs/core) | +66 | 9.4 | 54,833 |
-| 8 | [tanstack/query](https://github.com/tanstack/query) | +49 | 7.0 | 50,525 |
+| 1 | [facebook/react](https://github.com/facebook/react) | +638 | 91.1 | 252,347 |
+| 2 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +605 | 86.4 | 127,562 |
+| 3 | [vercel/next.js](https://github.com/vercel/next.js) | +223 | 31.9 | 143,379 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +203 | 29.0 | 98,214 |
+| 5 | [withastro/astro](https://github.com/withastro/astro) | +203 | 29.0 | 63,799 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +197 | 28.1 | 88,657 |
+| 7 | [vuejs/core](https://github.com/vuejs/core) | +72 | 10.3 | 54,841 |
+| 8 | [tanstack/query](https://github.com/tanstack/query) | +48 | 6.9 | 50,535 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +2,676 | 89.2 | 127,358 |
-| 2 | [facebook/react](https://github.com/facebook/react) | +1,684 | 56.1 | 251,958 |
-| 3 | [withastro/astro](https://github.com/withastro/astro) | +775 | 25.8 | 63,726 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +698 | 23.3 | 143,322 |
-| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +499 | 16.6 | 88,556 |
-| 6 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +486 | 16.2 | 98,065 |
-| 7 | [vuejs/core](https://github.com/vuejs/core) | +417 | 13.9 | 54,833 |
-| 8 | [tanstack/query](https://github.com/tanstack/query) | +215 | 7.2 | 50,525 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +2,756 | 91.9 | 127,562 |
+| 2 | [facebook/react](https://github.com/facebook/react) | +2,044 | 68.1 | 252,347 |
+| 3 | [withastro/astro](https://github.com/withastro/astro) | +804 | 26.8 | 63,799 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +768 | 25.6 | 143,379 |
+| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +580 | 19.3 | 88,657 |
+| 6 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +572 | 19.1 | 98,214 |
+| 7 | [vuejs/core](https://github.com/vuejs/core) | +415 | 13.8 | 54,841 |
+| 8 | [tanstack/query](https://github.com/tanstack/query) | +208 | 6.9 | 50,535 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +30,378 | 83.2 | 127,358 |
-| 2 | [facebook/react](https://github.com/facebook/react) | +15,216 | 41.7 | 251,958 |
-| 3 | [withastro/astro](https://github.com/withastro/astro) | +10,513 | 28.8 | 63,726 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +10,334 | 28.3 | 143,322 |
-| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +8,520 | 23.3 | 98,065 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +5,272 | 14.4 | 88,556 |
-| 7 | [tanstack/query](https://github.com/tanstack/query) | +3,834 | 10.5 | 50,525 |
-| 8 | [vuejs/core](https://github.com/vuejs/core) | +3,616 | 9.9 | 54,833 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +30,382 | 83.2 | 127,562 |
+| 2 | [facebook/react](https://github.com/facebook/react) | +15,557 | 42.6 | 252,347 |
+| 3 | [withastro/astro](https://github.com/withastro/astro) | +10,542 | 28.9 | 63,799 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +10,393 | 28.5 | 143,379 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +8,592 | 23.5 | 98,214 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +5,251 | 14.4 | 88,657 |
+| 7 | [tanstack/query](https://github.com/tanstack/query) | +3,803 | 10.4 | 50,535 |
+| 8 | [vuejs/core](https://github.com/vuejs/core) | +3,603 | 9.9 | 54,841 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [facebook/react](https://github.com/facebook/react) | 251,958 |
-| 2 | [vercel/next.js](https://github.com/vercel/next.js) | 143,322 |
-| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127,358 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 98,065 |
-| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,556 |
-| 6 | [withastro/astro](https://github.com/withastro/astro) | 63,726 |
-| 7 | [vuejs/core](https://github.com/vuejs/core) | 54,833 |
-| 8 | [tanstack/query](https://github.com/tanstack/query) | 50,525 |
+| 1 | [facebook/react](https://github.com/facebook/react) | 252,347 |
+| 2 | [vercel/next.js](https://github.com/vercel/next.js) | 143,379 |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127,562 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 98,214 |
+| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,657 |
+| 6 | [withastro/astro](https://github.com/withastro/astro) | 63,799 |
+| 7 | [vuejs/core](https://github.com/vuejs/core) | 54,841 |
+| 8 | [tanstack/query](https://github.com/tanstack/query) | 50,535 |
 
 ## Infrastructure
 
@@ -340,58 +336,59 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Repo | Created (UTC) | Stars | Stars/day |
 |---|---|---|---:|---:|
+| 1 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | 2026-11-03 | 128 | 34.5 |
 
 ### Fastest rising this week (last 7 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +280 | 40.0 | 78,766 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +207 | 29.6 | 128,665 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana) | +169 | 24.1 | 77,690 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +148 | 21.1 | 66,947 |
-| 5 | [docker/compose](https://github.com/docker/compose) | +126 | 18.0 | 38,600 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik) | +89 | 12.7 | 65,466 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +85 | 12.1 | 50,137 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +30 | 4.3 | 25,846 |
+| 1 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +420 | 60.0 | 67,293 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +402 | 57.4 | 128,884 |
+| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +321 | 45.9 | 78,866 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +192 | 27.4 | 77,743 |
+| 5 | [docker/compose](https://github.com/docker/compose) | +127 | 18.1 | 38,631 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik) | +93 | 13.3 | 65,487 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +85 | 12.1 | 50,155 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +24 | 3.4 | 25,848 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +2,179 | 72.6 | 78,766 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +916 | 30.5 | 128,665 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana) | +762 | 25.4 | 77,690 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +713 | 23.8 | 66,947 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik) | +489 | 16.3 | 65,466 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +404 | 13.5 | 50,137 |
-| 7 | [docker/compose](https://github.com/docker/compose) | +403 | 13.4 | 38,600 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +131 | 4.4 | 25,846 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +1,508 | 50.3 | 78,866 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +1,099 | 36.6 | 128,884 |
+| 3 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +987 | 32.9 | 67,293 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +777 | 25.9 | 77,743 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik) | +485 | 16.2 | 65,487 |
+| 6 | [docker/compose](https://github.com/docker/compose) | +429 | 14.3 | 38,631 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +415 | 13.8 | 50,155 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +127 | 4.2 | 25,848 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +11,942 | 32.7 | 78,766 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +11,599 | 31.8 | 128,665 |
-| 3 | [traefik/traefik](https://github.com/traefik/traefik) | +8,699 | 23.8 | 65,466 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +7,891 | 21.6 | 77,690 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +6,535 | 17.9 | 66,947 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +3,771 | 10.3 | 50,137 |
-| 7 | [docker/compose](https://github.com/docker/compose) | +2,639 | 7.2 | 38,600 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +2,076 | 5.7 | 25,846 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +12,019 | 32.9 | 78,866 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +11,767 | 32.2 | 128,884 |
+| 3 | [traefik/traefik](https://github.com/traefik/traefik) | +8,676 | 23.8 | 65,487 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +7,906 | 21.7 | 77,743 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +6,812 | 18.7 | 67,293 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +3,785 | 10.4 | 50,155 |
+| 7 | [docker/compose](https://github.com/docker/compose) | +2,655 | 7.3 | 38,631 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +2,075 | 5.7 | 25,848 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128,665 |
-| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 78,766 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana) | 77,690 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66,947 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik) | 65,466 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 50,137 |
-| 7 | [docker/compose](https://github.com/docker/compose) | 38,600 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25,846 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128,884 |
+| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 78,866 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana) | 77,743 |
+| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67,293 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik) | 65,487 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 50,155 |
+| 7 | [docker/compose](https://github.com/docker/compose) | 38,631 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25,848 |
 
 ## Design / Creative
 
@@ -399,65 +396,60 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Repo | Created (UTC) | Stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 2026-10-30 | 4,668 | 830.0 |
-| 2 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 2026-10-30 | 1,426 | 255.6 |
-| 3 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 2026-11-03 | 161 | 107.8 |
-| 4 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | 2026-10-30 | 432 | 81.7 |
-| 5 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 2026-11-02 | 156 | 71.1 |
-| 6 | [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 2026-10-30 | 257 | 48.4 |
-| 7 | [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation) | 2026-10-30 | 195 | 35.5 |
-| 8 | [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | 2026-10-29 | 185 | 31.0 |
+| 1 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 2026-11-03 | 252 | 61.2 |
+| 2 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 2026-11-02 | 276 | 57.2 |
+| 3 | [leodavincs/kalem](https://github.com/leodavincs/kalem) | 2026-11-01 | 107 | 18.1 |
 
 ### Fastest rising this week (last 7 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +522 | 74.6 | 135,169 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +316 | 45.1 | 62,070 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +204 | 29.1 | 25,570 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +148 | 21.1 | 9,182 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +68 | 9.7 | 42,737 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +66 | 9.4 | 32,357 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +37 | 5.3 | 7,765 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +454 | 64.9 | 135,275 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +281 | 40.1 | 62,153 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +219 | 31.3 | 25,619 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +145 | 20.7 | 9,234 |
+| 5 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +85 | 12.1 | 32,373 |
+| 6 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +78 | 11.1 | 42,764 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +32 | 4.6 | 7,775 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | +0 | 0.0 | 43 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +2,036 | 67.9 | 135,169 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +1,497 | 49.9 | 62,070 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +737 | 24.6 | 25,570 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +627 | 20.9 | 9,182 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +279 | 9.3 | 42,737 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +234 | 7.8 | 32,357 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +181 | 6.0 | 7,765 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +2,011 | 67.0 | 135,275 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +1,497 | 49.9 | 62,153 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +769 | 25.6 | 25,619 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +639 | 21.3 | 9,234 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +295 | 9.8 | 42,764 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +263 | 8.8 | 32,373 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +169 | 5.6 | 7,775 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | +0 | 0.0 | 43 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +27,077 | 74.2 | 135,169 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +21,778 | 59.7 | 62,070 |
-| 3 | [jgraph/drawio](https://github.com/jgraph/drawio) | +6,511 | 17.8 | 9,182 |
-| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +6,312 | 17.3 | 25,570 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +4,223 | 11.6 | 42,737 |
-| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +2,199 | 6.0 | 7,765 |
-| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +1,105 | 3.0 | 32,357 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +27,023 | 74.0 | 135,275 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +21,833 | 59.8 | 62,153 |
+| 3 | [jgraph/drawio](https://github.com/jgraph/drawio) | +6,555 | 18.0 | 9,234 |
+| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +6,332 | 17.3 | 25,619 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +4,229 | 11.6 | 42,764 |
+| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +2,199 | 6.0 | 7,775 |
+| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +1,124 | 3.1 | 32,373 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | +1 | 0.0 | 43 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 135,169 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,070 |
-| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,737 |
-| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | 32,357 |
-| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 25,570 |
-| 6 | [jgraph/drawio](https://github.com/jgraph/drawio) | 9,182 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | 7,765 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 135,275 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,153 |
+| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,764 |
+| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | 32,373 |
+| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 25,619 |
+| 6 | [jgraph/drawio](https://github.com/jgraph/drawio) | 9,234 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | 7,775 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | 43 |
 
 ## Data
@@ -471,53 +463,53 @@ Slot `cn-0000`. Data fetched from the GitHub API at 2026-11-04T21:42:33Z (window
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +193 | 27.6 | 42,820 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +121 | 17.3 | 50,747 |
-| 3 | [apache/superset](https://github.com/apache/superset) | +94 | 13.4 | 75,409 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | +58 | 8.3 | 40,258 |
-| 5 | [apache/kafka](https://github.com/apache/kafka) | +53 | 7.6 | 34,128 |
-| 6 | [apache/arrow](https://github.com/apache/arrow) | +40 | 5.7 | 17,276 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +34 | 4.9 | 14,119 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +3 | 0.4 | 13,459 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +207 | 29.6 | 42,882 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +134 | 19.1 | 50,800 |
+| 3 | [apache/kafka](https://github.com/apache/kafka) | +99 | 14.1 | 34,191 |
+| 4 | [apache/superset](https://github.com/apache/superset) | +95 | 13.6 | 75,449 |
+| 5 | [pola-rs/polars](https://github.com/pola-rs/polars) | +60 | 8.6 | 40,277 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +32 | 4.6 | 14,130 |
+| 7 | [apache/arrow](https://github.com/apache/arrow) | +21 | 3.0 | 17,277 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +6 | 0.9 | 13,461 |
 
 ### Fastest rising this month (last 30 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +962 | 32.1 | 42,820 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +583 | 19.4 | 50,747 |
-| 3 | [apache/superset](https://github.com/apache/superset) | +463 | 15.4 | 75,409 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | +389 | 13.0 | 40,258 |
-| 5 | [apache/kafka](https://github.com/apache/kafka) | +292 | 9.7 | 34,128 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +173 | 5.8 | 14,119 |
-| 7 | [apache/arrow](https://github.com/apache/arrow) | +119 | 4.0 | 17,276 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +67 | 2.2 | 13,459 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +973 | 32.4 | 42,882 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +601 | 20.0 | 50,800 |
+| 3 | [apache/superset](https://github.com/apache/superset) | +477 | 15.9 | 75,449 |
+| 4 | [apache/kafka](https://github.com/apache/kafka) | +343 | 11.4 | 34,191 |
+| 5 | [pola-rs/polars](https://github.com/pola-rs/polars) | +327 | 10.9 | 40,277 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +174 | 5.8 | 14,130 |
+| 7 | [apache/arrow](https://github.com/apache/arrow) | +113 | 3.8 | 17,277 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +62 | 2.1 | 13,461 |
 
 ### Fastest rising this year (last 365 days)
 
 | # | Project | Stars gained | Stars/day | Total stars |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +9,388 | 25.7 | 42,820 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +7,622 | 20.9 | 50,747 |
-| 3 | [apache/superset](https://github.com/apache/superset) | +7,431 | 20.4 | 75,409 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | +4,847 | 13.3 | 40,258 |
-| 5 | [apache/kafka](https://github.com/apache/kafka) | +3,293 | 9.0 | 34,128 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +2,470 | 6.8 | 14,119 |
-| 7 | [apache/arrow](https://github.com/apache/arrow) | +1,318 | 3.6 | 17,276 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +899 | 2.5 | 13,459 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +9,386 | 25.7 | 42,882 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +7,587 | 20.8 | 50,800 |
+| 3 | [apache/superset](https://github.com/apache/superset) | +7,404 | 20.3 | 75,449 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | +4,827 | 13.2 | 40,277 |
+| 5 | [apache/kafka](https://github.com/apache/kafka) | +3,337 | 9.1 | 34,191 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +2,463 | 6.7 | 14,130 |
+| 7 | [apache/arrow](https://github.com/apache/arrow) | +1,312 | 3.6 | 17,277 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +892 | 2.4 | 13,461 |
 
 ### Total stars (all time)
 
 | # | Project | Total stars |
 |---|---|---:|
-| 1 | [apache/superset](https://github.com/apache/superset) | 75,409 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50,747 |
-| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | 42,820 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | 40,258 |
-| 5 | [apache/kafka](https://github.com/apache/kafka) | 34,128 |
-| 6 | [apache/arrow](https://github.com/apache/arrow) | 17,276 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 14,119 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13,459 |
+| 1 | [apache/superset](https://github.com/apache/superset) | 75,449 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50,800 |
+| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | 42,882 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | 40,277 |
+| 5 | [apache/kafka](https://github.com/apache/kafka) | 34,191 |
+| 6 | [apache/arrow](https://github.com/apache/arrow) | 17,277 |
+| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 14,130 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13,461 |
 
 ## Missing data
 

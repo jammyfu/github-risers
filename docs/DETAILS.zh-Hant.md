@@ -118,56 +118,50 @@
 | 專案 | 表裡的一句話 | 完整介紹 |
 |---|---|---|
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 不用一直盯梢，代理拿不準時才找你 | 讓你的命令行代理在後台自己接活、自己跟進到底；平時不煩你，遇到拿不準的事才發卡片找你拍板。 |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 手機瑣事太多？讓代理替你操作應用 | 一款適用於 Android 的裝置端 AI 代理，可透過操作 App 與網頁為你處理各項事務。 |
+| [voyager-so/vork](https://github.com/voyager-so/vork) |  | Headless 3D and VFX engine for agents. Research preview. |
+| [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) |  | Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-sour… |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 一句話描述技術堆疊，自動畫出架構圖 | 代理技能：用一句話描述你的技術棧，獲取帶有官方標誌的架構圖 |
-| [Balanov/uncut](https://github.com/Balanov/uncut) | 告別靜默截斷，無損運行程式碼代理 | 無損、無頭的編碼代理套件。一個 7 MB 靜態二進位檔，四個工具，純 stdin/stdout，無隱形截斷。 |
-| [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 動效抄不像？逐幀還原並驗證完全一致 | 一個逐幀逆向任何動畫、隨後驗證複本運作完全一致的 Claude Code 技能。 |
+| [JosssphZhou/poki](https://github.com/JosssphZhou/poki) |  | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. |
+| [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) |  | 3D modeling in Python, built for LLMs. |
+| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) |  | Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. |
+| [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) |  | Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox |
+| [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) |  | Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 檢查網站是否符合越南法規要求 | 面向 Claude Code、Cursor、Copilot、Windsurf、Cline，根據越南法律（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）進行的網站法律審計 |
-| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | 安全測試太費勁？讓 AI 軍團自主排查 | 自主滲透測試軍團 —— AI 指揮官 + 工蜂集群 + 分層事實-意圖圖譜。第三屆騰訊智慧攻防線上冠軍（634 支隊伍 · 8h una… |
-| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | 看不懂影片怎麼做，逐鏡拆解畫面與剪輯 | 逆向一切影片：實拍口播、桌拍、AI 影片、3D、代碼動效、混剪，逐鏡拆出畫面、花字、剪輯和聲音是怎麼做的，並給出復刻方案。Reverse-engineer any video, shot by shot. |
-| [Balanov/skein](https://github.com/Balanov/skein) | 攔截逾期任務，防止打亂多節點協同作業 | 具有紀元隔離工作和延遲完成拒絕的故障閉鎖群編排。 |
-| [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | 只有一個點子，也能生成全流程 AI 漫劇 | 21 個題材的 AI 漫劇全流程 Skill：一句點子生成企劃案、資產圖提示詞、分集劇本、分鏡與影片提示詞。可用於 Claude Code、WorkBuddy、DeepSeek |
-| [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | AI作圖缺參考？備齊臉型姿勢與服裝 | AI 作圖素材庫 · 中文版（臉 / 姿勢 / 服裝） |
-| [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | 找鳥類貼紙太難？集齊 11,064 種鳥 | 花叔開源的全球鳥類貼紙庫 · 涵蓋所有 11,064 種現生鳥類物種的貼紙，包含 43 種語言的名稱與結構化資料 |
+| [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) |  | Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight… |
 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | 告別靜止畫面消耗，讓 AI 即時看螢幕 | 讓 AI 即時看見你的螢幕：按變化量篩選幀、多幀拼進一張圖，靜止畫面幾乎不花 token |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | 做短影音沒素材，用技能直接做動畫 | 六個無需素材即可為 reels 製作動畫的 Claude Code 技能：3D 卡通解說、火柴人、極簡線條藝術、3D 地圖路線、分解視圖、li… |
-| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | 做代碼動畫缺靈感，挑選風格一鍵匯入 | 341 種代碼動畫風格提示詞、196 張參考靜幀與離線挑選器，封裝為 Claude Code / Codex 技能，支援一鍵導入與 HTML 影片渲染。 |
-| [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | 抖音評論抓不全？完整抓取所有樓中樓 | 抓取抖音單條影片完整評論區（一級 + 樓中樓）的代理技能：在已登入的 Chrome 裡照抄頁面真實請求，簽名交給頁面 SDK |
-| [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | 讓 AI 安全遠端存取與控制你的電腦 | 為 ChatGPT、Claude 和相容的 MCP 用戶端提供安全且由 AI 驅動的遠端電腦存取。 |
-| [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | 零基礎寫出並在本地運行自己的代理 | 零基礎入門 AI 代理的基礎教學。不只是教學，也是一個能在本機跑起來的 代理：讀寫檔案、執行命令、MCP、長期記憶，自帶網頁端看清每一步。從 100 行最小循環開始，一課加一個能力，最後拆解 Claude Code、Codex 等主流 代理 |
-| [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | 告別算力偏差，用開源框架評測新模型 | :sunrise: 面向下一代 Transformer 的全面、前沿的開源框架，具有匹配計算量的基準測試以及一個自主… |
-| [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | 難做 3D 動效，為代理配齊 8 個技能 | 面向 3D 和動畫網站的八個代理技能：代碼生成的 three.js 場景、滾動膠片、透明影片、游標綁定、爆炸圖、AI 動作資產、bro… |
+| [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills) |  | AI-Powered Web Security &amp; Automation - Official bonus skills, agents &amp; MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates) |
+| [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) |  | Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。 |
+| [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) |  | 医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing &amp; research skills. |
+| [orkbot-run/ork](https://github.com/orkbot-run/ork) |  | Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps. |
+| [Balanov/uncut](https://github.com/Balanov/uncut) | 告別靜默截斷，無損運行程式碼代理 | 無損、無頭的編碼代理套件。一個 7 MB 靜態二進位檔，四個工具，純 stdin/stdout，無隱形截斷。 |
+| [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) |  | Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remotion. 9+ agent skills, 20+ story flows, fact ledger, CC0 SFX. |
+| [Toyhom/awesome-computational-character-modeling](https://github.com/Toyhom/awesome-computational-character-modeling) |  | Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript. |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 不想離開終端機，在裡面運行完整 macOS | 在你的終端機中運行整個 MacOS。 |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 掃出手機應用隱私外洩並可隨時還原 | 手機隱私審計：用 adb 掃出 Android 應用的權限、回報端點與數據流向，並給出可復原的處置。桌面 Android 洩漏審計：權限、端點、數據流向、可復原的修復。 |
-| [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | 不知庫存價值，在終端機盤點並做成卡片 | 在終端機中評估您的 Steam 庫存價值並列印為分享卡片：按遊戲、按市場、已售出與未售出。單個 Windows 可攜式組建，無需帳戶。 |
-| [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) | 想串接模型？提供 API 與瀏覽器對話 | 未審查的 AI API 和瀏覽器聊天：DeepSeek 和 GLM 模型、串流、Python 和 TypeScript 範例、定價和設定指南。 |
-| [ChannelDivinerCast/VSCode-Extension-Helper](https://github.com/ChannelDivinerCast/VSCode-Extension-Helper) | 擴充功能雜亂難管，智慧管理並最佳化 | 面向 Visual Studio Code 使用者的輕量級桌面工具。智慧擴充功能管理、效能最佳化、推薦系統與生產力輔助工具。Cl… |
-| [Straitbrashadow/minecraft-ai-mod-builder](https://github.com/Straitbrashadow/minecraft-ai-mod-builder) | 不想手動蓋，在終端機描述即可一步放置 | 在 Minecraft 中氛圍構建。在終端機中描述建造內容，在你的世界中將其檢視為藍圖，一步放置並一步復原。也會編寫 datapacks。… |
-| [muaaz9329/cheap-ag](https://github.com/muaaz9329/cheap-ag) | 方案總碰上限？讓便宜模型寫程式 | 使用 cheap-ag 將您的使用量提升 50 倍。Opus/Astra 方案，極便宜的模型編寫每一行程式碼，測試決定交付內容。您的 $20 方案不再觸及限制。一個 MCP… |
-| [kyy-logs/code-review-skill](https://github.com/kyy-logs/code-review-skill) | 程式碼審查有據可依，合并不怕出錯 | 適用於 Claude Code 和 Codex 的可審計程式碼審查技能：四個獨立探針、以證據為支援的發現以及基於 JSON 的合併閘道。 |
-| [DiplomatHearth/roblox-ai-place-diff](https://github.com/DiplomatHearth/roblox-ai-place-diff) | 怕改壞場景，代理修改先由你確認 | 這款 Roblox Studio 代理所做的每一項變更都是由你先批准的 place diff。只需一次 Ctrl+Z 即可回退任何輪次，測試遊玩在複本上執行，因此實際資料絕不會移動… |
-| [4yk5/Ghostman](https://github.com/4yk5/Ghostman) | 厭倦笨重工具，純鍵盤操控且完全本機 | 一款快速、鍵盤驅動的 TUI API 客戶端 &amp; webhook 檢查器。無雲端、無 Electron、100% 本機優先。 |
-| [DenColonelWrinkle/ios-unlocker](https://github.com/DenColonelWrinkle/ios-unlocker) |  | 完整的獨立 iOS Unlocker 2026 安裝程式，所有功能均已啟用，隨時可用。 |
-| [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) |  | Microsoft Office 2026 完整獨立安裝程式。預先啟用的桌面版，隨時可用。 |
-| [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) |  | Fl Studio 2026：包含所有必備外掛與功能的完整可用安裝程式，可在你的桌面上直接運行。 |
-| [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) |  | Instagram Liker Bot 2023：具備自動按讚和追蹤功能的完整獨立安裝程式，可隨時在您的桌面運行。 |
-| [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) |  | Metatrader 5 Bot 用於專業交易自動化的完整可用安裝程式，可隨時在您的桌面運行。 |
-| [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) | Foneazy Mobile 2023 獨立桌面安裝程式 | Foneazy Mobile 2023 的完整獨立安裝程式。隨時可運行的全功能桌面安裝。 |
-| [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) |  | Microstation 2026：預啟用所有功能的完整可用安裝程式，可立即在桌面使用。 |
-| [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) |  | Landr Plugin Bundle 2026：預裝所有基本外掛的完整可用安裝程式，可隨時在您的桌面運行。 |
-| [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) |  | Genesis Miner 2026：帶有用於提升效能的最佳化挖礦演算法的完整可用安裝程式。 |
-| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) |  | 強大的 Ninjatrader Bot 2026，一個預啟用所有功能且隨時可運行的完整獨立安裝程式。 |
-| [mofan6/Moect](https://github.com/mofan6/Moect) | 微信聊天記錄想留存，離線匯出與備份 | Windows 微信 4.x 聊天記錄導出、備份與離線歸檔工具 · WeChat chat history exporter &amp; backup. 支援好友/群聊、頭像、圖片、GIF 表情、音視頻、檔案、連結、小程序、引用回覆和合併轉發；支援 HTML、JSON、JSONL、TXT、CSV、Markdown 導… |
-| [Lavagroabide/aegis-spreadwatch](https://github.com/Lavagroabide/aegis-spreadwatch) | CS2 買賣看不清，在裝置上直接看淨利潤 | Aegis SpreadWatch: 讓 CS2 買賣機會清晰可見——每個交易場所的淨利潤、ROI 和費用假設，均在裝置端計算。 |
-| [solderdatabraid29/aegis-vaultgrid](https://github.com/solderdatabraid29/aegis-vaultgrid) | 不想登入看庫存？在本機規劃 CS2 訂單 | Aegis VaultGrid: 將 CS2 庫存保險庫與感知費用的訂單規劃器相結合。本機 JSON 狀態，無需帳戶即可瀏覽。 |
-| [Townlanurture/aegis-skin-terminal](https://github.com/Townlanurture/aegis-skin-terminal) | CS2 交易怕算漏手續費，本機直接掃價差 | Aegis Skin Terminal: 本機優先的 CS2 交易工作區，配備感知費用的價差掃描器、保險庫工作區和離線 Steam Guard 代碼。 |
-| [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | 不用帳號也不花錢，直接上手練習 Azure | 無需帳戶亦無費用的 Azure 模擬器，用於學習 DevOps：入口網站、Cloud Shell、Azure DevOps 以及一個包含 13 個級別和 47 個可驗證實驗的學院… |
-| [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology) | 網頁 SVG 不好拖，宣告一下就能拖動 | Web 上的 SVG 宣告式拖曳 |
-| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 缺像素特效？244段簡短程式碼直接套用 | 244 個像素藝術效果，每一個都是一小段程式碼。外加一個用於製作自己效果的 Claude Code 技能。 |
-| [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 頁面太單調？畫上代爾夫特藍花卉頁邊 | 為 LuaLaTeX 程式化生成的代爾夫特藍花卉頁邊，使用 Lua 繪製 |
+| [devvmhq/devvm](https://github.com/devvmhq/devvm) |  | One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding |
+| [MetalHairdresser/slideshow-video-maker](https://github.com/MetalHairdresser/slideshow-video-maker) |  | Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen... |
+| [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) |  | Sp Flash Tool 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility configuration. |
+| [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) |  | Ads Blocker utility configuration folder for secure, efficient desktop software deployment in isolated environments. |
+| [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) |  | Aion 2: Optimized package deployment for AI-driven prompt engineering tasks, ensuring seamless local workstation execution in 2026. |
+| [FloorFlameDone/androidunlocker](https://github.com/FloorFlameDone/androidunlocker) |  | Android Unlocker Utility 2023 pre-configured environment for seamless local workstation deployment. |
+| [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) |  | Clion 2026 pre-configured environment for efficient local workstation deployment. |
+| [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) |  | Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and... |
+| [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) |  | Discord Server Cloner 2023 pre-configured environment for seamless local workstation deployment, enabling efficient server backup and... |
+| [KnitGnatConduit/ios-unlocker](https://github.com/KnitGnatConduit/ios-unlocker) |  | iOS Unlocker 1.5.3 automated deployment pipeline for seamless local workstation environment setup, ensuring optimal device management and... |
+| [lavagunsmithmystery/metatrader-5-bot](https://github.com/lavagunsmithmystery/metatrader-5-bot) |  | Metatrader 5 Bot repository configuration folder for streamlined automated deployment pipeline in professional desktop software utility environment. |
+| [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) |  | Multiaccountmanager 2023 pre-configured environment for seamless automated deployment pipeline, ensuring robust multi-account management on... |
+| [naturemidwifedream/uttorent](https://github.com/naturemidwifedream/uttorent) |  | Uttorent 3.5.1 pre-configured environment for secure, automated desktop software utility deployment in 2026. |
+| [hairwayrefresh/drfoneunlock](https://github.com/hairwayrefresh/drfoneunlock) |  | Drfoneunlock 2023 - Local workstation deployment package with pre-configured environment for efficient device unlocking operations. |
+| [HalberdierTackle/discord-server-raider](https://github.com/HalberdierTackle/discord-server-raider) |  | Discord Server Raider automated deployment pipeline for optimized package execution and secure environment setup in 2026. |
+| [MessengerCheer/scrcpy](https://github.com/MessengerCheer/scrcpy) |  | Scrcpy repository configuration folder for streamlined remote device control, compatible with current desktop environments as of 2026. |
+| [MuseumCuckoo/unlocktool](https://github.com/MuseumCuckoo/unlocktool) |  | Unlocktool 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal software catalog management. |
+| [NoonBrokerRevere97/wondshare-recoverit](https://github.com/NoonBrokerRevere97/wondshare-recoverit) |  | Wondshare Recoverit 15.3 automated deployment pipeline for efficient enterprise data recovery and management tasks in isolated workstation... |
+| [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) |  | Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on one globe, with sources and one-click fixes. |
+| [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) |  | Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report. |
+| [zeemscript/block-roll](https://github.com/zeemscript/block-roll) |  | Non-custodial, encrypted file storage &amp; sharing platform with Stellar payments and on-chain file notarization |
+| [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) |  | 同一需求，两版真跑，体验后审查采用。Two live builds for one task in DeepSeek Harness. |
+| [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) |  | Production compatibility gateway bridge &amp; observability platform connecting Claude Code CLI with Google Antigravity &amp; Gemini inference models via Anthr… |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) |  | 以一致風格繪製動態圖示的 Claude 技能，帶有懸停動效或作為靜態 SVG。 |
-| [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | 排版全是 AI 味？用一套設計系統去掉 | 歸藏设计 · DeepSeek Harness 插件：網頁 PPT、圖文卡片、網頁排版、去 AI 味四個技能，一套設計系統；作品庫、內容生產工作流、語氣檔案 |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 給互動代理輕鬆渲染虛擬形象 | 用於互動式代理頭像的 JSON 規格與渲染器 |
-| [GuoZheng-de-BaBa/nursing-research-skills](https://github.com/GuoZheng-de-BaBa/nursing-research-skills) | 護理科研太繁瑣，AI 技能幫你做 | 護研搭子｜18個開源護理科研AI技能，涵蓋檢索、設計、數據、統計、寫作與圖表；新增佇列研究和RCT流程、模板及合成範例。 |
-| [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation) | 代碼動畫難做？文案與聲音直接生成 | 把中文文案、畫風提示詞和聲音做成前後連貫的程式碼動畫（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 畫風庫檢索、語意分鏡、鏡頭轉場、角色表演、四案音樂與音效、檢查返修。 |
-| [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | 給一個主題，代理做成多語言影片 | AI 影片工廠：從一個主題到成品的多語言 YouTube 影片。Claude 代理負責撰寫、規劃、繪製與審核；Studio 讓使用者始終掌控全局。 |
+| [leodavincs/kalem](https://github.com/leodavincs/kalem) |  | Claude Code skill: her sahnenin kendi kalemi var. Videoyu sahnelere böler, her sahneye uygun motoru seçer (Paper.js, PixiJS, HyperFrames, Three.js, Manim). |
