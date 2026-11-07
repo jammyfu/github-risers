@@ -100,3 +100,10 @@
 - Any successfully committed refresh on that LA date suppresses scheduled duplicates, including manual refreshes. Manual dispatch remains unconditional; local hour-gated fallback is unchanged.
 - Keep workflow concurrency and fresh `main` checkout. Invalid/future state fails visibly; only exit 1 means an intentional skip. Do not backfill missed snapshots with today's numbers.
 - The immediate refresh used the existing production workflow. The owner subsequently authorized merging PR #19 and correcting the stale Pages schedule copy. Public English and Simplified Chinese copy says daily without exact clock claims; visible text and structured metadata stay aligned.
+
+
+## 2026-11-07 — translation completion is separate from data freshness
+
+- A successful API refresh or permissive daily verification is not evidence that translation is complete. Completion requires zero missing detailed-description and hook languages across every current category, plus a source-language audit for English output.
+- Translation-library edits fill missing fields under the exact source hash; existing translated text and original descriptions stay unchanged. Public tables use short hooks and details pages retain complete introductions.
+- The existing CJK-only English-gap detector can miss Turkish/Vietnamese sources. Their missing English translations are filled explicitly in this round without changing the model configuration or weakening validators.

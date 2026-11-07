@@ -108,6 +108,23 @@
         }
       }
     },
+    "AtomIllusionistDwell/watson-username-footprint-finder": {
+      "1a36124ee08e": {
+        "src": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+        "zh-Hans": "免费人员搜索桌面应用：在 3,100+ 个公开页面中查询昵称、电子邮箱、电话或网站，并获得一份易读的报告。",
+        "seen": "2026-11-07",
+        "zh-Hant": "免費人物搜尋桌面應用程式：在 3,100+ 個公開頁面中查詢暱稱、電子郵件、電話或網站，並取得一份易讀的報告。",
+        "ja": "無料の人物検索デスクトップアプリ：3,100+ の公開ページでニックネーム、メールアドレス、電話番号、サイトを調べ、一つの読みやすいレポートを取得。",
+        "ko": "무료 인물 검색 데스크톱 앱: 3,100+ 공개 페이지에서 닉네임, 이메일, 전화번호 또는 사이트를 조회하고 읽기 쉬운 보고서 하나를 받는다.",
+        "hook": {
+          "en": "Turn public-page people searches into one readable report",
+          "zh-Hans": "把公开页面的人物搜索汇成报告",
+          "zh-Hant": "把公開頁面的人物搜尋彙成報告",
+          "ja": "公開ページの人物検索を一つのレポートに",
+          "ko": "공개 페이지 인물 검색을 보고서 하나로"
+        }
+      }
+    },
     "Balanov/baiagent-director": {
       "eaa6600f4c80": {
         "src": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
@@ -501,6 +518,57 @@
         }
       }
     },
+    "Flintfaconceal/ads-blocker": {
+      "778f532717f6": {
+        "src": "Ads Blocker utility configuration folder for secure, efficient desktop software deployment in isolated environments.",
+        "zh-Hans": "Ads Blocker 实用工具配置文件夹, 用于在隔离环境中安全、高效地部署桌面软件.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Ads Blocker 公用工具設定資料夾, 用於在隔離環境中安全、高效地部署桌面軟體.",
+        "ja": "Ads Blocker ユーティリティの設定フォルダで、隔離環境内でデスクトップソフトを安全かつ効率的にデプロイするためのもの.",
+        "ko": "Ads Blocker 유틸리티 구성 폴더로, 격리된 환경에서 데스크톱 소프트웨어를 안전하고 효율적으로 배포하기 위한 것이다.",
+        "hook": {
+          "en": "Desktop software deployment in isolated environments",
+          "zh-Hans": "隔离环境中的桌面软件部署",
+          "zh-Hant": "隔離環境中的桌面軟體部署",
+          "ja": "隔離環境でのデスクトップソフトのデプロイ",
+          "ko": "격리 환경에서의 데스크톱 소프트웨어 배포"
+        }
+      }
+    },
+    "Flockcleplank/aion-2-trainer-tool": {
+      "a2c58afd72a7": {
+        "src": "Aion 2: Optimized package deployment for AI-driven prompt engineering tasks, ensuring seamless local workstation execution in 2026.",
+        "zh-Hans": "Aion 2: 针对 AI 驱动的提示词工程任务优化软件包部署, 确保在 2026 年于本地工作站顺畅运行.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Aion 2: 針對 AI 驅動的提示詞工程任務最佳化套件部署, 確保在 2026 年於本機工作站順暢執行.",
+        "ja": "Aion 2: AI 駆動のプロンプトエンジニアリング作業向けにパッケージのデプロイを最適化し、2026 年のローカルワークステーションでの円滑な実行を確保する.",
+        "ko": "Aion 2: AI 기반 프롬프트 엔지니어링 작업을 위한 패키지 배포를 최적화해, 2026년 로컬 워크스테이션에서 원활하게 실행되도록 한다.",
+        "hook": {
+          "en": "Package deployment for prompt engineering",
+          "zh-Hans": "提示词工程任务的软件包部署",
+          "zh-Hant": "提示詞工程任務的套件部署",
+          "ja": "プロンプト設計作業向けパッケージのデプロイ",
+          "ko": "프롬프트 설계 작업용 패키지 배포"
+        }
+      }
+    },
+    "FloorFlameDone/androidunlocker": {
+      "c08b1eb03126": {
+        "src": "Android Unlocker Utility 2023 pre-configured environment for seamless local workstation deployment.",
+        "zh-Hans": "Android Unlocker Utility 2023 预配置环境, 用于顺畅完成本地工作站部署.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Android Unlocker Utility 2023 預先設定環境, 用於順暢完成本機工作站部署.",
+        "ja": "Android Unlocker Utility 2023 の設定済み環境で、ローカルワークステーションへの円滑なデプロイに対応する.",
+        "ko": "Android Unlocker Utility 2023 사전 구성 환경으로, 로컬 워크스테이션에 원활하게 배포하기 위한 것이다.",
+        "hook": {
+          "en": "Preconfigured local workstation deployment",
+          "zh-Hans": "本地工作站部署预配置环境",
+          "zh-Hant": "本機工作站部署預先設定環境",
+          "ja": "ローカルワークステーションのデプロイ設定",
+          "ko": "로컬 워크스테이션 배포용 사전 구성 환경"
+        }
+      }
+    },
     "FormHalberdierSouk/SoundPad": {
       "52e358e00d02": {
         "src": "Soundpad 2026: Full working installer with all essential plugins and effects for professional audio production.",
@@ -557,6 +625,23 @@
         }
       }
     },
+    "Glen-Web-App/best-agent-memory-mcp": {
+      "9da15058d8ac": {
+        "src": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight…",
+        "zh-Hans": "最佳智能体记忆 MCP 服务器排名与对比: 为 Claude Code、Codex、Cursor 和任何 MCP 客户端提供长期记忆. Glen, Mem0, Supermemory, Zep, Hindsight…",
+        "seen": "2026-11-07",
+        "zh-Hant": "最佳代理記憶 MCP 伺服器排名與比較: 為 Claude Code、Codex、Cursor 及任何 MCP 用戶端提供長期記憶. Glen, Mem0, Supermemory, Zep, Hindsight…",
+        "ja": "優れたエージェント記憶用 MCP サーバーのランキングと比較: Claude Code、Codex、Cursor、あらゆる MCP クライアント向けの長期記憶. Glen, Mem0, Supermemory, Zep, Hindsight…",
+        "ko": "최고의 에이전트 메모리 MCP 서버 순위 및 비교: Claude Code, Codex, Cursor 및 모든 MCP 클라이언트를 위한 장기 기억. Glen, Mem0, Supermemory, Zep, Hindsight…",
+        "hook": {
+          "en": "Compare tools that give AI long-term memory",
+          "zh-Hans": "比较让 AI 长久记住事情的工具",
+          "zh-Hant": "比較讓 AI 長久記住事情的工具",
+          "ja": "AIが長く覚えておくためのツールを比較",
+          "ko": "AI가 오래 기억하게 하는 도구 비교하기"
+        }
+      }
+    },
     "GravityHazeWay13/DxO-PhotoLab-10": {
       "0b34d9268225": {
         "src": "Ready-to-run Dxo Photolab 10 desktop installation build, fully activated and ready for professional photo processing.",
@@ -590,6 +675,57 @@
         }
       }
     },
+    "Hairanfollow/discord-quest-completer": {
+      "d9cab180b26d": {
+        "src": "Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and...",
+        "zh-Hans": "Discord Quest Completer 2026 预配置环境, 用于顺畅完成本地工作站部署, 确保实用工具达到最佳性能并...",
+        "seen": "2026-11-07",
+        "zh-Hant": "Discord Quest Completer 2026 預先設定環境, 用於順暢完成本機工作站部署, 確保公用工具達到最佳效能並...",
+        "ja": "Discord Quest Completer 2026 の設定済み環境で、ローカルワークステーションへの円滑なデプロイに対応し、ユーティリティの最適な性能と...",
+        "ko": "Discord Quest Completer 2026 사전 구성 환경으로, 로컬 워크스테이션에 원활하게 배포하며 유틸리티의 최적 성능과...",
+        "hook": {
+          "en": "Preconfigured local workstation deployment",
+          "zh-Hans": "本地工作站部署预配置环境",
+          "zh-Hant": "本機工作站部署預先設定環境",
+          "ja": "ローカルワークステーションのデプロイ設定",
+          "ko": "로컬 워크스테이션 배포용 사전 구성 환경"
+        }
+      }
+    },
+    "HalberdierTackle/discord-server-raider": {
+      "101910c4c848": {
+        "src": "Discord Server Raider automated deployment pipeline for optimized package execution and secure environment setup in 2026.",
+        "zh-Hans": "Discord Server Raider 自动化部署流水线，用于在 2026 年优化软件包执行并安全设置环境。",
+        "seen": "2026-11-07",
+        "zh-Hant": "Discord Server Raider 自動化部署管線，用於在 2026 年最佳化套件執行並安全設定環境。",
+        "ja": "2026 年にパッケージ実行を最適化し、安全に環境を設定するための Discord Server Raider 自動展開パイプライン。",
+        "ko": "2026년 패키지 실행 최적화와 안전한 환경 설정을 위한 Discord Server Raider 자동 배포 파이프라인.",
+        "hook": {
+          "en": "Discord Server Raider deployment pipeline",
+          "zh-Hans": "Discord Server Raider 部署流水线",
+          "zh-Hant": "Discord Server Raider 部署管線",
+          "ja": "Discord Server Raider 展開パイプライン",
+          "ko": "Discord Server Raider 배포 파이프라인"
+        }
+      }
+    },
+    "HallThrasherVice/discord-server-cloner": {
+      "608cd335adcd": {
+        "src": "Discord Server Cloner 2023 pre-configured environment for seamless local workstation deployment, enabling efficient server backup and...",
+        "zh-Hans": "Discord Server Cloner 2023 预配置环境, 用于顺畅完成本地工作站部署, 支持高效的服务器备份和...",
+        "seen": "2026-11-07",
+        "zh-Hant": "Discord Server Cloner 2023 預先設定環境, 用於順暢完成本機工作站部署, 支援高效的伺服器備份和...",
+        "ja": "Discord Server Cloner 2023 の設定済み環境で、ローカルワークステーションへの円滑なデプロイに対応し、効率的なサーバーバックアップと...",
+        "ko": "Discord Server Cloner 2023 사전 구성 환경으로, 로컬 워크스테이션에 원활하게 배포하며 효율적인 서버 백업과...",
+        "hook": {
+          "en": "Preconfigured environment for server backups",
+          "zh-Hans": "服务器备份预配置环境",
+          "zh-Hant": "伺服器備份預先設定環境",
+          "ja": "サーバーバックアップ用の設定済み環境",
+          "ko": "서버 백업용 사전 구성 환경"
+        }
+      }
+    },
     "HandcuffHelper/ads-blocker": {
       "d84b94473f67": {
         "src": "Ads Blocker 2026: Full working installer with enhanced ad detection and blocking capabilities. Ready-to-run desktop software utility.",
@@ -607,6 +743,23 @@
         }
       }
     },
+    "HerdBuilderEstimate/roblox-studio-mcp": {
+      "0056f0da57b2": {
+        "src": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-sour…",
+        "zh-Hans": "面向 Roblox Studio 的 Model Context Protocol 服务器. 连接 AI 助手 (Claude, Cursor), 安全地读取对象树、编辑脚本和运行试玩测试. 开源…",
+        "seen": "2026-11-07",
+        "zh-Hant": "供 Roblox Studio 使用的 Model Context Protocol 伺服器. 連接 AI 助理 (Claude, Cursor), 安全地讀取物件樹、編輯指令碼及執行試玩測試. 開源…",
+        "ja": "Roblox Studio 向けの Model Context Protocol サーバー. AI アシスタント (Claude, Cursor) を接続し、オブジェクトツリーの読み取り、スクリプトの編集、プレイテストの実行を安全に行う. オープンソース…",
+        "ko": "Roblox Studio용 Model Context Protocol 서버. AI 어시스턴트 (Claude, Cursor)를 연결해 객체 트리 읽기, 스크립트 편집, 플레이테스트 실행을 안전하게 수행. 오픈 소스…",
+        "hook": {
+          "en": "Let AI edit your Roblox Studio scripts",
+          "zh-Hans": "让 AI 帮你编辑游戏脚本",
+          "zh-Hant": "讓 AI 幫你編輯遊戲指令碼",
+          "ja": "AIでゲームのスクリプトを編集する",
+          "ko": "AI로 게임 스크립트 편집하기"
+        }
+      }
+    },
     "Interactive-Active-AI/NextTransformer": {
       "960c8d09a764": {
         "src": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous…",
@@ -621,6 +774,23 @@
           "zh-Hant": "告別算力偏差，用開源框架評測新模型",
           "ja": "計算量の不揃いを防ぎ、オープンソースで新モデルを測定",
           "ko": "연산량 불일치를 막고 오픈 소스로 차세대 모델 측정"
+        }
+      }
+    },
+    "JosssphZhou/poki": {
+      "541ddcbbafca": {
+        "src": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+        "zh-Hans": "让 AI 智能体操作真实的 iPhone. 本地 MCP 服务器和智能体, 无需越狱, 无需额外硬件.",
+        "seen": "2026-11-07",
+        "zh-Hant": "讓 AI 代理操作真實的 iPhone. 本機 MCP 伺服器和代理, 無須越獄, 無須額外硬體.",
+        "ja": "AI エージェントに実機の iPhone を操作させる. ローカルの MCP サーバーとエージェントで、脱獄も追加ハードウェアも不要.",
+        "ko": "AI 에이전트가 실제 iPhone을 조작하게 한다. 로컬 MCP 서버와 에이전트, 탈옥 불필요, 추가 하드웨어 불필요.",
+        "hook": {
+          "en": "Let AI operate your real iPhone",
+          "zh-Hans": "让 AI 操作真实的 iPhone",
+          "zh-Hant": "讓 AI 操作真實的 iPhone",
+          "ja": "AIに実機のiPhoneを操作させる",
+          "ko": "AI로 실제 iPhone 조작하기"
         }
       }
     },
@@ -685,6 +855,23 @@
         }
       }
     },
+    "KnitGnatConduit/ios-unlocker": {
+      "49a08bb4964b": {
+        "src": "iOS Unlocker 1.5.3 automated deployment pipeline for seamless local workstation environment setup, ensuring optimal device management and...",
+        "zh-Hans": "iOS Unlocker 1.5.3 自动化部署流水线, 用于顺畅设置本地工作站环境, 确保最佳的设备管理和...",
+        "seen": "2026-11-07",
+        "zh-Hant": "iOS Unlocker 1.5.3 自動化部署流程, 用於順暢設定本機工作站環境, 確保最佳的裝置管理和...",
+        "ja": "iOS Unlocker 1.5.3 の自動デプロイパイプラインで、ローカルワークステーション環境を円滑に設定し、最適なデバイス管理と...",
+        "ko": "iOS Unlocker 1.5.3 자동 배포 파이프라인으로, 로컬 워크스테이션 환경을 원활하게 설정하며 최적의 장치 관리와...",
+        "hook": {
+          "en": "Automated local workstation environment setup",
+          "zh-Hans": "自动设置本地工作站环境",
+          "zh-Hant": "自動設定本機工作站環境",
+          "ja": "ローカルワークステーション環境の自動設定",
+          "ko": "로컬 워크스테이션 환경 자동 설정"
+        }
+      }
+    },
     "Lavagroabide/aegis-spreadwatch": {
       "812ce203dc87": {
         "src": "Aegis SpreadWatch: keeps CS2 buy and sell opportunities legible — net profit, ROI and fee assumptions per venue, computed on device.",
@@ -743,6 +930,40 @@
         }
       }
     },
+    "MessengerCheer/scrcpy": {
+      "816881a1d3af": {
+        "src": "Scrcpy repository configuration folder for streamlined remote device control, compatible with current desktop environments as of 2026.",
+        "zh-Hans": "Scrcpy 仓库配置文件夹，用于简化远程设备控制，兼容截至 2026 年的当前桌面环境。",
+        "seen": "2026-11-07",
+        "zh-Hant": "Scrcpy 儲存庫設定資料夾，用於簡化遠端裝置控制，相容於截至 2026 年的現行桌面環境。",
+        "ja": "リモートデバイス制御を簡素化する Scrcpy リポジトリの設定フォルダー。2026 年時点の現行デスクトップ環境に対応。",
+        "ko": "원격 기기 제어를 간소화하는 Scrcpy 저장소 구성 폴더로, 2026년 기준 현재 데스크톱 환경과 호환된다.",
+        "hook": {
+          "en": "Scrcpy remote device control configuration",
+          "zh-Hans": "Scrcpy 远程设备控制配置",
+          "zh-Hant": "Scrcpy 遠端裝置控制設定",
+          "ja": "Scrcpy リモートデバイス制御設定",
+          "ko": "Scrcpy 원격 기기 제어 구성"
+        }
+      }
+    },
+    "MetalHairdresser/slideshow-video-maker": {
+      "bc63f2b0b9a1": {
+        "src": "Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen...",
+        "zh-Hans": "Slideshow Video Maker 2026 自动化部署流水线, 通过优化软件包部署来支持专业视频编辑和屏幕...",
+        "seen": "2026-11-07",
+        "zh-Hant": "Slideshow Video Maker 2026 自動化部署流程, 透過最佳化套件部署來支援專業影片剪輯和螢幕...",
+        "ja": "Slideshow Video Maker 2026 の自動デプロイパイプラインで、パッケージのデプロイを最適化し、プロ向け動画編集と画面...",
+        "ko": "Slideshow Video Maker 2026 자동 배포 파이프라인으로, 패키지 배포를 최적화하여 전문 영상 편집과 화면...",
+        "hook": {
+          "en": "Video editing software deployment pipeline",
+          "zh-Hans": "视频编辑软件自动部署流程",
+          "zh-Hant": "影片剪輯軟體自動部署流程",
+          "ja": "動画編集ソフトの自動デプロイ工程",
+          "ko": "영상 편집 소프트웨어 자동 배포 과정"
+        }
+      }
+    },
     "Midnightclitug/iobit-driver-booster": {
       "9a64b2421f5f": {
         "src": "Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with all features pre-activated.",
@@ -782,6 +1003,23 @@
         }
       }
     },
+    "MinisterRoute/sp-flash-tool": {
+      "0745ccc08696": {
+        "src": "Sp Flash Tool 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility configuration.",
+        "zh-Hans": "Sp Flash Tool 2026 自动化部署流水线的预配置环境, 确保桌面实用软件配置顺畅进行.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Sp Flash Tool 2026 自動化部署流程的預先設定環境, 確保桌面公用軟體設定順暢進行.",
+        "ja": "Sp Flash Tool 2026 の自動デプロイパイプライン用の設定済み環境で、デスクトップユーティリティソフトの設定を円滑に行える.",
+        "ko": "Sp Flash Tool 2026 자동 배포 파이프라인을 위한 사전 구성 환경으로, 데스크톱 유틸리티 소프트웨어를 원활하게 설정할 수 있다.",
+        "hook": {
+          "en": "Preconfigured desktop software deployment",
+          "zh-Hans": "桌面软件部署预配置环境",
+          "zh-Hant": "桌面軟體部署預先設定環境",
+          "ja": "デスクトップソフトのデプロイ用設定済み環境",
+          "ko": "데스크톱 소프트웨어 배포용 사전 구성 환경"
+        }
+      }
+    },
     "Moh4696/open-3d-skills": {
       "412bdce021dc": {
         "src": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, bro…",
@@ -813,6 +1051,23 @@
           "zh-Hant": "Fonetrans 桌面版 2026，標為已啟用",
           "ja": "Fonetrans デスクトップ2026、有効化済み表記",
           "ko": "Fonetrans 데스크톱 2026, 활성화 완료 표기"
+        }
+      }
+    },
+    "MuseumCuckoo/unlocktool": {
+      "496f448ba5ed": {
+        "src": "Unlocktool 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal software catalog management.",
+        "zh-Hans": "Unlocktool 2026 预配置环境，用于顺畅地部署到本地工作站，确保软件目录管理达到最佳状态。",
+        "seen": "2026-11-07",
+        "zh-Hant": "Unlocktool 2026 預先設定的環境，用於順暢地部署至本機工作站，確保軟體目錄管理達到最佳狀態。",
+        "ja": "ローカルワークステーションへの円滑な展開に向けた Unlocktool 2026 設定済み環境。ソフトウェアカタログの最適な管理を確保。",
+        "ko": "로컬 워크스테이션에 원활하게 배포하기 위한 Unlocktool 2026 사전 구성 환경으로, 최적의 소프트웨어 카탈로그 관리를 보장한다.",
+        "hook": {
+          "en": "Unlocktool workstation deployment environment",
+          "zh-Hans": "Unlocktool 工作站部署环境",
+          "zh-Hant": "Unlocktool 工作站部署環境",
+          "ja": "Unlocktool ワークステーション展開環境",
+          "ko": "Unlocktool 워크스테이션 배포 환경"
         }
       }
     },
@@ -862,6 +1117,23 @@
           "zh-Hant": "動效抄不像？逐幀還原並驗證完全一致",
           "ja": "アニメ再現が難しい？1コマずつ解析して一致を証明",
           "ko": "어려운 애니메이션 복제, 프레임 단위로 똑같이 재현"
+        }
+      }
+    },
+    "NoonBrokerRevere97/wondshare-recoverit": {
+      "04a98c8cbc6a": {
+        "src": "Wondshare Recoverit 15.3 automated deployment pipeline for efficient enterprise data recovery and management tasks in isolated workstation...",
+        "zh-Hans": "Wondshare Recoverit 15.3 自动化部署流水线，用于在隔离的工作站中高效执行企业数据恢复和管理任务...",
+        "seen": "2026-11-07",
+        "zh-Hant": "Wondshare Recoverit 15.3 自動化部署管線，用於在隔離的工作站中高效執行企業資料復原和管理工作...",
+        "ja": "隔離されたワークステーションで企業データの復元と管理作業を効率的に行うための Wondshare Recoverit 15.3 自動展開パイプライン...",
+        "ko": "격리된 워크스테이션에서 효율적인 기업 데이터 복구 및 관리 작업을 위한 Wondshare Recoverit 15.3 자동 배포 파이프라인...",
+        "hook": {
+          "en": "Wondshare Recoverit deployment pipeline",
+          "zh-Hans": "Wondshare Recoverit 部署流水线",
+          "zh-Hant": "Wondshare Recoverit 部署管線",
+          "ja": "Wondshare Recoverit 展開パイプライン",
+          "ko": "Wondshare Recoverit 배포 파이프라인"
         }
       }
     },
@@ -1087,6 +1359,23 @@
         }
       }
     },
+    "Sandflow-ai/sand3d": {
+      "cbaeb8fa8816": {
+        "src": "3D modeling in Python, built for LLMs.",
+        "zh-Hans": "用 Python 进行 3D 建模, 为 LLMs 打造.",
+        "seen": "2026-11-07",
+        "zh-Hant": "用 Python 進行 3D 建模, 為 LLMs 打造.",
+        "ja": "LLMs 向けに作られた、Python での 3D モデリング.",
+        "ko": "LLMs를 위해 만든 Python 기반 3D 모델링.",
+        "hook": {
+          "en": "Let language models build 3D models in Python",
+          "zh-Hans": "让大模型用 Python 做三维建模",
+          "zh-Hant": "讓語言模型用 Python 做三維建模",
+          "ja": "言語モデルがPythonで3Dを作る",
+          "ko": "언어 모델로 Python에서 3D 만들기"
+        }
+      }
+    },
     "ScorpionHub17/KMS-Pico": {
       "28a1da717842": {
         "src": "Kms Pico Free 2026 complete standalone setup. Pre-activated desktop edition ready to run, ensuring a smooth installation experience.",
@@ -1296,6 +1585,23 @@
           "ko": "CS2 가격차가 고민될 때, 수수료 따져 로컬 확인",
           "zh-Hans": "CS2 交易怕算漏手续费，本地直接扫差价",
           "zh-Hant": "CS2 交易怕算漏手續費，本機直接掃價差"
+        }
+      }
+    },
+    "Toyhom/awesome-computational-character-modeling": {
+      "6ed6b7a7f82e": {
+        "src": "Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript.",
+        "zh-Hans": "Computational Character Modeling 的综述配套资料: 按论文结构整理的角色扮演方法、数据基础和评估.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Computational Character Modeling 的綜述配套資料: 依論文結構整理的角色扮演方法、資料基礎與評估.",
+        "ja": "Computational Character Modeling のサーベイ補足資料: 論文の構成に沿って整理したロールプレイ手法、データ基盤、評価.",
+        "ko": "Computational Character Modeling 서베이의 보충 자료: 논문 구성에 따라 정리한 역할 수행 방법, 데이터 기반, 평가.",
+        "hook": {
+          "en": "Explore research on modeling characters",
+          "zh-Hans": "查阅角色建模研究资料",
+          "zh-Hant": "查閱角色建模研究資料",
+          "ja": "キャラクターのモデリング研究を探す",
+          "ko": "캐릭터 모델링 연구 자료 찾기"
         }
       }
     },
@@ -1705,6 +2011,24 @@
         }
       }
     },
+    "dabingfy-dot/solo-to-team-skills": {
+      "0bdecfa14a14": {
+        "src": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+        "zh-Hans": "人类主导的 AI 团队技能: 分派任务、核验证据、清楚解释步骤, 并从真实案例中学习. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+        "seen": "2026-11-07",
+        "zh-Hant": "由人主導的 AI 團隊技能: 分派任務、查證證據、清楚解釋步驟, 並從真實案例中學習. 一個人統籌 AI 團隊：派工、查證、清楚說明、經驗重用。",
+        "ja": "人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。",
+        "ko": "사람이 이끄는 AI 팀을 위한 스킬: 작업 위임, 근거 검증, 단계별 명확한 설명, 실제 사례에서 학습. 한 사람이 AI 팀을 총괄：작업 배분, 근거 확인, 명확한 설명, 경험 재활용。",
+        "en": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. One person coordinates an AI team: assign work, verify evidence, explain clearly, and reuse experience.",
+        "hook": {
+          "en": "Delegate work across your AI team",
+          "zh-Hans": "把任务分派给你的 AI 团队",
+          "zh-Hant": "把任務分派給你的 AI 團隊",
+          "ja": "AIチームに仕事を振り分ける",
+          "ko": "AI 팀에 작업 나눠 맡기기"
+        }
+      }
+    },
     "darkareaminaret/MetaTrader-5-Bot": {
       "748f047fe4bc": {
         "src": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
@@ -1805,6 +2129,23 @@
         }
       }
     },
+    "devvmhq/devvm": {
+      "a0f92709dff6": {
+        "src": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+        "zh-Hans": "每个项目一个 VM. 配备项目工具链的隔离沙箱, 随时可供你或编程智能体开始写代码",
+        "seen": "2026-11-07",
+        "zh-Hant": "每個專案一個 VM. 配備專案工具鏈的隔離沙箱, 隨時可供你或程式開發代理開始寫程式",
+        "ja": "プロジェクトごとに一つの VM. プロジェクトのツールチェーンを備えた隔離サンドボックスで、自分でもコーディングエージェントでもすぐにコードを書き始められる",
+        "ko": "프로젝트마다 하나의 VM. 프로젝트 도구 모음을 갖춘 격리된 샌드박스로, 사용자나 코딩 에이전트가 바로 코딩을 시작할 수 있다",
+        "hook": {
+          "en": "Give each project its own coding sandbox",
+          "zh-Hans": "每个项目都有独立编程沙箱",
+          "zh-Hant": "每個專案都有獨立開發沙箱",
+          "ja": "各プロジェクトに独立した開発環境を用意",
+          "ko": "프로젝트마다 독립된 코딩 환경 마련"
+        }
+      }
+    },
     "driftcoralemporium/instagram-liker-bot": {
       "0ba3a1b3b3e7": {
         "src": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.",
@@ -1834,6 +2175,24 @@
           "zh-Hant": "單視窗搞定倉庫管理、比對差異與提交",
           "ja": "差分確認からコミットまで1画面で完結",
           "ko": "저장소 관리와 커밋을 한 화면에서 해결"
+        }
+      }
+    },
+    "duyunzhoudyz/dyz-med-paper-skills": {
+      "5d17e06af2b6": {
+        "src": "医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing &amp; research skills.",
+        "zh-Hans": "医学论文写作与科研助手：面向中国医生和医学研究生的 32 个智能体技能，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。医学写作 &amp; 科研技能.",
+        "seen": "2026-11-07",
+        "zh-Hant": "醫學論文寫作與科研助理：面向中國醫師和醫學研究生的 32 個代理技能，適用於 Claude Code、Codex，涵蓋選題、PubMed 文獻檢索、中英寫作、選刊投稿及依審稿意見修訂。醫學寫作 &amp; 科研技能.",
+        "ja": "医学論文の執筆と研究のアシスタント：中国の医師と医学系大学院生向けの 32 個のエージェントスキルで、Claude Code、Codex に対応し、テーマ選び、PubMed 文献検索、中国語・英語での執筆、投稿誌選びと投稿、査読後の修正・再提出をカバー。医学執筆 &amp; 研究スキル.",
+        "ko": "의학 논문 작성 및 연구 어시스턴트：中国 의사와 의학 대학원생을 위한 32개 에이전트 스킬로, Claude Code、Codex에 적용되며, 주제 선정、PubMed 문헌 검색、중국어 및 영어 작성、학술지 선정과 투고、심사 후 수정본 제출을 지원。의학 글쓰기 &amp; 연구 스킬.",
+        "en": "Medical paper writing and research assistant: 32 agent skills for Chinese doctors and medical graduate students, for Claude Code and Codex, covering topic selection, PubMed literature searches, Chinese and English writing, journal selection and submission, and revisions after peer review. Medical writing &amp; research skills.",
+        "hook": {
+          "en": "Get help writing medical papers in Chinese and English",
+          "zh-Hans": "辅助你用中英文撰写医学论文",
+          "zh-Hant": "協助你用中英文撰寫醫學論文",
+          "ja": "中国語と英語での医学論文執筆を支援",
+          "ko": "중국어와 영어로 의학 논문 쓰기 지원"
         }
       }
     },
@@ -1972,6 +2331,23 @@
         }
       }
     },
+    "gravitygovernorhinge/clion": {
+      "1123cdf04b56": {
+        "src": "Clion 2026 pre-configured environment for efficient local workstation deployment.",
+        "zh-Hans": "Clion 2026 预配置环境, 用于高效完成本地工作站部署.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Clion 2026 預先設定環境, 用於高效完成本機工作站部署.",
+        "ja": "Clion 2026 の設定済み環境で、ローカルワークステーションへの効率的なデプロイに対応する.",
+        "ko": "Clion 2026 사전 구성 환경으로, 로컬 워크스테이션에 효율적으로 배포하기 위한 것이다.",
+        "hook": {
+          "en": "Preconfigured local workstation deployment",
+          "zh-Hans": "本地工作站部署预配置环境",
+          "zh-Hant": "本機工作站部署預先設定環境",
+          "ja": "ローカルワークステーションのデプロイ設定",
+          "ko": "로컬 워크스테이션 배포용 사전 구성 환경"
+        }
+      }
+    },
     "gryphonautocratmatch/StartAll-Back": {
       "5b03a1603ec0": {
         "src": "Startall Back 2026: Full working installer with complete configuration utility for professional desktop environments.",
@@ -1984,6 +2360,23 @@
           "en": "Startall Back 2026 desktop configuration installer",
           "ja": "Startall Back 2026 デスクトップ設定ツール",
           "ko": "Startall Back 2026 데스크톱 설정 프로그램"
+        }
+      }
+    },
+    "hairwayrefresh/drfoneunlock": {
+      "81ad5bb67280": {
+        "src": "Drfoneunlock 2023 - Local workstation deployment package with pre-configured environment for efficient device unlocking operations.",
+        "zh-Hans": "Drfoneunlock 2023 - 本地工作站部署包，配有预配置环境，用于高效执行设备解锁操作。",
+        "seen": "2026-11-07",
+        "zh-Hant": "Drfoneunlock 2023 - 本機工作站部署套件，附有預先設定的環境，用於高效執行裝置解鎖作業。",
+        "ja": "Drfoneunlock 2023 - 効率的なデバイスのロック解除操作に向けた設定済み環境を備える、ローカルワークステーション用展開パッケージ。",
+        "ko": "Drfoneunlock 2023 - 효율적인 기기 잠금 해제 작업을 위한 사전 구성 환경을 갖춘 로컬 워크스테이션 배포 패키지.",
+        "hook": {
+          "en": "Drfoneunlock workstation deployment package",
+          "zh-Hans": "Drfoneunlock 工作站部署包",
+          "zh-Hant": "Drfoneunlock 工作站部署套件",
+          "ja": "Drfoneunlock ワークステーション展開用",
+          "ko": "Drfoneunlock 워크스테이션 배포 패키지"
         }
       }
     },
@@ -2059,6 +2452,23 @@
         }
       }
     },
+    "howznguyen/shorts-kit": {
+      "61c407b1532d": {
+        "src": "Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remotion. 9+ agent skills, 20+ story flows, fact ledger, CC0 SFX.",
+        "zh-Hans": "用编程智能体和 Remotion 制作带旁白的竖屏短视频 (TikTok, YouTube Shorts, Reels). 9+ 项智能体技能, 20+ 种故事流程, 事实记录表, CC0 SFX.",
+        "seen": "2026-11-07",
+        "zh-Hant": "用程式設計代理和 Remotion 製作附旁白的直式短片 (TikTok, YouTube Shorts, Reels). 9+ 項代理技能, 20+ 種故事流程, 事實紀錄表, CC0 SFX.",
+        "ja": "コーディングエージェントと Remotion でナレーション付き縦型ショート動画 (TikTok, YouTube Shorts, Reels) を作る. 9+ のエージェントスキル, 20+ のストーリー構成, 事実台帳, CC0 SFX.",
+        "ko": "코딩 에이전트와 Remotion으로 내레이션이 있는 세로형 쇼츠 (TikTok, YouTube Shorts, Reels) 제작. 9+ 에이전트 스킬, 20+ 스토리 흐름, 사실 기록부, CC0 SFX.",
+        "hook": {
+          "en": "Make narrated vertical videos with a coding agent",
+          "zh-Hans": "让编程智能体制作配音竖屏短片",
+          "zh-Hant": "讓程式設計代理製作旁白直式短片",
+          "ja": "コーディングAIでナレーション付き縦動画",
+          "ko": "코딩 AI로 내레이션 세로 영상 만들기"
+        }
+      }
+    },
     "hugues31/duckpad": {
       "fe7d2b29ab2a": {
         "src": "The data transformation tool the open-source community deserves.",
@@ -2080,6 +2490,24 @@
           "zh-Hant": "開源社群應得的資料轉換工具",
           "ja": "オープンソースにふさわしいデータ変換ツール",
           "ko": "오픈 소스 커뮤니티를 위한 데이터 변환 도구"
+        }
+      }
+    },
+    "imsai-sh/fish-pocket": {
+      "76ae26abd217": {
+        "src": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。",
+        "zh-Hans": "在 iPhone 和 iPad 上运行 DeepSeek Harness, 采用完全原生的 SwiftUI 界面. 无需电脑, 无需服务器. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。",
+        "seen": "2026-11-07",
+        "zh-Hant": "在 iPhone 和 iPad 上執行 DeepSeek Harness, 採用完全原生的 SwiftUI 介面. 無須電腦, 無須伺服器. 在 iPhone 和 iPad 上於本機執行 DeepSeek Harness，介面完全原生。",
+        "ja": "完全ネイティブの SwiftUI インターフェースで、iPhone と iPad 上で DeepSeek Harness を実行する. パソコン不要、サーバー不要. iPhone と iPad 上で DeepSeek Harness をローカル実行し、インターフェースは完全ネイティブ。",
+        "ko": "완전한 네이티브 SwiftUI 인터페이스로 iPhone과 iPad에서 DeepSeek Harness 실행. 컴퓨터 불필요, 서버 불필요. iPhone과 iPad에서 DeepSeek Harness를 기기 자체에서 실행하며, 인터페이스는 완전한 네이티브。",
+        "en": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. Run DeepSeek Harness locally on iPhone and iPad, with a fully native interface.",
+        "hook": {
+          "en": "Run DeepSeek Harness on iPhone without a computer",
+          "zh-Hans": "不用电脑也能在手机上跑 AI",
+          "zh-Hant": "不用電腦也能在手機上跑 AI",
+          "ja": "パソコンなしでiPhone上のAIを動かす",
+          "ko": "컴퓨터 없이 iPhone에서 AI 실행하기"
         }
       }
     },
@@ -2263,14 +2691,16 @@
       "277d37eff81e": {
         "src": "A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG.",
         "zh-Hans": "以一致风格绘制动态图标的 Claude 技能，带有悬停动效或作为静态 SVG。",
-        "seen": "2026-11-05",
+        "seen": "2026-11-07",
         "zh-Hant": "以一致風格繪製動態圖示的 Claude 技能，帶有懸停動效或作為靜態 SVG。",
         "ja": "ホバーモーションまたは静的 SVG として、統一されたスタイルで動的アイコンを描画する Claude スキル。",
         "ko": "호버 모션 또는 정적 SVG로 일관된 스타일의 동적 아이콘을 그리는 Claude 스킬.",
         "hook": {
           "en": "Icons look mismatched, let a Claude skill draw one style",
           "ja": "アイコンが不揃いなら、Claude スキルで統一描画",
-          "ko": "제각각인 아이콘, Claude 스킬로 맞춰 그리기"
+          "ko": "제각각인 아이콘, Claude 스킬로 맞춰 그리기",
+          "zh-Hans": "用 Claude 技能统一图标风格",
+          "zh-Hant": "用 Claude 技能統一圖示風格"
         }
       }
     },
@@ -2291,6 +2721,41 @@
         }
       }
     },
+    "lavagunsmithmystery/metatrader-5-bot": {
+      "1c8a9bccb8e6": {
+        "src": "Metatrader 5 Bot repository configuration folder for streamlined automated deployment pipeline in professional desktop software utility environment.",
+        "zh-Hans": "Metatrader 5 Bot 仓库配置文件夹, 用于在专业桌面实用软件环境中简化自动化部署流水线.",
+        "seen": "2026-11-07",
+        "zh-Hant": "Metatrader 5 Bot 儲存庫設定資料夾, 用於在專業桌面公用軟體環境中簡化自動化部署流程.",
+        "ja": "Metatrader 5 Bot リポジトリの設定フォルダで、プロ向けデスクトップユーティリティソフト環境の自動デプロイパイプラインを効率化するためのもの.",
+        "ko": "Metatrader 5 Bot 저장소 구성 폴더로, 전문 데스크톱 유틸리티 소프트웨어 환경에서 자동 배포 파이프라인을 간소화하기 위한 것이다.",
+        "hook": {
+          "en": "Configuration for automated desktop software deployment",
+          "zh-Hans": "桌面软件自动部署配置",
+          "zh-Hant": "桌面軟體自動部署設定",
+          "ja": "デスクトップソフトの自動デプロイ設定",
+          "ko": "데스크톱 소프트웨어 자동 배포 구성"
+        }
+      }
+    },
+    "leodavincs/kalem": {
+      "e7fb3cdda5be": {
+        "src": "Claude Code skill: her sahnenin kendi kalemi var. Videoyu sahnelere böler, her sahneye uygun motoru seçer (Paper.js, PixiJS, HyperFrames, Three.js, Manim).",
+        "zh-Hans": "Claude Code 技能：每个场景都有自己的画笔。将视频拆分为场景，为每个场景选择合适的引擎 (Paper.js, PixiJS, HyperFrames, Three.js, Manim)。",
+        "seen": "2026-11-07",
+        "zh-Hant": "Claude Code 技能：每個場景都有自己的畫筆。將影片拆分為場景，為每個場景選擇合適的引擎 (Paper.js, PixiJS, HyperFrames, Three.js, Manim)。",
+        "ja": "Claude Code スキル：各シーンには専用のペンがある。動画をシーンに分け、各シーンに適したエンジンを選ぶ (Paper.js, PixiJS, HyperFrames, Three.js, Manim)。",
+        "ko": "Claude Code 스킬: 각 장면에는 저마다의 펜이 있다. 동영상을 장면으로 나누고 각 장면에 맞는 엔진을 선택한다 (Paper.js, PixiJS, HyperFrames, Three.js, Manim).",
+        "en": "Claude Code skill: each scene has its own pen. Splits the video into scenes and selects the appropriate engine for each scene (Paper.js, PixiJS, HyperFrames, Three.js, Manim).",
+        "hook": {
+          "en": "Choose a fitting engine for each video scene",
+          "zh-Hans": "给视频每个场景选合适的引擎",
+          "zh-Hant": "為影片每個場景選合適的引擎",
+          "ja": "動画の各シーンに合うエンジンを選ぶ",
+          "ko": "동영상 장면마다 알맞은 엔진 선택"
+        }
+      }
+    },
     "lexifina/global-law": {
       "edc6507143b1": {
         "src": "Git for Global Law: the law of 700+ jurisdictions in git, each country's record a submodule where every commit is one change, dated by when it took effect and…",
@@ -2305,6 +2770,41 @@
           "zh-Hant": "像看程式碼提交一樣追蹤全球法律變更",
           "ja": "700超の法改正をgitの履歴のように追う",
           "ko": "700여 개 관할권의 법률 변경을 git처럼 추적"
+        }
+      }
+    },
+    "lijiaqi-AI-Product-Manager/dsh-agent-compare": {
+      "8f1e204da595": {
+        "src": "同一需求，两版真跑，体验后审查采用。Two live builds for one task in DeepSeek Harness.",
+        "zh-Hans": "同一需求，两版真跑，体验后审查采用。在 DeepSeek Harness 中为一项任务实际运行两个版本。",
+        "seen": "2026-11-07",
+        "zh-Hant": "同一需求，兩版實際執行，體驗後審查採用。在 DeepSeek Harness 中為一項任務實際執行兩個版本。",
+        "ja": "同じ要件で二つの版を実際に動かし、試してから審査して採用する。DeepSeek Harness で一つのタスクに二つの実動ビルド。",
+        "ko": "같은 요구사항으로 두 버전을 실제 실행하고, 체험 후 검토해 채택한다. DeepSeek Harness에서 하나의 작업에 두 개의 실제 실행 빌드.",
+        "en": "One requirement, two versions actually running; try them, then review and adopt. Two live builds for one task in DeepSeek Harness.",
+        "hook": {
+          "en": "Try two working versions before choosing one",
+          "zh-Hans": "先体验两个版本，再审查选用",
+          "zh-Hant": "先體驗兩個版本，再審查選用",
+          "ja": "二つの動く版を試してから選ぶ",
+          "ko": "실행되는 두 버전을 체험한 뒤 선택"
+        }
+      }
+    },
+    "loudspiritspade/multiaccountmanager": {
+      "d199044d590e": {
+        "src": "Multiaccountmanager 2023 pre-configured environment for seamless automated deployment pipeline, ensuring robust multi-account management on...",
+        "zh-Hans": "Multiaccountmanager 2023 预配置环境, 用于顺畅运行自动化部署流水线, 确保可靠的多账号管理, 适用于...",
+        "seen": "2026-11-07",
+        "zh-Hant": "Multiaccountmanager 2023 預先設定環境, 用於順暢執行自動化部署流程, 確保可靠的多帳號管理, 適用於...",
+        "ja": "Multiaccountmanager 2023 の設定済み環境で、自動デプロイパイプラインを円滑に実行し、堅牢な複数アカウント管理を実現する。対象は...",
+        "ko": "Multiaccountmanager 2023 사전 구성 환경으로, 자동 배포 파이프라인을 원활하게 실행하며 안정적인 다중 계정 관리를 제공한다. 대상은...",
+        "hook": {
+          "en": "Preconfigured automated deployment pipeline",
+          "zh-Hans": "自动部署流水线预配置环境",
+          "zh-Hant": "自動部署流程預先設定環境",
+          "ja": "自動デプロイ工程用の設定済み環境",
+          "ko": "자동 배포 과정용 사전 구성 환경"
         }
       }
     },
@@ -2327,7 +2827,7 @@
       "c9d130b52aa0": {
         "src": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
         "zh-Hans": "面向 Claude Code、Cursor、Copilot、Windsurf、Cline，根据越南法律（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）进行的网站法律审计",
-        "seen": "2026-11-04",
+        "seen": "2026-11-07",
         "zh-Hant": "面向 Claude Code、Cursor、Copilot、Windsurf、Cline，根據越南法律（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）進行的網站法律審計",
         "ja": "Claude Code、Cursor、Copilot、Windsurf、Cline向けの、ベトナム法（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）に基づくウェブサイト法務監査",
         "ko": "Claude Code, Cursor, Copilot, Windsurf, Cline을 위한 베트남 법률(BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) 기준 웹사이트 법률 감사",
@@ -2337,7 +2837,8 @@
           "zh-Hant": "檢查網站是否符合越南法規要求",
           "ja": "ウェブサイトがベトナム法を満たすか検査",
           "ko": "웹사이트가 베트남 법률을 준수하는지 점검"
-        }
+        },
+        "en": "Website legal audit under Vietnamese law (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) for Claude Code, Cursor, Copilot, Windsurf, Cline"
       }
     },
     "mochiiwuff/capri-desktop": {
@@ -2447,6 +2948,23 @@
         }
       }
     },
+    "mrhlaingbwardev/agentic-hacking-skills": {
+      "f41a1e4fc4d8": {
+        "src": "AI-Powered Web Security &amp; Automation - Official bonus skills, agents &amp; MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+        "zh-Hans": "AI 驱动的 Web 安全 &amp; 自动化 - 《Agentic Hacking》电子书的官方附赠技能、智能体 &amp; MCP 配置 (28 个 SKILL.md 模板)",
+        "seen": "2026-11-07",
+        "zh-Hant": "AI 驅動的 Web 資安 &amp; 自動化 - 《Agentic Hacking》電子書的官方附贈技能、代理 &amp; MCP 設定 (28 個 SKILL.md 範本)",
+        "ja": "AI による Web セキュリティ &amp; 自動化 - 電子書籍「Agentic Hacking」の公式特典スキル、エージェント &amp; MCP 設定 (28 個の SKILL.md テンプレート)",
+        "ko": "AI 기반 Web 보안 &amp; 자동화 - 전자책 'Agentic Hacking'의 공식 보너스 스킬, 에이전트 &amp; MCP 설정 (SKILL.md 템플릿 28개)",
+        "hook": {
+          "en": "Templates for AI-assisted web security",
+          "zh-Hans": "用模板辅助 AI 检查网页安全",
+          "zh-Hant": "用範本輔助 AI 檢查網頁資安",
+          "ja": "AIでWebの安全を調べるテンプレート",
+          "ko": "AI 웹 보안 점검용 템플릿"
+        }
+      }
+    },
     "muaaz9329/cheap-ag": {
       "d2702f376713": {
         "src": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP…",
@@ -2506,6 +3024,23 @@
         }
       }
     },
+    "naturemidwifedream/uttorent": {
+      "8de790923f53": {
+        "src": "Uttorent 3.5.1 pre-configured environment for secure, automated desktop software utility deployment in 2026.",
+        "zh-Hans": "Uttorent 3.5.1 预配置环境，用于在 2026 年安全、自动化地部署桌面软件实用工具。",
+        "seen": "2026-11-07",
+        "zh-Hant": "Uttorent 3.5.1 預先設定的環境，用於在 2026 年安全、自動化地部署桌面軟體公用程式。",
+        "ja": "2026 年にデスクトップソフトウェアユーティリティを安全かつ自動で展開するための Uttorent 3.5.1 設定済み環境。",
+        "ko": "2026년 데스크톱 소프트웨어 유틸리티를 안전하게 자동 배포하기 위한 Uttorent 3.5.1 사전 구성 환경.",
+        "hook": {
+          "en": "Uttorent desktop utility deployment environment",
+          "zh-Hans": "Uttorent 桌面工具部署环境",
+          "zh-Hant": "Uttorent 桌面工具部署環境",
+          "ja": "Uttorent デスクトップツール展開環境",
+          "ko": "Uttorent 데스크톱 도구 배포 환경"
+        }
+      }
+    },
     "nodedevelopersack/Cubase": {
       "e4e70a0685b8": {
         "src": "Professional Cubase 13 complete standalone installation build, pre-activated for seamless desktop audio production.",
@@ -2562,6 +3097,23 @@
           "ko": "AI 티가 너무 날 때 4개 스킬로 디자인을 깔끔하게 정리",
           "zh-Hans": "排版全是 AI 味？用一套设计系统去掉",
           "zh-Hant": "排版全是 AI 味？用一套設計系統去掉"
+        }
+      }
+    },
+    "orkbot-run/ork": {
+      "3b6ea971a383": {
+        "src": "Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps.",
+        "zh-Hans": "源码可用的 AI 助手, 配有长期存在的机器人, 可共享对话并在隔离的计算机上工作. 自托管, 提供网页、桌面和移动应用.",
+        "seen": "2026-11-07",
+        "zh-Hant": "原始碼可取得的 AI 助理, 配備持續存在的機器人, 可共用對話並在隔離的電腦上工作. 自行架設, 提供網頁、桌面及行動應用程式.",
+        "ja": "ソースコードを入手できる AI アシスタントで、永続的なボットが会話を共有し、隔離されたコンピューターで作業する. セルフホスト型で、Web、デスクトップ、モバイルのアプリを提供.",
+        "ko": "소스 코드가 공개된 AI 어시스턴트로, 지속성을 유지하는 봇들이 대화를 공유하고 격리된 컴퓨터에서 작업한다. 셀프 호스팅 방식이며 웹, 데스크톱, 모바일 앱 제공.",
+        "hook": {
+          "en": "Let AI bots share conversations as they work",
+          "zh-Hans": "让 AI 机器人共享工作对话",
+          "zh-Hant": "讓 AI 機器人共用工作對話",
+          "ja": "AIボット同士で作業中の会話を共有",
+          "ko": "AI 봇끼리 작업 대화 공유하기"
         }
       }
     },
@@ -2798,6 +3350,23 @@
         }
       }
     },
+    "shanselman/sandbox-mcp": {
+      "4120ba334c64": {
+        "src": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+        "zh-Hans": "用全新、用完即弃的 Windows 机器测试你的应用: 自动操作 Windows Sandbox 的 MCP 服务器和 CLI",
+        "seen": "2026-11-07",
+        "zh-Hant": "用全新、用完即棄的 Windows 機器測試你的應用程式: 自動操作 Windows Sandbox 的 MCP 伺服器和 CLI",
+        "ja": "アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI",
+        "ko": "앱 테스트를 위한 새 일회용 Windows 머신: Windows Sandbox를 자동화하는 MCP 서버 및 CLI",
+        "hook": {
+          "en": "Test apps on disposable Windows machines",
+          "zh-Hans": "用一次性 Windows 环境测试应用",
+          "zh-Hant": "用一次性 Windows 環境測試應用",
+          "ja": "使い捨てのWindows環境でアプリを試す",
+          "ko": "일회용 Windows 환경에서 앱 테스트하기"
+        }
+      }
+    },
     "shipwords-dev/shipwords": {
       "f5a7f45302ae": {
         "src": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. / 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起…",
@@ -2837,6 +3406,23 @@
           "zh-Hant": "解說動效難做？74個看板隨語音同步",
           "ja": "解説動画の演出が大変？74種のボードを音声と同期",
           "ko": "해설 영상 제작이 막막할 때 74개 보드를 음성과 동기화"
+        }
+      }
+    },
+    "sksarvesh007/antiglaude": {
+      "d9750e45e20a": {
+        "src": "Production compatibility gateway bridge &amp; observability platform connecting Claude Code CLI with Google Antigravity &amp; Gemini inference models via Anthr…",
+        "zh-Hans": "生产环境兼容性网关桥接 &amp; 可观测性平台，将 Claude Code CLI 与 Google Antigravity &amp; Gemini 推理模型连接起来，通过 Anthr…",
+        "seen": "2026-11-07",
+        "zh-Hant": "正式環境相容性閘道橋接 &amp; 可觀測性平台，將 Claude Code CLI 與 Google Antigravity &amp; Gemini 推論模型連接起來，透過 Anthr…",
+        "ja": "本番環境向け互換性ゲートウェイブリッジ &amp; オブザーバビリティプラットフォーム。Claude Code CLI と Google Antigravity &amp; Gemini 推論モデルを接続し、経由するのは Anthr…",
+        "ko": "프로덕션 호환성 게이트웨이 브리지 &amp; 관측 가능성 플랫폼. Claude Code CLI와 Google Antigravity &amp; Gemini 추론 모델을 연결하며, 연결에 사용하는 것은 Anthr…",
+        "hook": {
+          "en": "Connect Claude Code to Gemini inference models",
+          "zh-Hans": "把 Claude Code 接上 Gemini",
+          "zh-Hant": "將 Claude Code 接上 Gemini",
+          "ja": "Claude Code を Gemini モデルに接続",
+          "ko": "Claude Code를 Gemini 모델에 연결"
         }
       }
     },
@@ -3037,6 +3623,23 @@
         }
       }
     },
+    "voyager-so/vork": {
+      "8342707704ad": {
+        "src": "Headless 3D and VFX engine for agents. Research preview.",
+        "zh-Hans": "面向智能体的无界面 3D 和 VFX 引擎. 研究预览版.",
+        "seen": "2026-11-07",
+        "zh-Hant": "供代理使用的無介面 3D 和 VFX 引擎. 研究預覽版.",
+        "ja": "エージェント向けのヘッドレス 3D・VFX エンジン. 研究プレビュー版.",
+        "ko": "에이전트용 헤드리스 3D 및 VFX 엔진. 연구 프리뷰.",
+        "hook": {
+          "en": "Let agents work with 3D and visual effects",
+          "zh-Hans": "让智能体处理三维与视觉特效",
+          "zh-Hant": "讓代理處理三維與視覺特效",
+          "ja": "エージェントで3Dと視覚効果を扱う",
+          "ko": "에이전트로 3D와 시각 효과 다루기"
+        }
+      }
+    },
     "wanghao-SunSky/cs329z-chinese": {
       "74e5fab684ab": {
         "src": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
@@ -3145,6 +3748,41 @@
         }
       }
     },
+    "yorkeccak/globalhackmap": {
+      "e4d023dd77a6": {
+        "src": "Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on one globe, with sources and one-click fixes.",
+        "zh-Hans": "实时呈现每起黑客攻击、漏洞利用和数据泄露：在一个地球仪上查看新漏洞、活跃的漏洞利用和数据泄露，附有来源和一键修复功能。",
+        "seen": "2026-11-07",
+        "zh-Hant": "即時呈現每起駭客攻擊、漏洞利用和資料外洩：在一個地球儀上查看新漏洞、活躍的漏洞利用和資料外洩，附有來源和一鍵修復功能。",
+        "ja": "あらゆるハッキング、エクスプロイト、情報漏えいをリアルタイムで：新たな脆弱性、進行中のエクスプロイト、情報漏えいを一つの地球儀に表示し、情報源とワンクリック修正も提供。",
+        "ko": "모든 해킹, 익스플로잇, 정보 유출을 실시간으로: 새로운 취약점, 진행 중인 익스플로잇과 정보 유출을 하나의 지구본에 표시하며 출처와 원클릭 수정도 제공한다.",
+        "hook": {
+          "en": "See live security incidents on one globe",
+          "zh-Hans": "在地球仪上实时查看安全事件",
+          "zh-Hant": "在地球儀上即時查看資安事件",
+          "ja": "世界のセキュリティ事件を地球儀で随時確認",
+          "ko": "지구본에서 실시간 보안 사건 확인"
+        }
+      }
+    },
+    "yucezerey/turkish-anti-ai-skill": {
+      "11f7da3976c1": {
+        "src": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+        "zh-Hans": "清除土耳其语文本中人工智能痕迹 (AI 垃圾内容、翻译腔、带有翻译痕迹的句子结构和不符合 TDK 语言规范的错误) 的 Agent Skill 和 Humanizer 包.",
+        "seen": "2026-11-07",
+        "zh-Hant": "清除土耳其語文字中人工智慧痕跡 (AI 劣質內容、翻譯腔、帶有翻譯痕跡的句子結構及不符合 TDK 語言規範的錯誤) 的 Agent Skill 和 Humanizer 套件.",
+        "ja": "トルコ語の文章から人工知能の痕跡 (AI の粗製コンテンツ、翻訳調、翻訳くさい文構造、TDK の言語規範に反する誤り) を取り除く Agent Skill と Humanizer パッケージ.",
+        "ko": "튀르키예어 텍스트의 인공지능 흔적 (AI 저품질 콘텐츠, 번역투, 번역 티가 나는 문장 구조와 TDK 언어 규범에 어긋나는 오류)을 제거하는 Agent Skill 및 Humanizer 패키지.",
+        "en": "An Agent Skill and Humanizer package that removes traces of AI from Turkish texts (AI slop, translationese, sentence structures that sound translated, and errors against TDK language standards).",
+        "hook": {
+          "en": "Remove AI traces from Turkish writing",
+          "zh-Hans": "去掉土耳其语文章里的 AI 痕迹",
+          "zh-Hant": "去掉土耳其語文章裡的 AI 痕跡",
+          "ja": "トルコ語の文章からAIの痕跡を取り除く",
+          "ko": "튀르키예어 글에서 AI 흔적 지우기"
+        }
+      }
+    },
     "zeabur-oss/zeabur": {
       "001d514c66e3": {
         "src": "Self-hosted PaaS on your own Kubernetes.",
@@ -3166,6 +3804,23 @@
           "zh-Hant": "跑在自家 Kubernetes 上的 PaaS",
           "ja": "自前の Kubernetes で動くセルフホスト PaaS",
           "ko": "내 Kubernetes에서 돌리는 셀프 호스팅 PaaS"
+        }
+      }
+    },
+    "zeemscript/block-roll": {
+      "180be8dc7b4c": {
+        "src": "Non-custodial, encrypted file storage &amp; sharing platform with Stellar payments and on-chain file notarization",
+        "zh-Hans": "非托管的加密文件存储 &amp; 共享平台，支持 Stellar 支付和链上文件公证",
+        "seen": "2026-11-07",
+        "zh-Hant": "非託管的加密檔案儲存 &amp; 分享平台，支援 Stellar 付款和鏈上檔案公證",
+        "ja": "Stellar 決済とオンチェーンのファイル公証に対応する、非カストディ型の暗号化ファイル保存 &amp; 共有プラットフォーム",
+        "ko": "Stellar 결제와 온체인 파일 공증을 지원하는 비수탁형 암호화 파일 저장 &amp; 공유 플랫폼",
+        "hook": {
+          "en": "Store and share encrypted files",
+          "zh-Hans": "加密存储和分享文件",
+          "zh-Hant": "加密儲存和分享檔案",
+          "ja": "ファイルを暗号化して保存・共有",
+          "ko": "파일을 암호화해 저장하고 공유"
         }
       }
     },

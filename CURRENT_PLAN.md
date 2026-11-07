@@ -2,41 +2,41 @@
 
 ## Plan ID
 
-PLAN-006
+PLAN-007
 
 ## Goal
 
-Recover the stale ranking data and let delayed GitHub schedule runs catch up once per Los Angeles calendar day without duplicate refreshes, with consistent daily-update copy on both public landing pages.
+Complete every missing detailed translation and one-line hook in the current ranking across all five languages, while preserving existing translations and all API-derived data.
 
 ## In Scope
 
-- `tools/schedule_guard.py`, `.github/workflows/daily-update.yml`, `tests/test_schedule.py`
-- `docs/DAILY_UPDATE.md`, English/Simplified Chinese Pages copy, and project governance records
-- Owner-authorized merge of PR #19 and deployment verification
-- Manual execution and verification of the existing production data workflow
+- Current-source entries in `data/translation_library.json`
+- Generated README and details pages via `tools/render_readme.py`
+- Completeness, terminology, existing-entry preservation and publication checks
 
 ## Out of Scope
 
-- Ranking calculations, generated data edits, translations, cron frequency, local launchd settings
+- Star data, ranking order, historical snapshot data, source descriptions, existing translations, model configuration, unrelated copy or automation redesign
 
 ## Tasks
 
-- [x] Diagnose skipped schedule runs and start the existing manual data update
-- [x] Add regression tests for late runs, same-day deduplication, DST, invalid state and workflow error propagation
-- [x] Gate scheduled refreshes on the committed data's Los Angeles date, preserving manual dispatch and local-hour mode
-- [x] Run full verification and document operator behavior and follow-up
-- [x] Verify production refresh run 42373937914 and committed data at `2656f40`
-- [x] Correct both Pages descriptions and metadata; verify the final PR head
-- [ ] Verify the first unattended schedule run after the authorized merge; confirm no same-day duplicate
+- [x] Audit repository requirements, current source hashes and missing language/hook fields
+- [x] Fill the missing detailed translations and short hooks using the glossary and existing guards
+- [x] Independently review all new wording and prove no old translated field changed
+- [x] Regenerate pages and verify zero translation/hook gaps across all current categories
+- [ ] Publish the completed content and verify CI and Pages on the resulting commit
 
 ## Verification
 
+- `python3 tools/i18n_pipeline.py --translate --hooks --dry-run`
+- `python3 tools/newcomer_i18n.py --strict`
 - `python3 tools/verify.py`
 - `python3 tools/verify.py --daily`
 - `python3 tools/next_plan.py --check`
+- Compare all previously stored translation fields and API data with the base commit
 
 ## Next Candidates
 
-- After owner-approved merge, verify a delayed scheduled run publishes data and the second trigger skips
-- Monitor Pages freshness separately from the data workflow if the bot commit does not trigger deployment
-- Thin newcomer boards and acceleration column remain in `TODO_BACKLOG.md`
+- Observe the next unattended scheduled update and same-day duplicate suppression
+- Consider making the operator completeness check cover hooks as well as translations without blocking raw-data refreshes
+- Thin newcomer boards and the acceleration column remain in `TODO_BACKLOG.md`

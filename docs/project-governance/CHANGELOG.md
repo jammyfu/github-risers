@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 2026-11-07 (complete current translations)
+
+- Completed detailed descriptions and short hooks for all current ranking entries in English, Simplified Chinese, Traditional Chinese, Japanese and Korean.
+- Retained existing translations, source descriptions, rankings and star data; regenerated README and details pages from the translation library.
+
 ## 2026-11-07 (delayed schedule recovery)
 
 - Scheduled updates can catch up after GitHub starts a job late. The committed data date prevents a second scheduled refresh on the same Los Angeles day.
