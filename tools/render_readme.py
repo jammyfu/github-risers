@@ -81,51 +81,62 @@ def curve_cell(name: str, lang: str) -> str:
             f'<img src="{core.star_history_svg(name)}" width="260" alt="{alt}"></a>')
 
 
+def curves_details(names: list[str], lang: str) -> str:
+    """Keep the existing star-history SVGs, but fold them so ranking tables stay scannable."""
+    if not names:
+        return ""
+    inner = "\n\n".join(curve_cell(name, lang) for name in names)
+    return f"<details>\n<summary>{S[lang]['curves_summary']}</summary>\n\n{inner}\n\n</details>"
+
+
 def project_cell(p: dict, meta: dict, cats: dict, lang: str) -> str:
     cat = cats.get(meta["category"], {}).get("name", {}).get(lang, meta["category"])
     text = hooks.pick(meta.get("hook"), lang, meta["desc"][lang])  # one-line hook; the full text is on docs/DETAILS*.md
     return f"[{p['name']}]({meta['url']})<br>{text}<br>`{cat}`"
 
 
-def growth_table(ranked: list[dict], key: str, metas: dict, cats: dict, lang: str) -> tuple[str, bool]:
+def growth_table(ranked: list[dict], key: str, metas: dict, cats: dict, lang: str) -> tuple[str, bool, list[str]]:
     s = S[lang]
     lines = [
-        f"| {s['h_rank']} | {s['h_project']} | {s['h_gain']} | {s['h_perday']} | {s['h_stars']} | {s['h_curve']} |",
-        "|---|---|---:|---:|---:|---|",
+        f"| {s['h_rank']} | {s['h_project']} | {s['h_gain']} | {s['h_perday']} | {s['h_stars']} |",
+        "|---|---|---:|---:|---:|",
     ]
     any_young = False
+    names: list[str] = []
     for i, p in enumerate(ranked, 1):
         g = p["growth"][key]
         mark = ""
         if g["young"]:
             mark = f" †<br><sub>{s['young_div'].format(n=g['effective_days'])}</sub>"
             any_young = True
+        names.append(p["name"])
         lines.append(
             f"| {i} | {project_cell(p, metas[p['name']], cats, lang)} | +{fmt_int(g['gained'])} | "
-            f"{fmt_rate(g['per_day'])}{mark} | {fmt_int(p['stars'])} | {curve_cell(p['name'], lang)} |"
+            f"{fmt_rate(g['per_day'])}{mark} | {fmt_int(p['stars'])} |"
         )
-    return "\n".join(lines), any_young
+    return "\n".join(lines), any_young, names
 
 
-def total_table(ranked: list[dict], metas: dict, cats: dict, lang: str) -> str:
+def total_table(ranked: list[dict], metas: dict, cats: dict, lang: str) -> tuple[str, list[str]]:
     s = S[lang]
     lines = [
-        f"| {s['h_rank']} | {s['h_project']} | {s['h_stars']} | {s['h_curve']} |",
-        "|---|---|---:|---|",
+        f"| {s['h_rank']} | {s['h_project']} | {s['h_stars']} |",
+        "|---|---|---:|",
     ]
+    names = [p["name"] for p in ranked]
     for i, p in enumerate(ranked, 1):
-        lines.append(f"| {i} | {project_cell(p, metas[p['name']], cats, lang)} | "
-                     f"{fmt_int(p['stars'])} | {curve_cell(p['name'], lang)} |")
-    return "\n".join(lines)
+        lines.append(f"| {i} | {project_cell(p, metas[p['name']], cats, lang)} | {fmt_int(p['stars'])} |")
+    return "\n".join(lines), names
 
 
-def new_table(items: list[dict], lang: str, tr: dict | None = None) -> str:
+def new_table(items: list[dict], lang: str, tr: dict | None = None) -> tuple[str, list[str]]:
     s = S[lang]
     tr = tr or {}
     lines = [
-        f"| {s['h_rank']} | {s['h_project']} | {s['h_created']} | {s['h_stars']} | {s['h_perday']} | {s['h_curve']} |",
-        "|---|---|---|---:|---:|---|",
+        f"| {s['h_rank']} | {s['h_project']} | {s['h_created']} | {s['h_stars']} | {s['h_perday']} |",
+        "|---|---|---|---:|---:|",
     ]
+    names = [it["name"] for it in items]
     for i, it in enumerate(items, 1):
         text = ""
         if it["description"]:  # the one-line hook; until one exists, the translation (or the original) is shown
@@ -134,8 +145,8 @@ def new_table(items: list[dict], lang: str, tr: dict | None = None) -> str:
         desc = f"<br>{text}" if text else ""
         lines.append(
             f"| {i} | [{it['name']}]({it['url']}){desc} | {it['created_at'][:10]}<br><sub>{s['age_fmt'].format(x=it['age_days'])}</sub> | "
-            f"{fmt_int(it['stars'])} | {fmt_rate(it['per_day'])} | {curve_cell(it['name'], lang)} |")
-    return "\n".join(lines)
+            f"{fmt_int(it['stars'])} | {fmt_rate(it['per_day'])} |")
+    return "\n".join(lines), names
 
 
 def ordered_categories(cats: dict[str, dict]) -> list[dict]:
@@ -169,7 +180,11 @@ def category_block(cat: dict, st: list[dict], projects: list[dict], cats: dict,
         elif not new_block.get("items"):
             out += [s["new_none"], ""]
         else:
-            out += [new_table(new_block["items"][:README_TOP], lang, tr), ""]
+            table, names = new_table(new_block["items"][:README_TOP], lang, tr)
+            out += [table, ""]
+            folded = curves_details(names, lang)
+            if folded:
+                out += [folded, ""]
         if new_block.get("ok") and any(not q["ok"] for q in new_block.get("queries", [])):
             bad = sum(1 for q in new_block["queries"] if not q["ok"])
             out += [s["new_partial"].format(failed=bad, total=len(new_block["queries"])), ""]
@@ -178,8 +193,11 @@ def category_block(cat: dict, st: list[dict], projects: list[dict], cats: dict,
         ranked = core.rank(cat_projects, key)[:README_TOP]
         out += [f"### {s[key]}", ""]
         if ranked:
-            table, young = growth_table(ranked, key, metas, cats, lang)
+            table, young, names = growth_table(ranked, key, metas, cats, lang)
             out += [table, ""]
+            folded = curves_details(names, lang)
+            if folded:
+                out += [folded, ""]
             if young:
                 out += [s["young"], ""]
         else:
@@ -188,7 +206,11 @@ def category_block(cat: dict, st: list[dict], projects: list[dict], cats: dict,
     ranked_total = core.rank(cat_projects, "total")[:README_TOP]
     out += [f"### {s['total']}", ""]
     if ranked_total:
-        out += [total_table(ranked_total, metas, cats, lang), ""]
+        table, names = total_table(ranked_total, metas, cats, lang)
+        out += [table, ""]
+        folded = curves_details(names, lang)
+        if folded:
+            out += [folded, ""]
     else:
         out += [s["none"], ""]
     return out
@@ -272,7 +294,7 @@ def faq_block(lang: str) -> list[str]:
 
 
 def render(lang: str, projects: list[dict], stats: dict, cats: dict, tr: dict | None = None) -> str:
-    """The README: headline, image, one sentence, this round's #1s, quick answers, then the boards (top 10)."""
+    """The README: headline, image, value, live boards, quick use, this round's #1s, then the boards (top 10)."""
     s = S[lang]
     st = stats["projects"]
     how = f"docs/{how_name(lang)}"
@@ -284,6 +306,11 @@ def render(lang: str, projects: list[dict], stats: dict, cats: dict, tr: dict | 
         badges(stats, lang), "",
         s["tagline"], "",
         s["stamp"].format(ts=stamp_ts(stats)), "",
+        s["live_line"].format(website=s["website"], site=SITE, latest=latest), "",
+        f"## {s['use_title']}", "",
+        s["use_1"].format(site=SITE),
+        s["use_2"],
+        s["use_3"].format(latest=latest), "",
         s["links"].format(website=s["website"], site=SITE, how=how, index=f"rankings/{archive.index_name(lang)}",
                           latest=latest), "",
         f"## {s['tops_title']}", "",

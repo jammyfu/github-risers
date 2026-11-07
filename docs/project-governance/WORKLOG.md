@@ -98,6 +98,13 @@
 - Merge the exact verified final head after its CI passes. No formal review approval is submitted. Next operational check: confirm main CI/Pages deployment, then observe the next unattended schedule run for refresh and duplicate suppression.
 
 
+## 2026-11-07 — public first screen and profile draft (PLAN-008)
+
+- README already said daily with no timezone; GitHub About still says twice a day. Public `llms.txt` and `CITATION.cff` were still on the old twice-daily wording and were aligned to daily without clocks.
+- First screen now leads with live boards and a three-step quick use. Star-history SVGs remain in every README, folded under `<details>`. No ranking data, workflows, or star numbers were hand-edited.
+- Added `docs/github-profile-draft.md` (Chinese and English) for a future `jammyfu/jammyfu` profile. It lists only verified public projects and URLs, and states that the profile is not published.
+- Next: `python3 tools/verify.py`, then an unmerged PR. GitHub About remains an owner settings change.
+
 ## 2026-11-07 — complete current ranking translations (PLAN-007)
 
 - The current ranking had 38 missing detailed descriptions and 39 repos with missing hook languages. API/data success did not mean translation completeness; the previous completion report left this work unfinished.

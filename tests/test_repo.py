@@ -157,6 +157,10 @@ class HeadlineTests(unittest.TestCase):
                 self.assertNotIn(gone, s["stamp"], code)
                 self.assertNotIn(gone, s["a3"], code)
                 self.assertNotIn(gone, s["schedule"], code)
+                self.assertNotIn(gone, s["live_line"], code)
+                self.assertNotIn(gone, s["use_1"], code)
+                self.assertNotIn(gone, s["use_2"], code)
+                self.assertNotIn(gone, s["use_3"], code)
             how = (ROOT / "docs" / render_readme.how_name(code)).read_text("utf-8")
             self.assertIn(s["schedule"], how, code)
             self.assertNotIn("UTC+8", text, fname)
@@ -205,11 +209,18 @@ class SlimReadmeTests(unittest.TestCase):
             self.assertEqual(lines[2], f"# {s['title']}", code)
             self.assertEqual(len(s["tagline"].splitlines()), 1)
             order = [f"# {s['title']}", render_readme.SOCIAL_IMAGE, "img.shields.io", s["tagline"],
-                     render_readme.SITE, f"## {s['tops_title']}", f"## {s['faq_title']}"]
+                     render_readme.SITE, f"## {s['use_title']}", f"## {s['tops_title']}", f"## {s['faq_title']}"]
             positions = [head.index(x) for x in order]
             self.assertEqual(positions, sorted(positions), code)
-            self.assertLessEqual(len(head.splitlines()), 58, code)
-            for gone in (s["intro"], s["schedule"], s["tops_intro"], s["new_intro"], s["method"][0], s["contrib"], "<details>"):
+            self.assertLessEqual(len(head.splitlines()), 70, code)
+            live = s["live_line"].format(
+                website=s["website"], site=render_readme.SITE,
+                latest=f"latest/{archive.rankings_name(code)}")
+            self.assertIn(live, head, code)
+            self.assertNotIn("<details>", head, code)
+            self.assertIn("<details>", text, code)
+            self.assertIn("<summary>", text, code)
+            for gone in (s["intro"], s["schedule"], s["tops_intro"], s["new_intro"], s["method"][0], s["contrib"]):
                 self.assertNotIn(gone, text, f"{code}: {gone[:40]}")
 
     def test_update_date_is_from_stats_not_baked_into_templates(self):
@@ -253,10 +264,21 @@ class SlimReadmeTests(unittest.TestCase):
             self.assertIn("today_utc", badges[2])
             self.assertNotRegex(badges[2], r"updated-\d{4}--\d\d--\d\d")
 
+    def test_public_llm_brief_matches_daily_cadence(self):
+        for rel in ("llms.txt", "docs/llms.txt"):
+            text = (ROOT / rel).read_text("utf-8")
+            self.assertIn("Updated daily", text, rel)
+            for gone in ("twice a day", "00:00 Beijing", "00:00 Los Angeles"):
+                self.assertNotIn(gone, text, rel)
+        cite = (ROOT / "CITATION.cff").read_text("utf-8")
+        self.assertIn("refreshed daily", cite)
+        self.assertNotIn("twice a day", cite)
+
     def test_geo_links_are_present_in_every_language(self):
         for code in LANG_CODES:
             text, s = self.readme(code), render_readme.S[code]
-            for needle in ("https://jammyfu.github.io/github-risers/", "docs/FAQ.md#what-is-github-risers",
+            for needle in ("https://jammyfu.github.io/github-risers/", s["use_title"],
+                           "docs/FAQ.md#what-is-github-risers",
                            "docs/FAQ.md#is-it-the-same-as-github-trending", "docs/FAQ.md#how-often-is-it-updated",
                            "docs/FAQ.md#how-is-the-growth-rate-computed",
                            "docs/FAQ.md#how-can-i-suggest-a-project-or-report-a-mistake",
@@ -303,6 +325,31 @@ class SlimReadmeTests(unittest.TestCase):
     def test_readme_is_much_smaller_than_a_top_20_page(self):
         for code in LANG_CODES:
             self.assertLess(len(self.readme(code).encode("utf-8")), 140_000, code)
+
+    def test_github_profile_draft_is_unpublished_and_uses_verified_public_links(self):
+        text = (ROOT / "docs/github-profile-draft.md").read_text("utf-8")
+        self.assertIn("not published", text.lower())
+        self.assertIn("jammyfu/jammyfu", text)
+        for url in (
+            "https://github.com/jammyfu/open-game-skills",
+            "https://github.com/jammyfu/github-risers",
+            "https://github.com/jammyfu/MagMark",
+            "https://magmark.cn/",
+            "https://github.com/jammyfu/ComfyUI_PaintingCoderUtils",
+            "https://github.com/jammyfu/reverse-engineering-atlas",
+            "https://bubufu.com",
+            "https://x.com/laofu",
+            "https://jammyfu.github.io/github-risers/",
+        ):
+            self.assertIn(url, text)
+        for gone in (
+            "github-readme-stats", "github-profile-trophy", "komarev/github-profile-views",
+            "WechatEasyBuy", "AIKnowledge", "bubufu-tools", "plain-chinese-books",
+            "KartBox", "Tallyo", "agriprice-lens",
+        ):
+            self.assertNotIn(gone, text)
+        self.assertRegex(text, r"updated twice a day")
+        self.assertIn("updated daily", text)
 
 
 class ZeroTelemetryTests(unittest.TestCase):

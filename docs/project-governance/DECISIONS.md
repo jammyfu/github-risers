@@ -102,6 +102,13 @@
 - The immediate refresh used the existing production workflow. The owner subsequently authorized merging PR #19 and correcting the stale Pages schedule copy. Public English and Simplified Chinese copy says daily without exact clock claims; visible text and structured metadata stay aligned.
 
 
+## 2026-11-07 — public first screen vs GitHub About cadence
+
+- Public README, FAQ, FACTS, HOW_IT_WORKS, Pages, `llms.txt` and `CITATION.cff` say the boards update daily and do not name a timezone or time slot. Operator clocks stay in `docs/DAILY_UPDATE.md`.
+- The GitHub repository About description still says `updated twice a day`. That field is not in git; the owner changes it in GitHub Settings. Suggested text is recorded in `docs/github-profile-draft.md`.
+- README ranking tables show numbers first. Star-history SVGs stay in the file, folded in `<details>`, so the first screen stays scannable without dropping the existing chart contract.
+- `docs/github-profile-draft.md` is a draft for a future `jammyfu/jammyfu` profile README. It is not a published homepage.
+
 ## 2026-11-07 — translation completion is separate from data freshness
 
 - A successful API refresh or permissive daily verification is not evidence that translation is complete. Completion requires zero missing detailed-description and hook languages across every current category, plus a source-language audit for English output.

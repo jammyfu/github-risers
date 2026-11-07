@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use GitHub Risers rankings or data, please cite it as below."
 title: "GitHub Risers: GitHub trending repositories ranked by star growth"
-abstract: "A script-generated leaderboard that ranks GitHub repositories by stars gained per day (last 7, 30 and 365 days) instead of total stars, grouped by category with AI as the main board. Data comes from the GitHub API and is refreshed twice a day."
+abstract: "A script-generated leaderboard that ranks GitHub repositories by stars gained per day (last 7, 30 and 365 days) instead of total stars, grouped by category with AI as the main board. Data comes from the GitHub API and is refreshed daily."
 type: dataset
 authors:
   - alias: "jammyfu"

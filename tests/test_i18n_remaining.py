@@ -82,9 +82,9 @@ class PickTests(unittest.TestCase):
 
     def test_table_uses_translation_per_language_and_original_without_one(self):
         c = lib_of("o/r", "Original text", **{"zh-Hans": "原文的译文"})
-        self.assertIn("<br>原文的译文", render_readme.new_table(ITEMS, "zh-Hans", c))
-        self.assertIn("<br>Original text", render_readme.new_table(ITEMS, "ko", c))
-        self.assertIn("<br>Original text", render_readme.new_table(ITEMS, "zh-Hans", {}))
+        self.assertIn("<br>原文的译文", render_readme.new_table(ITEMS, "zh-Hans", c)[0])
+        self.assertIn("<br>Original text", render_readme.new_table(ITEMS, "ko", c)[0])
+        self.assertIn("<br>Original text", render_readme.new_table(ITEMS, "zh-Hans", {})[0])
 
 
 class ProblemsTests(unittest.TestCase):
