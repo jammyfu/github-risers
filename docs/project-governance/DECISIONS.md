@@ -99,4 +99,4 @@
 - The target remains Los Angeles midnight with the existing two UTC crons. Use the committed `generated_at` converted to LA's calendar date to decide if a refresh is due, rather than the runner's current hour.
 - Any successfully committed refresh on that LA date suppresses scheduled duplicates, including manual refreshes. Manual dispatch remains unconditional; local hour-gated fallback is unchanged.
 - Keep workflow concurrency and fresh `main` checkout. Invalid/future state fails visibly; only exit 1 means an intentional skip. Do not backfill missed snapshots with today's numbers.
-- Code changes remain a draft PR until the owner approves merge. The immediate refresh uses the existing production workflow.
+- The immediate refresh used the existing production workflow. The owner subsequently authorized merging PR #19 and correcting the stale Pages schedule copy. Public English and Simplified Chinese copy says daily without exact clock claims; visible text and structured metadata stay aligned.

@@ -4,6 +4,7 @@
 
 - Scheduled updates can catch up after GitHub starts a job late. The committed data date prevents a second scheduled refresh on the same Los Angeles day.
 - Invalid scheduling state now fails visibly instead of reporting a green skip. Manual dispatch and local fallback behavior are preserved.
+- English and Simplified Chinese landing pages now consistently say daily, including search/social descriptions and FAQ structured metadata.
 
 ## 2026-11-06 (once-daily US schedule)
 

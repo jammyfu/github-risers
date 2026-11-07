@@ -2,7 +2,7 @@
 
 ## Now
 
-- [ ] Review PLAN-006 delayed-schedule fix; after owner-approved merge, confirm a late `daily-update` writes `rankings/<date>/pt-0000/` and the next same-day trigger skips (`gh run list --workflow daily-update.yml`)
+- [ ] After the authorized PLAN-006 merge, confirm a late `daily-update` writes `rankings/<date>/pt-0000/` and the next same-day trigger skips (`gh run list --workflow daily-update.yml`)
 - [ ] Developer Tools new-repo board: 15 of 20 entries were flagged ⚠ in the last run because star-farmed repos use `cli` / `developer-tools`; decide whether to add a quality signal (owner call)
 - [ ] Design and Data new-repo boards are thin (0-2 entries): widen with specific topics only (no generic ones; `tests/test_spam.py` guards that)
 

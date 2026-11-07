@@ -6,17 +6,18 @@ PLAN-006
 
 ## Goal
 
-Recover the stale ranking data and let delayed GitHub schedule runs catch up once per Los Angeles calendar day without duplicate refreshes.
+Recover the stale ranking data and let delayed GitHub schedule runs catch up once per Los Angeles calendar day without duplicate refreshes, with consistent daily-update copy on both public landing pages.
 
 ## In Scope
 
 - `tools/schedule_guard.py`, `.github/workflows/daily-update.yml`, `tests/test_schedule.py`
-- `docs/DAILY_UPDATE.md` and project governance records
+- `docs/DAILY_UPDATE.md`, English/Simplified Chinese Pages copy, and project governance records
+- Owner-authorized merge of PR #19 and deployment verification
 - Manual execution and verification of the existing production data workflow
 
 ## Out of Scope
 
-- Ranking calculations, generated data edits, translations, cron frequency, local launchd settings, merging to `main`
+- Ranking calculations, generated data edits, translations, cron frequency, local launchd settings
 
 ## Tasks
 
@@ -25,7 +26,8 @@ Recover the stale ranking data and let delayed GitHub schedule runs catch up onc
 - [x] Gate scheduled refreshes on the committed data's Los Angeles date, preserving manual dispatch and local-hour mode
 - [x] Run full verification and document operator behavior and follow-up
 - [x] Verify production refresh run 42373937914 and committed data at `2656f40`
-- [ ] Owner reviews the delayed-schedule PR; merge only with approval
+- [x] Correct both Pages descriptions and metadata; verify the final PR head
+- [ ] Verify the first unattended schedule run after the authorized merge; confirm no same-day duplicate
 
 ## Verification
 

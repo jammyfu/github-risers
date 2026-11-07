@@ -88,3 +88,11 @@
 - Baseline: full verification passed with 222 tests. Observed the late-workflow regression fail (`run=false` instead of `run=true`) before implementation. Final full verification passed with 231 tests; `verify.py --daily` passed for all 70 committed projects with no data warnings; `next_plan.py --check` and `git diff --check` passed.
 - Independent code review found no actionable issues; all 21 schedule tests also passed independently. A full-year simulation of both cron triggers delayed seven hours produced exactly one refresh per LA day on all 365 days of 2026.
 - Next: owner review/approval of the draft code PR, then verify an unattended delayed scheduled update and same-day duplicate skip. No merge to main is performed in this round.
+
+
+## 2026-11-07 — authorized merge and Pages copy follow-up
+
+- Owner authorized merging PR #19 and correcting the obsolete twice-daily Pages descriptions. Rechecked main (`2656f40`), the previously reviewed PR head (`099edab`), and successful CI before extending the same PR.
+- Updated English and Simplified Chinese Pages body copy, facts table, FAQ, search/social metadata and JSON-LD to daily, matching the current public README/FAQ wording. No ranking data or layout changes.
+- Page verification first failed on the old structured description, then passed for both languages after correction; JSON-LD is valid and the visible FAQ matches its structured answer. Full verification passed with 231 tests; daily verification, plan validation and diff checks passed.
+- Merge the exact verified final head after its CI passes. No formal review approval is submitted. Next operational check: confirm main CI/Pages deployment, then observe the next unattended schedule run for refresh and duplicate suppression.
