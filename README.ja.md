@@ -72,8 +72,8 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AIに実機のiPhoneを操作させる | 2026-11-05<br><sub>3.0 日</sub> | 566 | 191.7 |
 | 5 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp)<br>AIでゲームのスクリプトを編集する | 2026-11-06<br><sub>2.3 日</sub> | 420 | 181.1 |
 | 6 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>使い捨てのWindows環境でアプリを試す | 2026-11-06<br><sub>1.8 日</sub> | 305 | 170.6 |
-| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow | 2026-11-06<br><sub>1.7 日</sub> | 244 | 145.0 |
-| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Open-source AI app builder for full-stack Next.js apps with hosting and auth | 2026-11-06<br><sub>1.7 日</sub> | 244 | 141.5 |
+| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>動画編集が大変？エージェントがアニメーションを自動化 | 2026-11-06<br><sub>1.7 日</sub> | 244 | 145.0 |
+| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>オープンソースAIでNext.js全スタック構築 | 2026-11-06<br><sub>1.7 日</sub> | 244 | 141.5 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AIチームに仕事を振り分ける | 2026-11-07<br><sub>1.5 日</sub> | 206 | 136.1 |
 | 10 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)<br>トルコ語の文章からAIの痕跡を取り除く | 2026-11-05<br><sub>2.7 日</sub> | 265 | 96.7 |
 
@@ -273,15 +273,15 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>ターミナルから出ずに、完全な macOS を動かす | 2026-11-03<br><sub>5.4 日</sub> | 2,343 | 430.7 |
-| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local... | 2026-11-08<br><sub>1.0 日</sub> | 302 | 302.0 |
-| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2, an AI-driven LLM prompt engineering resource, offers a pre-configured environment for seamless local workstation deployment in 2026. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>BorisFX 2024 pre-configured environment for professional video editing, screen recording, and visual effects workflows. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>Optimized local environment suite for Claude AI pipeline management and custom automation workflows. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
-| 10 | [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro)<br>Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme ローカル環境 | 2026-11-08<br><sub>1.0 日</sub> | 302 | 302.0 |
+| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 導入 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 プロンプト用ローカルデプロイ環境 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5導入 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0設定 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>プロフェッショナルな動画編集、画面録画、視覚効果ワークフロー向けの BorisFX 2024 事前設定済み環境。 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>プロフェッショナルなデスクトップソフトウェアユーティリティにおけるシームレスな自動デプロイパイプラインのための Chief Architect Premier 2026 事前設定済み環境。 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>Claude AI パイプライン管理およびカスタム自動化ワークフロー向けに最適化されたローカル環境スイート。 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
+| 10 | [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro)<br>Daemon Pro 2024、プロフェッショナルなデスクトップソフトウェアユーティリティ上でのシームレスな自動デプロイパイプラインのための事前設定済み環境。 | 2026-11-08<br><sub>1.0 日</sub> | 300 | 300.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -607,10 +607,10 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>公開ページの人物検索を一つのレポートに | 2026-11-05<br><sub>3.4 日</sub> | 414 | 123.3 |
 | 2 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>ファイルを暗号化して保存・共有 | 2026-11-05<br><sub>3.6 日</sub> | 164 | 45.9 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM. | 2026-11-05<br><sub>3.3 日</sub> | 145 | 44.1 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>リアルなスプリング物理挙動を備えたToast。その場でモーフィングする1つのToast。依存関係なし。React、Svelte、プレーンDOM。 | 2026-11-05<br><sub>3.3 日</sub> | 145 | 44.1 |
 | 4 | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare)<br>二つの動く版を試してから選ぶ | 2026-11-02<br><sub>6.6 日</sub> | 236 | 35.9 |
-| 5 | [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux)<br>A UI/UX skill for coding agents to build distinctive, usable interfaces. | 2026-11-03<br><sub>5.0 日</sub> | 101 | 20.3 |
-| 6 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>Play + Postgres starter template with a clean UI | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.4 |
+| 5 | [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux)<br>コーディングエージェントが個性的で使いやすいインターフェースを構築するためのUI/UXスキル。 | 2026-11-03<br><sub>5.0 日</sub> | 101 | 20.3 |
+| 6 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>シンプルなUIのPlayとPostgresスターター | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -773,9 +773,9 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac… | 2026-11-08<br><sub>1.0 日</sub> | 417 | 417.0 |
-| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>REST API on Play Framework with Docker-based deployment and activator | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.3 |
-| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.0 |
+| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>動画をダウンロードせずにTwitchドロップを自動回収 | 2026-11-08<br><sub>1.0 日</sub> | 417 | 417.0 |
+| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Docker対応PlayフレームワークREST API | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.3 |
+| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse用KQL監視ライブラリ | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -1091,7 +1091,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>Event-driven OneLake pipeline with automated Upsert merge and Python reporting | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.0 |
+| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>自動Upsert対応OneLakeパイプライン | 2026-11-06<br><sub>2.0 日</sub> | 149 | 75.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>

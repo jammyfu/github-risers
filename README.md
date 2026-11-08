@@ -72,8 +72,8 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>Let AI operate your real iPhone | 2026-11-05<br><sub>3.0 d</sub> | 566 | 191.7 |
 | 5 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp)<br>Let AI edit your Roblox Studio scripts | 2026-11-06<br><sub>2.3 d</sub> | 420 | 181.1 |
 | 6 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>Test apps on disposable Windows machines | 2026-11-06<br><sub>1.8 d</sub> | 305 | 170.6 |
-| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow | 2026-11-06<br><sub>1.7 d</sub> | 244 | 145.0 |
-| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Open-source AI app builder for full-stack Next.js apps with hosting and auth | 2026-11-06<br><sub>1.7 d</sub> | 244 | 141.5 |
+| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Struggling with video edits? Let agents handle animations | 2026-11-06<br><sub>1.7 d</sub> | 244 | 145.0 |
+| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Need a full-stack Next.js app? Let AI build and host it | 2026-11-06<br><sub>1.7 d</sub> | 244 | 141.5 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>Delegate work across your AI team | 2026-11-07<br><sub>1.5 d</sub> | 206 | 136.1 |
 | 10 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)<br>Remove AI traces from Turkish writing | 2026-11-05<br><sub>2.7 d</sub> | 265 | 96.7 |
 
@@ -273,11 +273,11 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>Don't leave the terminal; run full MacOS right inside it | 2026-11-03<br><sub>5.4 d</sub> | 2,343 | 430.7 |
-| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local... | 2026-11-08<br><sub>1.0 d</sub> | 302 | 302.0 |
-| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
-| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2, an AI-driven LLM prompt engineering resource, offers a pre-configured environment for seamless local workstation deployment in 2026. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
-| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
-| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
+| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme local deployment environment | 2026-11-08<br><sub>1.0 d</sub> | 302 | 302.0 |
+| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 desktop deployment pipeline | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
+| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 prompt engineering environment for local deployment | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
+| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 desktop deployment pipeline | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
+| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 desktop setup environment | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
 | 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>BorisFX 2024 pre-configured environment for professional video editing, screen recording, and visual effects workflows. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
 | 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
 | 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>Optimized local environment suite for Claude AI pipeline management and custom automation workflows. | 2026-11-08<br><sub>1.0 d</sub> | 300 | 300.0 |
@@ -773,9 +773,9 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac… | 2026-11-08<br><sub>1.0 d</sub> | 417 | 417.0 |
-| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>REST API on Play Framework with Docker-based deployment and activator | 2026-11-06<br><sub>2.0 d</sub> | 149 | 75.3 |
-| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library | 2026-11-06<br><sub>2.0 d</sub> | 149 | 75.0 |
+| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Claim Twitch drops in the background with no video download | 2026-11-08<br><sub>1.0 d</sub> | 417 | 417.0 |
+| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Play Framework REST API with Docker deployment | 2026-11-06<br><sub>2.0 d</sub> | 149 | 75.3 |
+| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse and KQL observability library | 2026-11-06<br><sub>2.0 d</sub> | 149 | 75.0 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -1091,7 +1091,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>Event-driven OneLake pipeline with automated Upsert merge and Python reporting | 2026-11-06<br><sub>2.0 d</sub> | 149 | 75.0 |
+| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>OneLake pipeline with automated Upsert merge and Python | 2026-11-06<br><sub>2.0 d</sub> | 149 | 75.0 |
 
 <details>
 <summary>Star history charts for this board</summary>

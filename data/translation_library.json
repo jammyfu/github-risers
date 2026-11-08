@@ -19,6 +19,21 @@
         }
       }
     },
+    "AbhiKamane/ai-app-builder-open": {
+      "294a01a74f58": {
+        "src": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
+        "zh-Hans": "用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器",
+        "seen": "2026-11-08",
+        "zh-Hant": "適用於具備託管和身分驗證的全端 Next.js 應用程式的開源 AI 應用程式建構器",
+        "ja": "ホスティングと認証を備えたフルスタック Next.js アプリ向けのオープンソース AI アプリビルダー",
+        "ko": "호스팅 및 인증을 지원하는 풀스택 Next.js 앱을 위한 오픈 소스 AI 앱 빌더",
+        "hook": {
+          "en": "Need a full-stack Next.js app? Let AI build and host it",
+          "ja": "オープンソースAIでNext.js全スタック構築",
+          "ko": "Next.js 풀스택 앱을 구축하는 오픈 소스 AI"
+        }
+      }
+    },
     "Akillll-DuoHe/fy-code-animation": {
       "d42acaad092b": {
         "src": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
@@ -64,6 +79,21 @@
           "en": "Microsoft Office 2026, listed as pre-activated",
           "ja": "Microsoft Office 2026（事前有効化済み）",
           "ko": "Microsoft Office 2026 사전 활성화 데스크톱 설치본"
+        }
+      }
+    },
+    "ArteVisualenVivo/fabric-pipeline-express-7": {
+      "06353e203372": {
+        "src": "Event-driven OneLake pipeline with automated Upsert merge and Python reporting",
+        "zh-Hans": "事件驱动的 OneLake 流水线，具有自动化 Upsert 合并与 Python 报告功能",
+        "seen": "2026-11-08",
+        "zh-Hant": "事件驅動的 OneLake 管線，具備自動化 Upsert 合併與 Python 報表功能",
+        "ja": "自動UpsertマージとPythonレポート機能を備えたイベント駆動型OneLakeパイプライン",
+        "ko": "자동화된 Upsert 병합 및 Python 보고 기능을 갖춘 이벤트 기반 OneLake 파이프라인",
+        "hook": {
+          "en": "OneLake pipeline with automated Upsert merge and Python",
+          "ja": "自動Upsert対応OneLakeパイプライン",
+          "ko": "자동 Upsert 지원 OneLake 파이프라인"
         }
       }
     },
@@ -608,6 +638,21 @@
         }
       }
     },
+    "Fragokemymy/penr-oz-play": {
+      "83f12152cf58": {
+        "src": "REST API on Play Framework with Docker-based deployment and activator",
+        "zh-Hans": "基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator",
+        "seen": "2026-11-08",
+        "zh-Hant": "基於 Play 框架的 REST API，支援基於 Docker 的部署與 activator",
+        "ja": "Dockerベースのデプロイとactivatorを備えたPlay フレームワーク上のREST API",
+        "ko": "Docker 기반 배포 및 activator를 갖춘 Play 프레임워크 기반 REST API",
+        "hook": {
+          "en": "Play Framework REST API with Docker deployment",
+          "ja": "Docker対応PlayフレームワークREST API",
+          "ko": "Docker 기반 Play 프레임워크 REST API"
+        }
+      }
+    },
     "GalaxyShadeSquare/windows-optimizer": {
       "12db3083ba2e": {
         "src": "Optimized Windows Environment 2026 - Full working installer with advanced system tweaks and enhancements ready to run.",
@@ -1054,6 +1099,21 @@
         }
       }
     },
+    "MuseumCassowaryCarve/twitch-drops-miner": {
+      "b7932f5a0788": {
+        "src": "Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac…",
+        "zh-Hans": "在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac…",
+        "seen": "2026-11-08",
+        "zh-Hant": "在背景自動掛機獲取 Twitch 掉寶。無需下載影片即可領取獎勵、切換頻道並挖掘定時掉落。適用於 Windows、mac…",
+        "ja": "バックグラウンドでTwitchドロップを自動ファーム。動画ダウンロード不要で報酬獲得、チャンネル切り替え、時間指定ドロップのマイニングを実行。Windows、mac…",
+        "ko": "백그라운드에서 Twitch 드롭을 자동 파밍합니다. 비디오 다운로드 없이 보상 수령, 채널 전환, 시간 지정 드롭 채굴을 지원합니다. Windows, mac…용 가벼운 AFK 마이너",
+        "hook": {
+          "en": "Claim Twitch drops in the background with no video download",
+          "ja": "動画をダウンロードせずにTwitchドロップを自動回収",
+          "ko": "영상 다운로드 없이 Twitch 드롭스 백그라운드 수령"
+        }
+      }
+    },
     "MuseumCuckoo/unlocktool": {
       "496f448ba5ed": {
         "src": "Unlocktool 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal software catalog management.",
@@ -1152,6 +1212,21 @@
         }
       }
     },
+    "OhmUrchinSee/abbyy-finereader-pdf": {
+      "c7f6a1d69bda": {
+        "src": "Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026.",
+        "zh-Hans": "Abbyy Finereader Pdf 18.5 自动化部署流水线，用于 2026 年高效桌面实用程序安装与配置。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Abbyy Finereader Pdf 18.5 自動化部署流水線，用於 2026 年高效桌面公用程式安裝與設定。",
+        "ja": "2026 年における効率的なデスクトップユーティリティのセットアップと構成のための Abbyy Finereader Pdf 18.5 自動デプロイパイプライン。",
+        "ko": "2026년 효율적인 데스크톱 유틸리티 설정 및 구성을 위한 Abbyy Finereader Pdf 18.5 자동 배포 파이프라인.",
+        "hook": {
+          "en": "Abbyy Finereader Pdf 18.5 desktop deployment pipeline",
+          "ja": "Abbyy Finereader Pdf 18.5 導入",
+          "ko": "Abbyy Finereader Pdf 18.5 배포"
+        }
+      }
+    },
     "OriginShaper/Microsoft-365": {
       "acafd56e89d8": {
         "src": "Microsoft 365 desktop utility configuration - complete standalone installation setup, ready to run with all features activated.",
@@ -1164,6 +1239,40 @@
           "en": "Microsoft 365 desktop setup, listed as fully activated",
           "ja": "有効化済みと記載のMicrosoft 365デスクトップ構成",
           "ko": "활성화 상태로 기재된 Microsoft 365 데스크톱 구성"
+        }
+      }
+    },
+    "Outsideclofilter/aion-2-trainer-tool": {
+      "e6069371fe0c": {
+        "src": "Aion 2, an AI-driven LLM prompt engineering resource, offers a pre-configured environment for seamless local workstation deployment in 2026.",
+        "zh-Hans": "Aion 2 是一项 AI 驱动的 LLM 提示词工程资源，为 2026 年无缝本地工作站部署提供预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Aion 2 是一項 AI 驅動的 LLM 提示詞工程資源，為 2026 年無縫本機工作站部署提供預配置環境。",
+        "ja": "AI 駆動の LLM プロンプトエンジニアリングリソースである Aion 2 は、2026 年のシームレスなローカルワークステーションデプロイのための事前設定済み環境を提供します。",
+        "ko": "AI 기반 LLM 프롬프트 엔지니어링 리소스인 Aion 2는 2026년 원활한 로컬 워크스테이션 배포를 위한 사전 구성된 환경을 제공합니다.",
+        "hook": {
+          "en": "Aion 2 prompt engineering environment for local deployment",
+          "zh-Hans": "Aion 2 提示词工程本地部署环境",
+          "zh-Hant": "Aion 2 提示詞工程本機部署環境",
+          "ja": "Aion 2 プロンプト用ローカルデプロイ環境",
+          "ko": "Aion 2 프롬프트 로컬 배포 환경"
+        }
+      }
+    },
+    "PaladinSmash84/aida-64-extreme": {
+      "db08340a07cf": {
+        "src": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
+        "zh-Hans": "AI 提示词工程工具包 Aida 64 Extreme，用于在隔离本地进行高级 LLM 训练和部署的预配置环境...",
+        "seen": "2026-11-08",
+        "zh-Hant": "AI 提示詞工程工具包 Aida 64 Extreme，用於在隔離本機進行進階 LLM 訓練和部署的預配置環境...",
+        "ja": "AI プロンプトエンジニアリングツールキット Aida 64 Extreme、分離されたローカルでの高度な LLM トレーニングおよびデプロイ用の事前設定済み環境...",
+        "ko": "AI 프롬프트 엔지니어링 툴킷 Aida 64 Extreme, 격리된 로컬에서 고급 LLM 학습 및 배포를 위한 사전 구성된 환경...",
+        "hook": {
+          "en": "Aida 64 Extreme local deployment environment",
+          "zh-Hans": "Aida 64 Extreme 本地部署环境配置",
+          "zh-Hant": "Aida 64 Extreme 本機部署環境配置",
+          "ja": "Aida 64 Extreme ローカル環境",
+          "ko": "Aida 64 Extreme 로컬 배포 환경"
         }
       }
     },
@@ -1190,6 +1299,36 @@
         "zh-Hant": "預先啟用的 Iobit Driver Booster 2026 桌面版。完整獨立設定，已啟用所有功能並隨時可運行。",
         "ja": "事前アクティベート済みの Iobit Driver Booster 2026 デスクトップ版。すべての機能が有効化され、すぐに実行可能な完全スタンドアロンセットアップ。",
         "ko": "사전 활성화된 Iobit Driver Booster 2026 데스크톱 버전. 모든 기능이 활성화되어 바로 실행 가능한 완전한 독립 실행형 설정."
+      }
+    },
+    "Perceptionzyavalue/ashampoo-uninstaller": {
+      "d3189a300116": {
+        "src": "Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026.",
+        "zh-Hans": "Ashampoo Uninstaller 1.3.5 自动化部署流水线，用于截至 2026 年在企业桌面环境中进行高效的软件卸载与管理。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Ashampoo Uninstaller 1.3.5 自動化部署流水線，用於截至 2026 年在企業桌面環境中進行高效的軟體解除安裝與管理。",
+        "ja": "2026 年時点のエンタープライズデスクトップ環境における効率的なソフトウェア削除と管理のための Ashampoo Uninstaller 1.3.5 自動デプロイパイプライン。",
+        "ko": "2026년 기준 엔터프라이즈 데스크톱 환경에서 효율적인 소프트웨어 제거 및 관리를 위한 Ashampoo Uninstaller 1.3.5 자동 배포 파이프라인.",
+        "hook": {
+          "en": "Ashampoo Uninstaller 1.3.5 desktop deployment pipeline",
+          "ja": "Ashampoo Uninstaller 1.3.5導入",
+          "ko": "Ashampoo Uninstaller 1.3.5 배포"
+        }
+      }
+    },
+    "PerfumerExcite/ashampoo-winoptimizer": {
+      "bf374a269773": {
+        "src": "Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023.",
+        "zh-Hans": "Ashampoo Winoptimizer 17.0 预配置环境，用于在 2023 年简化桌面实用程序安装。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Ashampoo Winoptimizer 17.0 預配置環境，用於在 2023 年簡化桌面公用程式安裝。",
+        "ja": "2023 年におけるデスクトップユーティリティの合理的なセットアップのための Ashampoo Winoptimizer 17.0 事前設定済み環境。",
+        "ko": "2023년 간소화된 데스크톱 유틸리티 설정을 위한 Ashampoo Winoptimizer 17.0 사전 구성된 환경.",
+        "hook": {
+          "en": "Ashampoo Winoptimizer 17.0 desktop setup environment",
+          "ja": "Ashampoo Winoptimizer 17.0設定",
+          "ko": "Ashampoo Winoptimizer 17.0 설정"
+        }
       }
     },
     "Phantomeidemonstrate/AnyDesk": {
@@ -1266,6 +1405,46 @@
         "zh-Hant": "Hwid Spoofer Free 的完整獨立設定，已預先啟用並隨時可運行。",
         "ja": "事前アクティベート済みですぐに実行可能な Hwid Spoofer Free の完全なスタンドアロンセットアップ。",
         "ko": "사전 활성화되어 바로 실행 가능한 Hwid Spoofer Free용 완전한 독립 실행형 설정."
+      }
+    },
+    "PoltergeistDisplay/borisfx": {
+      "c31fd05a9a69": {
+        "src": "BorisFX 2024 pre-configured environment for professional video editing, screen recording, and visual effects workflows.",
+        "zh-Hans": "适用于专业视频编辑、屏幕录制和视觉特效工作流的 BorisFX 2024 预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "適用於專業影片編輯、螢幕錄製和視覺特效工作流程的 BorisFX 2024 預先設定環境。",
+        "ja": "プロフェッショナルな動画編集、画面録画、視覚効果ワークフロー向けの BorisFX 2024 事前設定済み環境。",
+        "ko": "전문적인 비디오 편집, 화면 녹화 및 시각 효과 워크플로를 위한 BorisFX 2024 사전 구성 환경."
+      }
+    },
+    "PsycheGradeSpeak/chief-architect-premier": {
+      "ac382afb2661": {
+        "src": "Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility.",
+        "zh-Hans": "用于专业桌面软件实用工具中无缝自动化部署管线的 Chief Architect Premier 2026 预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "適用於專業桌面軟體公用程式中無縫自動化部署管線的 Chief Architect Premier 2026 預先設定環境。",
+        "ja": "プロフェッショナルなデスクトップソフトウェアユーティリティにおけるシームレスな自動デプロイパイプラインのための Chief Architect Premier 2026 事前設定済み環境。",
+        "ko": "전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 Chief Architect Premier 2026 사전 구성 환경."
+      }
+    },
+    "PurpleChordEvaluate/claude-jailbreak-prompt": {
+      "68204d9490aa": {
+        "src": "Optimized local environment suite for Claude AI pipeline management and custom automation workflows.",
+        "zh-Hans": "用于 Claude AI 管线管理和自定义自动化工作流的优化本地环境套件。",
+        "seen": "2026-11-08",
+        "zh-Hant": "用於 Claude AI 管線管理和自訂自動化工作流程的最佳化本機環境套件。",
+        "ja": "Claude AI パイプライン管理およびカスタム自動化ワークフロー向けに最適化されたローカル環境スイート。",
+        "ko": "Claude AI 파이프라인 관리 및 맞춤형 자동화 워크플로를 위해 최적화된 로컬 환경 제품군."
+      }
+    },
+    "Quantumoarefresh/daemon-pro": {
+      "1e565a4a3f3f": {
+        "src": "Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software utility.",
+        "zh-Hans": "Daemon Pro 2024，用于专业桌面软件实用工具上无缝自动化部署管线的预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Daemon Pro 2024，適用於專業桌面軟體公用程式上無縫自動化部署管線的預先設定環境。",
+        "ja": "Daemon Pro 2024、プロフェッショナルなデスクトップソフトウェアユーティリティ上でのシームレスな自動デプロイパイプラインのための事前設定済み環境。",
+        "ko": "Daemon Pro 2024, 전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 사전 구성 환경."
       }
     },
     "RaikageRegard/foneazy-mobile": {
@@ -1400,6 +1579,26 @@
         }
       }
     },
+    "ShapeMareAmplify/honkai-star-rail-trainer-tool": {
+      "a7980b2b5835": {
+        "src": "Honkai Star Rail 2026 automated deployment pipeline with pre-configured environment ready for instant local execution.",
+        "zh-Hans": "具有预配置环境且可立即进行本地执行的 Honkai Star Rail 2026 自动化部署管线。",
+        "seen": "2026-11-08",
+        "zh-Hant": "具有預先設定環境且可立即進行本機執行的 Honkai Star Rail 2026 自動化部署管線。",
+        "ja": "即座にローカル実行可能な事前設定済み環境を備えた Honkai Star Rail 2026 自動デプロイパイプライン。",
+        "ko": "즉시 로컬 실행이 가능한 사전 구성 환경을 갖춘 Honkai Star Rail 2026 자동 배포 파이프라인."
+      }
+    },
+    "Sheenzensoar/honeypot-detector": {
+      "3db08c1f0c7d": {
+        "src": "Honeypot Detector 2023 automated deployment pipeline for enhanced cybersecurity monitoring and threat detection on professional desktop environments.",
+        "zh-Hans": "用于在专业桌面环境中增强网络安全监控与威胁检测的 Honeypot Detector 2023 自动化部署管线。",
+        "seen": "2026-11-08",
+        "zh-Hant": "用於在專業桌面環境中增強網路安全監控與威脅偵測的 Honeypot Detector 2023 自動化部署管線。",
+        "ja": "プロフェッショナルなデスクトップ環境におけるサイバーセキュリティ監視および脅威検知の強化に向けた Honeypot Detector 2023 自動デプロイパイプライン。",
+        "ko": "전문 데스크톱 환경에서 강화된 사이버 보안 모니터링 및 위협 탐지를 위한 Honeypot Detector 2023 자동 배포 파이프라인."
+      }
+    },
     "ShoreEvokerHeat/fl-studio": {
       "a1c2ef9dc508": {
         "src": "Fl Studio 2026 - Full working installer, complete standalone setup for professional audio production.",
@@ -1413,6 +1612,16 @@
           "ja": "Fl Studio 2026 インストーラー",
           "ko": "Fl Studio 2026 설치 프로그램"
         }
+      }
+    },
+    "SleuthPropagate/imobie-anytrans": {
+      "9696ddcac4d4": {
+        "src": "Imobie Anytrans 1.5.3 - Local workstation deployment package for efficient media management and synchronization tasks in enterprise environments.",
+        "zh-Hans": "Imobie Anytrans 1.5.3 - 适用于企业环境中高效媒体管理与同步任务的本地工作站部署包。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Imobie Anytrans 1.5.3 - 適用於企業環境中高效媒體管理與同步任務的本機工作站部署套件。",
+        "ja": "Imobie Anytrans 1.5.3 - 企業環境における効率的なメディア管理および同期タスクのためのローカルワークステーションデプロイパッケージ。",
+        "ko": "Imobie Anytrans 1.5.3 - 엔터프라이즈 환경에서 효율적인 미디어 관리 및 동기화 작업을 위한 로컬 워크스테이션 배포 패키지."
       }
     },
     "SoapmakerShout44/Cinema-4d": {
@@ -1554,6 +1763,16 @@
         }
       }
     },
+    "SymbolSteward/ozone-12-advanced": {
+      "8184182b05c4": {
+        "src": "Ozone 12 Advanced pre-configured environment for streamlined desktop software utility setup in isolated local workstation deployment.",
+        "zh-Hans": "用于在隔离的本地工作站部署中简化桌面软件实用工具安装的 Ozone 12 Advanced 预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "用於在隔離的本機工作站部署中簡化桌面軟體公用程式設定的 Ozone 12 Advanced 預先設定環境。",
+        "ja": "隔離されたローカルワークステーション展開における合理化されたデスクトップソフトウェアユーティリティセットアップのための Ozone 12 Advanced 事前設定済み環境。",
+        "ko": "격리된 로컬 워크스테이션 배포에서 간소화된 데스크톱 소프트웨어 유틸리티 설정을 위한 Ozone 12 Advanced 사전 구성 환경."
+      }
+    },
     "Tempofaengage/unlocktool": {
       "cbdb6a8104d2": {
         "src": "Unlocktool 2023: Full working installer with enhanced security features for professional desktop use.",
@@ -1569,6 +1788,16 @@
           "ja": "Unlocktool 2023 デスクトップインストーラー",
           "ko": "Unlocktool 2023 데스크톱 설치기"
         }
+      }
+    },
+    "Thornthedefine/reason-14": {
+      "048afd1dbfaf": {
+        "src": "Reason 14: Optimized package deployment for enterprise desktop software utility, ensuring seamless local workstation environment setup in 2026.",
+        "zh-Hans": "Reason 14：企业级桌面软件实用工具的优化包部署，确保2026年无缝的本地工作站环境设置。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Reason 14：企業級桌面軟體實用工具的最佳化套件部署，確保2026年無縫的本機工作站環境設定。",
+        "ja": "Reason 14: 企業向けデスクトップソフトウェアユーティリティのための最適化されたパッケージデプロイ。2026年のシームレスなローカルワークステーション環境セットアップを保証。",
+        "ko": "Reason 14: 기업용 데스크톱 소프트웨어 유틸리티를 위한 최적화된 패키지 배포로, 2026년 원활한 로컬 워크스테이션 환경 설정을 보장합니다."
       }
     },
     "Townlanurture/aegis-skin-terminal": {
@@ -1603,6 +1832,36 @@
           "ja": "キャラクターのモデリング研究を探す",
           "ko": "캐릭터 모델링 연구 자료 찾기"
         }
+      }
+    },
+    "TreasurerRepresent/rx-11-audio-editor": {
+      "801e806d07f1": {
+        "src": "Rx 11 Audio Editor 2023 pre-configured environment for seamless local workstation deployment.",
+        "zh-Hans": "用于无缝本地工作站部署的 Rx 11 Audio Editor 2023 预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "用於無縫本機工作站部署的 Rx 11 Audio Editor 2023 預配置環境。",
+        "ja": "シームレスなローカルワークステーションデプロイのためのRx 11 Audio Editor 2023事前構成済み環境。",
+        "ko": "원활한 로컬 워크스테이션 배포를 위한 Rx 11 Audio Editor 2023 사전 구성 환경."
+      }
+    },
+    "TrooperConceal/scrcpy": {
+      "f4a0f9eef7a0": {
+        "src": "Scrcpy 1.34 automated deployment pipeline for efficient Android device interaction and screen mirroring in professional desktop software...",
+        "zh-Hans": "用于在专业桌面软件中实现高效 Android 设备交互与屏幕镜像的 Scrcpy 1.34 自动化部署流水线...",
+        "seen": "2026-11-08",
+        "zh-Hant": "用於在專業桌面軟體中實現高效 Android 裝置互動與螢幕鏡像的 Scrcpy 1.34 自動化部署管線...",
+        "ja": "プロフェッショナルなデスクトップソフトウェアにおいて効率的なAndroidデバイス操作と画面ミラーリングを行うためのScrcpy 1.34自動デプロイパイプライン...",
+        "ko": "전문 데스크톱 소프트웨어에서 효율적인 Android 기기 상호작용 및 화면 미러링을 위한 Scrcpy 1.34 자동화 배포 파이프라인..."
+      }
+    },
+    "TyphoonFlame/slideshow-video-maker": {
+      "c55b44b6ad41": {
+        "src": "Slideshow Video Maker 2026 pre-configured environment for seamless local workstation deployment, integrating advanced video editing, screen...",
+        "zh-Hans": "用于无缝本地工作站部署的 Slideshow Video Maker 2026 预配置环境，集成了高级视频编辑、屏幕...",
+        "seen": "2026-11-08",
+        "zh-Hant": "用於無縫本機工作站部署的 Slideshow Video Maker 2026 預配置環境，整合了進階影片編輯、螢幕...",
+        "ja": "シームレスなローカルワークステーションデプロイのためのSlideshow Video Maker 2026事前構成済み環境。高度な動画編集、画面...を統合",
+        "ko": "원활한 로컬 워크스테이션 배포를 위한 Slideshow Video Maker 2026 사전 구성 환경으로, 고급 비디오 편집, 화면...을 통합"
       }
     },
     "UncensoredLabs/uncensored-ai-api": {
@@ -1752,6 +2011,16 @@
           "ja": "ブラウザからpiのコーディングエージェントを遠隔操作",
           "ko": "브라우저에서 pi 코딩 에이전트를 원격 제어"
         }
+      }
+    },
+    "YusufCeng1z/ding": {
+      "483ce4b89845": {
+        "src": "Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM.",
+        "zh-Hans": "具有真实弹簧物理效果的 Toast。单个 Toast 原位变形。无依赖项。React、Svelte 和原生 DOM。",
+        "seen": "2026-11-08",
+        "zh-Hant": "具有真實彈簧物理效果的 Toast。單個 Toast 原位變形。無相依性。React、Svelte 和原生 DOM。",
+        "ja": "リアルなスプリング物理挙動を備えたToast。その場でモーフィングする1つのToast。依存関係なし。React、Svelte、プレーンDOM。",
+        "ko": "실제 스프링 물리 효과가 적용된 Toast. 제자리에서 모양이 변하는 단 하나의 Toast. 의존성 없음. React, Svelte 및 순수 DOM."
       }
     },
     "ZiChuanLan/agent-purge": {
@@ -1941,6 +2210,21 @@
           "en": "Roblox Game Copier 2026 installer for desktop",
           "ja": "Roblox Game Copier 2026 デスクトップツール",
           "ko": "Roblox Game Copier 2026 데스크톱 복사 도구"
+        }
+      }
+    },
+    "balkewkidane/grizl-fabric-observability": {
+      "0a367304da67": {
+        "src": "grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library",
+        "zh-Hans": "grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库",
+        "seen": "2026-11-08",
+        "zh-Hant": "grizl-fabric-observability: Fabric Eventhouse/KQL 可觀測性與異常訊號庫",
+        "ja": "grizl-fabric-observability: Fabric Eventhouse/KQL 可観測性および異常シグナルライブラリ",
+        "ko": "grizl-fabric-observability: Fabric Eventhouse/KQL 관찰 가능성 및 이상 신호 라이브러리",
+        "hook": {
+          "en": "Fabric Eventhouse and KQL observability library",
+          "ja": "Fabric Eventhouse用KQL監視ライブラリ",
+          "ko": "Fabric KQL 관측성 및 이상 징후 라이브러리"
         }
       }
     },
@@ -2146,6 +2430,23 @@
         }
       }
     },
+    "dhruvthakur11/youtube-ai-video-editing-system": {
+      "1de6fee735af": {
+        "src": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+        "zh-Hans": "Eyeline 提词器遇上剪辑智能体：JSON 驱动的动画和动态图形工作流",
+        "seen": "2026-11-08",
+        "zh-Hant": "Eyeline 提詞器遇上剪輯代理：JSON 驅動的動畫和動態圖形工作流程",
+        "ja": "Eyeline テレプロンプターと編集エージェントの融合：JSON 駆動のアニメーションおよびモーショングラフィックスのワークフロー",
+        "ko": "Eyeline 텔레프롬프터와 편집 에이전트의 만남: JSON 기반 애니메이션 및 모션 그래픽 워크플로",
+        "hook": {
+          "en": "Struggling with video edits? Let agents handle animations",
+          "zh-Hans": "视频动效难做？让剪辑智能体搞定工作流",
+          "zh-Hant": "影片動效難做？讓剪輯代理搞定工作流程",
+          "ja": "動画編集が大変？エージェントがアニメーションを自動化",
+          "ko": "영상 편집이 번거로울 때 에이전트로 애니메이션 자동화"
+        }
+      }
+    },
     "driftcoralemporium/instagram-liker-bot": {
       "0ba3a1b3b3e7": {
         "src": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.",
@@ -2311,6 +2612,21 @@
           "ko": "Vue 분석이 어려울 때, 리버스와 Web 보안 테스트",
           "zh-Hans": "做安全测试，轻松逆向 Vue 前端",
           "zh-Hant": "做安全測試，輕鬆逆向 Vue 前端"
+        }
+      }
+    },
+    "gogoymh/auto-ontology-mcp": {
+      "c69337ab37c0": {
+        "src": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+        "zh-Hans": "NVIDIA Auto Ontology 的语义层和个人知识库，作为适用于 Claude、ChatGPT 和其他 MCP 客户端的 MCP 服务器。无需 LLM API 密钥。",
+        "seen": "2026-11-08",
+        "zh-Hant": "NVIDIA Auto Ontology 的語意層和個人知識庫，作為適用於 Claude、ChatGPT 和其他 MCP 客戶端的 MCP 伺服器。無需 LLM API 金鑰。",
+        "ja": "NVIDIA Auto Ontology のセマンティック層および個人用ナレッジベースであり、Claude、ChatGPT、その他の MCP クライアント向けの MCP サーバーとして機能します。LLM API キーは不要です。",
+        "ko": "Claude, ChatGPT 및 기타 MCP 클라이언트를 위한 MCP 서버 역할을 하는 NVIDIA Auto Ontology의 시맨틱 계층 및 개인 지식 베이스. LLM API 키가 필요하지 않습니다.",
+        "hook": {
+          "en": "Link your knowledge base to Claude via MCP with no API key",
+          "ja": "API不要でClaudeと繋ぐMCPサーバー",
+          "ko": "API 키 없이 Claude를 잇는 MCP 서버"
         }
       }
     },
@@ -3460,6 +3776,16 @@
         "en": "AI drawing asset library · Chinese version (face / pose / clothing)"
       }
     },
+    "smokeeaasd/flawless-ui-ux": {
+      "f2801319e38a": {
+        "src": "A UI/UX skill for coding agents to build distinctive, usable interfaces.",
+        "zh-Hans": "供编程智能体构建独特且可用界面的 UI/UX 技能。",
+        "seen": "2026-11-08",
+        "zh-Hant": "供編程代理構建獨特且可用介面的 UI/UX 技能。",
+        "ja": "コーディングエージェントが個性的で使いやすいインターフェースを構築するためのUI/UXスキル。",
+        "ko": "코딩 에이전트가 독창적이고 유용한 인터페이스를 구축하기 위한 UI/UX 스킬."
+      }
+    },
     "solderdatabraid29/aegis-vaultgrid": {
       "27d15dbb20e2": {
         "src": "Aegis VaultGrid: pairs a CS2 inventory vault with a fee-aware order planner. Local JSON state, no account needed to browse.",
@@ -3474,6 +3800,23 @@
           "ko": "CS2 주문 수수료가 고민될 때, 계정 없이 바로 계획",
           "zh-Hans": "不想登录看库存？在本地规划 CS2 订单",
           "zh-Hant": "不想登入看庫存？在本機規劃 CS2 訂單"
+        }
+      }
+    },
+    "spiderveer1-byte/play-reactive-slick": {
+      "a8304b44941e": {
+        "src": "Play + Postgres starter template with a clean UI",
+        "zh-Hans": "具有简洁 UI 的 Play + Postgres 启动模板",
+        "seen": "2026-11-08",
+        "zh-Hant": "具有簡潔 UI 的 Play + Postgres 起始範本",
+        "ja": "クリーンなUIを備えたPlay + Postgresスターターテンプレート",
+        "ko": "깔끔한 UI를 갖춘 Play + Postgres 스타터 템플릿",
+        "hook": {
+          "en": "Play + Postgres starter template with a clean UI",
+          "zh-Hans": "界面简洁的 Play 与 Postgres 启动模板",
+          "zh-Hant": "介面簡潔的 Play 與 Postgres 起始範本",
+          "ja": "シンプルなUIのPlayとPostgresスターター",
+          "ko": "깔끔한 UI의 Play 및 Postgres 스타터"
         }
       }
     },
@@ -3531,6 +3874,16 @@
           "ja": "AIが会話を忘れてしまう？キャラに長期記憶を即追加",
           "ko": "대화를 자꾸 잊는 AI, 캐릭터에게 오래가는 기억을"
         }
+      }
+    },
+    "teaminspectorbandage/portfolio-rebalancer": {
+      "911b1c219490": {
+        "src": "Portfolio Rebalancer 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup...",
+        "zh-Hans": "Portfolio Rebalancer 2026 自动化部署流水线的预配置环境，确保无缝的桌面软件实用工具设置...",
+        "seen": "2026-11-08",
+        "zh-Hant": "Portfolio Rebalancer 2026 自動化部署管線的預配置環境，確保無縫的桌面軟體實用工具設定...",
+        "ja": "シームレスなデスクトップソフトウェアユーティリティのセットアップを保証する、自動デプロイパイプライン向けPortfolio Rebalancer 2026事前構成済み環境...",
+        "ko": "원활한 데스크톱 소프트웨어 유틸리티 설정을 보장하는 자동화 배포 파이프라인을 위한 Portfolio Rebalancer 2026 사전 구성 환경..."
       }
     },
     "thomasunise/argus": {
@@ -3597,6 +3950,16 @@
           "ja": "Glary Utilities Pro 2026 有効化済みインストーラー",
           "ko": "Glary Utilities Pro 2026 도구 활성화 설치 파일"
         }
+      }
+    },
+    "unitgatecommand/soundpad": {
+      "e940d7b5565c": {
+        "src": "Soundpad 2023 automated deployment pipeline, pre-configured environment for seamless studio audio plugin integration.",
+        "zh-Hans": "Soundpad 2023 自动化部署流水线，用于无缝录音室音频插件集成的预配置环境。",
+        "seen": "2026-11-08",
+        "zh-Hant": "Soundpad 2023 自動化部署管線，用於無縫錄音室音訊外掛整合的預配置環境。",
+        "ja": "Soundpad 2023自動デプロイパイプライン、シームレスなスタジオオーディオプラグイン統合のための事前構成済み環境。",
+        "ko": "Soundpad 2023 자동화 배포 파이프라인, 원활한 스튜디오 오디오 플러그인 통합을 위한 사전 구성 환경."
       }
     },
     "vaishantsah/watson-AI-osint-all-in-one": {

@@ -72,8 +72,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AI로 실제 iPhone 조작하기 | 2026-11-05<br><sub>3.0일</sub> | 566 | 191.7 |
 | 5 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp)<br>AI로 게임 스크립트 편집하기 | 2026-11-06<br><sub>2.3일</sub> | 420 | 181.1 |
 | 6 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>일회용 Windows 환경에서 앱 테스트하기 | 2026-11-06<br><sub>1.8일</sub> | 305 | 170.6 |
-| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow | 2026-11-06<br><sub>1.7일</sub> | 244 | 145.0 |
-| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Open-source AI app builder for full-stack Next.js apps with hosting and auth | 2026-11-06<br><sub>1.7일</sub> | 244 | 141.5 |
+| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>영상 편집이 번거로울 때 에이전트로 애니메이션 자동화 | 2026-11-06<br><sub>1.7일</sub> | 244 | 145.0 |
+| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Next.js 풀스택 앱을 구축하는 오픈 소스 AI | 2026-11-06<br><sub>1.7일</sub> | 244 | 141.5 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AI 팀에 작업 나눠 맡기기 | 2026-11-07<br><sub>1.5일</sub> | 206 | 136.1 |
 | 10 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)<br>튀르키예어 글에서 AI 흔적 지우기 | 2026-11-05<br><sub>2.7일</sub> | 265 | 96.7 |
 
@@ -273,15 +273,15 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>터미널을 나가지 않고, 안에서 전체 macOS 실행 | 2026-11-03<br><sub>5.4일</sub> | 2,343 | 430.7 |
-| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local... | 2026-11-08<br><sub>1.0일</sub> | 302 | 302.0 |
-| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2, an AI-driven LLM prompt engineering resource, offers a pre-configured environment for seamless local workstation deployment in 2026. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>BorisFX 2024 pre-configured environment for professional video editing, screen recording, and visual effects workflows. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>Optimized local environment suite for Claude AI pipeline management and custom automation workflows. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
-| 10 | [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro)<br>Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme 로컬 배포 환경 | 2026-11-08<br><sub>1.0일</sub> | 302 | 302.0 |
+| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 배포 | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 프롬프트 로컬 배포 환경 | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 배포 | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 설정 | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>전문적인 비디오 편집, 화면 녹화 및 시각 효과 워크플로를 위한 BorisFX 2024 사전 구성 환경. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 Chief Architect Premier 2026 사전 구성 환경. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>Claude AI 파이프라인 관리 및 맞춤형 자동화 워크플로를 위해 최적화된 로컬 환경 제품군. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
+| 10 | [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro)<br>Daemon Pro 2024, 전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 사전 구성 환경. | 2026-11-08<br><sub>1.0일</sub> | 300 | 300.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -607,10 +607,10 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>공개 페이지 인물 검색을 보고서 하나로 | 2026-11-05<br><sub>3.4일</sub> | 414 | 123.3 |
 | 2 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>파일을 암호화해 저장하고 공유 | 2026-11-05<br><sub>3.6일</sub> | 164 | 45.9 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM. | 2026-11-05<br><sub>3.3일</sub> | 145 | 44.1 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>실제 스프링 물리 효과가 적용된 Toast. 제자리에서 모양이 변하는 단 하나의 Toast. 의존성 없음. React, Svelte 및 순수 DOM. | 2026-11-05<br><sub>3.3일</sub> | 145 | 44.1 |
 | 4 | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare)<br>실행되는 두 버전을 체험한 뒤 선택 | 2026-11-02<br><sub>6.6일</sub> | 236 | 35.9 |
-| 5 | [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux)<br>A UI/UX skill for coding agents to build distinctive, usable interfaces. | 2026-11-03<br><sub>5.0일</sub> | 101 | 20.3 |
-| 6 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>Play + Postgres starter template with a clean UI | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.4 |
+| 5 | [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux)<br>코딩 에이전트가 독창적이고 유용한 인터페이스를 구축하기 위한 UI/UX 스킬. | 2026-11-03<br><sub>5.0일</sub> | 101 | 20.3 |
+| 6 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>깔끔한 UI의 Play 및 Postgres 스타터 | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -773,9 +773,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac… | 2026-11-08<br><sub>1.0일</sub> | 417 | 417.0 |
-| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>REST API on Play Framework with Docker-based deployment and activator | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.3 |
-| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.0 |
+| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 2026-11-08<br><sub>1.0일</sub> | 417 | 417.0 |
+| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Docker 기반 Play 프레임워크 REST API | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.3 |
+| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric KQL 관측성 및 이상 징후 라이브러리 | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -1091,7 +1091,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>Event-driven OneLake pipeline with automated Upsert merge and Python reporting | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.0 |
+| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>자동 Upsert 지원 OneLake 파이프라인 | 2026-11-06<br><sub>2.0일</sub> | 149 | 75.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

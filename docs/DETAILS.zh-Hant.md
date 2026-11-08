@@ -123,11 +123,11 @@
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 讓 AI 操作真實的 iPhone | 讓 AI 代理操作真實的 iPhone. 本機 MCP 伺服器和代理, 無須越獄, 無須額外硬體. |
 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | 讓 AI 幫你編輯遊戲指令碼 | 供 Roblox Studio 使用的 Model Context Protocol 伺服器. 連接 AI 助理 (Claude, Cursor), 安全地讀取物件樹、編輯指令碼及執行試玩測試. 開源… |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 用一次性 Windows 環境測試應用 | 用全新、用完即棄的 Windows 機器測試你的應用程式: 自動操作 Windows Sandbox 的 MCP 伺服器和 CLI |
-| [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) |  | Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow |
-| [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) |  | Open-source AI app builder for full-stack Next.js apps with hosting and auth |
+| [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 影片動效難做？讓剪輯代理搞定工作流程 | Eyeline 提詞器遇上剪輯代理：JSON 驅動的動畫和動態圖形工作流程 |
+| [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) |  | 適用於具備託管和身分驗證的全端 Next.js 應用程式的開源 AI 應用程式建構器 |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任務分派給你的 AI 團隊 | 由人主導的 AI 團隊技能: 分派任務、查證證據、清楚解釋步驟, 並從真實案例中學習. 一個人統籌 AI 團隊：派工、查證、清楚說明、經驗重用。 |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 去掉土耳其語文章裡的 AI 痕跡 | 清除土耳其語文字中人工智慧痕跡 (AI 劣質內容、翻譯腔、帶有翻譯痕跡的句子結構及不符合 TDK 語言規範的錯誤) 的 Agent Skill 和 Humanizer 套件. |
-| [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) |  | NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed. |
+| [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) |  | NVIDIA Auto Ontology 的語意層和個人知識庫，作為適用於 Claude、ChatGPT 和其他 MCP 客戶端的 MCP 伺服器。無需 LLM API 金鑰。 |
 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 檢查網站是否符合越南法規要求 | 面向 Claude Code、Cursor、Copilot、Windsurf、Cline，根據越南法律（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）進行的網站法律審計 |
 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | 比較讓 AI 長久記住事情的工具 | 最佳代理記憶 MCP 伺服器排名與比較: 為 Claude Code、Codex、Cursor 及任何 MCP 用戶端提供長期記憶. Glen, Mem0, Supermemory, Zep, Hindsight… |
 | [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) | 協助你用中英文撰寫醫學論文 | 醫學論文寫作與科研助理：面向中國醫師和醫學研究生的 32 個代理技能，適用於 Claude Code、Codex，涵蓋選題、PubMed 文獻檢索、中英寫作、選刊投稿及依審稿意見修訂。醫學寫作 &amp; 科研技能. |
@@ -138,36 +138,36 @@
 | [Toyhom/awesome-computational-character-modeling](https://github.com/Toyhom/awesome-computational-character-modeling) | 查閱角色建模研究資料 | Computational Character Modeling 的綜述配套資料: 依論文結構整理的角色扮演方法、資料基礎與評估. |
 | [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) | 讓程式設計代理製作旁白直式短片 | 用程式設計代理和 Remotion 製作附旁白的直式短片 (TikTok, YouTube Shorts, Reels). 9+ 項代理技能, 20+ 種故事流程, 事實紀錄表, CC0 SFX. |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 不想離開終端機，在裡面運行完整 macOS | 在你的終端機中運行整個 MacOS。 |
-| [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) |  | AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local... |
-| [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) |  | Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026. |
-| [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool) |  | Aion 2, an AI-driven LLM prompt engineering resource, offers a pre-configured environment for seamless local workstation deployment in 2026. |
-| [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller) |  | Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026. |
-| [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer) |  | Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023. |
-| [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx) |  | BorisFX 2024 pre-configured environment for professional video editing, screen recording, and visual effects workflows. |
-| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) |  | Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility. |
-| [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) |  | Optimized local environment suite for Claude AI pipeline management and custom automation workflows. |
-| [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro) |  | Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. |
-| [ShapeMareAmplify/honkai-star-rail-trainer-tool](https://github.com/ShapeMareAmplify/honkai-star-rail-trainer-tool) |  | Honkai Star Rail 2026 automated deployment pipeline with pre-configured environment ready for instant local execution. |
-| [Sheenzensoar/honeypot-detector](https://github.com/Sheenzensoar/honeypot-detector) |  | Honeypot Detector 2023 automated deployment pipeline for enhanced cybersecurity monitoring and threat detection on professional desktop environments. |
-| [SleuthPropagate/imobie-anytrans](https://github.com/SleuthPropagate/imobie-anytrans) |  | Imobie Anytrans 1.5.3 - Local workstation deployment package for efficient media management and synchronization tasks in enterprise environments. |
-| [SymbolSteward/ozone-12-advanced](https://github.com/SymbolSteward/ozone-12-advanced) |  | Ozone 12 Advanced pre-configured environment for streamlined desktop software utility setup in isolated local workstation deployment. |
-| [teaminspectorbandage/portfolio-rebalancer](https://github.com/teaminspectorbandage/portfolio-rebalancer) |  | Portfolio Rebalancer 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup... |
-| [Thornthedefine/reason-14](https://github.com/Thornthedefine/reason-14) |  | Reason 14: Optimized package deployment for enterprise desktop software utility, ensuring seamless local workstation environment setup in 2026. |
-| [TreasurerRepresent/rx-11-audio-editor](https://github.com/TreasurerRepresent/rx-11-audio-editor) |  | Rx 11 Audio Editor 2023 pre-configured environment for seamless local workstation deployment. |
-| [TrooperConceal/scrcpy](https://github.com/TrooperConceal/scrcpy) |  | Scrcpy 1.34 automated deployment pipeline for efficient Android device interaction and screen mirroring in professional desktop software... |
-| [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) |  | Slideshow Video Maker 2026 pre-configured environment for seamless local workstation deployment, integrating advanced video editing, screen... |
-| [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) |  | Soundpad 2023 automated deployment pipeline, pre-configured environment for seamless studio audio plugin integration. |
+| [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | Aida 64 Extreme 本機部署環境配置 | AI 提示詞工程工具包 Aida 64 Extreme，用於在隔離本機進行進階 LLM 訓練和部署的預配置環境... |
+| [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) |  | Abbyy Finereader Pdf 18.5 自動化部署流水線，用於 2026 年高效桌面公用程式安裝與設定。 |
+| [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool) | Aion 2 提示詞工程本機部署環境 | Aion 2 是一項 AI 驅動的 LLM 提示詞工程資源，為 2026 年無縫本機工作站部署提供預配置環境。 |
+| [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller) |  | Ashampoo Uninstaller 1.3.5 自動化部署流水線，用於截至 2026 年在企業桌面環境中進行高效的軟體解除安裝與管理。 |
+| [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer) |  | Ashampoo Winoptimizer 17.0 預配置環境，用於在 2023 年簡化桌面公用程式安裝。 |
+| [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx) |  | 適用於專業影片編輯、螢幕錄製和視覺特效工作流程的 BorisFX 2024 預先設定環境。 |
+| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) |  | 適用於專業桌面軟體公用程式中無縫自動化部署管線的 Chief Architect Premier 2026 預先設定環境。 |
+| [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) |  | 用於 Claude AI 管線管理和自訂自動化工作流程的最佳化本機環境套件。 |
+| [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro) |  | Daemon Pro 2024，適用於專業桌面軟體公用程式上無縫自動化部署管線的預先設定環境。 |
+| [ShapeMareAmplify/honkai-star-rail-trainer-tool](https://github.com/ShapeMareAmplify/honkai-star-rail-trainer-tool) |  | 具有預先設定環境且可立即進行本機執行的 Honkai Star Rail 2026 自動化部署管線。 |
+| [Sheenzensoar/honeypot-detector](https://github.com/Sheenzensoar/honeypot-detector) |  | 用於在專業桌面環境中增強網路安全監控與威脅偵測的 Honeypot Detector 2023 自動化部署管線。 |
+| [SleuthPropagate/imobie-anytrans](https://github.com/SleuthPropagate/imobie-anytrans) |  | Imobie Anytrans 1.5.3 - 適用於企業環境中高效媒體管理與同步任務的本機工作站部署套件。 |
+| [SymbolSteward/ozone-12-advanced](https://github.com/SymbolSteward/ozone-12-advanced) |  | 用於在隔離的本機工作站部署中簡化桌面軟體公用程式設定的 Ozone 12 Advanced 預先設定環境。 |
+| [teaminspectorbandage/portfolio-rebalancer](https://github.com/teaminspectorbandage/portfolio-rebalancer) |  | Portfolio Rebalancer 2026 自動化部署管線的預配置環境，確保無縫的桌面軟體實用工具設定... |
+| [Thornthedefine/reason-14](https://github.com/Thornthedefine/reason-14) |  | Reason 14：企業級桌面軟體實用工具的最佳化套件部署，確保2026年無縫的本機工作站環境設定。 |
+| [TreasurerRepresent/rx-11-audio-editor](https://github.com/TreasurerRepresent/rx-11-audio-editor) |  | 用於無縫本機工作站部署的 Rx 11 Audio Editor 2023 預配置環境。 |
+| [TrooperConceal/scrcpy](https://github.com/TrooperConceal/scrcpy) |  | 用於在專業桌面軟體中實現高效 Android 裝置互動與螢幕鏡像的 Scrcpy 1.34 自動化部署管線... |
+| [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) |  | 用於無縫本機工作站部署的 Slideshow Video Maker 2026 預配置環境，整合了進階影片編輯、螢幕... |
+| [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) |  | Soundpad 2023 自動化部署管線，用於無縫錄音室音訊外掛整合的預配置環境。 |
 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) | 在地球儀上即時查看資安事件 | 即時呈現每起駭客攻擊、漏洞利用和資料外洩：在一個地球儀上查看新漏洞、活躍的漏洞利用和資料外洩，附有來源和一鍵修復功能。 |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 把公開頁面的人物搜尋彙成報告 | 免費人物搜尋桌面應用程式：在 3,100+ 個公開頁面中查詢暱稱、電子郵件、電話或網站，並取得一份易讀的報告。 |
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 加密儲存和分享檔案 | 非託管的加密檔案儲存 &amp; 分享平台，支援 Stellar 付款和鏈上檔案公證 |
-| [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) |  | Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM. |
+| [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) |  | 具有真實彈簧物理效果的 Toast。單個 Toast 原位變形。無相依性。React、Svelte 和原生 DOM。 |
 | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) | 先體驗兩個版本，再審查選用 | 同一需求，兩版實際執行，體驗後審查採用。在 DeepSeek Harness 中為一項任務實際執行兩個版本。 |
-| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) |  | A UI/UX skill for coding agents to build distinctive, usable interfaces. |
-| [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) |  | Play + Postgres starter template with a clean UI |
-| [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) |  | Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac… |
-| [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) |  | REST API on Play Framework with Docker-based deployment and activator |
-| [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) |  | grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library |
+| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) |  | 供編程代理構建獨特且可用介面的 UI/UX 技能。 |
+| [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 介面簡潔的 Play 與 Postgres 起始範本 | 具有簡潔 UI 的 Play + Postgres 起始範本 |
+| [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) |  | 在背景自動掛機獲取 Twitch 掉寶。無需下載影片即可領取獎勵、切換頻道並挖掘定時掉落。適用於 Windows、mac… |
+| [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) |  | 基於 Play 框架的 REST API，支援基於 Docker 的部署與 activator |
+| [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) |  | grizl-fabric-observability: Fabric Eventhouse/KQL 可觀測性與異常訊號庫 |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 用 Claude 技能統一圖示風格 | 以一致風格繪製動態圖示的 Claude 技能，帶有懸停動效或作為靜態 SVG。 |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 給互動代理輕鬆渲染虛擬形象 | 用於互動式代理頭像的 JSON 規格與渲染器 |
 | [leodavincs/kalem](https://github.com/leodavincs/kalem) | 為影片每個場景選合適的引擎 | Claude Code 技能：每個場景都有自己的畫筆。將影片拆分為場景，為每個場景選擇合適的引擎 (Paper.js, PixiJS, HyperFrames, Three.js, Manim)。 |
-| [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) |  | Event-driven OneLake pipeline with automated Upsert merge and Python reporting |
+| [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) |  | 事件驅動的 OneLake 管線，具備自動化 Upsert 合併與 Python 報表功能 |

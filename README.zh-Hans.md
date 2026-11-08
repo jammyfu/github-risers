@@ -72,8 +72,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>让 AI 操作真实的 iPhone | 2026-11-05<br><sub>3.0 天</sub> | 566 | 191.7 |
 | 5 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp)<br>让 AI 帮你编辑游戏脚本 | 2026-11-06<br><sub>2.3 天</sub> | 420 | 181.1 |
 | 6 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>用一次性 Windows 环境测试应用 | 2026-11-06<br><sub>1.8 天</sub> | 305 | 170.6 |
-| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow | 2026-11-06<br><sub>1.7 天</sub> | 244 | 145.0 |
-| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Open-source AI app builder for full-stack Next.js apps with hosting and auth | 2026-11-06<br><sub>1.7 天</sub> | 244 | 141.5 |
+| 7 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>视频动效难做？让剪辑智能体搞定工作流 | 2026-11-06<br><sub>1.7 天</sub> | 244 | 145.0 |
+| 8 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器 | 2026-11-06<br><sub>1.7 天</sub> | 244 | 141.5 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任务分派给你的 AI 团队 | 2026-11-07<br><sub>1.5 天</sub> | 206 | 136.1 |
 | 10 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)<br>去掉土耳其语文章里的 AI 痕迹 | 2026-11-05<br><sub>2.7 天</sub> | 265 | 96.7 |
 
@@ -273,15 +273,15 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>不想离开终端，在里面运行完整 macOS | 2026-11-03<br><sub>5.4 天</sub> | 2,343 | 430.7 |
-| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local... | 2026-11-08<br><sub>1.0 天</sub> | 302 | 302.0 |
-| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2, an AI-driven LLM prompt engineering resource, offers a pre-configured environment for seamless local workstation deployment in 2026. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>BorisFX 2024 pre-configured environment for professional video editing, screen recording, and visual effects workflows. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>Optimized local environment suite for Claude AI pipeline management and custom automation workflows. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
-| 10 | [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro)<br>Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 2 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme 本地部署环境配置 | 2026-11-08<br><sub>1.0 天</sub> | 302 | 302.0 |
+| 3 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 自动化部署流水线，用于 2026 年高效桌面实用程序安装与配置。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 4 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 提示词工程本地部署环境 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 自动化部署流水线，用于截至 2026 年在企业桌面环境中进行高效的软件卸载与管理。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 预配置环境，用于在 2023 年简化桌面实用程序安装。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 7 | [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx)<br>适用于专业视频编辑、屏幕录制和视觉特效工作流的 BorisFX 2024 预配置环境。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 8 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>用于专业桌面软件实用工具中无缝自动化部署管线的 Chief Architect Premier 2026 预配置环境。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 9 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt)<br>用于 Claude AI 管线管理和自定义自动化工作流的优化本地环境套件。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
+| 10 | [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro)<br>Daemon Pro 2024，用于专业桌面软件实用工具上无缝自动化部署管线的预配置环境。 | 2026-11-08<br><sub>1.0 天</sub> | 300 | 300.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -607,10 +607,10 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>把公开页面的人物搜索汇成报告 | 2026-11-05<br><sub>3.4 天</sub> | 414 | 123.3 |
 | 2 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>加密存储和分享文件 | 2026-11-05<br><sub>3.6 天</sub> | 164 | 45.9 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM. | 2026-11-05<br><sub>3.3 天</sub> | 145 | 44.1 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>具有真实弹簧物理效果的 Toast。单个 Toast 原位变形。无依赖项。React、Svelte 和原生 DOM。 | 2026-11-05<br><sub>3.3 天</sub> | 145 | 44.1 |
 | 4 | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare)<br>先体验两个版本，再审查选用 | 2026-11-02<br><sub>6.6 天</sub> | 236 | 35.9 |
-| 5 | [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux)<br>A UI/UX skill for coding agents to build distinctive, usable interfaces. | 2026-11-03<br><sub>5.0 天</sub> | 101 | 20.3 |
-| 6 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>Play + Postgres starter template with a clean UI | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.4 |
+| 5 | [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux)<br>供编程智能体构建独特且可用界面的 UI/UX 技能。 | 2026-11-03<br><sub>5.0 天</sub> | 101 | 20.3 |
+| 6 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>界面简洁的 Play 与 Postgres 启动模板 | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.4 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -773,9 +773,9 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac… | 2026-11-08<br><sub>1.0 天</sub> | 417 | 417.0 |
-| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>REST API on Play Framework with Docker-based deployment and activator | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.3 |
-| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.0 |
+| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… | 2026-11-08<br><sub>1.0 天</sub> | 417 | 417.0 |
+| 2 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.3 |
+| 3 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1091,7 +1091,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>Event-driven OneLake pipeline with automated Upsert merge and Python reporting | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.0 |
+| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>事件驱动的 OneLake 流水线，具有自动化 Upsert 合并与 Python 报告功能 | 2026-11-06<br><sub>2.0 天</sub> | 149 | 75.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
