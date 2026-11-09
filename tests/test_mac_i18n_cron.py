@@ -69,6 +69,7 @@ class MacI18nCronTests(unittest.TestCase):
                     "GIT_CONFIG_NOSYSTEM": "1", "GIT_CONFIG_GLOBAL": os.devnull}
         for name in ("tools", "data", "docs", "rankings", "latest"):
             (self.root / name).mkdir(parents=True)
+        shutil.copy(ROOT / ".gitignore", self.root / ".gitignore")
         for name in ("i18n_pipeline.py", "llm.py", "newcomer_i18n.py", "hooks.py"):
             shutil.copy(ROOT / "tools" / name, self.root / "tools" / name)
         script = (ROOT / "tools/mac_i18n_cron.sh").read_text()
