@@ -119,55 +119,55 @@
 |---|---|---|
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 見守りは不要、エージェントが迷った時だけ確認 | コマンドラインエージェントがバックグラウンドで自律的にタスクを引き受け、最後まで完遂。普段は邪魔をせず、判断に迷う時だけカードを送信して決定を仰ぎます。 |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | エージェントで3Dと視覚効果を扱う | エージェント向けのヘッドレス 3D・VFX エンジン. 研究プレビュー版. |
+| [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) |  | Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run play… |
 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 言語モデルがPythonで3Dを作る | LLMs 向けに作られた、Python での 3D モデリング. |
+| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) |  | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | AIに実機のiPhoneを操作させる | AI エージェントに実機の iPhone を操作させる. ローカルの MCP サーバーとエージェントで、脱獄も追加ハードウェアも不要. |
-| [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | AIでゲームのスクリプトを編集する | Roblox Studio 向けの Model Context Protocol サーバー. AI アシスタント (Claude, Cursor) を接続し、オブジェクトツリーの読み取り、スクリプトの編集、プレイテストの実行を安全に行う. オープンソース… |
-| [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 使い捨てのWindows環境でアプリを試す | アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI |
+| [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AIチームに仕事を振り分ける | 人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。 |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 動画編集が大変？エージェントがアニメーションを自動化 | Eyeline テレプロンプターと編集エージェントの融合：JSON 駆動のアニメーションおよびモーショングラフィックスのワークフロー |
 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | オープンソースAIでNext.js全スタック構築 | ホスティングと認証を備えたフルスタック Next.js アプリ向けのオープンソース AI アプリビルダー |
-| [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AIチームに仕事を振り分ける | 人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。 |
-| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | トルコ語の文章からAIの痕跡を取り除く | トルコ語の文章から人工知能の痕跡 (AI の粗製コンテンツ、翻訳調、翻訳くさい文構造、TDK の言語規範に反する誤り) を取り除く Agent Skill と Humanizer パッケージ. |
+| [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 使い捨てのWindows環境でアプリを試す | アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI |
+| [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) |  | Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click. |
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) |  | An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React… |
 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | API不要でClaudeと繋ぐMCPサーバー | NVIDIA Auto Ontology のセマンティック層および個人用ナレッジベースであり、Claude、ChatGPT、その他の MCP クライアント向けの MCP サーバーとして機能します。LLM API キーは不要です。 |
-| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | ウェブサイトがベトナム法を満たすか検査 | Claude Code、Cursor、Copilot、Windsurf、Cline向けの、ベトナム法（BVDLCN 91/2025、TMĐT 122/2025、ANM 116/2025、AI 134/2025）に基づくウェブサイト法務監査 |
+| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | トルコ語の文章からAIの痕跡を取り除く | トルコ語の文章から人工知能の痕跡 (AI の粗製コンテンツ、翻訳調、翻訳くさい文構造、TDK の言語規範に反する誤り) を取り除く Agent Skill と Humanizer パッケージ. |
 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | AIが長く覚えておくためのツールを比較 | 優れたエージェント記憶用 MCP サーバーのランキングと比較: Claude Code、Codex、Cursor、あらゆる MCP クライアント向けの長期記憶. Glen, Mem0, Supermemory, Zep, Hindsight… |
-| [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) | 中国語と英語での医学論文執筆を支援 | 医学論文の執筆と研究のアシスタント：中国の医師と医学系大学院生向けの 32 個のエージェントスキルで、Claude Code、Codex に対応し、テーマ選び、PubMed 文献検索、中国語・英語での執筆、投稿誌選びと投稿、査読後の修正・再提出をカバー。医学執筆 &amp; 研究スキル. |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。 |
 | [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | パソコンなしでiPhone上のAIを動かす | 完全ネイティブの SwiftUI インターフェースで、iPhone と iPad 上で DeepSeek Harness を実行する. パソコン不要、サーバー不要. iPhone と iPad 上で DeepSeek Harness をローカル実行し、インターフェースは完全ネイティブ。 |
-| [Balanov/uncut](https://github.com/Balanov/uncut) | 勝手なコード切断を防ぎ、無損失でエージェントを動かす | ロスレスでヘッドレスなコーディングエージェントハーネス。1つの 7 MB 静的バイナリ、4つのツール、プレーンな stdin/stdout、サイレントカットなし。 |
-| [orkbot-run/ork](https://github.com/orkbot-run/ork) | AIボット同士で作業中の会話を共有 | ソースコードを入手できる AI アシスタントで、永続的なボットが会話を共有し、隔離されたコンピューターで作業する. セルフホスト型で、Web、デスクトップ、モバイルのアプリを提供. |
-| [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | Claude Code を Gemini モデルに接続 | 本番環境向け互換性ゲートウェイブリッジ &amp; オブザーバビリティプラットフォーム。Claude Code CLI と Google Antigravity &amp; Gemini 推論モデルを接続し、経由するのは Anthr… |
-| [Toyhom/awesome-computational-character-modeling](https://github.com/Toyhom/awesome-computational-character-modeling) | キャラクターのモデリング研究を探す | Computational Character Modeling のサーベイ補足資料: 論文の構成に沿って整理したロールプレイ手法、データ基盤、評価. |
-| [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit) | コーディングAIでナレーション付き縦動画 | コーディングエージェントと Remotion でナレーション付き縦型ショート動画 (TikTok, YouTube Shorts, Reels) を作る. 9+ のエージェントスキル, 20+ のストーリー構成, 事実台帳, CC0 SFX. |
+| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) |  | コーディングエージェントが個性的で使いやすいインターフェースを構築するためのUI/UXスキル。 |
+| [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan) |  | TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding plans, API pricing and model value comparisons. |
+| [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) |  | Can AI agents rebuild websites through browser exploration? |
+| [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker) |  | AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics. |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | ターミナルから出ずに、完全な macOS を動かす | ターミナル上で動作する完全な MacOS。 |
 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | Aida 64 Extreme ローカル環境 | AI プロンプトエンジニアリングツールキット Aida 64 Extreme、分離されたローカルでの高度な LLM トレーニングおよびデプロイ用の事前設定済み環境... |
-| [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) | Abbyy Finereader Pdf 18.5 導入 | 2026 年における効率的なデスクトップユーティリティのセットアップと構成のための Abbyy Finereader Pdf 18.5 自動デプロイパイプライン。 |
-| [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool) | Aion 2 プロンプト用ローカルデプロイ環境 | AI 駆動の LLM プロンプトエンジニアリングリソースである Aion 2 は、2026 年のシームレスなローカルワークステーションデプロイのための事前設定済み環境を提供します。 |
+| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) |  | プロフェッショナルなデスクトップソフトウェアユーティリティにおけるシームレスな自動デプロイパイプラインのための Chief Architect Premier 2026 事前設定済み環境。 |
 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller) | Ashampoo Uninstaller 1.3.5導入 | 2026 年時点のエンタープライズデスクトップ環境における効率的なソフトウェア削除と管理のための Ashampoo Uninstaller 1.3.5 自動デプロイパイプライン。 |
 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer) | Ashampoo Winoptimizer 17.0設定 | 2023 年におけるデスクトップユーティリティの合理的なセットアップのための Ashampoo Winoptimizer 17.0 事前設定済み環境。 |
-| [PoltergeistDisplay/borisfx](https://github.com/PoltergeistDisplay/borisfx) |  | プロフェッショナルな動画編集、画面録画、視覚効果ワークフロー向けの BorisFX 2024 事前設定済み環境。 |
-| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) |  | プロフェッショナルなデスクトップソフトウェアユーティリティにおけるシームレスな自動デプロイパイプラインのための Chief Architect Premier 2026 事前設定済み環境。 |
+| [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) | Abbyy Finereader Pdf 18.5 導入 | 2026 年における効率的なデスクトップユーティリティのセットアップと構成のための Abbyy Finereader Pdf 18.5 自動デプロイパイプライン。 |
+| [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool) | Aion 2 プロンプト用ローカルデプロイ環境 | AI 駆動の LLM プロンプトエンジニアリングリソースである Aion 2 は、2026 年のシームレスなローカルワークステーションデプロイのための事前設定済み環境を提供します。 |
+| [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad) |  | Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution. |
+| [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) |  | Aomei Backupper 1.5.3 pre-configured environment for seamless workstation backup deployment in isolated local environments as of 2026. |
+| [ClampBeeCrane/payday-3-trainer-tool](https://github.com/ClampBeeCrane/payday-3-trainer-tool) |  | Payday 3 1.5.4 local workstation deployment package with pre-configured environment and automated deployment pipeline, ready for immediate... |
+| [CopperHammerPeace/delta-force-trainer-tool](https://github.com/CopperHammerPeace/delta-force-trainer-tool) |  | Delta Force 1.5 automated deployment pipeline for secure, efficient enterprise desktop software utility configuration, ensuring robust... |
+| [eveningpuffinravine/marvel-rivals-trainer-tool](https://github.com/eveningpuffinravine/marvel-rivals-trainer-tool) |  | Marvel Rivals 2026 pre-configured environment for rapid local workstation deployment. |
+| [Exteriordadynamo/metatrader-5-bot](https://github.com/Exteriordadynamo/metatrader-5-bot) |  | Metatrader 5 Bot 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup. |
 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) |  | Claude AI パイプライン管理およびカスタム自動化ワークフロー向けに最適化されたローカル環境スイート。 |
-| [Quantumoarefresh/daemon-pro](https://github.com/Quantumoarefresh/daemon-pro) |  | Daemon Pro 2024、プロフェッショナルなデスクトップソフトウェアユーティリティ上でのシームレスな自動デプロイパイプラインのための事前設定済み環境。 |
-| [ShapeMareAmplify/honkai-star-rail-trainer-tool](https://github.com/ShapeMareAmplify/honkai-star-rail-trainer-tool) |  | 即座にローカル実行可能な事前設定済み環境を備えた Honkai Star Rail 2026 自動デプロイパイプライン。 |
-| [Sheenzensoar/honeypot-detector](https://github.com/Sheenzensoar/honeypot-detector) |  | プロフェッショナルなデスクトップ環境におけるサイバーセキュリティ監視および脅威検知の強化に向けた Honeypot Detector 2023 自動デプロイパイプライン。 |
-| [SleuthPropagate/imobie-anytrans](https://github.com/SleuthPropagate/imobie-anytrans) |  | Imobie Anytrans 1.5.3 - 企業環境における効率的なメディア管理および同期タスクのためのローカルワークステーションデプロイパッケージ。 |
-| [SymbolSteward/ozone-12-advanced](https://github.com/SymbolSteward/ozone-12-advanced) |  | 隔離されたローカルワークステーション展開における合理化されたデスクトップソフトウェアユーティリティセットアップのための Ozone 12 Advanced 事前設定済み環境。 |
-| [teaminspectorbandage/portfolio-rebalancer](https://github.com/teaminspectorbandage/portfolio-rebalancer) |  | シームレスなデスクトップソフトウェアユーティリティのセットアップを保証する、自動デプロイパイプライン向けPortfolio Rebalancer 2026事前構成済み環境... |
-| [Thornthedefine/reason-14](https://github.com/Thornthedefine/reason-14) |  | Reason 14: 企業向けデスクトップソフトウェアユーティリティのための最適化されたパッケージデプロイ。2026年のシームレスなローカルワークステーション環境セットアップを保証。 |
-| [TreasurerRepresent/rx-11-audio-editor](https://github.com/TreasurerRepresent/rx-11-audio-editor) |  | シームレスなローカルワークステーションデプロイのためのRx 11 Audio Editor 2023事前構成済み環境。 |
-| [TrooperConceal/scrcpy](https://github.com/TrooperConceal/scrcpy) |  | プロフェッショナルなデスクトップソフトウェアにおいて効率的なAndroidデバイス操作と画面ミラーリングを行うためのScrcpy 1.34自動デプロイパイプライン... |
+| [WebTsuchikage/wondshare-recoverit](https://github.com/WebTsuchikage/wondshare-recoverit) |  | Wondshare Recoverit 13.5 pre-configured environment for enterprise desktop software utility, ensuring optimal recovery solutions in a... |
 | [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) |  | シームレスなローカルワークステーションデプロイのためのSlideshow Video Maker 2026事前構成済み環境。高度な動画編集、画面...を統合 |
 | [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) |  | Soundpad 2023自動デプロイパイプライン、シームレスなスタジオオーディオプラグイン統合のための事前構成済み環境。 |
+| [Urbandaravine/startall-back](https://github.com/Urbandaravine/startall-back) |  | Startall Back 2026 pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. |
+| [VirtualEchoWorkshop/ultra-iso](https://github.com/VirtualEchoWorkshop/ultra-iso) |  | Ultra Iso 3.5, a robust disk imaging utility, offers pre-configured environment for seamless local workstation deployment in enterprise settings. |
 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) | 世界のセキュリティ事件を地球儀で随時確認 | あらゆるハッキング、エクスプロイト、情報漏えいをリアルタイムで：新たな脆弱性、進行中のエクスプロイト、情報漏えいを一つの地球儀に表示し、情報源とワンクリック修正も提供。 |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 公開ページの人物検索を一つのレポートに | 無料の人物検索デスクトップアプリ：3,100+ の公開ページでニックネーム、メールアドレス、電話番号、サイトを調べ、一つの読みやすいレポートを取得。 |
-| [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | ファイルを暗号化して保存・共有 | Stellar 決済とオンチェーンのファイル公証に対応する、非カストディ型の暗号化ファイル保存 &amp; 共有プラットフォーム |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) |  | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) |  | リアルなスプリング物理挙動を備えたToast。その場でモーフィングする1つのToast。依存関係なし。React、Svelte、プレーンDOM。 |
-| [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) | 二つの動く版を試してから選ぶ | 同じ要件で二つの版を実際に動かし、試してから審査して採用する。DeepSeek Harness で一つのタスクに二つの実動ビルド。 |
-| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) |  | コーディングエージェントが個性的で使いやすいインターフェースを構築するためのUI/UXスキル。 |
+| [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | ファイルを暗号化して保存・共有 | Stellar 決済とオンチェーンのファイル公証に対応する、非カストディ型の暗号化ファイル保存 &amp; 共有プラットフォーム |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | シンプルなUIのPlayとPostgresスターター | クリーンなUIを備えたPlay + Postgresスターターテンプレート |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 動画をダウンロードせずにTwitchドロップを自動回収 | バックグラウンドでTwitchドロップを自動ファーム。動画ダウンロード不要で報酬獲得、チャンネル切り替え、時間指定ドロップのマイニングを実行。Windows、mac… |
+| [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | Claude Code を Gemini モデルに接続 | 本番環境向け互換性ゲートウェイブリッジ &amp; オブザーバビリティプラットフォーム。Claude Code CLI と Google Antigravity &amp; Gemini 推論モデルを接続し、経由するのは Anthr… |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | Docker対応PlayフレームワークREST API | Dockerベースのデプロイとactivatorを備えたPlay フレームワーク上のREST API |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse用KQL監視ライブラリ | grizl-fabric-observability: Fabric Eventhouse/KQL 可観測性および異常シグナルライブラリ |
-| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | アイコンが不揃いなら、Claude スキルで統一描画 | ホバーモーションまたは静的 SVG として、統一されたスタイルで動的アイコンを描画する Claude スキル。 |
+| [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) |  | 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 対話型エージェントのアバターを簡単描画 | インタラクティブなエージェントアバター用の JSON 仕様とレンダラー |
-| [leodavincs/kalem](https://github.com/leodavincs/kalem) | 動画の各シーンに合うエンジンを選ぶ | Claude Code スキル：各シーンには専用のペンがある。動画をシーンに分け、各シーンに適したエンジンを選ぶ (Paper.js, PixiJS, HyperFrames, Three.js, Manim)。 |
+| [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) |  | Animated SVG stats cards for your GitHub profile README, counting private and organization work. Runs as a GitHub Action, no server. |
 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | 自動Upsert対応OneLakeパイプライン | 自動UpsertマージとPythonレポート機能を備えたイベント駆動型OneLakeパイプライン |
