@@ -114,3 +114,10 @@
 - A successful API refresh or permissive daily verification is not evidence that translation is complete. Completion requires zero missing detailed-description and hook languages across every current category, plus a source-language audit for English output.
 - Translation-library edits fill missing fields under the exact source hash; existing translated text and original descriptions stay unchanged. Public tables use short hooks and details pages retain complete introductions.
 - The existing CJK-only English-gap detector can miss Turkish/Vietnamese sources. Their missing English translations are filled explicitly in this round without changing the model configuration or weakening validators.
+
+
+## 2026-11-09 UTC — hook completeness must drive local retries
+
+- The raw-data refresh stays fail-safe and independent of translation availability. The local translation job is complete only when both its cache-aware description and hook audits report zero gaps across current categories.
+- Valid partial output is retained and published, but remaining gaps return status 4 and are retried on the next existing scheduled invocation. Audit failures cannot be interpreted as zero work. One invocation makes one bounded generation pass; a push race rechecks the new ranking without opening an unbounded model loop.
+- Existing detailed descriptions, translations and valid hooks are preserved. This completion also fills the previous 98 missing hook fields for reuse without rewriting past numeric snapshots. No model/backend, credentials, installed schedule or ranking policy changes are part of this fix.

@@ -36,3 +36,11 @@
 - A scheduled run delayed beyond midnight refreshes when no data is committed for its current Los Angeles day.
 - A second trigger on the same LA day skips after a successful commit, including across UTC date and DST boundaries.
 - Bad/future scheduling state produces a failed job, not a green skip; manual dispatch stays unconditional.
+
+
+## Local translation completion and retries
+
+- A valid description cache does not suppress work for missing or rejected hook languages. Complete cache hits make zero model calls.
+- Valid partial results survive, but an invocation with remaining description/hook gaps returns 4; audit errors fail rather than claim an empty queue.
+- A push race preserves upstream values, regenerates from the new ranking and audits again without a second generation loop; an empty commit is skipped.
+- Verification uses isolated temporary repositories and a fake CLI, never live models, production locks or launchd changes.

@@ -68,9 +68,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br>계속 지켜볼 필요 없이, 에이전트가 막힐 때만 확인 | 2026-11-03<br><sub>6.4일</sub> | 4,264 | 669.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>에이전트로 3D와 시각 효과 다루기 | 2026-11-05<br><sub>3.8일</sub> | 1,260 | 334.8 |
-| 3 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run play… | 2026-11-09<br><sub>1.0일</sub> | 279 | 279.0 |
+| 3 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>AI로 Lua 스크립트 작성을 자동화 | 2026-11-09<br><sub>1.0일</sub> | 279 | 279.0 |
 | 4 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)<br>언어 모델로 Python에서 3D 만들기 | 2026-11-03<br><sub>6.4일</sub> | 1,590 | 250.2 |
-| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>1.0일</sub> | 234 | 234.0 |
+| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 승인된 침투 테스트 플러그인 | 2026-11-09<br><sub>1.0일</sub> | 234 | 234.0 |
 | 6 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AI로 실제 iPhone 조작하기 | 2026-11-05<br><sub>4.1일</sub> | 718 | 176.1 |
 | 7 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AI 팀에 작업 나눠 맡기기 | 2026-11-07<br><sub>2.6일</sub> | 401 | 152.0 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>영상 편집이 번거로울 때 에이전트로 애니메이션 자동화 | 2026-11-06<br><sub>2.8일</sub> | 365 | 130.0 |
@@ -272,16 +272,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)<br>AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics. | 2026-11-09<br><sub>1.0일</sub> | 400 | 400.0 |
+| 1 | [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)<br>AndroidUnlocker 2023 배포 파이프라인 | 2026-11-09<br><sub>1.0일</sub> | 400 | 400.0 |
 | 2 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>터미널을 나가지 않고, 안에서 전체 macOS 실행 | 2026-11-03<br><sub>6.6일</sub> | 2,487 | 378.9 |
 | 3 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme 로컬 배포 환경 | 2026-11-08<br><sub>1.4일</sub> | 503 | 373.6 |
-| 4 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 Chief Architect Premier 2026 사전 구성 환경. | 2026-11-08<br><sub>1.4일</sub> | 500 | 371.5 |
+| 4 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 사전 구성 환경 | 2026-11-08<br><sub>1.4일</sub> | 500 | 371.5 |
 | 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 배포 | 2026-11-08<br><sub>1.4일</sub> | 500 | 371.4 |
 | 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 설정 | 2026-11-08<br><sub>1.4일</sub> | 500 | 371.4 |
 | 7 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 배포 | 2026-11-08<br><sub>1.4일</sub> | 500 | 371.3 |
 | 8 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 프롬프트 로컬 배포 환경 | 2026-11-08<br><sub>1.4일</sub> | 500 | 371.3 |
-| 9 | [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad)<br>Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution. | 2026-11-08<br><sub>1.4일</sub> | 499 | 370.7 |
-| 10 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper)<br>Aomei Backupper 1.5.3 pre-configured environment for seamless workstation backup deployment in isolated local environments as of 2026. | 2026-11-08<br><sub>1.1일</sub> | 400 | 363.1 |
+| 9 | [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad)<br>Catia Cad 2026 배포 환경 | 2026-11-08<br><sub>1.4일</sub> | 499 | 370.7 |
+| 10 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper)<br>Aomei Backupper 백업 배포 환경 | 2026-11-08<br><sub>1.1일</sub> | 400 | 363.1 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -606,8 +606,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>공개 페이지 인물 검색을 보고서 하나로 | 2026-11-05<br><sub>4.5일</sub> | 672 | 149.9 |
-| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 | 2026-11-07<br><sub>1.8일</sub> | 150 | 81.3 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>실제 스프링 물리 효과가 적용된 Toast. 제자리에서 모양이 변하는 단 하나의 Toast. 의존성 없음. React, Svelte 및 순수 DOM. | 2026-11-05<br><sub>4.4일</sub> | 198 | 44.9 |
+| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOS와 iOS에서 드라마 시청 | 2026-11-07<br><sub>1.8일</sub> | 150 | 81.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>하나의 알림이 제자리에서 스프링처럼 변형 | 2026-11-05<br><sub>4.4일</sub> | 198 | 44.9 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>파일을 암호화해 저장하고 공유 | 2026-11-05<br><sub>4.7일</sub> | 164 | 34.9 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>깔끔한 UI의 Play 및 Postgres 스타터 | 2026-11-06<br><sub>3.1일</sub> | 149 | 48.0 |
 
@@ -932,9 +932,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go | 2026-11-08<br><sub>1.2일</sub> | 172 | 144.7 |
+| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>순수 Go로 GPU 기반 네이티브 UI 만들기 | 2026-11-08<br><sub>1.2일</sub> | 172 | 144.7 |
 | 2 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar)<br>인터랙티브 에이전트의 아바타를 간편하게 렌더링 | 2026-11-02<br><sub>7.0일</sub> | 316 | 45.2 |
-| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>Animated SVG stats cards for your GitHub profile README, counting private and organization work. Runs as a GitHub Action, no server. | 2026-11-04<br><sub>4.8일</sub> | 112 | 23.5 |
+| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>GitHub 활동을 움직이는 통계 카드로 | 2026-11-04<br><sub>4.8일</sub> | 112 | 23.5 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

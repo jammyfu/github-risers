@@ -119,55 +119,55 @@
 |---|---|---|
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 계속 지켜볼 필요 없이, 에이전트가 막힐 때만 확인 | 커맨드라인 에이전트가 백그라운드에서 직접 작업을 맡아 끝까지 완수합니다. 평소에는 방해하지 않고, 확실하지 않은 일에 부딪힐 때만 카드를 보내 결정을 요청합니다. |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 에이전트로 3D와 시각 효과 다루기 | 에이전트용 헤드리스 3D 및 VFX 엔진. 연구 프리뷰. |
-| [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) |  | Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run play… |
+| [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) | AI로 Lua 스크립트 작성을 자동화 | Roblox Studio용 Model Context Protocol (MCP) 서버. AI 어시스턴트(Claude, Cursor, Cline)를 연결해 객체 트리를 읽고, Lua 스크립트 작성을 자동화하며, play 실행… |
 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 언어 모델로 Python에서 3D 만들기 | LLMs를 위해 만든 Python 기반 3D 모델링. |
-| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) |  | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 |
+| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 승인된 침투 테스트 플러그인 | 富江破甲（破甲）: DeepSeek Harness의 破甲 플러그인. 활성화 문구는 富江이며, 무엇이든 쉬운 일상 언어로 바로 물어볼 수 있다. 스킬 라이브러리의 skill 다운로드 및 호출, 취약점 지식 베이스의 poc 활용, 취약점 보고서 업데이트, 완전 자동화된 승인된 침투 테스트를 포함한다. 현재 버전: 0.20.12, 면책 조항 포함. 플러그인 이미지는 맨 아래 참조 |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | AI로 실제 iPhone 조작하기 | AI 에이전트가 실제 iPhone을 조작하게 한다. 로컬 MCP 서버와 에이전트, 탈옥 불필요, 추가 하드웨어 불필요. |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AI 팀에 작업 나눠 맡기기 | 사람이 이끄는 AI 팀을 위한 스킬: 작업 위임, 근거 검증, 단계별 명확한 설명, 실제 사례에서 학습. 한 사람이 AI 팀을 총괄：작업 배분, 근거 확인, 명확한 설명, 경험 재활용。 |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 영상 편집이 번거로울 때 에이전트로 애니메이션 자동화 | Eyeline 텔레프롬프터와 편집 에이전트의 만남: JSON 기반 애니메이션 및 모션 그래픽 워크플로 |
 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | Next.js 풀스택 앱을 구축하는 오픈 소스 AI | 호스팅 및 인증을 지원하는 풀스택 Next.js 앱을 위한 오픈 소스 AI 앱 빌더 |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 일회용 Windows 환경에서 앱 테스트하기 | 앱 테스트를 위한 새 일회용 Windows 머신: Windows Sandbox를 자동화하는 MCP 서버 및 CLI |
-| [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) |  | Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click. |
-| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) |  | An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React… |
+| [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 한 문장으로 설명한 게임을 플레이 | 작은 게임을 한 문장으로 설명하고, DeepSeek Harness 사이드바에서 플레이하며, AI 아트로 교체한 뒤 클릭 한 번으로 GitHub Pages 또는 Cloudflare에 게시한다. |
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 같은 스타일의 움직이는 아이콘 그리기 | Claude Code, Codex 및 기타 코딩 에이전트를 위한, 일관된 스타일로 애니메이션 아이콘을 그리는 에이전트 스킬. React용 오픈 소스 아이콘 2,600+개 포함… |
 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | API 키 없이 Claude를 잇는 MCP 서버 | Claude, ChatGPT 및 기타 MCP 클라이언트를 위한 MCP 서버 역할을 하는 NVIDIA Auto Ontology의 시맨틱 계층 및 개인 지식 베이스. LLM API 키가 필요하지 않습니다. |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 튀르키예어 글에서 AI 흔적 지우기 | 튀르키예어 텍스트의 인공지능 흔적 (AI 저품질 콘텐츠, 번역투, 번역 티가 나는 문장 구조와 TDK 언어 규범에 어긋나는 오류)을 제거하는 Agent Skill 및 Humanizer 패키지. |
 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | AI가 오래 기억하게 하는 도구 비교하기 | 최고의 에이전트 메모리 MCP 서버 순위 및 비교: Claude Code, Codex, Cursor 및 모든 MCP 클라이언트를 위한 장기 기억. Glen, Mem0, Supermemory, Zep, Hindsight… |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。 |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | AI 동료의 3D 사원증 다운로드 | 비인간 직원｜AI 동료 아홉 명의 3D 사원증 수령처. 중국어·영어 지원, 투명 PNG 다운로드. WeChat 공식 계정: 风花AI实验室. |
 | [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | 컴퓨터 없이 iPhone에서 AI 실행하기 | 완전한 네이티브 SwiftUI 인터페이스로 iPhone과 iPad에서 DeepSeek Harness 실행. 컴퓨터 불필요, 서버 불필요. iPhone과 iPad에서 DeepSeek Harness를 기기 자체에서 실행하며, 인터페이스는 완전한 네이티브。 |
-| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) |  | 코딩 에이전트가 독창적이고 유용한 인터페이스를 구축하기 위한 UI/UX 스킬. |
-| [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan) |  | TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding plans, API pricing and model value comparisons. |
-| [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) |  | Can AI agents rebuild websites through browser exploration? |
-| [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker) |  | AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics. |
+| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) | 개성 있고 쓰기 편한 화면 만들기 | 코딩 에이전트가 독창적이고 유용한 인터페이스를 구축하기 위한 UI/UX 스킬. |
+| [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan) | AI 코딩 요금제와 API 가격 비교 | TokenPlan: AI 코딩 요금제와 API 가격 비교. 클라우드 업체의 Coding / Token Plan, 캐시 및 피크·비피크 시간대 과금, 모델의 가성비와 공식 구매 링크를 포함합니다. / AI 코딩 요금제, API 가격 및 모델 가성비 비교. |
+| [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | AI는 탐색으로 웹사이트를 재현할 수 있을까 | AI 에이전트는 브라우저 탐색을 통해 웹사이트를 재구축할 수 있을까? |
+| [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker) | AndroidUnlocker 2023 배포 파이프라인 | 엔터프라이즈급 Android 기기 관리 및 진단을 위한 AndroidUnlocker 2023 자동 배포 파이프라인. |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 터미널을 나가지 않고, 안에서 전체 macOS 실행 | 터미널에서 실행되는 전체 MacOS. |
 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | Aida 64 Extreme 로컬 배포 환경 | AI 프롬프트 엔지니어링 툴킷 Aida 64 Extreme, 격리된 로컬에서 고급 LLM 학습 및 배포를 위한 사전 구성된 환경... |
-| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) |  | 전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 Chief Architect Premier 2026 사전 구성 환경. |
+| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) | Chief Architect Premier 사전 구성 환경 | 전문 데스크톱 소프트웨어 유틸리티에서 원활한 자동 배포 파이프라인을 위한 Chief Architect Premier 2026 사전 구성 환경. |
 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller) | Ashampoo Uninstaller 1.3.5 배포 | 2026년 기준 엔터프라이즈 데스크톱 환경에서 효율적인 소프트웨어 제거 및 관리를 위한 Ashampoo Uninstaller 1.3.5 자동 배포 파이프라인. |
 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer) | Ashampoo Winoptimizer 17.0 설정 | 2023년 간소화된 데스크톱 유틸리티 설정을 위한 Ashampoo Winoptimizer 17.0 사전 구성된 환경. |
 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) | Abbyy Finereader Pdf 18.5 배포 | 2026년 효율적인 데스크톱 유틸리티 설정 및 구성을 위한 Abbyy Finereader Pdf 18.5 자동 배포 파이프라인. |
 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool) | Aion 2 프롬프트 로컬 배포 환경 | AI 기반 LLM 프롬프트 엔지니어링 리소스인 Aion 2는 2026년 원활한 로컬 워크스테이션 배포를 위한 사전 구성된 환경을 제공합니다. |
-| [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad) |  | Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution. |
-| [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) |  | Aomei Backupper 1.5.3 pre-configured environment for seamless workstation backup deployment in isolated local environments as of 2026. |
-| [ClampBeeCrane/payday-3-trainer-tool](https://github.com/ClampBeeCrane/payday-3-trainer-tool) |  | Payday 3 1.5.4 local workstation deployment package with pre-configured environment and automated deployment pipeline, ready for immediate... |
-| [CopperHammerPeace/delta-force-trainer-tool](https://github.com/CopperHammerPeace/delta-force-trainer-tool) |  | Delta Force 1.5 automated deployment pipeline for secure, efficient enterprise desktop software utility configuration, ensuring robust... |
-| [eveningpuffinravine/marvel-rivals-trainer-tool](https://github.com/eveningpuffinravine/marvel-rivals-trainer-tool) |  | Marvel Rivals 2026 pre-configured environment for rapid local workstation deployment. |
-| [Exteriordadynamo/metatrader-5-bot](https://github.com/Exteriordadynamo/metatrader-5-bot) |  | Metatrader 5 Bot 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup. |
-| [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) |  | Claude AI 파이프라인 관리 및 맞춤형 자동화 워크플로를 위해 최적화된 로컬 환경 제품군. |
-| [WebTsuchikage/wondshare-recoverit](https://github.com/WebTsuchikage/wondshare-recoverit) |  | Wondshare Recoverit 13.5 pre-configured environment for enterprise desktop software utility, ensuring optimal recovery solutions in a... |
-| [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) |  | 원활한 로컬 워크스테이션 배포를 위한 Slideshow Video Maker 2026 사전 구성 환경으로, 고급 비디오 편집, 화면...을 통합 |
-| [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) |  | Soundpad 2023 자동화 배포 파이프라인, 원활한 스튜디오 오디오 플러그인 통합을 위한 사전 구성 환경. |
-| [Urbandaravine/startall-back](https://github.com/Urbandaravine/startall-back) |  | Startall Back 2026 pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. |
-| [VirtualEchoWorkshop/ultra-iso](https://github.com/VirtualEchoWorkshop/ultra-iso) |  | Ultra Iso 3.5, a robust disk imaging utility, offers pre-configured environment for seamless local workstation deployment in enterprise settings. |
+| [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad) | Catia Cad 2026 배포 환경 | Catia Cad 2026 사전 구성 환경으로, 안전한 워크스테이션 배포와 자동화 파이프라인의 원활한 실행을 보장한다. |
+| [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) | Aomei Backupper 백업 배포 환경 | 2026년 기준, 격리된 로컬 환경에서 워크스테이션 백업을 원활하게 배포하기 위한 Aomei Backupper 1.5.3 사전 구성 환경. |
+| [ClampBeeCrane/payday-3-trainer-tool](https://github.com/ClampBeeCrane/payday-3-trainer-tool) | Payday 3 로컬 배포 패키지 | Payday 3 1.5.4 로컬 워크스테이션 배포 패키지. 사전 구성 환경과 자동 배포 파이프라인을 갖추었으며, 준비를 마쳐 즉시... |
+| [CopperHammerPeace/delta-force-trainer-tool](https://github.com/CopperHammerPeace/delta-force-trainer-tool) | Delta Force 1.5 배포 파이프라인 | Delta Force 1.5 자동 배포 파이프라인으로, 기업용 데스크톱 소프트웨어 유틸리티를 안전하고 효율적으로 구성하며, 견고한... |
+| [eveningpuffinravine/marvel-rivals-trainer-tool](https://github.com/eveningpuffinravine/marvel-rivals-trainer-tool) | Marvel Rivals 2026 워크스테이션 환경 | 로컬 워크스테이션에 신속하게 배포하기 위한 Marvel Rivals 2026 사전 구성 환경. |
+| [Exteriordadynamo/metatrader-5-bot](https://github.com/Exteriordadynamo/metatrader-5-bot) | Metatrader 5 Bot 사전 구성 환경 | 자동 배포 파이프라인을 위한 Metatrader 5 Bot 2026 사전 구성 환경으로, 데스크톱 소프트웨어 유틸리티를 원활하게 설정할 수 있도록 합니다. |
+| [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) | Claude AI 워크플로 환경 | Claude AI 파이프라인 관리 및 맞춤형 자동화 워크플로를 위해 최적화된 로컬 환경 제품군. |
+| [WebTsuchikage/wondshare-recoverit](https://github.com/WebTsuchikage/wondshare-recoverit) | Wondshare Recoverit 13.5 데스크톱 설정 환경 | 기업용 데스크톱 소프트웨어 유틸리티를 위한 Wondshare Recoverit 13.5 사전 구성 환경으로, 최적의 복구 솔루션을 보장... |
+| [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) | Slideshow Video Maker 사전 구성 환경 | 원활한 로컬 워크스테이션 배포를 위한 Slideshow Video Maker 2026 사전 구성 환경으로, 고급 비디오 편집, 화면...을 통합 |
+| [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) | Soundpad 2023 배포 파이프라인 | Soundpad 2023 자동화 배포 파이프라인, 원활한 스튜디오 오디오 플러그인 통합을 위한 사전 구성 환경. |
+| [Urbandaravine/startall-back](https://github.com/Urbandaravine/startall-back) | Startall Back 2026 배포 환경 | 전문가용 데스크톱 소프트웨어 유틸리티의 원활한 자동 배포 파이프라인을 위한 Startall Back 2026 사전 구성 환경. |
+| [VirtualEchoWorkshop/ultra-iso](https://github.com/VirtualEchoWorkshop/ultra-iso) | Ultra Iso 사전 구성 환경 | 강력한 디스크 이미징 유틸리티인 Ultra Iso 3.5는 기업 환경에서 로컬 워크스테이션에 원활하게 배포할 수 있도록 사전 구성 환경을 제공합니다. |
 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) | 지구본에서 실시간 보안 사건 확인 | 모든 해킹, 익스플로잇, 정보 유출을 실시간으로: 새로운 취약점, 진행 중인 익스플로잇과 정보 유출을 하나의 지구본에 표시하며 출처와 원클릭 수정도 제공한다. |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 공개 페이지 인물 검색을 보고서 하나로 | 무료 인물 검색 데스크톱 앱: 3,100+ 공개 페이지에서 닉네임, 이메일, 전화번호 또는 사이트를 조회하고 읽기 쉬운 보고서 하나를 받는다. |
-| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) |  | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
-| [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) |  | 실제 스프링 물리 효과가 적용된 Toast. 제자리에서 모양이 변하는 단 하나의 Toast. 의존성 없음. React, Svelte 및 순수 DOM. |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |
+| [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) | 하나의 알림이 제자리에서 스프링처럼 변형 | 실제 스프링 물리 효과가 적용된 Toast. 제자리에서 모양이 변하는 단 하나의 Toast. 의존성 없음. React, Svelte 및 순수 DOM. |
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 파일을 암호화해 저장하고 공유 | Stellar 결제와 온체인 파일 공증을 지원하는 비수탁형 암호화 파일 저장 &amp; 공유 플랫폼 |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 깔끔한 UI의 Play 및 Postgres 스타터 | 깔끔한 UI를 갖춘 Play + Postgres 스타터 템플릿 |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 백그라운드에서 Twitch 드롭을 자동 파밍합니다. 비디오 다운로드 없이 보상 수령, 채널 전환, 시간 지정 드롭 채굴을 지원합니다. Windows, mac…용 가벼운 AFK 마이너 |
 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | Claude Code를 Gemini 모델에 연결 | 프로덕션 호환성 게이트웨이 브리지 &amp; 관측 가능성 플랫폼. Claude Code CLI와 Google Antigravity &amp; Gemini 추론 모델을 연결하며, 연결에 사용하는 것은 Anthr… |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | Docker 기반 Play 프레임워크 REST API | Docker 기반 배포 및 activator를 갖춘 Play 프레임워크 기반 REST API |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric KQL 관측성 및 이상 징후 라이브러리 | grizl-fabric-observability: Fabric Eventhouse/KQL 관찰 가능성 및 이상 신호 라이브러리 |
-| [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) |  | 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go |
+| [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 순수 Go로 GPU 기반 네이티브 UI 만들기 | 🍭 Lobe MyGo - 네이티브 Go 앱용 UI 키트: 순수 Go로 GPU에서 그리는 MyGo용 Lobe UI 디자인 언어 |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 인터랙티브 에이전트의 아바타를 간편하게 렌더링 | 대화형 에이전트 아바타를 위한 JSON 사양 및 렌더러 |
-| [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) |  | Animated SVG stats cards for your GitHub profile README, counting private and organization work. Runs as a GitHub Action, no server. |
+| [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | GitHub 활동을 움직이는 통계 카드로 | GitHub 프로필 README용 애니메이션 SVG 통계 카드로, 비공개 작업과 조직 내 작업도 집계한다. GitHub Action으로 실행되며 서버가 필요 없다. |
 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | 자동 Upsert 지원 OneLake 파이프라인 | 자동화된 Upsert 병합 및 Python 보고 기능을 갖춘 이벤트 기반 OneLake 파이프라인 |

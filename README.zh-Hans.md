@@ -68,13 +68,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br>不用一直盯梢，智能体拿不准时才找你 | 2026-11-03<br><sub>6.4 天</sub> | 4,264 | 669.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>让智能体处理三维与视觉特效 | 2026-11-05<br><sub>3.8 天</sub> | 1,260 | 334.8 |
-| 3 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run play… | 2026-11-09<br><sub>1.0 天</sub> | 279 | 279.0 |
+| 3 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>让 AI 自动编写 Lua 脚本 | 2026-11-09<br><sub>1.0 天</sub> | 279 | 279.0 |
 | 4 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)<br>让大模型用 Python 做三维建模 | 2026-11-03<br><sub>6.4 天</sub> | 1,590 | 250.2 |
-| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>1.0 天</sub> | 234 | 234.0 |
+| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 授权渗透测试插件 | 2026-11-09<br><sub>1.0 天</sub> | 234 | 234.0 |
 | 6 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>让 AI 操作真实的 iPhone | 2026-11-05<br><sub>4.1 天</sub> | 718 | 176.1 |
 | 7 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任务分派给你的 AI 团队 | 2026-11-07<br><sub>2.6 天</sub> | 401 | 152.0 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>视频动效难做？让剪辑智能体搞定工作流 | 2026-11-06<br><sub>2.8 天</sub> | 365 | 130.0 |
-| 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器 | 2026-11-06<br><sub>2.9 天</sub> | 365 | 128.1 |
+| 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>用AI搭建Next.js全栈应用 | 2026-11-06<br><sub>2.9 天</sub> | 365 | 128.1 |
 | 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>用一次性 Windows 环境测试应用 | 2026-11-06<br><sub>2.9 天</sub> | 372 | 127.7 |
 
 <details>
@@ -272,16 +272,16 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)<br>AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics. | 2026-11-09<br><sub>1.0 天</sub> | 400 | 400.0 |
+| 1 | [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)<br>AndroidUnlocker 2023 部署管线 | 2026-11-09<br><sub>1.0 天</sub> | 400 | 400.0 |
 | 2 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>不想离开终端，在里面运行完整 macOS | 2026-11-03<br><sub>6.6 天</sub> | 2,487 | 378.9 |
 | 3 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme 本地部署环境配置 | 2026-11-08<br><sub>1.4 天</sub> | 503 | 373.6 |
-| 4 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>用于专业桌面软件实用工具中无缝自动化部署管线的 Chief Architect Premier 2026 预配置环境。 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.5 |
-| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 自动化部署流水线，用于截至 2026 年在企业桌面环境中进行高效的软件卸载与管理。 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.4 |
-| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 预配置环境，用于在 2023 年简化桌面实用程序安装。 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.4 |
-| 7 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 自动化部署流水线，用于 2026 年高效桌面实用程序安装与配置。 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.3 |
+| 4 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 预配置环境 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.5 |
+| 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 部署 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.4 |
+| 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 配置环境 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.4 |
+| 7 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 部署 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.3 |
 | 8 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 提示词工程本地部署环境 | 2026-11-08<br><sub>1.4 天</sub> | 500 | 371.3 |
-| 9 | [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad)<br>Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution. | 2026-11-08<br><sub>1.4 天</sub> | 499 | 370.7 |
-| 10 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper)<br>Aomei Backupper 1.5.3 pre-configured environment for seamless workstation backup deployment in isolated local environments as of 2026. | 2026-11-08<br><sub>1.1 天</sub> | 400 | 363.1 |
+| 9 | [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad)<br>Catia Cad 2026 部署环境 | 2026-11-08<br><sub>1.4 天</sub> | 499 | 370.7 |
+| 10 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper)<br>Aomei Backupper 备份部署环境 | 2026-11-08<br><sub>1.1 天</sub> | 400 | 363.1 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -606,8 +606,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>把公开页面的人物搜索汇成报告 | 2026-11-05<br><sub>4.5 天</sub> | 672 | 149.9 |
-| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 | 2026-11-07<br><sub>1.8 天</sub> | 150 | 81.3 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>具有真实弹簧物理效果的 Toast。单个 Toast 原位变形。无依赖项。React、Svelte 和原生 DOM。 | 2026-11-05<br><sub>4.4 天</sub> | 198 | 44.9 |
+| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>在 macOS 和 iOS 上追剧 | 2026-11-07<br><sub>1.8 天</sub> | 150 | 81.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>单条提示用弹簧动效原地变形 | 2026-11-05<br><sub>4.4 天</sub> | 198 | 44.9 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>加密存储和分享文件 | 2026-11-05<br><sub>4.7 天</sub> | 164 | 34.9 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>界面简洁的 Play 与 Postgres 启动模板 | 2026-11-06<br><sub>3.1 天</sub> | 149 | 48.0 |
 
@@ -770,10 +770,10 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… | 2026-11-08<br><sub>1.4 天</sub> | 104 | 72.2 |
+| 1 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>无需视频下载的Twitch掉宝工具 | 2026-11-08<br><sub>1.4 天</sub> | 104 | 72.2 |
 | 2 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude)<br>把 Claude Code 接上 Gemini | 2026-11-03<br><sub>5.9 天</sub> | 159 | 27.0 |
-| 3 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator | 2026-11-06<br><sub>3.1 天</sub> | 149 | 48.0 |
-| 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 | 2026-11-06<br><sub>3.1 天</sub> | 149 | 47.9 |
+| 3 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>用 Docker 部署 Play REST API | 2026-11-06<br><sub>3.1 天</sub> | 149 | 48.0 |
+| 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse/KQL 可观测性库 | 2026-11-06<br><sub>3.1 天</sub> | 149 | 47.9 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -932,9 +932,9 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go | 2026-11-08<br><sub>1.2 天</sub> | 172 | 144.7 |
+| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>用纯Go在GPU上绘制原生界面 | 2026-11-08<br><sub>1.2 天</sub> | 172 | 144.7 |
 | 2 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar)<br>给互动智能体轻松渲染虚拟形象 | 2026-11-02<br><sub>7.0 天</sub> | 316 | 45.2 |
-| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>Animated SVG stats cards for your GitHub profile README, counting private and organization work. Runs as a GitHub Action, no server. | 2026-11-04<br><sub>4.8 天</sub> | 112 | 23.5 |
+| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>用动画卡片展示 GitHub 贡献 | 2026-11-04<br><sub>4.8 天</sub> | 112 | 23.5 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1091,7 +1091,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>事件驱动的 OneLake 流水线，具有自动化 Upsert 合并与 Python 报告功能 | 2026-11-06<br><sub>3.1 天</sub> | 149 | 47.9 |
+| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7)<br>OneLake 自动 Upsert 合并流水线 | 2026-11-06<br><sub>3.1 天</sub> | 149 | 47.9 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

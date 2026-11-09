@@ -119,55 +119,55 @@
 |---|---|---|
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 不用一直盯梢，智能体拿不准时才找你 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 让智能体处理三维与视觉特效 | 面向智能体的无界面 3D 和 VFX 引擎. 研究预览版. |
-| [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) |  | Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run play… |
+| [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) | 让 AI 自动编写 Lua 脚本 | 面向 Roblox Studio 的 Model Context Protocol (MCP) 服务器。连接 AI 助手（Claude、Cursor、Cline），读取对象树、自动编写 Lua 脚本，并运行 play… |
 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 让大模型用 Python 做三维建模 | 用 Python 进行 3D 建模, 为 LLMs 打造. |
-| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) |  | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 |
+| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 授权渗透测试插件 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 让 AI 操作真实的 iPhone | 让 AI 智能体操作真实的 iPhone. 本地 MCP 服务器和智能体, 无需越狱, 无需额外硬件. |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任务分派给你的 AI 团队 | 人类主导的 AI 团队技能: 分派任务、核验证据、清楚解释步骤, 并从真实案例中学习. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 视频动效难做？让剪辑智能体搞定工作流 | Eyeline 提词器遇上剪辑智能体：JSON 驱动的动画和动态图形工作流 |
-| [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) |  | 用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器 |
+| [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | 用AI搭建Next.js全栈应用 | 用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器 |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 用一次性 Windows 环境测试应用 | 用全新、用完即弃的 Windows 机器测试你的应用: 自动操作 Windows Sandbox 的 MCP 服务器和 CLI |
-| [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) |  | Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click. |
-| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) |  | An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React… |
-| [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) |  | NVIDIA Auto Ontology 的语义层和个人知识库，作为适用于 Claude、ChatGPT 和其他 MCP 客户端的 MCP 服务器。无需 LLM API 密钥。 |
+| [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 一句话描述，小游戏就能玩 | 用一句话描述一个小游戏，在 DeepSeek Harness 侧边栏中游玩，替换为 AI 美术素材，再一键发布到 GitHub Pages 或 Cloudflare。 |
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 画出风格统一的动画图标 | 供 Claude Code、Codex 等编程智能体使用的智能体技能，可绘制风格统一的动画图标。附带 2,600+ 个用于 React 的开源图标… |
+| [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | 知识库连Claude，无需API密钥 | NVIDIA Auto Ontology 的语义层和个人知识库，作为适用于 Claude、ChatGPT 和其他 MCP 客户端的 MCP 服务器。无需 LLM API 密钥。 |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 去掉土耳其语文章里的 AI 痕迹 | 清除土耳其语文本中人工智能痕迹 (AI 垃圾内容、翻译腔、带有翻译痕迹的句子结构和不符合 TDK 语言规范的错误) 的 Agent Skill 和 Humanizer 包. |
 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | 比较让 AI 长久记住事情的工具 | 最佳智能体记忆 MCP 服务器排名与对比: 为 Claude Code、Codex、Cursor 和任何 MCP 客户端提供长期记忆. Glen, Mem0, Supermemory, Zep, Hindsight… |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。 |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 下载 AI 同事的 3D 工牌 | 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。 |
 | [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | 不用电脑也能在手机上跑 AI | 在 iPhone 和 iPad 上运行 DeepSeek Harness, 采用完全原生的 SwiftUI 界面. 无需电脑, 无需服务器. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。 |
-| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) |  | 供编程智能体构建独特且可用界面的 UI/UX 技能。 |
-| [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan) |  | TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding plans, API pricing and model value comparisons. |
-| [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) |  | Can AI agents rebuild websites through browser exploration? |
-| [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker) |  | AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics. |
+| [smokeeaasd/flawless-ui-ux](https://github.com/smokeeaasd/flawless-ui-ux) | 做出独特又好用的界面 | 供编程智能体构建独特且可用界面的 UI/UX 技能。 |
+| [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan) | 对比AI编程套餐与API价格 | TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI 编程套餐、API 定价与模型性价比对比。 |
+| [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | AI 能靠浏览重建网站吗 | AI 智能体能通过浏览器探索来重建网站吗？ |
+| [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker) | AndroidUnlocker 2023 部署管线 | AndroidUnlocker 2023 自动化部署流水线，用于企业级 Android 设备管理和诊断。 |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 不想离开终端，在里面运行完整 macOS | 在你的终端中运行整个 MacOS。 |
 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | Aida 64 Extreme 本地部署环境配置 | AI 提示词工程工具包 Aida 64 Extreme，用于在隔离本地进行高级 LLM 训练和部署的预配置环境... |
-| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) |  | 用于专业桌面软件实用工具中无缝自动化部署管线的 Chief Architect Premier 2026 预配置环境。 |
-| [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller) |  | Ashampoo Uninstaller 1.3.5 自动化部署流水线，用于截至 2026 年在企业桌面环境中进行高效的软件卸载与管理。 |
-| [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer) |  | Ashampoo Winoptimizer 17.0 预配置环境，用于在 2023 年简化桌面实用程序安装。 |
-| [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) |  | Abbyy Finereader Pdf 18.5 自动化部署流水线，用于 2026 年高效桌面实用程序安装与配置。 |
+| [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier) | Chief Architect Premier 预配置环境 | 用于专业桌面软件实用工具中无缝自动化部署管线的 Chief Architect Premier 2026 预配置环境。 |
+| [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller) | Ashampoo Uninstaller 1.3.5 部署 | Ashampoo Uninstaller 1.3.5 自动化部署流水线，用于截至 2026 年在企业桌面环境中进行高效的软件卸载与管理。 |
+| [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer) | Ashampoo Winoptimizer 17.0 配置环境 | Ashampoo Winoptimizer 17.0 预配置环境，用于在 2023 年简化桌面实用程序安装。 |
+| [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) | Abbyy Finereader Pdf 18.5 部署 | Abbyy Finereader Pdf 18.5 自动化部署流水线，用于 2026 年高效桌面实用程序安装与配置。 |
 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool) | Aion 2 提示词工程本地部署环境 | Aion 2 是一项 AI 驱动的 LLM 提示词工程资源，为 2026 年无缝本地工作站部署提供预配置环境。 |
-| [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad) |  | Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution. |
-| [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) |  | Aomei Backupper 1.5.3 pre-configured environment for seamless workstation backup deployment in isolated local environments as of 2026. |
-| [ClampBeeCrane/payday-3-trainer-tool](https://github.com/ClampBeeCrane/payday-3-trainer-tool) |  | Payday 3 1.5.4 local workstation deployment package with pre-configured environment and automated deployment pipeline, ready for immediate... |
-| [CopperHammerPeace/delta-force-trainer-tool](https://github.com/CopperHammerPeace/delta-force-trainer-tool) |  | Delta Force 1.5 automated deployment pipeline for secure, efficient enterprise desktop software utility configuration, ensuring robust... |
-| [eveningpuffinravine/marvel-rivals-trainer-tool](https://github.com/eveningpuffinravine/marvel-rivals-trainer-tool) |  | Marvel Rivals 2026 pre-configured environment for rapid local workstation deployment. |
-| [Exteriordadynamo/metatrader-5-bot](https://github.com/Exteriordadynamo/metatrader-5-bot) |  | Metatrader 5 Bot 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup. |
-| [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) |  | 用于 Claude AI 管线管理和自定义自动化工作流的优化本地环境套件。 |
-| [WebTsuchikage/wondshare-recoverit](https://github.com/WebTsuchikage/wondshare-recoverit) |  | Wondshare Recoverit 13.5 pre-configured environment for enterprise desktop software utility, ensuring optimal recovery solutions in a... |
-| [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) |  | 用于无缝本地工作站部署的 Slideshow Video Maker 2026 预配置环境，集成了高级视频编辑、屏幕... |
-| [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) |  | Soundpad 2023 自动化部署流水线，用于无缝录音室音频插件集成的预配置环境。 |
-| [Urbandaravine/startall-back](https://github.com/Urbandaravine/startall-back) |  | Startall Back 2026 pre-configured environment for seamless automated deployment pipeline on professional desktop software utility. |
-| [VirtualEchoWorkshop/ultra-iso](https://github.com/VirtualEchoWorkshop/ultra-iso) |  | Ultra Iso 3.5, a robust disk imaging utility, offers pre-configured environment for seamless local workstation deployment in enterprise settings. |
+| [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad) | Catia Cad 2026 部署环境 | Catia Cad 2026 预配置环境，用于安全部署到工作站，确保自动化流水线无缝执行。 |
+| [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) | Aomei Backupper 备份部署环境 | 截至 2026 年的 Aomei Backupper 1.5.3 预配置环境，用于在隔离的本地环境中无缝部署工作站备份。 |
+| [ClampBeeCrane/payday-3-trainer-tool](https://github.com/ClampBeeCrane/payday-3-trainer-tool) | Payday 3 本地部署包 | Payday 3 1.5.4 本地工作站部署包，配有预配置环境和自动化部署流水线，已准备就绪，可立即... |
+| [CopperHammerPeace/delta-force-trainer-tool](https://github.com/CopperHammerPeace/delta-force-trainer-tool) | Delta Force 1.5 部署管线 | Delta Force 1.5 自动化部署流水线，用于安全、高效地配置企业桌面软件实用工具，确保稳健... |
+| [eveningpuffinravine/marvel-rivals-trainer-tool](https://github.com/eveningpuffinravine/marvel-rivals-trainer-tool) | Marvel Rivals 2026 工作站环境 | Marvel Rivals 2026 预配置环境，用于快速部署到本地工作站。 |
+| [Exteriordadynamo/metatrader-5-bot](https://github.com/Exteriordadynamo/metatrader-5-bot) | Metatrader 5 Bot 预配置环境 | Metatrader 5 Bot 2026 预配置环境，用于自动化部署流水线，确保桌面软件实用工具的设置顺畅无阻。 |
+| [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) | Claude AI 工作流环境 | 用于 Claude AI 管线管理和自定义自动化工作流的优化本地环境套件。 |
+| [WebTsuchikage/wondshare-recoverit](https://github.com/WebTsuchikage/wondshare-recoverit) | Wondshare Recoverit 13.5 配置环境 | Wondshare Recoverit 13.5 预配置环境，用于企业桌面软件实用工具，确保提供最佳恢复解决方案... |
+| [TyphoonFlame/slideshow-video-maker](https://github.com/TyphoonFlame/slideshow-video-maker) | Slideshow Video Maker 预配置环境 | 用于无缝本地工作站部署的 Slideshow Video Maker 2026 预配置环境，集成了高级视频编辑、屏幕... |
+| [unitgatecommand/soundpad](https://github.com/unitgatecommand/soundpad) | Soundpad 2023 部署管线 | Soundpad 2023 自动化部署流水线，用于无缝录音室音频插件集成的预配置环境。 |
+| [Urbandaravine/startall-back](https://github.com/Urbandaravine/startall-back) | Startall Back 2026 部署环境 | Startall Back 2026 预配置环境，为专业桌面软件实用工具提供无缝的自动化部署流水线。 |
+| [VirtualEchoWorkshop/ultra-iso](https://github.com/VirtualEchoWorkshop/ultra-iso) | Ultra Iso 预配置环境 | Ultra Iso 3.5 是一款功能强大的磁盘映像实用工具，提供预配置环境，便于在企业环境中无缝部署到本地工作站。 |
 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) | 在地球仪上实时查看安全事件 | 实时呈现每起黑客攻击、漏洞利用和数据泄露：在一个地球仪上查看新漏洞、活跃的漏洞利用和数据泄露，附有来源和一键修复功能。 |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 把公开页面的人物搜索汇成报告 | 免费人员搜索桌面应用：在 3,100+ 个公开页面中查询昵称、电子邮箱、电话或网站，并获得一份易读的报告。 |
-| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) |  | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
-| [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) |  | 具有真实弹簧物理效果的 Toast。单个 Toast 原位变形。无依赖项。React、Svelte 和原生 DOM。 |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追剧 | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
+| [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) | 单条提示用弹簧动效原地变形 | 具有真实弹簧物理效果的 Toast。单个 Toast 原位变形。无依赖项。React、Svelte 和原生 DOM。 |
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 加密存储和分享文件 | 非托管的加密文件存储 &amp; 共享平台，支持 Stellar 支付和链上文件公证 |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 界面简洁的 Play 与 Postgres 启动模板 | 具有简洁 UI 的 Play + Postgres 启动模板 |
-| [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) |  | 在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… |
+| [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 无需视频下载的Twitch掉宝工具 | 在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… |
 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | 把 Claude Code 接上 Gemini | 生产环境兼容性网关桥接 &amp; 可观测性平台，将 Claude Code CLI 与 Google Antigravity &amp; Gemini 推理模型连接起来，通过 Anthr… |
-| [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) |  | 基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator |
-| [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) |  | grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 |
-| [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) |  | 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go |
+| [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | 用 Docker 部署 Play REST API | 基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator |
+| [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse/KQL 可观测性库 | grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 |
+| [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 用纯Go在GPU上绘制原生界面 | 🍭 Lobe MyGo - 原生 Go 应用的 UI 工具包：适用于 MyGo 的 Lobe UI 设计语言，以纯 Go 在 GPU 上绘制 |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | 给互动智能体轻松渲染虚拟形象 | 用于交互式智能体头像的 JSON 规范与渲染器 |
-| [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) |  | Animated SVG stats cards for your GitHub profile README, counting private and organization work. Runs as a GitHub Action, no server. |
-| [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) |  | 事件驱动的 OneLake 流水线，具有自动化 Upsert 合并与 Python 报告功能 |
+| [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | 用动画卡片展示 GitHub 贡献 | 用于 GitHub 个人主页 README 的动态 SVG 统计卡片，也统计私有项目及组织中的工作。以 GitHub Action 运行，无需服务器。 |
+| [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | OneLake 自动 Upsert 合并流水线 | 事件驱动的 OneLake 流水线，具有自动化 Upsert 合并与 Python 报告功能 |

@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # Owner's-Mac job: translate the new-repo descriptions (and write their one-line hooks) that the GitHub Actions
 # daily-update could not, because translation needs a signed-in agent CLI and the repo has no CURSOR_API_KEY secret.
-# Runs from launchd once a day ~1–2h after the Los Angeles midnight Actions slot
-# (Beijing 17:15; see tools/com.jammyfu.risers-i18n.plist).
+# The installed launchd job runs every hour at :15, retrying gaps left by earlier runs.
+# tools/com.jammyfu.risers-i18n.plist is the older daily 17:15 installation template;
+# this script does not change the installed schedule.
 #
 #   tools/mac_i18n_cron.sh            # pull, translate if anything is missing, render, verify, commit, push to main
 #   tools/mac_i18n_cron.sh --no-push  # same, but commit locally only
@@ -12,6 +13,7 @@
 # a dirty tree. Only data files are committed. A push rejected because Actions pushed meanwhile is retried:
 # the new translations are kept, the generated files are re-rendered on top of the new origin/main.
 # Log: ~/Library/Logs/risers-i18n.log (written by launchd).
+# Exit 4 means valid results were kept, but description or hook gaps remain for the next run.
 set -euo pipefail
 export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:${PATH:-}"
 cd "$(dirname "$0")/.."
@@ -37,31 +39,50 @@ LIB=data/translation_library.json
 git pull --ff-only -q
 command -v agy >/dev/null || { say "error: agy not installed"; exit 2; }
 
-todo() {  # number of ranked new-repo descriptions still needing a translation (hooks ride along, but a hook that
-          # keeps breaking the length rule must not wake the agent on every run)
-  "$PY" tools/i18n_pipeline.py --translate --dry-run | tail -1 | "$PY" -c \
-    'import json,sys; d=json.loads(sys.stdin.read()); print(sum(int(v.get("todo",0)) for v in d.values() if isinstance(v,dict)))'
+todo() {  # Count descriptions and hooks separately, using the same cache-aware stages as the real run.
+  "$PY" tools/i18n_pipeline.py --translate --hooks --dry-run | tail -1 | "$PY" -c '
+import json, sys
+d = json.load(sys.stdin)
+try:
+    counts = [d[stage]["todo"] for stage in ("translate", "hooks")]
+    if "error" in d or any(type(n) is not int or n < 0 for n in counts):
+        raise ValueError("invalid counts")
+except (KeyError, TypeError, ValueError):
+    sys.exit("error: could not audit description and hook gaps: " + repr(d))
+print(*counts)'
 }
 
-n="$(todo)"
-say "missing translations: $n"
-if [ "$n" = "0" ]; then say "nothing to do"; exit 0; fi
+counts="$(todo)"
+read -r descriptions hooks <<< "$counts"
+say "missing gaps: descriptions=$descriptions, hooks=$hooks"
+if [ "$descriptions" = 0 ] && [ "$hooks" = 0 ]; then say "nothing to do"; exit 0; fi
+
+report_remaining() {
+  counts="$(todo)"
+  read -r descriptions hooks <<< "$counts"
+  say "remaining gaps: descriptions=$descriptions, hooks=$hooks"
+  RESULT=0
+  if [ "$descriptions" != 0 ] || [ "$hooks" != 0 ]; then
+    say "incomplete: remaining gaps will be retried on the next scheduled run"
+    RESULT=4
+  fi
+}
 
 "$PY" tools/i18n_pipeline.py --translate --hooks
 "$PY" tools/render_readme.py >/dev/null
 "$PY" tools/verify.py --daily
-if [ -z "$(git status --porcelain)" ]; then say "no changes"; exit 0; fi
-say "still missing after run: $(todo)"
+report_remaining
+if [ -z "$(git status --porcelain)" ]; then say "no changes"; exit "$RESULT"; fi
 
 commit() {
   git add data rankings latest README*.md docs/HOW_IT_WORKS*.md docs/DETAILS*.md
   git commit -q -m "chore(i18n): translate new-repo descriptions $(date +%F)"
 }
 commit
-[ "$PUSH" = 1 ] || { say "committed locally (no push)"; exit 0; }
+[ "$PUSH" = 1 ] || { say "committed locally (no push)"; exit "$RESULT"; }
 
 for attempt in 1 2 3 4 5; do
-  if git push -q origin HEAD:main; then say "pushed $(git rev-parse --short HEAD)"; exit 0; fi
+  if git push -q origin HEAD:main; then say "pushed $(git rev-parse --short HEAD)"; exit "$RESULT"; fi
   say "push rejected (attempt $attempt); rebuilding on top of origin/main"
   cp "$LIB" /tmp/risers-i18n-mine.json
   git fetch -q origin main
@@ -85,7 +106,8 @@ nci.save(lib)
 PYEOF
   "$PY" tools/render_readme.py >/dev/null
   "$PY" tools/verify.py --daily
-  commit
+  report_remaining  # origin/main may now rank new repos; recheck without another model loop.
+  if [ -n "$(git status --porcelain)" ]; then commit; fi  # another writer may already have filled our gaps
   sleep $((attempt * 5))
 done
 say "error: could not push after 5 attempts"; exit 1

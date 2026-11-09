@@ -7,8 +7,9 @@ discovered and before the READMEs are rendered. Skip it with `--no-i18n`. Polish
 discover new repos ─▶ 1 translate (only what is missing) ─▶ 2 hooks (only what is missing) ─▶ [3 polish, local only] ─▶ render
 ```
 
-Everything here is **fail-safe**: no key / sign-in, no CLI, model not offered, a failed call, a reply that breaks a guard — the
-existing text stays and the scheduled update carries on (`run_safe` swallows any error; the exit code never changes).
+The pipeline stages are **fail-safe**: no key / sign-in, no CLI, model not offered, a failed call, a reply that breaks a guard — the
+existing text stays and the scheduled data update carries on (`run_safe` swallows any error; the pipeline CLI exits zero).
+The Mac translation job separately audits remaining description and hook gaps and reports an incomplete run with exit code 4.
 
 ## 1. Translate
 
@@ -110,6 +111,26 @@ Because CI keeps translating new repos, a freshly translated description is show
   so the agent cannot see the repo; tools that need approval are soft-denied in headless mode. `GITHUB_TOKEN` and `CURSOR_API_KEY` are removed
   from the agent's environment.
 - Limits: `I18N_BUDGET_SEC` (default 900) caps the time per run; 3 failed calls in a row stop a stage. What is left waits for the next run.
+
+## Scheduled translation retries (Mac)
+
+`tools/mac_i18n_cron.sh` runs translate + hooks, without polish. The owner's installed launchd job runs every hour at `:15`.
+The repository's `tools/com.jammyfu.risers-i18n.plist` is the older daily 17:15 installation template, not a record of the
+installed schedule; this script does not install or change launchd settings.
+
+- Before starting a model, the script runs `--translate --hooks --dry-run`. It skips only when **both** counts are zero.
+  Missing/rejected hooks are retried even when every detailed description is already cached. Existing valid hooks and
+  translations are reused, not sent again. Counts are repos/texts with at least one missing language, not missing-language totals.
+- Each invocation makes one bounded pipeline pass (`I18N_BUDGET_SEC=2400` by default for this script, with the existing
+  per-call timeout and consecutive-failure limit). There is no loop that keeps calling the model until every gap is filled.
+  The next scheduled invocation retries what remains. The same lock and clean-main checks prevent overlapping job writers.
+- After rendering and daily verification, a fresh dry-run reports the remaining description and hook counts, even when no
+  files changed. Exit **4** means incomplete: valid partial results are still committed/pushed (or committed with `--no-push`),
+  but some gaps remain. An unreadable/error audit fails rather than being treated as an empty queue. A successful daily data
+  verification alone does not mean every description and hook is translated.
+- If a push loses a race to `origin/main`, the script keeps upstream text, merges missing library fields, renders and verifies
+  again, and rechecks gaps against the new ranking before reporting its result. It does not call the model again during the
+  bounded push retries, and skips an empty commit if another writer already supplied the same fields.
 
 ## Running polish locally (Mac)
 

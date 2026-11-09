@@ -2,44 +2,44 @@
 
 ## Plan ID
 
-PLAN-008
+PLAN-009
 
 ## Goal
 
-Make the public GitHub first screen easier for visitors to understand, open the live boards, and star the project, while adding a profile README draft and aligning leftover twice-daily public copy.
+Complete the latest GitHub API ranking in all five languages, including the unresolved short hooks, and make the existing Mac translation job retry hook-only gaps without changing the data-refresh workflow.
 
 ## In Scope
 
-- Generated README first-screen copy via `tools/i18n.py` and `tools/render_readme.py`
-- Folded star-history charts on README boards
-- `docs/github-profile-draft.md` unpublished draft for a `jammyfu/jammyfu` profile
-- Public cadence wording in `llms.txt`, `docs/llms.txt`, and `CITATION.cff`
-- Tests and governance records for those copy changes
+- Verify the real 2026-11-09 daily update, snapshots and deployment
+- Fill missing exact-source translation-library fields and regenerate public pages
+- Complete the previous ranking's 98 unresolved hook-language fields
+- Fix and test the Mac job's completeness gate and incomplete-result reporting
+- Preserve existing translations, numeric data, historical snapshots, model configuration and task cadence
 
 ## Out of Scope
 
-- Ranking, star-fetch, and workflow logic
-- Hand-editing ranking data or history snapshots
-- Merging to `main`
-- Creating `jammyfu/jammyfu` or changing the GitHub About field by API
-- Private repositories, star farming, invented usage or capability claims
+- New ranking or discovery rules, project filtering and hand-edited star numbers
+- Re-translating existing details, replacing valid hooks or changing model/backend credentials
+- Changing installed launchd configuration or creating duplicate scheduled work
 
 ## Tasks
 
-- [x] Confirm README vs About cadence: README stays daily without clocks; About is owner-managed and already daily
-- [x] First screen: clear value, live-board entry, quick use; fold README star-history charts
-- [x] Add `docs/github-profile-draft.md` (Chinese and English; verified public projects only)
-- [x] Align leftover public twice-daily wording in `llms.txt` and `CITATION.cff`
-- [x] Run `python3 tools/verify.py` and `python3 tools/next_plan.py --check`
-- [x] Open an unmerged pull request (https://github.com/jammyfu/github-risers/pull/21; not merged)
+- [x] Verify latest automatic API refresh and measure all-category detail/hook gaps
+- [x] Fill current missing detail translations and current/previous missing hooks with semantic review
+- [x] Reproduce and fix the hook-only retry gap with isolated regression tests
+- [x] Run full verification, daily checks and preservation audits
+- [ ] Publish through a pull request and verify exact remote contents, CI and Pages deployment
 
 ## Verification
 
 - `python3 tools/verify.py`
+- `python3 tools/verify.py --daily`
 - `python3 tools/next_plan.py --check`
+- All-category exact-source detail and hook audit; all previous missing hooks filled
+- Compare numeric data/history and pre-existing library fields with the base commit
 
 ## Next Candidates
 
-- Owner may copy `docs/github-profile-draft.md` into `jammyfu/jammyfu` if they choose to publish it
-- Observe the next unattended daily update after any authorized merge
-- Do not treat a failed profile-repo fetch as proof that the repository is missing
+- Observe the existing hourly Mac job after the authorized publication, without duplicate triggers
+- Improve explicit English-language detection for non-CJK sources separately
+- Owner decision on developer-tools newcomer quality signals remains outside this round
