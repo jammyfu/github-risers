@@ -83,3 +83,9 @@
 
 - Plan, backlog and governance files brought up to date; `python3 tools/next_plan.py --check`; harness regression tests. No change to rankings or generated pages.
 - Fix: the scheduled daily-update failed at Beijing 2026-10-31 04:22 because a test required every ranked new repo to already have a hook (CI has no model key). It is now informational; the tables fall back to the translation or original text, and a regression test covers it.
+
+
+## 2026-11-09 UTC (complete daily translations)
+
+- Filled 84 detailed translations and 198 short hooks in the translation library: all 54 current newcomers now have five-language descriptions and 270 valid hooks, and all 98 previous hook gaps are complete. Existing translations and historical ranking data are preserved.
+- The Mac translation job now retries hook-only gaps, reports incomplete work explicitly, and rechecks completeness after concurrent pushes. Installed task timing and model settings are unchanged.

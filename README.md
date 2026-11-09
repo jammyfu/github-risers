@@ -68,9 +68,9 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br>Tired of babysitting agents? Approve only when needed | 2026-11-03<br><sub>6.4 d</sub> | 4,264 | 669.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>Let agents work with 3D and visual effects | 2026-11-05<br><sub>3.8 d</sub> | 1,260 | 334.8 |
-| 3 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run play… | 2026-11-09<br><sub>1.0 d</sub> | 279 | 279.0 |
+| 3 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>Let AI automate Lua scripting | 2026-11-09<br><sub>1.0 d</sub> | 279 | 279.0 |
 | 4 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)<br>Let language models build 3D models in Python | 2026-11-03<br><sub>6.4 d</sub> | 1,590 | 250.2 |
-| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>1.0 d</sub> | 234 | 234.0 |
+| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness authorized penetration testing plugin | 2026-11-09<br><sub>1.0 d</sub> | 234 | 234.0 |
 | 6 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>Let AI operate your real iPhone | 2026-11-05<br><sub>4.1 d</sub> | 718 | 176.1 |
 | 7 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>Delegate work across your AI team | 2026-11-07<br><sub>2.6 d</sub> | 401 | 152.0 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Struggling with video edits? Let agents handle animations | 2026-11-06<br><sub>2.8 d</sub> | 365 | 130.0 |
@@ -272,16 +272,16 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)<br>AndroidUnlocker 2023 automated deployment pipeline for enterprise-grade Android device management and diagnostics. | 2026-11-09<br><sub>1.0 d</sub> | 400 | 400.0 |
+| 1 | [Scalarencultivate9/androidunlocker](https://github.com/Scalarencultivate9/androidunlocker)<br>AndroidUnlocker 2023 deployment pipeline | 2026-11-09<br><sub>1.0 d</sub> | 400 | 400.0 |
 | 2 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac)<br>Don't leave the terminal; run full MacOS right inside it | 2026-11-03<br><sub>6.6 d</sub> | 2,487 | 378.9 |
 | 3 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme)<br>Aida 64 Extreme local deployment environment | 2026-11-08<br><sub>1.4 d</sub> | 503 | 373.6 |
-| 4 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility. | 2026-11-08<br><sub>1.4 d</sub> | 500 | 371.5 |
+| 4 | [PsycheGradeSpeak/chief-architect-premier](https://github.com/PsycheGradeSpeak/chief-architect-premier)<br>Chief Architect Premier preconfigured environment | 2026-11-08<br><sub>1.4 d</sub> | 500 | 371.5 |
 | 5 | [Perceptionzyavalue/ashampoo-uninstaller](https://github.com/Perceptionzyavalue/ashampoo-uninstaller)<br>Ashampoo Uninstaller 1.3.5 desktop deployment pipeline | 2026-11-08<br><sub>1.4 d</sub> | 500 | 371.4 |
 | 6 | [PerfumerExcite/ashampoo-winoptimizer](https://github.com/PerfumerExcite/ashampoo-winoptimizer)<br>Ashampoo Winoptimizer 17.0 desktop setup environment | 2026-11-08<br><sub>1.4 d</sub> | 500 | 371.4 |
 | 7 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf)<br>Abbyy Finereader Pdf 18.5 desktop deployment pipeline | 2026-11-08<br><sub>1.4 d</sub> | 500 | 371.3 |
 | 8 | [Outsideclofilter/aion-2-trainer-tool](https://github.com/Outsideclofilter/aion-2-trainer-tool)<br>Aion 2 prompt engineering environment for local deployment | 2026-11-08<br><sub>1.4 d</sub> | 500 | 371.3 |
-| 9 | [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad)<br>Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution. | 2026-11-08<br><sub>1.4 d</sub> | 499 | 370.7 |
-| 10 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper)<br>Aomei Backupper 1.5.3 pre-configured environment for seamless workstation backup deployment in isolated local environments as of 2026. | 2026-11-08<br><sub>1.1 d</sub> | 400 | 363.1 |
+| 9 | [Prideoidemultiplexer/catia-cad](https://github.com/Prideoidemultiplexer/catia-cad)<br>Catia Cad 2026 deployment environment | 2026-11-08<br><sub>1.4 d</sub> | 499 | 370.7 |
+| 10 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper)<br>Aomei Backupper backup deployment environment | 2026-11-08<br><sub>1.1 d</sub> | 400 | 363.1 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -606,8 +606,8 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>Turn public-page people searches into one readable report | 2026-11-05<br><sub>4.5 d</sub> | 672 | 149.9 |
-| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 | 2026-11-07<br><sub>1.8 d</sub> | 150 | 81.3 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM. | 2026-11-05<br><sub>4.4 d</sub> | 198 | 44.9 |
+| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>Watch series on macOS and iOS | 2026-11-07<br><sub>1.8 d</sub> | 150 | 81.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>One toast morphs in place with spring physics | 2026-11-05<br><sub>4.4 d</sub> | 198 | 44.9 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>Store and share encrypted files | 2026-11-05<br><sub>4.7 d</sub> | 164 | 34.9 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>Play + Postgres starter template with a clean UI | 2026-11-06<br><sub>3.1 d</sub> | 149 | 48.0 |
 
@@ -932,9 +932,9 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go | 2026-11-08<br><sub>1.2 d</sub> | 172 | 144.7 |
+| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>Build native Go UIs drawn on the GPU in pure Go | 2026-11-08<br><sub>1.2 d</sub> | 172 | 144.7 |
 | 2 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar)<br>Render interactive avatars for your agents | 2026-11-02<br><sub>7.0 d</sub> | 316 | 45.2 |
-| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>Animated SVG stats cards for your GitHub profile README, counting private and organization work. Runs as a GitHub Action, no server. | 2026-11-04<br><sub>4.8 d</sub> | 112 | 23.5 |
+| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>Show your GitHub work in animated stats cards | 2026-11-04<br><sub>4.8 d</sub> | 112 | 23.5 |
 
 <details>
 <summary>Star history charts for this board</summary>
