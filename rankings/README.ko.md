@@ -6,6 +6,7 @@
 
 | 날짜 | 슬롯 | 가져온 시각(UTC) | 신규 1위(7일) | 이번 주 1위 | 이번 달 1위 | 올해 1위 | 스냅샷 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-10 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-10T15:16:55Z | FJNB5/fujiang-pojia (332/일) | morluto/rea (3,496/일) | morluto/rea (12,322/일) | deepseek-ai/deepseek-harness (3,120/일) | [2026-11-10/pt-0000](2026-11-10/pt-0000/rankings.ko.md) · [json](2026-11-10/pt-0000/stats.json) |
 | 2026-11-09 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-09T16:55:53Z | KKKKhazix/agent-autoloop (669/일) | morluto/rea (3,634/일) | morluto/rea (13,045/일) | deepseek-ai/deepseek-harness (3,145/일) | [2026-11-09/pt-0000](2026-11-09/pt-0000/rankings.ko.md) · [json](2026-11-09/pt-0000/stats.json) |
 | 2026-11-08 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-08T13:56:04Z | KKKKhazix/agent-autoloop (773/일) | morluto/rea (3,756/일) | morluto/rea (13,710/일) | deepseek-ai/deepseek-harness (3,172/일) | [2026-11-08/pt-0000](2026-11-08/pt-0000/rankings.ko.md) · [json](2026-11-08/pt-0000/stats.json) |
 | 2026-11-07 | 수동 실행 12:46 UTC (`manual-1246`) | 2026-11-07T12:46:19Z | KKKKhazix/agent-autoloop (923/일) | morluto/rea (3,785/일) | morluto/rea (14,058/일) | deepseek-ai/deepseek-harness (3,200/일) | [2026-11-07/manual-1246](2026-11-07/manual-1246/rankings.ko.md) · [json](2026-11-07/manual-1246/stats.json) |
