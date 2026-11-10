@@ -148,8 +148,8 @@
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 간단한 워크플로로 Android 화면을 미러링·제어 | Android 화면 미러링 및 제어 워크플로, 간소화됨 |
 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | passfab-unlocker 비밀번호 복구 도구 | passfab-unlocker: 독립 실행형 오프라인 비밀번호 복구 솔루션 |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 활성화된 데스크톱 트레이너 빌드 | Payday 3 Trainer 도구 - 완전히 활성화된 데스크톱 빌드, 즉시 플레이 가능 |
-| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) |  | Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군 |
-| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) |  | Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티 |
+| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 데스크톱 설치 프로그램 | Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군 |
+| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced 데스크톱 유틸리티 | Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티 |
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램 |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) |  | Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자 |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) |  | Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군 |

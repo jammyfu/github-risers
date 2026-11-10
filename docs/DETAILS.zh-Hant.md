@@ -147,7 +147,7 @@
 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) |  | Robux-Generator：完整安裝程式，所有功能均已啟用，桌面就緒 |
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) |  | Android 螢幕鏡像與控制工作流程，已簡化 |
 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | passfab-unlocker 離線密碼復原工具 | passfab-unlocker：獨立離線密碼復原解決方案 |
-| [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) |  | Payday 3 Trainer 工具 - 完全啟用的桌面組建，即玩就緒 |
+| [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 修改器，標明為全啟用桌面版 | Payday 3 Trainer 工具 - 完全啟用的桌面組建，即玩就緒 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) |  | Power Director：帶有完整安裝程式的獨立桌面影片編輯套件 |
 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) |  | Ozone 12 Advanced：具有增強配置的專業桌面實用工具 |
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited：功能齊全的桌面音樂製作安裝程式，可直接執行 |

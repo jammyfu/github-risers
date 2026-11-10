@@ -148,8 +148,8 @@ The ranking tables show one short line per project. This page keeps the full des
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | Easily mirror and control Android with a simple workflow | Android Screen Mirroring and Control Workflow, Simplified |
 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | passfab-unlocker offline password recovery tool | passfab-unlocker: Standalone Offline Password Recovery Solution |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 trainer, listed as fully activated desktop build | Payday 3 Trainer Tool - Fully Activated Desktop Build, Ready to Play |
-| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) |  | Power Director: Standalone Desktop Video Editing Suite with Complete Installer |
-| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) |  | Ozone 12 Advanced: Professional Desktop Utility with Enhanced Configurations |
+| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director standalone desktop installer and suite | Power Director: Standalone Desktop Video Editing Suite with Complete Installer |
+| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced desktop utility with enhanced configs | Ozone 12 Advanced: Professional Desktop Utility with Enhanced Configurations |
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited: Full-featured desktop music production installer, ready to run |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) |  | Ninjatrader Bot 2026: a friendly, community-driven trading companion packed with powerful features |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) |  | Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set |

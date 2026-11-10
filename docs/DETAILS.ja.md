@@ -148,8 +148,8 @@
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | シンプルなワークフローで Android 画面を操作 | Android 画面ミラーリングおよび制御ワークフロー、簡素化 |
 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | passfab-unlocker パスワード復旧 | passfab-unlocker: スタンドアロンのオフラインパスワード回復ソリューション |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 有効化済みデスクトップトレーナー | Payday 3 Trainer ツール - 完全有効化されたデスクトップビルド、すぐにプレイ可能 |
-| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) |  | Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート |
-| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) |  | Ozone 12 Advanced: 強化された設定を備えたプロフェッショナル向けデスクトップユーティリティ |
+| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director デスクトップインストーラ | Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート |
+| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced デスクトップツール | Ozone 12 Advanced: 強化された設定を備えたプロフェッショナル向けデスクトップユーティリティ |
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) |  | Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) |  | Melodyne-5: 完全な機能セットを備えたプロフェッショナル向けオーディオ編集デスクトップスイート |

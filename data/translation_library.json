@@ -1999,7 +1999,12 @@
         "seen": "2026-11-11",
         "zh-Hant": "Power Director：帶有完整安裝程式的獨立桌面影片編輯套件",
         "ja": "Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート",
-        "ko": "Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군"
+        "ko": "Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군",
+        "hook": {
+          "en": "Power Director standalone desktop installer and suite",
+          "ja": "Power Director デスクトップインストーラ",
+          "ko": "Power Director 데스크톱 설치 프로그램"
+        }
       }
     },
     "SoapmakerShout44/Cinema-4d": {
@@ -4474,7 +4479,9 @@
         "hook": {
           "en": "Payday 3 trainer, listed as fully activated desktop build",
           "ja": "Payday 3 有効化済みデスクトップトレーナー",
-          "ko": "Payday 3 활성화된 데스크톱 트레이너 빌드"
+          "ko": "Payday 3 활성화된 데스크톱 트레이너 빌드",
+          "zh-Hans": "Payday 3 修改器，标明为全激活桌面版",
+          "zh-Hant": "Payday 3 修改器，標明為全啟用桌面版"
         }
       }
     },
@@ -4861,7 +4868,12 @@
         "seen": "2026-11-11",
         "zh-Hant": "Ozone 12 Advanced：具有增強配置的專業桌面實用工具",
         "ja": "Ozone 12 Advanced: 強化された設定を備えたプロフェッショナル向けデスクトップユーティリティ",
-        "ko": "Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티"
+        "ko": "Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티",
+        "hook": {
+          "en": "Ozone 12 Advanced desktop utility with enhanced configs",
+          "ja": "Ozone 12 Advanced デスクトップツール",
+          "ko": "Ozone 12 Advanced 데스크톱 유틸리티"
+        }
       }
     },
     "voyager-so/vork": {
