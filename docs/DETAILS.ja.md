@@ -150,12 +150,12 @@
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 有効化済みデスクトップトレーナー | Payday 3 Trainer ツール - 完全有効化されたデスクトップビルド、すぐにプレイ可能 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director デスクトップインストーラ | Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート |
 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced デスクトップツール | Ozone 12 Advanced: 強化された設定を備えたプロフェッショナル向けデスクトップユーティリティ |
-| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー |
-| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) |  | Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン |
-| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) |  | Melodyne-5: 完全な機能セットを備えたプロフェッショナル向けオーディオ編集デスクトップスイート |
-| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) |  | Kontakt 8 デスクトップユーティリティ設定: こだわりのある dotfiles、すぐに実行可能 |
-| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) |  | GrayKet: 完全なスタンドアロンの高度なシステム構成セットアップ |
-| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) |  | HitFilm: フル機能のデスクトップ動画編集および VFX スイート |
+| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | MusicMakerUnlimited デスクトップ音楽制作インストーラー | MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー |
+| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | コミュニティの仲間と一緒に取引を管理する | Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン |
+| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | デスクトップで全機能を使って音声を編集する | Melodyne-5: 完全な機能セットを備えたプロフェッショナル向けオーディオ編集デスクトップスイート |
+| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | デスクトップですぐ実行できる実用設定を動かす | Kontakt 8 デスクトップユーティリティ設定: こだわりのある dotfiles、すぐに実行可能 |
+| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | 単独で完結する設定で高度なシステムを構築する | GrayKet: 完全なスタンドアロンの高度なシステム構成セットアップ |
+| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) | デスクトップで動画編集とVFXをまとめて行う | HitFilm: フル機能のデスクトップ動画編集および VFX スイート |
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag デスクトップ性能強化インストーラー | デスクトップ向けに最適化されたシステムパフォーマンス向上機能を備えた ExitLag インストーラー |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 公開ページの人物検索を一つのレポートに | 無料の人物検索デスクトップアプリ：3,100+ の公開ページでニックネーム、メールアドレス、電話番号、サイトを調べ、一つの読みやすいレポートを取得。 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOSとiOSでドラマを見る | HGhubクロスプラットフォームクライアント (macOS &amp; iOS 強化版) · Apple Silicon / Intelの両アーキテクチャ向けDMGと署名不要のiOS IPAに対応 · 没入感のあるドラマ視聴 / ジェスチャーによる拡大縮小 / ネイティブの横向き全画面表示 / 複数経路のミラー速度測定 |

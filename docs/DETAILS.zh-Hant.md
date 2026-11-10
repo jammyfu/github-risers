@@ -140,22 +140,22 @@
 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot) | 在桌面端自動為 Instagram 點讚 | 社群驅動的 Instagram 按讚機器人，具備適用於桌面的進階自動化功能 |
 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 以增強的資安功能在桌面安裝應用程式 | 具備增強資安特性的專業桌面安裝程式 |
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 搭配驅動與工具獨立刷寫裝置韌體 | SP-Flash-Tool: 包含驅動程式和公用程式的獨立韌體刷機套件 |
-| [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) |  | 社群驅動的 MetaTrader 5 機器人，具備完整功能，可供桌面使用 |
-| [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) |  | rx-11-audio-editor 設定：用於專業音訊編輯的完整獨立安裝程式和 dotfiles |
+| [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 桌面隨開即用的 MetaTrader 5 機器人 | 社群驅動的 MetaTrader 5 機器人，具備完整功能，可供桌面使用 |
+| [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor 安裝程式與設定檔 | rx-11-audio-editor 設定：用於專業音訊編輯的完整獨立安裝程式和 dotfiles |
 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) |  | 配備增強資安協定的 Adobe InDesign 安裝程式，用於安全數位資產部署 |
 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop) | 支援完整功能的 Samsung 韌體桌面工具 | 用於 Samsung 韌體操作的獨立桌面工具，已啟用完整功能集 |
-| [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) |  | Robux-Generator：完整安裝程式，所有功能均已啟用，桌面就緒 |
-| [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) |  | Android 螢幕鏡像與控制工作流程，已簡化 |
+| [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | Robux-Generator 桌面端完整安裝程式 | Robux-Generator：完整安裝程式，所有功能均已啟用，桌面就緒 |
+| [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 簡化安卓螢幕鏡像與控制工作流程 | Android 螢幕鏡像與控制工作流程，已簡化 |
 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | passfab-unlocker 離線密碼復原工具 | passfab-unlocker：獨立離線密碼復原解決方案 |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 修改器，標明為全啟用桌面版 | Payday 3 Trainer 工具 - 完全啟用的桌面組建，即玩就緒 |
-| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) |  | Power Director：帶有完整安裝程式的獨立桌面影片編輯套件 |
-| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) |  | Ozone 12 Advanced：具有增強配置的專業桌面實用工具 |
+| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 桌面端獨立安裝程式 | Power Director：帶有完整安裝程式的獨立桌面影片編輯套件 |
+| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced 桌面工具與增強設定 | Ozone 12 Advanced：具有增強配置的專業桌面實用工具 |
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited：功能齊全的桌面音樂製作安裝程式，可直接執行 |
-| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) |  | Ninjatrader Bot 2026：友好、社群驅動的交易伴侶，包含強大功能 |
-| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) |  | Melodyne-5：具有完整功能集的專業音訊編輯桌面套件 |
-| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) |  | Kontakt 8 桌面實用工具配置：有主見的 dotfiles，可直接執行 |
-| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) |  | GrayKet：完整的獨立進階系統配置設定 |
-| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) |  | HitFilm：功能完備的桌面影片編輯與 VFX 套件 |
+| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 讓友好的社群夥伴陪你一起打理交易 | Ninjatrader Bot 2026：友好、社群驅動的交易伴侶，包含強大功能 |
+| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 在桌面用全功能專業套件編輯音訊 | Melodyne-5：具有完整功能集的專業音訊編輯桌面套件 |
+| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 直接執行現成配好的桌面實用設定 | Kontakt 8 桌面實用工具配置：有主見的 dotfiles，可直接執行 |
+| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | 用完整的獨立方案設定你的進階系統 | GrayKet：完整的獨立進階系統配置設定 |
+| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) | 在桌面用全功能套件剪輯影片與特效 | HitFilm：功能完備的桌面影片編輯與 VFX 套件 |
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 桌面效能增強安裝程式 | 帶有針對桌面最佳化的系統效能增強功能的 ExitLag 安裝程式 |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 把公開頁面的人物搜尋彙成報告 | 免費人物搜尋桌面應用程式：在 3,100+ 個公開頁面中查詢暱稱、電子郵件、電話或網站，並取得一份易讀的報告。 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追劇 | HGhub 跨平台用戶端 (macOS &amp; iOS 增強版) · 支援 Apple Silicon / Intel 雙架構 DMG 與 iOS 免簽 IPA · 沉浸式追劇 / 手勢縮放 / 原生橫向全螢幕 / 多線路鏡像測速 |
@@ -168,6 +168,6 @@
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse/KQL 可觀測性庫 | grizl-fabric-observability: Fabric Eventhouse/KQL 可觀測性與異常訊號庫 |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | 用 Docker 部署 Play REST API | 基於 Play 框架的 REST API，支援基於 Docker 的部署與 activator |
 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 用純Go在GPU上繪製原生介面 | 🍭 Lobe MyGo - 原生 Go 應用程式的 UI 工具組：適用於 MyGo 的 Lobe UI 設計語言，以純 Go 在 GPU 上繪製 |
-| [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) |  | Qure 風格的純 SVG 向量策略組圖示庫 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X |
+| [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) | 為策略組換上 Qure 風格純向量圖示 | Qure 風格的純 SVG 向量策略組圖示庫 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X |
 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | 用動畫卡片呈現 GitHub 貢獻 | 用於 GitHub 個人檔案 README 的 SVG 動畫統計卡片，也統計私人專案及組織中的工作。以 GitHub Action 執行，無需伺服器。 |
 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | OneLake 自動 Upsert 合併管線 | 事件驅動的 OneLake 管線，具備自動化 Upsert 合併與 Python 報表功能 |

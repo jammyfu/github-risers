@@ -150,12 +150,12 @@
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 활성화된 데스크톱 트레이너 빌드 | Payday 3 Trainer 도구 - 완전히 활성화된 데스크톱 빌드, 즉시 플레이 가능 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 데스크톱 설치 프로그램 | Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군 |
 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced 데스크톱 유틸리티 | Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티 |
-| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램 |
-| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) |  | Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자 |
-| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) |  | Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군 |
-| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) |  | Kontakt 8 데스크톱 유틸리티 설정: 주관이 반영된 dotfiles, 바로 실행 가능 |
-| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) |  | GrayKet: 완전한 독립 실행형 고급 시스템 구성 설정 |
-| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) |  | HitFilm: 완전한 기능을 갖춘 데스크톱 비디오 편집 및 VFX 제품군 |
+| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | MusicMakerUnlimited 데스크톱 음악 제작 설치 프로그램 | MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램 |
+| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 친절한 커뮤니티 동료와 함께 거래를 관리하기 | Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자 |
+| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 데스크톱에서 모든 기능으로 오디오를 편집하기 | Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군 |
+| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 데스크톱에서 바로 실행하는 유틸리티 설정 쓰기 | Kontakt 8 데스크톱 유틸리티 설정: 주관이 반영된 dotfiles, 바로 실행 가능 |
+| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | 완전한 독립 구성으로 고급 시스템을 설정하기 | GrayKet: 완전한 독립 실행형 고급 시스템 구성 설정 |
+| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) | 데스크톱에서 영상 편집과 특수효과를 모두 다루기 | HitFilm: 완전한 기능을 갖춘 데스크톱 비디오 편집 및 VFX 제품군 |
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 데스크톱 성능 강화 설치 프로그램 | 데스크톱용 최적화된 시스템 성능 향상 기능을 갖춘 ExitLag 설치 프로그램 |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 공개 페이지 인물 검색을 보고서 하나로 | 무료 인물 검색 데스크톱 앱: 3,100+ 공개 페이지에서 닉네임, 이메일, 전화번호 또는 사이트를 조회하고 읽기 쉬운 보고서 하나를 받는다. |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |

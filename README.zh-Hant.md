@@ -275,12 +275,12 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>在桌面端自動為 Instagram 點讚 | 2026-11-06<br><sub>3.8 天</sub> | 482 | 128.3 |
 | 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>以增強的資安功能在桌面安裝應用程式 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.2 |
 | 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>搭配驅動與工具獨立刷寫裝置韌體 | 2026-11-06<br><sub>3.7 天</sub> | 480 | 128.2 |
-| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>社群驅動的 MetaTrader 5 機器人，具備完整功能，可供桌面使用 | 2026-11-06<br><sub>3.8 天</sub> | 481 | 128.1 |
-| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor 設定：用於專業音訊編輯的完整獨立安裝程式和 dotfiles | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>桌面隨開即用的 MetaTrader 5 機器人 | 2026-11-06<br><sub>3.8 天</sub> | 481 | 128.1 |
+| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor 安裝程式與設定檔 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
 | 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>配備增強資安協定的 Adobe InDesign 安裝程式，用於安全數位資產部署 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
 | 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>支援完整功能的 Samsung 韌體桌面工具 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator：完整安裝程式，所有功能均已啟用，桌面就緒 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Android 螢幕鏡像與控制工作流程，已簡化 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator 桌面端完整安裝程式 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>簡化安卓螢幕鏡像與控制工作流程 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
 | 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker 離線密碼復原工具 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.0 |
 
 <details>
@@ -927,7 +927,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>用純Go在GPU上繪製原生介面 | 2026-11-08<br><sub>2.1 天</sub> | 216 | 101.9 |
-| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>Qure 風格的純 SVG 向量策略組圖示庫 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X | 2026-11-05<br><sub>5.3 天</sub> | 136 | 25.4 |
+| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>為策略組換上 Qure 風格純向量圖示 | 2026-11-05<br><sub>5.3 天</sub> | 136 | 25.4 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>用動畫卡片呈現 GitHub 貢獻 | 2026-11-04<br><sub>5.7 天</sub> | 121 | 21.2 |
 
 <details>

@@ -508,7 +508,14 @@
         "seen": "2026-11-11",
         "zh-Hant": "GrayKet：完整的獨立進階系統配置設定",
         "ja": "GrayKet: 完全なスタンドアロンの高度なシステム構成セットアップ",
-        "ko": "GrayKet: 완전한 독립 실행형 고급 시스템 구성 설정"
+        "ko": "GrayKet: 완전한 독립 실행형 고급 시스템 구성 설정",
+        "hook": {
+          "en": "Configure an advanced system with a standalone setup",
+          "zh-Hans": "用完整的独立方案配置你的进阶系统",
+          "zh-Hant": "用完整的獨立方案設定你的進階系統",
+          "ja": "単独で完結する設定で高度なシステムを構築する",
+          "ko": "완전한 독립 구성으로 고급 시스템을 설정하기"
+        }
       }
     },
     "D3voz/openjutsu": {
@@ -1174,7 +1181,9 @@
         "hook": {
           "en": "Robux-Generator desktop installer, fully activated",
           "ja": "Robux-Generator デスクトップ版",
-          "ko": "활성화된 Robux-Generator 데스크톱 설치본"
+          "ko": "활성화된 Robux-Generator 데스크톱 설치본",
+          "zh-Hans": "Robux-Generator 桌面端完整安装包",
+          "zh-Hant": "Robux-Generator 桌面端完整安裝程式"
         }
       }
     },
@@ -1524,7 +1533,14 @@
         "seen": "2026-11-11",
         "zh-Hant": "HitFilm：功能完備的桌面影片編輯與 VFX 套件",
         "ja": "HitFilm: フル機能のデスクトップ動画編集および VFX スイート",
-        "ko": "HitFilm: 완전한 기능을 갖춘 데스크톱 비디오 편집 및 VFX 제품군"
+        "ko": "HitFilm: 완전한 기능을 갖춘 데스크톱 비디오 편집 및 VFX 제품군",
+        "hook": {
+          "en": "Edit videos and visual effects in a full desktop suite",
+          "zh-Hans": "在桌面用全功能套件剪辑视频与特效",
+          "zh-Hant": "在桌面用全功能套件剪輯影片與特效",
+          "ja": "デスクトップで動画編集とVFXをまとめて行う",
+          "ko": "데스크톱에서 영상 편집과 특수효과를 모두 다루기"
+        }
       }
     },
     "Pauseoruncouple/Genesis-Miner": {
@@ -1790,7 +1806,9 @@
         "hook": {
           "en": "Run a full-featured MetaTrader 5 bot on your desktop",
           "ja": "デスクトップで動く MetaTrader 5 ボット",
-          "ko": "데스크톱에서 쓰는 MetaTrader 5 봇"
+          "ko": "데스크톱에서 쓰는 MetaTrader 5 봇",
+          "zh-Hans": "桌面开箱即用的 MetaTrader 5 机器人",
+          "zh-Hant": "桌面隨開即用的 MetaTrader 5 機器人"
         }
       }
     },
@@ -1971,7 +1989,9 @@
         "hook": {
           "en": "Easily mirror and control Android with a simple workflow",
           "ja": "シンプルなワークフローで Android 画面を操作",
-          "ko": "간단한 워크플로로 Android 화면을 미러링·제어"
+          "ko": "간단한 워크플로로 Android 화면을 미러링·제어",
+          "zh-Hans": "简化安卓屏幕镜像与控制工作流",
+          "zh-Hant": "簡化安卓螢幕鏡像與控制工作流程"
         }
       }
     },
@@ -2003,7 +2023,9 @@
         "hook": {
           "en": "Power Director standalone desktop installer and suite",
           "ja": "Power Director デスクトップインストーラ",
-          "ko": "Power Director 데스크톱 설치 프로그램"
+          "ko": "Power Director 데스크톱 설치 프로그램",
+          "zh-Hans": "Power Director 桌面端独立安装包",
+          "zh-Hant": "Power Director 桌面端獨立安裝程式"
         }
       }
     },
@@ -2627,7 +2649,9 @@
         "hook": {
           "en": "Can't find clean policy icons? Use this Qure SVG set",
           "ja": "ポリシーアイコンをお探し？Qure風のSVG集",
-          "ko": "정책 아이콘이 고민일 때, Qure SVG 세트"
+          "ko": "정책 아이콘이 고민일 때, Qure SVG 세트",
+          "zh-Hans": "给策略组换上 Qure 风格纯矢量图标",
+          "zh-Hant": "為策略組換上 Qure 風格純向量圖示"
         }
       }
     },
@@ -2793,7 +2817,12 @@
         "seen": "2026-11-11",
         "zh-Hant": "MusicMakerUnlimited：功能齊全的桌面音樂製作安裝程式，可直接執行",
         "ja": "MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー",
-        "ko": "MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램"
+        "ko": "MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램",
+        "hook": {
+          "en": "MusicMakerUnlimited desktop music production installer",
+          "ja": "MusicMakerUnlimited デスクトップ音楽制作インストーラー",
+          "ko": "MusicMakerUnlimited 데스크톱 음악 제작 설치 프로그램"
+        }
       }
     },
     "boardshogunfluctuate/Capri-AI": {
@@ -2873,7 +2902,14 @@
         "seen": "2026-11-11",
         "zh-Hant": "Melodyne-5：具有完整功能集的專業音訊編輯桌面套件",
         "ja": "Melodyne-5: 完全な機能セットを備えたプロフェッショナル向けオーディオ編集デスクトップスイート",
-        "ko": "Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군"
+        "ko": "Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군",
+        "hook": {
+          "en": "Edit desktop audio with a full professional suite",
+          "zh-Hans": "在桌面用全功能专业套件编辑音频",
+          "zh-Hant": "在桌面用全功能專業套件編輯音訊",
+          "ja": "デスクトップで全機能を使って音声を編集する",
+          "ko": "데스크톱에서 모든 기능으로 오디오를 편집하기"
+        }
       }
     },
     "darkareaminaret/MetaTrader-5-Bot": {
@@ -3017,7 +3053,14 @@
         "seen": "2026-11-11",
         "zh-Hant": "Kontakt 8 桌面實用工具配置：有主見的 dotfiles，可直接執行",
         "ja": "Kontakt 8 デスクトップユーティリティ設定: こだわりのある dotfiles、すぐに実行可能",
-        "ko": "Kontakt 8 데스크톱 유틸리티 설정: 주관이 반영된 dotfiles, 바로 실행 가능"
+        "ko": "Kontakt 8 데스크톱 유틸리티 설정: 주관이 반영된 dotfiles, 바로 실행 가능",
+        "hook": {
+          "en": "Run ready-to-use desktop utility configs right away",
+          "zh-Hans": "直接运行现成配好的桌面实用配置",
+          "zh-Hant": "直接執行現成配好的桌面實用設定",
+          "ja": "デスクトップですぐ実行できる実用設定を動かす",
+          "ko": "데스크톱에서 바로 실행하는 유틸리티 설정 쓰기"
+        }
       }
     },
     "driftcoralemporium/instagram-liker-bot": {
@@ -3208,7 +3251,9 @@
         "hook": {
           "en": "rx-11-audio-editor standalone installer and dotfiles",
           "ja": "rx-11-audio-editor インストーラー",
-          "ko": "rx-11-audio-editor 설치 프로그램"
+          "ko": "rx-11-audio-editor 설치 프로그램",
+          "zh-Hans": "rx-11-audio-editor 安装包与配置文件",
+          "zh-Hant": "rx-11-audio-editor 安裝程式與設定檔"
         }
       }
     },
@@ -3578,7 +3623,14 @@
         "seen": "2026-11-11",
         "zh-Hant": "Ninjatrader Bot 2026：友好、社群驅動的交易伴侶，包含強大功能",
         "ja": "Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン",
-        "ko": "Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자"
+        "ko": "Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자",
+        "hook": {
+          "en": "Manage trades with a friendly community companion",
+          "zh-Hans": "让友好的社区伙伴陪你一起打理交易",
+          "zh-Hant": "讓友好的社群夥伴陪你一起打理交易",
+          "ja": "コミュニティの仲間と一緒に取引を管理する",
+          "ko": "친절한 커뮤니티 동료와 함께 거래를 관리하기"
+        }
       }
     },
     "jeevijk/secure-asset-deploy": {
@@ -3592,7 +3644,8 @@
         "hook": {
           "en": "Adobe InDesign installer for digital asset deployment",
           "ja": "資産配布用 Adobe InDesign 導入版",
-          "ko": "Adobe InDesign 에셋 배포 설치본"
+          "ko": "Adobe InDesign 에셋 배포 설치본",
+          "zh-Hans": "Adobe InDesign 安装包及安全部署配置"
         }
       }
     },
@@ -4872,7 +4925,9 @@
         "hook": {
           "en": "Ozone 12 Advanced desktop utility with enhanced configs",
           "ja": "Ozone 12 Advanced デスクトップツール",
-          "ko": "Ozone 12 Advanced 데스크톱 유틸리티"
+          "ko": "Ozone 12 Advanced 데스크톱 유틸리티",
+          "zh-Hans": "Ozone 12 Advanced 桌面工具与增强配置",
+          "zh-Hant": "Ozone 12 Advanced 桌面工具與增強設定"
         }
       }
     },
