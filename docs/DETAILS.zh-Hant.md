@@ -150,7 +150,7 @@
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 修改器，標明為全啟用桌面版 | Payday 3 Trainer 工具 - 完全啟用的桌面組建，即玩就緒 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 桌面端獨立安裝程式 | Power Director：帶有完整安裝程式的獨立桌面影片編輯套件 |
 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced 桌面工具與增強設定 | Ozone 12 Advanced：具有增強配置的專業桌面實用工具 |
-| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) |  | MusicMakerUnlimited：功能齊全的桌面音樂製作安裝程式，可直接執行 |
+| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | 想在桌面製作音樂，裝好就能直接開始 | MusicMakerUnlimited：功能齊全的桌面音樂製作安裝程式，可直接執行 |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 讓友好的社群夥伴陪你一起打理交易 | Ninjatrader Bot 2026：友好、社群驅動的交易伴侶，包含強大功能 |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 在桌面用全功能專業套件編輯音訊 | Melodyne-5：具有完整功能集的專業音訊編輯桌面套件 |
 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 直接執行現成配好的桌面實用設定 | Kontakt 8 桌面實用工具配置：有主見的 dotfiles，可直接執行 |

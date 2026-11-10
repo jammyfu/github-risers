@@ -2821,7 +2821,9 @@
         "hook": {
           "en": "MusicMakerUnlimited desktop music production installer",
           "ja": "MusicMakerUnlimited デスクトップ音楽制作インストーラー",
-          "ko": "MusicMakerUnlimited 데스크톱 음악 제작 설치 프로그램"
+          "ko": "MusicMakerUnlimited 데스크톱 음악 제작 설치 프로그램",
+          "zh-Hans": "想在桌面制作音乐，装好就能直接开始",
+          "zh-Hant": "想在桌面製作音樂，裝好就能直接開始"
         }
       }
     },
