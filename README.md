@@ -68,11 +68,11 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness authorized penetration testing plugin | 2026-11-09<br><sub>1.4 d</sub> | 462 | 332.5 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>Let agents work with 3D and visual effects | 2026-11-05<br><sub>4.7 d</sub> | 1,346 | 286.7 |
-| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy sh… | 2026-11-09<br><sub>1.0 d</sub> | 262 | 262.0 |
+| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>Remove AI tells and rewrite text clearly | 2026-11-09<br><sub>1.0 d</sub> | 262 | 262.0 |
 | 4 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>Let AI automate Lua scripting | 2026-11-09<br><sub>1.3 d</sub> | 283 | 224.1 |
 | 5 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>Let AI operate your real iPhone | 2026-11-05<br><sub>5.0 d</sub> | 889 | 177.5 |
 | 6 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>Delegate work across your AI team | 2026-11-07<br><sub>3.6 d</sub> | 528 | 147.9 |
-| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>Bowel is a mihomo client for macOS, Windows, Linux and Android. | 2026-11-07<br><sub>2.9 d</sub> | 397 | 137.1 |
+| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>Run mihomo on macOS, Windows, Linux, and Android | 2026-11-07<br><sub>2.9 d</sub> | 397 | 137.1 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Struggling with video edits? Let agents handle animations | 2026-11-06<br><sub>3.7 d</sub> | 481 | 128.7 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Need a full-stack Next.js app? Let AI build and host it | 2026-11-06<br><sub>3.8 d</sub> | 481 | 127.2 |
 | 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>Test apps on disposable Windows machines | 2026-11-06<br><sub>3.8 d</sub> | 398 | 103.6 |
@@ -272,16 +272,16 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>Community-driven Instagram Liker Bot with advanced automation for desktop | 2026-11-06<br><sub>3.8 d</sub> | 482 | 128.3 |
-| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>Professional Desktop Installer with Enhanced Security Features | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.2 |
-| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities | 2026-11-06<br><sub>3.7 d</sub> | 480 | 128.2 |
-| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot with full features ready for desktop use | 2026-11-06<br><sub>3.8 d</sub> | 481 | 128.1 |
-| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
-| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>Adobe InDesign Installer with Enhanced Security Protocols for Secure Digital Asset Deployment | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
-| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>Standalone desktop tool for Samsung firmware operations with full feature set enabled | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
-| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator: Full Installer, All Features Activated, Desktop-Ready | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
-| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Android Screen Mirroring and Control Workflow, Simplified | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
-| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker: Standalone Offline Password Recovery Solution | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.0 |
+| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>Automate Instagram likes directly from your desktop | 2026-11-06<br><sub>3.8 d</sub> | 482 | 128.3 |
+| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>Install desktop apps safely with enhanced security | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.2 |
+| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>Flash device firmware with bundled drivers and tools | 2026-11-06<br><sub>3.7 d</sub> | 480 | 128.2 |
+| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Run a full-featured MetaTrader 5 bot on your desktop | 2026-11-06<br><sub>3.8 d</sub> | 481 | 128.1 |
+| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor standalone installer and dotfiles | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
+| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>Adobe InDesign installer for digital asset deployment | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
+| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>Samsung firmware desktop tool, full feature set enabled | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
+| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator desktop installer, fully activated | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
+| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Easily mirror and control Android with a simple workflow | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.1 |
+| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker offline password recovery tool | 2026-11-06<br><sub>3.8 d</sub> | 480 | 128.0 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -598,7 +598,7 @@ No new repo met the criteria in this run.
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>Turn public-page people searches into one readable report | 2026-11-05<br><sub>5.4 d</sub> | 738 | 136.3 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>Watch series on macOS and iOS | 2026-11-07<br><sub>2.8 d</sub> | 213 | 76.7 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte, Vue and plain DOM. | 2026-11-05<br><sub>5.3 d</sub> | 397 | 74.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts feel stiff? Move them with real spring physics | 2026-11-05<br><sub>5.3 d</sub> | 397 | 74.3 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>Store and share encrypted files | 2026-11-05<br><sub>5.6 d</sub> | 164 | 29.1 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>Play + Postgres starter template with a clean UI | 2026-11-06<br><sub>4.0 d</sub> | 149 | 36.9 |
 
@@ -761,7 +761,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>One self-hosted app for your shows, movies and music. | 2026-11-09<br><sub>1.0 d</sub> | 374 | 374.0 |
+| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>Too many apps? Keep shows and music in one self-hosted app | 2026-11-09<br><sub>1.0 d</sub> | 374 | 374.0 |
 | 2 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Claim Twitch drops in the background with no video download | 2026-11-08<br><sub>2.4 d</sub> | 104 | 43.8 |
 | 3 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude)<br>Connect Claude Code to Gemini inference models | 2026-11-03<br><sub>6.8 d</sub> | 162 | 23.8 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse and KQL observability library | 2026-11-06<br><sub>4.0 d</sub> | 149 | 36.9 |
@@ -927,7 +927,7 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>Build native Go UIs drawn on the GPU in pure Go | 2026-11-08<br><sub>2.1 d</sub> | 216 | 101.9 |
-| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>Qure 风格的纯 SVG 矢量策略组图标库 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X | 2026-11-05<br><sub>5.3 d</sub> | 136 | 25.4 |
+| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>Can't find clean policy icons? Use this Qure SVG set | 2026-11-05<br><sub>5.3 d</sub> | 136 | 25.4 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>Show your GitHub work in animated stats cards | 2026-11-04<br><sub>5.7 d</sub> | 121 | 21.2 |
 
 <details>

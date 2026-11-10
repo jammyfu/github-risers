@@ -68,11 +68,11 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 授权渗透测试插件 | 2026-11-09<br><sub>1.4 天</sub> | 462 | 332.5 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>让智能体处理三维与视觉特效 | 2026-11-05<br><sub>4.7 天</sub> | 1,346 | 286.7 |
-| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy sh… | 2026-11-09<br><sub>1.0 天</sub> | 262 | 262.0 |
+| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹去文本里的 AI 味并自动重写 | 2026-11-09<br><sub>1.0 天</sub> | 262 | 262.0 |
 | 4 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>让 AI 自动编写 Lua 脚本 | 2026-11-09<br><sub>1.3 天</sub> | 283 | 224.1 |
 | 5 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>让 AI 操作真实的 iPhone | 2026-11-05<br><sub>5.0 天</sub> | 889 | 177.5 |
 | 6 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任务分派给你的 AI 团队 | 2026-11-07<br><sub>3.6 天</sub> | 528 | 147.9 |
-| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>Bowel is a mihomo client for macOS, Windows, Linux and Android. | 2026-11-07<br><sub>2.9 天</sub> | 397 | 137.1 |
+| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>在多系统设备上运行 mihomo 客户端 | 2026-11-07<br><sub>2.9 天</sub> | 397 | 137.1 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>视频动效难做？让剪辑智能体搞定工作流 | 2026-11-06<br><sub>3.7 天</sub> | 481 | 128.7 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>用AI搭建Next.js全栈应用 | 2026-11-06<br><sub>3.8 天</sub> | 481 | 127.2 |
 | 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>用一次性 Windows 环境测试应用 | 2026-11-06<br><sub>3.8 天</sub> | 398 | 103.6 |
@@ -272,16 +272,16 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>Community-driven Instagram Liker Bot with advanced automation for desktop | 2026-11-06<br><sub>3.8 天</sub> | 482 | 128.3 |
-| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>Professional Desktop Installer with Enhanced Security Features | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.2 |
-| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities | 2026-11-06<br><sub>3.7 天</sub> | 480 | 128.2 |
-| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot with full features ready for desktop use | 2026-11-06<br><sub>3.8 天</sub> | 481 | 128.1 |
-| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>Adobe InDesign Installer with Enhanced Security Protocols for Secure Digital Asset Deployment | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>Standalone desktop tool for Samsung firmware operations with full feature set enabled | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator: Full Installer, All Features Activated, Desktop-Ready | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Android Screen Mirroring and Control Workflow, Simplified | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker: Standalone Offline Password Recovery Solution | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.0 |
+| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>在桌面端自动为 Instagram 点赞 | 2026-11-06<br><sub>3.8 天</sub> | 482 | 128.3 |
+| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>用增强的安全特性在桌面端安装应用 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.2 |
+| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>搭配驱动与工具独立刷写设备固件 | 2026-11-06<br><sub>3.7 天</sub> | 480 | 128.2 |
+| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>社区驱动的 MetaTrader 5 机器人，具备完整功能，可供桌面使用 | 2026-11-06<br><sub>3.8 天</sub> | 481 | 128.1 |
+| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor 配置：用于专业音频编辑的完整独立安装程序和 dotfiles | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>配备增强安全协议的 Adobe InDesign 安装程序，用于安全数字资产部署 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>支持全部功能的 Samsung 固件桌面工具 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator：完整安装程序，所有功能均已激活，桌面就绪 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Android 屏幕镜像和控制工作流，已简化 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker 离线密码恢复工具 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -598,7 +598,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>把公开页面的人物搜索汇成报告 | 2026-11-05<br><sub>5.4 天</sub> | 738 | 136.3 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>在 macOS 和 iOS 上追剧 | 2026-11-07<br><sub>2.8 天</sub> | 213 | 76.7 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte, Vue and plain DOM. | 2026-11-05<br><sub>5.3 天</sub> | 397 | 74.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>提示框太生硬？用真实弹簧物理原地变形 | 2026-11-05<br><sub>5.3 天</sub> | 397 | 74.3 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>加密存储和分享文件 | 2026-11-05<br><sub>5.6 天</sub> | 164 | 29.1 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>界面简洁的 Play 与 Postgres 启动模板 | 2026-11-06<br><sub>4.0 天</sub> | 149 | 36.9 |
 
@@ -761,7 +761,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>One self-hosted app for your shows, movies and music. | 2026-11-09<br><sub>1.0 天</sub> | 374 | 374.0 |
+| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>影音太分散？一个自托管应用集中管理 | 2026-11-09<br><sub>1.0 天</sub> | 374 | 374.0 |
 | 2 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>无需视频下载的Twitch掉宝工具 | 2026-11-08<br><sub>2.4 天</sub> | 104 | 43.8 |
 | 3 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude)<br>把 Claude Code 接上 Gemini | 2026-11-03<br><sub>6.8 天</sub> | 162 | 23.8 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse/KQL 可观测性库 | 2026-11-06<br><sub>4.0 天</sub> | 149 | 36.9 |

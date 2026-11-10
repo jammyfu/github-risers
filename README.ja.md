@@ -68,11 +68,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harnessの許可済み侵入テスト用プラグイン | 2026-11-09<br><sub>1.4 日</sub> | 462 | 332.5 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>エージェントで3Dと視覚効果を扱う | 2026-11-05<br><sub>4.7 日</sub> | 1,346 | 286.7 |
-| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy sh… | 2026-11-09<br><sub>1.0 日</sub> | 262 | 262.0 |
+| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>文章からAI感を消して書き直す | 2026-11-09<br><sub>1.0 日</sub> | 262 | 262.0 |
 | 4 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>AIでLuaスクリプト作成を自動化 | 2026-11-09<br><sub>1.3 日</sub> | 283 | 224.1 |
 | 5 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AIに実機のiPhoneを操作させる | 2026-11-05<br><sub>5.0 日</sub> | 889 | 177.5 |
 | 6 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AIチームに仕事を振り分ける | 2026-11-07<br><sub>3.6 日</sub> | 528 | 147.9 |
-| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>Bowel is a mihomo client for macOS, Windows, Linux and Android. | 2026-11-07<br><sub>2.9 日</sub> | 397 | 137.1 |
+| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>各種OSでmihomoクライアントを利用する | 2026-11-07<br><sub>2.9 日</sub> | 397 | 137.1 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>動画編集が大変？エージェントがアニメーションを自動化 | 2026-11-06<br><sub>3.7 日</sub> | 481 | 128.7 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>オープンソースAIでNext.js全スタック構築 | 2026-11-06<br><sub>3.8 日</sub> | 481 | 127.2 |
 | 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>使い捨てのWindows環境でアプリを試す | 2026-11-06<br><sub>3.8 日</sub> | 398 | 103.6 |
@@ -272,16 +272,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>Community-driven Instagram Liker Bot with advanced automation for desktop | 2026-11-06<br><sub>3.8 日</sub> | 482 | 128.3 |
-| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>Professional Desktop Installer with Enhanced Security Features | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.2 |
-| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities | 2026-11-06<br><sub>3.7 日</sub> | 480 | 128.2 |
-| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot with full features ready for desktop use | 2026-11-06<br><sub>3.8 日</sub> | 481 | 128.1 |
-| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
-| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>Adobe InDesign Installer with Enhanced Security Protocols for Secure Digital Asset Deployment | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
-| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>Standalone desktop tool for Samsung firmware operations with full feature set enabled | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
-| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator: Full Installer, All Features Activated, Desktop-Ready | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
-| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Android Screen Mirroring and Control Workflow, Simplified | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
-| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker: Standalone Offline Password Recovery Solution | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.0 |
+| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>デスクトップからInstagramのいいねを自動化 | 2026-11-06<br><sub>3.8 日</sub> | 482 | 128.3 |
+| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>強化されたセキュリティでデスクトップに導入する | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.2 |
+| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>ドライバとツールを揃えてファームウェアを書き込む | 2026-11-06<br><sub>3.7 日</sub> | 480 | 128.2 |
+| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>デスクトップで動く MetaTrader 5 ボット | 2026-11-06<br><sub>3.8 日</sub> | 481 | 128.1 |
+| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor インストーラー | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
+| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>資産配布用 Adobe InDesign 導入版 | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
+| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>全機能有効な Samsung デスクトップツール | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
+| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator デスクトップ版 | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
+| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>シンプルなワークフローで Android 画面を操作 | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.1 |
+| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker パスワード復旧 | 2026-11-06<br><sub>3.8 日</sub> | 480 | 128.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -598,7 +598,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>公開ページの人物検索を一つのレポートに | 2026-11-05<br><sub>5.4 日</sub> | 738 | 136.3 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOSとiOSでドラマを見る | 2026-11-07<br><sub>2.8 日</sub> | 213 | 76.7 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte, Vue and plain DOM. | 2026-11-05<br><sub>5.3 日</sub> | 397 | 74.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>通知が不自然？本物のバネ物理でその場で変形 | 2026-11-05<br><sub>5.3 日</sub> | 397 | 74.3 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>ファイルを暗号化して保存・共有 | 2026-11-05<br><sub>5.6 日</sub> | 164 | 29.1 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>シンプルなUIのPlayとPostgresスターター | 2026-11-06<br><sub>4.0 日</sub> | 149 | 36.9 |
 
@@ -761,7 +761,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>One self-hosted app for your shows, movies and music. | 2026-11-09<br><sub>1.0 日</sub> | 374 | 374.0 |
+| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>動画や音楽が散らかる？セルフホスト型アプリで管理 | 2026-11-09<br><sub>1.0 日</sub> | 374 | 374.0 |
 | 2 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>動画をダウンロードせずにTwitchドロップを自動回収 | 2026-11-08<br><sub>2.4 日</sub> | 104 | 43.8 |
 | 3 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude)<br>Claude Code を Gemini モデルに接続 | 2026-11-03<br><sub>6.8 日</sub> | 162 | 23.8 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse用KQL監視ライブラリ | 2026-11-06<br><sub>4.0 日</sub> | 149 | 36.9 |
@@ -927,7 +927,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>純粋なGoでGPU描画のネイティブUIを作る | 2026-11-08<br><sub>2.1 日</sub> | 216 | 101.9 |
-| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>Qure 风格的纯 SVG 矢量策略组图标库 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X | 2026-11-05<br><sub>5.3 日</sub> | 136 | 25.4 |
+| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>ポリシーアイコンをお探し？Qure風のSVG集 | 2026-11-05<br><sub>5.3 日</sub> | 136 | 25.4 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>GitHubの活動を動く統計カードに | 2026-11-04<br><sub>5.7 日</sub> | 121 | 21.2 |
 
 <details>

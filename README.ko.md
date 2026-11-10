@@ -68,11 +68,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 승인된 침투 테스트 플러그인 | 2026-11-09<br><sub>1.4일</sub> | 462 | 332.5 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>에이전트로 3D와 시각 효과 다루기 | 2026-11-05<br><sub>4.7일</sub> | 1,346 | 286.7 |
-| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy sh… | 2026-11-09<br><sub>1.0일</sub> | 262 | 262.0 |
+| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>글에서 AI 느낌을 지우고 다시 쓰기 | 2026-11-09<br><sub>1.0일</sub> | 262 | 262.0 |
 | 4 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp)<br>AI로 Lua 스크립트 작성을 자동화 | 2026-11-09<br><sub>1.3일</sub> | 283 | 224.1 |
 | 5 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AI로 실제 iPhone 조작하기 | 2026-11-05<br><sub>5.0일</sub> | 889 | 177.5 |
 | 6 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AI 팀에 작업 나눠 맡기기 | 2026-11-07<br><sub>3.6일</sub> | 528 | 147.9 |
-| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>Bowel is a mihomo client for macOS, Windows, Linux and Android. | 2026-11-07<br><sub>2.9일</sub> | 397 | 137.1 |
+| 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>다양한 OS에서 mihomo 클라이언트 실행하기 | 2026-11-07<br><sub>2.9일</sub> | 397 | 137.1 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>영상 편집이 번거로울 때 에이전트로 애니메이션 자동화 | 2026-11-06<br><sub>3.7일</sub> | 481 | 128.7 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Next.js 풀스택 앱을 구축하는 오픈 소스 AI | 2026-11-06<br><sub>3.8일</sub> | 481 | 127.2 |
 | 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br>일회용 Windows 환경에서 앱 테스트하기 | 2026-11-06<br><sub>3.8일</sub> | 398 | 103.6 |
@@ -272,16 +272,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>Community-driven Instagram Liker Bot with advanced automation for desktop | 2026-11-06<br><sub>3.8일</sub> | 482 | 128.3 |
-| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>Professional Desktop Installer with Enhanced Security Features | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.2 |
-| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities | 2026-11-06<br><sub>3.7일</sub> | 480 | 128.2 |
-| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot with full features ready for desktop use | 2026-11-06<br><sub>3.8일</sub> | 481 | 128.1 |
-| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
-| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>Adobe InDesign Installer with Enhanced Security Protocols for Secure Digital Asset Deployment | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
-| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>Standalone desktop tool for Samsung firmware operations with full feature set enabled | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
-| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator: Full Installer, All Features Activated, Desktop-Ready | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
-| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Android Screen Mirroring and Control Workflow, Simplified | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
-| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker: Standalone Offline Password Recovery Solution | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.0 |
+| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot)<br>데스크톱에서 Instagram 좋아요를 자동화하기 | 2026-11-06<br><sub>3.8일</sub> | 482 | 128.3 |
+| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>강화된 보안 기능으로 데스크톱 앱을 설치하기 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.2 |
+| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>드라이버와 도구로 기기 펌웨어를 직접 플래시하기 | 2026-11-06<br><sub>3.7일</sub> | 480 | 128.2 |
+| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>데스크톱에서 쓰는 MetaTrader 5 봇 | 2026-11-06<br><sub>3.8일</sub> | 481 | 128.1 |
+| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor 설치 프로그램 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
+| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>Adobe InDesign 에셋 배포 설치본 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
+| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>전체 기능 활성화 Samsung 펌웨어 데스크톱 툴 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
+| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>활성화된 Robux-Generator 데스크톱 설치본 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
+| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>간단한 워크플로로 Android 화면을 미러링·제어 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.1 |
+| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop)<br>passfab-unlocker 비밀번호 복구 도구 | 2026-11-06<br><sub>3.8일</sub> | 480 | 128.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -598,7 +598,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)<br>공개 페이지 인물 검색을 보고서 하나로 | 2026-11-05<br><sub>5.4일</sub> | 738 | 136.3 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOS와 iOS에서 드라마 시청 | 2026-11-07<br><sub>2.8일</sub> | 213 | 76.7 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte, Vue and plain DOM. | 2026-11-05<br><sub>5.3일</sub> | 397 | 74.3 |
+| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding)<br>알림이 부자연스러울 때, 스프링 물리로 제자리 변형 | 2026-11-05<br><sub>5.3일</sub> | 397 | 74.3 |
 | 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll)<br>파일을 암호화해 저장하고 공유 | 2026-11-05<br><sub>5.6일</sub> | 164 | 29.1 |
 | 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick)<br>깔끔한 UI의 Play 및 Postgres 스타터 | 2026-11-06<br><sub>4.0일</sub> | 149 | 36.9 |
 
@@ -761,7 +761,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>One self-hosted app for your shows, movies and music. | 2026-11-09<br><sub>1.0일</sub> | 374 | 374.0 |
+| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 2026-11-09<br><sub>1.0일</sub> | 374 | 374.0 |
 | 2 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 2026-11-08<br><sub>2.4일</sub> | 104 | 43.8 |
 | 3 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude)<br>Claude Code를 Gemini 모델에 연결 | 2026-11-03<br><sub>6.8일</sub> | 162 | 23.8 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric KQL 관측성 및 이상 징후 라이브러리 | 2026-11-06<br><sub>4.0일</sub> | 149 | 36.9 |
@@ -927,7 +927,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>순수 Go로 GPU 기반 네이티브 UI 만들기 | 2026-11-08<br><sub>2.1일</sub> | 216 | 101.9 |
-| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>Qure 风格的纯 SVG 矢量策略组图标库 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X | 2026-11-05<br><sub>5.3일</sub> | 136 | 25.4 |
+| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>정책 아이콘이 고민일 때, Qure SVG 세트 | 2026-11-05<br><sub>5.3일</sub> | 136 | 25.4 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>GitHub 활동을 움직이는 통계 카드로 | 2026-11-04<br><sub>5.7일</sub> | 121 | 21.2 |
 
 <details>

@@ -2,6 +2,23 @@
   "_comment": "Translation library for new-repo descriptions, keyed by repo + sha256(source)[:12] + language. Used by tools/newcomer_i18n.py and tools/i18n_pipeline.py; see docs/I18N_PIPELINE.md.",
   "version": 2,
   "entries": {
+    "21stware/bowel": {
+      "c7573b61f5df": {
+        "src": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+        "zh-Hans": "Bowel 是适用于 macOS、Windows、Linux 和 Android 的 mihomo 客户端。",
+        "seen": "2026-11-11",
+        "zh-Hant": "Bowel 是適用於 macOS、Windows、Linux 和 Android 的 mihomo 用戶端。",
+        "ja": "Bowel は macOS、Windows、Linux、Android 向けの mihomo クライアントです。",
+        "ko": "Bowel은 macOS, Windows, Linux 및 Android용 mihomo 클라이언트입니다.",
+        "hook": {
+          "en": "Run mihomo on macOS, Windows, Linux, and Android",
+          "zh-Hans": "在多系统设备上运行 mihomo 客户端",
+          "zh-Hant": "在多系統裝置上使用 mihomo 客戶端",
+          "ja": "各種OSでmihomoクライアントを利用する",
+          "ko": "다양한 OS에서 mihomo 클라이언트 실행하기"
+        }
+      }
+    },
     "4yk5/Ghostman": {
       "b41819dcf987": {
         "src": "A fast, keyboard-driven TUI API client &amp; webhook inspector. No cloud, no Electron, 100% local-first.",
@@ -33,6 +50,23 @@
           "ko": "Next.js 풀스택 앱을 구축하는 오픈 소스 AI",
           "zh-Hans": "用AI搭建Next.js全栈应用",
           "zh-Hant": "用AI打造Next.js全端應用"
+        }
+      }
+    },
+    "AbhramJohn/instagram-engagement-bot": {
+      "402c4d8e9ae6": {
+        "src": "Community-driven Instagram Liker Bot with advanced automation for desktop",
+        "zh-Hans": "社区驱动的 Instagram 点赞机器人，具备适用于桌面的高级自动化功能",
+        "seen": "2026-11-11",
+        "zh-Hant": "社群驅動的 Instagram 按讚機器人，具備適用於桌面的進階自動化功能",
+        "ja": "デスクトップ向けの高度な自動化を備えた、コミュニティ主導の Instagram いいねボット",
+        "ko": "데스크톱용 고급 자동화 기능을 갖춘 커뮤니티 기반 Instagram 좋아요 봇",
+        "hook": {
+          "en": "Automate Instagram likes directly from your desktop",
+          "zh-Hans": "在桌面端自动为 Instagram 点赞",
+          "zh-Hant": "在桌面端自動為 Instagram 點讚",
+          "ja": "デスクトップからInstagramのいいねを自動化",
+          "ko": "데스크톱에서 Instagram 좋아요를 자동화하기"
         }
       }
     },
@@ -467,6 +501,16 @@
         }
       }
     },
+    "Cybertechbear101/grayket-config": {
+      "1a7af4d079f9": {
+        "src": "GrayKet: complete standalone advanced system configuration setup",
+        "zh-Hans": "GrayKet：完整的独立高级系统配置设置",
+        "seen": "2026-11-11",
+        "zh-Hant": "GrayKet：完整的獨立進階系統配置設定",
+        "ja": "GrayKet: 完全なスタンドアロンの高度なシステム構成セットアップ",
+        "ko": "GrayKet: 완전한 독립 실행형 고급 시스템 구성 설정"
+      }
+    },
     "D3voz/openjutsu": {
       "9563d416c7c1": {
         "src": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
@@ -544,6 +588,23 @@
           "ko": "에이전트의 변경 사항을 미리 확인하고 적용",
           "zh-Hans": "怕改坏场景，智能体修改先由你确认",
           "zh-Hant": "怕改壞場景，代理修改先由你確認"
+        }
+      }
+    },
+    "Dodaios/ste80-humanizer": {
+      "6723eb9293a0": {
+        "src": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy sh…",
+        "zh-Hans": "STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh…",
+        "seen": "2026-11-11",
+        "zh-Hant": "STE80 Humanizer: 消除 AI 痕跡並將文本重寫至 80% 符合 ASD-STE100 (Simplified Technical English) 的代理技能，Andrej Karpathy sh…",
+        "ja": "STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh…",
+        "ko": "STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh…",
+        "hook": {
+          "en": "Remove AI tells and rewrite text clearly",
+          "zh-Hans": "抹去文本里的 AI 味并自动重写",
+          "zh-Hant": "抹除文字裡的 AI 痕跡並自動重寫",
+          "ja": "文章からAI感を消して書き直す",
+          "ko": "글에서 AI 느낌을 지우고 다시 쓰기"
         }
       }
     },
@@ -745,6 +806,23 @@
         }
       }
     },
+    "GUFRAN7998/passfab-unlocker-desktop": {
+      "c10a72e29ca3": {
+        "src": "passfab-unlocker: Standalone Offline Password Recovery Solution",
+        "zh-Hans": "passfab-unlocker：独立离线密码恢复解决方案",
+        "seen": "2026-11-11",
+        "zh-Hant": "passfab-unlocker：獨立離線密碼復原解決方案",
+        "ja": "passfab-unlocker: スタンドアロンのオフラインパスワード回復ソリューション",
+        "ko": "passfab-unlocker: 독립 실행형 오프라인 비밀번호 복구 솔루션",
+        "hook": {
+          "en": "passfab-unlocker offline password recovery tool",
+          "zh-Hans": "passfab-unlocker 离线密码恢复工具",
+          "zh-Hant": "passfab-unlocker 離線密碼復原工具",
+          "ja": "passfab-unlocker パスワード復旧",
+          "ko": "passfab-unlocker 비밀번호 복구 도구"
+        }
+      }
+    },
     "GalaxyShadeSquare/windows-optimizer": {
       "12db3083ba2e": {
         "src": "Optimized Windows Environment 2026 - Full working installer with advanced system tweaks and enhancements ready to run.",
@@ -894,6 +972,23 @@
           "zh-Hant": "讓 AI 幫你編輯遊戲指令碼",
           "ja": "AIでゲームのスクリプトを編集する",
           "ko": "AI로 게임 스크립트 편집하기"
+        }
+      }
+    },
+    "HolyArrs/HolyArrs": {
+      "a656d7761cae": {
+        "src": "One self-hosted app for your shows, movies and music.",
+        "zh-Hans": "一款用于您的剧集、电影和音乐的自托管应用。",
+        "seen": "2026-11-11",
+        "zh-Hant": "一款用於您的節目、電影和音樂的自行架設應用程式。",
+        "ja": "番組、映画、音楽のための1つのセルフホスト型アプリ。",
+        "ko": "프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱.",
+        "hook": {
+          "en": "Too many apps? Keep shows and music in one self-hosted app",
+          "zh-Hans": "影音太分散？一个自托管应用集中管理",
+          "zh-Hant": "影音太分散？一個自行架設應用集中管理",
+          "ja": "動画や音楽が散らかる？セルフホスト型アプリで管理",
+          "ko": "흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리"
         }
       }
     },
@@ -1065,6 +1160,21 @@
           "zh-Hant": "2026 出版方案完整安裝程式",
           "ja": "2026 年版の出版用インストーラー",
           "ko": "2026 출판용 전체 설치 파일"
+        }
+      }
+    },
+    "Marcian15350/robux-generator-enhancement": {
+      "14990302970c": {
+        "src": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
+        "zh-Hans": "Robux-Generator：完整安装程序，所有功能均已激活，桌面就绪",
+        "seen": "2026-11-11",
+        "zh-Hant": "Robux-Generator：完整安裝程式，所有功能均已啟用，桌面就緒",
+        "ja": "Robux-Generator: 完全なインストーラー、全機能のアクティベーション完了、デスクトップ対応",
+        "ko": "Robux-Generator: 전체 설치 프로그램, 모든 기능 활성화됨, 데스크톱 준비 완료",
+        "hook": {
+          "en": "Robux-Generator desktop installer, fully activated",
+          "ja": "Robux-Generator デスクトップ版",
+          "ko": "활성화된 Robux-Generator 데스크톱 설치본"
         }
       }
     },
@@ -1407,6 +1517,16 @@
         }
       }
     },
+    "Paulinho182/hitfilm-desktop-installer": {
+      "4e7c20ea4ea2": {
+        "src": "HitFilm: Fully Featured Desktop Video Editing and VFX Suite",
+        "zh-Hans": "HitFilm：功能完备的桌面视频编辑与 VFX 套件",
+        "seen": "2026-11-11",
+        "zh-Hant": "HitFilm：功能完備的桌面影片編輯與 VFX 套件",
+        "ja": "HitFilm: フル機能のデスクトップ動画編集および VFX スイート",
+        "ko": "HitFilm: 완전한 기능을 갖춘 데스크톱 비디오 편집 및 VFX 제품군"
+      }
+    },
     "Pauseoruncouple/Genesis-Miner": {
       "fd1374121cef": {
         "src": "Genesis Miner 2026: Complete standalone setup, ready-to-run full working installer with all features pre-activated.",
@@ -1659,6 +1779,21 @@
         }
       }
     },
+    "RolandoV3/metatrader-5-bot": {
+      "7457e2780510": {
+        "src": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+        "zh-Hans": "社区驱动的 MetaTrader 5 机器人，具备完整功能，可供桌面使用",
+        "seen": "2026-11-11",
+        "zh-Hant": "社群驅動的 MetaTrader 5 機器人，具備完整功能，可供桌面使用",
+        "ja": "デスクトップ利用に対応した全機能搭載のコミュニティ主導型 MetaTrader 5 ボット",
+        "ko": "데스크톱에서 바로 사용할 수 있는 모든 기능을 갖춘 커뮤니티 기반 MetaTrader 5 봇",
+        "hook": {
+          "en": "Run a full-featured MetaTrader 5 bot on your desktop",
+          "ja": "デスクトップで動く MetaTrader 5 ボット",
+          "ko": "데스크톱에서 쓰는 MetaTrader 5 봇"
+        }
+      }
+    },
     "SAOS-3624/dsh-see-now": {
       "f6568f266eb2": {
         "src": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -1825,6 +1960,21 @@
         }
       }
     },
+    "SirBonney/scrcpy-mirror-control": {
+      "12469977d434": {
+        "src": "Android Screen Mirroring and Control Workflow, Simplified",
+        "zh-Hans": "Android 屏幕镜像和控制工作流，已简化",
+        "seen": "2026-11-11",
+        "zh-Hant": "Android 螢幕鏡像與控制工作流程，已簡化",
+        "ja": "Android 画面ミラーリングおよび制御ワークフロー、簡素化",
+        "ko": "Android 화면 미러링 및 제어 워크플로, 간소화됨",
+        "hook": {
+          "en": "Easily mirror and control Android with a simple workflow",
+          "ja": "シンプルなワークフローで Android 画面を操作",
+          "ko": "간단한 워크플로로 Android 화면을 미러링·제어"
+        }
+      }
+    },
     "SleuthPropagate/imobie-anytrans": {
       "9696ddcac4d4": {
         "src": "Imobie Anytrans 1.5.3 - Local workstation deployment package for efficient media management and synchronization tasks in enterprise environments.",
@@ -1840,6 +1990,16 @@
           "ja": "Imobie Anytrans 1.5.3導入パッケージ",
           "ko": "Imobie Anytrans 1.5.3 배포 패키지"
         }
+      }
+    },
+    "SnehalSukale27/power-director": {
+      "d85a31448701": {
+        "src": "Power Director: Standalone Desktop Video Editing Suite with Complete Installer",
+        "zh-Hans": "Power Director：带有完整安装程序的独立桌面视频编辑套件",
+        "seen": "2026-11-11",
+        "zh-Hant": "Power Director：帶有完整安裝程式的獨立桌面影片編輯套件",
+        "ja": "Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート",
+        "ko": "Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군"
       }
     },
     "SoapmakerShout44/Cinema-4d": {
@@ -2349,6 +2509,21 @@
           "ja": "ひとつの通知がその場でばねの動きで変形",
           "ko": "하나의 알림이 제자리에서 스프링처럼 변형"
         }
+      },
+      "a4ce7ec650f9": {
+        "src": "Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte, Vue and plain DOM.",
+        "zh-Hans": "具有真实弹簧物理效果的 Toast。单个 Toast 原位变形。无依赖项。React、Svelte、Vue 和原生 DOM。",
+        "seen": "2026-11-11",
+        "zh-Hant": "具有真實彈簧物理效果的 Toast。單個 Toast 原位變形。無依賴項。React、Svelte、Vue 和原生 DOM。",
+        "ja": "リアルなスプリング物理演算を備えたトースト。その場で変形する1つのトースト。依存関係なし。React、Svelte、Vue、プレーンDOM。",
+        "ko": "실제 스프링 물리 효과를 적용한 토스트. 제자리에서 변형되는 하나의 토스트. 의존성 없음. React, Svelte, Vue 및 순수 DOM.",
+        "hook": {
+          "en": "Toasts feel stiff? Move them with real spring physics",
+          "zh-Hans": "提示框太生硬？用真实弹簧物理原地变形",
+          "zh-Hant": "提示框太生硬？用真實彈簧物理原地變形",
+          "ja": "通知が不自然？本物のバネ物理でその場で変形",
+          "ko": "알림이 부자연스러울 때, 스프링 물리로 제자리 변형"
+        }
       }
     },
     "ZSeven-W/dsh-game-studio": {
@@ -2432,6 +2607,22 @@
           "zh-Hant": "零基礎，從零手寫 GPT-2",
           "ja": "ゼロから GPT-2 を手書きして LLM を理解",
           "ko": "처음부터 GPT-2를 직접 만들며 배우는 LLM"
+        }
+      }
+    },
+    "aaANDkk/Qure_Style_SVG": {
+      "db032997f3b1": {
+        "src": "Qure 风格的纯 SVG 矢量策略组图标库 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X",
+        "zh-Hans": "Qure 风格的纯 SVG 矢量策略组图标库 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X",
+        "seen": "2026-11-11",
+        "zh-Hant": "Qure 風格的純 SVG 向量策略組圖示庫 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X",
+        "ja": "Qure スタイルの純 SVG ベクターポリシーグループアイコンライブラリ / Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X 向け Qure スタイル SVG ポリシーアイコンセット",
+        "ko": "Qure 스타일의 순수 SVG 벡터 정책 그룹 아이콘 라이브러리 / Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X용 Qure 스타일 SVG 정책 아이콘 세트",
+        "en": "Qure style pure SVG vector policy group icon library / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X",
+        "hook": {
+          "en": "Can't find clean policy icons? Use this Qure SVG set",
+          "ja": "ポリシーアイコンをお探し？Qure風のSVG集",
+          "ko": "정책 아이콘이 고민일 때, Qure SVG 세트"
         }
       }
     },
@@ -2590,6 +2781,16 @@
         }
       }
     },
+    "blockacc12345/music-maker-unlimited": {
+      "e6fb9e709f24": {
+        "src": "MusicMakerUnlimited: Full-featured desktop music production installer, ready to run",
+        "zh-Hans": "MusicMakerUnlimited：功能齐全的桌面音乐制作安装程序，可直接运行",
+        "seen": "2026-11-11",
+        "zh-Hant": "MusicMakerUnlimited：功能齊全的桌面音樂製作安裝程式，可直接執行",
+        "ja": "MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー",
+        "ko": "MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램"
+      }
+    },
     "boardshogunfluctuate/Capri-AI": {
       "e99cedbef74b": {
         "src": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows insta…",
@@ -2658,6 +2859,16 @@
           "ja": "AIチームに仕事を振り分ける",
           "ko": "AI 팀에 작업 나눠 맡기기"
         }
+      }
+    },
+    "daiphu2708-crypto/melodyne-5-desktop-setup": {
+      "5f622ab0cff4": {
+        "src": "Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set",
+        "zh-Hans": "Melodyne-5：具有完整功能集的专业音频编辑桌面套件",
+        "seen": "2026-11-11",
+        "zh-Hant": "Melodyne-5：具有完整功能集的專業音訊編輯桌面套件",
+        "ja": "Melodyne-5: 完全な機能セットを備えたプロフェッショナル向けオーディオ編集デスクトップスイート",
+        "ko": "Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군"
       }
     },
     "darkareaminaret/MetaTrader-5-Bot": {
@@ -2794,6 +3005,16 @@
         }
       }
     },
+    "dikshantghimire321-droid/kontakt-8-config": {
+      "7b35c5b102c7": {
+        "src": "Kontakt 8 desktop utility config: opinionated dotfiles, ready to run",
+        "zh-Hans": "Kontakt 8 桌面实用工具配置：有主见的 dotfiles，可直接运行",
+        "seen": "2026-11-11",
+        "zh-Hant": "Kontakt 8 桌面實用工具配置：有主見的 dotfiles，可直接執行",
+        "ja": "Kontakt 8 デスクトップユーティリティ設定: こだわりのある dotfiles、すぐに実行可能",
+        "ko": "Kontakt 8 데스크톱 유틸리티 설정: 주관이 반영된 dotfiles, 바로 실행 가능"
+      }
+    },
     "driftcoralemporium/instagram-liker-bot": {
       "0ba3a1b3b3e7": {
         "src": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.",
@@ -2902,6 +3123,23 @@
         }
       }
     },
+    "ersinkoc/phonebox": {
+      "5abbe2769eea": {
+        "src": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired…",
+        "zh-Hans": "将旧 Android 手机变成适用于 Windows、Linux 和 macOS 的本地桌面面板。55 个小组件、Smart Stack、AI 配额与会话、媒体控件、USB 或配对…",
+        "seen": "2026-11-11",
+        "zh-Hant": "將舊 Android 手機變成適用於 Windows、Linux 和 macOS 的本機桌面面板。55 個小工具、Smart Stack、AI 配額與工作階段、媒體控制項、USB 或配對…",
+        "ja": "古い Android スマートフォンを Windows、Linux、macOS 向けのローカルデスクパネルに変身させます。55 個のウィジェット、Smart Stack、AI クォータとセッション、メディアコントロール、USB またはペアリング…",
+        "ko": "오래된 Android 휴대폰을 Windows, Linux 및 macOS용 로컬 데스크 패널로 변환하세요. 55개 위젯, Smart Stack, AI 할당량 및 세션, 미디어 컨트롤, USB 또는 페어링…",
+        "hook": {
+          "en": "Turn an old Android phone into a local desk panel",
+          "zh-Hans": "把旧安卓手机变成电脑本地桌面面板",
+          "zh-Hant": "把舊安卓手機變成電腦本機桌面面板",
+          "ja": "古いAndroidをローカル卓上パネルにする",
+          "ko": "오래된 안드로이드 폰을 로컬 데스크 패널로 쓰기"
+        }
+      }
+    },
     "eveningpuffinravine/marvel-rivals-trainer-tool": {
       "ab7af960fc52": {
         "src": "Marvel Rivals 2026 pre-configured environment for rapid local workstation deployment.",
@@ -2951,6 +3189,38 @@
           "zh-Hant": "下載 AI 同事的 3D 識別證",
           "ja": "AI同僚の3D社員証をダウンロード",
           "ko": "AI 동료의 3D 사원증 다운로드"
+        }
+      }
+    },
+    "farhatullah0006-art/rx-11-audio-editor-config": {
+      "cf686db8f892": {
+        "src": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+        "zh-Hans": "rx-11-audio-editor 配置：用于专业音频编辑的完整独立安装程序和 dotfiles",
+        "seen": "2026-11-11",
+        "zh-Hant": "rx-11-audio-editor 設定：用於專業音訊編輯的完整獨立安裝程式和 dotfiles",
+        "ja": "rx-11-audio-editor 設定: プロフェッショナルなオーディオ編集用の完全なスタンドアロンインストーラーおよび dotfiles",
+        "ko": "rx-11-audio-editor 설정: 전문 오디오 편집을 위한 완전한 독립 실행형 설치 프로그램 및 dotfiles",
+        "hook": {
+          "en": "rx-11-audio-editor standalone installer and dotfiles",
+          "ja": "rx-11-audio-editor インストーラー",
+          "ko": "rx-11-audio-editor 설치 프로그램"
+        }
+      }
+    },
+    "farhodzodatojiddin5-cpu/exitlag-optimizer": {
+      "6207eabcaa2d": {
+        "src": "ExitLag installer with optimized system performance enhancements for desktop",
+        "zh-Hans": "带有针对桌面优化的系统性能增强功能的 ExitLag 安装程序",
+        "seen": "2026-11-11",
+        "zh-Hant": "帶有針對桌面最佳化的系統效能增強功能的 ExitLag 安裝程式",
+        "ja": "デスクトップ向けに最適化されたシステムパフォーマンス向上機能を備えた ExitLag インストーラー",
+        "ko": "데스크톱용 최적화된 시스템 성능 향상 기능을 갖춘 ExitLag 설치 프로그램",
+        "hook": {
+          "en": "ExitLag installer with desktop performance enhancements",
+          "zh-Hans": "ExitLag 桌面性能增强安装程序",
+          "zh-Hant": "ExitLag 桌面效能增強安裝程式",
+          "ja": "ExitLag デスクトップ性能強化インストーラー",
+          "ko": "ExitLag 데스크톱 성능 강화 설치 프로그램"
         }
       }
     },
@@ -3045,6 +3315,23 @@
           "zh-Hant": "本機工作站部署預先設定環境",
           "ja": "ローカルワークステーションのデプロイ設定",
           "ko": "로컬 워크스테이션 배포용 사전 구성 환경"
+        }
+      }
+    },
+    "groschen81-web/secure-desktop-installer": {
+      "ee52aebed51b": {
+        "src": "Professional Desktop Installer with Enhanced Security Features",
+        "zh-Hans": "具备增强安全特性的专业桌面安装程序",
+        "seen": "2026-11-11",
+        "zh-Hant": "具備增強資安特性的專業桌面安裝程式",
+        "ja": "強化されたセキュリティ機能を備えたプロフェッショナルなデスクトップインストーラー",
+        "ko": "향상된 보안 기능을 갖춘 전문 데스크톱 설치 프로그램",
+        "hook": {
+          "en": "Install desktop apps safely with enhanced security",
+          "zh-Hans": "用增强的安全特性在桌面端安装应用",
+          "zh-Hant": "以增強的資安功能在桌面安裝應用程式",
+          "ja": "強化されたセキュリティでデスクトップに導入する",
+          "ko": "강화된 보안 기능으로 데스크톱 앱을 설치하기"
         }
       }
     },
@@ -3279,6 +3566,31 @@
         }
       }
     },
+    "janitoff0/ninjatrader-bot": {
+      "0254c62830de": {
+        "src": "Ninjatrader Bot 2026: a friendly, community-driven trading companion packed with powerful features",
+        "zh-Hans": "Ninjatrader Bot 2026：友好、社区驱动的交易伴侣，包含强大功能",
+        "seen": "2026-11-11",
+        "zh-Hant": "Ninjatrader Bot 2026：友好、社群驅動的交易伴侶，包含強大功能",
+        "ja": "Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン",
+        "ko": "Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자"
+      }
+    },
+    "jeevijk/secure-asset-deploy": {
+      "b930e3712720": {
+        "src": "Adobe InDesign Installer with Enhanced Security Protocols for Secure Digital Asset Deployment",
+        "zh-Hans": "配备增强安全协议的 Adobe InDesign 安装程序，用于安全数字资产部署",
+        "seen": "2026-11-11",
+        "zh-Hant": "配備增強資安協定的 Adobe InDesign 安裝程式，用於安全數位資產部署",
+        "ja": "安全なデジタルアセット展開のための強化されたセキュリティプロトコルを備えた Adobe InDesign インストーラー",
+        "ko": "안전한 디지털 자산 배포를 위한 향상된 보안 프로토콜을 갖춘 Adobe InDesign 설치 프로그램",
+        "hook": {
+          "en": "Adobe InDesign installer for digital asset deployment",
+          "ja": "資産配布用 Adobe InDesign 導入版",
+          "ko": "Adobe InDesign 에셋 배포 설치본"
+        }
+      }
+    },
     "jianxinss/iching-64-motion": {
       "dd5cbe769420": {
         "src": "《易经》六十四卦结构动画 · I Ching 64 Hexagrams motion graphics, made entirely with code (Remotion + React)",
@@ -3325,6 +3637,23 @@
           "zh-Hant": "讓 AI 給你的儲存庫做威脅建模",
           "ja": "AI エージェントがリポジトリの脅威モデルを作成",
           "ko": "AI 에이전트가 저장소 위협 모델을 작성"
+        }
+      }
+    },
+    "johnampire818-dev/samfw-tool-desktop": {
+      "1f150eb5ca6c": {
+        "src": "Standalone desktop tool for Samsung firmware operations with full feature set enabled",
+        "zh-Hans": "用于 Samsung 固件操作的独立桌面工具，已启用完整功能集",
+        "seen": "2026-11-11",
+        "zh-Hant": "用於 Samsung 韌體操作的獨立桌面工具，已啟用完整功能集",
+        "ja": "完全な機能セットが有効化された、Samsung ファームウェア操作用のスタンドアロンデスクトップツール",
+        "ko": "모든 기능 세트가 활성화된 Samsung 펌웨어 작업을 위한 독립 실행형 데스크톱 도구",
+        "hook": {
+          "en": "Samsung firmware desktop tool, full feature set enabled",
+          "zh-Hans": "支持全部功能的 Samsung 固件桌面工具",
+          "zh-Hant": "支援完整功能的 Samsung 韌體桌面工具",
+          "ja": "全機能有効な Samsung デスクトップツール",
+          "ko": "전체 기능 활성화 Samsung 펌웨어 데스크톱 툴"
         }
       }
     },
@@ -3729,6 +4058,23 @@
         }
       }
     },
+    "muddinenilakshmilalithaksh-create/sp-flash-tool": {
+      "65b94f7e5e34": {
+        "src": "SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities",
+        "zh-Hans": "SP-Flash-Tool: 包含驱动程序和实用工具的独立固件刷机套件",
+        "seen": "2026-11-11",
+        "zh-Hant": "SP-Flash-Tool: 包含驅動程式和公用程式的獨立韌體刷機套件",
+        "ja": "SP-Flash-Tool: ドライバーとユーティリティを備えたスタンドアロンのファームウェア書き込みスイート",
+        "ko": "SP-Flash-Tool: 드라이버 및 유틸리티가 포함된 독립형 펌웨어 플래싱 제품군",
+        "hook": {
+          "en": "Flash device firmware with bundled drivers and tools",
+          "zh-Hans": "搭配驱动与工具独立刷写设备固件",
+          "zh-Hant": "搭配驅動與工具獨立刷寫裝置韌體",
+          "ja": "ドライバとツールを揃えてファームウェアを書き込む",
+          "ko": "드라이버와 도구로 기기 펌웨어를 직접 플래시하기"
+        }
+      }
+    },
     "mythicassemblyladle/RX-11-Audio-Editor": {
       "4030a63e6e53": {
         "src": "Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.",
@@ -3770,6 +4116,24 @@
           "zh-Hant": "Uttorent 桌面工具部署環境",
           "ja": "Uttorent デスクトップツール展開環境",
           "ko": "Uttorent 데스크톱 도구 배포 환경"
+        }
+      }
+    },
+    "nengong/download-anything": {
+      "b4288377ef91": {
+        "src": "面向 AI Agent 与终端的全能下载与归档工具 / All-in-one CLI &amp; Skill to download anything: videos, docs, cloud drives, music, papers &amp; books",
+        "zh-Hans": "面向 AI Agent 与终端的全能下载与归档工具 / All-in-one CLI &amp; Skill to download anything: videos, docs, cloud drives, music, papers &amp; books",
+        "seen": "2026-11-11",
+        "zh-Hant": "面向 AI 代理與終端的全能下載與歸檔工具 / 下載任何內容的 All-in-one CLI &amp; 技能：影片、文檔、雲端硬碟、音樂、論文與書籍",
+        "ja": "AI エージェントおよびターミナル向けの万能ダウンロード＆アーカイブツール / あらゆるものをダウンロードするオールインワン CLI &amp; スキル：動画、ドキュメント、クラウドドライブ、音楽、論文＆書籍",
+        "ko": "AI 에이전트 및 터미널을 위한 올인원 다운로드 및 아카이빙 도구 / 모든 것을 다운로드하는 올인원 CLI &amp; 스킬: 동영상, 문서, 클라우드 드라이브, 음악, 논문 &amp; 도서",
+        "en": "All-in-one download and archiving tool for AI agents and terminals / All-in-one CLI &amp; Skill to download anything: videos, docs, cloud drives, music, papers &amp; books",
+        "hook": {
+          "en": "Download videos, docs, and files via CLI or AI",
+          "zh-Hans": "用终端或智能体技能下载文档与音视频",
+          "zh-Hant": "用終端機或代理技能下載文件與影音",
+          "ja": "端末やエージェントから動画や書類を保存する",
+          "ko": "터미널이나 에이전트로 영상과 문서를 다운로드하기"
         }
       }
     },
@@ -4099,6 +4463,21 @@
         }
       }
     },
+    "shahnawaz0786/payday-3-enhancement-toolkit": {
+      "c8431dc0f5b7": {
+        "src": "Payday 3 Trainer Tool - Fully Activated Desktop Build, Ready to Play",
+        "zh-Hans": "Payday 3 Trainer 工具 - 完全激活的桌面版本，即玩就绪",
+        "seen": "2026-11-11",
+        "zh-Hant": "Payday 3 Trainer 工具 - 完全啟用的桌面組建，即玩就緒",
+        "ja": "Payday 3 Trainer ツール - 完全有効化されたデスクトップビルド、すぐにプレイ可能",
+        "ko": "Payday 3 Trainer 도구 - 완전히 활성화된 데스크톱 빌드, 즉시 플레이 가능",
+        "hook": {
+          "en": "Payday 3 trainer, listed as fully activated desktop build",
+          "ja": "Payday 3 有効化済みデスクトップトレーナー",
+          "ko": "Payday 3 활성화된 데스크톱 트레이너 빌드"
+        }
+      }
+    },
     "shanselman/sandbox-mcp": {
       "4120ba334c64": {
         "src": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
@@ -4272,6 +4651,23 @@
           "en": "Discord Quest Completer 2026 setup, listed as activated",
           "ja": "全機能有効化済みとされる 2026 導入版",
           "ko": "모든 기능이 활성화된 2026 단독 설치본"
+        }
+      }
+    },
+    "stevenmichaelthomas/numbrone": {
+      "d36be4616011": {
+        "src": "A chief of staff for your coding agents: route requests to per-project manager agents that run parallel workers in git worktrees, on herdr.",
+        "zh-Hans": "编码智能体的幕僚长：将请求路由给在 git worktrees 中运行并行 worker 的各项目管理智能体，基于 herdr。",
+        "seen": "2026-11-11",
+        "zh-Hant": "編碼代理的幕僚長：將請求路由給在 git worktrees 中運行並行 worker 的各專案管理代理，基於 herdr。",
+        "ja": "コーディングエージェントのためのチーフオブスタッフ：git worktrees で並行ワーカーを実行するプロジェクトごとのマネージャーエージェントにリクエストをルーティング（herdr 上）。",
+        "ko": "코딩 에이전트를 위한 비서실장: herdr 상에서 git worktrees 내 병렬 worker를 실행하는 프로젝트별 관리자 에이전트로 요청을 라우팅합니다.",
+        "hook": {
+          "en": "Route requests across your coding agents and workers",
+          "zh-Hans": "把编码任务分派给专属智能体协同执行",
+          "zh-Hant": "將編碼任務分派給專屬代理協同執行",
+          "ja": "コーディングエージェントへ作業を割り振る",
+          "ko": "코딩 에ージェント에게 요청을 나누어 전달하기"
         }
       }
     },
@@ -4456,6 +4852,16 @@
           "ja": "無料 OSINT、3,100 以上のサイトで人物検索",
           "ko": "무료 OSINT, 3,100개 이상 사이트에서 인물 검색"
         }
+      }
+    },
+    "vishnu05-codes/ozone-12-advanced": {
+      "ac1bf14ece6d": {
+        "src": "Ozone 12 Advanced: Professional Desktop Utility with Enhanced Configurations",
+        "zh-Hans": "Ozone 12 Advanced：具有增强配置的专业桌面实用工具",
+        "seen": "2026-11-11",
+        "zh-Hant": "Ozone 12 Advanced：具有增強配置的專業桌面實用工具",
+        "ja": "Ozone 12 Advanced: 強化された設定を備えたプロフェッショナル向けデスクトップユーティリティ",
+        "ko": "Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티"
       }
     },
     "voyager-so/vork": {
