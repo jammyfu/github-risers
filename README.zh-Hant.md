@@ -277,7 +277,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>搭配驅動與工具獨立刷寫裝置韌體 | 2026-11-06<br><sub>3.7 天</sub> | 480 | 128.2 |
 | 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>桌面隨開即用的 MetaTrader 5 機器人 | 2026-11-06<br><sub>3.8 天</sub> | 481 | 128.1 |
 | 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config)<br>rx-11-audio-editor 安裝程式與設定檔 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
-| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>配備增強資安協定的 Adobe InDesign 安裝程式，用於安全數位資產部署 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
+| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy)<br>想安全部署數位資產，強化安裝資安 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
 | 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop)<br>支援完整功能的 Samsung 韌體桌面工具 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
 | 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement)<br>Robux-Generator 桌面端完整安裝程式 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |
 | 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>簡化安卓螢幕鏡像與控制工作流程 | 2026-11-06<br><sub>3.8 天</sub> | 480 | 128.1 |

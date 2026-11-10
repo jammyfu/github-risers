@@ -3647,7 +3647,8 @@
           "en": "Adobe InDesign installer for digital asset deployment",
           "ja": "資産配布用 Adobe InDesign 導入版",
           "ko": "Adobe InDesign 에셋 배포 설치본",
-          "zh-Hans": "Adobe InDesign 安装包及安全部署配置"
+          "zh-Hans": "Adobe InDesign 安装包及安全部署配置",
+          "zh-Hant": "想安全部署數位資產，強化安裝資安"
         }
       }
     },

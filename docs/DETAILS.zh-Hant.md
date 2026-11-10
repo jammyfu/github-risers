@@ -142,7 +142,7 @@
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 搭配驅動與工具獨立刷寫裝置韌體 | SP-Flash-Tool: 包含驅動程式和公用程式的獨立韌體刷機套件 |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 桌面隨開即用的 MetaTrader 5 機器人 | 社群驅動的 MetaTrader 5 機器人，具備完整功能，可供桌面使用 |
 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor 安裝程式與設定檔 | rx-11-audio-editor 設定：用於專業音訊編輯的完整獨立安裝程式和 dotfiles |
-| [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) |  | 配備增強資安協定的 Adobe InDesign 安裝程式，用於安全數位資產部署 |
+| [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) | 想安全部署數位資產，強化安裝資安 | 配備增強資安協定的 Adobe InDesign 安裝程式，用於安全數位資產部署 |
 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop) | 支援完整功能的 Samsung 韌體桌面工具 | 用於 Samsung 韌體操作的獨立桌面工具，已啟用完整功能集 |
 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | Robux-Generator 桌面端完整安裝程式 | Robux-Generator：完整安裝程式，所有功能均已啟用，桌面就緒 |
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 簡化安卓螢幕鏡像與控制工作流程 | Android 螢幕鏡像與控制工作流程，已簡化 |
