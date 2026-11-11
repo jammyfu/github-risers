@@ -117,39 +117,39 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) |  | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 |
+| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 破甲与授权渗透插件 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 让智能体处理三维与视觉特效 | 面向智能体的无界面 3D 和 VFX 引擎. 研究预览版. |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 让 AI 操作真实的 iPhone | 让 AI 智能体操作真实的 iPhone. 本地 MCP 服务器和智能体, 无需越狱, 无需额外硬件. |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任务分派给你的 AI 团队 | 人类主导的 AI 团队技能: 分派任务、核验证据、清楚解释步骤, 并从真实案例中学习. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… |
+| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | 聊天旁的实时地图，展示 Claude Code 正在做什么：工具调用、模型步骤、hook、技能和子智能体在发生时实时亮起。仅限本地，在 f… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 在多系统设备上运行 mihomo 客户端 | Bowel 是适用于 macOS、Windows、Linux 和 Android 的 mihomo 客户端。 |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 视频动效难做？让剪辑智能体搞定工作流 | Eyeline 提词器遇上剪辑智能体：JSON 驱动的动画和动态图形工作流 |
 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | 用AI搭建Next.js全栈应用 | 用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器 |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 用一次性 Windows 环境测试应用 | 用全新、用完即弃的 Windows 机器测试你的应用: 自动操作 Windows Sandbox 的 MCP 服务器和 CLI |
 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 一句话描述，小游戏就能玩 | 用一句话描述一个小游戏，在 DeepSeek Harness 侧边栏中游玩，替换为 AI 美术素材，再一键发布到 GitHub Pages 或 Cloudflare。 |
-| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) |  | Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, C… |
+| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 用代码做出对齐语音的电影感视频 | 完全由代码构建的旁白电影感影片智能体技能：镜头在照片、地图和卡片上连续移动，配合语音节奏。Claude Code, Codex, C… |
 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | 知识库连Claude，无需API密钥 | NVIDIA Auto Ontology 的语义层和个人知识库，作为适用于 Claude、ChatGPT 和其他 MCP 客户端的 MCP 服务器。无需 LLM API 密钥。 |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 去掉土耳其语文章里的 AI 痕迹 | 清除土耳其语文本中人工智能痕迹 (AI 垃圾内容、翻译腔、带有翻译痕迹的句子结构和不符合 TDK 语言规范的错误) 的 Agent Skill 和 Humanizer 包. |
 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 把旧安卓手机变成电脑本地桌面面板 | 将旧 Android 手机变成适用于 Windows、Linux 和 macOS 的本地桌面面板。55 个小组件、Smart Stack、AI 配额与会话、媒体控件、USB 或配对… |
-| [bookleme/bookleme](https://github.com/bookleme/bookleme) |  | 读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验 |
+| [bookleme/bookleme](https://github.com/bookleme/bookleme) | 把一本书编译成智能体技能 | 读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验 |
 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 把编码任务分派给专属智能体协同执行 | 编码智能体的幕僚长：将请求路由给在 git worktrees 中运行并行 worker 的各项目管理智能体，基于 herdr。 |
-| [threerocks/article2media](https://github.com/threerocks/article2media) |  | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
+| [threerocks/article2media](https://github.com/threerocks/article2media) | 把文章或视频一键做成图文和短视频 | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 下载 AI 同事的 3D 工牌 | 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。 |
-| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) |  | Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude… |
-| [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) |  | daemon-pro: Complete Standalone Desktop Setup with Full Feature setup |
-| [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) |  | dxo-photolab-10: complete standalone config, ready to run, nothing held back |
-| [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 desktop build for professional photo processing workflows |
+| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) |  | Claude memory：对比为 Claude 提供持久长期记忆的 10 种最佳方法。涵盖 MCP 内存服务器、CLAUDE.md、内存插件以及适用于 Claude 的工具… |
+| [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | daemon-pro 独立桌面完整安装配置 | daemon-pro：包含完整功能设置的完整独立桌面配置 |
+| [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 独立运行完整配置 | dxo-photolab-10：完整的独立配置，开箱即用，毫无保留 |
+| [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | DxO PhotoLab 10 桌面构建版本 | 用于专业照片处理工作流的 DxO PhotoLab 10 桌面构建 |
 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 用增强的安全特性在桌面端安装应用 | 具备增强安全特性的专业桌面安装程序 |
-| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) |  | Soundpad: Advanced Audio Processing for Professional DAW Workflows |
+| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) |  | Soundpad：用于专业 DAW 工作流的高级音频处理 |
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 搭配驱动与工具独立刷写设备固件 | SP-Flash-Tool: 包含驱动程序和实用工具的独立固件刷机套件 |
-| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) |  | Windows Optimizer: Advanced System Tweaks and Performance Enhancements |
+| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) |  | Windows Optimizer：高级系统微调与性能增强 |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 桌面开箱即用的 MetaTrader 5 机器人 | 社区驱动的 MetaTrader 5 机器人，具备完整功能，可供桌面使用 |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 让友好的社区伙伴陪你一起打理交易 | Ninjatrader Bot 2026：友好、社区驱动的交易伴侣，包含强大功能 |
-| [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) |  | Rufus: Advanced USB Formatting and Bootable Drive Creation Utility |
+| [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) | 制作可引导启动盘并格式化 USB 设备 | Rufus：高级 USB 格式化和可启动驱动器创建实用工具 |
 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor 安装包与配置文件 | rx-11-audio-editor 配置：用于专业音频编辑的完整独立安装程序和 dotfiles |
 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | Robux-Generator 桌面端完整安装包 | Robux-Generator：完整安装程序，所有功能均已激活，桌面就绪 |
-| [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) |  | Quicken Deluxe Desktop Installer with Full Feature Set Enabled |
+| [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) |  | 启用了完整功能集的 Quicken Deluxe 桌面安装程序 |
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 简化安卓屏幕镜像与控制工作流 | Android 屏幕镜像和控制工作流，已简化 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 桌面端独立安装包 | Power Director：带有完整安装程序的独立桌面视频编辑套件 |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 修改器，标明为全激活桌面版 | Payday 3 Trainer 工具 - 完全激活的桌面版本，即玩就绪 |
@@ -163,7 +163,7 @@
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 加密存储和分享文件 | 非托管的加密文件存储 &amp; 共享平台，支持 Stellar 支付和链上文件公证 |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 界面简洁的 Play 与 Postgres 启动模板 | 具有简洁 UI 的 Play + Postgres 启动模板 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
-| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) |  | Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. |
+| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) |  | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 无需视频下载的Twitch掉宝工具 | 在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse/KQL 可观测性库 | grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | 用 Docker 部署 Play REST API | 基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator |

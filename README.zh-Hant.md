@@ -66,12 +66,12 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>2.4 天</sub> | 600 | 253.3 |
+| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 破甲與授權滲透外掛 | 2026-11-09<br><sub>2.4 天</sub> | 600 | 253.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>讓代理處理三維與視覺特效 | 2026-11-05<br><sub>5.7 天</sub> | 1,391 | 245.2 |
 | 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹除文字裡的 AI 痕跡並自動重寫 | 2026-11-09<br><sub>1.9 天</sub> | 364 | 192.2 |
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>讓 AI 操作真實的 iPhone | 2026-11-05<br><sub>6.0 天</sub> | 958 | 160.0 |
 | 5 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任務分派給你的 AI 團隊 | 2026-11-07<br><sub>4.5 天</sub> | 641 | 140.9 |
-| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… | 2026-11-09<br><sub>1.8 天</sub> | 240 | 132.3 |
+| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>聊天旁的即時地圖，展示 Claude Code 正在做什麼：工具調用、模型步驟、hook、技能和子代理在發生時即時亮起。僅限本機，在 f… | 2026-11-09<br><sub>1.8 天</sub> | 240 | 132.3 |
 | 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>在多系統裝置上使用 mihomo 客戶端 | 2026-11-07<br><sub>3.9 天</sub> | 433 | 111.7 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>影片動效難做？讓剪輯代理搞定工作流程 | 2026-11-06<br><sub>4.7 天</sub> | 481 | 102.0 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>用AI打造Next.js全端應用 | 2026-11-06<br><sub>4.8 天</sub> | 481 | 101.1 |
@@ -272,16 +272,16 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro: Complete Standalone Desktop Setup with Full Feature setup | 2026-11-06<br><sub>4.8 天</sub> | 1,129 | 237.8 |
-| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10: complete standalone config, ready to run, nothing held back | 2026-11-06<br><sub>4.7 天</sub> | 1,075 | 226.6 |
-| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 desktop build for professional photo processing workflows | 2026-11-06<br><sub>4.7 天</sub> | 1,063 | 224.1 |
+| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro 獨立桌面完整安裝設定 | 2026-11-06<br><sub>4.8 天</sub> | 1,129 | 237.8 |
+| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 獨立運行完整設定 | 2026-11-06<br><sub>4.7 天</sub> | 1,075 | 226.6 |
+| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 桌面組建版本 | 2026-11-06<br><sub>4.7 天</sub> | 1,063 | 224.1 |
 | 4 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>以增強的資安功能在桌面安裝應用程式 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
-| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad: Advanced Audio Processing for Professional DAW Workflows | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
+| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad：用於專業 DAW 工作流程的進階音訊處理 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
 | 6 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>搭配驅動與工具獨立刷寫裝置韌體 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
-| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Windows Optimizer: Advanced System Tweaks and Performance Enhancements | 2026-11-06<br><sub>4.7 天</sub> | 1,033 | 218.9 |
+| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Windows Optimizer：進階系統微調與效能增強 | 2026-11-06<br><sub>4.7 天</sub> | 1,033 | 218.9 |
 | 8 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>桌面隨開即用的 MetaTrader 5 機器人 | 2026-11-06<br><sub>4.7 天</sub> | 1,036 | 218.8 |
 | 9 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot)<br>讓友好的社群夥伴陪你一起打理交易 | 2026-11-06<br><sub>4.7 天</sub> | 1,035 | 218.8 |
-| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>Rufus: Advanced USB Formatting and Bootable Drive Creation Utility | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.8 |
+| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>製作可開機隨身碟並格式化 USB 裝置 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.8 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -762,7 +762,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>影音太分散？一個自行架設應用集中管理 | 2026-11-09<br><sub>1.6 天</sub> | 714 | 440.7 |
-| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. | 2026-11-10<br><sub>1.0 天</sub> | 241 | 241.0 |
+| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>60 秒內掌握 Solana 驗證節點健康狀況：評分、出塊任務、獎勵、磁碟預測、Prometheus。單一靜態二進位檔，唯讀，絕不觸碰您的金鑰。 | 2026-11-10<br><sub>1.0 天</sub> | 241 | 241.0 |
 | 3 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>免下載影片的Twitch掉寶工具 | 2026-11-08<br><sub>3.4 天</sub> | 119 | 35.5 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse/KQL 可觀測性庫 | 2026-11-06<br><sub>5.0 天</sub> | 149 | 29.7 |
 | 5 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>用 Docker 部署 Play REST API | 2026-11-06<br><sub>5.0 天</sub> | 149 | 29.7 |
@@ -929,7 +929,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>用純Go在GPU上繪製原生介面 | 2026-11-08<br><sub>3.1 天</sub> | 231 | 74.6 |
 | 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>為策略組換上 Qure 風格純向量圖示 | 2026-11-05<br><sub>6.3 天</sub> | 138 | 21.8 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>用動畫卡片呈現 GitHub 貢獻 | 2026-11-04<br><sub>6.7 天</sub> | 134 | 20.1 |
-| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 | 2026-11-06<br><sub>5.3 天</sub> | 104 | 19.6 |
+| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>從單張圖片製作可動形象：本機運行的 2D 虛擬形象編輯器，分層綁定 / 網格形變 / 口型與眨眼 / 時間軸動效 / MediaPipe 即時驅動 / OBS 輸出，內建大肥鱼1号範例專案。 | 2026-11-06<br><sub>5.3 天</sub> | 104 | 19.6 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

@@ -66,12 +66,12 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>2.4일</sub> | 600 | 253.3 |
+| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 탈옥 및 침투 테스트 플러그인 | 2026-11-09<br><sub>2.4일</sub> | 600 | 253.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>에이전트로 3D와 시각 효과 다루기 | 2026-11-05<br><sub>5.7일</sub> | 1,391 | 245.2 |
 | 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>글에서 AI 느낌을 지우고 다시 쓰기 | 2026-11-09<br><sub>1.9일</sub> | 364 | 192.2 |
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AI로 실제 iPhone 조작하기 | 2026-11-05<br><sub>6.0일</sub> | 958 | 160.0 |
 | 5 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AI 팀에 작업 나눠 맡기기 | 2026-11-07<br><sub>4.5일</sub> | 641 | 140.9 |
-| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… | 2026-11-09<br><sub>1.8일</sub> | 240 | 132.3 |
+| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>Claude Code의 동작을 채팅 옆에서 실시간 확인 | 2026-11-09<br><sub>1.8일</sub> | 240 | 132.3 |
 | 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>다양한 OS에서 mihomo 클라이언트 실행하기 | 2026-11-07<br><sub>3.9일</sub> | 433 | 111.7 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>영상 편집이 번거로울 때 에이전트로 애니메이션 자동화 | 2026-11-06<br><sub>4.7일</sub> | 481 | 102.0 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Next.js 풀스택 앱을 구축하는 오픈 소스 AI | 2026-11-06<br><sub>4.8일</sub> | 481 | 101.1 |
@@ -272,16 +272,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro: Complete Standalone Desktop Setup with Full Feature setup | 2026-11-06<br><sub>4.8일</sub> | 1,129 | 237.8 |
-| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10: complete standalone config, ready to run, nothing held back | 2026-11-06<br><sub>4.7일</sub> | 1,075 | 226.6 |
-| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 desktop build for professional photo processing workflows | 2026-11-06<br><sub>4.7일</sub> | 1,063 | 224.1 |
+| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro 독립형 데스크톱 전체 설치 구성 | 2026-11-06<br><sub>4.8일</sub> | 1,129 | 237.8 |
+| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 독립형 전체 실행 설정 | 2026-11-06<br><sub>4.7일</sub> | 1,075 | 226.6 |
+| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>사진 작업용 DxO PhotoLab 10 데스크톱 빌드 | 2026-11-06<br><sub>4.7일</sub> | 1,063 | 224.1 |
 | 4 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>강화된 보안 기능으로 데스크톱 앱을 설치하기 | 2026-11-06<br><sub>4.7일</sub> | 1,034 | 218.9 |
-| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad: Advanced Audio Processing for Professional DAW Workflows | 2026-11-06<br><sub>4.7일</sub> | 1,034 | 218.9 |
+| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>DAW 워크플로용 Soundpad 오디오 처리 제품군 | 2026-11-06<br><sub>4.7일</sub> | 1,034 | 218.9 |
 | 6 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>드라이버와 도구로 기기 펌웨어를 직접 플래시하기 | 2026-11-06<br><sub>4.7일</sub> | 1,034 | 218.9 |
-| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Windows Optimizer: Advanced System Tweaks and Performance Enhancements | 2026-11-06<br><sub>4.7일</sub> | 1,033 | 218.9 |
+| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>시스템 설정을 조정해 Windows 성능 개선 | 2026-11-06<br><sub>4.7일</sub> | 1,033 | 218.9 |
 | 8 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>데스크톱에서 쓰는 MetaTrader 5 봇 | 2026-11-06<br><sub>4.7일</sub> | 1,036 | 218.8 |
 | 9 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot)<br>친절한 커뮤니티 동료와 함께 거래를 관리하기 | 2026-11-06<br><sub>4.7일</sub> | 1,035 | 218.8 |
-| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>Rufus: Advanced USB Formatting and Bootable Drive Creation Utility | 2026-11-06<br><sub>4.7일</sub> | 1,034 | 218.8 |
+| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>부팅 가능한 USB 제작 및 드라이브 포맷 | 2026-11-06<br><sub>4.7일</sub> | 1,034 | 218.8 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -762,7 +762,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 2026-11-09<br><sub>1.6일</sub> | 714 | 440.7 |
-| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. | 2026-11-10<br><sub>1.0일</sub> | 241 | 241.0 |
+| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 2026-11-10<br><sub>1.0일</sub> | 241 | 241.0 |
 | 3 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 2026-11-08<br><sub>3.4일</sub> | 119 | 35.5 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric KQL 관측성 및 이상 징후 라이브러리 | 2026-11-06<br><sub>5.0일</sub> | 149 | 29.7 |
 | 5 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Docker 기반 Play 프레임워크 REST API | 2026-11-06<br><sub>5.0일</sub> | 149 | 29.7 |
@@ -929,7 +929,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>순수 Go로 GPU 기반 네이티브 UI 만들기 | 2026-11-08<br><sub>3.1일</sub> | 231 | 74.6 |
 | 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>정책 아이콘이 고민일 때, Qure SVG 세트 | 2026-11-05<br><sub>6.3일</sub> | 138 | 21.8 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>GitHub 활동을 움직이는 통계 카드로 | 2026-11-04<br><sub>6.7일</sub> | 134 | 20.1 |
-| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 | 2026-11-06<br><sub>5.3일</sub> | 104 | 19.6 |
+| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>단 한 장의 사진으로 움직이는 2D 아바타 제작 | 2026-11-06<br><sub>5.3일</sub> | 104 | 19.6 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

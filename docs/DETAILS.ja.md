@@ -117,39 +117,39 @@
 
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
-| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) |  | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 |
+| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 破甲と侵入テストプラグイン | 富江破甲（破甲）：DeepSeek Harness破甲プラグイン、アクティベーションワード富江、すべて平易な言葉で直接質問可能、スキルライブラリskillのダウンロードと呼び出し、脆弱性ナレッジベースpoc利用、脆弱性レポート更新、全自動認可ペネトレーションを内蔵。現在のバージョン：0.20.13、免責事項付き。プラグイン画像は一番下を参照 |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | エージェントで3Dと視覚効果を扱う | エージェント向けのヘッドレス 3D・VFX エンジン. 研究プレビュー版. |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 文章からAI感を消して書き直す | STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh… |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | AIに実機のiPhoneを操作させる | AI エージェントに実機の iPhone を操作させる. ローカルの MCP サーバーとエージェントで、脱獄も追加ハードウェアも不要. |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AIチームに仕事を振り分ける | 人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。 |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… |
+| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャットの横でClaude Codeの動きを見る | チャットの横に表示されるライブマップで、Claude Code が行っていることを可視化：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが発生時にリアルタイムで点灯します。ローカル限定、f… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 各種OSでmihomoクライアントを利用する | Bowel は macOS、Windows、Linux、Android 向けの mihomo クライアントです。 |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 動画編集が大変？エージェントがアニメーションを自動化 | Eyeline テレプロンプターと編集エージェントの融合：JSON 駆動のアニメーションおよびモーショングラフィックスのワークフロー |
 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | オープンソースAIでNext.js全スタック構築 | ホスティングと認証を備えたフルスタック Next.js アプリ向けのオープンソース AI アプリビルダー |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 使い捨てのWindows環境でアプリを試す | アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI |
 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 一文で伝えたゲームを遊ぶ | 小さなゲームを一文で説明し、DeepSeek Harnessのサイドバーで遊び、AIアートに差し替え、ワンクリックでGitHub PagesまたはCloudflareに公開する。 |
-| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) |  | Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, C… |
+| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 音声に合わせてコードから映画風の映像を作る | 完全にコードから構築されたナレーション付き映画風フィルム用のエージェントスキル：写真、地図、カードの上を1台の連続したカメラが移動し、音声に同期します。Claude Code, Codex, C… |
 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | API不要でClaudeと繋ぐMCPサーバー | NVIDIA Auto Ontology のセマンティック層および個人用ナレッジベースであり、Claude、ChatGPT、その他の MCP クライアント向けの MCP サーバーとして機能します。LLM API キーは不要です。 |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | トルコ語の文章からAIの痕跡を取り除く | トルコ語の文章から人工知能の痕跡 (AI の粗製コンテンツ、翻訳調、翻訳くさい文構造、TDK の言語規範に反する誤り) を取り除く Agent Skill と Humanizer パッケージ. |
 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 古いAndroidをローカル卓上パネルにする | 古い Android スマートフォンを Windows、Linux、macOS 向けのローカルデスクパネルに変身させます。55 個のウィジェット、Smart Stack、AI クォータとセッション、メディアコントロール、USB またはペアリング… |
-| [bookleme/bookleme](https://github.com/bookleme/bookleme) |  | 读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验 |
+| [bookleme/bookleme](https://github.com/bookleme/bookleme) | 1冊の本をエージェントスキルにコンパイル | 读了么（BookLeme）· 1冊の本をエージェントスキルにコンパイル —— デュアルエンジン + プラグイン可能なジャンルプラグイン + 一文字ずつの忠実度再検証 |
 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | コーディングエージェントへ作業を割り振る | コーディングエージェントのためのチーフオブスタッフ：git worktrees で並行ワーカーを実行するプロジェクトごとのマネージャーエージェントにリクエストをルーティング（herdr 上）。 |
-| [threerocks/article2media](https://github.com/threerocks/article2media) |  | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
+| [threerocks/article2media](https://github.com/threerocks/article2media) | 記事や動画を図解投稿やショート動画に変換 | 1本の記事または1本の動画（抖音、B 站、YouTube、まず文字起こしに変換）をワンクリックで小红书画像テキスト、雑誌風縦長画像、公众号レイアウト、AI音声吹き替えトーク系ショート動画に仕上げるオープンソースの Claude Code / Codex スキル。21種類のテーマ、自動検収、npm依存ゼロ。 |
 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | AI同僚の3D社員証をダウンロード | 非人間の従業員｜9人のAI同僚の3D社員証を受け取れる場所。中国語・英語対応、背景透過PNGをダウンロードできる。WeChat公式アカウント：风花AI实验室。 |
-| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) |  | Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude… |
-| [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) |  | daemon-pro: Complete Standalone Desktop Setup with Full Feature setup |
-| [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) |  | dxo-photolab-10: complete standalone config, ready to run, nothing held back |
-| [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 desktop build for professional photo processing workflows |
+| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) | Claudeに長期記憶を持たせる10の方法を比較 | Claude memory: Claude に永続的で長期的なメモリを提供するためのトップ 10 の方法を比較。MCP メモリサーバー、CLAUDE.md、メモリプラグイン、Claude 向けツールを網羅… |
+| [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | daemon-pro スタンドアロンデスクトップ設定 | daemon-pro: フル機能を備えた完全スタンドアロンのデスクトップセットアップ |
+| [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 スタンドアロン完全設定 | dxo-photolab-10: すぐに実行できる完全なスタンドアロン構成、出し惜しみなし |
+| [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | 写真処理向けDxO PhotoLab 10デスクトップ版 | プロフェッショナルな写真処理ワークフロー向けの DxO PhotoLab 10 デスクトップビルド |
 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 強化されたセキュリティでデスクトップに導入する | 強化されたセキュリティ機能を備えたプロフェッショナルなデスクトップインストーラー |
-| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) |  | Soundpad: Advanced Audio Processing for Professional DAW Workflows |
+| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) | DAW向けSoundpad音声処理スイート | Soundpad: プロフェッショナルな DAW ワークフロー向け高度なオーディオ処理 |
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | ドライバとツールを揃えてファームウェアを書き込む | SP-Flash-Tool: ドライバーとユーティリティを備えたスタンドアロンのファームウェア書き込みスイート |
-| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) |  | Windows Optimizer: Advanced System Tweaks and Performance Enhancements |
+| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | システム設定を調整しWindowsの性能を改善 | Windows Optimizer: 高度なシステム調整とパフォーマンス向上 |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | デスクトップで動く MetaTrader 5 ボット | デスクトップ利用に対応した全機能搭載のコミュニティ主導型 MetaTrader 5 ボット |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | コミュニティの仲間と一緒に取引を管理する | Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン |
-| [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) |  | Rufus: Advanced USB Formatting and Bootable Drive Creation Utility |
+| [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) | 起動用USBメモリの作成とドライブ初期化 | Rufus: 高度な USB フォーマットおよび起動可能ドライブ作成ユーティリティ |
 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor インストーラー | rx-11-audio-editor 設定: プロフェッショナルなオーディオ編集用の完全なスタンドアロンインストーラーおよび dotfiles |
 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | Robux-Generator デスクトップ版 | Robux-Generator: 完全なインストーラー、全機能のアクティベーション完了、デスクトップ対応 |
-| [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) |  | Quicken Deluxe Desktop Installer with Full Feature Set Enabled |
+| [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) | Quicken Deluxe 全機能有効と記載の導入版 | フル機能セットが有効化された Quicken Deluxe デスクトップインストーラー |
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | シンプルなワークフローで Android 画面を操作 | Android 画面ミラーリングおよび制御ワークフロー、簡素化 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director デスクトップインストーラ | Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 有効化済みデスクトップトレーナー | Payday 3 Trainer ツール - 完全有効化されたデスクトップビルド、すぐにプレイ可能 |
@@ -163,12 +163,12 @@
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | ファイルを暗号化して保存・共有 | Stellar 決済とオンチェーンのファイル公証に対応する、非カストディ型の暗号化ファイル保存 &amp; 共有プラットフォーム |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | シンプルなUIのPlayとPostgresスターター | クリーンなUIを備えたPlay + Postgresスターターテンプレート |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 動画や音楽が散らかる？セルフホスト型アプリで管理 | 番組、映画、音楽のための1つのセルフホスト型アプリ。 |
-| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) |  | Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. |
+| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 動画をダウンロードせずにTwitchドロップを自動回収 | バックグラウンドでTwitchドロップを自動ファーム。動画ダウンロード不要で報酬獲得、チャンネル切り替え、時間指定ドロップのマイニングを実行。Windows、mac… |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse用KQL監視ライブラリ | grizl-fabric-observability: Fabric Eventhouse/KQL 可観測性および異常シグナルライブラリ |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | Docker対応PlayフレームワークREST API | Dockerベースのデプロイとactivatorを備えたPlay フレームワーク上のREST API |
 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 純粋なGoでGPU描画のネイティブUIを作る | 🍭 Lobe MyGo - ネイティブ Go アプリ向けの UI キット：MyGo 向けの Lobe UI デザイン言語を、純粋な Go で GPU 上に描画 |
 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) | ポリシーアイコンをお探し？Qure風のSVG集 | Qure スタイルの純 SVG ベクターポリシーグループアイコンライブラリ / Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X 向け Qure スタイル SVG ポリシーアイコンセット |
 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | GitHubの活動を動く統計カードに | GitHubプロフィールのREADME向けアニメーションSVG統計カード。非公開の作業や組織での作業も集計する。GitHub Actionとして動作し、サーバーは不要。 |
-| [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) |  | 从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 |
+| [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) | 1枚の画像から動く2Dアバターをその場で作成 | 1枚の画像から動くアバターを作成：ローカルで動作する 2D 仮想アバターエディタ、レイヤーボーン / メッシュ変形 / リップシンク＆まばたき / タイムラインアニメーション / MediaPipe リアルタイム駆動 / OBS 出力、大肥鱼1号 サンプルプロジェクト内蔵。 |
 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | 自動Upsert対応OneLakeパイプライン | 自動UpsertマージとPythonレポート機能を備えたイベント駆動型OneLakeパイプライン |

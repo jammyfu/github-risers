@@ -2,6 +2,23 @@
   "_comment": "Translation library for new-repo descriptions, keyed by repo + sha256(source)[:12] + language. Used by tools/newcomer_i18n.py and tools/i18n_pipeline.py; see docs/I18N_PIPELINE.md.",
   "version": 2,
   "entries": {
+    "21041979/rufus-usb-formatter": {
+      "d1b9bd2b4a87": {
+        "src": "Rufus: Advanced USB Formatting and Bootable Drive Creation Utility",
+        "zh-Hans": "Rufus：高级 USB 格式化和可启动驱动器创建实用工具",
+        "seen": "2026-11-11",
+        "zh-Hant": "Rufus：進階 USB 格式化與可開機磁碟建立實用工具",
+        "ja": "Rufus: 高度な USB フォーマットおよび起動可能ドライブ作成ユーティリティ",
+        "ko": "Rufus: 고급 USB 포맷 및 부팅 가능 드라이브 생성 유틸리티",
+        "hook": {
+          "en": "Create bootable drives and format USB storage",
+          "zh-Hans": "制作可引导启动盘并格式化 USB 设备",
+          "zh-Hant": "製作可開機隨身碟並格式化 USB 裝置",
+          "ja": "起動用USBメモリの作成とドライブ初期化",
+          "ko": "부팅 가능한 USB 제작 및 드라이브 포맷"
+        }
+      }
+    },
     "21stware/bowel": {
       "c7573b61f5df": {
         "src": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
@@ -665,6 +682,22 @@
       }
     },
     "FJNB5/fujiang-pojia": {
+      "348a8fa321c6": {
+        "src": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
+        "zh-Hans": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
+        "seen": "2026-11-11",
+        "zh-Hant": "富江破甲（破甲）：DeepSeek Harness破甲外掛，激活詞富江，所有東西直接大白話問，內含技能庫skill下載與調用、漏洞知識庫poc利用、漏洞報告更新和全自動授權滲透。當前版本：0.20.13，附免責聲明。外掛圖片看最下面",
+        "ja": "富江破甲（破甲）：DeepSeek Harness破甲プラグイン、アクティベーションワード富江、すべて平易な言葉で直接質問可能、スキルライブラリskillのダウンロードと呼び出し、脆弱性ナレッジベースpoc利用、脆弱性レポート更新、全自動認可ペネトレーションを内蔵。現在のバージョン：0.20.13、免責事項付き。プラグイン画像は一番下を参照",
+        "ko": "富江破甲（破甲）：DeepSeek Harness 탈옥 플러그인, 활성화 단어 富江, 모든 것을 쉬운 말로 직접 질문 가능, 스킬 라이브러리 skill 다운로드 및 호출, 취약점 지식 베이스 poc 활용, 취약점 보고서 업데이트 및 전자동 승인 침투 내장. 현재 버전: 0.20.13, 면책 조항 첨부. 플러그인 이미지는 맨 아래 확인",
+        "en": "富江破甲（破甲）: DeepSeek Harness jailbreak plugin, activation keyword 富江, ask everything directly in plain language, includes skill library skill download and invocation, vulnerability knowledge base poc exploitation, vulnerability report updates, and fully automated authorized penetration. Current version: 0.20.13, disclaimer attached. See the bottom for plugin images",
+        "hook": {
+          "en": "DeepSeek Harness jailbreak and pentest plugin",
+          "zh-Hans": "DeepSeek Harness 破甲与授权渗透插件",
+          "zh-Hant": "DeepSeek Harness 破甲與授權滲透外掛",
+          "ja": "DeepSeek Harness 破甲と侵入テストプラグイン",
+          "ko": "DeepSeek Harness 탈옥 및 침투 테스트 플러그인"
+        }
+      },
       "7e1353a62881": {
         "src": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
         "zh-Hans": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
@@ -897,6 +930,22 @@
         }
       }
     },
+    "HRuiCcc/RuiC-2D": {
+      "904f575d78f3": {
+        "src": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
+        "zh-Hans": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
+        "seen": "2026-11-11",
+        "zh-Hant": "從單張圖片製作可動形象：本機運行的 2D 虛擬形象編輯器，分層綁定 / 網格形變 / 口型與眨眼 / 時間軸動效 / MediaPipe 即時驅動 / OBS 輸出，內建大肥鱼1号範例專案。",
+        "ja": "1枚の画像から動くアバターを作成：ローカルで動作する 2D 仮想アバターエディタ、レイヤーボーン / メッシュ変形 / リップシンク＆まばたき / タイムラインアニメーション / MediaPipe リアルタイム駆動 / OBS 出力、大肥鱼1号 サンプルプロジェクト内蔵。",
+        "ko": "단 한 장의 이미지로 움직이는 아바타 제작: 로컬에서 실행되는 2D 가상 아바타 편집기, 레이어 바인딩 / 메시 변형 / 립싱크 및 깜빡임 / 타임라인 애니메이션 / MediaPipe 실시간 구동 / OBS 출력, 大肥鱼1号 예제 프로젝트 내장.",
+        "en": "Create animated avatars from a single image: a locally-run 2D virtual avatar editor, layered rigging / mesh deformation / lip sync & blinking / timeline animation / MediaPipe real-time driving / OBS output, built-in 大肥鱼1号 sample project.",
+        "hook": {
+          "en": "Turn a single picture into a movable 2D avatar",
+          "ja": "1枚の画像から動く2Dアバターをその場で作成",
+          "ko": "단 한 장의 사진으로 움직이는 2D 아바타 제작"
+        }
+      }
+    },
     "Hairanfollow/discord-quest-completer": {
       "d9cab180b26d": {
         "src": "Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and...",
@@ -1013,6 +1062,23 @@
           "zh-Hant": "告別算力偏差，用開源框架評測新模型",
           "ja": "計算量の不揃いを防ぎ、オープンソースで新モデルを測定",
           "ko": "연산량 불일치를 막고 오픈 소스로 차세대 모델 측정"
+        }
+      }
+    },
+    "IsaiaR09/daemon-pro-desktop": {
+      "13085616e5ab": {
+        "src": "daemon-pro: Complete Standalone Desktop Setup with Full Feature setup",
+        "zh-Hans": "daemon-pro：包含完整功能设置的完整独立桌面配置",
+        "seen": "2026-11-11",
+        "zh-Hant": "daemon-pro：包含完整功能設定的完整獨立桌面配置",
+        "ja": "daemon-pro: フル機能を備えた完全スタンドアロンのデスクトップセットアップ",
+        "ko": "daemon-pro: 전체 기능 설정을 갖춘 완전한 독립형 데스크톱 설정",
+        "hook": {
+          "en": "daemon-pro standalone desktop complete setup",
+          "zh-Hans": "daemon-pro 独立桌面完整安装配置",
+          "zh-Hant": "daemon-pro 獨立桌面完整安裝設定",
+          "ja": "daemon-pro スタンドアロンデスクトップ設定",
+          "ko": "daemon-pro 독립형 데스크톱 전체 설치 구성"
         }
       }
     },
@@ -1291,6 +1357,23 @@
           "zh-Hant": "桌面軟體部署預先設定環境",
           "ja": "デスクトップソフトのデプロイ用設定済み環境",
           "ko": "데스크톱 소프트웨어 배포용 사전 구성 환경"
+        }
+      }
+    },
+    "Moh4696/cinematic-skill": {
+      "2e5144ada144": {
+        "src": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, C…",
+        "zh-Hans": "完全由代码构建的旁白电影感影片智能体技能：镜头在照片、地图和卡片上连续移动，配合语音节奏。Claude Code, Codex, C…",
+        "seen": "2026-11-11",
+        "zh-Hant": "完全由代碼構建的旁白電影感影片代理技能：鏡頭在照片、地圖和卡片上連續移動，配合語音節奏。Claude Code, Codex, C…",
+        "ja": "完全にコードから構築されたナレーション付き映画風フィルム用のエージェントスキル：写真、地図、カードの上を1台の連続したカメラが移動し、音声に同期します。Claude Code, Codex, C…",
+        "ko": "완전히 코드로 구축된 내레이션 시네마틱 필름용 에이전트 스킬: 음성에 맞춰 사진, 지도 및 카드 위를 이동하는 하나의 연속 카메라. Claude Code, Codex, C…",
+        "hook": {
+          "en": "Turn code into narrated cinematic films timed to voice",
+          "zh-Hans": "用代码做出对齐语音的电影感视频",
+          "zh-Hant": "用程式碼做出對齊語音的電影感影片",
+          "ja": "音声に合わせてコードから映画風の映像を作る",
+          "ko": "음성에 맞춰 코드로 영화 같은 영상을 제작"
         }
       }
     },
@@ -1809,6 +1892,23 @@
           "ko": "데스크톱에서 쓰는 MetaTrader 5 봇",
           "zh-Hans": "桌面开箱即用的 MetaTrader 5 机器人",
           "zh-Hant": "桌面隨開即用的 MetaTrader 5 機器人"
+        }
+      }
+    },
+    "RyoTheOne/dxo-photolab-10-config": {
+      "2ebc519ceda4": {
+        "src": "dxo-photolab-10: complete standalone config, ready to run, nothing held back",
+        "zh-Hans": "dxo-photolab-10：完整的独立配置，开箱即用，毫无保留",
+        "seen": "2026-11-11",
+        "zh-Hant": "dxo-photolab-10：完整的獨立配置，開箱即用，毫無保留",
+        "ja": "dxo-photolab-10: すぐに実行できる完全なスタンドアロン構成、出し惜しみなし",
+        "ko": "dxo-photolab-10: 바로 실행 가능한 완전한 독립형 설정, 아낌없이 담김",
+        "hook": {
+          "en": "dxo-photolab-10 complete standalone configuration",
+          "zh-Hans": "dxo-photolab-10 独立运行完整配置",
+          "zh-Hant": "dxo-photolab-10 獨立運行完整設定",
+          "ja": "dxo-photolab-10 スタンドアロン完全設定",
+          "ko": "dxo-photolab-10 독립형 전체 실행 설정"
         }
       }
     },
@@ -2379,6 +2479,21 @@
         }
       }
     },
+    "ValidatorStack/solana-vigil": {
+      "427ec48068bd": {
+        "src": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+        "zh-Hans": "60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。",
+        "seen": "2026-11-11",
+        "zh-Hant": "60 秒內掌握 Solana 驗證節點健康狀況：評分、出塊任務、獎勵、磁碟預測、Prometheus。單一靜態二進位檔，唯讀，絕不觸碰您的金鑰。",
+        "ja": "60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。",
+        "ko": "60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다.",
+        "hook": {
+          "en": "Check Solana validator health in 60 seconds safely",
+          "ja": "秘密鍵に触れず60秒でSolanaノード状態を確認",
+          "ko": "키 노출 없이 60초 만에 Solana 검증인 상태 확인"
+        }
+      }
+    },
     "VectorLobsterBearing/landr-plugin-bundle": {
       "858ef38b1908": {
         "src": "Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop.",
@@ -2673,6 +2788,21 @@
         }
       }
     },
+    "alexeyw/lot-map": {
+      "e00cf9d6d301": {
+        "src": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f…",
+        "zh-Hans": "聊天旁的实时地图，展示 Claude Code 正在做什么：工具调用、模型步骤、hook、技能和子智能体在发生时实时亮起。仅限本地，在 f…",
+        "seen": "2026-11-11",
+        "zh-Hant": "聊天旁的即時地圖，展示 Claude Code 正在做什麼：工具調用、模型步驟、hook、技能和子代理在發生時即時亮起。僅限本機，在 f…",
+        "ja": "チャットの横に表示されるライブマップで、Claude Code が行っていることを可視化：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが発生時にリアルタイムで点灯します。ローカル限定、f…",
+        "ko": "채팅 옆 실시간 지도로 Claude Code가 수행 중인 작업을 표시: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 발생하는 즉시 불이 켜집니다. 로컬 전용, f…",
+        "hook": {
+          "en": "Watch what Claude Code is doing live beside your chat",
+          "ja": "チャットの横でClaude Codeの動きを見る",
+          "ko": "Claude Code의 동작을 채팅 옆에서 실시간 확인"
+        }
+      }
+    },
     "andyhuo520/digital-human-koubo": {
       "07d898e09358": {
         "src": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude…",
@@ -2837,6 +2967,24 @@
         "ko": "⚡ PC에 할 일을 지시하세요. Capri는 Claude Code, Codex 또는 Antigravity를 통해 파일, 프로젝트, 코드를 다루는 사이버펑크 AI 에이전트입니다. Windows insta…"
       }
     },
+    "bookleme/bookleme": {
+      "c1a0efacca05": {
+        "src": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+        "zh-Hans": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+        "seen": "2026-11-11",
+        "zh-Hant": "讀了麼（BookLeme）· 把一本書編譯成 Agent Skill —— 雙引擎 + 可插拔體裁外掛 + 逐字忠實度回驗",
+        "ja": "读了么（BookLeme）· 1冊の本をエージェントスキルにコンパイル —— デュアルエンジン + プラグイン可能なジャンルプラグイン + 一文字ずつの忠実度再検証",
+        "ko": "读了么（BookLeme）· 책 한 권을 에이전트 스킬로 컴파일 —— 듀얼 엔진 + 플러그형 장르 플러그인 + 글자 단위 충실도 검증",
+        "en": "读了么（BookLeme）· Compile a book into an Agent Skill —— dual engines + pluggable genre plugins + verbatim fidelity verification",
+        "hook": {
+          "en": "Compile a whole book into an Agent Skill",
+          "zh-Hans": "把一本书编译成智能体技能",
+          "zh-Hant": "把一本書編譯成代理技能",
+          "ja": "1冊の本をエージェントスキルにコンパイル",
+          "ko": "책 한 권을 에이전트 스킬로 컴파일"
+        }
+      }
+    },
     "caru-ini/stack-diagram": {
       "b35b80141e99": {
         "src": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -2876,6 +3024,21 @@
           "zh-Hant": "DeepSeek Harness 裝進口袋",
           "ja": "DeepSeek Harness をポケットに",
           "ko": "DeepSeek Harness를 주머니 속에"
+        }
+      }
+    },
+    "claudememory/claude-memory": {
+      "75cbd06352a1": {
+        "src": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude…",
+        "zh-Hans": "Claude memory：对比为 Claude 提供持久长期记忆的 10 种最佳方法。涵盖 MCP 内存服务器、CLAUDE.md、内存插件以及适用于 Claude 的工具…",
+        "seen": "2026-11-11",
+        "zh-Hant": "Claude memory：對比為 Claude 提供持久長期記憶的 10 種最佳方法。涵蓋 MCP 記憶體伺服器、CLAUDE.md、記憶體外掛以及適用於 Claude 的工具…",
+        "ja": "Claude memory: Claude に永続的で長期的なメモリを提供するためのトップ 10 の方法を比較。MCP メモリサーバー、CLAUDE.md、メモリプラグイン、Claude 向けツールを網羅…",
+        "ko": "Claude memory: Claude에게 지속적이고 장기적인 메모리를 제공하는 상위 10가지 방법 비교. MCP 메모리 서버, CLAUDE.md, 메모리 플러그인 및 Claude용 도구 포함…",
+        "hook": {
+          "en": "Compare the top 10 ways to give Claude long-term memory",
+          "ja": "Claudeに長期記憶を持たせる10の方法を比較",
+          "ko": "Claude에게 장기 기억을 주는 10가지 방법 비교"
         }
       }
     },
@@ -3273,6 +3436,23 @@
           "zh-Hant": "ExitLag 桌面效能增強安裝程式",
           "ja": "ExitLag デスクトップ性能強化インストーラー",
           "ko": "ExitLag 데스크톱 성능 강화 설치 프로그램"
+        }
+      }
+    },
+    "flgomes/dxo-photolab-10-desktop": {
+      "6ae753267862": {
+        "src": "DxO PhotoLab 10 desktop build for professional photo processing workflows",
+        "zh-Hans": "用于专业照片处理工作流的 DxO PhotoLab 10 桌面构建",
+        "seen": "2026-11-11",
+        "zh-Hant": "用於專業相片處理工作流程的 DxO PhotoLab 10 桌面組建",
+        "ja": "プロフェッショナルな写真処理ワークフロー向けの DxO PhotoLab 10 デスクトップビルド",
+        "ko": "전문적인 사진 처리 워크플로를 위한 DxO PhotoLab 10 데스크톱 빌드",
+        "hook": {
+          "en": "DxO PhotoLab 10 desktop build for photo workflows",
+          "zh-Hans": "DxO PhotoLab 10 桌面构建版本",
+          "zh-Hant": "DxO PhotoLab 10 桌面組建版本",
+          "ja": "写真処理向けDxO PhotoLab 10デスクトップ版",
+          "ko": "사진 작업용 DxO PhotoLab 10 데스크톱 빌드"
         }
       }
     },
@@ -3930,6 +4110,21 @@
         }
       }
     },
+    "manjushree-iyer/soundpad-audio-suite": {
+      "69e59684776c": {
+        "src": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
+        "zh-Hans": "Soundpad：用于专业 DAW 工作流的高级音频处理",
+        "seen": "2026-11-11",
+        "zh-Hant": "Soundpad：用於專業 DAW 工作流程的進階音訊處理",
+        "ja": "Soundpad: プロフェッショナルな DAW ワークフロー向け高度なオーディオ処理",
+        "ko": "Soundpad: 전문 DAW 워크플로를 위한 고급 오디오 처리",
+        "hook": {
+          "en": "Soundpad audio processing tool for DAW workflows",
+          "ja": "DAW向けSoundpad音声処理スイート",
+          "ko": "DAW 워크플로용 Soundpad 오디오 처리 제품군"
+        }
+      }
+    },
     "marbleorbweb94/ninjatrader-bot": {
       "a365ba25e7cb": {
         "src": "Robust Ninjatrader Bot 2026, a complete standalone setup ready to run with all features pre-activated.",
@@ -4396,6 +4591,21 @@
         }
       }
     },
+    "rdeepak-wq121/quicken-deluxe-installer": {
+      "c9efc33e8453": {
+        "src": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
+        "zh-Hans": "启用了完整功能集的 Quicken Deluxe 桌面安装程序",
+        "seen": "2026-11-11",
+        "zh-Hant": "啟用了完整功能集的 Quicken Deluxe 桌面安裝程式",
+        "ja": "フル機能セットが有効化された Quicken Deluxe デスクトップインストーラー",
+        "ko": "전체 기능 세트가 활성화된 Quicken Deluxe 데스크톱 설치 프로그램",
+        "hook": {
+          "en": "Quicken Deluxe installer, listed with full features",
+          "ja": "Quicken Deluxe 全機能有効と記載の導入版",
+          "ko": "전체 기능 활성화된 Quicken Deluxe 설치기"
+        }
+      }
+    },
     "rivetpelicanstir/total-commander": {
       "97451f24dbb2": {
         "src": "Total Commander 10.5 - Full working installer with all plugins and settings included for seamless desktop experience.",
@@ -4580,6 +4790,21 @@
           "zh-Hant": "一個新詞，一個賺錢的 AI 網站",
           "ja": "新ワードごとに稼ぐ AI サイトを 1 つ",
           "ko": "새 키워드마다 돈 되는 AI 사이트 하나"
+        }
+      }
+    },
+    "shivsupratik/windows-optimizer": {
+      "e6debe86a732": {
+        "src": "Windows Optimizer: Advanced System Tweaks and Performance Enhancements",
+        "zh-Hans": "Windows Optimizer：高级系统微调与性能增强",
+        "seen": "2026-11-11",
+        "zh-Hant": "Windows Optimizer：進階系統微調與效能增強",
+        "ja": "Windows Optimizer: 高度なシステム調整とパフォーマンス向上",
+        "ko": "Windows Optimizer: 고급 시스템 트윅 및 성능 향상",
+        "hook": {
+          "en": "Tweak system settings to boost Windows performance",
+          "ja": "システム設定を調整しWindowsの性能を改善",
+          "ko": "시스템 설정을 조정해 Windows 성능 개선"
         }
       }
     },
@@ -4831,6 +5056,24 @@
           "zh-Hant": "開源的代理式資安營運平台",
           "ja": "オープンソースのエージェント型セキュリティ運用基盤",
           "ko": "오픈 소스 에이전틱 보안 운영 플랫폼"
+        }
+      }
+    },
+    "threerocks/article2media": {
+      "52a6b22543f9": {
+        "src": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+        "zh-Hans": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+        "seen": "2026-11-11",
+        "zh-Hant": "把一篇文章或一條影片（抖音、B 站、YouTube，先轉逐字稿）一鍵做成小紅書圖文、雜誌長圖、公眾號排版和 AI 配音口播短影片的開源 Claude Code / Codex 技能。21 套主題，自動驗收，零 npm 依賴。",
+        "ja": "1本の記事または1本の動画（抖音、B 站、YouTube、まず文字起こしに変換）をワンクリックで小红书画像テキスト、雑誌風縦長画像、公众号レイアウト、AI音声吹き替えトーク系ショート動画に仕上げるオープンソースの Claude Code / Codex スキル。21種類のテーマ、自動検収、npm依存ゼロ。",
+        "ko": "기사나 비디오(抖音, B 站, YouTube, 먼저 녹취록으로 변환) 한 편을 원클릭으로 小红书 이미지 텍스트, 잡지형 롱 이미지, 公众号 레이아웃 및 AI 음성 더빙 숏폼 영상으로 만들어 주는 오픈 소스 Claude Code / Codex 스킬. 21개 테마, 자동 검수, npm 의존성 제로。",
+        "en": "An open-source Claude Code / Codex Skill that turns an article or a video (抖音, B 站, YouTube, converted to transcript first) into 小红书 graphic posts, magazine long images, 公众号 layouts, and AI-voiced talking-head short videos with one click. 21 themes, automated acceptance, zero npm dependencies.",
+        "hook": {
+          "en": "Turn articles or videos into posts and clips",
+          "zh-Hans": "把文章或视频一键做成图文和短视频",
+          "zh-Hant": "把文章或影片一鍵做成圖文和短影音",
+          "ja": "記事や動画を図解投稿やショート動画に変換",
+          "ko": "글이나 영상을 카드뉴스와 숏폼 영상으로 변환"
         }
       }
     },

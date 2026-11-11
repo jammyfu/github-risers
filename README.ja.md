@@ -66,12 +66,12 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>2.4 日</sub> | 600 | 253.3 |
+| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 破甲と侵入テストプラグイン | 2026-11-09<br><sub>2.4 日</sub> | 600 | 253.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>エージェントで3Dと視覚効果を扱う | 2026-11-05<br><sub>5.7 日</sub> | 1,391 | 245.2 |
 | 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>文章からAI感を消して書き直す | 2026-11-09<br><sub>1.9 日</sub> | 364 | 192.2 |
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>AIに実機のiPhoneを操作させる | 2026-11-05<br><sub>6.0 日</sub> | 958 | 160.0 |
 | 5 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AIチームに仕事を振り分ける | 2026-11-07<br><sub>4.5 日</sub> | 641 | 140.9 |
-| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… | 2026-11-09<br><sub>1.8 日</sub> | 240 | 132.3 |
+| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャットの横でClaude Codeの動きを見る | 2026-11-09<br><sub>1.8 日</sub> | 240 | 132.3 |
 | 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>各種OSでmihomoクライアントを利用する | 2026-11-07<br><sub>3.9 日</sub> | 433 | 111.7 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>動画編集が大変？エージェントがアニメーションを自動化 | 2026-11-06<br><sub>4.7 日</sub> | 481 | 102.0 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>オープンソースAIでNext.js全スタック構築 | 2026-11-06<br><sub>4.8 日</sub> | 481 | 101.1 |
@@ -272,16 +272,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro: Complete Standalone Desktop Setup with Full Feature setup | 2026-11-06<br><sub>4.8 日</sub> | 1,129 | 237.8 |
-| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10: complete standalone config, ready to run, nothing held back | 2026-11-06<br><sub>4.7 日</sub> | 1,075 | 226.6 |
-| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 desktop build for professional photo processing workflows | 2026-11-06<br><sub>4.7 日</sub> | 1,063 | 224.1 |
+| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro スタンドアロンデスクトップ設定 | 2026-11-06<br><sub>4.8 日</sub> | 1,129 | 237.8 |
+| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 スタンドアロン完全設定 | 2026-11-06<br><sub>4.7 日</sub> | 1,075 | 226.6 |
+| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>写真処理向けDxO PhotoLab 10デスクトップ版 | 2026-11-06<br><sub>4.7 日</sub> | 1,063 | 224.1 |
 | 4 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>強化されたセキュリティでデスクトップに導入する | 2026-11-06<br><sub>4.7 日</sub> | 1,034 | 218.9 |
-| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad: Advanced Audio Processing for Professional DAW Workflows | 2026-11-06<br><sub>4.7 日</sub> | 1,034 | 218.9 |
+| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>DAW向けSoundpad音声処理スイート | 2026-11-06<br><sub>4.7 日</sub> | 1,034 | 218.9 |
 | 6 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>ドライバとツールを揃えてファームウェアを書き込む | 2026-11-06<br><sub>4.7 日</sub> | 1,034 | 218.9 |
-| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Windows Optimizer: Advanced System Tweaks and Performance Enhancements | 2026-11-06<br><sub>4.7 日</sub> | 1,033 | 218.9 |
+| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>システム設定を調整しWindowsの性能を改善 | 2026-11-06<br><sub>4.7 日</sub> | 1,033 | 218.9 |
 | 8 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>デスクトップで動く MetaTrader 5 ボット | 2026-11-06<br><sub>4.7 日</sub> | 1,036 | 218.8 |
 | 9 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot)<br>コミュニティの仲間と一緒に取引を管理する | 2026-11-06<br><sub>4.7 日</sub> | 1,035 | 218.8 |
-| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>Rufus: Advanced USB Formatting and Bootable Drive Creation Utility | 2026-11-06<br><sub>4.7 日</sub> | 1,034 | 218.8 |
+| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>起動用USBメモリの作成とドライブ初期化 | 2026-11-06<br><sub>4.7 日</sub> | 1,034 | 218.8 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -762,7 +762,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>動画や音楽が散らかる？セルフホスト型アプリで管理 | 2026-11-09<br><sub>1.6 日</sub> | 714 | 440.7 |
-| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. | 2026-11-10<br><sub>1.0 日</sub> | 241 | 241.0 |
+| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>秘密鍵に触れず60秒でSolanaノード状態を確認 | 2026-11-10<br><sub>1.0 日</sub> | 241 | 241.0 |
 | 3 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>動画をダウンロードせずにTwitchドロップを自動回収 | 2026-11-08<br><sub>3.4 日</sub> | 119 | 35.5 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse用KQL監視ライブラリ | 2026-11-06<br><sub>5.0 日</sub> | 149 | 29.7 |
 | 5 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Docker対応PlayフレームワークREST API | 2026-11-06<br><sub>5.0 日</sub> | 149 | 29.7 |
@@ -929,7 +929,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>純粋なGoでGPU描画のネイティブUIを作る | 2026-11-08<br><sub>3.1 日</sub> | 231 | 74.6 |
 | 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>ポリシーアイコンをお探し？Qure風のSVG集 | 2026-11-05<br><sub>6.3 日</sub> | 138 | 21.8 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>GitHubの活動を動く統計カードに | 2026-11-04<br><sub>6.7 日</sub> | 134 | 20.1 |
-| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 | 2026-11-06<br><sub>5.3 日</sub> | 104 | 19.6 |
+| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>1枚の画像から動く2Dアバターをその場で作成 | 2026-11-06<br><sub>5.3 日</sub> | 104 | 19.6 |
 
 <details>
 <summary>このランキングのスター推移</summary>

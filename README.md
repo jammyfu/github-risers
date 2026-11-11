@@ -66,12 +66,12 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 | 2026-11-09<br><sub>2.4 d</sub> | 600 | 253.3 |
+| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness jailbreak and pentest plugin | 2026-11-09<br><sub>2.4 d</sub> | 600 | 253.3 |
 | 2 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>Let agents work with 3D and visual effects | 2026-11-05<br><sub>5.7 d</sub> | 1,391 | 245.2 |
 | 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>Remove AI tells and rewrite text clearly | 2026-11-09<br><sub>1.9 d</sub> | 364 | 192.2 |
 | 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br>Let AI operate your real iPhone | 2026-11-05<br><sub>6.0 d</sub> | 958 | 160.0 |
 | 5 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>Delegate work across your AI team | 2026-11-07<br><sub>4.5 d</sub> | 641 | 140.9 |
-| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… | 2026-11-09<br><sub>1.8 d</sub> | 240 | 132.3 |
+| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>Watch what Claude Code is doing live beside your chat | 2026-11-09<br><sub>1.8 d</sub> | 240 | 132.3 |
 | 7 | [21stware/bowel](https://github.com/21stware/bowel)<br>Run mihomo on macOS, Windows, Linux, and Android | 2026-11-07<br><sub>3.9 d</sub> | 433 | 111.7 |
 | 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br>Struggling with video edits? Let agents handle animations | 2026-11-06<br><sub>4.7 d</sub> | 481 | 102.0 |
 | 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open)<br>Need a full-stack Next.js app? Let AI build and host it | 2026-11-06<br><sub>4.8 d</sub> | 481 | 101.1 |
@@ -272,16 +272,16 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro: Complete Standalone Desktop Setup with Full Feature setup | 2026-11-06<br><sub>4.8 d</sub> | 1,129 | 237.8 |
-| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10: complete standalone config, ready to run, nothing held back | 2026-11-06<br><sub>4.7 d</sub> | 1,075 | 226.6 |
-| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 desktop build for professional photo processing workflows | 2026-11-06<br><sub>4.7 d</sub> | 1,063 | 224.1 |
+| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro standalone desktop complete setup | 2026-11-06<br><sub>4.8 d</sub> | 1,129 | 237.8 |
+| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 complete standalone configuration | 2026-11-06<br><sub>4.7 d</sub> | 1,075 | 226.6 |
+| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 desktop build for photo workflows | 2026-11-06<br><sub>4.7 d</sub> | 1,063 | 224.1 |
 | 4 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>Install desktop apps safely with enhanced security | 2026-11-06<br><sub>4.7 d</sub> | 1,034 | 218.9 |
-| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad: Advanced Audio Processing for Professional DAW Workflows | 2026-11-06<br><sub>4.7 d</sub> | 1,034 | 218.9 |
+| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad audio processing tool for DAW workflows | 2026-11-06<br><sub>4.7 d</sub> | 1,034 | 218.9 |
 | 6 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>Flash device firmware with bundled drivers and tools | 2026-11-06<br><sub>4.7 d</sub> | 1,034 | 218.9 |
-| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Windows Optimizer: Advanced System Tweaks and Performance Enhancements | 2026-11-06<br><sub>4.7 d</sub> | 1,033 | 218.9 |
+| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Tweak system settings to boost Windows performance | 2026-11-06<br><sub>4.7 d</sub> | 1,033 | 218.9 |
 | 8 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Run a full-featured MetaTrader 5 bot on your desktop | 2026-11-06<br><sub>4.7 d</sub> | 1,036 | 218.8 |
 | 9 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot)<br>Manage trades with a friendly community companion | 2026-11-06<br><sub>4.7 d</sub> | 1,035 | 218.8 |
-| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>Rufus: Advanced USB Formatting and Bootable Drive Creation Utility | 2026-11-06<br><sub>4.7 d</sub> | 1,034 | 218.8 |
+| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>Create bootable drives and format USB storage | 2026-11-06<br><sub>4.7 d</sub> | 1,034 | 218.8 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -762,7 +762,7 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>Too many apps? Keep shows and music in one self-hosted app | 2026-11-09<br><sub>1.6 d</sub> | 714 | 440.7 |
-| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. | 2026-11-10<br><sub>1.0 d</sub> | 241 | 241.0 |
+| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Check Solana validator health in 60 seconds safely | 2026-11-10<br><sub>1.0 d</sub> | 241 | 241.0 |
 | 3 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Claim Twitch drops in the background with no video download | 2026-11-08<br><sub>3.4 d</sub> | 119 | 35.5 |
 | 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse and KQL observability library | 2026-11-06<br><sub>5.0 d</sub> | 149 | 29.7 |
 | 5 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Play Framework REST API with Docker deployment | 2026-11-06<br><sub>5.0 d</sub> | 149 | 29.7 |
@@ -929,7 +929,7 @@ No new repo met the criteria in this run.
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>Build native Go UIs drawn on the GPU in pure Go | 2026-11-08<br><sub>3.1 d</sub> | 231 | 74.6 |
 | 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>Can't find clean policy icons? Use this Qure SVG set | 2026-11-05<br><sub>6.3 d</sub> | 138 | 21.8 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>Show your GitHub work in animated stats cards | 2026-11-04<br><sub>6.7 d</sub> | 134 | 20.1 |
-| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 | 2026-11-06<br><sub>5.3 d</sub> | 104 | 19.6 |
+| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>Turn a single picture into a movable 2D avatar | 2026-11-06<br><sub>5.3 d</sub> | 104 | 19.6 |
 
 <details>
 <summary>Star history charts for this board</summary>
