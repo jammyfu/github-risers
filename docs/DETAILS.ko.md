@@ -117,57 +117,58 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
-| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 승인된 침투 테스트 플러그인 | 富江破甲（破甲）: DeepSeek Harness의 破甲 플러그인. 활성화 문구는 富江이며, 무엇이든 쉬운 일상 언어로 바로 물어볼 수 있다. 스킬 라이브러리의 skill 다운로드 및 호출, 취약점 지식 베이스의 poc 활용, 취약점 보고서 업데이트, 완전 자동화된 승인된 침투 테스트를 포함한다. 현재 버전: 0.20.12, 면책 조항 포함. 플러그인 이미지는 맨 아래 참조 |
+| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) |  | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 에이전트로 3D와 시각 효과 다루기 | 에이전트용 헤드리스 3D 및 VFX 엔진. 연구 프리뷰. |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
-| [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) | AI로 Lua 스크립트 작성을 자동화 | Roblox Studio용 Model Context Protocol (MCP) 서버. AI 어시스턴트(Claude, Cursor, Cline)를 연결해 객체 트리를 읽고, Lua 스크립트 작성을 자동화하며, play 실행… |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | AI로 실제 iPhone 조작하기 | AI 에이전트가 실제 iPhone을 조작하게 한다. 로컬 MCP 서버와 에이전트, 탈옥 불필요, 추가 하드웨어 불필요. |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AI 팀에 작업 나눠 맡기기 | 사람이 이끄는 AI 팀을 위한 스킬: 작업 위임, 근거 검증, 단계별 명확한 설명, 실제 사례에서 학습. 한 사람이 AI 팀을 총괄：작업 배분, 근거 확인, 명확한 설명, 경험 재활용。 |
+| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 다양한 OS에서 mihomo 클라이언트 실행하기 | Bowel은 macOS, Windows, Linux 및 Android용 mihomo 클라이언트입니다. |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 영상 편집이 번거로울 때 에이전트로 애니메이션 자동화 | Eyeline 텔레프롬프터와 편집 에이전트의 만남: JSON 기반 애니메이션 및 모션 그래픽 워크플로 |
 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | Next.js 풀스택 앱을 구축하는 오픈 소스 AI | 호스팅 및 인증을 지원하는 풀스택 Next.js 앱을 위한 오픈 소스 AI 앱 빌더 |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 일회용 Windows 환경에서 앱 테스트하기 | 앱 테스트를 위한 새 일회용 Windows 머신: Windows Sandbox를 자동화하는 MCP 서버 및 CLI |
 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 한 문장으로 설명한 게임을 플레이 | 작은 게임을 한 문장으로 설명하고, DeepSeek Harness 사이드바에서 플레이하며, AI 아트로 교체한 뒤 클릭 한 번으로 GitHub Pages 또는 Cloudflare에 게시한다. |
+| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) |  | Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, C… |
 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | API 키 없이 Claude를 잇는 MCP 서버 | Claude, ChatGPT 및 기타 MCP 클라이언트를 위한 MCP 서버 역할을 하는 NVIDIA Auto Ontology의 시맨틱 계층 및 개인 지식 베이스. LLM API 키가 필요하지 않습니다. |
-| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 코딩 에ージェント에게 요청을 나누어 전달하기 | 코딩 에이전트를 위한 비서실장: herdr 상에서 git worktrees 내 병렬 worker를 실행하는 프로젝트별 관리자 에이전트로 요청을 라우팅합니다. |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 튀르키예어 글에서 AI 흔적 지우기 | 튀르키예어 텍스트의 인공지능 흔적 (AI 저품질 콘텐츠, 번역투, 번역 티가 나는 문장 구조와 TDK 언어 규범에 어긋나는 오류)을 제거하는 Agent Skill 및 Humanizer 패키지. |
 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 오래된 안드로이드 폰을 로컬 데스크 패널로 쓰기 | 오래된 Android 휴대폰을 Windows, Linux 및 macOS용 로컬 데스크 패널로 변환하세요. 55개 위젯, Smart Stack, AI 할당량 및 세션, 미디어 컨트롤, USB 또는 페어링… |
+| [bookleme/bookleme](https://github.com/bookleme/bookleme) |  | 读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验 |
+| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 코딩 에ージェント에게 요청을 나누어 전달하기 | 코딩 에이전트를 위한 비서실장: herdr 상에서 git worktrees 내 병렬 worker를 실행하는 프로젝트별 관리자 에이전트로 요청을 라우팅합니다. |
+| [threerocks/article2media](https://github.com/threerocks/article2media) |  | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | AI 동료의 3D 사원증 다운로드 | 비인간 직원｜AI 동료 아홉 명의 3D 사원증 수령처. 중국어·영어 지원, 투명 PNG 다운로드. WeChat 공식 계정: 风花AI实验室. |
-| [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | AI가 오래 기억하게 하는 도구 비교하기 | 최고의 에이전트 메모리 MCP 서버 순위 및 비교: Claude Code, Codex, Cursor 및 모든 MCP 클라이언트를 위한 장기 기억. Glen, Mem0, Supermemory, Zep, Hindsight… |
-| [nengong/download-anything](https://github.com/nengong/download-anything) | 터미널이나 에이전트로 영상과 문서를 다운로드하기 | AI 에이전트 및 터미널을 위한 올인원 다운로드 및 아카이빙 도구 / 모든 것을 다운로드하는 올인원 CLI &amp; 스킬: 동영상, 문서, 클라우드 드라이브, 음악, 논문 &amp; 도서 |
-| [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | 컴퓨터 없이 iPhone에서 AI 실행하기 | 완전한 네이티브 SwiftUI 인터페이스로 iPhone과 iPad에서 DeepSeek Harness 실행. 컴퓨터 불필요, 서버 불필요. iPhone과 iPad에서 DeepSeek Harness를 기기 자체에서 실행하며, 인터페이스는 완전한 네이티브。 |
-| [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | AI는 탐색으로 웹사이트를 재현할 수 있을까 | AI 에이전트는 브라우저 탐색을 통해 웹사이트를 재구축할 수 있을까? |
-| [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot) | 데스크톱에서 Instagram 좋아요를 자동화하기 | 데스크톱용 고급 자동화 기능을 갖춘 커뮤니티 기반 Instagram 좋아요 봇 |
+| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) |  | Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude… |
+| [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) |  | daemon-pro: Complete Standalone Desktop Setup with Full Feature setup |
+| [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) |  | dxo-photolab-10: complete standalone config, ready to run, nothing held back |
+| [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 desktop build for professional photo processing workflows |
 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 강화된 보안 기능으로 데스크톱 앱을 설치하기 | 향상된 보안 기능을 갖춘 전문 데스크톱 설치 프로그램 |
+| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) |  | Soundpad: Advanced Audio Processing for Professional DAW Workflows |
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 드라이버와 도구로 기기 펌웨어를 직접 플래시하기 | SP-Flash-Tool: 드라이버 및 유틸리티가 포함된 독립형 펌웨어 플래싱 제품군 |
+| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) |  | Windows Optimizer: Advanced System Tweaks and Performance Enhancements |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 데스크톱에서 쓰는 MetaTrader 5 봇 | 데스크톱에서 바로 사용할 수 있는 모든 기능을 갖춘 커뮤니티 기반 MetaTrader 5 봇 |
+| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 친절한 커뮤니티 동료와 함께 거래를 관리하기 | Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자 |
+| [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) |  | Rufus: Advanced USB Formatting and Bootable Drive Creation Utility |
 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor 설치 프로그램 | rx-11-audio-editor 설정: 전문 오디오 편집을 위한 완전한 독립 실행형 설치 프로그램 및 dotfiles |
-| [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) | Adobe InDesign 에셋 배포 설치본 | 안전한 디지털 자산 배포를 위한 향상된 보안 프로토콜을 갖춘 Adobe InDesign 설치 프로그램 |
-| [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop) | 전체 기능 활성화 Samsung 펌웨어 데스크톱 툴 | 모든 기능 세트가 활성화된 Samsung 펌웨어 작업을 위한 독립 실행형 데스크톱 도구 |
 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | 활성화된 Robux-Generator 데스크톱 설치본 | Robux-Generator: 전체 설치 프로그램, 모든 기능 활성화됨, 데스크톱 준비 완료 |
+| [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) |  | Quicken Deluxe Desktop Installer with Full Feature Set Enabled |
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 간단한 워크플로로 Android 화면을 미러링·제어 | Android 화면 미러링 및 제어 워크플로, 간소화됨 |
-| [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | passfab-unlocker 비밀번호 복구 도구 | passfab-unlocker: 독립 실행형 오프라인 비밀번호 복구 솔루션 |
-| [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 활성화된 데스크톱 트레이너 빌드 | Payday 3 Trainer 도구 - 완전히 활성화된 데스크톱 빌드, 즉시 플레이 가능 |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 데스크톱 설치 프로그램 | Power Director: 완전한 설치 프로그램이 포함된 독립 실행형 데스크톱 비디오 편집 제품군 |
+| [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 활성화된 데스크톱 트레이너 빌드 | Payday 3 Trainer 도구 - 완전히 활성화된 데스크톱 빌드, 즉시 플레이 가능 |
 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced 데스크톱 유틸리티 | Ozone 12 Advanced: 향상된 구성을 갖춘 전문 데스크톱 유틸리티 |
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | MusicMakerUnlimited 데스크톱 음악 제작 설치 프로그램 | MusicMakerUnlimited: 바로 실행 가능한 모든 기능을 갖춘 데스크톱 음악 제작 설치 프로그램 |
-| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 친절한 커뮤니티 동료와 함께 거래를 관리하기 | Ninjatrader Bot 2026: 강력한 기능이 가득한 친근하고 커뮤니티 중심의 트레이딩 동반자 |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 데스크톱에서 모든 기능으로 오디오를 편집하기 | Melodyne-5: 전체 기능 세트를 갖춘 전문 오디오 편집 데스크톱 제품군 |
 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 데스크톱에서 바로 실행하는 유틸리티 설정 쓰기 | Kontakt 8 데스크톱 유틸리티 설정: 주관이 반영된 dotfiles, 바로 실행 가능 |
-| [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | 완전한 독립 구성으로 고급 시스템을 설정하기 | GrayKet: 완전한 독립 실행형 고급 시스템 구성 설정 |
-| [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) | 데스크톱에서 영상 편집과 특수효과를 모두 다루기 | HitFilm: 완전한 기능을 갖춘 데스크톱 비디오 편집 및 VFX 제품군 |
-| [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 데스크톱 성능 강화 설치 프로그램 | 데스크톱용 최적화된 시스템 성능 향상 기능을 갖춘 ExitLag 설치 프로그램 |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 공개 페이지 인물 검색을 보고서 하나로 | 무료 인물 검색 데스크톱 앱: 3,100+ 공개 페이지에서 닉네임, 이메일, 전화번호 또는 사이트를 조회하고 읽기 쉬운 보고서 하나를 받는다. |
-| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |
 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) | 알림이 부자연스러울 때, 스프링 물리로 제자리 변형 | 실제 스프링 물리 효과를 적용한 토스트. 제자리에서 변형되는 하나의 토스트. 의존성 없음. React, Svelte, Vue 및 순수 DOM. |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 파일을 암호화해 저장하고 공유 | Stellar 결제와 온체인 파일 공증을 지원하는 비수탁형 암호화 파일 저장 &amp; 공유 플랫폼 |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 깔끔한 UI의 Play 및 Postgres 스타터 | 깔끔한 UI를 갖춘 Play + Postgres 스타터 템플릿 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
+| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) |  | Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 백그라운드에서 Twitch 드롭을 자동 파밍합니다. 비디오 다운로드 없이 보상 수령, 채널 전환, 시간 지정 드롭 채굴을 지원합니다. Windows, mac…용 가벼운 AFK 마이너 |
-| [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | Claude Code를 Gemini 모델에 연결 | 프로덕션 호환성 게이트웨이 브리지 &amp; 관측 가능성 플랫폼. Claude Code CLI와 Google Antigravity &amp; Gemini 추론 모델을 연결하며, 연결에 사용하는 것은 Anthr… |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric KQL 관측성 및 이상 징후 라이브러리 | grizl-fabric-observability: Fabric Eventhouse/KQL 관찰 가능성 및 이상 신호 라이브러리 |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | Docker 기반 Play 프레임워크 REST API | Docker 기반 배포 및 activator를 갖춘 Play 프레임워크 기반 REST API |
 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 순수 Go로 GPU 기반 네이티브 UI 만들기 | 🍭 Lobe MyGo - 네이티브 Go 앱용 UI 키트: 순수 Go로 GPU에서 그리는 MyGo용 Lobe UI 디자인 언어 |
 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) | 정책 아이콘이 고민일 때, Qure SVG 세트 | Qure 스타일의 순수 SVG 벡터 정책 그룹 아이콘 라이브러리 / Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X용 Qure 스타일 SVG 정책 아이콘 세트 |
 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | GitHub 활동을 움직이는 통계 카드로 | GitHub 프로필 README용 애니메이션 SVG 통계 카드로, 비공개 작업과 조직 내 작업도 집계한다. GitHub Action으로 실행되며 서버가 필요 없다. |
+| [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) |  | 从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 |
 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | 자동 Upsert 지원 OneLake 파이프라인 | 자동화된 Upsert 병합 및 Python 보고 기능을 갖춘 이벤트 기반 OneLake 파이프라인 |

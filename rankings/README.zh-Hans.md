@@ -6,6 +6,7 @@
 
 | 日期 | 时段 | 获取时间（UTC） | 新仓库第 1 名（7 天） | 本周第 1 名 | 本月第 1 名 | 今年第 1 名 | 快照 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-11 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-11T14:46:41Z | FJNB5/fujiang-pojia (253/天) | morluto/rea (3,327/天) | morluto/rea (11,093/天) | deepseek-ai/deepseek-harness (3,094/天) | [2026-11-11/pt-0000](2026-11-11/pt-0000/rankings.zh-Hans.md) · [json](2026-11-11/pt-0000/stats.json) |
 | 2026-11-10 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-10T15:16:55Z | FJNB5/fujiang-pojia (332/天) | morluto/rea (3,496/天) | morluto/rea (12,322/天) | deepseek-ai/deepseek-harness (3,120/天) | [2026-11-10/pt-0000](2026-11-10/pt-0000/rankings.zh-Hans.md) · [json](2026-11-10/pt-0000/stats.json) |
 | 2026-11-09 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-09T16:55:53Z | KKKKhazix/agent-autoloop (669/天) | morluto/rea (3,634/天) | morluto/rea (13,045/天) | deepseek-ai/deepseek-harness (3,145/天) | [2026-11-09/pt-0000](2026-11-09/pt-0000/rankings.zh-Hans.md) · [json](2026-11-09/pt-0000/stats.json) |
 | 2026-11-08 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-08T13:56:04Z | KKKKhazix/agent-autoloop (773/天) | morluto/rea (3,756/天) | morluto/rea (13,710/天) | deepseek-ai/deepseek-harness (3,172/天) | [2026-11-08/pt-0000](2026-11-08/pt-0000/rankings.zh-Hans.md) · [json](2026-11-08/pt-0000/stats.json) |

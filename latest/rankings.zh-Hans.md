@@ -1,6 +1,6 @@
-# 榜单快照：洛杉矶时间 00:00，2026-11-10
+# 榜单快照：洛杉矶时间 00:00，2026-11-11
 
-时段 `pt-0000`。数据于 2026-11-10T15:16:55Z 从 GitHub API 获取（统计窗口截止：2026-11-10 UTC）。前 20 名。
+时段 `pt-0000`。数据于 2026-11-11T14:46:41Z 从 GitHub API 获取（统计窗口截止：2026-11-11 UTC）。前 20 名。
 
 ## 人工智能
 
@@ -8,126 +8,126 @@
 
 | # | 仓库 | 创建时间（UTC） | 星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | 2026-11-09 | 462 | 332.5 |
-| 2 | [voyager-so/vork](https://github.com/voyager-so/vork) | 2026-11-05 | 1,346 | 286.7 |
-| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 2026-11-09 | 262 | 262.0 |
-| 4 | [Nanoutrolley/roblox-studio-mcp](https://github.com/Nanoutrolley/roblox-studio-mcp) | 2026-11-09 | 283 | 224.1 |
-| 5 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 2026-11-05 | 889 | 177.5 |
-| 6 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 2026-11-07 | 528 | 147.9 |
-| 7 | [21stware/bowel](https://github.com/21stware/bowel) | 2026-11-07 | 397 | 137.1 |
-| 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 2026-11-06 | 481 | 128.7 |
-| 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | 2026-11-06 | 481 | 127.2 |
-| 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 2026-11-06 | 398 | 103.6 |
-| 11 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 2026-11-05 | 463 | 87.5 |
-| 12 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | 2026-11-06 | 281 | 68.0 |
-| 13 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 2026-11-08 | 113 | 64.9 |
-| 14 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 2026-11-05 | 296 | 61.7 |
-| 15 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 2026-11-07 | 149 | 50.7 |
-| 16 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 2026-11-06 | 174 | 44.2 |
-| 17 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp) | 2026-11-05 | 238 | 42.7 |
-| 18 | [nengong/download-anything](https://github.com/nengong/download-anything) | 2026-11-04 | 214 | 34.5 |
-| 19 | [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket) | 2026-11-05 | 180 | 32.2 |
-| 20 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | 2026-11-04 | 190 | 31.2 |
+| 1 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | 2026-11-09 | 600 | 253.3 |
+| 2 | [voyager-so/vork](https://github.com/voyager-so/vork) | 2026-11-05 | 1,391 | 245.2 |
+| 3 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 2026-11-09 | 364 | 192.2 |
+| 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 2026-11-05 | 958 | 160.0 |
+| 5 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 2026-11-07 | 641 | 140.9 |
+| 6 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 2026-11-09 | 240 | 132.3 |
+| 7 | [21stware/bowel](https://github.com/21stware/bowel) | 2026-11-07 | 433 | 111.7 |
+| 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 2026-11-06 | 481 | 102.0 |
+| 9 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | 2026-11-06 | 481 | 101.1 |
+| 10 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 2026-11-06 | 409 | 84.8 |
+| 11 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | 2026-11-05 | 481 | 76.7 |
+| 12 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 2026-11-09 | 172 | 75.3 |
+| 13 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | 2026-11-06 | 355 | 69.5 |
+| 14 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 2026-11-05 | 304 | 52.6 |
+| 15 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 2026-11-07 | 174 | 44.4 |
+| 16 | [bookleme/bookleme](https://github.com/bookleme/bookleme) | 2026-11-09 | 108 | 43.7 |
+| 17 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 2026-11-08 | 116 | 42.7 |
+| 18 | [threerocks/article2media](https://github.com/threerocks/article2media) | 2026-11-08 | 127 | 38.8 |
+| 19 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 2026-11-06 | 181 | 36.8 |
+| 20 | [claudememory/claude-memory](https://github.com/claudememory/claude-memory) | 2026-11-08 | 124 | 36.5 |
 
 ### 本周增长最快（近 7 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | +24,471 | 3,495.9 | 449,031 |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +10,898 | 1,556.9 | 68,770 |
-| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +7,973 | 1,139.0 | 278,042 |
-| 4 | [stablyai/orca](https://github.com/stablyai/orca) | +7,073 | 1,010.4 | 121,145 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +5,050 | 721.4 | 188,189 |
-| 6 | [yetone/magpie](https://github.com/yetone/magpie) | +4,837 | 691.0 | 33,762 |
-| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +4,754 | 679.1 | 300,582 |
-| 8 | [anthropics/skills](https://github.com/anthropics/skills) | +4,726 | 675.1 | 191,923 |
-| 9 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +4,603 | 657.6 | 115,685 |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +4,065 | 580.7 | 82,099 |
-| 11 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +3,939 | 562.7 | 145,431 |
-| 12 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +3,771 | 538.7 | 112,841 |
-| 13 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +3,204 | 457.7 | 147,660 |
-| 14 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +2,646 | 378.0 | 110,833 |
-| 15 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +2,582 | 368.9 | 262,312 |
-| 16 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +2,229 | 318.4 | 112,825 |
-| 17 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +2,166 | 309.4 | 86,174 |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +2,041 | 291.6 | 153,299 |
-| 19 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +1,929 | 275.6 | 225,830 |
-| 20 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +1,921 | 274.4 | 114,884 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | +23,287 | 3,326.7 | 451,763 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +11,389 | 1,627.0 | 69,957 |
+| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +7,271 | 1,038.7 | 278,803 |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | +7,142 | 1,020.3 | 122,079 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | +5,590 | 798.6 | 192,881 |
+| 6 | [yetone/magpie](https://github.com/yetone/magpie) | +4,982 | 711.7 | 34,559 |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +4,853 | 693.3 | 188,869 |
+| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +4,507 | 643.9 | 301,106 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +4,031 | 575.9 | 82,626 |
+| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +3,948 | 564.0 | 145,972 |
+| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +3,883 | 554.7 | 116,079 |
+| 12 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +3,575 | 510.7 | 113,318 |
+| 13 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +3,183 | 454.7 | 148,072 |
+| 14 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +2,590 | 370.0 | 262,624 |
+| 15 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +2,553 | 364.7 | 111,054 |
+| 16 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +2,408 | 344.0 | 115,639 |
+| 17 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +2,215 | 316.4 | 113,094 |
+| 18 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +2,145 | 306.4 | 86,455 |
+| 19 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +2,060 | 294.3 | 153,612 |
+| 20 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +1,927 | 275.3 | 226,068 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | +369,658 | 12,321.9 | 449,031 |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +40,649 | 1,355.0 | 68,770 |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | +32,084 | 1,069.5 | 121,145 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +31,830 | 1,061.0 | 278,042 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +28,244 | 941.5 | 188,189 |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +25,059 | 835.3 | 300,582 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +24,899 | 830.0 | 33,762 |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +21,774 | 725.8 | 82,099 |
-| 9 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +20,417 | 680.6 | 145,431 |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +18,697 | 623.2 | 112,841 |
-| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +16,687 | 556.2 | 115,685 |
-| 12 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +15,640 | 521.3 | 110,833 |
-| 13 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +14,244 | 474.8 | 225,830 |
-| 14 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +13,475 | 449.2 | 147,660 |
-| 15 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +13,228 | 440.9 | 112,825 |
-| 16 | [anthropics/skills](https://github.com/anthropics/skills) | +11,609 | 387.0 | 191,923 |
-| 17 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +11,593 | 386.4 | 86,174 |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +11,488 | 382.9 | 153,299 |
-| 19 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +10,689 | 356.3 | 262,312 |
-| 20 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +10,532 | 351.1 | 114,884 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | +332,792 | 11,093.1 | 451,763 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +41,477 | 1,382.6 | 69,957 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | +32,372 | 1,079.1 | 122,079 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +32,016 | 1,067.2 | 278,803 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +28,197 | 939.9 | 188,869 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +24,878 | 829.3 | 301,106 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +24,635 | 821.2 | 34,559 |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +21,607 | 720.2 | 82,626 |
+| 9 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +20,750 | 691.7 | 145,972 |
+| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +18,796 | 626.5 | 113,318 |
+| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +16,651 | 555.0 | 116,079 |
+| 12 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +15,248 | 508.3 | 111,054 |
+| 13 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +14,292 | 476.4 | 226,068 |
+| 14 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +13,578 | 452.6 | 148,072 |
+| 15 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +12,912 | 430.4 | 113,094 |
+| 16 | [anthropics/skills](https://github.com/anthropics/skills) | +12,591 | 419.7 | 192,881 |
+| 17 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +11,497 | 383.2 | 86,455 |
+| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +11,342 | 378.1 | 153,612 |
+| 19 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +10,779 | 359.3 | 262,624 |
+| 20 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +10,657 | 355.2 | 115,639 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +277,684 | 3,120.0 † (÷89 天) | 278,042 |
-| 2 | [morluto/rea](https://github.com/morluto/rea) | +447,932 | 2,133.0 † (÷210 天) | 449,031 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +187,951 | 1,244.7 † (÷151 天) | 188,189 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +394,244 | 1,123.2 † (÷351 天) | 394,292 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +300,369 | 1,014.8 † (÷296 天) | 300,582 |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +262,157 | 718.2 | 262,312 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +33,457 | 697.0 † (÷48 天) | 33,762 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +145,186 | 657.0 † (÷221 天) | 145,431 |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +194,862 | 533.9 | 225,830 |
-| 10 | [stablyai/orca](https://github.com/stablyai/orca) | +120,745 | 507.3 † (÷238 天) | 121,145 |
-| 11 | [anthropics/skills](https://github.com/anthropics/skills) | +175,881 | 481.9 | 191,923 |
-| 12 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +68,408 | 471.8 † (÷145 天) | 68,770 |
-| 13 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +112,719 | 445.5 † (÷253 天) | 112,825 |
-| 14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +114,689 | 427.9 † (÷268 天) | 114,884 |
-| 15 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +147,505 | 427.6 † (÷345 天) | 147,660 |
-| 16 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +110,711 | 427.5 † (÷259 天) | 110,833 |
-| 17 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +112,678 | 426.8 † (÷264 天) | 112,841 |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +149,715 | 410.2 | 153,299 |
-| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +81,882 | 334.2 † (÷245 天) | 82,099 |
-| 20 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +86,069 | 318.8 † (÷270 天) | 86,174 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | +278,473 | 3,094.1 † (÷90 天) | 278,803 |
+| 2 | [morluto/rea](https://github.com/morluto/rea) | +450,874 | 2,136.8 † (÷211 天) | 451,763 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +188,593 | 1,240.7 † (÷152 天) | 188,869 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +394,293 | 1,120.2 † (÷352 天) | 394,333 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +300,938 | 1,013.3 † (÷297 天) | 301,106 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +262,519 | 719.2 | 262,624 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie) | +34,212 | 698.2 † (÷49 天) | 34,559 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +145,797 | 656.7 † (÷222 天) | 145,972 |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +194,987 | 534.2 | 226,068 |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | +121,752 | 509.4 † (÷239 天) | 122,079 |
+| 11 | [anthropics/skills](https://github.com/anthropics/skills) | +176,901 | 484.7 | 192,881 |
+| 12 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +69,647 | 477.0 † (÷146 天) | 69,957 |
+| 13 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +113,020 | 445.0 † (÷254 天) | 113,094 |
+| 14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +115,407 | 429.0 † (÷269 天) | 115,639 |
+| 15 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | +147,938 | 427.6 † (÷346 天) | 148,072 |
+| 16 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +113,132 | 426.9 † (÷265 天) | 113,318 |
+| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +110,974 | 426.8 † (÷260 天) | 111,054 |
+| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +149,852 | 410.6 | 153,612 |
+| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +82,456 | 335.2 † (÷246 天) | 82,626 |
+| 20 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | +86,363 | 318.7 † (÷271 天) | 86,455 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 449,031 |
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 394,292 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 300,582 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 278,042 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 262,312 |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 225,830 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills) | 191,923 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 188,189 |
-| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 153,299 |
-| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 147,660 |
-| 11 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 145,431 |
-| 12 | [stablyai/orca](https://github.com/stablyai/orca) | 121,145 |
-| 13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 115,685 |
-| 14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 114,884 |
-| 15 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 112,841 |
-| 16 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 112,825 |
-| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 110,833 |
-| 18 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 86,174 |
-| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 82,099 |
-| 20 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 68,770 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 451,763 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 394,333 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 301,106 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 278,803 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 262,624 |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 226,068 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | 192,881 |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 188,869 |
+| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 153,612 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 148,072 |
+| 11 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 145,972 |
+| 12 | [stablyai/orca](https://github.com/stablyai/orca) | 122,079 |
+| 13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 116,079 |
+| 14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115,639 |
+| 15 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 113,318 |
+| 16 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 113,094 |
+| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 111,054 |
+| 18 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 86,455 |
+| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 82,626 |
+| 20 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 69,957 |
 
 ## 开发者工具
 
@@ -135,78 +135,78 @@
 
 | # | 仓库 | 创建时间（UTC） | 星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot) | 2026-11-06 | 482 | 128.3 |
-| 2 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 2026-11-06 | 480 | 128.2 |
-| 3 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 2026-11-06 | 480 | 128.2 |
-| 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 2026-11-06 | 481 | 128.1 |
-| 5 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | 2026-11-06 | 480 | 128.1 |
-| 6 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) | 2026-11-06 | 480 | 128.1 |
-| 7 | [johnampire818-dev/samfw-tool-desktop](https://github.com/johnampire818-dev/samfw-tool-desktop) | 2026-11-06 | 480 | 128.1 |
-| 8 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | 2026-11-06 | 480 | 128.1 |
-| 9 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 2026-11-06 | 480 | 128.1 |
-| 10 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | 2026-11-06 | 480 | 128.0 |
-| 11 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | 2026-11-06 | 480 | 128.0 |
-| 12 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | 2026-11-06 | 480 | 128.0 |
-| 13 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | 2026-11-06 | 480 | 128.0 |
-| 14 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | 2026-11-06 | 480 | 127.9 |
-| 15 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 2026-11-06 | 480 | 127.9 |
-| 16 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 2026-11-06 | 480 | 127.8 |
-| 17 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 2026-11-06 | 480 | 127.8 |
-| 18 | [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | 2026-11-06 | 480 | 127.7 |
-| 19 | [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) | 2026-11-06 | 480 | 127.7 |
-| 20 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | 2026-11-06 | 480 | 127.6 |
+| 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | 2026-11-06 | 1,129 | 237.8 |
+| 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | 2026-11-06 | 1,075 | 226.6 |
+| 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | 2026-11-06 | 1,063 | 224.1 |
+| 4 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 2026-11-06 | 1,034 | 218.9 |
+| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) | 2026-11-06 | 1,034 | 218.9 |
+| 6 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 2026-11-06 | 1,034 | 218.9 |
+| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | 2026-11-06 | 1,033 | 218.9 |
+| 8 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 2026-11-06 | 1,036 | 218.8 |
+| 9 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 2026-11-06 | 1,035 | 218.8 |
+| 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) | 2026-11-06 | 1,034 | 218.8 |
+| 11 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | 2026-11-06 | 1,034 | 218.8 |
+| 12 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | 2026-11-06 | 1,034 | 218.8 |
+| 13 | [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) | 2026-11-06 | 1,034 | 218.8 |
+| 14 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 2026-11-06 | 1,034 | 218.8 |
+| 15 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | 2026-11-06 | 1,034 | 218.7 |
+| 16 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | 2026-11-06 | 1,034 | 218.6 |
+| 17 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | 2026-11-06 | 1,034 | 218.6 |
+| 18 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | 2026-11-06 | 1,034 | 218.5 |
+| 19 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 2026-11-06 | 1,034 | 218.4 |
+| 20 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 2026-11-06 | 1,034 | 218.3 |
 
 ### 本周增长最快（近 7 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +2,105 | 300.7 | 94,658 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +407 | 58.1 | 91,847 |
-| 3 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +332 | 47.4 | 69,958 |
-| 4 | [jdx/mise](https://github.com/jdx/mise) | +312 | 44.6 | 36,003 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +262 | 37.4 | 96,743 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +179 | 25.6 | 46,933 |
-| 7 | [cli/cli](https://github.com/cli/cli) | +108 | 15.4 | 46,950 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +47 | 6.7 | 26,082 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +2,080 | 297.1 | 94,681 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +359 | 51.3 | 91,876 |
+| 3 | [jdx/mise](https://github.com/jdx/mise) | +315 | 45.0 | 36,040 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +281 | 40.1 | 69,918 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +201 | 28.7 | 96,679 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +133 | 19.0 | 46,891 |
+| 7 | [cli/cli](https://github.com/cli/cli) | +116 | 16.6 | 46,960 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +52 | 7.4 | 26,090 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +3,364 | 112.1 | 94,658 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +1,414 | 47.1 | 91,847 |
-| 3 | [jdx/mise](https://github.com/jdx/mise) | +1,188 | 39.6 | 36,003 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +1,113 | 37.1 | 69,958 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +810 | 27.0 | 96,743 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +507 | 16.9 | 46,933 |
-| 7 | [cli/cli](https://github.com/cli/cli) | +428 | 14.3 | 46,950 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +222 | 7.4 | 26,082 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +3,341 | 111.4 | 94,681 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +1,372 | 45.7 | 91,876 |
+| 3 | [jdx/mise](https://github.com/jdx/mise) | +1,198 | 39.9 | 36,040 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +1,022 | 34.1 | 69,918 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +742 | 24.7 | 96,679 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +445 | 14.8 | 46,891 |
+| 7 | [cli/cli](https://github.com/cli/cli) | +443 | 14.8 | 46,960 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +222 | 7.4 | 26,090 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +27,293 | 74.8 | 94,658 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +21,003 | 57.5 | 91,847 |
-| 3 | [oven-sh/bun](https://github.com/oven-sh/bun) | +16,630 | 45.6 | 96,743 |
-| 4 | [jdx/mise](https://github.com/jdx/mise) | +15,199 | 41.6 | 36,003 |
-| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +13,486 | 36.9 | 69,958 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +6,647 | 18.2 | 46,933 |
-| 7 | [cli/cli](https://github.com/cli/cli) | +6,282 | 17.2 | 46,950 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +4,477 | 12.3 | 26,082 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +27,256 | 74.7 | 94,681 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | +20,895 | 57.2 | 91,876 |
+| 3 | [oven-sh/bun](https://github.com/oven-sh/bun) | +16,564 | 45.4 | 96,679 |
+| 4 | [jdx/mise](https://github.com/jdx/mise) | +15,218 | 41.7 | 36,040 |
+| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +13,425 | 36.8 | 69,918 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | +6,581 | 18.0 | 46,891 |
+| 7 | [cli/cli](https://github.com/cli/cli) | +6,289 | 17.2 | 46,960 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | +4,464 | 12.2 | 26,090 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96,743 |
-| 2 | [zed-industries/zed](https://github.com/zed-industries/zed) | 94,658 |
-| 3 | [astral-sh/uv](https://github.com/astral-sh/uv) | 91,847 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 69,958 |
-| 5 | [cli/cli](https://github.com/cli/cli) | 46,950 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | 46,933 |
-| 7 | [jdx/mise](https://github.com/jdx/mise) | 36,003 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome) | 26,082 |
+| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96,679 |
+| 2 | [zed-industries/zed](https://github.com/zed-industries/zed) | 94,681 |
+| 3 | [astral-sh/uv](https://github.com/astral-sh/uv) | 91,876 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 69,918 |
+| 5 | [cli/cli](https://github.com/cli/cli) | 46,960 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix) | 46,891 |
+| 7 | [jdx/mise](https://github.com/jdx/mise) | 36,040 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome) | 26,090 |
 
 ## 安全
 
@@ -219,53 +219,53 @@
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +275 | 39.3 | 39,200 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +204 | 29.1 | 32,751 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +177 | 25.3 | 17,587 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +147 | 21.0 | 33,997 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +117 | 16.7 | 11,487 |
-| 6 | [anchore/grype](https://github.com/anchore/grype) | +66 | 9.4 | 13,229 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +23 | 3.3 | 9,568 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | +6 | 0.9 | 9,003 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +277 | 39.6 | 39,236 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +226 | 32.3 | 32,794 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +173 | 24.7 | 17,605 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +151 | 21.6 | 34,020 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +113 | 16.1 | 11,493 |
+| 6 | [anchore/grype](https://github.com/anchore/grype) | +61 | 8.7 | 13,237 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +22 | 3.1 | 9,572 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | +8 | 1.1 | 9,005 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +895 | 29.8 | 39,200 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +890 | 29.7 | 32,751 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +650 | 21.7 | 17,587 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +450 | 15.0 | 33,997 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +339 | 11.3 | 11,487 |
-| 6 | [anchore/grype](https://github.com/anchore/grype) | +233 | 7.8 | 13,229 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +117 | 3.9 | 9,568 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | +42 | 1.4 | 9,003 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +915 | 30.5 | 39,236 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +909 | 30.3 | 32,794 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +645 | 21.5 | 17,605 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +463 | 15.4 | 34,020 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +344 | 11.5 | 11,493 |
+| 6 | [anchore/grype](https://github.com/anchore/grype) | +235 | 7.8 | 13,237 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +114 | 3.8 | 9,572 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | +42 | 1.4 | 9,005 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +10,289 | 28.2 | 39,200 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +7,726 | 21.2 | 32,751 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +4,489 | 12.3 | 17,587 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +3,611 | 9.9 | 33,997 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +3,578 | 9.8 | 11,487 |
-| 6 | [anchore/grype](https://github.com/anchore/grype) | +2,374 | 6.5 | 13,229 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +1,272 | 3.5 | 9,568 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | +558 | 1.5 | 9,003 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +10,318 | 28.3 | 39,236 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +7,768 | 21.3 | 32,794 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | +4,504 | 12.3 | 17,605 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | +3,627 | 9.9 | 34,020 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner) | +3,584 | 9.8 | 11,493 |
+| 6 | [anchore/grype](https://github.com/anchore/grype) | +2,370 | 6.5 | 13,237 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | +1,270 | 3.5 | 9,572 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | +557 | 1.5 | 9,005 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 39,200 |
-| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | 33,997 |
-| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 32,751 |
-| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | 17,587 |
-| 5 | [anchore/grype](https://github.com/anchore/grype) | 13,229 |
-| 6 | [google/osv-scanner](https://github.com/google/osv-scanner) | 11,487 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9,568 |
-| 8 | [securego/gosec](https://github.com/securego/gosec) | 9,003 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 39,236 |
+| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | 34,020 |
+| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 32,794 |
+| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | 17,605 |
+| 5 | [anchore/grype](https://github.com/anchore/grype) | 13,237 |
+| 6 | [google/osv-scanner](https://github.com/google/osv-scanner) | 11,493 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9,572 |
+| 8 | [securego/gosec](https://github.com/securego/gosec) | 9,005 |
 
 ## Web / 前端
 
@@ -273,11 +273,11 @@
 
 | # | 仓库 | 创建时间（UTC） | 星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 2026-11-05 | 738 | 136.3 |
-| 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 2026-11-07 | 213 | 76.7 |
-| 3 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) | 2026-11-05 | 397 | 74.3 |
-| 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 2026-11-05 | 164 | 29.1 |
-| 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) ⚠ | 2026-11-06 | 149 | 36.9 |
+| 1 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | 2026-11-05 | 765 | 119.7 |
+| 2 | [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) | 2026-11-05 | 535 | 84.6 |
+| 3 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 2026-11-07 | 304 | 81.0 |
+| 4 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 2026-11-05 | 164 | 24.8 |
+| 5 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) ⚠ | 2026-11-06 | 149 | 29.7 |
 
 ⚠ = 疑似破解 / 盗版 / 激活工具类仓库（按名称或描述规则识别，规则见 [docs/CATEGORIES.md](docs/CATEGORIES.md)）。这类仓库照常收录，但一律排在所有正常项目之后，也不会出现在各类榜首里。
 
@@ -285,53 +285,53 @@
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [facebook/react](https://github.com/facebook/react) | +681 | 97.3 | 252,476 |
-| 2 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +667 | 95.3 | 98,671 |
-| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +609 | 87.0 | 127,819 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +256 | 36.6 | 143,446 |
-| 5 | [withastro/astro](https://github.com/withastro/astro) | +202 | 28.9 | 63,865 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +189 | 27.0 | 88,688 |
-| 7 | [vuejs/core](https://github.com/vuejs/core) | +97 | 13.9 | 54,899 |
-| 8 | [tanstack/query](https://github.com/tanstack/query) | +42 | 6.0 | 50,551 |
+| 1 | [facebook/react](https://github.com/facebook/react) | +652 | 93.1 | 252,495 |
+| 2 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +639 | 91.3 | 127,903 |
+| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +596 | 85.1 | 98,602 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +262 | 37.4 | 143,472 |
+| 5 | [withastro/astro](https://github.com/withastro/astro) | +204 | 29.1 | 63,893 |
+| 6 | [vuejs/core](https://github.com/vuejs/core) | +144 | 20.6 | 54,958 |
+| 7 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +138 | 19.7 | 88,677 |
+| 8 | [tanstack/query](https://github.com/tanstack/query) | +48 | 6.9 | 50,563 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +2,757 | 91.9 | 127,819 |
-| 2 | [facebook/react](https://github.com/facebook/react) | +2,120 | 70.7 | 252,476 |
-| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +1,048 | 34.9 | 98,671 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +805 | 26.8 | 143,446 |
-| 5 | [withastro/astro](https://github.com/withastro/astro) | +805 | 26.8 | 63,865 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +577 | 19.2 | 88,688 |
-| 7 | [vuejs/core](https://github.com/vuejs/core) | +440 | 14.7 | 54,899 |
-| 8 | [tanstack/query](https://github.com/tanstack/query) | +210 | 7.0 | 50,551 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +2,785 | 92.8 | 127,903 |
+| 2 | [facebook/react](https://github.com/facebook/react) | +2,059 | 68.6 | 252,495 |
+| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +956 | 31.9 | 98,602 |
+| 4 | [withastro/astro](https://github.com/withastro/astro) | +817 | 27.2 | 63,893 |
+| 5 | [vercel/next.js](https://github.com/vercel/next.js) | +796 | 26.5 | 143,472 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +510 | 17.0 | 88,677 |
+| 7 | [vuejs/core](https://github.com/vuejs/core) | +468 | 15.6 | 54,958 |
+| 8 | [tanstack/query](https://github.com/tanstack/query) | +219 | 7.3 | 50,563 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +30,446 | 83.4 | 127,819 |
-| 2 | [facebook/react](https://github.com/facebook/react) | +15,631 | 42.8 | 252,476 |
-| 3 | [withastro/astro](https://github.com/withastro/astro) | +10,562 | 28.9 | 63,865 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +10,416 | 28.5 | 143,446 |
-| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +9,042 | 24.8 | 98,671 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +5,222 | 14.3 | 88,688 |
-| 7 | [tanstack/query](https://github.com/tanstack/query) | +3,785 | 10.4 | 50,551 |
-| 8 | [vuejs/core](https://github.com/vuejs/core) | +3,625 | 9.9 | 54,899 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +30,462 | 83.5 | 127,903 |
+| 2 | [facebook/react](https://github.com/facebook/react) | +15,603 | 42.7 | 252,495 |
+| 3 | [withastro/astro](https://github.com/withastro/astro) | +10,568 | 29.0 | 63,893 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js) | +10,418 | 28.5 | 143,472 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +8,958 | 24.5 | 98,602 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | +5,159 | 14.1 | 88,677 |
+| 7 | [tanstack/query](https://github.com/tanstack/query) | +3,782 | 10.4 | 50,563 |
+| 8 | [vuejs/core](https://github.com/vuejs/core) | +3,668 | 10.0 | 54,958 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [facebook/react](https://github.com/facebook/react) | 252,476 |
-| 2 | [vercel/next.js](https://github.com/vercel/next.js) | 143,446 |
-| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127,819 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 98,671 |
-| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,688 |
-| 6 | [withastro/astro](https://github.com/withastro/astro) | 63,865 |
-| 7 | [vuejs/core](https://github.com/vuejs/core) | 54,899 |
-| 8 | [tanstack/query](https://github.com/tanstack/query) | 50,551 |
+| 1 | [facebook/react](https://github.com/facebook/react) | 252,495 |
+| 2 | [vercel/next.js](https://github.com/vercel/next.js) | 143,472 |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127,903 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 98,602 |
+| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,677 |
+| 6 | [withastro/astro](https://github.com/withastro/astro) | 63,893 |
+| 7 | [vuejs/core](https://github.com/vuejs/core) | 54,958 |
+| 8 | [tanstack/query](https://github.com/tanstack/query) | 50,563 |
 
 ## 基础设施
 
@@ -339,11 +339,11 @@
 
 | # | 仓库 | 创建时间（UTC） | 星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 2026-11-09 | 374 | 374.0 |
-| 2 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 2026-11-08 | 104 | 43.8 |
-| 3 | [sksarvesh007/antiglaude](https://github.com/sksarvesh007/antiglaude) | 2026-11-03 | 162 | 23.8 |
-| 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) ⚠ | 2026-11-06 | 149 | 36.9 |
-| 5 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) ⚠ | 2026-11-06 | 149 | 36.9 |
+| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 2026-11-09 | 714 | 440.7 |
+| 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 2026-11-10 | 241 | 241.0 |
+| 3 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 2026-11-08 | 119 | 35.5 |
+| 4 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) ⚠ | 2026-11-06 | 149 | 29.7 |
+| 5 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) ⚠ | 2026-11-06 | 149 | 29.7 |
 
 ⚠ = 疑似破解 / 盗版 / 激活工具类仓库（按名称或描述规则识别，规则见 [docs/CATEGORIES.md](docs/CATEGORIES.md)）。这类仓库照常收录，但一律排在所有正常项目之后，也不会出现在各类榜首里。
 
@@ -351,53 +351,53 @@
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +722 | 103.1 | 67,610 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +389 | 55.6 | 128,973 |
-| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +310 | 44.3 | 78,948 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +193 | 27.6 | 77,813 |
-| 5 | [docker/compose](https://github.com/docker/compose) | +116 | 16.6 | 38,677 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +92 | 13.1 | 50,188 |
-| 7 | [traefik/traefik](https://github.com/traefik/traefik) | +80 | 11.4 | 65,507 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +27 | 3.9 | 25,857 |
+| 1 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +668 | 95.4 | 67,567 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +351 | 50.1 | 128,975 |
+| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +262 | 37.4 | 78,971 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +190 | 27.1 | 77,831 |
+| 5 | [docker/compose](https://github.com/docker/compose) | +144 | 20.6 | 38,742 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +100 | 14.3 | 50,205 |
+| 7 | [traefik/traefik](https://github.com/traefik/traefik) | +84 | 12.0 | 65,526 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +43 | 6.1 | 25,889 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +1,365 | 45.5 | 78,948 |
-| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +1,281 | 42.7 | 67,610 |
-| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +1,119 | 37.3 | 128,973 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +783 | 26.1 | 77,813 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik) | +452 | 15.1 | 65,507 |
-| 6 | [docker/compose](https://github.com/docker/compose) | +442 | 14.7 | 38,677 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +422 | 14.1 | 50,188 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +116 | 3.9 | 25,857 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +1,301 | 43.4 | 78,971 |
+| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +1,214 | 40.5 | 67,567 |
+| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +1,074 | 35.8 | 128,975 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +776 | 25.9 | 77,831 |
+| 5 | [docker/compose](https://github.com/docker/compose) | +474 | 15.8 | 38,742 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik) | +448 | 14.9 | 65,526 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +420 | 14.0 | 50,205 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +135 | 4.5 | 25,889 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +12,054 | 33.0 | 78,948 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +11,803 | 32.3 | 128,973 |
-| 3 | [traefik/traefik](https://github.com/traefik/traefik) | +8,648 | 23.7 | 65,507 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +7,930 | 21.7 | 77,813 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +7,106 | 19.5 | 67,610 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +3,788 | 10.4 | 50,188 |
-| 7 | [docker/compose](https://github.com/docker/compose) | +2,684 | 7.4 | 38,677 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +2,076 | 5.7 | 25,857 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | +12,057 | 33.0 | 78,971 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | +11,769 | 32.2 | 128,975 |
+| 3 | [traefik/traefik](https://github.com/traefik/traefik) | +8,644 | 23.7 | 65,526 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana) | +7,936 | 21.7 | 77,831 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +7,054 | 19.3 | 67,567 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +3,799 | 10.4 | 50,205 |
+| 7 | [docker/compose](https://github.com/docker/compose) | +2,718 | 7.4 | 38,742 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | +2,093 | 5.7 | 25,889 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128,973 |
-| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 78,948 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana) | 77,813 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67,610 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik) | 65,507 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 50,188 |
-| 7 | [docker/compose](https://github.com/docker/compose) | 38,677 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25,857 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128,975 |
+| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 78,971 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana) | 77,831 |
+| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67,567 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik) | 65,526 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 50,205 |
+| 7 | [docker/compose](https://github.com/docker/compose) | 38,742 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25,889 |
 
 ## 设计 / 创意
 
@@ -405,60 +405,61 @@
 
 | # | 仓库 | 创建时间（UTC） | 星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 2026-11-08 | 216 | 101.9 |
-| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) | 2026-11-05 | 136 | 25.4 |
-| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | 2026-11-04 | 121 | 21.2 |
+| 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 2026-11-08 | 231 | 74.6 |
+| 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) | 2026-11-05 | 138 | 21.8 |
+| 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | 2026-11-04 | 134 | 20.1 |
+| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) | 2026-11-06 | 104 | 19.6 |
 
 ### 本周增长最快（近 7 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +434 | 62.0 | 135,442 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +269 | 38.4 | 62,252 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +205 | 29.3 | 25,684 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +138 | 19.7 | 9,290 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +77 | 11.0 | 42,795 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +64 | 9.1 | 32,395 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +37 | 5.3 | 7,791 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +416 | 59.4 | 135,502 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +256 | 36.6 | 62,275 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +174 | 24.9 | 25,704 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +140 | 20.0 | 9,307 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +92 | 13.1 | 42,806 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +62 | 8.9 | 32,397 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +35 | 5.0 | 7,795 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | +0 | 0.0 | 43 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +2,026 | 67.5 | 135,442 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +1,496 | 49.9 | 62,252 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +791 | 26.4 | 25,684 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +634 | 21.1 | 9,290 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +301 | 10.0 | 42,795 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +225 | 7.5 | 32,395 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +171 | 5.7 | 7,791 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +2,030 | 67.7 | 135,502 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +1,487 | 49.6 | 62,275 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +790 | 26.3 | 25,704 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio) | +624 | 20.8 | 9,307 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +311 | 10.4 | 42,806 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +219 | 7.3 | 32,397 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +175 | 5.8 | 7,795 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | +0 | 0.0 | 43 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +27,022 | 74.0 | 135,442 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +21,581 | 59.1 | 62,252 |
-| 3 | [jgraph/drawio](https://github.com/jgraph/drawio) | +6,588 | 18.0 | 9,290 |
-| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +6,365 | 17.4 | 25,684 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +4,227 | 11.6 | 42,795 |
-| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +2,199 | 6.0 | 7,791 |
-| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +1,138 | 3.1 | 32,395 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | +27,001 | 74.0 | 135,502 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | +21,581 | 59.1 | 62,275 |
+| 3 | [jgraph/drawio](https://github.com/jgraph/drawio) | +6,593 | 18.1 | 9,307 |
+| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | +6,377 | 17.5 | 25,704 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | +4,237 | 11.6 | 42,806 |
+| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | +2,202 | 6.0 | 7,795 |
+| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | +1,142 | 3.1 | 32,397 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | +1 | 0.0 | 43 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 135,442 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,252 |
-| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,795 |
-| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | 32,395 |
-| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 25,684 |
-| 6 | [jgraph/drawio](https://github.com/jgraph/drawio) | 9,290 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | 7,791 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 135,502 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,275 |
+| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,806 |
+| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | 32,397 |
+| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 25,704 |
+| 6 | [jgraph/drawio](https://github.com/jgraph/drawio) | 9,307 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | 7,795 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios) | 43 |
 
 ## 数据
@@ -467,7 +468,7 @@
 
 | # | 仓库 | 创建时间（UTC） | 星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) ⚠ | 2026-11-06 | 149 | 36.8 |
+| 1 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) ⚠ | 2026-11-06 | 149 | 29.7 |
 
 ⚠ = 疑似破解 / 盗版 / 激活工具类仓库（按名称或描述规则识别，规则见 [docs/CATEGORIES.md](docs/CATEGORIES.md)）。这类仓库照常收录，但一律排在所有正常项目之后，也不会出现在各类榜首里。
 
@@ -475,53 +476,53 @@
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +225 | 32.1 | 42,957 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +136 | 19.4 | 50,857 |
-| 3 | [apache/superset](https://github.com/apache/superset) | +91 | 13.0 | 75,465 |
-| 4 | [apache/kafka](https://github.com/apache/kafka) | +90 | 12.9 | 34,200 |
-| 5 | [pola-rs/polars](https://github.com/pola-rs/polars) | +63 | 9.0 | 40,303 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +33 | 4.7 | 14,139 |
-| 7 | [apache/arrow](https://github.com/apache/arrow) | +14 | 2.0 | 17,282 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +7 | 1.0 | 13,463 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +212 | 30.3 | 42,991 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +148 | 21.1 | 50,880 |
+| 3 | [apache/superset](https://github.com/apache/superset) | +95 | 13.6 | 75,479 |
+| 4 | [apache/kafka](https://github.com/apache/kafka) | +94 | 13.4 | 34,205 |
+| 5 | [pola-rs/polars](https://github.com/pola-rs/polars) | +74 | 10.6 | 40,322 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +27 | 3.9 | 14,144 |
+| 7 | [apache/arrow](https://github.com/apache/arrow) | +19 | 2.7 | 17,294 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +9 | 1.3 | 13,464 |
 
 ### 本月增长最快（近 30 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +985 | 32.8 | 42,957 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +591 | 19.7 | 50,857 |
-| 3 | [apache/superset](https://github.com/apache/superset) | +460 | 15.3 | 75,465 |
-| 4 | [apache/kafka](https://github.com/apache/kafka) | +331 | 11.0 | 34,200 |
-| 5 | [pola-rs/polars](https://github.com/pola-rs/polars) | +300 | 10.0 | 40,303 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +169 | 5.6 | 14,139 |
-| 7 | [apache/arrow](https://github.com/apache/arrow) | +103 | 3.4 | 17,282 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +54 | 1.8 | 13,463 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +977 | 32.6 | 42,991 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +602 | 20.1 | 50,880 |
+| 3 | [apache/superset](https://github.com/apache/superset) | +465 | 15.5 | 75,479 |
+| 4 | [apache/kafka](https://github.com/apache/kafka) | +334 | 11.1 | 34,205 |
+| 5 | [pola-rs/polars](https://github.com/pola-rs/polars) | +308 | 10.3 | 40,322 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +166 | 5.5 | 14,144 |
+| 7 | [apache/arrow](https://github.com/apache/arrow) | +108 | 3.6 | 17,294 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +53 | 1.8 | 13,464 |
 
 ### 今年增长最快（近 365 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +9,432 | 25.8 | 42,957 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +7,586 | 20.8 | 50,857 |
-| 3 | [apache/superset](https://github.com/apache/superset) | +7,382 | 20.2 | 75,465 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | +4,816 | 13.2 | 40,303 |
-| 5 | [apache/kafka](https://github.com/apache/kafka) | +3,324 | 9.1 | 34,200 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +2,461 | 6.7 | 14,139 |
-| 7 | [apache/arrow](https://github.com/apache/arrow) | +1,300 | 3.6 | 17,282 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +885 | 2.4 | 13,463 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | +9,434 | 25.8 | 42,991 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | +7,599 | 20.8 | 50,880 |
+| 3 | [apache/superset](https://github.com/apache/superset) | +7,379 | 20.2 | 75,479 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | +4,814 | 13.2 | 40,322 |
+| 5 | [apache/kafka](https://github.com/apache/kafka) | +3,322 | 9.1 | 34,205 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | +2,461 | 6.7 | 14,144 |
+| 7 | [apache/arrow](https://github.com/apache/arrow) | +1,306 | 3.6 | 17,294 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | +884 | 2.4 | 13,464 |
 
 ### 总星标数（历史累计）
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [apache/superset](https://github.com/apache/superset) | 75,465 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50,857 |
-| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | 42,957 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | 40,303 |
-| 5 | [apache/kafka](https://github.com/apache/kafka) | 34,200 |
-| 6 | [apache/arrow](https://github.com/apache/arrow) | 17,282 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 14,139 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13,463 |
+| 1 | [apache/superset](https://github.com/apache/superset) | 75,479 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50,880 |
+| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | 42,991 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars) | 40,322 |
+| 5 | [apache/kafka](https://github.com/apache/kafka) | 34,205 |
+| 6 | [apache/arrow](https://github.com/apache/arrow) | 17,294 |
+| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 14,144 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13,464 |
 
 ## 缺失数据
 

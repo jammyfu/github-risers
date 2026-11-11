@@ -6,6 +6,7 @@
 
 | 日付 | スロット | 取得日時（UTC） | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | スナップショット |
 |---|---|---|---|---|---|---|---|
+| 2026-11-11 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-11T14:46:41Z | FJNB5/fujiang-pojia (253/日) | morluto/rea (3,327/日) | morluto/rea (11,093/日) | deepseek-ai/deepseek-harness (3,094/日) | [2026-11-11/pt-0000](2026-11-11/pt-0000/rankings.ja.md) · [json](2026-11-11/pt-0000/stats.json) |
 | 2026-11-10 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-10T15:16:55Z | FJNB5/fujiang-pojia (332/日) | morluto/rea (3,496/日) | morluto/rea (12,322/日) | deepseek-ai/deepseek-harness (3,120/日) | [2026-11-10/pt-0000](2026-11-10/pt-0000/rankings.ja.md) · [json](2026-11-10/pt-0000/stats.json) |
 | 2026-11-09 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-09T16:55:53Z | KKKKhazix/agent-autoloop (669/日) | morluto/rea (3,634/日) | morluto/rea (13,045/日) | deepseek-ai/deepseek-harness (3,145/日) | [2026-11-09/pt-0000](2026-11-09/pt-0000/rankings.ja.md) · [json](2026-11-09/pt-0000/stats.json) |
 | 2026-11-08 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-08T13:56:04Z | KKKKhazix/agent-autoloop (773/日) | morluto/rea (3,756/日) | morluto/rea (13,710/日) | deepseek-ai/deepseek-harness (3,172/日) | [2026-11-08/pt-0000](2026-11-08/pt-0000/rankings.ja.md) · [json](2026-11-08/pt-0000/stats.json) |
