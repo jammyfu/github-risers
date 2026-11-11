@@ -141,9 +141,9 @@
 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 獨立運行完整設定 | dxo-photolab-10：完整的獨立配置，開箱即用，毫無保留 |
 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | DxO PhotoLab 10 桌面組建版本 | 用於專業相片處理工作流程的 DxO PhotoLab 10 桌面組建 |
 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer) | 以增強的資安功能在桌面安裝應用程式 | 具備增強資安特性的專業桌面安裝程式 |
-| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) |  | Soundpad：用於專業 DAW 工作流程的進階音訊處理 |
+| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) | 為專業 DAW 工作流程提供進階音訊處理 | Soundpad：用於專業 DAW 工作流程的進階音訊處理 |
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 搭配驅動與工具獨立刷寫裝置韌體 | SP-Flash-Tool: 包含驅動程式和公用程式的獨立韌體刷機套件 |
-| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) |  | Windows Optimizer：進階系統微調與效能增強 |
+| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | 調校系統設定以提升 Windows 運行效能 | Windows Optimizer：進階系統微調與效能增強 |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 桌面隨開即用的 MetaTrader 5 機器人 | 社群驅動的 MetaTrader 5 機器人，具備完整功能，可供桌面使用 |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 讓友好的社群夥伴陪你一起打理交易 | Ninjatrader Bot 2026：友好、社群驅動的交易伴侶，包含強大功能 |
 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) | 製作可開機隨身碟並格式化 USB 裝置 | Rufus：進階 USB 格式化與可開機磁碟建立實用工具 |
@@ -170,5 +170,5 @@
 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 用純Go在GPU上繪製原生介面 | 🍭 Lobe MyGo - 原生 Go 應用程式的 UI 工具組：適用於 MyGo 的 Lobe UI 設計語言，以純 Go 在 GPU 上繪製 |
 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG) | 為策略組換上 Qure 風格純向量圖示 | Qure 風格的純 SVG 向量策略組圖示庫 / Qure style SVG policy icon set for Mihomo / Clash / FlClash / Bettbox / Clash Verge Rev / Surge / Quantumult X |
 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) | 用動畫卡片呈現 GitHub 貢獻 | 用於 GitHub 個人檔案 README 的 SVG 動畫統計卡片，也統計私人專案及組織中的工作。以 GitHub Action 執行，無需伺服器。 |
-| [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) |  | 從單張圖片製作可動形象：本機運行的 2D 虛擬形象編輯器，分層綁定 / 網格形變 / 口型與眨眼 / 時間軸動效 / MediaPipe 即時驅動 / OBS 輸出，內建大肥鱼1号範例專案。 |
+| [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) | 從單張圖片在本機製作可動的 2D 形象 | 從單張圖片製作可動形象：本機運行的 2D 虛擬形象編輯器，分層綁定 / 網格形變 / 口型與眨眼 / 時間軸動效 / MediaPipe 即時驅動 / OBS 輸出，內建大肥鱼1号範例專案。 |
 | [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | OneLake 自動 Upsert 合併管線 | 事件驅動的 OneLake 管線，具備自動化 Upsert 合併與 Python 報表功能 |

@@ -934,7 +934,7 @@
       "904f575d78f3": {
         "src": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
         "zh-Hans": "从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。",
-        "seen": "2026-11-11",
+        "seen": "2026-11-12",
         "zh-Hant": "從單張圖片製作可動形象：本機運行的 2D 虛擬形象編輯器，分層綁定 / 網格形變 / 口型與眨眼 / 時間軸動效 / MediaPipe 即時驅動 / OBS 輸出，內建大肥鱼1号範例專案。",
         "ja": "1枚の画像から動くアバターを作成：ローカルで動作する 2D 仮想アバターエディタ、レイヤーボーン / メッシュ変形 / リップシンク＆まばたき / タイムラインアニメーション / MediaPipe リアルタイム駆動 / OBS 出力、大肥鱼1号 サンプルプロジェクト内蔵。",
         "ko": "단 한 장의 이미지로 움직이는 아바타 제작: 로컬에서 실행되는 2D 가상 아바타 편집기, 레이어 바인딩 / 메시 변형 / 립싱크 및 깜빡임 / 타임라인 애니메이션 / MediaPipe 실시간 구동 / OBS 출력, 大肥鱼1号 예제 프로젝트 내장.",
@@ -942,7 +942,9 @@
         "hook": {
           "en": "Turn a single picture into a movable 2D avatar",
           "ja": "1枚の画像から動く2Dアバターをその場で作成",
-          "ko": "단 한 장의 사진으로 움직이는 2D 아바타 제작"
+          "ko": "단 한 장의 사진으로 움직이는 2D 아바타 제작",
+          "zh-Hans": "从单张图片在本地制作可动的 2D 形象",
+          "zh-Hant": "從單張圖片在本機製作可動的 2D 形象"
         }
       }
     },
@@ -4114,14 +4116,16 @@
       "69e59684776c": {
         "src": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
         "zh-Hans": "Soundpad：用于专业 DAW 工作流的高级音频处理",
-        "seen": "2026-11-11",
+        "seen": "2026-11-12",
         "zh-Hant": "Soundpad：用於專業 DAW 工作流程的進階音訊處理",
         "ja": "Soundpad: プロフェッショナルな DAW ワークフロー向け高度なオーディオ処理",
         "ko": "Soundpad: 전문 DAW 워크플로를 위한 고급 오디오 처리",
         "hook": {
           "en": "Soundpad audio processing tool for DAW workflows",
           "ja": "DAW向けSoundpad音声処理スイート",
-          "ko": "DAW 워크플로용 Soundpad 오디오 처리 제품군"
+          "ko": "DAW 워크플로용 Soundpad 오디오 처리 제품군",
+          "zh-Hans": "为专业 DAW 工作流提供高级音频处理",
+          "zh-Hant": "為專業 DAW 工作流程提供進階音訊處理"
         }
       }
     },
@@ -4797,14 +4801,16 @@
       "e6debe86a732": {
         "src": "Windows Optimizer: Advanced System Tweaks and Performance Enhancements",
         "zh-Hans": "Windows Optimizer：高级系统微调与性能增强",
-        "seen": "2026-11-11",
+        "seen": "2026-11-12",
         "zh-Hant": "Windows Optimizer：進階系統微調與效能增強",
         "ja": "Windows Optimizer: 高度なシステム調整とパフォーマンス向上",
         "ko": "Windows Optimizer: 고급 시스템 트윅 및 성능 향상",
         "hook": {
           "en": "Tweak system settings to boost Windows performance",
           "ja": "システム設定を調整しWindowsの性能を改善",
-          "ko": "시스템 설정을 조정해 Windows 성능 개선"
+          "ko": "시스템 설정을 조정해 Windows 성능 개선",
+          "zh-Hans": "调优系统设置以提升 Windows 运行性能",
+          "zh-Hant": "調校系統設定以提升 Windows 運行效能"
         }
       }
     },

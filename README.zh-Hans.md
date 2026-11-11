@@ -276,9 +276,9 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 2 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 独立运行完整配置 | 2026-11-06<br><sub>4.7 天</sub> | 1,075 | 226.6 |
 | 3 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 桌面构建版本 | 2026-11-06<br><sub>4.7 天</sub> | 1,063 | 224.1 |
 | 4 | [groschen81-web/secure-desktop-installer](https://github.com/groschen81-web/secure-desktop-installer)<br>用增强的安全特性在桌面端安装应用 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
-| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>Soundpad：用于专业 DAW 工作流的高级音频处理 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
+| 5 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite)<br>为专业 DAW 工作流提供高级音频处理 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
 | 6 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool)<br>搭配驱动与工具独立刷写设备固件 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.9 |
-| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>Windows Optimizer：高级系统微调与性能增强 | 2026-11-06<br><sub>4.7 天</sub> | 1,033 | 218.9 |
+| 7 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer)<br>调优系统设置以提升 Windows 运行性能 | 2026-11-06<br><sub>4.7 天</sub> | 1,033 | 218.9 |
 | 8 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>桌面开箱即用的 MetaTrader 5 机器人 | 2026-11-06<br><sub>4.7 天</sub> | 1,036 | 218.8 |
 | 9 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot)<br>让友好的社区伙伴陪你一起打理交易 | 2026-11-06<br><sub>4.7 天</sub> | 1,035 | 218.8 |
 | 10 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter)<br>制作可引导启动盘并格式化 USB 设备 | 2026-11-06<br><sub>4.7 天</sub> | 1,034 | 218.8 |
@@ -929,7 +929,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 1 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo)<br>用纯Go在GPU上绘制原生界面 | 2026-11-08<br><sub>3.1 天</sub> | 231 | 74.6 |
 | 2 | [aaANDkk/Qure_Style_SVG](https://github.com/aaANDkk/Qure_Style_SVG)<br>给策略组换上 Qure 风格纯矢量图标 | 2026-11-05<br><sub>6.3 天</sub> | 138 | 21.8 |
 | 3 | [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme)<br>用动画卡片展示 GitHub 贡献 | 2026-11-04<br><sub>6.7 天</sub> | 134 | 20.1 |
-| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>从单张图片制作可动形象：本地运行的 2D 虚拟形象编辑器，分层绑定 / 网格形变 / 口型与眨眼 / 时间轴动效 / MediaPipe 实时驱动 / OBS 输出，内置大肥鱼1号示例工程。 | 2026-11-06<br><sub>5.3 天</sub> | 104 | 19.6 |
+| 4 | [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D)<br>从单张图片在本地制作可动的 2D 形象 | 2026-11-06<br><sub>5.3 天</sub> | 104 | 19.6 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
