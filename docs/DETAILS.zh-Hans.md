@@ -163,7 +163,7 @@
 | [zeemscript/block-roll](https://github.com/zeemscript/block-roll) | 加密存储和分享文件 | 非托管的加密文件存储 &amp; 共享平台，支持 Stellar 支付和链上文件公证 |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 界面简洁的 Play 与 Postgres 启动模板 | 具有简洁 UI 的 Play + Postgres 启动模板 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
-| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) |  | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
+| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 无需视频下载的Twitch掉宝工具 | 在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse/KQL 可观测性库 | grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | 用 Docker 部署 Play REST API | 基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator |

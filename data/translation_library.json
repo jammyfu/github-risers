@@ -2485,14 +2485,16 @@
       "427ec48068bd": {
         "src": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
         "zh-Hans": "60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。",
-        "seen": "2026-11-11",
+        "seen": "2026-11-12",
         "zh-Hant": "60 秒內掌握 Solana 驗證節點健康狀況：評分、出塊任務、獎勵、磁碟預測、Prometheus。單一靜態二進位檔，唯讀，絕不觸碰您的金鑰。",
         "ja": "60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。",
         "ko": "60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다.",
         "hook": {
           "en": "Check Solana validator health in 60 seconds safely",
           "ja": "秘密鍵に触れず60秒でSolanaノード状態を確認",
-          "ko": "키 노출 없이 60초 만에 Solana 검증인 상태 확인"
+          "ko": "키 노출 없이 60초 만에 Solana 검증인 상태 확인",
+          "zh-Hans": "60 秒看清 Solana 验证节点健康状态",
+          "zh-Hant": "60 秒看清 Solana 驗證節點健康狀態"
         }
       }
     },
