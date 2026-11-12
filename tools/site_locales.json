@@ -1,0 +1,437 @@
+{
+  "en": {
+    "title": "GitHub Risers: GitHub Trending Repos Ranked by Star Growth",
+    "description": "GitHub trending repositories ranked by stars gained per day, not total stars. AI first, plus developer tools, security, web, infrastructure, design and data. Updated daily from the GitHub API.",
+    "h1": "GitHub Risers",
+    "intro": [
+      "GitHub trending repositories ranked by star growth (stars gained per day), not total stars. AI is the main board; developer tools, security, web, infrastructure, design and data have their own. Numbers come straight from the GitHub API and are refreshed daily.",
+      "It is a script-generated leaderboard: not an official GitHub product, not a manually curated list, and not a star-buying or promotion service."
+    ],
+    "cta": "Open the latest rankings",
+    "headings": [
+      "Key facts",
+      "Rankings in five languages",
+      "FAQ",
+      "Documentation"
+    ],
+    "facts": [
+      [
+        "What",
+        "Repositories ranked by stars gained per day over 7, 30 and 365 days, plus a 7-day hottest-new-repos board"
+      ],
+      [
+        "Categories",
+        "AI (main), Developer Tools, Security, Web / Frontend, Infrastructure, Design / Creative, Data"
+      ],
+      [
+        "Updates",
+        "Daily"
+      ],
+      [
+        "Data source",
+        "GitHub REST API only; missing data is shown as missing, never estimated"
+      ],
+      [
+        "Telemetry",
+        "None"
+      ],
+      [
+        "License",
+        "MIT"
+      ]
+    ],
+    "faq": [
+      [
+        "What is GitHub Risers?",
+        "A leaderboard of GitHub repositories ranked by how fast they gain stars, not by how many they already have. AI is the main board, with separate boards for developer tools, security, web, infrastructure, design and data."
+      ],
+      [
+        "How is the growth rate computed?",
+        "per_day = stars gained over the window / days used. The gain is the sum of daily star counts from the GitHub API endpoint stargazers/history over the complete UTC days before the run. A repository younger than the window is divided by its own age and marked young."
+      ],
+      [
+        "How often is it updated?",
+        "Updated daily. Every run is archived under its own folder in the repository."
+      ],
+      [
+        "Is it the same as GitHub Trending?",
+        "No. GitHub Trending is GitHub's own page. GitHub Risers is an independent open-source project with published rules and a saved history of every update. It is not affiliated with GitHub."
+      ],
+      [
+        "What is the hottest new repos board?",
+        "Repositories created in the last 7 days with at least 100 stars, not forks, not archived, ranked by stars divided by age in days."
+      ],
+      [
+        "Does it detect fake stars?",
+        "No. It reports the counts the GitHub API returns. It only flags, with a published heuristic, new repos that look like cracked or pirated bundles and ranks them after all normal repos."
+      ],
+      [
+        "Does it use generative AI?",
+        "The rankings are computed by plain scripts. Translations of repo descriptions can be produced with an AI model in an optional step; numbers never are."
+      ],
+      [
+        "How do I cite it?",
+        "Use the CITATION.cff file in the repository (GitHub shows a Cite this repository button) and name the snapshot date."
+      ]
+    ],
+    "docs": [
+      "Facts (one page)",
+      "FAQ",
+      "Category rules",
+      "New-repo criteria",
+      "Daily update",
+      "Latest data (JSON)",
+      "llms.txt",
+      "Source code"
+    ],
+    "footer": "MIT License. Author: jammyfu. No analytics or tracking. Not affiliated with GitHub."
+  },
+  "zh-Hans": {
+    "title": "GitHub 涨星榜（GitHub Risers）：按涨星速度排名的 GitHub 热门仓库",
+    "description": "按每天新增 star 数（涨星速度）而不是总 star 数给 GitHub 仓库排名。AI 为主榜，另有开发工具、安全、前端、基础设施、设计、数据榜。数据来自 GitHub API，每天更新。",
+    "h1": "GitHub 涨星榜（GitHub Risers）",
+    "intro": [
+      "按涨星速度（每天新增 star 数）而不是总 star 数，给 GitHub 热门仓库排名。AI 是主榜，开发工具、安全、前端、基础设施、设计、数据各有自己的榜。数字直接取自 GitHub API，每天更新。",
+      "它是脚本生成的榜单：不是 GitHub 官方产品，不是人工精选清单，也不是买星或推广服务。"
+    ],
+    "cta": "查看最新榜单",
+    "headings": [
+      "关键事实",
+      "五种语言的榜单",
+      "常见问题",
+      "文档"
+    ],
+    "facts": [
+      [
+        "是什么",
+        "按 7、30、365 天的每日涨星速度排名，另有近 7 天新仓库榜"
+      ],
+      [
+        "分类",
+        "AI（主榜）、开发工具、安全、Web / 前端、基础设施、设计 / 创意、数据"
+      ],
+      [
+        "更新时间",
+        "每天更新"
+      ],
+      [
+        "数据来源",
+        "只用 GitHub REST API；取不到的数据标为缺失，不估算"
+      ],
+      [
+        "遥测",
+        "无"
+      ],
+      [
+        "许可证",
+        "MIT"
+      ]
+    ],
+    "faq": [
+      [
+        "GitHub 涨星榜是什么？",
+        "一份按涨星速度而不是总 star 数排序的 GitHub 仓库榜单。AI 是主榜，开发工具、安全、前端、基础设施、设计、数据各有独立榜单。"
+      ],
+      [
+        "涨星速度怎么算？",
+        "每日涨星 = 窗口内新增 star 数 ÷ 所用天数。新增数取自 GitHub API 的 stargazers/history，按运行日之前完整的 UTC 日累加。比窗口更新的仓库用自己的年龄做除数，并标为新仓库。"
+      ],
+      [
+        "多久更新一次？",
+        "每天更新。每次运行都会在仓库里单独存档。"
+      ],
+      [
+        "它和 GitHub Trending 一样吗？",
+        "不一样。GitHub Trending 是 GitHub 自己的页面；涨星榜是独立的开源项目，规则公开，每次更新都有存档，与 GitHub 无任何关联。"
+      ],
+      [
+        "“最热新仓库”榜怎么选？",
+        "近 7 天内创建、至少 100 star、非 fork、未归档的仓库，按 star 数 ÷ 仓库年龄（天）排序。"
+      ],
+      [
+        "能识别刷星吗？",
+        "不能。它只如实报告 GitHub API 返回的数字。仅对疑似破解 / 盗版合集的新仓库用公开的规则标记，并排在所有正常仓库之后。"
+      ],
+      [
+        "用了生成式 AI 吗？",
+        "榜单由普通脚本计算。新仓库描述的翻译可在一个可选步骤里用 AI 模型生成；数字从不由 AI 生成。"
+      ],
+      [
+        "怎么引用？",
+        "使用仓库里的 CITATION.cff（GitHub 页面有“Cite this repository”按钮），并注明所用快照的日期。"
+      ]
+    ],
+    "docs": [
+      "一页事实表（英文）",
+      "常见问题（英文）",
+      "分类规则",
+      "新仓库榜标准",
+      "每日更新",
+      "最新数据（JSON）",
+      "llms.txt",
+      "源码"
+    ],
+    "footer": "MIT 许可证。作者：jammyfu。无统计、无追踪。与 GitHub 无关联。"
+  },
+  "zh-Hant": {
+    "title": "GitHub Risers：依每日 Star 成長速度排序的熱門專案",
+    "description": "以每天新增的 Star 數，而非累積總數，探索 GitHub 熱門儲存庫。涵蓋 AI、開發工具、資安、前端、基礎設施、設計與資料，每日依 GitHub API 更新。",
+    "h1": "GitHub Star 成長榜（GitHub Risers）",
+    "intro": [
+      "依每天新增的 Star 數排序，而不是比累積總數。AI 為主榜，開發工具、資安、前端、基礎設施、設計與資料各有獨立榜單。數字直接取自 GitHub API，每日更新。",
+      "這是由程式產生的榜單，不是 GitHub 官方產品、人工精選清單，也不提供買星或付費推廣服務。"
+    ],
+    "cta": "查看最新榜單",
+    "headings": [
+      "重點資訊",
+      "五種語言的榜單",
+      "常見問題",
+      "文件"
+    ],
+    "facts": [
+      [
+        "內容",
+        "依 7、30、365 天的每日 Star 成長速度排序，另有近 7 天新儲存庫榜"
+      ],
+      [
+        "分類",
+        "AI（主榜）、開發工具、資安、Web／前端、基礎設施、設計／創意、資料"
+      ],
+      [
+        "更新頻率",
+        "每日更新"
+      ],
+      [
+        "資料來源",
+        "僅使用 GitHub REST API；缺少的資料會標示為缺漏，不自行估算"
+      ],
+      [
+        "遙測",
+        "無"
+      ],
+      [
+        "授權",
+        "MIT"
+      ]
+    ],
+    "faq": [
+      [
+        "GitHub Risers 是什麼？",
+        "依 Star 成長速度而非累積總數排序的 GitHub 儲存庫榜單。AI 為主榜，開發工具、資安、前端、基礎設施、設計與資料各有獨立榜單。"
+      ],
+      [
+        "成長速度如何計算？",
+        "每日成長 = 統計期間新增的 Star 數 ÷ 採計天數。新增數取自 GitHub API 的 stargazers/history，累計執行當天之前完整的 UTC 日期。儲存庫成立時間若短於統計期間，則以實際成立天數計算，並標示為新儲存庫。"
+      ],
+      [
+        "多久更新一次？",
+        "每日更新。每次執行都會在儲存庫內以獨立資料夾封存。"
+      ],
+      [
+        "與 GitHub Trending 相同嗎？",
+        "不同。GitHub Trending 是 GitHub 自己提供的頁面；GitHub Risers 是獨立開源專案，規則公開，每次更新都有紀錄，與 GitHub 無隸屬關係。"
+      ],
+      [
+        "熱門新儲存庫如何篩選？",
+        "成立不超過 7 天、至少 100 顆 Star、不是分支副本（fork）且未封存的儲存庫，依 Star 數 ÷ 成立天數排序。"
+      ],
+      [
+        "能辨識灌星嗎？",
+        "不能。本專案如實呈現 GitHub API 回傳的數字，僅以公開的啟發式規則標記疑似破解或盜版合集的新儲存庫，並將其排在其他儲存庫之後。"
+      ],
+      [
+        "有使用生成式 AI 嗎？",
+        "排名由一般程式計算。描述翻譯可選擇使用 AI 模型，但排名數字絕不由 AI 產生。"
+      ],
+      [
+        "如何引用？",
+        "請使用儲存庫中的 CITATION.cff（GitHub 有 Cite this repository 按鈕），並註明所引用快照的日期。"
+      ]
+    ],
+    "docs": [
+      "專案資訊（一頁）",
+      "常見問題",
+      "分類規則",
+      "新儲存庫條件",
+      "每日更新流程",
+      "最新資料（JSON）",
+      "llms.txt",
+      "原始碼"
+    ],
+    "footer": "MIT 授權。作者：jammyfu。無分析追蹤或遙測，與 GitHub 無隸屬關係。"
+  },
+  "ja": {
+    "title": "GitHub Risers：Star 増加速度で見つける注目の GitHub リポジトリ",
+    "description": "累計 Star 数ではなく、1 日あたりの Star 増加数で GitHub の注目リポジトリを探す。AI、開発ツール、セキュリティ、Web、インフラ、デザイン、データを GitHub API から毎日更新。",
+    "h1": "GitHub Risers",
+    "intro": [
+      "累計 Star 数ではなく、1 日あたりの Star 増加数でリポジトリを順位付けします。AI をメインに、開発ツール、セキュリティ、Web、インフラ、デザイン、データの個別ランキングを用意。数値は GitHub API から取得し、毎日更新します。",
+      "スクリプトで作成するランキングです。GitHub の公式製品でも、人が選ぶおすすめ一覧でもありません。Star 販売や宣伝代行サービスではありません。"
+    ],
+    "cta": "最新ランキングを見る",
+    "headings": [
+      "基本情報",
+      "5 言語のランキング",
+      "よくある質問",
+      "ドキュメント"
+    ],
+    "facts": [
+      [
+        "内容",
+        "7・30・365 日間の 1 日あたり Star 増加数で順位付け。直近 7 日の新規リポジトリランキングも掲載"
+      ],
+      [
+        "カテゴリ",
+        "AI（メイン）、開発ツール、セキュリティ、Web／フロントエンド、インフラ、デザイン／クリエイティブ、データ"
+      ],
+      [
+        "更新",
+        "毎日"
+      ],
+      [
+        "データソース",
+        "GitHub REST API のみ。欠損データは欠損として表示し、推定しません"
+      ],
+      [
+        "テレメトリ",
+        "なし"
+      ],
+      [
+        "ライセンス",
+        "MIT"
+      ]
+    ],
+    "faq": [
+      [
+        "GitHub Risers とは？",
+        "累計 Star 数ではなく増加速度で順位付けした GitHub リポジトリのランキングです。AI がメインで、開発ツール、セキュリティ、Web、インフラ、デザイン、データにも個別ランキングがあります。"
+      ],
+      [
+        "増加速度はどう計算しますか？",
+        "1 日あたりの増加数 = 集計期間内の獲得 Star 数 ÷ 使用日数です。GitHub API の stargazers/history から、実行日より前の完了した UTC 日ごとの Star 数を合計します。作成からの日数が集計期間より短い場合は、その日数で割り、新規として表示します。"
+      ],
+      [
+        "更新頻度は？",
+        "毎日更新します。実行ごとに別のフォルダーへ履歴を保存します。"
+      ],
+      [
+        "GitHub Trending と同じですか？",
+        "いいえ。GitHub Trending は GitHub 自身のページです。GitHub Risers は独立したオープンソースプロジェクトで、ルールと全更新履歴を公開しており、GitHub との提携関係はありません。"
+      ],
+      [
+        "注目の新規リポジトリはどう選びますか？",
+        "過去 7 日以内に作成され、100 Star 以上あり、fork ではなく、アーカイブされていないリポジトリを、Star 数 ÷ 作成からの日数で順位付けします。"
+      ],
+      [
+        "不正な Star を検出しますか？",
+        "いいえ。GitHub API が返す数値を表示します。公開したヒューリスティックでクラック版や海賊版の寄せ集めと思われる新規リポジトリに印を付け、通常のリポジトリの後ろに並べるだけです。"
+      ],
+      [
+        "生成 AI を使いますか？",
+        "ランキングは通常のスクリプトで計算します。説明文の翻訳には任意の手順で AI モデルを使えますが、数値は AI で生成しません。"
+      ],
+      [
+        "引用するには？",
+        "リポジトリの CITATION.cff を使い（GitHub の Cite this repository ボタンから確認できます）、利用したスナップショットの日付を記載してください。"
+      ]
+    ],
+    "docs": [
+      "プロジェクト概要",
+      "よくある質問",
+      "カテゴリ規則",
+      "新規リポジトリの条件",
+      "毎日の更新手順",
+      "最新データ（JSON）",
+      "llms.txt",
+      "ソースコード"
+    ],
+    "footer": "MIT ライセンス。作者：jammyfu。解析・追跡なし。GitHub との提携関係はありません。"
+  },
+  "ko": {
+    "title": "GitHub Risers: 하루 Star 증가량으로 찾는 인기 GitHub 프로젝트",
+    "description": "누적 Star가 아닌 하루 증가량으로 GitHub 인기 저장소를 살펴보세요. AI, 개발 도구, 보안, 웹, 인프라, 디자인, 데이터를 GitHub API에서 매일 갱신합니다.",
+    "h1": "GitHub Risers",
+    "intro": [
+      "누적 Star 수가 아니라 하루 Star 증가량으로 저장소 순위를 매깁니다. AI를 중심으로 개발 도구, 보안, 웹, 인프라, 디자인, 데이터의 개별 순위를 제공합니다. 수치는 GitHub API에서 직접 가져오며 매일 갱신합니다.",
+      "스크립트로 생성하는 순위입니다. GitHub 공식 제품이나 사람이 직접 선정한 목록이 아니며, Star 판매 또는 홍보 대행 서비스도 아닙니다."
+    ],
+    "cta": "최신 순위 보기",
+    "headings": [
+      "핵심 정보",
+      "5개 언어의 순위",
+      "자주 묻는 질문",
+      "문서"
+    ],
+    "facts": [
+      [
+        "내용",
+        "7일·30일·365일 동안의 일평균 Star 증가량 순위와 최근 7일 신규 저장소 순위"
+      ],
+      [
+        "분야",
+        "AI(중심), 개발 도구, 보안, 웹/프런트엔드, 인프라, 디자인/창작, 데이터"
+      ],
+      [
+        "갱신",
+        "매일"
+      ],
+      [
+        "데이터 출처",
+        "GitHub REST API만 사용합니다. 없는 데이터는 누락으로 표시하며 추정하지 않습니다"
+      ],
+      [
+        "원격 측정",
+        "없음"
+      ],
+      [
+        "라이선스",
+        "MIT"
+      ]
+    ],
+    "faq": [
+      [
+        "GitHub Risers는 무엇인가요?",
+        "누적 Star 수가 아니라 증가 속도로 정렬한 GitHub 저장소 순위입니다. AI를 중심으로 개발 도구, 보안, 웹, 인프라, 디자인, 데이터의 개별 순위를 제공합니다."
+      ],
+      [
+        "증가 속도는 어떻게 계산하나요?",
+        "일평균 증가량 = 기간 내 새 Star 수 ÷ 적용 일수입니다. GitHub API의 stargazers/history에서 실행일 이전에 끝난 UTC 날짜별 Star 수를 합산합니다. 저장소 생성 후 경과일이 집계 기간보다 짧으면 실제 경과일로 나누고 신규로 표시합니다."
+      ],
+      [
+        "얼마나 자주 갱신하나요?",
+        "매일 갱신하며, 실행할 때마다 저장소 내 별도 폴더에 기록을 보관합니다."
+      ],
+      [
+        "GitHub Trending과 같은 서비스인가요?",
+        "아닙니다. GitHub Trending은 GitHub 자체 페이지입니다. GitHub Risers는 규칙과 모든 갱신 기록을 공개하는 독립 오픈소스 프로젝트이며 GitHub와 제휴 관계가 없습니다."
+      ],
+      [
+        "인기 신규 저장소는 어떻게 선정하나요?",
+        "최근 7일 이내 생성되고 Star가 100개 이상이며, fork가 아니고 보관 처리되지 않은 저장소를 Star 수 ÷ 생성 후 경과일로 정렬합니다."
+      ],
+      [
+        "조작된 Star를 감지하나요?",
+        "아닙니다. GitHub API가 반환하는 수치를 표시합니다. 공개된 휴리스틱으로 크랙 또는 불법 복제 묶음이 의심되는 신규 저장소를 표시하고 일반 저장소 뒤에 배치할 뿐입니다."
+      ],
+      [
+        "생성형 AI를 사용하나요?",
+        "순위는 일반 스크립트로 계산합니다. 설명 번역은 선택 단계에서 AI 모델을 사용할 수 있지만 수치를 AI로 생성하지는 않습니다."
+      ],
+      [
+        "어떻게 인용하나요?",
+        "저장소의 CITATION.cff를 사용하고(GitHub의 Cite this repository 버튼에서 확인 가능), 사용한 스냅샷 날짜를 명시하세요."
+      ]
+    ],
+    "docs": [
+      "한눈에 보는 프로젝트",
+      "자주 묻는 질문",
+      "분류 규칙",
+      "신규 저장소 조건",
+      "일일 갱신 과정",
+      "최신 데이터(JSON)",
+      "llms.txt",
+      "소스 코드"
+    ],
+    "footer": "MIT 라이선스. 작성자: jammyfu. 분석 및 추적 기능이 없으며 GitHub와 제휴 관계가 없습니다."
+  }
+}

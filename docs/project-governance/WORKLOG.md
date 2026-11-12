@@ -130,3 +130,12 @@
 - Verification: full `python3 tools/verify.py` passed with 240 tests; daily data verification passed with zero warnings; strict description and all-category hook audits, generated-file checks, plan validation, shell syntax and diff checks passed. Next: publish the reviewed PR, verify its exact remote/CI/Pages output, then let the unchanged hourly job continue.
 - Independent code review found no actionable issues. The reviewer separately passed 102 focused tests and 12 extra isolated probes, including malformed audits, empty concurrent commits, validation failures and exhausted push retries; no real model or installed task was touched.
 - PR CI initially exposed a Linux fixture omission: the disposable repository lacked the production .gitignore, so normal Python bytecode looked like uncommitted work. Reproduced both failures with Homebrew Python 3.15.1, copied the unchanged production ignore file into the fixture, and passed all seven shell tests plus the full 240-test verification with that interpreter. Production behavior and assertions are unchanged.
+
+## 2026-11-12: Five-language landing pages
+
+- Current five-language ranking READMEs already satisfy the table-first presentation requirement; left their generated content, popularity calculations and historical data unchanged.
+- Closed the website gap: the old two-language site now has full Taiwan Traditional Chinese, Japanese and Korean introductions, six facts, eight FAQ answers and document links.
+- Added `tools/site_locales.json` and deterministic `tools/render_site.py` with `--check`; all five pages share reciprocal hreflang, canonical links, a sitemap, visible-matching FAQ schema and the existing title asset.
+- Root and published llms.txt now link all five languages. No analytics, new tracking scripts or ranking promises added.
+- Translation was AI-reviewed, not claimed as native-human review. Existing auxiliary documents may remain English/Chinese; localized ranking pages remain available in all five languages.
+- Verification: 244 unit tests passed; README generation and site generation checks passed; all 55 ranked newcomer descriptions reported translated; `tools/next_plan.py --check` and `git diff --check` passed. No historical snapshot or ranking data changed.

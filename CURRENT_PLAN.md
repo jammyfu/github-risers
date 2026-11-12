@@ -43,3 +43,12 @@ Complete the latest GitHub API ranking in all five languages, including the unre
 - Observe the existing hourly Mac job after the authorized publication, without duplicate triggers
 - Improve explicit English-language detection for non-CJK sources separately
 - Owner decision on developer-tools newcomer quality signals remains outside this round
+
+## Five-language introduction site (2026-11-12)
+
+- [x] Keep ranking tables, data, formulas and historical snapshots unchanged.
+- [x] Add full Taiwan Traditional Chinese, Japanese and Korean introduction/FAQ pages.
+- [x] Generate reciprocal language navigation, canonical/hreflang, visible-matching JSON-LD and sitemap for all five pages.
+- [x] Reuse the existing project title image and keep the facts table readable on narrow screens.
+- [x] Check generated site consistency in the repository verifier.
+- [ ] Publish an independent draft PR for review; do not merge automatically.
