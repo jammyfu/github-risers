@@ -136,7 +136,7 @@
 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 將編碼任務分派給專屬代理協同執行 | 編碼代理的幕僚長：將請求路由給在 git worktrees 中運行並行 worker 的各專案管理代理，基於 herdr。 |
 | [threerocks/article2media](https://github.com/threerocks/article2media) | 把文章或影片一鍵做成圖文和短影音 | 把一篇文章或一條影片（抖音、B 站、YouTube，先轉逐字稿）一鍵做成小紅書圖文、雜誌長圖、公眾號排版和 AI 配音口播短影片的開源 Claude Code / Codex 技能。21 套主題，自動驗收，零 npm 依賴。 |
 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 下載 AI 同事的 3D 識別證 | 非人類員工｜九位 AI 同事的 3D 識別證領取處，中英文、透明 PNG 下載。微信公眾號：风花AI实验室。 |
-| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) |  | Claude memory：對比為 Claude 提供持久長期記憶的 10 種最佳方法。涵蓋 MCP 記憶體伺服器、CLAUDE.md、記憶體外掛以及適用於 Claude 的工具… |
+| [claudememory/claude-memory](https://github.com/claudememory/claude-memory) | 想給 Claude 長期記憶？對比 10 種方法 | Claude memory：對比為 Claude 提供持久長期記憶的 10 種最佳方法。涵蓋 MCP 記憶體伺服器、CLAUDE.md、記憶體外掛以及適用於 Claude 的工具… |
 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | daemon-pro 獨立桌面完整安裝設定 | daemon-pro：包含完整功能設定的完整獨立桌面配置 |
 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 獨立運行完整設定 | dxo-photolab-10：完整的獨立配置，開箱即用，毫無保留 |
 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | DxO PhotoLab 10 桌面組建版本 | 用於專業相片處理工作流程的 DxO PhotoLab 10 桌面組建 |

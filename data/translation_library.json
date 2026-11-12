@@ -3035,14 +3035,16 @@
       "75cbd06352a1": {
         "src": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude…",
         "zh-Hans": "Claude memory：对比为 Claude 提供持久长期记忆的 10 种最佳方法。涵盖 MCP 内存服务器、CLAUDE.md、内存插件以及适用于 Claude 的工具…",
-        "seen": "2026-11-11",
+        "seen": "2026-11-12",
         "zh-Hant": "Claude memory：對比為 Claude 提供持久長期記憶的 10 種最佳方法。涵蓋 MCP 記憶體伺服器、CLAUDE.md、記憶體外掛以及適用於 Claude 的工具…",
         "ja": "Claude memory: Claude に永続的で長期的なメモリを提供するためのトップ 10 の方法を比較。MCP メモリサーバー、CLAUDE.md、メモリプラグイン、Claude 向けツールを網羅…",
         "ko": "Claude memory: Claude에게 지속적이고 장기적인 메모리를 제공하는 상위 10가지 방법 비교. MCP 메모리 서버, CLAUDE.md, 메모리 플러그인 및 Claude용 도구 포함…",
         "hook": {
           "en": "Compare the top 10 ways to give Claude long-term memory",
           "ja": "Claudeに長期記憶を持たせる10の方法を比較",
-          "ko": "Claude에게 장기 기억을 주는 10가지 방법 비교"
+          "ko": "Claude에게 장기 기억을 주는 10가지 방법 비교",
+          "zh-Hans": "想给 Claude 长期记忆？对比 10 种方法",
+          "zh-Hant": "想給 Claude 長期記憶？對比 10 種方法"
         }
       }
     },
