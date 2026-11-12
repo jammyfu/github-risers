@@ -4883,7 +4883,9 @@
         "hook": {
           "en": "Run the Linux servers you already own in one place",
           "ja": "手持ちのLinuxサーバーを1か所でまとめて動かす",
-          "ko": "보유한 Linux 서버를 한곳에서 모아 실행"
+          "ko": "보유한 Linux 서버를 한곳에서 모아 실행",
+          "zh-Hans": "在一处集中运行你已有的 Linux 服务器",
+          "zh-Hant": "在一處集中運行你已有的 Linux 伺服器"
         }
       }
     },

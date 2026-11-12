@@ -757,7 +757,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>影音太分散？一個自行架設應用集中管理 | 2026-11-09<br><sub>2.7 天</sub> | 917 | 345.2 |
 | 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>60 秒看清 Solana 驗證節點健康狀態 | 2026-11-10<br><sub>2.0 天</sub> | 241 | 120.9 |
-| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>開源 ServerOS 面板：一處運行您已擁有的 Linux 伺服器的地方。 | 2026-11-09<br><sub>3.6 天</sub> | 222 | 61.3 |
+| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>在一處集中運行你已有的 Linux 伺服器 | 2026-11-09<br><sub>3.6 天</sub> | 222 | 61.3 |
 | 4 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>免下載影片的Twitch掉寶工具 | 2026-11-08<br><sub>4.4 天</sub> | 119 | 27.1 |
 | 5 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse/KQL 可觀測性庫 | 2026-11-06<br><sub>6.1 天</sub> | 149 | 24.6 |
 | 6 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>用 Docker 部署 Play REST API | 2026-11-06<br><sub>6.0 天</sub> | 149 | 24.6 |
