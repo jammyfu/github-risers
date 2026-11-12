@@ -72,7 +72,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>讓 AI 從零做出瀏覽器 3D 動作遊戲 | 2026-11-11<br><sub>1.0 天</sub> | 212 | 212.0 |
 | 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 破甲與授權滲透外掛 | 2026-11-09<br><sub>3.4 天</sub> | 698 | 205.0 |
 | 6 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>5.8 天</sub> | 1,103 | 191.4 |
-| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客戶端，社區接力維護，V8 通道全功能適配 QQ 9.9.37，全工具全源碼公開 | 2026-11-11<br><sub>1.0 天</sub> | 191 | 191.0 |
+| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>想用第三方QQ，社群接力全功能適配新版 | 2026-11-11<br><sub>1.0 天</sub> | 191 | 191.0 |
 | 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… | 2026-11-09<br><sub>2.9 天</sub> | 525 | 184.2 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹除文字裡的 AI 痕跡並自動重寫 | 2026-11-09<br><sub>2.9 天</sub> | 443 | 151.2 |
 | 10 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任務分派給你的 AI 團隊 | 2026-11-07<br><sub>5.6 天</sub> | 765 | 137.0 |

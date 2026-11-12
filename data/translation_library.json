@@ -588,7 +588,9 @@
         "hook": {
           "en": "Community-maintained third-party QQ client with full source",
           "ja": "コミュニティが保守するオープンソースのサードパーティQQ",
-          "ko": "커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트"
+          "ko": "커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트",
+          "zh-Hans": "想用第三方QQ，社区接力全功能适配新版",
+          "zh-Hant": "想用第三方QQ，社群接力全功能適配新版"
         }
       }
     },

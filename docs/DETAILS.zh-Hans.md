@@ -122,7 +122,7 @@
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 让智能体处理三维与视觉特效 | 面向智能体的无界面 3D 和 VFX 引擎. 研究预览版. |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 破甲与授权渗透插件 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 |
-| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) |  | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 |
+| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社区接力全功能适配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任务分派给你的 AI 团队 | 人类主导的 AI 团队技能: 分派任务、核验证据、清楚解释步骤, 并从真实案例中学习. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
