@@ -66,14 +66,14 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Private AI meeting notes. Free and open source. | 2026-11-10<br><sub>1.8 天</sub> | 788 | 433.5 |
-| 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok… | 2026-11-09<br><sub>3.6 天</sub> | 928 | 256.6 |
+| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>開源免費的私密 AI 會議記錄 | 2026-11-10<br><sub>1.8 天</sub> | 788 | 433.5 |
+| 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自行架設空間與團隊及 AI 代理協作 | 2026-11-09<br><sub>3.6 天</sub> | 928 | 256.6 |
 | 3 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>讓代理處理三維與視覺特效 | 2026-11-05<br><sub>6.7 天</sub> | 1,487 | 221.6 |
-| 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… | 2026-11-11<br><sub>1.0 天</sub> | 212 | 212.0 |
+| 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>讓 AI 從零做出瀏覽器 3D 動作遊戲 | 2026-11-11<br><sub>1.0 天</sub> | 212 | 212.0 |
 | 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 破甲與授權滲透外掛 | 2026-11-09<br><sub>3.4 天</sub> | 698 | 205.0 |
 | 6 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>5.8 天</sub> | 1,103 | 191.4 |
-| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 | 2026-11-11<br><sub>1.0 天</sub> | 191 | 191.0 |
-| 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7… | 2026-11-09<br><sub>2.9 天</sub> | 525 | 184.2 |
+| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客戶端，社區接力維護，V8 通道全功能適配 QQ 9.9.37，全工具全源碼公開 | 2026-11-11<br><sub>1.0 天</sub> | 191 | 191.0 |
+| 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… | 2026-11-09<br><sub>2.9 天</sub> | 525 | 184.2 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹除文字裡的 AI 痕跡並自動重寫 | 2026-11-09<br><sub>2.9 天</sub> | 443 | 151.2 |
 | 10 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任務分派給你的 AI 團隊 | 2026-11-07<br><sub>5.6 天</sub> | 765 | 137.0 |
 
@@ -273,7 +273,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro 獨立桌面完整安裝設定 | 2026-11-06<br><sub>5.8 天</sub> | 1,198 | 207.1 |
-| 2 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool)<br>Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup | 2026-11-06<br><sub>5.8 天</sub> | 1,199 | 206.9 |
+| 2 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool)<br>用於 AI 提示詞工程的獨立桌面訓練工具 | 2026-11-06<br><sub>5.8 天</sub> | 1,199 | 206.9 |
 | 3 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 獨立運行完整設定 | 2026-11-06<br><sub>5.8 天</sub> | 1,144 | 198.0 |
 | 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>桌面隨開即用的 MetaTrader 5 機器人 | 2026-11-06<br><sub>5.8 天</sub> | 1,108 | 192.0 |
 | 5 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>簡化安卓螢幕鏡像與控制工作流程 | 2026-11-06<br><sub>5.8 天</sub> | 1,104 | 191.6 |
@@ -757,7 +757,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>影音太分散？一個自行架設應用集中管理 | 2026-11-09<br><sub>2.7 天</sub> | 917 | 345.2 |
 | 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>60 秒看清 Solana 驗證節點健康狀態 | 2026-11-10<br><sub>2.0 天</sub> | 241 | 120.9 |
-| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>The open source ServerOS panel: one place to run the Linux servers you already own. | 2026-11-09<br><sub>3.6 天</sub> | 222 | 61.3 |
+| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>開源 ServerOS 面板：一處運行您已擁有的 Linux 伺服器的地方。 | 2026-11-09<br><sub>3.6 天</sub> | 222 | 61.3 |
 | 4 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>免下載影片的Twitch掉寶工具 | 2026-11-08<br><sub>4.4 天</sub> | 119 | 27.1 |
 | 5 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse/KQL 可觀測性庫 | 2026-11-06<br><sub>6.1 天</sub> | 149 | 24.6 |
 | 6 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>用 Docker 部署 Play REST API | 2026-11-06<br><sub>6.0 天</sub> | 149 | 24.6 |

@@ -117,17 +117,17 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) |  | Private AI meeting notes. Free and open source. |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) |  | Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok… |
+| [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 开源免费的私密 AI 会议记录 | 私密 AI 会议记录。免费且开源。 |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自托管空间与团队及 AI 智能体协作 | Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok… |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 让智能体处理三维与视觉特效 | 面向智能体的无界面 3D 和 VFX 引擎. 研究预览版. |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) |  | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 破甲与授权渗透插件 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面 |
 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) |  | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7… |
+| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任务分派给你的 AI 团队 | 人类主导的 AI 团队技能: 分派任务、核验证据、清楚解释步骤, 并从真实案例中学习. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
 | [21stware/bowel](https://github.com/21stware/bowel) | 在多系统设备上运行 mihomo 客户端 | Bowel 是适用于 macOS、Windows、Linux 和 Android 的 mihomo 客户端。 |
-| [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) |  | SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and… |
+| [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 量化多模态模型并在本地顺畅运行 | 适用于 GGUF、本地推理及更多场景的 SOTA 模型无关量化。使用 llama.cpp、vLLM、Diffusers 量化并运行文本、图像、视频和音频模型，以及… |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 用一次性 Windows 环境测试应用 | 用全新、用完即弃的 Windows 机器测试你的应用: 自动操作 Windows Sandbox 的 MCP 服务器和 CLI |
 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 视频动效难做？让剪辑智能体搞定工作流 | Eyeline 提词器遇上剪辑智能体：JSON 驱动的动画和动态图形工作流 |
 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 用代码做出对齐语音的电影感视频 | 完全由代码构建的旁白电影感影片智能体技能：镜头在照片、地图和卡片上连续移动，配合语音节奏。Claude Code, Codex, C… |
@@ -137,7 +137,7 @@
 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 把旧安卓手机变成电脑本地桌面面板 | 将旧 Android 手机变成适用于 Windows、Linux 和 macOS 的本地桌面面板。55 个小组件、Smart Stack、AI 配额与会话、媒体控件、USB 或配对… |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | 去掉土耳其语文章里的 AI 痕迹 | 清除土耳其语文本中人工智能痕迹 (AI 垃圾内容、翻译腔、带有翻译痕迹的句子结构和不符合 TDK 语言规范的错误) 的 Agent Skill 和 Humanizer 包. |
 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | daemon-pro 独立桌面完整安装配置 | daemon-pro：包含完整功能设置的完整独立桌面配置 |
-| [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool) |  | Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup |
+| [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool) | 用于 AI 提示词工程的独立桌面训练工具 | Aion 2 AI 提示词工程工具包 - 独立桌面训练器安装程序 |
 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 独立运行完整配置 | dxo-photolab-10：完整的独立配置，开箱即用，毫无保留 |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 桌面开箱即用的 MetaTrader 5 机器人 | 社区驱动的 MetaTrader 5 机器人，具备完整功能，可供桌面使用 |
 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 简化安卓屏幕镜像与控制工作流 | Android 屏幕镜像和控制工作流，已简化 |
@@ -155,13 +155,13 @@
 | [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | 想在桌面制作音乐，装好就能直接开始 | MusicMakerUnlimited：功能齐全的桌面音乐制作安装程序，可直接运行 |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 在桌面用全功能专业套件编辑音频 | Melodyne-5：具有完整功能集的专业音频编辑桌面套件 |
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 桌面性能增强安装程序 | 带有针对桌面优化的系统性能增强功能的 ExitLag 安装程序 |
-| [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) |  | Chimera: Pre-configured Desktop Utility Suite with Full Installer |
+| [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | 省去繁琐配置，桌面工具完整安装 | Chimera: 预配置的桌面实用工具套件，附带完整安装程序 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追剧 | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 下载 AI 同事的 3D 工牌 | 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。 |
 | [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | 界面简洁的 Play 与 Postgres 启动模板 | 具有简洁 UI 的 Play + Postgres 启动模板 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
-| [serveroshq/panel](https://github.com/serveroshq/panel) |  | The open source ServerOS panel: one place to run the Linux servers you already own. |
+| [serveroshq/panel](https://github.com/serveroshq/panel) |  | 开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。 |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 无需视频下载的Twitch掉宝工具 | 在后台自动挂机获取 Twitch 掉宝。无需下载视频即可领取奖励、切换频道并挖掘限时掉落。适用于 Windows、mac… |
 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse/KQL 可观测性库 | grizl-fabric-observability: Fabric Eventhouse/KQL 可观测性与异常信号库 |
 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | 用 Docker 部署 Play REST API | 基于 Play 框架的 REST API，支持基于 Docker 的部署与 activator |

@@ -66,14 +66,14 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Private AI meeting notes. Free and open source. | 2026-11-10<br><sub>1.8 d</sub> | 788 | 433.5 |
-| 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok… | 2026-11-09<br><sub>3.6 d</sub> | 928 | 256.6 |
+| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Take private meeting notes with free open-source AI | 2026-11-10<br><sub>1.8 d</sub> | 788 | 433.5 |
+| 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>Chat with your team and AI agents in a self-hosted space | 2026-11-09<br><sub>3.6 d</sub> | 928 | 256.6 |
 | 3 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>Let agents work with 3D and visual effects | 2026-11-05<br><sub>6.7 d</sub> | 1,487 | 221.6 |
-| 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… | 2026-11-11<br><sub>1.0 d</sub> | 212 | 212.0 |
+| 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>Let AI build a playable browser 3D action game | 2026-11-11<br><sub>1.0 d</sub> | 212 | 212.0 |
 | 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness jailbreak and pentest plugin | 2026-11-09<br><sub>3.4 d</sub> | 698 | 205.0 |
 | 6 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>5.8 d</sub> | 1,103 | 191.4 |
-| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 | 2026-11-11<br><sub>1.0 d</sub> | 191 | 191.0 |
-| 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7… | 2026-11-09<br><sub>2.9 d</sub> | 525 | 184.2 |
+| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>Community-maintained third-party QQ client with full source | 2026-11-11<br><sub>1.0 d</sub> | 191 | 191.0 |
+| 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>See what Claude Code is doing in real time beside your chat | 2026-11-09<br><sub>2.9 d</sub> | 525 | 184.2 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>Remove AI tells and rewrite text clearly | 2026-11-09<br><sub>2.9 d</sub> | 443 | 151.2 |
 | 10 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>Delegate work across your AI team | 2026-11-07<br><sub>5.6 d</sub> | 765 | 137.0 |
 
@@ -273,7 +273,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro standalone desktop complete setup | 2026-11-06<br><sub>5.8 d</sub> | 1,198 | 207.1 |
-| 2 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool)<br>Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup | 2026-11-06<br><sub>5.8 d</sub> | 1,199 | 206.9 |
+| 2 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool)<br>Standalone desktop toolkit for AI prompt engineering | 2026-11-06<br><sub>5.8 d</sub> | 1,199 | 206.9 |
 | 3 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 complete standalone configuration | 2026-11-06<br><sub>5.8 d</sub> | 1,144 | 198.0 |
 | 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>Run a full-featured MetaTrader 5 bot on your desktop | 2026-11-06<br><sub>5.8 d</sub> | 1,108 | 192.0 |
 | 5 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>Easily mirror and control Android with a simple workflow | 2026-11-06<br><sub>5.8 d</sub> | 1,104 | 191.6 |
@@ -757,7 +757,7 @@ No new repo met the criteria in this run.
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>Too many apps? Keep shows and music in one self-hosted app | 2026-11-09<br><sub>2.7 d</sub> | 917 | 345.2 |
 | 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Check Solana validator health in 60 seconds safely | 2026-11-10<br><sub>2.0 d</sub> | 241 | 120.9 |
-| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>The open source ServerOS panel: one place to run the Linux servers you already own. | 2026-11-09<br><sub>3.6 d</sub> | 222 | 61.3 |
+| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>Run the Linux servers you already own in one place | 2026-11-09<br><sub>3.6 d</sub> | 222 | 61.3 |
 | 4 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>Claim Twitch drops in the background with no video download | 2026-11-08<br><sub>4.4 d</sub> | 119 | 27.1 |
 | 5 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric Eventhouse and KQL observability library | 2026-11-06<br><sub>6.1 d</sub> | 149 | 24.6 |
 | 6 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Play Framework REST API with Docker deployment | 2026-11-06<br><sub>6.0 d</sub> | 149 | 24.6 |

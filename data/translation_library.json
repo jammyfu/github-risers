@@ -120,6 +120,23 @@
         }
       }
     },
+    "Arda313131882/aion-2-trainer-tool": {
+      "1ec21b01fd63": {
+        "src": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+        "zh-Hans": "Aion 2 AI 提示词工程工具包 - 独立桌面训练器安装程序",
+        "seen": "2026-11-13",
+        "zh-Hant": "Aion 2 AI 提示詞工程工具包 - 獨立桌面訓練器安裝程式",
+        "ja": "Aion 2 AI プロンプトエンジニアリングツールキット - スタンドアロンデスクトップトレーナーセットアップ",
+        "ko": "Aion 2 AI 프롬프트 엔지니어링 툴킷 - 독립형 데스크톱 트레이너 설정",
+        "hook": {
+          "en": "Standalone desktop toolkit for AI prompt engineering",
+          "zh-Hans": "用于 AI 提示词工程的独立桌面训练工具",
+          "zh-Hant": "用於 AI 提示詞工程的獨立桌面訓練工具",
+          "ja": "AIプロンプトエンジニアリング用の単体デスクトップツール",
+          "ko": "AI 프롬프트 엔지니어링을 위한 독립형 데스크톱 도구"
+        }
+      }
+    },
     "ArenaSoldierPlay/microsoft-office": {
       "4eb3b5a57940": {
         "src": "Microsoft Office 2026 complete standalone installation setup. Pre-activated desktop edition ready to run.",
@@ -559,6 +576,22 @@
         }
       }
     },
+    "DandanLLab/SnowCatQQ": {
+      "95251239fd5f": {
+        "src": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
+        "zh-Hans": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
+        "seen": "2026-11-13",
+        "zh-Hant": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客戶端，社區接力維護，V8 通道全功能適配 QQ 9.9.37，全工具全源碼公開",
+        "ja": "SnowCat 雪猫：NapCat + SnowLuma融合サードパーティ製QQクライアント、コミュニティによるリレー保守、V8チャンネル全機能でQQ 9.9.37に適応、全ツール・全ソースコード公開",
+        "ko": "SnowCat 雪猫: NapCat + SnowLuma 융합 서드파티 QQ 클라이언트, 커뮤니티 릴레이 유지 관리, V8 채널 전체 기능 QQ 9.9.37 호환, 전체 도구 및 전체 소스 코드 공개",
+        "en": "SnowCat 雪猫: NapCat + SnowLuma fused third-party QQ client, community relay maintenance, full-featured V8 channel adaptation for QQ 9.9.37, all tools and full source code public",
+        "hook": {
+          "en": "Community-maintained third-party QQ client with full source",
+          "ja": "コミュニティが保守するオープンソースのサードパーティQQ",
+          "ko": "커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트"
+        }
+      }
+    },
     "DenColonelWrinkle/ios-unlocker": {
       "6187ecb888af": {
         "src": "Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.",
@@ -843,6 +876,23 @@
           "ko": "Docker 기반 Play 프레임워크 REST API",
           "zh-Hans": "用 Docker 部署 Play REST API",
           "zh-Hant": "用 Docker 部署 Play REST API"
+        }
+      }
+    },
+    "FrigadeHQ/yogurt": {
+      "8b9153a71ef5": {
+        "src": "Private AI meeting notes. Free and open source.",
+        "zh-Hans": "私密 AI 会议记录。免费且开源。",
+        "seen": "2026-11-13",
+        "zh-Hant": "私密 AI 會議記錄。免費且開源。",
+        "ja": "プライベートなAI会議メモ。無料かつオープンソース。",
+        "ko": "비공개 AI 회의록. 무료 오픈 소스.",
+        "hook": {
+          "en": "Take private meeting notes with free open-source AI",
+          "zh-Hans": "开源免费的私密 AI 会议记录",
+          "zh-Hant": "開源免費的私密 AI 會議記錄",
+          "ja": "会議メモを非公開で残せる無料オープンソースAI",
+          "ko": "회의 내용을 비공개로 기록하는 무료 오픈 소스 AI"
         }
       }
     },
@@ -2774,6 +2824,21 @@
         }
       }
     },
+    "agentes-chat/agentes-chat": {
+      "e4b503c06287": {
+        "src": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok…",
+        "ja": "チームとAIエージェントがチャンネルやDMで一緒に作業できる、オープンソースでセルフホスト型のSlack代替。エージェントはClaude、ChatGPT/Codex、Gemini、Grokで動作します…",
+        "seen": "2026-11-13",
+        "ko": "팀과 AI 에이전트가 채널과 DM에서 함께 협업할 수 있는 오픈 소스, 셀프 호스팅 Slack 대안. 에이전트는 Claude, ChatGPT/Codex, Gemini 또는 Grok에서 실행됩니다…",
+        "hook": {
+          "en": "Chat with your team and AI agents in a self-hosted space",
+          "zh-Hans": "在自托管空间与团队及 AI 智能体协作",
+          "zh-Hant": "在自行架設空間與團隊及 AI 代理協作",
+          "ja": "チームとAIエージェントが働くセルフホスト型チャット",
+          "ko": "팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저"
+        }
+      }
+    },
     "alchaincyf/huashu-bird-sticker": {
       "0b0a2285ae3f": {
         "src": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
@@ -2793,6 +2858,19 @@
       }
     },
     "alexeyw/lot-map": {
+      "cd6295536bb9": {
+        "src": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7…",
+        "zh-Hans": "聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7…",
+        "seen": "2026-11-13",
+        "zh-Hant": "聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7…",
+        "ja": "Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7…",
+        "ko": "Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7…",
+        "hook": {
+          "en": "See what Claude Code is doing in real time beside your chat",
+          "ja": "チャット横でClaude Codeの動作をリアルタイム表示",
+          "ko": "채팅 옆에서 Claude Code의 동작을 실시간으로 확인"
+        }
+      },
       "e00cf9d6d301": {
         "src": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in f…",
         "zh-Hans": "聊天旁的实时地图，展示 Claude Code 正在做什么：工具调用、模型步骤、hook、技能和子智能体在发生时实时亮起。仅限本地，在 f…",
@@ -2853,6 +2931,23 @@
           "zh-Hant": "一個知識點，一條帶出處的短片",
           "ja": "1 つの知識を出典つきの短編動画に",
           "ko": "지식 하나를 출처 있는 짧은 영상으로"
+        }
+      }
+    },
+    "angelonyn/chimera-desktop-suite": {
+      "3a38c04636ba": {
+        "src": "Chimera: Pre-configured Desktop Utility Suite with Full Installer",
+        "zh-Hans": "Chimera: 预配置的桌面实用工具套件，附带完整安装程序",
+        "seen": "2026-11-13",
+        "zh-Hant": "Chimera: 預先配置的桌面公用程式套件，附帶完整安裝程式",
+        "ja": "Chimera: フルインストーラー付き事前構成済みデスクトップユーティリティスイート",
+        "ko": "Chimera: 전체 설치 프로그램이 포함된 사전 구성된 데스크톱 유틸리티 제품군",
+        "hook": {
+          "en": "Skip setup and install your desktop utility suite at once",
+          "zh-Hans": "省去繁琐配置，桌面工具完整安装",
+          "zh-Hant": "省去繁瑣配置，桌面工具完整安裝",
+          "ja": "面倒な設定なしで、デスクトップツールを一括導入",
+          "ko": "설정 번거로움 없이 데스크톱 도구를 한 번에 설치"
         }
       }
     },
@@ -3694,6 +3789,23 @@
         }
       }
     },
+    "huawei-csl/MACaQ": {
+      "908138453da7": {
+        "src": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and…",
+        "zh-Hans": "适用于 GGUF、本地推理及更多场景的 SOTA 模型无关量化。使用 llama.cpp、vLLM、Diffusers 量化并运行文本、图像、视频和音频模型，以及…",
+        "seen": "2026-11-13",
+        "zh-Hant": "適用於 GGUF、本機推理及更多場景的 SOTA 與模型無關的量化。使用 llama.cpp、vLLM、Diffusers 等量化並運行文字、圖像、影片和音訊模型，以及…",
+        "ja": "GGUF、ローカル推論などのためのSOTAモデル非依存量子化。llama.cpp、vLLM、Diffusersなどでテキスト、画像、動画、音声モデルを量子化して実行…",
+        "ko": "GGUF, 로컬 추론 및 그 이상을 위한 SOTA 모델 무관 양자화. llama.cpp, vLLM, Diffusers 등을 사용하여 텍스트, 이미지, 비디오 및 오디오 모델을 양자화하고 실행…",
+        "hook": {
+          "en": "Quantize and run multi-modal models for local inference",
+          "zh-Hans": "量化多模态模型并在本地顺畅运行",
+          "zh-Hant": "量化多模態模型並在本機順暢運行",
+          "ja": "モデルを量子化してローカル環境で直接実行",
+          "ko": "모델을 양자화하여 로컬 환경에서 직접 실행"
+        }
+      }
+    },
     "hugues31/duckpad": {
       "fe7d2b29ab2a": {
         "src": "The data transformation tool the open-source community deserves.",
@@ -4460,6 +4572,24 @@
         }
       }
     },
+    "op7418/guizang-game-skill": {
+      "94ce054de6c6": {
+        "src": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets…",
+        "zh-Hans": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets…",
+        "seen": "2026-11-13",
+        "zh-Hant": "歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets…",
+        "ja": "歸藏 Game Skill：AIがゼロからブラウザで遊べる3Dアクションゲームを作成、プレイ可能なデモ《雾锁山门》付き。AI生成アセットで遊べるブラウザ3Dアクションゲームを構築するClaude Code / Codex向けエージェントスキル…",
+        "ko": "歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬…",
+        "en": "歸藏 Game Skill: Let AI make a playable browser 3D action game from scratch, with a playable demo 《雾锁山门》. Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets…",
+        "hook": {
+          "en": "Let AI build a playable browser 3D action game",
+          "zh-Hans": "让 AI 从零做出浏览器 3D 动作游戏",
+          "zh-Hant": "讓 AI 從零做出瀏覽器 3D 動作遊戲",
+          "ja": "ブラウザで動く3DアクションゲームをAIが作成",
+          "ko": "브라우저용 3D 액션 게임을 AI로 직접 제작"
+        }
+      }
+    },
     "orkbot-run/ork": {
       "3b6ea971a383": {
         "src": "Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps.",
@@ -4739,6 +4869,21 @@
           "zh-Hant": "Uttorent 2026 完整安裝程式",
           "ja": "Uttorent 2026 完全版インストーラー",
           "ko": "Uttorent 2026 전체 설치 파일"
+        }
+      }
+    },
+    "serveroshq/panel": {
+      "f2aa02a68dae": {
+        "src": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+        "zh-Hans": "开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。",
+        "seen": "2026-11-13",
+        "zh-Hant": "開源 ServerOS 面板：一處運行您已擁有的 Linux 伺服器的地方。",
+        "ja": "オープンソースの ServerOS パネル：既にお持ちの Linux サーバーを実行するひとつの場所。",
+        "ko": "오픈 소스 ServerOS 패널: 이미 보유하고 있는 Linux 서버를 실행할 수 있는 하나의 공간.",
+        "hook": {
+          "en": "Run the Linux servers you already own in one place",
+          "ja": "手持ちのLinuxサーバーを1か所でまとめて動かす",
+          "ko": "보유한 Linux 서버를 한곳에서 모아 실행"
         }
       }
     },

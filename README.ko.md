@@ -66,14 +66,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Private AI meeting notes. Free and open source. | 2026-11-10<br><sub>1.8일</sub> | 788 | 433.5 |
-| 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok… | 2026-11-09<br><sub>3.6일</sub> | 928 | 256.6 |
+| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>회의 내용을 비공개로 기록하는 무료 오픈 소스 AI | 2026-11-10<br><sub>1.8일</sub> | 788 | 433.5 |
+| 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 2026-11-09<br><sub>3.6일</sub> | 928 | 256.6 |
 | 3 | [voyager-so/vork](https://github.com/voyager-so/vork)<br>에이전트로 3D와 시각 효과 다루기 | 2026-11-05<br><sub>6.7일</sub> | 1,487 | 221.6 |
-| 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… | 2026-11-11<br><sub>1.0일</sub> | 212 | 212.0 |
+| 4 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>브라우저용 3D 액션 게임을 AI로 직접 제작 | 2026-11-11<br><sub>1.0일</sub> | 212 | 212.0 |
 | 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia)<br>DeepSeek Harness 탈옥 및 침투 테스트 플러그인 | 2026-11-09<br><sub>3.4일</sub> | 698 | 205.0 |
 | 6 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>5.8일</sub> | 1,103 | 191.4 |
-| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 | 2026-11-11<br><sub>1.0일</sub> | 191 | 191.0 |
-| 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7… | 2026-11-09<br><sub>2.9일</sub> | 525 | 184.2 |
+| 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | 2026-11-11<br><sub>1.0일</sub> | 191 | 191.0 |
+| 8 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | 2026-11-09<br><sub>2.9일</sub> | 525 | 184.2 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>글에서 AI 느낌을 지우고 다시 쓰기 | 2026-11-09<br><sub>2.9일</sub> | 443 | 151.2 |
 | 10 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AI 팀에 작업 나눠 맡기기 | 2026-11-07<br><sub>5.6일</sub> | 765 | 137.0 |
 
@@ -273,7 +273,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop)<br>daemon-pro 독립형 데스크톱 전체 설치 구성 | 2026-11-06<br><sub>5.8일</sub> | 1,198 | 207.1 |
-| 2 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool)<br>Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup | 2026-11-06<br><sub>5.8일</sub> | 1,199 | 206.9 |
+| 2 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool)<br>AI 프롬프트 엔지니어링을 위한 독립형 데스크톱 도구 | 2026-11-06<br><sub>5.8일</sub> | 1,199 | 206.9 |
 | 3 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config)<br>dxo-photolab-10 독립형 전체 실행 설정 | 2026-11-06<br><sub>5.8일</sub> | 1,144 | 198.0 |
 | 4 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)<br>데스크톱에서 쓰는 MetaTrader 5 봇 | 2026-11-06<br><sub>5.8일</sub> | 1,108 | 192.0 |
 | 5 | [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control)<br>간단한 워크플로로 Android 화면을 미러링·제어 | 2026-11-06<br><sub>5.8일</sub> | 1,104 | 191.6 |
@@ -757,7 +757,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 2026-11-09<br><sub>2.7일</sub> | 917 | 345.2 |
 | 2 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 2026-11-10<br><sub>2.0일</sub> | 241 | 120.9 |
-| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>The open source ServerOS panel: one place to run the Linux servers you already own. | 2026-11-09<br><sub>3.6일</sub> | 222 | 61.3 |
+| 3 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>보유한 Linux 서버를 한곳에서 모아 실행 | 2026-11-09<br><sub>3.6일</sub> | 222 | 61.3 |
 | 4 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner)<br>영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 2026-11-08<br><sub>4.4일</sub> | 119 | 27.1 |
 | 5 | [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability)<br>Fabric KQL 관측성 및 이상 징후 라이브러리 | 2026-11-06<br><sub>6.1일</sub> | 149 | 24.6 |
 | 6 | [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play)<br>Docker 기반 Play 프레임워크 REST API | 2026-11-06<br><sub>6.0일</sub> | 149 | 24.6 |
