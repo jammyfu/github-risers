@@ -6,6 +6,7 @@ Latest: [`latest/rankings.md`](../latest/rankings.md) · [`latest/stats.json`](.
 
 | Date | Slot | Fetched (UTC) | #1 new (7 days) | #1 this week | #1 this month | #1 this year | Snapshot |
 |---|---|---|---|---|---|---|---|
+| 2026-11-12 | Los Angeles 00:00 (`pt-0000`) | 2026-11-12T15:38:41Z | FrigadeHQ/yogurt (434/day) | morluto/rea (3,168/day) | morluto/rea (9,385/day) | deepseek-ai/deepseek-harness (3,069/day) | [2026-11-12/pt-0000](2026-11-12/pt-0000/rankings.md) · [json](2026-11-12/pt-0000/stats.json) |
 | 2026-11-11 | Los Angeles 00:00 (`pt-0000`) | 2026-11-11T14:46:41Z | FJNB5/fujiang-pojia (253/day) | morluto/rea (3,327/day) | morluto/rea (11,093/day) | deepseek-ai/deepseek-harness (3,094/day) | [2026-11-11/pt-0000](2026-11-11/pt-0000/rankings.md) · [json](2026-11-11/pt-0000/stats.json) |
 | 2026-11-10 | Los Angeles 00:00 (`pt-0000`) | 2026-11-10T15:16:55Z | FJNB5/fujiang-pojia (332/day) | morluto/rea (3,496/day) | morluto/rea (12,322/day) | deepseek-ai/deepseek-harness (3,120/day) | [2026-11-10/pt-0000](2026-11-10/pt-0000/rankings.md) · [json](2026-11-10/pt-0000/stats.json) |
 | 2026-11-09 | Los Angeles 00:00 (`pt-0000`) | 2026-11-09T16:55:53Z | KKKKhazix/agent-autoloop (669/day) | morluto/rea (3,634/day) | morluto/rea (13,045/day) | deepseek-ai/deepseek-harness (3,145/day) | [2026-11-09/pt-0000](2026-11-09/pt-0000/rankings.md) · [json](2026-11-09/pt-0000/stats.json) |
