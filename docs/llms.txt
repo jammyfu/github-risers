@@ -10,6 +10,10 @@ GitHub Risers is a script-generated leaderboard, not a manual editorial list. It
 - [README (English rankings)](https://github.com/jammyfu/github-risers#readme): the latest rankings
 - [README.zh-Hans.md](https://github.com/jammyfu/github-risers/blob/main/README.zh-Hans.md): 简体中文榜单
 
+- [Website (繁體中文)](https://jammyfu.github.io/github-risers/zh-Hant/) · [README.zh-Hant.md](https://github.com/jammyfu/github-risers/blob/main/README.zh-Hant.md)
+- [Website (日本語)](https://jammyfu.github.io/github-risers/ja/) · [README.ja.md](https://github.com/jammyfu/github-risers/blob/main/README.ja.md)
+- [Website (한국어)](https://jammyfu.github.io/github-risers/ko/) · [README.ko.md](https://github.com/jammyfu/github-risers/blob/main/README.ko.md)
+
 ## Method and facts
 - [docs/FACTS.md](https://github.com/jammyfu/github-risers/blob/main/docs/FACTS.md): one-page facts: scope, formula, update schedule, data sources, limits
 - [docs/FAQ.md](https://github.com/jammyfu/github-risers/blob/main/docs/FAQ.md): questions people ask about the ranking

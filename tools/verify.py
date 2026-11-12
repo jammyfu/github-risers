@@ -25,6 +25,7 @@ def commands(root: Path, daily: bool = False) -> list[list[str]]:
         *tests,
         *data,
         [py, "tools/render_readme.py", "--check"],
+        [py, "tools/render_site.py", "--check"],
         [py, "tools/newcomer_i18n.py"],  # lists untranslated new-repo descriptions; informational, never fails
     ]
 
