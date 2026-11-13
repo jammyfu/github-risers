@@ -118,53 +118,48 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 会議メモを非公開で残せる無料オープンソースAI | プライベートなAI会議メモ。無料かつオープンソース。 |
+| [DIYgod/pinky](https://github.com/DIYgod/pinky) |  | Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone. |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | チームとAIエージェントが働くセルフホスト型チャット | チームとAIエージェントがチャンネルやDMで一緒に作業できる、オープンソースでセルフホスト型のSlack代替。エージェントはClaude、ChatGPT/Codex、Gemini、Grokで動作します… |
-| [voyager-so/vork](https://github.com/voyager-so/vork) | エージェントで3Dと視覚効果を扱う | エージェント向けのヘッドレス 3D・VFX エンジン. 研究プレビュー版. |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | ブラウザで動く3DアクションゲームをAIが作成 | 歸藏 Game Skill：AIがゼロからブラウザで遊べる3Dアクションゲームを作成、プレイ可能なデモ《雾锁山门》付き。AI生成アセットで遊べるブラウザ3Dアクションゲームを構築するClaude Code / Codex向けエージェントスキル… |
-| [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 破甲と侵入テストプラグイン | 富江破甲（破甲）：DeepSeek Harness破甲プラグイン、アクティベーションワード富江、すべて平易な言葉で直接質問可能、スキルライブラリskillのダウンロードと呼び出し、脆弱性ナレッジベースpoc利用、脆弱性レポート更新、全自動認可ペネトレーションを内蔵。現在のバージョン：0.20.13、免責事項付き。プラグイン画像は一番下を参照 |
-| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | コミュニティが保守するオープンソースのサードパーティQQ | SnowCat 雪猫：NapCat + SnowLuma融合サードパーティ製QQクライアント、コミュニティによるリレー保守、V8チャンネル全機能でQQ 9.9.37に適応、全ツール・全ソースコード公開 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャット横でClaude Codeの動作をリアルタイム表示 | Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7… |
-| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 文章からAI感を消して書き直す | STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh… |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) |  | 桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） |
+| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | コミュニティが保守するオープンソースのサードパーティQQ | SnowCat 雪猫：NapCat + SnowLuma融合サードパーティ製QQクライアント、コミュニティによるリレー保守、V8チャンネル全機能でQQ 9.9.37に適応、全ツール・全ソースコード公開 |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | ブラウザで動く3DアクションゲームをAIが作成 | 歸藏 Game Skill：AIがゼロからブラウザで遊べる3Dアクションゲームを作成、プレイ可能なデモ《雾锁山门》付き。AI生成アセットで遊べるブラウザ3Dアクションゲームを構築するClaude Code / Codex向けエージェントスキル… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AIチームに仕事を振り分ける | 人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。 |
+| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 文章からAI感を消して書き直す | STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh… |
+| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) |  | An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one c… |
+| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) |  | Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved a… |
+| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) |  | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 各種OSでmihomoクライアントを利用する | Bowel は macOS、Windows、Linux、Android 向けの mihomo クライアントです。 |
 | [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | モデルを量子化してローカル環境で直接実行 | GGUF、ローカル推論などのためのSOTAモデル非依存量子化。llama.cpp、vLLM、Diffusersなどでテキスト、画像、動画、音声モデルを量子化して実行… |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 使い捨てのWindows環境でアプリを試す | アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI |
-| [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 動画編集が大変？エージェントがアニメーションを自動化 | Eyeline テレプロンプターと編集エージェントの融合：JSON 駆動のアニメーションおよびモーショングラフィックスのワークフロー |
 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 音声に合わせてコードから映画風の映像を作る | 完全にコードから構築されたナレーション付き映画風フィルム用のエージェントスキル：写真、地図、カードの上を1台の連続したカメラが移動し、音声に同期します。Claude Code, Codex, C… |
-| [threerocks/article2media](https://github.com/threerocks/article2media) | 記事や動画を図解投稿やショート動画に変換 | 1本の記事または1本の動画（抖音、B 站、YouTube、まず文字起こしに変換）をワンクリックで小红书画像テキスト、雑誌風縦長画像、公众号レイアウト、AI音声吹き替えトーク系ショート動画に仕上げるオープンソースの Claude Code / Codex スキル。21種類のテーマ、自動検収、npm依存ゼロ。 |
+| [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 動画編集が大変？エージェントがアニメーションを自動化 | Eyeline テレプロンプターと編集エージェントの融合：JSON 駆動のアニメーションおよびモーショングラフィックスのワークフロー |
 | [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | オープンソースAIでNext.js全スタック構築 | ホスティングと認証を備えたフルスタック Next.js アプリ向けのオープンソース AI アプリビルダー |
-| [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | API不要でClaudeと繋ぐMCPサーバー | NVIDIA Auto Ontology のセマンティック層および個人用ナレッジベースであり、Claude、ChatGPT、その他の MCP クライアント向けの MCP サーバーとして機能します。LLM API キーは不要です。 |
-| [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 古いAndroidをローカル卓上パネルにする | 古い Android スマートフォンを Windows、Linux、macOS 向けのローカルデスクパネルに変身させます。55 個のウィジェット、Smart Stack、AI クォータとセッション、メディアコントロール、USB またはペアリング… |
-| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | トルコ語の文章からAIの痕跡を取り除く | トルコ語の文章から人工知能の痕跡 (AI の粗製コンテンツ、翻訳調、翻訳くさい文構造、TDK の言語規範に反する誤り) を取り除く Agent Skill と Humanizer パッケージ. |
+| [threerocks/article2media](https://github.com/threerocks/article2media) | 記事や動画を図解投稿やショート動画に変換 | 1本の記事または1本の動画（抖音、B 站、YouTube、まず文字起こしに変換）をワンクリックで小红书画像テキスト、雑誌風縦長画像、公众号レイアウト、AI音声吹き替えトーク系ショート動画に仕上げるオープンソースの Claude Code / Codex スキル。21種類のテーマ、自動検収、npm依存ゼロ。 |
 | [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | daemon-pro スタンドアロンデスクトップ設定 | daemon-pro: フル機能を備えた完全スタンドアロンのデスクトップセットアップ |
 | [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool) | AIプロンプトエンジニアリング用の単体デスクトップツール | Aion 2 AI プロンプトエンジニアリングツールキット - スタンドアロンデスクトップトレーナーセットアップ |
 | [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 スタンドアロン完全設定 | dxo-photolab-10: すぐに実行できる完全なスタンドアロン構成、出し惜しみなし |
 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | デスクトップで動く MetaTrader 5 ボット | デスクトップ利用に対応した全機能搭載のコミュニティ主導型 MetaTrader 5 ボット |
-| [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | シンプルなワークフローで Android 画面を操作 | Android 画面ミラーリングおよび制御ワークフロー、簡素化 |
 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) | DAW向けSoundpad音声処理スイート | Soundpad: プロフェッショナルな DAW ワークフロー向け高度なオーディオ処理 |
+| [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | シンプルなワークフローで Android 画面を操作 | Android 画面ミラーリングおよび制御ワークフロー、簡素化 |
 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | ドライバとツールを揃えてファームウェアを書き込む | SP-Flash-Tool: ドライバーとユーティリティを備えたスタンドアロンのファームウェア書き込みスイート |
-| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | システム設定を調整しWindowsの性能を改善 | Windows Optimizer: 高度なシステム調整とパフォーマンス向上 |
 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | コミュニティの仲間と一緒に取引を管理する | Ninjatrader Bot 2026: 強力な機能を満載した、使いやすくコミュニティ主導のトレーディングコンパニオン |
 | [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) | 起動用USBメモリの作成とドライブ初期化 | Rufus: 高度な USB フォーマットおよび起動可能ドライブ作成ユーティリティ |
 | [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor インストーラー | rx-11-audio-editor 設定: プロフェッショナルなオーディオ編集用の完全なスタンドアロンインストーラーおよび dotfiles |
 | [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) | Quicken Deluxe 全機能有効と記載の導入版 | フル機能セットが有効化された Quicken Deluxe デスクトップインストーラー |
 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director デスクトップインストーラ | Power Director: 完全なインストーラーを備えたスタンドアロンのデスクトップ動画編集スイート |
+| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | システム設定を調整しWindowsの性能を改善 | Windows Optimizer: 高度なシステム調整とパフォーマンス向上 |
 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | デスクトップですぐ実行できる実用設定を動かす | Kontakt 8 デスクトップユーティリティ設定: こだわりのある dotfiles、すぐに実行可能 |
+| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | MusicMakerUnlimited デスクトップ音楽制作インストーラー | MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー |
 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 有効化済みデスクトップトレーナー | Payday 3 Trainer ツール - 完全有効化されたデスクトップビルド、すぐにプレイ可能 |
 | [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced デスクトップツール | Ozone 12 Advanced: 強化された設定を備えたプロフェッショナル向けデスクトップユーティリティ |
-| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | MusicMakerUnlimited デスクトップ音楽制作インストーラー | MusicMakerUnlimited: すぐに実行できる、フル機能のデスクトップ音楽制作インストーラー |
 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | デスクトップで全機能を使って音声を編集する | Melodyne-5: 完全な機能セットを備えたプロフェッショナル向けオーディオ編集デスクトップスイート |
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag デスクトップ性能強化インストーラー | デスクトップ向けに最適化されたシステムパフォーマンス向上機能を備えた ExitLag インストーラー |
 | [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | 面倒な設定なしで、デスクトップツールを一括導入 | Chimera: フルインストーラー付き事前構成済みデスクトップユーティリティスイート |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOSとiOSでドラマを見る | HGhubクロスプラットフォームクライアント (macOS &amp; iOS 強化版) · Apple Silicon / Intelの両アーキテクチャ向けDMGと署名不要のiOS IPAに対応 · 没入感のあるドラマ視聴 / ジェスチャーによる拡大縮小 / ネイティブの横向き全画面表示 / 複数経路のミラー速度測定 |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | AI同僚の3D社員証をダウンロード | 非人間の従業員｜9人のAI同僚の3D社員証を受け取れる場所。中国語・英語対応、背景透過PNGをダウンロードできる。WeChat公式アカウント：风花AI实验室。 |
-| [spiderveer1-byte/play-reactive-slick](https://github.com/spiderveer1-byte/play-reactive-slick) | シンプルなUIのPlayとPostgresスターター | クリーンなUIを備えたPlay + Postgresスターターテンプレート |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 動画や音楽が散らかる？セルフホスト型アプリで管理 | 番組、映画、音楽のための1つのセルフホスト型アプリ。 |
-| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 手持ちのLinuxサーバーを1か所でまとめて動かす | オープンソースの ServerOS パネル：既にお持ちの Linux サーバーを実行するひとつの場所。 |
+| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |
 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 動画をダウンロードせずにTwitchドロップを自動回収 | バックグラウンドでTwitchドロップを自動ファーム。動画ダウンロード不要で報酬獲得、チャンネル切り替え、時間指定ドロップのマイニングを実行。Windows、mac… |
-| [balkewkidane/grizl-fabric-observability](https://github.com/balkewkidane/grizl-fabric-observability) | Fabric Eventhouse用KQL監視ライブラリ | grizl-fabric-observability: Fabric Eventhouse/KQL 可観測性および異常シグナルライブラリ |
-| [Fragokemymy/penr-oz-play](https://github.com/Fragokemymy/penr-oz-play) | Docker対応PlayフレームワークREST API | Dockerベースのデプロイとactivatorを備えたPlay フレームワーク上のREST API |
 | [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 純粋なGoでGPU描画のネイティブUIを作る | 🍭 Lobe MyGo - ネイティブ Go アプリ向けの UI キット：MyGo 向けの Lobe UI デザイン言語を、純粋な Go で GPU 上に描画 |
-| [HRuiCcc/RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) | 1枚の画像から動く2Dアバターをその場で作成 | 1枚の画像から動くアバターを作成：ローカルで動作する 2D 仮想アバターエディタ、レイヤーボーン / メッシュ変形 / リップシンク＆まばたき / タイムラインアニメーション / MediaPipe リアルタイム駆動 / OBS 出力、大肥鱼1号 サンプルプロジェクト内蔵。 |
-| [ArteVisualenVivo/fabric-pipeline-express-7](https://github.com/ArteVisualenVivo/fabric-pipeline-express-7) | 自動Upsert対応OneLakeパイプライン | 自動UpsertマージとPythonレポート機能を備えたイベント駆動型OneLakeパイプライン |
