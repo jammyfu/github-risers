@@ -67,11 +67,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>会議メモを非公開で残せる無料オープンソースAI | 2026-11-10<br><sub>2.8 日</sub> | 1,179 | 422.7 |
-| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>AIがあなたのiPhoneやAndroidスマートフォンを使用（あなたもループに参加）：macOS、Windows、Linuxからの任意のMCPエージェント、またはスマートフォン上のPinky自体。 | 2026-11-06<br><sub>6.9 日</sub> | 2,068 | 298.9 |
+| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>人が確認しながらAIにスマホを操作させる | 2026-11-06<br><sub>6.9 日</sub> | 2,068 | 298.9 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>チームとAIエージェントが働くセルフホスト型チャット | 2026-11-09<br><sub>4.6 日</sub> | 1,293 | 281.8 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>3.8 日</sub> | 689 | 180.3 |
 | 5 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>6.7 日</sub> | 1,103 | 163.8 |
-| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） | 2026-11-12<br><sub>1.0 日</sub> | 163 | 163.0 |
+| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>1.0 日</sub> | 163 | 163.0 |
 | 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>コミュニティが保守するオープンソースのサードパーティQQ | 2026-11-11<br><sub>1.7 日</sub> | 268 | 158.5 |
 | 8 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>ブラウザで動く3DアクションゲームをAIが作成 | 2026-11-11<br><sub>1.9 日</sub> | 301 | 155.4 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AIチームに仕事を振り分ける | 2026-11-07<br><sub>6.6 日</sub> | 833 | 127.1 |
@@ -597,7 +597,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOSとiOSでドラマを見る | 2026-11-07<br><sub>5.8 日</sub> | 494 | 85.7 |
-| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>万物IDカード｜AIキャラクター、人物特別編とカスタム3D名札、ドラッグでの裏返しと透過PNGダウンロードに対応。WeChat公式アカウント：风花AI实验室。 | 2026-11-06<br><sub>6.9 日</sub> | 186 | 26.9 |
+| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>3Dキャラ工牌をカスタマイズして透過PNGで書き出す | 2026-11-06<br><sub>6.9 日</sub> | 186 | 26.9 |
 
 <details>
 <summary>このランキングのスター推移</summary>

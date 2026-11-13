@@ -67,7 +67,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>开源免费的私密 AI 会议记录 | 2026-11-10<br><sub>2.8 天</sub> | 1,179 | 422.7 |
-| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>让 AI 在你的参与下使用你的 iPhone 或 Android 手机：来自 macOS、Windows 或 Linux 的任何 MCP 智能体，或直接在手机上的 Pinky 本身。 | 2026-11-06<br><sub>6.9 天</sub> | 2,068 | 298.9 |
+| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>让 AI 替你操作手机，全程由你把控 | 2026-11-06<br><sub>6.9 天</sub> | 2,068 | 298.9 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自托管空间与团队及 AI 智能体协作 | 2026-11-09<br><sub>4.6 天</sub> | 1,293 | 281.8 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… | 2026-11-09<br><sub>3.8 天</sub> | 689 | 180.3 |
 | 5 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>6.7 天</sub> | 1,103 | 163.8 |

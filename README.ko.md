@@ -67,11 +67,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>회의 내용을 비공개로 기록하는 무료 오픈 소스 AI | 2026-11-10<br><sub>2.8일</sub> | 1,179 | 422.7 |
-| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>사용자가 개입한 상태에서 AI가 iPhone 또는 Android 스마트폰을 사용하도록 지원: macOS, Windows 또는 Linux의 모든 MCP 에이전트 또는 스마트폰 자체의 Pinky. | 2026-11-06<br><sub>6.9일</sub> | 2,068 | 298.9 |
+| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>사람이 직접 확인하며 AI에게 폰 조작 맡기기 | 2026-11-06<br><sub>6.9일</sub> | 2,068 | 298.9 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 2026-11-09<br><sub>4.6일</sub> | 1,293 | 281.8 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | 2026-11-09<br><sub>3.8일</sub> | 689 | 180.3 |
 | 5 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>6.7일</sub> | 1,103 | 163.8 |
-| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) | 2026-11-12<br><sub>1.0일</sub> | 163 | 163.0 |
+| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 2026-11-12<br><sub>1.0일</sub> | 163 | 163.0 |
 | 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | 2026-11-11<br><sub>1.7일</sub> | 268 | 158.5 |
 | 8 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>브라우저용 3D 액션 게임을 AI로 직접 제작 | 2026-11-11<br><sub>1.9일</sub> | 301 | 155.4 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>AI 팀에 작업 나눠 맡기기 | 2026-11-07<br><sub>6.6일</sub> | 833 | 127.1 |
@@ -597,7 +597,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOS와 iOS에서 드라마 시청 | 2026-11-07<br><sub>5.8일</sub> | 494 | 85.7 |
-| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>만물 사원증｜AI 캐릭터, 인물 특별편 및 커스텀 3D 사원증, 드래그하여 뒤집기와 투명 PNG 다운로드 지원. 위챗 공식 계정: 风花AI实验室. | 2026-11-06<br><sub>6.9일</sub> | 186 | 26.9 |
+| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>3D 캐릭터 사원증을 직접 꾸미고 투명 PNG로 저장 | 2026-11-06<br><sub>6.9일</sub> | 186 | 26.9 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

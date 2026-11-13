@@ -118,10 +118,10 @@
 | 專案 | 表裡的一句話 | 完整介紹 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 開源免費的私密 AI 會議記錄 | 私密 AI 會議記錄。免費且開源。 |
-| [DIYgod/pinky](https://github.com/DIYgod/pinky) |  | 讓 AI 在你的參與下使用你的 iPhone 或 Android 手機：來自 macOS、Windows 或 Linux 的任何 MCP 代理，或直接在手機上的 Pinky 本身。 |
+| [DIYgod/pinky](https://github.com/DIYgod/pinky) | 讓 AI 替你操作手機，全程由你把關 | 讓 AI 在你的參與下使用你的 iPhone 或 Android 手機：來自 macOS、Windows 或 Linux 的任何 MCP 代理，或直接在手機上的 Pinky 本身。 |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自行架設空間與團隊及 AI 代理協作 | 開源、自行架設的 Slack 替代方案，您的團隊和 AI 代理在頻道和 DMs 中協同工作。代理運行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | 聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) |  | 根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 借助257本櫻井字幕，讓代理帶你做遊戲 | 根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） |
 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社群接力全功能適配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客戶端，社區接力維護，V8 通道全功能適配 QQ 9.9.37，全工具全源碼公開 |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 讓 AI 從零做出瀏覽器 3D 動作遊戲 | 歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任務分派給你的 AI 團隊 | 由人主導的 AI 團隊技能: 分派任務、查證證據、清楚解釋步驟, 並從真實案例中學習. 一個人統籌 AI 團隊：派工、查證、清楚說明、經驗重用。 |
@@ -157,7 +157,7 @@
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 桌面效能增強安裝程式 | 帶有針對桌面最佳化的系統效能增強功能的 ExitLag 安裝程式 |
 | [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | 省去繁瑣配置，桌面工具完整安裝 | Chimera: 預先配置的桌面公用程式套件，附帶完整安裝程式 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追劇 | HGhub 跨平台用戶端 (macOS &amp; iOS 增強版) · 支援 Apple Silicon / Intel 雙架構 DMG 與 iOS 免簽 IPA · 沉浸式追劇 / 手勢縮放 / 原生橫向全螢幕 / 多線路鏡像測速 |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 萬物工牌｜AI 角色、人物特別篇與自訂 3D 工牌，支援拖曳翻面和透明 PNG 下載。微信公眾號：風花AI實驗室。 |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 自訂3D人物工牌，支援翻轉並匯出透明圖 | 萬物工牌｜AI 角色、人物特別篇與自訂 3D 工牌，支援拖曳翻面和透明 PNG 下載。微信公眾號：風花AI實驗室。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一個自行架設應用集中管理 | 一款用於您的節目、電影和音樂的自行架設應用程式。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 在一處集中運行你已有的 Linux 伺服器 | 開源 ServerOS 面板：一處運行您已擁有的 Linux 伺服器的地方。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 驗證節點健康狀態 | 60 秒內掌握 Solana 驗證節點健康狀況：評分、出塊任務、獎勵、磁碟預測、Prometheus。單一靜態二進位檔，唯讀，絕不觸碰您的金鑰。 |

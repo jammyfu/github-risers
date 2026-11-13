@@ -118,17 +118,17 @@
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 회의 내용을 비공개로 기록하는 무료 오픈 소스 AI | 비공개 AI 회의록. 무료 오픈 소스. |
-| [DIYgod/pinky](https://github.com/DIYgod/pinky) |  | 사용자가 개입한 상태에서 AI가 iPhone 또는 Android 스마트폰을 사용하도록 지원: macOS, Windows 또는 Linux의 모든 MCP 에이전트 또는 스마트폰 자체의 Pinky. |
+| [DIYgod/pinky](https://github.com/DIYgod/pinky) | 사람이 직접 확인하며 AI에게 폰 조작 맡기기 | 사용자가 개입한 상태에서 AI가 iPhone 또는 Android 스마트폰을 사용하도록 지원: macOS, Windows 또는 Linux의 모든 MCP 에이전트 또는 스마트폰 자체의 Pinky. |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 팀과 AI 에이전트가 채널과 DM에서 함께 협업할 수 있는 오픈 소스, 셀프 호스팅 Slack 대안. 에이전트는 Claude, ChatGPT/Codex, Gemini 또는 Grok에서 실행됩니다… |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) |  | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | SnowCat 雪猫: NapCat + SnowLuma 융합 서드파티 QQ 클라이언트, 커뮤니티 릴레이 유지 관리, V8 채널 전체 기능 QQ 9.9.37 호환, 전체 도구 및 전체 소스 코드 공개 |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AI 팀에 작업 나눠 맡기기 | 사람이 이끄는 AI 팀을 위한 스킬: 작업 위임, 근거 검증, 단계별 명확한 설명, 실제 사례에서 학습. 한 사람이 AI 팀을 총괄：작업 배분, 근거 확인, 명확한 설명, 경험 재활용。 |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
-| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) |  | 관리자–작업자–검토자 에이전트 팀이 다단계 씬 브리프를 감독형 실험으로 실행하는 Blender용 AI 랩—실시간 작업 보드, 검토 결과, one c… |
-| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) |  | Blender AI MCP Studio는 평이한 자연어 브리프를 검사되고 승인된 a…로 변환하는 Blender용 AI 어시스턴트이자 내장 Model Context Protocol MCP 서버입니다. |
-| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) |  | Blender용 AI 어시스턴트 및 MCP 서버: 시각적 채팅, 씬 도구, 멀티 에이전트 워크플로. ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode와 호환. Blender AI… |
+| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) | 여러 에이전트가 협업해 Blender 장면을 제작 | 관리자–작업자–검토자 에이전트 팀이 다단계 씬 브리프를 감독형 실험으로 실행하는 Blender용 AI 랩—실시간 작업 보드, 검토 결과, one c… |
+| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | 자연어로 지시해 Blender에서 3D 장면 만들기 | Blender AI MCP Studio는 평이한 자연어 브리프를 검사되고 승인된 a…로 변환하는 Blender용 AI 어시스턴트이자 내장 Model Context Protocol MCP 서버입니다. |
+| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 원하는 AI와 대화하며 Blender 장면 편집하기 | Blender용 AI 어시스턴트 및 MCP 서버: 시각적 채팅, 씬 도구, 멀티 에이전트 워크플로. ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode와 호환. Blender AI… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 다양한 OS에서 mihomo 클라이언트 실행하기 | Bowel은 macOS, Windows, Linux 및 Android용 mihomo 클라이언트입니다. |
 | [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 모델을 양자화하여 로컬 환경에서 직접 실행 | GGUF, 로컬 추론 및 그 이상을 위한 SOTA 모델 무관 양자화. llama.cpp, vLLM, Diffusers 등을 사용하여 텍스트, 이미지, 비디오 및 오디오 모델을 양자화하고 실행… |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 일회용 Windows 환경에서 앱 테스트하기 | 앱 테스트를 위한 새 일회용 Windows 머신: Windows Sandbox를 자동화하는 MCP 서버 및 CLI |
@@ -157,7 +157,7 @@
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 데스크톱 성능 강화 설치 프로그램 | 데스크톱용 최적화된 시스템 성능 향상 기능을 갖춘 ExitLag 설치 프로그램 |
 | [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | 설정 번거로움 없이 데스크톱 도구를 한 번에 설치 | Chimera: 전체 설치 프로그램이 포함된 사전 구성된 데스크톱 유틸리티 제품군 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 만물 사원증｜AI 캐릭터, 인물 특별편 및 커스텀 3D 사원증, 드래그하여 뒤집기와 투명 PNG 다운로드 지원. 위챗 공식 계정: 风花AI实验室. |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 3D 캐릭터 사원증을 직접 꾸미고 투명 PNG로 저장 | 만물 사원증｜AI 캐릭터, 인물 특별편 및 커스텀 3D 사원증, 드래그하여 뒤집기와 투명 PNG 다운로드 지원. 위챗 공식 계정: 风花AI实验室. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 보유한 Linux 서버를 한곳에서 모아 실행 | 오픈 소스 ServerOS 패널: 이미 보유하고 있는 Linux 서버를 실행할 수 있는 하나의 공간. |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다. |
