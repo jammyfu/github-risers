@@ -2838,7 +2838,9 @@
           "zh-Hant": "在自行架設空間與團隊及 AI 代理協作",
           "ja": "チームとAIエージェントが働くセルフホスト型チャット",
           "ko": "팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저"
-        }
+        },
+        "zh-Hans": "开源、自托管的 Slack 替代方案，您的团队和 AI 智能体在频道和 DMs 中协同工作。智能体运行在 Claude、ChatGPT/Codex、Gemini 或 Grok…",
+        "zh-Hant": "開源、自行架設的 Slack 替代方案，您的團隊和 AI 代理在頻道和 DMs 中協同工作。代理運行在 Claude、ChatGPT/Codex、Gemini 或 Grok…"
       }
     },
     "alchaincyf/huashu-bird-sticker": {

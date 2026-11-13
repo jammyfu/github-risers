@@ -118,7 +118,7 @@
 | 專案 | 表裡的一句話 | 完整介紹 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 開源免費的私密 AI 會議記錄 | 私密 AI 會議記錄。免費且開源。 |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自行架設空間與團隊及 AI 代理協作 | Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok… |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自行架設空間與團隊及 AI 代理協作 | 開源、自行架設的 Slack 替代方案，您的團隊和 AI 代理在頻道和 DMs 中協同工作。代理運行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | 讓代理處理三維與視覺特效 | 供代理使用的無介面 3D 和 VFX 引擎. 研究預覽版. |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 讓 AI 從零做出瀏覽器 3D 動作遊戲 | 歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | DeepSeek Harness 破甲與授權滲透外掛 | 富江破甲（破甲）：DeepSeek Harness破甲外掛，激活詞富江，所有東西直接大白話問，內含技能庫skill下載與調用、漏洞知識庫poc利用、漏洞報告更新和全自動授權滲透。當前版本：0.20.13，附免責聲明。外掛圖片看最下面 |
