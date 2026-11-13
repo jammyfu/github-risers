@@ -576,6 +576,16 @@
         }
       }
     },
+    "DIYgod/pinky": {
+      "b363c2dfc4e8": {
+        "src": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+        "zh-Hans": "让 AI 在你的参与下使用你的 iPhone 或 Android 手机：来自 macOS、Windows 或 Linux 的任何 MCP 智能体，或直接在手机上的 Pinky 本身。",
+        "seen": "2026-11-13",
+        "zh-Hant": "讓 AI 在你的參與下使用你的 iPhone 或 Android 手機：來自 macOS、Windows 或 Linux 的任何 MCP 代理，或直接在手機上的 Pinky 本身。",
+        "ja": "AIがあなたのiPhoneやAndroidスマートフォンを使用（あなたもループに参加）：macOS、Windows、Linuxからの任意のMCPエージェント、またはスマートフォン上のPinky自体。",
+        "ko": "사용자가 개입한 상태에서 AI가 iPhone 또는 Android 스마트폰을 사용하도록 지원: macOS, Windows 또는 Linux의 모든 MCP 에이전트 또는 스마트폰 자체의 Pinky."
+      }
+    },
     "DandanLLab/SnowCatQQ": {
       "95251239fd5f": {
         "src": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
@@ -3508,6 +3518,15 @@
           "ja": "AI同僚の3D社員証をダウンロード",
           "ko": "AI 동료의 3D 사원증 다운로드"
         }
+      },
+      "cfd9472751a9": {
+        "src": "万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。",
+        "zh-Hans": "万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。",
+        "seen": "2026-11-13",
+        "zh-Hant": "萬物工牌｜AI 角色、人物特別篇與自訂 3D 工牌，支援拖曳翻面和透明 PNG 下載。微信公眾號：風花AI實驗室。",
+        "ja": "万物IDカード｜AIキャラクター、人物特別編とカスタム3D名札、ドラッグでの裏返しと透過PNGダウンロードに対応。WeChat公式アカウント：风花AI实验室。",
+        "ko": "만물 사원증｜AI 캐릭터, 인물 특별편 및 커스텀 3D 사원증, 드래그하여 뒤집기와 투명 PNG 다운로드 지원. 위챗 공식 계정: 风花AI实验室.",
+        "en": "Universal Badges | AI characters, character specials, and custom 3D badges, supporting drag-to-flip and transparent PNG downloads. WeChat Official Account: 风花AI实验室."
       }
     },
     "farhatullah0006-art/rx-11-audio-editor-config": {
@@ -3774,6 +3793,16 @@
           "ja": "画質そのまま、PNG をもっと小さく",
           "ko": "화질은 그대로, PNG는 더 작게"
         }
+      }
+    },
+    "hitkeeen/blender-ai-mcp-addon": {
+      "eade17d26557": {
+        "src": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI…",
+        "zh-Hans": "适用于 Blender 的 AI 助手和 MCP 服务器：可视化聊天、场景工具、多智能体工作流。支持 ChatGPT/GPT、Claude、Gemini、Ollama、OpenCode。Blender AI…",
+        "seen": "2026-11-13",
+        "zh-Hant": "適用於 Blender 的 AI 助手和 MCP 伺服器：視覺化聊天、場景工具、多代理工作流程。支援 ChatGPT/GPT、Claude、Gemini、Ollama、OpenCode。Blender AI…",
+        "ja": "Blender向けAIアシスタントおよびMCPサーバー：ビジュアルチャット、シーンツール、マルチエージェントワークフロー。ChatGPT/GPT、Claude、Gemini、Ollama、OpenCodeに対応。Blender AI…",
+        "ko": "Blender용 AI 어시스턴트 및 MCP 서버: 시각적 채팅, 씬 도구, 멀티 에이전트 워크플로. ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode와 호환. Blender AI…"
       }
     },
     "howznguyen/shorts-kit": {
@@ -4052,6 +4081,17 @@
           "ja": "Claude Code用の3Dオフィス空間",
           "ko": "Claude Code를 위한 3D 오피스 공간"
         }
+      }
+    },
+    "kociden/sakurai-skill": {
+      "e78cf8be66d9": {
+        "src": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
+        "zh-Hans": "根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语）",
+        "seen": "2026-11-13",
+        "zh-Hant": "根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語）",
+        "ja": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
+        "ko": "桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어)",
+        "en": "A game creation Agent Skill made from the subtitles of all 257 main episodes of 桜井政博のゲーム作るには (Unofficial, Japanese)"
       }
     },
     "konlu/story-studio": {
@@ -4669,6 +4709,16 @@
         }
       }
     },
+    "precygtrucqui1981/blender-ai-copilot-lab": {
+      "13935328da0f": {
+        "src": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one c…",
+        "zh-Hans": "一个适用于 Blender 的 AI 实验室，管理者–工作者–审查者智能体团队在其中将多步骤场景简报作为受监督实验运行——实时任务看板、审查发现、one c…",
+        "seen": "2026-11-13",
+        "zh-Hant": "一個適用於 Blender 的 AI 實驗室，管理者–工作者–審查者代理團隊在其中將多步驟場景簡報作為受監督實驗運行——即時任務看板、審查結果、one c…",
+        "ja": "マネージャー–ワーカー–レビュアーのエージェントチームがマルチステップのシーンブリーフを監視付き実験として実行するBlender向けAIラボ——ライブタスクボード、レビュー結果、one c…",
+        "ko": "관리자–작업자–검토자 에이전트 팀이 다단계 씬 브리프를 감독형 실험으로 실행하는 Blender용 AI 랩—실시간 작업 보드, 검토 결과, one c…"
+      }
+    },
     "purehazecottage/metatrader-5-bot": {
       "f96c4b5cc2d5": {
         "src": "Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop.",
@@ -4706,6 +4756,16 @@
           "ja": "AI によるリバースエンジニアリングからコードを守る",
           "ko": "AI 리버스 엔지니어링으로부터 코드 보호"
         }
+      }
+    },
+    "racdeufindurch198812/Blender-AI-MCP-Studio": {
+      "3e4c869e6fc1": {
+        "src": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved a…",
+        "zh-Hans": "Blender AI MCP Studio 是一款适用于 Blender 的 AI 助手和内置 Model Context Protocol MCP 服务器，可将自然语言需求转化为经过检查、批准的 a…",
+        "seen": "2026-11-13",
+        "zh-Hant": "Blender AI MCP Studio 是一款適用於 Blender 的 AI 助手和內建 Model Context Protocol MCP 伺服器，可將自然語言簡報轉化為經過檢查、批准的 a…",
+        "ja": "Blender AI MCP Studioは、自然言語のブリーフを検査および承認されたa…へと変換する、Blender向けAIアシスタントおよび内蔵Model Context Protocol MCPサーバーです。",
+        "ko": "Blender AI MCP Studio는 평이한 자연어 브리프를 검사되고 승인된 a…로 변환하는 Blender용 AI 어시스턴트이자 내장 Model Context Protocol MCP 서버입니다."
       }
     },
     "rddmwmddr/android-ad-cleaner": {

@@ -71,7 +71,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>Chat with your team and AI agents in a self-hosted space | 2026-11-09<br><sub>4.6 d</sub> | 1,293 | 281.8 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>See what Claude Code is doing in real time beside your chat | 2026-11-09<br><sub>3.8 d</sub> | 689 | 180.3 |
 | 5 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>6.7 d</sub> | 1,103 | 163.8 |
-| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） | 2026-11-12<br><sub>1.0 d</sub> | 163 | 163.0 |
+| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>A game creation Agent Skill made from the subtitles of all 257 main episodes of 桜井政博のゲーム作るには (Unofficial, Japanese) | 2026-11-12<br><sub>1.0 d</sub> | 163 | 163.0 |
 | 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>Community-maintained third-party QQ client with full source | 2026-11-11<br><sub>1.7 d</sub> | 268 | 158.5 |
 | 8 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>Let AI build a playable browser 3D action game | 2026-11-11<br><sub>1.9 d</sub> | 301 | 155.4 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>Delegate work across your AI team | 2026-11-07<br><sub>6.6 d</sub> | 833 | 127.1 |
@@ -597,7 +597,7 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>Watch series on macOS and iOS | 2026-11-07<br><sub>5.8 d</sub> | 494 | 85.7 |
-| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。 | 2026-11-06<br><sub>6.9 d</sub> | 186 | 26.9 |
+| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>Universal Badges | AI characters, character specials, and custom 3D badges, supporting drag-to-flip and transparent PNG downloads. WeChat Official Account: 风花AI实验室. | 2026-11-06<br><sub>6.9 d</sub> | 186 | 26.9 |
 
 <details>
 <summary>Star history charts for this board</summary>

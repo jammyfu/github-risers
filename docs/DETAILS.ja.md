@@ -118,7 +118,7 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 会議メモを非公開で残せる無料オープンソースAI | プライベートなAI会議メモ。無料かつオープンソース。 |
-| [DIYgod/pinky](https://github.com/DIYgod/pinky) |  | Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone. |
+| [DIYgod/pinky](https://github.com/DIYgod/pinky) |  | AIがあなたのiPhoneやAndroidスマートフォンを使用（あなたもループに参加）：macOS、Windows、Linuxからの任意のMCPエージェント、またはスマートフォン上のPinky自体。 |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | チームとAIエージェントが働くセルフホスト型チャット | チームとAIエージェントがチャンネルやDMで一緒に作業できる、オープンソースでセルフホスト型のSlack代替。エージェントはClaude、ChatGPT/Codex、Gemini、Grokで動作します… |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャット横でClaude Codeの動作をリアルタイム表示 | Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) |  | 桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） |
@@ -126,9 +126,9 @@
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | ブラウザで動く3DアクションゲームをAIが作成 | 歸藏 Game Skill：AIがゼロからブラウザで遊べる3Dアクションゲームを作成、プレイ可能なデモ《雾锁山门》付き。AI生成アセットで遊べるブラウザ3Dアクションゲームを構築するClaude Code / Codex向けエージェントスキル… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | AIチームに仕事を振り分ける | 人が率いる AI チームのためのスキル: タスクの委任、証拠の検証、手順の明確な説明、実例からの学習. 一人で AI チームをまとめる：仕事の割り振り、証拠の確認、明確な説明、経験の再利用。 |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 文章からAI感を消して書き直す | STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh… |
-| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) |  | An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one c… |
-| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) |  | Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved a… |
-| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) |  | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI… |
+| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) |  | マネージャー–ワーカー–レビュアーのエージェントチームがマルチステップのシーンブリーフを監視付き実験として実行するBlender向けAIラボ——ライブタスクボード、レビュー結果、one c… |
+| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) |  | Blender AI MCP Studioは、自然言語のブリーフを検査および承認されたa…へと変換する、Blender向けAIアシスタントおよび内蔵Model Context Protocol MCPサーバーです。 |
+| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) |  | Blender向けAIアシスタントおよびMCPサーバー：ビジュアルチャット、シーンツール、マルチエージェントワークフロー。ChatGPT/GPT、Claude、Gemini、Ollama、OpenCodeに対応。Blender AI… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 各種OSでmihomoクライアントを利用する | Bowel は macOS、Windows、Linux、Android 向けの mihomo クライアントです。 |
 | [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | モデルを量子化してローカル環境で直接実行 | GGUF、ローカル推論などのためのSOTAモデル非依存量子化。llama.cpp、vLLM、Diffusersなどでテキスト、画像、動画、音声モデルを量子化して実行… |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 使い捨てのWindows環境でアプリを試す | アプリのテストに使う、初期状態の使い捨て Windows マシン: Windows Sandbox を自動化する MCP サーバーと CLI |
@@ -157,7 +157,7 @@
 | [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag デスクトップ性能強化インストーラー | デスクトップ向けに最適化されたシステムパフォーマンス向上機能を備えた ExitLag インストーラー |
 | [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | 面倒な設定なしで、デスクトップツールを一括導入 | Chimera: フルインストーラー付き事前構成済みデスクトップユーティリティスイート |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOSとiOSでドラマを見る | HGhubクロスプラットフォームクライアント (macOS &amp; iOS 強化版) · Apple Silicon / Intelの両アーキテクチャ向けDMGと署名不要のiOS IPAに対応 · 没入感のあるドラマ視聴 / ジェスチャーによる拡大縮小 / ネイティブの横向き全画面表示 / 複数経路のミラー速度測定 |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。 |
+| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) |  | 万物IDカード｜AIキャラクター、人物特別編とカスタム3D名札、ドラッグでの裏返しと透過PNGダウンロードに対応。WeChat公式アカウント：风花AI实验室。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 動画や音楽が散らかる？セルフホスト型アプリで管理 | 番組、映画、音楽のための1つのセルフホスト型アプリ。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 手持ちのLinuxサーバーを1か所でまとめて動かす | オープンソースの ServerOS パネル：既にお持ちの Linux サーバーを実行するひとつの場所。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |

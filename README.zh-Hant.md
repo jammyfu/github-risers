@@ -67,11 +67,11 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>開源免費的私密 AI 會議記錄 | 2026-11-10<br><sub>2.8 天</sub> | 1,179 | 422.7 |
-| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone. | 2026-11-06<br><sub>6.9 天</sub> | 2,068 | 298.9 |
+| 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>讓 AI 在你的參與下使用你的 iPhone 或 Android 手機：來自 macOS、Windows 或 Linux 的任何 MCP 代理，或直接在手機上的 Pinky 本身。 | 2026-11-06<br><sub>6.9 天</sub> | 2,068 | 298.9 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自行架設空間與團隊及 AI 代理協作 | 2026-11-09<br><sub>4.6 天</sub> | 1,293 | 281.8 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… | 2026-11-09<br><sub>3.8 天</sub> | 689 | 180.3 |
 | 5 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>6.7 天</sub> | 1,103 | 163.8 |
-| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） | 2026-11-12<br><sub>1.0 天</sub> | 163 | 163.0 |
+| 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） | 2026-11-12<br><sub>1.0 天</sub> | 163 | 163.0 |
 | 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>想用第三方QQ，社群接力全功能適配新版 | 2026-11-11<br><sub>1.7 天</sub> | 268 | 158.5 |
 | 8 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill)<br>讓 AI 從零做出瀏覽器 3D 動作遊戲 | 2026-11-11<br><sub>1.9 天</sub> | 301 | 155.4 |
 | 9 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br>把任務分派給你的 AI 團隊 | 2026-11-07<br><sub>6.6 天</sub> | 833 | 127.1 |
@@ -597,7 +597,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>在 macOS 和 iOS 上追劇 | 2026-11-07<br><sub>5.8 天</sub> | 494 | 85.7 |
-| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。 | 2026-11-06<br><sub>6.9 天</sub> | 186 | 26.9 |
+| 2 | [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass)<br>萬物工牌｜AI 角色、人物特別篇與自訂 3D 工牌，支援拖曳翻面和透明 PNG 下載。微信公眾號：風花AI實驗室。 | 2026-11-06<br><sub>6.9 天</sub> | 186 | 26.9 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
