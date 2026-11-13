@@ -3538,7 +3538,8 @@
           "en": "Customize 3D character passes and export transparent PNGs",
           "zh-Hant": "自訂3D人物工牌，支援翻轉並匯出透明圖",
           "ja": "3Dキャラ工牌をカスタマイズして透過PNGで書き出す",
-          "ko": "3D 캐릭터 사원증을 직접 꾸미고 투명 PNG로 저장"
+          "ko": "3D 캐릭터 사원증을 직접 꾸미고 투명 PNG로 저장",
+          "zh-Hans": "做一张能拖拽翻面的 3D 工牌并下载"
         }
       }
     },
@@ -3819,7 +3820,9 @@
         "hook": {
           "en": "Control Blender and edit scenes through chat with any AI",
           "ja": "好きなAIとチャットしながらBlenderの制作を進める",
-          "ko": "원하는 AI와 대화하며 Blender 장면 편집하기"
+          "ko": "원하는 AI와 대화하며 Blender 장면 편집하기",
+          "zh-Hans": "在 Blender 里用对话和智能体做场景",
+          "zh-Hant": "在 Blender 裡用對話和代理做場景"
         }
       }
     },
@@ -4114,7 +4117,8 @@
           "en": "Learn game creation from 257 Masahiro Sakurai videos",
           "zh-Hant": "借助257本櫻井字幕，讓代理帶你做遊戲",
           "ja": "桜井政博の全257本からゲーム制作スキルを学ぶ",
-          "ko": "사쿠라이 마사히로 영상 257편으로 배우는 게임 제작"
+          "ko": "사쿠라이 마사히로 영상 257편으로 배우는 게임 제작",
+          "zh-Hans": "用樱井政博257本字幕做游戏制作技能"
         }
       }
     },
@@ -4744,7 +4748,9 @@
         "hook": {
           "en": "Supervise multi-agent teams running complex Blender scenes",
           "ja": "複数のエージェントが連携してBlenderの制作を進める",
-          "ko": "여러 에이전트가 협업해 Blender 장면을 제작"
+          "ko": "여러 에이전트가 협업해 Blender 장면을 제작",
+          "zh-Hans": "让智能体团队在 Blender 里分步做场景",
+          "zh-Hant": "讓代理團隊在 Blender 裡分步做場景"
         }
       }
     },
@@ -4798,7 +4804,9 @@
         "hook": {
           "en": "Turn plain words into approved 3D scenes in Blender",
           "ja": "言葉で伝えるだけでBlenderの3Dシーンを形にする",
-          "ko": "자연어로 지시해 Blender에서 3D 장면 만들기"
+          "ko": "자연어로 지시해 Blender에서 3D 장면 만들기",
+          "zh-Hans": "用大白话让 Blender 生成合格作品",
+          "zh-Hant": "用大白話讓 Blender 生成合格作品"
         }
       }
     },

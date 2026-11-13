@@ -126,9 +126,9 @@
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 讓 AI 從零做出瀏覽器 3D 動作遊戲 | 歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任務分派給你的 AI 團隊 | 由人主導的 AI 團隊技能: 分派任務、查證證據、清楚解釋步驟, 並從真實案例中學習. 一個人統籌 AI 團隊：派工、查證、清楚說明、經驗重用。 |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹除文字裡的 AI 痕跡並自動重寫 | STE80 Humanizer: 消除 AI 痕跡並將文本重寫至 80% 符合 ASD-STE100 (Simplified Technical English) 的代理技能，Andrej Karpathy sh… |
-| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) |  | 一個適用於 Blender 的 AI 實驗室，管理者–工作者–審查者代理團隊在其中將多步驟場景簡報作為受監督實驗運行——即時任務看板、審查結果、one c… |
-| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) |  | Blender AI MCP Studio 是一款適用於 Blender 的 AI 助手和內建 Model Context Protocol MCP 伺服器，可將自然語言簡報轉化為經過檢查、批准的 a… |
-| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) |  | 適用於 Blender 的 AI 助手和 MCP 伺服器：視覺化聊天、場景工具、多代理工作流程。支援 ChatGPT/GPT、Claude、Gemini、Ollama、OpenCode。Blender AI… |
+| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) | 讓代理團隊在 Blender 裡分步做場景 | 一個適用於 Blender 的 AI 實驗室，管理者–工作者–審查者代理團隊在其中將多步驟場景簡報作為受監督實驗運行——即時任務看板、審查結果、one c… |
+| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | 用大白話讓 Blender 生成合格作品 | Blender AI MCP Studio 是一款適用於 Blender 的 AI 助手和內建 Model Context Protocol MCP 伺服器，可將自然語言簡報轉化為經過檢查、批准的 a… |
+| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 在 Blender 裡用對話和代理做場景 | 適用於 Blender 的 AI 助手和 MCP 伺服器：視覺化聊天、場景工具、多代理工作流程。支援 ChatGPT/GPT、Claude、Gemini、Ollama、OpenCode。Blender AI… |
 | [21stware/bowel](https://github.com/21stware/bowel) | 在多系統裝置上使用 mihomo 客戶端 | Bowel 是適用於 macOS、Windows、Linux 和 Android 的 mihomo 用戶端。 |
 | [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 量化多模態模型並在本機順暢運行 | 適用於 GGUF、本機推理及更多場景的 SOTA 與模型無關的量化。使用 llama.cpp、vLLM、Diffusers 等量化並運行文字、圖像、影片和音訊模型，以及… |
 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 用一次性 Windows 環境測試應用 | 用全新、用完即棄的 Windows 機器測試你的應用程式: 自動操作 Windows Sandbox 的 MCP 伺服器和 CLI |
