@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 2026-11-14 (star-farm filter)
+
+- New-repo boards drop star farms: clone floods (the same repo under many throwaway accounts, e.g. `<account>/ai--manus`), fake watchers, stars nobody forks, fresh throwaway owners. Borderline cases are kept with ⚠ and ranked last. Rules: `docs/ANTI_ABUSE.md`, thresholds `data/anti_abuse.json`.
+- A blocklist in `data/anti_abuse.json` applies to every board. Dropped repos are logged in `stats.json`, never shown.
+
 ## 2026-11-07 (public first screen)
 
 - README first screen now states the value, the live-board URL, and three quick-use steps before the category leaders.

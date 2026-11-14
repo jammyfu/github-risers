@@ -22,6 +22,7 @@ from pathlib import Path
 from typing import Any
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import antiabuse  # noqa: E402
 import archive  # noqa: E402
 import i18n_pipeline  # noqa: E402
 import risers_core as core  # noqa: E402
@@ -192,18 +193,28 @@ def main(argv: list[str] | None = None) -> int:
 
     # Attach category from projects.json onto each result for per-category rankings.
     meta_by_name = {p["name"]: p for p in projects}
+    abuse_cfg = antiabuse.load_config()
     for r in results:
         meta = meta_by_name.get(r["name"], {})
         r["category"] = meta.get("category", "ai")
+        blocked = antiabuse.blocked_reason(r["name"], abuse_cfg)  # every board honours the blocklist
+        if blocked:
+            r["blocked"] = blocked
+            print(f"BLOCK {r['name']:36s} {blocked} (kept in data, never ranked)")
 
     categories = json.loads((ROOT / "data/categories.json").read_text("utf-8"))
     print("discovering new repos per category (GitHub search API, several minutes) ...", flush=True)
+    guard = antiabuse.Guard(lambda path: api_get(path, token), now, abuse_cfg)
     new = newcomers.discover_all(
-        lambda path: api_get(path, token), now, categories, projects, results, core.rank)
+        lambda path: api_get(path, token), now, categories, projects, results, core.rank, guard=guard)
     if new["ok"]:
         for cid, block in new["categories"].items():
             if block.get("ok"):
-                print(f"new[{cid}]: {len(block['items'])} ranked from {block['candidates_seen']} candidates")
+                ab = block.get("anti_abuse") or {}
+                print(f"new[{cid}]: {len(block['items'])} ranked from {block['candidates_seen']} candidates; "
+                      f"star-farm filter dropped {ab.get('dropped_count', 0)} {ab.get('by_reason', {})}")
+                for c in (ab.get("clusters") or [])[:5]:
+                    print(f"  clone cluster {c['key']}: {c['size']} repos / {c['owners']} owners, kept={c['kept']}")
             else:
                 print(f"MISS new[{cid}]: {block.get('error')}", file=sys.stderr)
     else:

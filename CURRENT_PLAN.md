@@ -52,3 +52,12 @@ Complete the latest GitHub API ranking in all five languages, including the unre
 - [x] Reuse the existing project title image and keep the facts table readable on narrow screens.
 - [x] Check generated site consistency in the repository verifier.
 - [ ] Publish an independent draft PR for review; do not merge automatically.
+
+## Star-farm filter (2026-11-14)
+
+- [x] Find how the `<account>/ai--manus` flood reached the AI and Web new-repo boards (API samples, history replay).
+- [x] Drop clone clusters, fake-watcher and zero-fork farms before ranking; flag borderline signals; blocklist on every board (`data/anti_abuse.json`).
+- [x] Log dropped repos in `stats.json`, never in a README; tests in `tests/test_antiabuse.py`.
+- [x] Replay the rules on every committed board and on a live discovery run.
+- [ ] Publish through a pull request; merge only on the owner's word. The next daily run regenerates the boards.
+

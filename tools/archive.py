@@ -91,6 +91,13 @@ def _rows(ranked: list[dict], key: str, lang: str = "en") -> list[str]:
     return out
 
 
+FARM_FLAGS = ("low-fork", "new-owner", "fork-farm")
+
+
+def _farm_flag(item: dict) -> bool:
+    return str(item.get("suspicious") or "").startswith(FARM_FLAGS)
+
+
 def _new_rows(items: list[dict]) -> list[str]:
     return [f"| {i} | [{it['name']}]({it['url']}){' ⚠' if it.get('suspicious') else ''} | {it['created_at'][:10]} | {it['stars']:,} | "
             f"{it['per_day']:,.1f} |" for i, it in enumerate(items, 1)]
@@ -156,8 +163,11 @@ def render_rankings_md(stats: dict[str, Any], lang: str = "en",
                     lines += [f"| {s['h_rank']} | {s['h_repo']} | {s['h_created']} | {s['h_stars_short']} | {s['h_perday']} |",
                               "|---|---|---|---:|---:|"]
                     lines += _new_rows(new_block.get("items", [])[:TOP_N]) + [""]
-                    if any(i.get("suspicious") for i in new_block.get("items", [])[:TOP_N]):
+                    shown = new_block.get("items", [])[:TOP_N]
+                    if any(i.get("suspicious") and not _farm_flag(i) for i in shown):
                         lines += [s["susp_note"], ""]
+                    if any(_farm_flag(i) for i in shown):  # star-farm signals (tools/antiabuse.py)
+                        lines += [s["farm_note"], ""]
                     bad = [q for q in new_block.get("queries", []) if not q.get("ok")]
                     if bad:
                         lines += [s["new_partial"].format(failed=len(bad), total=len(new_block["queries"])), ""]

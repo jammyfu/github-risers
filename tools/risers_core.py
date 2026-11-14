@@ -107,8 +107,11 @@ def snapshot_delta(
 
 
 def rank(projects: list[dict[str, Any]], key: str) -> list[dict[str, Any]]:
-    """Rank ok projects by growth window (per_day desc), or by total stars for key='total'."""
-    ok = [p for p in projects if p.get("ok")]
+    """Rank ok projects by growth window (per_day desc), or by total stars for key='total'.
+
+    A project marked `blocked` (data/anti_abuse.json blocklist, set by tools/update_stars.py) is never ranked.
+    """
+    ok = [p for p in projects if p.get("ok") and not p.get("blocked")]
     if key == "total":
         return sorted(ok, key=lambda p: (-p["stars"], p["name"]))
     return sorted(ok, key=lambda p: (-p["growth"][key]["per_day"], -p["stars"], p["name"]))
