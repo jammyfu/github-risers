@@ -6,6 +6,7 @@
 
 | 日期 | 時段 | 取得時間（UTC） | 新儲存庫第 1 名（7 天） | 本週第 1 名 | 本月第 1 名 | 今年第 1 名 | 快照 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-14 | 洛杉磯時間 00:00 (`pt-0000`) | 2026-11-14T13:50:01Z | FrigadeHQ/yogurt (366/天) | morluto/rea (2,870/天) | morluto/rea (6,977/天) | deepseek-ai/deepseek-harness (3,018/天) | [2026-11-14/pt-0000](2026-11-14/pt-0000/rankings.zh-Hant.md) · [json](2026-11-14/pt-0000/stats.json) |
 | 2026-11-13 | 洛杉磯時間 00:00 (`pt-0000`) | 2026-11-13T14:57:43Z | FrigadeHQ/yogurt (423/天) | morluto/rea (3,026/天) | morluto/rea (7,994/天) | deepseek-ai/deepseek-harness (3,044/天) | [2026-11-13/pt-0000](2026-11-13/pt-0000/rankings.zh-Hant.md) · [json](2026-11-13/pt-0000/stats.json) |
 | 2026-11-12 | 洛杉磯時間 00:00 (`pt-0000`) | 2026-11-12T15:38:41Z | FrigadeHQ/yogurt (434/天) | morluto/rea (3,168/天) | morluto/rea (9,385/天) | deepseek-ai/deepseek-harness (3,069/天) | [2026-11-12/pt-0000](2026-11-12/pt-0000/rankings.zh-Hant.md) · [json](2026-11-12/pt-0000/stats.json) |
 | 2026-11-11 | 洛杉磯時間 00:00 (`pt-0000`) | 2026-11-11T14:46:41Z | FJNB5/fujiang-pojia (253/天) | morluto/rea (3,327/天) | morluto/rea (11,093/天) | deepseek-ai/deepseek-harness (3,094/天) | [2026-11-11/pt-0000](2026-11-11/pt-0000/rankings.zh-Hant.md) · [json](2026-11-11/pt-0000/stats.json) |

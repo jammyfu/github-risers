@@ -117,47 +117,57 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 开源免费的私密 AI 会议记录 | 私密 AI 会议记录。免费且开源。 |
-| [DIYgod/pinky](https://github.com/DIYgod/pinky) | 让 AI 替你操作手机，全程由你把控 | 让 AI 在你的参与下使用你的 iPhone 或 Android 手机：来自 macOS、Windows 或 Linux 的任何 MCP 智能体，或直接在手机上的 Pinky 本身。 |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自托管空间与团队及 AI 智能体协作 | 开源、自托管的 Slack 替代方案，您的团队和 AI 智能体在频道和 DMs 中协同工作。智能体运行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
+| [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) |  | Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux. |
+| [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [BladesmithPanel/ai--manus](https://github.com/BladesmithPanel/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Boarddrunail/ai--manus](https://github.com/Boarddrunail/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Boardglacode/ai--manus](https://github.com/Boardglacode/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
-| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社区接力全功能适配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
-| [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | 把任务分派给你的 AI 团队 | 人类主导的 AI 团队技能: 分派任务、核验证据、清楚解释步骤, 并从真实案例中学习. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。 |
-| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
-| [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) | 让智能体团队在 Blender 里分步做场景 | 一个适用于 Blender 的 AI 实验室，管理者–工作者–审查者智能体团队在其中将多步骤场景简报作为受监督实验运行——实时任务看板、审查发现、one c… |
-| [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | 用大白话让 Blender 生成合格作品 | Blender AI MCP Studio 是一款适用于 Blender 的 AI 助手和内置 Model Context Protocol MCP 服务器，可将自然语言需求转化为经过检查、批准的 a… |
-| [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 在 Blender 里用对话和智能体做场景 | 适用于 Blender 的 AI 助手和 MCP 服务器：可视化聊天、场景工具、多智能体工作流。支持 ChatGPT/GPT、Claude、Gemini、Ollama、OpenCode。Blender AI… |
-| [21stware/bowel](https://github.com/21stware/bowel) | 在多系统设备上运行 mihomo 客户端 | Bowel 是适用于 macOS、Windows、Linux 和 Android 的 mihomo 客户端。 |
-| [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 量化多模态模型并在本地顺畅运行 | 适用于 GGUF、本地推理及更多场景的 SOTA 模型无关量化。使用 llama.cpp、vLLM、Diffusers 量化并运行文本、图像、视频和音频模型，以及… |
-| [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | 用一次性 Windows 环境测试应用 | 用全新、用完即弃的 Windows 机器测试你的应用: 自动操作 Windows Sandbox 的 MCP 服务器和 CLI |
-| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 用代码做出对齐语音的电影感视频 | 完全由代码构建的旁白电影感影片智能体技能：镜头在照片、地图和卡片上连续移动，配合语音节奏。Claude Code, Codex, C… |
-| [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | 视频动效难做？让剪辑智能体搞定工作流 | Eyeline 提词器遇上剪辑智能体：JSON 驱动的动画和动态图形工作流 |
-| [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) | 用AI搭建Next.js全栈应用 | 用于包含托管和身份验证的全栈 Next.js 应用的开源 AI 应用构建器 |
-| [threerocks/article2media](https://github.com/threerocks/article2media) | 把文章或视频一键做成图文和短视频 | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
-| [IsaiaR09/daemon-pro-desktop](https://github.com/IsaiaR09/daemon-pro-desktop) | daemon-pro 独立桌面完整安装配置 | daemon-pro：包含完整功能设置的完整独立桌面配置 |
-| [Arda313131882/aion-2-trainer-tool](https://github.com/Arda313131882/aion-2-trainer-tool) | 用于 AI 提示词工程的独立桌面训练工具 | Aion 2 AI 提示词工程工具包 - 独立桌面训练器安装程序 |
-| [RyoTheOne/dxo-photolab-10-config](https://github.com/RyoTheOne/dxo-photolab-10-config) | dxo-photolab-10 独立运行完整配置 | dxo-photolab-10：完整的独立配置，开箱即用，毫无保留 |
-| [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | 桌面开箱即用的 MetaTrader 5 机器人 | 社区驱动的 MetaTrader 5 机器人，具备完整功能，可供桌面使用 |
-| [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) | 为专业 DAW 工作流提供高级音频处理 | Soundpad：用于专业 DAW 工作流的高级音频处理 |
-| [SirBonney/scrcpy-mirror-control](https://github.com/SirBonney/scrcpy-mirror-control) | 简化安卓屏幕镜像与控制工作流 | Android 屏幕镜像和控制工作流，已简化 |
-| [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | 搭配驱动与工具独立刷写设备固件 | SP-Flash-Tool: 包含驱动程序和实用工具的独立固件刷机套件 |
-| [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | 让友好的社区伙伴陪你一起打理交易 | Ninjatrader Bot 2026：友好、社区驱动的交易伴侣，包含强大功能 |
-| [21041979/rufus-usb-formatter](https://github.com/21041979/rufus-usb-formatter) | 制作可引导启动盘并格式化 USB 设备 | Rufus：高级 USB 格式化和可启动驱动器创建实用工具 |
-| [farhatullah0006-art/rx-11-audio-editor-config](https://github.com/farhatullah0006-art/rx-11-audio-editor-config) | rx-11-audio-editor 安装包与配置文件 | rx-11-audio-editor 配置：用于专业音频编辑的完整独立安装程序和 dotfiles |
-| [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) |  | 启用了完整功能集的 Quicken Deluxe 桌面安装程序 |
-| [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Power Director 桌面端独立安装包 | Power Director：带有完整安装程序的独立桌面视频编辑套件 |
-| [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | 调优系统设置以提升 Windows 运行性能 | Windows Optimizer：高级系统微调与性能增强 |
-| [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | 直接运行现成配好的桌面实用配置 | Kontakt 8 桌面实用工具配置：有主见的 dotfiles，可直接运行 |
-| [blockacc12345/music-maker-unlimited](https://github.com/blockacc12345/music-maker-unlimited) | 想在桌面制作音乐，装好就能直接开始 | MusicMakerUnlimited：功能齐全的桌面音乐制作安装程序，可直接运行 |
-| [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Payday 3 修改器，标明为全激活桌面版 | Payday 3 Trainer 工具 - 完全激活的桌面版本，即玩就绪 |
-| [vishnu05-codes/ozone-12-advanced](https://github.com/vishnu05-codes/ozone-12-advanced) | Ozone 12 Advanced 桌面工具与增强配置 | Ozone 12 Advanced：具有增强配置的专业桌面实用工具 |
-| [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | 在桌面用全功能专业套件编辑音频 | Melodyne-5：具有完整功能集的专业音频编辑桌面套件 |
-| [farhodzodatojiddin5-cpu/exitlag-optimizer](https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer) | ExitLag 桌面性能增强安装程序 | 带有针对桌面优化的系统性能增强功能的 ExitLag 安装程序 |
-| [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | 省去繁琐配置，桌面工具完整安装 | Chimera: 预配置的桌面实用工具套件，附带完整安装程序 |
-| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追剧 | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
-| [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) | 做一张能拖拽翻面的 3D 工牌并下载 | 万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。 |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) |  | Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file. |
+| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API k… |
+| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crash… |
+| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive R… |
+| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) |  | Cubase Studio 2026 desktop setup with full plugin suite and complete feature set |
+| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) |  | Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled ta… |
+| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) |  | CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single… |
+| [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) |  | Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to… |
+| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) |  | Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and me… |
+| [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) |  | Ableton Live 12 pre-configured environment for professional audio workstation deployment in isolated local studio setup. |
+| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) |  | The open-source Dynamic Island for React, installed with shadcn. |
+| [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [blendhokagedestroy/ai--manus](https://github.com/blendhokagedestroy/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Boldpleinverter/ai--manus](https://github.com/Boldpleinverter/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [bravecrownvalve/ai--manus](https://github.com/bravecrownvalve/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [BrickAssemblyRepel/ai--manus](https://github.com/BrickAssemblyRepel/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [ceilingthunderretort/ai--manus](https://github.com/ceilingthunderretort/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [ChannelSparrowYank/ai--manus](https://github.com/ChannelSparrowYank/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [Lightningeuchant/ai--manus](https://github.com/Lightningeuchant/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [PolygonGlazier/ai--manus](https://github.com/PolygonGlazier/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
+| [StudentSeparate/ai--manus](https://github.com/StudentSeparate/ai--manus) |  | AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 在一处集中运行你已有的 Linux 服务器 | 开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |

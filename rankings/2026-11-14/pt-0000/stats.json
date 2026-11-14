@@ -1,0 +1,5189 @@
+{
+  "generated_at": "2026-11-14T13:50:01Z",
+  "today_utc": "2026-11-14",
+  "slot": {
+    "name": "pt",
+    "id": "pt-0000",
+    "date": "2026-11-14",
+    "label": "Los Angeles 00:00",
+    "tz": "America/Los_Angeles"
+  },
+  "windows_days": {
+    "week": 7,
+    "month": 30,
+    "year": 365
+  },
+  "method": "stars = GET /repos/{r}.stargazers_count; gained = sum of daily buckets from GET /repos/{r}/stargazers/history over the N complete UTC days before today; newcomers = per-category GitHub search (topics in data/categories.json; repo must carry a category topic)",
+  "projects": [
+    {
+      "name": "morluto/rea",
+      "ok": true,
+      "stars": 458892,
+      "created_at": "2026-04-14T00:51:32Z",
+      "archived": false,
+      "github_description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 20088,
+          "effective_days": 7,
+          "per_day": 2869.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 209304,
+          "effective_days": 30,
+          "per_day": 6976.8,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 458250,
+          "effective_days": 214,
+          "per_day": 2141.355,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 458892,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 19351
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "ok": true,
+      "stars": 226785,
+      "created_at": "2025-04-30T20:08:00Z",
+      "archived": false,
+      "github_description": "The open source coding agent.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 1965,
+          "effective_days": 7,
+          "per_day": 280.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 14211,
+          "effective_days": 30,
+          "per_day": 473.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 195380,
+          "effective_days": 365,
+          "per_day": 535.288,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 1609
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "stablyai/orca",
+      "ok": true,
+      "stars": 124716,
+      "created_at": "2026-03-17T03:28:57Z",
+      "archived": false,
+      "github_description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6731,
+          "effective_days": 7,
+          "per_day": 961.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 32487,
+          "effective_days": 30,
+          "per_day": 1082.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 124530,
+          "effective_days": 242,
+          "per_day": 514.587,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 124716,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 6507
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "ok": true,
+      "stars": 72290,
+      "created_at": "2026-06-18T14:08:44Z",
+      "archived": false,
+      "github_description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 7696,
+          "effective_days": 7,
+          "per_day": 1099.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 42686,
+          "effective_days": 30,
+          "per_day": 1422.867,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 72096,
+          "effective_days": 149,
+          "per_day": 483.866,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 72288,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 7446
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "ok": true,
+      "stars": 84175,
+      "created_at": "2026-03-10T01:51:06Z",
+      "archived": false,
+      "github_description": "Write HTML. Render video. Built for agents.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 3941,
+          "effective_days": 7,
+          "per_day": 563.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 20496,
+          "effective_days": 30,
+          "per_day": 683.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 84057,
+          "effective_days": 249,
+          "per_day": 337.578,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 84175,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 3853
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "ok": true,
+      "stars": 190646,
+      "created_at": "2026-06-12T00:52:37Z",
+      "archived": false,
+      "github_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 4715,
+          "effective_days": 7,
+          "per_day": 673.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 27560,
+          "effective_days": 30,
+          "per_day": 918.667,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 190493,
+          "effective_days": 155,
+          "per_day": 1228.987,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 190646,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 4526
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "ok": true,
+      "stars": 147514,
+      "created_at": "2026-04-03T15:49:07Z",
+      "archived": false,
+      "github_description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 3923,
+          "effective_days": 7,
+          "per_day": 560.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 21351,
+          "effective_days": 30,
+          "per_day": 711.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 147400,
+          "effective_days": 225,
+          "per_day": 655.111,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 147514,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 3749
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "ok": true,
+      "stars": 394433,
+      "created_at": "2025-11-24T10:16:47Z",
+      "archived": false,
+      "github_description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 799,
+          "effective_days": 7,
+          "per_day": 114.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 4217,
+          "effective_days": 30,
+          "per_day": 140.567,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 394402,
+          "effective_days": 355,
+          "per_day": 1110.992,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 394433,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 329
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "ok": true,
+      "stars": 280918,
+      "created_at": "2026-08-13T11:56:32Z",
+      "archived": false,
+      "github_description": "DeepSeek Harness: Everything is a Plugin.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 5941,
+          "effective_days": 7,
+          "per_day": 848.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 32052,
+          "effective_days": 30,
+          "per_day": 1068.4,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 280719,
+          "effective_days": 93,
+          "per_day": 3018.484,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 280918,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 5495
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "ok": true,
+      "stars": 302675,
+      "created_at": "2026-01-18T00:51:51Z",
+      "archived": false,
+      "github_description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 4119,
+          "effective_days": 7,
+          "per_day": 588.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 24207,
+          "effective_days": 30,
+          "per_day": 806.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 302558,
+          "effective_days": 300,
+          "per_day": 1008.527,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 302675,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 3803
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "yetone/magpie",
+      "ok": true,
+      "stars": 36411,
+      "created_at": "2026-09-23T16:22:35Z",
+      "archived": false,
+      "github_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 4960,
+          "effective_days": 7,
+          "per_day": 708.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 23503,
+          "effective_days": 30,
+          "per_day": 783.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 36273,
+          "effective_days": 52,
+          "per_day": 697.558,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 36411,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 4814
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "ok": true,
+      "stars": 111706,
+      "created_at": "2026-02-24T02:10:24Z",
+      "archived": false,
+      "github_description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 1989,
+          "effective_days": 7,
+          "per_day": 284.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 14642,
+          "effective_days": 30,
+          "per_day": 488.067,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 111642,
+          "effective_days": 263,
+          "per_day": 424.494,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 111706,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 1848
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "ok": true,
+      "stars": 115365,
+      "created_at": "2026-02-19T21:44:05Z",
+      "archived": false,
+      "github_description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 4000,
+          "effective_days": 7,
+          "per_day": 571.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 18975,
+          "effective_days": 30,
+          "per_day": 632.5,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 115195,
+          "effective_days": 268,
+          "per_day": 429.832,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 115365,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 3943
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "ok": true,
+      "stars": 149327,
+      "created_at": "2025-11-30T11:36:31Z",
+      "archived": false,
+      "github_description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 3057,
+          "effective_days": 7,
+          "per_day": 436.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 13803,
+          "effective_days": 30,
+          "per_day": 460.1,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 149211,
+          "effective_days": 349,
+          "per_day": 427.539,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 149327,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 2960
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "cheaper-inference/OmniRoute",
+      "ok": true,
+      "stars": 87319,
+      "created_at": "2026-02-13T12:38:31Z",
+      "archived": false,
+      "github_description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2155,
+          "effective_days": 7,
+          "per_day": 307.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 11096,
+          "effective_days": 30,
+          "per_day": 369.867,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 87238,
+          "effective_days": 274,
+          "per_day": 318.387,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 87319,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 2009
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "ok": true,
+      "stars": 113830,
+      "created_at": "2026-03-02T15:01:51Z",
+      "archived": false,
+      "github_description": "The open-source app everyone uses to manage agents at work",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2051,
+          "effective_days": 7,
+          "per_day": 293.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 11866,
+          "effective_days": 30,
+          "per_day": 395.533,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 113756,
+          "effective_days": 257,
+          "per_day": 442.63,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 113830,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 1946
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "ok": true,
+      "stars": 154380,
+      "created_at": "2025-08-04T14:16:16Z",
+      "archived": false,
+      "github_description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2049,
+          "effective_days": 7,
+          "per_day": 292.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 10647,
+          "effective_days": 30,
+          "per_day": 354.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 150298,
+          "effective_days": 365,
+          "per_day": 411.775,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 1852
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "ok": true,
+      "stars": 263296,
+      "created_at": "2025-07-22T22:22:28Z",
+      "archived": false,
+      "github_description": "The agent that grows with you",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2345,
+          "effective_days": 7,
+          "per_day": 335.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 10493,
+          "effective_days": 30,
+          "per_day": 349.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 263247,
+          "effective_days": 365,
+          "per_day": 721.225,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 1934
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "ok": true,
+      "stars": 25976,
+      "created_at": "2026-03-21T00:28:43Z",
+      "archived": false,
+      "github_description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 1228,
+          "effective_days": 7,
+          "per_day": 175.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 5784,
+          "effective_days": 30,
+          "per_day": 192.8,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 25933,
+          "effective_days": 238,
+          "per_day": 108.962,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 25976,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 1223
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "ok": true,
+      "stars": 117386,
+      "created_at": "2026-02-15T20:20:26Z",
+      "archived": false,
+      "github_description": "Production-grade engineering skills for AI coding agents.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 3612,
+          "effective_days": 7,
+          "per_day": 516.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 10916,
+          "effective_days": 30,
+          "per_day": 363.867,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 117254,
+          "effective_days": 272,
+          "per_day": 431.081,
+          "young": true
+        }
+      },
+      "history_complete": true,
+      "history_total": 117385,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 3563
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "ok": true,
+      "stars": 116977,
+      "created_at": "2025-08-31T20:50:03Z",
+      "archived": false,
+      "github_description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 2926,
+          "effective_days": 7,
+          "per_day": 418.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 16596,
+          "effective_days": 30,
+          "per_day": 553.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 116513,
+          "effective_days": 365,
+          "per_day": 319.214,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 2743
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "anthropics/skills",
+      "ok": true,
+      "stars": 194398,
+      "created_at": "2025-09-22T15:53:31Z",
+      "archived": false,
+      "github_description": "Public repository for Agent Skills",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6162,
+          "effective_days": 7,
+          "per_day": 880.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 13568,
+          "effective_days": 30,
+          "per_day": 452.267,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 178011,
+          "effective_days": 365,
+          "per_day": 487.701,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 6033
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "ai"
+    },
+    {
+      "name": "astral-sh/uv",
+      "ok": true,
+      "stars": 91989,
+      "created_at": "2023-10-02T20:24:11Z",
+      "archived": false,
+      "github_description": "An extremely fast Python package and project manager, written in Rust.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 408,
+          "effective_days": 7,
+          "per_day": 58.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1386,
+          "effective_days": 30,
+          "per_day": 46.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 20758,
+          "effective_days": 365,
+          "per_day": 56.871,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 269
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "oven-sh/bun",
+      "ok": true,
+      "stars": 96693,
+      "created_at": "2021-04-14T00:48:17Z",
+      "archived": false,
+      "github_description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 159,
+          "effective_days": 7,
+          "per_day": 22.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 685,
+          "effective_days": 30,
+          "per_day": 22.833,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 16517,
+          "effective_days": 365,
+          "per_day": 45.252,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 16
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "biomejs/biome",
+      "ok": true,
+      "stars": 26102,
+      "created_at": "2023-07-27T20:30:22Z",
+      "archived": false,
+      "github_description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 55,
+          "effective_days": 7,
+          "per_day": 7.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 216,
+          "effective_days": 30,
+          "per_day": 7.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4426,
+          "effective_days": 365,
+          "per_day": 12.126,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 47
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "zed-industries/zed",
+      "ok": true,
+      "stars": 95021,
+      "created_at": "2021-02-20T03:01:06Z",
+      "archived": false,
+      "github_description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 1280,
+          "effective_days": 7,
+          "per_day": 182.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 3552,
+          "effective_days": 30,
+          "per_day": 118.4,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 27392,
+          "effective_days": 365,
+          "per_day": 75.047,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 974
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "helix-editor/helix",
+      "ok": true,
+      "stars": 46892,
+      "created_at": "2020-06-01T04:26:56Z",
+      "archived": false,
+      "github_description": "A post-modern modal text editor.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 99,
+          "effective_days": 7,
+          "per_day": 14.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 415,
+          "effective_days": 30,
+          "per_day": 13.833,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6514,
+          "effective_days": 365,
+          "per_day": 17.847,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": -13
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "jdx/mise",
+      "ok": true,
+      "stars": 36130,
+      "created_at": "2023-01-09T14:44:21Z",
+      "archived": false,
+      "github_description": "dev tools, env vars, task runner",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 256,
+          "effective_days": 7,
+          "per_day": 36.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1182,
+          "effective_days": 30,
+          "per_day": 39.4,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 15228,
+          "effective_days": 365,
+          "per_day": 41.721,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 241
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "cli/cli",
+      "ok": true,
+      "stars": 47015,
+      "created_at": "2019-10-03T15:24:53Z",
+      "archived": false,
+      "github_description": "GitHub’s official command line tool",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 117,
+          "effective_days": 7,
+          "per_day": 16.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 448,
+          "effective_days": 30,
+          "per_day": 14.933,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6313,
+          "effective_days": 365,
+          "per_day": 17.296,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 114
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "BurntSushi/ripgrep",
+      "ok": true,
+      "stars": 69944,
+      "created_at": "2016-03-11T02:02:33Z",
+      "archived": false,
+      "github_description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 223,
+          "effective_days": 7,
+          "per_day": 31.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 959,
+          "effective_days": 30,
+          "per_day": 31.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 13374,
+          "effective_days": 365,
+          "per_day": 36.641,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 87
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "devtools"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "ok": true,
+      "stars": 39337,
+      "created_at": "2019-04-11T01:01:07Z",
+      "archived": false,
+      "github_description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 252,
+          "effective_days": 7,
+          "per_day": 36.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 955,
+          "effective_days": 30,
+          "per_day": 31.833,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 10380,
+          "effective_days": 365,
+          "per_day": 28.438,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 247
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "anchore/grype",
+      "ok": true,
+      "stars": 13265,
+      "created_at": "2020-05-26T13:44:38Z",
+      "archived": false,
+      "github_description": "A vulnerability scanner for container images and filesystems",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 63,
+          "effective_days": 7,
+          "per_day": 9.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 246,
+          "effective_days": 30,
+          "per_day": 8.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2386,
+          "effective_days": 365,
+          "per_day": 6.537,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 62
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "semgrep/semgrep",
+      "ok": true,
+      "stars": 17670,
+      "created_at": "2019-12-13T09:29:54Z",
+      "archived": false,
+      "github_description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 139,
+          "effective_days": 7,
+          "per_day": 19.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 627,
+          "effective_days": 30,
+          "per_day": 20.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4538,
+          "effective_days": 365,
+          "per_day": 12.433,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 135
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "projectdiscovery/nuclei",
+      "ok": true,
+      "stars": 32904,
+      "created_at": "2020-04-03T18:47:11Z",
+      "archived": false,
+      "github_description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 257,
+          "effective_days": 7,
+          "per_day": 36.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 933,
+          "effective_days": 30,
+          "per_day": 31.1,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7854,
+          "effective_days": 365,
+          "per_day": 21.518,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 248
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "falcosecurity/falco",
+      "ok": true,
+      "stars": 9579,
+      "created_at": "2016-01-19T21:58:12Z",
+      "archived": false,
+      "github_description": "Cloud Native Runtime Security",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 20,
+          "effective_days": 7,
+          "per_day": 2.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 117,
+          "effective_days": 30,
+          "per_day": 3.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1272,
+          "effective_days": 365,
+          "per_day": 3.485,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 19
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "google/osv-scanner",
+      "ok": true,
+      "stars": 11516,
+      "created_at": "2022-11-14T01:05:20Z",
+      "archived": false,
+      "github_description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 78,
+          "effective_days": 7,
+          "per_day": 11.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 347,
+          "effective_days": 30,
+          "per_day": 11.567,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3599,
+          "effective_days": 365,
+          "per_day": 9.86,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 69
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "securego/gosec",
+      "ok": true,
+      "stars": 9005,
+      "created_at": "2016-07-18T18:01:08Z",
+      "archived": false,
+      "github_description": "Go security checker",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 6,
+          "effective_days": 7,
+          "per_day": 0.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 38,
+          "effective_days": 30,
+          "per_day": 1.267,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 553,
+          "effective_days": 365,
+          "per_day": 1.515,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 5
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "OWASP/CheatSheetSeries",
+      "ok": true,
+      "stars": 34056,
+      "created_at": "2018-12-21T14:26:43Z",
+      "archived": false,
+      "github_description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 138,
+          "effective_days": 7,
+          "per_day": 19.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 449,
+          "effective_days": 30,
+          "per_day": 14.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3641,
+          "effective_days": 365,
+          "per_day": 9.975,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 128
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "security"
+    },
+    {
+      "name": "vercel/next.js",
+      "ok": true,
+      "stars": 143510,
+      "created_at": "2016-10-05T23:32:51Z",
+      "archived": false,
+      "github_description": "The React Framework",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 188,
+          "effective_days": 7,
+          "per_day": 26.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 786,
+          "effective_days": 30,
+          "per_day": 26.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 10407,
+          "effective_days": 365,
+          "per_day": 28.512,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 131
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "facebook/react",
+      "ok": true,
+      "stars": 252602,
+      "created_at": "2013-05-24T16:15:54Z",
+      "archived": false,
+      "github_description": "The library for web and native user interfaces.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 452,
+          "effective_days": 7,
+          "per_day": 64.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 2006,
+          "effective_days": 30,
+          "per_day": 66.867,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 15680,
+          "effective_days": 365,
+          "per_day": 42.959,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 255
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "vuejs/core",
+      "ok": true,
+      "stars": 55016,
+      "created_at": "2018-06-12T13:49:36Z",
+      "archived": false,
+      "github_description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 200,
+          "effective_days": 7,
+          "per_day": 28.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 464,
+          "effective_days": 30,
+          "per_day": 15.467,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3719,
+          "effective_days": 365,
+          "per_day": 10.189,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 175
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "ok": true,
+      "stars": 88733,
+      "created_at": "2016-11-20T18:13:05Z",
+      "archived": false,
+      "github_description": "web development for the rest of us",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 199,
+          "effective_days": 7,
+          "per_day": 28.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 531,
+          "effective_days": 30,
+          "per_day": 17.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 5203,
+          "effective_days": 365,
+          "per_day": 14.255,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 76
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "withastro/astro",
+      "ok": true,
+      "stars": 63940,
+      "created_at": "2021-03-15T17:19:47Z",
+      "archived": false,
+      "github_description": "The web framework for content-driven websites.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 175,
+          "effective_days": 7,
+          "per_day": 25.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 807,
+          "effective_days": 30,
+          "per_day": 26.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 10564,
+          "effective_days": 365,
+          "per_day": 28.942,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 141
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "ok": true,
+      "stars": 98601,
+      "created_at": "2017-10-06T14:59:14Z",
+      "archived": false,
+      "github_description": "A utility-first CSS framework for rapid UI development.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 568,
+          "effective_days": 7,
+          "per_day": 81.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 933,
+          "effective_days": 30,
+          "per_day": 31.1,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 8913,
+          "effective_days": 365,
+          "per_day": 24.419,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 387
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "ok": true,
+      "stars": 128166,
+      "created_at": "2023-01-04T12:43:27Z",
+      "archived": false,
+      "github_description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 676,
+          "effective_days": 7,
+          "per_day": 96.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 2797,
+          "effective_days": 30,
+          "per_day": 93.233,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 30497,
+          "effective_days": 365,
+          "per_day": 83.553,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 604
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "tanstack/query",
+      "ok": true,
+      "stars": 50564,
+      "created_at": "2019-09-10T19:23:58Z",
+      "archived": false,
+      "github_description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 40,
+          "effective_days": 7,
+          "per_day": 5.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 203,
+          "effective_days": 30,
+          "per_day": 6.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3749,
+          "effective_days": 365,
+          "per_day": 10.271,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 29
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "web"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "ok": true,
+      "stars": 129056,
+      "created_at": "2014-06-06T22:56:04Z",
+      "archived": false,
+      "github_description": "Production-Grade Container Scheduling and Management",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 301,
+          "effective_days": 7,
+          "per_day": 43.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1098,
+          "effective_days": 30,
+          "per_day": 36.6,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 11804,
+          "effective_days": 365,
+          "per_day": 32.34,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 172
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "docker/compose",
+      "ok": true,
+      "stars": 38833,
+      "created_at": "2013-12-09T11:40:58Z",
+      "archived": false,
+      "github_description": "Define and run multi-container applications with Docker",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 219,
+          "effective_days": 7,
+          "per_day": 31.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 537,
+          "effective_days": 30,
+          "per_day": 17.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2822,
+          "effective_days": 365,
+          "per_day": 7.732,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 202
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "ok": true,
+      "stars": 50227,
+      "created_at": "2014-03-13T22:25:48Z",
+      "archived": false,
+      "github_description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 88,
+          "effective_days": 7,
+          "per_day": 12.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 401,
+          "effective_days": 30,
+          "per_day": 13.367,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3808,
+          "effective_days": 365,
+          "per_day": 10.433,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 72
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "pulumi/pulumi",
+      "ok": true,
+      "stars": 25903,
+      "created_at": "2016-10-31T21:02:47Z",
+      "archived": false,
+      "github_description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 67,
+          "effective_days": 7,
+          "per_day": 9.571,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 158,
+          "effective_days": 30,
+          "per_day": 5.267,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2110,
+          "effective_days": 365,
+          "per_day": 5.781,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 55
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "ok": true,
+      "stars": 79038,
+      "created_at": "2015-01-13T19:45:03Z",
+      "archived": false,
+      "github_description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 198,
+          "effective_days": 7,
+          "per_day": 28.286,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1193,
+          "effective_days": 30,
+          "per_day": 39.767,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 12076,
+          "effective_days": 365,
+          "per_day": 33.085,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 172
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "traefik/traefik",
+      "ok": true,
+      "stars": 65543,
+      "created_at": "2015-09-13T19:04:02Z",
+      "archived": false,
+      "github_description": "The Cloud Native Application Proxy",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 80,
+          "effective_days": 7,
+          "per_day": 11.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 424,
+          "effective_days": 30,
+          "per_day": 14.133,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 8300,
+          "effective_days": 365,
+          "per_day": 22.74,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 56
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "ok": true,
+      "stars": 67599,
+      "created_at": "2012-11-24T11:14:12Z",
+      "archived": false,
+      "github_description": "The Prometheus monitoring system and time series database.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 449,
+          "effective_days": 7,
+          "per_day": 64.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1154,
+          "effective_days": 30,
+          "per_day": 38.467,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7031,
+          "effective_days": 365,
+          "per_day": 19.263,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 306
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "grafana/grafana",
+      "ok": true,
+      "stars": 77898,
+      "created_at": "2013-12-11T15:59:56Z",
+      "archived": false,
+      "github_description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 187,
+          "effective_days": 7,
+          "per_day": 26.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 763,
+          "effective_days": 30,
+          "per_day": 25.433,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7969,
+          "effective_days": 365,
+          "per_day": 21.833,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 155
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "infra"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "ok": true,
+      "stars": 135672,
+      "created_at": "2020-01-02T01:04:43Z",
+      "archived": false,
+      "github_description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 451,
+          "effective_days": 7,
+          "per_day": 64.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1987,
+          "effective_days": 30,
+          "per_day": 66.233,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 26949,
+          "effective_days": 365,
+          "per_day": 73.833,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 397
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "penpot/penpot",
+      "ok": true,
+      "stars": 62345,
+      "created_at": "2015-12-29T22:09:07Z",
+      "archived": false,
+      "github_description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 230,
+          "effective_days": 7,
+          "per_day": 32.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 1401,
+          "effective_days": 30,
+          "per_day": 46.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 21621,
+          "effective_days": 365,
+          "per_day": 59.236,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 192
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "jgraph/drawio",
+      "ok": true,
+      "stars": 9362,
+      "created_at": "2016-09-06T12:59:15Z",
+      "archived": false,
+      "github_description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 134,
+          "effective_days": 7,
+          "per_day": 19.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 609,
+          "effective_days": 30,
+          "per_day": 20.3,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6624,
+          "effective_days": 365,
+          "per_day": 18.148,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 128
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "lottiefiles/lottie-ios",
+      "ok": true,
+      "stars": 43,
+      "created_at": "2019-12-09T03:41:33Z",
+      "archived": false,
+      "github_description": "An iOS library to natively render After Effects vector animations",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 0,
+          "effective_days": 7,
+          "per_day": 0.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 0,
+          "effective_days": 30,
+          "per_day": 0.0,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1,
+          "effective_days": 365,
+          "per_day": 0.003,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 0
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "airbnb/lottie-web",
+      "ok": true,
+      "stars": 32411,
+      "created_at": "2015-02-20T21:02:59Z",
+      "archived": false,
+      "github_description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 45,
+          "effective_days": 7,
+          "per_day": 6.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 209,
+          "effective_days": 30,
+          "per_day": 6.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1152,
+          "effective_days": 365,
+          "per_day": 3.156,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 38
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "saadeghi/daisyui",
+      "ok": true,
+      "stars": 42837,
+      "created_at": "2020-11-28T22:57:27Z",
+      "archived": false,
+      "github_description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 90,
+          "effective_days": 7,
+          "per_day": 12.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 316,
+          "effective_days": 30,
+          "per_day": 10.533,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4226,
+          "effective_days": 365,
+          "per_day": 11.578,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 73
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "lucide-icons/lucide",
+      "ok": true,
+      "stars": 25755,
+      "created_at": "2020-06-08T15:36:21Z",
+      "archived": false,
+      "github_description": "Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. ",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 154,
+          "effective_days": 7,
+          "per_day": 22.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 777,
+          "effective_days": 30,
+          "per_day": 25.9,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 6382,
+          "effective_days": 365,
+          "per_day": 17.485,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 136
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "phosphor-icons/homepage",
+      "ok": true,
+      "stars": 7809,
+      "created_at": "2020-07-14T21:45:56Z",
+      "archived": false,
+      "github_description": "The homepage of Phosphor Icons, a flexible icon family for everyone",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 36,
+          "effective_days": 7,
+          "per_day": 5.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 166,
+          "effective_days": 30,
+          "per_day": 5.533,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2209,
+          "effective_days": 365,
+          "per_day": 6.052,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 34
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "design"
+    },
+    {
+      "name": "duckdb/duckdb",
+      "ok": true,
+      "stars": 43059,
+      "created_at": "2018-06-26T15:04:45Z",
+      "archived": false,
+      "github_description": "DuckDB is a high-performance analytical database system",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 197,
+          "effective_days": 7,
+          "per_day": 28.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 959,
+          "effective_days": 30,
+          "per_day": 31.967,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 9438,
+          "effective_days": 365,
+          "per_day": 25.858,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 177
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "pola-rs/polars",
+      "ok": true,
+      "stars": 40339,
+      "created_at": "2020-05-13T19:45:33Z",
+      "archived": false,
+      "github_description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 76,
+          "effective_days": 7,
+          "per_day": 10.857,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 301,
+          "effective_days": 30,
+          "per_day": 10.033,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 4800,
+          "effective_days": 365,
+          "per_day": 13.151,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 62
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "apache/arrow",
+      "ok": true,
+      "stars": 17294,
+      "created_at": "2016-02-17T08:00:23Z",
+      "archived": false,
+      "github_description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 17,
+          "effective_days": 7,
+          "per_day": 2.429,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 101,
+          "effective_days": 30,
+          "per_day": 3.367,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 1301,
+          "effective_days": 365,
+          "per_day": 3.564,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 17
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "ok": true,
+      "stars": 14171,
+      "created_at": "2016-03-10T02:38:00Z",
+      "archived": false,
+      "github_description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 42,
+          "effective_days": 7,
+          "per_day": 6.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 169,
+          "effective_days": 30,
+          "per_day": 5.633,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 2473,
+          "effective_days": 365,
+          "per_day": 6.775,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 41
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "apache/superset",
+      "ok": true,
+      "stars": 75523,
+      "created_at": "2015-07-21T18:55:34Z",
+      "archived": false,
+      "github_description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 99,
+          "effective_days": 7,
+          "per_day": 14.143,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 471,
+          "effective_days": 30,
+          "per_day": 15.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7380,
+          "effective_days": 365,
+          "per_day": 20.219,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 74
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "ClickHouse/ClickHouse",
+      "ok": true,
+      "stars": 50923,
+      "created_at": "2016-06-02T08:28:18Z",
+      "archived": false,
+      "github_description": "ClickHouse® is a real-time analytics database management system",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 138,
+          "effective_days": 7,
+          "per_day": 19.714,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 576,
+          "effective_days": 30,
+          "per_day": 19.2,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 7576,
+          "effective_days": 365,
+          "per_day": 20.756,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 123
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "apache/kafka",
+      "ok": true,
+      "stars": 34219,
+      "created_at": "2011-08-15T18:06:16Z",
+      "archived": false,
+      "github_description": "Apache Kafka - A distributed event streaming platform",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 42,
+          "effective_days": 7,
+          "per_day": 6.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 321,
+          "effective_days": 30,
+          "per_day": 10.7,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 3320,
+          "effective_days": 365,
+          "per_day": 9.096,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 28
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    },
+    {
+      "name": "jupyter/notebook",
+      "ok": true,
+      "stars": 13468,
+      "created_at": "2015-04-09T06:58:03Z",
+      "archived": false,
+      "github_description": "Jupyter Interactive Notebook",
+      "growth": {
+        "week": {
+          "window_days": 7,
+          "gained": 7,
+          "effective_days": 7,
+          "per_day": 1.0,
+          "young": false
+        },
+        "month": {
+          "window_days": 30,
+          "gained": 49,
+          "effective_days": 30,
+          "per_day": 1.633,
+          "young": false
+        },
+        "year": {
+          "window_days": 365,
+          "gained": 878,
+          "effective_days": 365,
+          "per_day": 2.405,
+          "young": false
+        }
+      },
+      "history_complete": false,
+      "history_total": null,
+      "snapshot_check": {
+        "week": {
+          "since": "2026-11-07",
+          "delta": 7
+        },
+        "month": null,
+        "year": null
+      },
+      "category": "data"
+    }
+  ],
+  "newcomers": {
+    "ok": true,
+    "window_days": 7,
+    "since": "2026-11-07T13:50:01Z",
+    "min_stars": 100,
+    "top_n": 20,
+    "categories": {
+      "ai": {
+        "category": "ai",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:ai",
+            "q": "topic:ai created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 426
+          },
+          {
+            "label": "topic:artificial-intelligence",
+            "q": "topic:artificial-intelligence created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:llm",
+            "q": "topic:llm created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 434
+          },
+          {
+            "label": "topic:large-language-models",
+            "q": "topic:large-language-models created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:llm-agent",
+            "q": "topic:llm-agent created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:ai-agents",
+            "q": "topic:ai-agents created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 433
+          },
+          {
+            "label": "topic:ai-agent",
+            "q": "topic:ai-agent created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 3
+          },
+          {
+            "label": "topic:mcp",
+            "q": "topic:mcp created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 19
+          },
+          {
+            "label": "topic:mcp-server",
+            "q": "topic:mcp-server created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 14
+          },
+          {
+            "label": "topic:claude-code",
+            "q": "topic:claude-code created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 13
+          },
+          {
+            "label": "topic:generative-ai",
+            "q": "topic:generative-ai created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 424
+          },
+          {
+            "label": "topic:machine-learning",
+            "q": "topic:machine-learning created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:deep-learning",
+            "q": "topic:deep-learning created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:rag",
+            "q": "topic:rag created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:vibe-coding",
+            "q": "topic:vibe-coding created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          }
+        ],
+        "candidates_seen": 337,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [
+          {
+            "name": "FrigadeHQ/yogurt",
+            "repo_id": 1453132706,
+            "url": "https://github.com/FrigadeHQ/yogurt",
+            "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+            "language": "TypeScript",
+            "stars": 1368,
+            "created_at": "2026-11-10T20:01:01Z",
+            "age_days": 3.74,
+            "per_day": 365.5,
+            "topics": [
+              "ai-meeting-assistant",
+              "ai-notetaker",
+              "electron",
+              "granola-alternative",
+              "linux",
+              "llama-cpp",
+              "local-ai",
+              "local-first",
+              "macos",
+              "mcp",
+              "meeting-minutes",
+              "meeting-notes",
+              "offline-first",
+              "open-source",
+              "privacy",
+              "speech-to-text",
+              "transcription",
+              "whisper",
+              "whisper-cpp",
+              "windows"
+            ]
+          },
+          {
+            "name": "AdmiralEmporium/ai--manus",
+            "repo_id": 1456851561,
+            "url": "https://github.com/AdmiralEmporium/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:28Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "ApothecaryDesign/ai--manus",
+            "repo_id": 1456851674,
+            "url": "https://github.com/ApothecaryDesign/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:33Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "ArcherAmplify/ai--manus",
+            "repo_id": 1456851763,
+            "url": "https://github.com/ArcherAmplify/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:37Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Archiveeutrough/ai--manus",
+            "repo_id": 1456851787,
+            "url": "https://github.com/Archiveeutrough/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:39Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "ArcticPrawnEmporium/ai--manus",
+            "repo_id": 1456851798,
+            "url": "https://github.com/ArcticPrawnEmporium/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:39Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "armsworminterface/ai--manus",
+            "repo_id": 1456851852,
+            "url": "https://github.com/armsworminterface/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:42Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "armysystemsun/ai--manus",
+            "repo_id": 1456851837,
+            "url": "https://github.com/armysystemsun/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:41Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Aspectnisafeguard/ai--manus",
+            "repo_id": 1456851867,
+            "url": "https://github.com/Aspectnisafeguard/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:43Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "BarrierCenter/ai--manus",
+            "repo_id": 1456853224,
+            "url": "https://github.com/BarrierCenter/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:46:54Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "BladesmithPanel/ai--manus",
+            "repo_id": 1456853554,
+            "url": "https://github.com/BladesmithPanel/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:11Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Boarddrunail/ai--manus",
+            "repo_id": 1456853725,
+            "url": "https://github.com/Boarddrunail/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:19Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Boardglacode/ai--manus",
+            "repo_id": 1456853732,
+            "url": "https://github.com/Boardglacode/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:20Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "ClampOverlord46/ai--manus",
+            "repo_id": 1456849735,
+            "url": "https://github.com/ClampOverlord46/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:51Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Feathershosmash/ai--manus",
+            "repo_id": 1456849856,
+            "url": "https://github.com/Feathershosmash/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:56Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "GryphonEmpress/ai--manus",
+            "repo_id": 1456849894,
+            "url": "https://github.com/GryphonEmpress/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:58Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "HurricaneMonarchDart/ai--manus",
+            "repo_id": 1456849880,
+            "url": "https://github.com/HurricaneMonarchDart/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:57Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "TealAgentRevive/ai--manus",
+            "repo_id": 1456849765,
+            "url": "https://github.com/TealAgentRevive/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:52Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "TorusBarbarianMap9/ai--manus",
+            "repo_id": 1456851429,
+            "url": "https://github.com/TorusBarbarianMap9/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:21Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "WinnerBrokerBarrow/ai--manus",
+            "repo_id": 1456849793,
+            "url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:52Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "devtools": {
+        "category": "devtools",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:cli",
+            "q": "topic:cli created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 2
+          },
+          {
+            "label": "topic:developer-tools",
+            "q": "topic:developer-tools created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 10
+          },
+          {
+            "label": "topic:devtools",
+            "q": "topic:devtools created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:lsp",
+            "q": "topic:lsp created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:package-manager",
+            "q": "topic:package-manager created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:linter",
+            "q": "topic:linter created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:formatter",
+            "q": "topic:formatter created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:build-tool",
+            "q": "topic:build-tool created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 11,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [
+          {
+            "name": "alexeyw/lot-map",
+            "repo_id": 1451775929,
+            "url": "https://github.com/alexeyw/lot-map",
+            "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7…",
+            "language": "TypeScript",
+            "stars": 780,
+            "created_at": "2026-11-09T19:13:52Z",
+            "age_days": 4.78,
+            "per_day": 163.3,
+            "topics": [
+              "agent-observability",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "developer-tools",
+              "svg-animation",
+              "typescript",
+              "visualization"
+            ]
+          },
+          {
+            "name": "RouteInferno/shamus-osint-ai-agent",
+            "repo_id": 1456688919,
+            "url": "https://github.com/RouteInferno/shamus-osint-ai-agent",
+            "description": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+            "language": "JavaScript",
+            "stars": 157,
+            "created_at": "2026-11-13T14:19:35Z",
+            "age_days": 1.0,
+            "per_day": 157.0,
+            "topics": [
+              "ai-agent",
+              "cli",
+              "investigation",
+              "llm",
+              "osint",
+              "osint-tool",
+              "reconnaissance",
+              "terminal"
+            ]
+          },
+          {
+            "name": "brunnojob/cifuse",
+            "repo_id": 1449671412,
+            "url": "https://github.com/brunnojob/cifuse",
+            "description": "Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API k…",
+            "language": "JavaScript",
+            "stars": 111,
+            "created_at": "2026-11-07T19:24:34Z",
+            "age_days": 6.77,
+            "per_day": 16.4,
+            "topics": [
+              "automation",
+              "ci",
+              "cli",
+              "developer-tools",
+              "devops",
+              "github-actions",
+              "github-pages",
+              "javascript",
+              "log-analysis",
+              "offline"
+            ]
+          },
+          {
+            "name": "azuresail195/wondershare-recoverit-desktop",
+            "repo_id": 1457196126,
+            "url": "https://github.com/azuresail195/wondershare-recoverit-desktop",
+            "description": "Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crash…",
+            "language": "C++",
+            "stars": 285,
+            "created_at": "2026-11-13T23:20:16Z",
+            "age_days": 1.0,
+            "per_day": 285.0,
+            "topics": [
+              "android-data-recovery-software-fonelab",
+              "automation",
+              "data-recovery",
+              "data-recovery-software",
+              "data-recovery-tool",
+              "developer-tools",
+              "file-recovery",
+              "lost-data-recovery",
+              "open-source",
+              "pc-file-recovery-windows",
+              "photo-recovery",
+              "python",
+              "recovery-software",
+              "repair-tool",
+              "restore-accidentally-deleted-files",
+              "restore-deleted-data-windows",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility"
+            ],
+            "suspicious": "year-installer copy"
+          },
+          {
+            "name": "ben-miller-23/dxo-photolab-10-desktop",
+            "repo_id": 1457215050,
+            "url": "https://github.com/ben-miller-23/dxo-photolab-10-desktop",
+            "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive R…",
+            "language": "C++",
+            "stars": 285,
+            "created_at": "2026-11-13T23:49:45Z",
+            "age_days": 1.0,
+            "per_day": 285.0,
+            "topics": [
+              "automation",
+              "desktop",
+              "developer-tools",
+              "digital-photography",
+              "dxo-photolab-coupon",
+              "dxo-photolab-discount-code",
+              "dxo-photolab-elite",
+              "dxo-photolab-elite-download",
+              "dxo-photolab-essential",
+              "dxo-photolab-pro-install-windows-raw-editor",
+              "dxo-photolab-sale",
+              "open-source",
+              "pro-photo",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "year-installer copy"
+          },
+          {
+            "name": "ariamitchell54/cubase-studio-desktop",
+            "repo_id": 1457149332,
+            "url": "https://github.com/ariamitchell54/cubase-studio-desktop",
+            "description": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
+            "language": null,
+            "stars": 284,
+            "created_at": "2026-11-13T22:11:35Z",
+            "age_days": 1.0,
+            "per_day": 284.0,
+            "topics": [
+              "automation",
+              "cubase",
+              "cubase-15",
+              "cubase-for-beginners",
+              "cubase-pro",
+              "cubase-pro-2026",
+              "cubase-setup",
+              "cubase-tutorial",
+              "cubase-windows-download",
+              "cube-solver",
+              "cubic-splines",
+              "developer-tools",
+              "mixing-and-mastering",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "steinberg-cubase",
+              "vst3-plugins"
+            ],
+            "suspicious": "year-installer copy"
+          },
+          {
+            "name": "azure-teal-slope/windows-optimizer-desktop",
+            "repo_id": 1457183017,
+            "url": "https://github.com/azure-teal-slope/windows-optimizer-desktop",
+            "description": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled ta…",
+            "language": "C++",
+            "stars": 284,
+            "created_at": "2026-11-13T22:59:12Z",
+            "age_days": 1.0,
+            "per_day": 284.0,
+            "topics": [
+              "automation",
+              "developer-tools",
+              "fps-booster-no-lag",
+              "frame-rate-boost",
+              "game-booster-free",
+              "open-source",
+              "optimize-windows",
+              "optimizer-tool",
+              "python",
+              "software-engineering",
+              "speed-up-pc",
+              "unattendedwininstall",
+              "windows-10-optimizer",
+              "windows-bloatware",
+              "windows-optimization",
+              "windows-optimization-tool",
+              "windows-optimizer-performance-latency-tweak",
+              "windows-performance-optimizer",
+              "windows-script",
+              "windows-scripts"
+            ],
+            "suspicious": "year-installer copy"
+          },
+          {
+            "name": "azuremaple1997/coreldraw-desktop",
+            "repo_id": 1457194288,
+            "url": "https://github.com/azuremaple1997/coreldraw-desktop",
+            "description": "CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single…",
+            "language": "C++",
+            "stars": 284,
+            "created_at": "2026-11-13T23:17:18Z",
+            "age_days": 1.0,
+            "per_day": 284.0,
+            "topics": [
+              "automation",
+              "coreldraw-docs",
+              "coreldraw-windows-download",
+              "crashplan-app",
+              "crashplan-for-small-business",
+              "crashplan-for-small-business-crack",
+              "crashplan-hack",
+              "crashplan-windows-setup-2026",
+              "design-toolkit",
+              "desktop",
+              "developer-tools",
+              "graphic-design-software",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility",
+              "vector-illustration",
+              "windows-app"
+            ],
+            "suspicious": "phrase:crack"
+          },
+          {
+            "name": "ben-cook-42/kontakt-8-desktop",
+            "repo_id": 1457206435,
+            "url": "https://github.com/ben-cook-42/kontakt-8-desktop",
+            "description": "Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to…",
+            "language": "C++",
+            "stars": 283,
+            "created_at": "2026-11-13T23:36:24Z",
+            "age_days": 1.0,
+            "per_day": 283.0,
+            "topics": [
+              "automation",
+              "desktop",
+              "developer-tools",
+              "kontakt",
+              "kontakt-full-library",
+              "kontakt-full-library-pc",
+              "open-source",
+              "orchestral",
+              "python",
+              "scripts",
+              "software-engineering",
+              "studio-recording",
+              "system",
+              "utility",
+              "virtual-instrument",
+              "vst-plugins",
+              "windows-app"
+            ],
+            "suspicious": "year-installer copy"
+          },
+          {
+            "name": "briskember13/adobe-acrobat-pdf-desktop",
+            "repo_id": 1457249223,
+            "url": "https://github.com/briskember13/adobe-acrobat-pdf-desktop",
+            "description": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and me…",
+            "language": "C++",
+            "stars": 283,
+            "created_at": "2026-11-14T00:46:46Z",
+            "age_days": 1.0,
+            "per_day": 283.0,
+            "topics": [
+              "acrobat-dc-pro",
+              "acrobat-for-free-2026",
+              "acrobat-no-limits",
+              "acrobat-pdf",
+              "automation",
+              "desktop",
+              "developer-tools",
+              "forms-acrobat-pro",
+              "free-pdf-reader-windows",
+              "open-source",
+              "pdf-password",
+              "pro-acrobat",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "year-installer copy"
+          },
+          {
+            "name": "Omegaofidolize/ableton-live-12",
+            "repo_id": 1450110024,
+            "url": "https://github.com/Omegaofidolize/ableton-live-12",
+            "description": "Ableton Live 12 pre-configured environment for professional audio workstation deployment in isolated local studio setup.",
+            "language": null,
+            "stars": 116,
+            "created_at": "2026-11-08T08:36:55Z",
+            "age_days": 6.22,
+            "per_day": 18.7,
+            "topics": [
+              "automation",
+              "desktop",
+              "developer-tools",
+              "open-source",
+              "python",
+              "scripts",
+              "software-engineering",
+              "system",
+              "utility",
+              "windows-app"
+            ],
+            "suspicious": "commercial-software name:ableton"
+          }
+        ],
+        "suspicious_in_board": 8
+      },
+      "security": {
+        "category": "security",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:cybersecurity",
+            "q": "topic:cybersecurity created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:vulnerability",
+            "q": "topic:vulnerability created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:sast",
+            "q": "topic:sast created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:devops-security",
+            "q": "topic:devops-security created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:supply-chain-security",
+            "q": "topic:supply-chain-security created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:container-security",
+            "q": "topic:container-security created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:pentest",
+            "q": "topic:pentest created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:infosec",
+            "q": "topic:infosec created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 0,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [],
+        "suspicious_in_board": 0
+      },
+      "web": {
+        "category": "web",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:frontend",
+            "q": "topic:frontend created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:react",
+            "q": "topic:react created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 427
+          },
+          {
+            "label": "topic:vue",
+            "q": "topic:vue created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 424
+          },
+          {
+            "label": "topic:svelte",
+            "q": "topic:svelte created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 424
+          },
+          {
+            "label": "topic:css",
+            "q": "topic:css created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:nextjs",
+            "q": "topic:nextjs created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 3
+          },
+          {
+            "label": "topic:tailwind",
+            "q": "topic:tailwind created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 305,
+        "ok": true,
+        "excluded_duplicates": [
+          "ApothecaryDesign/ai--manus",
+          "ArcherAmplify/ai--manus",
+          "Boarddrunail/ai--manus",
+          "Feathershosmash/ai--manus",
+          "GryphonEmpress/ai--manus",
+          "armsworminterface/ai--manus",
+          "armysystemsun/ai--manus"
+        ],
+        "items": [
+          {
+            "name": "opencoredev/islandcn",
+            "repo_id": 1456537250,
+            "url": "https://github.com/opencoredev/islandcn",
+            "description": "The open-source Dynamic Island for React, installed with shadcn.",
+            "language": "TypeScript",
+            "stars": 587,
+            "created_at": "2026-11-13T11:50:50Z",
+            "age_days": 1.08,
+            "per_day": 542.1,
+            "topics": [
+              "dynamic-island",
+              "nextjs",
+              "react",
+              "shadcn",
+              "typescript",
+              "ui-components"
+            ]
+          },
+          {
+            "name": "AdvisorShake/ai--manus",
+            "repo_id": 1456851605,
+            "url": "https://github.com/AdvisorShake/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:30Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "AgentLobster/ai--manus",
+            "repo_id": 1456851689,
+            "url": "https://github.com/AgentLobster/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:34Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "AmplitudeBoss/ai--manus",
+            "repo_id": 1456851631,
+            "url": "https://github.com/AmplitudeBoss/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:31Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "AtomEmissary/ai--manus",
+            "repo_id": 1456851919,
+            "url": "https://github.com/AtomEmissary/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:45:45Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "avenuemistravage47/ai--manus",
+            "repo_id": 1456852312,
+            "url": "https://github.com/avenuemistravage47/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:46:04Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "bandbeetleruminate/ai--manus",
+            "repo_id": 1456852649,
+            "url": "https://github.com/bandbeetleruminate/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:46:22Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "BannerCatbird/ai--manus",
+            "repo_id": 1456852980,
+            "url": "https://github.com/BannerCatbird/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:46:40Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Beachnuconceal/ai--manus",
+            "repo_id": 1456853442,
+            "url": "https://github.com/Beachnuconceal/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:05Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "BeastBlazeAttract/ai--manus",
+            "repo_id": 1456853416,
+            "url": "https://github.com/BeastBlazeAttract/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:04Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "blendhokagedestroy/ai--manus",
+            "repo_id": 1456853568,
+            "url": "https://github.com/blendhokagedestroy/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:12Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Boldpleinverter/ai--manus",
+            "repo_id": 1456853869,
+            "url": "https://github.com/Boldpleinverter/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:27Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "bravecrownvalve/ai--manus",
+            "repo_id": 1456854148,
+            "url": "https://github.com/bravecrownvalve/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:47:41Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "BrickAssemblyRepel/ai--manus",
+            "repo_id": 1456849720,
+            "url": "https://github.com/BrickAssemblyRepel/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:50Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "ceilingthunderretort/ai--manus",
+            "repo_id": 1456849769,
+            "url": "https://github.com/ceilingthunderretort/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:52Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "ChannelSparrowYank/ai--manus",
+            "repo_id": 1456849729,
+            "url": "https://github.com/ChannelSparrowYank/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:51Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "Lightningeuchant/ai--manus",
+            "repo_id": 1456849815,
+            "url": "https://github.com/Lightningeuchant/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:54Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "PolygonGlazier/ai--manus",
+            "repo_id": 1456849781,
+            "url": "https://github.com/PolygonGlazier/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:52Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "pyramidteachermap/ai--manus",
+            "repo_id": 1456849837,
+            "url": "https://github.com/pyramidteachermap/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:55Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          {
+            "name": "StudentSeparate/ai--manus",
+            "repo_id": 1456849726,
+            "url": "https://github.com/StudentSeparate/ai--manus",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "language": null,
+            "stars": 266,
+            "created_at": "2026-11-13T16:43:51Z",
+            "age_days": 1.0,
+            "per_day": 266.0,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "infra": {
+        "category": "infra",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:kubernetes",
+            "q": "topic:kubernetes created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:docker",
+            "q": "topic:docker created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 2
+          },
+          {
+            "label": "topic:devops",
+            "q": "topic:devops created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 3
+          },
+          {
+            "label": "topic:infrastructure",
+            "q": "topic:infrastructure created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:terraform",
+            "q": "topic:terraform created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:observability",
+            "q": "topic:observability created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:containers",
+            "q": "topic:containers created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:sre",
+            "q": "topic:sre created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          }
+        ],
+        "candidates_seen": 5,
+        "ok": true,
+        "excluded_duplicates": [
+          "brunnojob/cifuse"
+        ],
+        "items": [
+          {
+            "name": "HolyArrs/HolyArrs",
+            "repo_id": 1452008226,
+            "url": "https://github.com/HolyArrs/HolyArrs",
+            "description": "One self-hosted app for your shows, movies and music.",
+            "language": "Go",
+            "stars": 1141,
+            "created_at": "2026-11-09T23:53:25Z",
+            "age_days": 4.58,
+            "per_day": 249.1,
+            "topics": [
+              "docker",
+              "homelab",
+              "jellyfin",
+              "media-server",
+              "plex",
+              "self-hosted"
+            ]
+          },
+          {
+            "name": "serveroshq/panel",
+            "repo_id": 1450792839,
+            "url": "https://github.com/serveroshq/panel",
+            "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+            "language": "PHP",
+            "stars": 771,
+            "created_at": "2026-11-09T00:47:33Z",
+            "age_days": 5.54,
+            "per_day": 139.1,
+            "topics": [
+              "agpl",
+              "control-panel",
+              "devops",
+              "laravel",
+              "open-source",
+              "self-hosted",
+              "server-management",
+              "serveros",
+              "vps"
+            ]
+          },
+          {
+            "name": "ValidatorStack/solana-vigil",
+            "repo_id": 1452864416,
+            "url": "https://github.com/ValidatorStack/solana-vigil",
+            "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+            "language": "Go",
+            "stars": 230,
+            "created_at": "2026-11-10T15:47:25Z",
+            "age_days": 3.92,
+            "per_day": 58.7,
+            "topics": [
+              "alerting",
+              "alpenglow",
+              "blockchain",
+              "cryptocurrency",
+              "devops",
+              "golang",
+              "grafana",
+              "infrastructure",
+              "linux",
+              "metrics",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "solana",
+              "solana-tools",
+              "solana-validator",
+              "sre",
+              "staking",
+              "validator",
+              "validator-tools"
+            ]
+          },
+          {
+            "name": "MuseumCassowaryCarve/twitch-drops-miner",
+            "repo_id": 1450029261,
+            "url": "https://github.com/MuseumCassowaryCarve/twitch-drops-miner",
+            "description": "Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, mac…",
+            "language": "Python",
+            "stars": 119,
+            "created_at": "2026-11-08T06:20:22Z",
+            "age_days": 6.31,
+            "per_day": 18.9,
+            "topics": [
+              "afk-miner",
+              "docker",
+              "drops-farmer",
+              "twitch-automation",
+              "twitch-bot",
+              "twitch-drops",
+              "twitch-drops-miner",
+              "twitch-farmer",
+              "twitch-tools"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "design": {
+        "category": "design",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:design-system",
+            "q": "topic:design-system created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 1
+          },
+          {
+            "label": "topic:figma",
+            "q": "topic:figma created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:animation",
+            "q": "topic:animation created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:svg",
+            "q": "topic:svg created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:ui-design",
+            "q": "topic:ui-design created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 1,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [
+          {
+            "name": "lobehub/lobe-mygo",
+            "repo_id": 1450258793,
+            "url": "https://github.com/lobehub/lobe-mygo",
+            "description": "🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go",
+            "language": "Go",
+            "stars": 245,
+            "created_at": "2026-11-08T12:24:46Z",
+            "age_days": 6.06,
+            "per_day": 40.4,
+            "topics": [
+              "design-system",
+              "desktop",
+              "go",
+              "golang",
+              "gpu",
+              "gui",
+              "lobe-ui",
+              "lobehub",
+              "lucide",
+              "mygo",
+              "native-ui",
+              "ui",
+              "ui-components",
+              "ui-kit"
+            ]
+          }
+        ],
+        "suspicious_in_board": 0
+      },
+      "data": {
+        "category": "data",
+        "window_days": 7,
+        "since": "2026-11-07T13:50:01Z",
+        "min_stars": 100,
+        "top_n": 20,
+        "queries": [
+          {
+            "label": "topic:database",
+            "q": "topic:database created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:etl",
+            "q": "topic:etl created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:data-engineering",
+            "q": "topic:data-engineering created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:sql",
+            "q": "topic:sql created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:olap",
+            "q": "topic:olap created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:dataframe",
+            "q": "topic:dataframe created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          },
+          {
+            "label": "topic:big-data",
+            "q": "topic:big-data created:>=2026-11-07T13:50:01Z stars:>=100 fork:false archived:false",
+            "ok": true,
+            "total": 0
+          }
+        ],
+        "candidates_seen": 0,
+        "ok": true,
+        "excluded_duplicates": [],
+        "items": [],
+        "suspicious_in_board": 0
+      }
+    },
+    "error": null
+  },
+  "category_ids": [
+    "ai",
+    "devtools",
+    "security",
+    "web",
+    "infra",
+    "design",
+    "data"
+  ]
+}

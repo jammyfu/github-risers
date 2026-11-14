@@ -6,6 +6,7 @@
 
 | 날짜 | 슬롯 | 가져온 시각(UTC) | 신규 1위(7일) | 이번 주 1위 | 이번 달 1위 | 올해 1위 | 스냅샷 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-14 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-14T13:50:01Z | FrigadeHQ/yogurt (366/일) | morluto/rea (2,870/일) | morluto/rea (6,977/일) | deepseek-ai/deepseek-harness (3,018/일) | [2026-11-14/pt-0000](2026-11-14/pt-0000/rankings.ko.md) · [json](2026-11-14/pt-0000/stats.json) |
 | 2026-11-13 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-13T14:57:43Z | FrigadeHQ/yogurt (423/일) | morluto/rea (3,026/일) | morluto/rea (7,994/일) | deepseek-ai/deepseek-harness (3,044/일) | [2026-11-13/pt-0000](2026-11-13/pt-0000/rankings.ko.md) · [json](2026-11-13/pt-0000/stats.json) |
 | 2026-11-12 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-12T15:38:41Z | FrigadeHQ/yogurt (434/일) | morluto/rea (3,168/일) | morluto/rea (9,385/일) | deepseek-ai/deepseek-harness (3,069/일) | [2026-11-12/pt-0000](2026-11-12/pt-0000/rankings.ko.md) · [json](2026-11-12/pt-0000/stats.json) |
 | 2026-11-11 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-11T14:46:41Z | FJNB5/fujiang-pojia (253/일) | morluto/rea (3,327/일) | morluto/rea (11,093/일) | deepseek-ai/deepseek-harness (3,094/일) | [2026-11-11/pt-0000](2026-11-11/pt-0000/rankings.ko.md) · [json](2026-11-11/pt-0000/stats.json) |
