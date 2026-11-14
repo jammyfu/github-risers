@@ -277,11 +277,11 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k… | 2026-11-07<br><sub>6.8 天</sub> | 111 | 16.4 |
 | 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit 2026 桌面安装程序，用于从磁盘、SD 卡和 USB 驱动器恢复已删除的文件，修复损坏的视频和照片文件，以及崩溃… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
 | 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 桌面安装程序，具备用于获得纯净高 ISO 照片的 DeepPRIME XD 降噪、基于实测镜头配置文件的光学校正以及非破坏性 R… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
-| 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>配备完整插件套件和全部功能集的 Cubase Studio 2026 桌面设置 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
-| 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>配备临时文件清理器、具有测量启动影响的启动管理器，以及用于服务和计划任务的一键优化的 Windows Optimizer 2026 桌面设置… | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
-| 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>配备专业色彩分级、HDR 支持、具有无限制轨道的 Fairlight 音频后期制作，以及在单个…上实现多用户协作的 CorelDraw Desktop 2026 设置… | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
+| 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 桌面安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
+| 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026 桌面安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
+| 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026 安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
 | 9 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop)<br>Kontakt 8 2026 桌面采样器配置环境 | 2026-11-13<br><sub>1.0 天</sub> | 283 | 283.0 |
-| 10 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)<br>配备直接在任何 PDF 内编辑文本和图像、与 Word、Excel 及图像双向转换，以及填写、签名和合并…的 Adobe Acrobat PDF 2026 桌面设置… | 2026-11-14<br><sub>1.0 天</sub> | 283 | 283.0 |
+| 10 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)<br>Adobe Acrobat PDF 2026 桌面安装程序 | 2026-11-14<br><sub>1.0 天</sub> | 283 | 283.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -597,7 +597,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 | 2026-11-13<br><sub>1.1 天</sub> | 587 | 542.1 |
-| 2 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus)<br>AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 2 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus)<br>想在沙箱运行工具，交给通用 AI 智能体 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
 | 3 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus)<br>想让智能体操作工具？放进沙箱里运行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
 | 4 | [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus)<br>想让智能体操作工具？放进沙箱里运行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
 | 5 | [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus)<br>想让智能体操作工具？放进沙箱里运行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |

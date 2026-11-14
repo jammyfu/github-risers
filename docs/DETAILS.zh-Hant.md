@@ -142,12 +142,12 @@
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | 將嘈雜的 CI 記錄轉換為分組的失敗、確切的證據和調查步驟。離線 CLI、可重複使用的 GitHub Action 和雙語瀏覽器工作台。無需 API k… |
 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | Wondershare Recoverit 2026 桌面安裝程式，用於從磁碟、SD 卡和 USB 隨身碟復原已刪除的檔案，修復損壞的影片和相片檔案，以及當機… |
 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 2026 桌面安裝程式，配備用於純淨高 ISO 拍攝的 DeepPRIME XD 降噪、基於測量鏡頭設定檔的光學校正，以及非破壞性 R… |
-| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) |  | 配備完整外掛套件和完整功能集的 Cubase Studio 2026 桌面設定 |
-| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) |  | 配備暫存檔案清理器、具有測量開機影響的開機啟動管理器，以及用於服務和排程工作的一鍵微調的 Windows Optimizer 2026 桌面設定… |
-| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) |  | 配備專業色彩分級、HDR 支援、具有無限制軌道的 Fairlight 音訊後製，以及在單一…上實現多使用者協作的 CorelDraw Desktop 2026 設定… |
+| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 桌面安裝程式 | 配備完整外掛套件和完整功能集的 Cubase Studio 2026 桌面設定 |
+| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 桌面安裝程式 | 配備暫存檔案清理器、具有測量開機影響的開機啟動管理器，以及用於服務和排程工作的一鍵微調的 Windows Optimizer 2026 桌面設定… |
+| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 安裝程式 | 配備專業色彩分級、HDR 支援、具有無限制軌道的 Fairlight 音訊後製，以及在單一…上實現多使用者協作的 CorelDraw Desktop 2026 設定… |
 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Kontakt 8 2026 桌面取樣器設定環境 | 配備用於虛擬樂器的業界標準取樣器、數千個音樂庫與 Kontakt Factory，以及用於…的指令碼引擎的 Kontakt 8 2026 桌面設定… |
-| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) |  | 配備直接在任何 PDF 內編輯文字和影像、與 Word、Excel 及影像雙向轉換，以及填寫、簽名和合併…的 Adobe Acrobat PDF 2026 桌面設定… |
-| [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) |  | 用於在隔離的本機工作室環境中部署專業音訊工作站的 Ableton Live 12 預先設定環境。 |
+| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Adobe Acrobat PDF 2026 桌面安裝程式 | 配備直接在任何 PDF 內編輯文字和影像、與 Word、Excel 及影像雙向轉換，以及填寫、簽名和合併…的 Adobe Acrobat PDF 2026 桌面設定… |
+| [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 本機工作室預配置環境 | 用於在隔離的本機工作室環境中部署專業音訊工作站的 Ableton Live 12 預先設定環境。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) |  | 適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。 |
 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) | 讓 AI 代理在沙箱中執行各種工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |

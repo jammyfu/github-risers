@@ -142,14 +142,14 @@
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | 将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k… |
 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | Wondershare Recoverit 2026 桌面安装程序，用于从磁盘、SD 卡和 USB 驱动器恢复已删除的文件，修复损坏的视频和照片文件，以及崩溃… |
 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 2026 桌面安装程序，具备用于获得纯净高 ISO 照片的 DeepPRIME XD 降噪、基于实测镜头配置文件的光学校正以及非破坏性 R… |
-| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) |  | 配备完整插件套件和全部功能集的 Cubase Studio 2026 桌面设置 |
-| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) |  | 配备临时文件清理器、具有测量启动影响的启动管理器，以及用于服务和计划任务的一键优化的 Windows Optimizer 2026 桌面设置… |
-| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) |  | 配备专业色彩分级、HDR 支持、具有无限制轨道的 Fairlight 音频后期制作，以及在单个…上实现多用户协作的 CorelDraw Desktop 2026 设置… |
+| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 桌面安装程序 | 配备完整插件套件和全部功能集的 Cubase Studio 2026 桌面设置 |
+| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 桌面安装程序 | 配备临时文件清理器、具有测量启动影响的启动管理器，以及用于服务和计划任务的一键优化的 Windows Optimizer 2026 桌面设置… |
+| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 安装程序 | 配备专业色彩分级、HDR 支持、具有无限制轨道的 Fairlight 音频后期制作，以及在单个…上实现多用户协作的 CorelDraw Desktop 2026 设置… |
 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Kontakt 8 2026 桌面采样器配置环境 | 配备用于虚拟乐器的行业标准采样器、数千个音色库与 Kontakt Factory，以及用于…的脚本引擎的 Kontakt 8 2026 桌面设置… |
-| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) |  | 配备直接在任何 PDF 内编辑文本和图像、与 Word、Excel 及图像双向转换，以及填写、签名和合并…的 Adobe Acrobat PDF 2026 桌面设置… |
-| [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) |  | 用于在隔离的本地工作室环境中部署专业音频工作站的 Ableton Live 12 预配置环境。 |
+| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Adobe Acrobat PDF 2026 桌面安装程序 | 配备直接在任何 PDF 内编辑文本和图像、与 Word、Excel 及图像双向转换，以及填写、签名和合并…的 Adobe Acrobat PDF 2026 桌面设置… |
+| [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 本地工作室预配置环境 | 用于在隔离的本地工作室环境中部署专业音频工作站的 Ableton Live 12 预配置环境。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) |  | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
-| [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) |  | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
+| [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) | 想在沙箱运行工具，交给通用 AI 智能体 | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus) | 想让智能体操作工具？放进沙箱里运行 | AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus) | 想让智能体操作工具？放进沙箱里运行 | AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus) | 想让智能体操作工具？放进沙箱里运行 | AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
@@ -166,8 +166,8 @@
 | [ChannelSparrowYank/ai--manus](https://github.com/ChannelSparrowYank/ai--manus) | 让 AI 智能体在沙箱中运行各种工具 | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [Lightningeuchant/ai--manus](https://github.com/Lightningeuchant/ai--manus) | 让 AI 智能体在沙箱中运行各种工具 | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [PolygonGlazier/ai--manus](https://github.com/PolygonGlazier/ai--manus) | 让 AI 智能体在沙箱中运行各种工具 | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
-| [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus) |  | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
-| [StudentSeparate/ai--manus](https://github.com/StudentSeparate/ai--manus) |  | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
+| [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus) | 想在沙箱运行工具，交给通用 AI 智能体 | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
+| [StudentSeparate/ai--manus](https://github.com/StudentSeparate/ai--manus) | 想运行各种工具，交给沙箱里的智能体 | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 在一处集中运行你已有的 Linux 服务器 | 开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
