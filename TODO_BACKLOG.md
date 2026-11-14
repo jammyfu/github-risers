@@ -3,7 +3,8 @@
 ## Now
 
 - [x] Verified delayed automatic update and same-day duplicate skip on 2026-11-08 (runs 42487291739 and 42490659376); another real update succeeded on 2026-11-09 (42659639717)
-- [ ] Developer Tools new-repo board: 15 of 20 entries were flagged ⚠ in the last run because star-farmed repos use `cli` / `developer-tools`; decide whether to add a quality signal (owner call)
+- [x] Star-farm filter for new-repo boards (`tools/antiabuse.py`, 2026-11-14): clone floods / fake watchers / zero-fork farms are dropped
+- [ ] Owner call: also drop (not just flag) single cracked / pirated repos
 - [ ] Design and Data new-repo boards are thin (0-2 entries): widen with specific topics only (no generic ones; `tests/test_spam.py` guards that)
 
 ## Next

@@ -121,3 +121,12 @@
 - The raw-data refresh stays fail-safe and independent of translation availability. The local translation job is complete only when both its cache-aware description and hook audits report zero gaps across current categories.
 - Valid partial output is retained and published, but remaining gaps return status 4 and are retried on the next existing scheduled invocation. Audit failures cannot be interpreted as zero work. One invocation makes one bounded generation pass; a push race rechecks the new ranking without opening an unbounded model loop.
 - Existing detailed descriptions, translations and valid hooks are preserved. This completion also fills the previous 98 missing hook fields for reuse without rewriting past numeric snapshots. No model/backend, credentials, installed schedule or ranking policy changes are part of this fix.
+
+## 2026-11-14
+
+### Star farms are dropped, not just flagged
+
+- Owner request: the boards must not be gamed. Clear farms (clone clusters, fake watchers, >= 500 stars per fork, fresh throwaway owner + low forks, blocklist) are removed from the new-repo boards and logged in `stats.json`; borderline signals (low forks alone, fresh owner alone, fork farm) keep the existing ⚠ / rank-last treatment so a real repo is never hidden by one weak signal.
+- Single cracked / pirated repos keep the 2026-10-30 decision (flag, rank last) unless a farm rule drops them.
+- Thresholds live in `data/anti_abuse.json`, calibrated by replaying every committed board (`docs/ANTI_ABUSE.md`).
+

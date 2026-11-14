@@ -1,5 +1,12 @@
 # WORKLOG.md
 
+## 2026-11-14
+
+- The 2026-11-14 AI board had 19 of 20 entries and the Web board 19 of 20 from one farm: `<account>/ai--manus`, same description, created minutes apart on 2026-11-13, ~270 stars, 0 forks, owners ~30 days old with 0 followers (search finds 547 copies). Root cause: discovery ranked any non-fork repo with >= 100 stars by stars/day and had no rule for identical repos under different owners; the flood also used the whole refresh budget.
+- Added `tools/antiabuse.py` + `data/anti_abuse.json` (clone clusters, blocklist, low-fork, fake watchers, fresh owners), wired into `newcomers.discover_category` before and after the refresh, report under `anti_abuse`; `risers_core.rank` skips `blocked` tracked projects.
+- Replay over every committed new-repo board (408 repos re-read from the API): 74 dropped, all farm-shaped; 8 flagged only.
+- Verification: `python3 tools/verify.py` green; `tests/test_antiabuse.py` added.
+
 ## 2026-11-06
 
 - PLAN-005: production cadence is once daily at America/Los_Angeles 00:00. Dropped the Beijing cron (`0 16 * * *`) and the Beijing launchd agent. Scheduled Actions runs always use slot `pt`.

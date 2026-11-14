@@ -7,6 +7,9 @@ all normal repos, and they never become a category leader (see tools/spam.py).
 Everything comes from the API (search + GET /repos/{r} for top candidates).
 Pure functions take an `api` callable so they are unit-testable offline.
 
+Star farms (clone clusters such as hundreds of `<account>/ai--manus`, stars nobody forks, fake watchers,
+blocklist) are dropped before ranking and logged under `anti_abuse` (tools/antiabuse.py, docs/ANTI_ABUSE.md).
+
 Category rules (topics / keywords / optional languages) live in data/categories.json
 and are documented in docs/CATEGORIES.md and docs/NEW_ARRIVALS.md.
 """
@@ -20,8 +23,9 @@ import urllib.parse
 from typing import Any, Callable
 
 try:  # works both as `tools.newcomers` and when tools/ is on sys.path
-    from . import spam
+    from . import antiabuse, spam
 except ImportError:  # pragma: no cover
+    import antiabuse  # type: ignore
     import spam  # type: ignore
 
 WINDOW_DAYS = 7
@@ -75,7 +79,7 @@ def search_all(api: Api, q: str, sleep: Callable[[float], None] = time.sleep) ->
     return items, total
 
 
-def to_item(repo: dict, now: dt.datetime) -> dict[str, Any]:
+def to_item(repo: dict, now: dt.datetime, flag: str | None = None) -> dict[str, Any]:
     created = parse_ts(repo["created_at"])
     age = max((now - created).total_seconds() / 86400, 1.0)
     stars = int(repo["stargazers_count"])
@@ -91,7 +95,7 @@ def to_item(repo: dict, now: dt.datetime) -> dict[str, Any]:
         "per_day": round(stars / age, 1),
         "topics": list(repo.get("topics") or []),
     }
-    reason = spam.suspicious_reason(repo)
+    reason = spam.suspicious_reason(repo) or flag
     if reason:
         item["suspicious"] = reason
     return item
@@ -128,8 +132,10 @@ def rank_items(items: list[dict]) -> list[dict]:
 
 def discover_category(api: Api, now: dt.datetime, category: dict[str, Any],
                       excluded_names: set[str],
-                      sleep: Callable[[float], None] = time.sleep) -> dict[str, Any]:
-    """Run searches for one category, refresh candidates, dedup, rank top N."""
+                      sleep: Callable[[float], None] = time.sleep,
+                      guard: "antiabuse.Guard | None" = None) -> dict[str, Any]:
+    """Run searches for one category, screen star farms, refresh candidates, dedup, rank top N."""
+    guard = guard or antiabuse.Guard(api, now)
     queries, found = [], {}
     for label, q in build_queries(now, category):
         entry: dict[str, Any] = {"label": label, "q": q}
@@ -156,6 +162,8 @@ def discover_category(api: Api, now: dt.datetime, category: dict[str, Any],
         result.update(ok=False, error="every search query failed: " + queries[0].get("error", "?"), items=[])
         return result
     cands = [r for r in found.values() if qualifies(r, now) and has_category_topic(r, category)]
+    # star farms (clone clusters, blocklist, stars nobody forks) go before the refresh budget is spent
+    cands, farm_dropped, clusters = guard.screen_candidates(cands)
     # normal repos first so a flood of star-farmed spam cannot crowd them out of the refresh budget
     cands.sort(key=lambda r: (bool(spam.suspicious_reason(r)), -int(r["stargazers_count"])))
     refreshed = []
@@ -165,24 +173,31 @@ def discover_category(api: Api, now: dt.datetime, category: dict[str, Any],
         except Exception:
             fresh = r
         if qualifies(fresh, now) and has_category_topic(fresh, category):
-            refreshed.append(fresh)
-    items, dropped = exclude_duplicates([to_item(r, now) for r in refreshed], excluded_names)
+            drop, flag = guard.screen_refreshed(fresh)
+            if drop:
+                farm_dropped.append({"name": fresh["full_name"], "reason": drop})
+                continue
+            refreshed.append((fresh, flag))
+    items, dropped = exclude_duplicates([to_item(r, now, flag) for r, flag in refreshed], excluded_names)
     ranked = rank_items(items)[:TOP_N]
     result.update(ok=True, excluded_duplicates=dropped, items=ranked,
-                  suspicious_in_board=sum(1 for i in ranked if i.get("suspicious")))
+                  suspicious_in_board=sum(1 for i in ranked if i.get("suspicious")),
+                  anti_abuse=antiabuse.report(farm_dropped, clusters))
     return result
 
 
 def discover_all(api: Api, now: dt.datetime, categories: list[dict[str, Any]],
                  projects_meta: list[dict[str, Any]], stats_projects: list[dict],
                  rank: Callable[[list[dict], str], list[dict]],
-                 sleep: Callable[[float], None] = time.sleep) -> dict[str, Any]:
+                 sleep: Callable[[float], None] = time.sleep,
+                 guard: "antiabuse.Guard | None" = None) -> dict[str, Any]:
     """Discover newcomers for every category (AI first). Exclusive across categories by order.
 
     Within a category, newcomers never repeat that category's tracked projects or its
     week/month/year/total top N. A repo already shown in an earlier category's newcomers
     is also excluded (AI is primary, so it claims first).
     """
+    guard = guard or antiabuse.Guard(api, now)  # shared: a farm seen in one category is dropped in the others
     by_cat: dict[str, dict[str, Any]] = {}
     claimed: set[str] = set()  # lower-cased names already shown in an earlier category
     ordered = sorted(categories, key=lambda c: (0 if c.get("primary") else 1, c.get("order", 99), c["id"]))
@@ -191,7 +206,7 @@ def discover_all(api: Api, now: dt.datetime, categories: list[dict[str, Any]],
         tracked = {p["name"] for p in projects_meta if p.get("category") == cid}
         cat_stats = [p for p in stats_projects if p.get("name") in tracked]
         excluded = tracked | displayed_names(cat_stats, TOP_N, rank) | claimed
-        result = discover_category(api, now, cat, excluded, sleep)
+        result = discover_category(api, now, cat, excluded, sleep, guard)
         by_cat[cid] = result
         if result.get("ok"):
             claimed |= {i["name"].lower() for i in result.get("items", [])}
@@ -203,6 +218,8 @@ def discover_all(api: Api, now: dt.datetime, categories: list[dict[str, Any]],
         "min_stars": MIN_STARS,
         "top_n": TOP_N,
         "categories": by_cat,
+        "anti_abuse": {"owner_lookups": guard.lookups,
+                       "dropped_total": sum((r.get("anti_abuse") or {}).get("dropped_count", 0) for r in by_cat.values())},
         "error": None if ok_any else "every category search failed",
     }
 

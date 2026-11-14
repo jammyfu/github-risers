@@ -49,7 +49,9 @@ Rules (`tools/spam.py`, `suspicious_reason`), matched on repo name, description 
 4. A commercial software name in the repo name (Adobe, Photoshop, Canva, Autodesk, AutoCAD, Cinema 4D, Microsoft Office, Wondershare, ...) unless the owner is the vendor.
 5. A `-Pro` / `-Premium` / year-suffixed name with no description and no language.
 
-This is a heuristic, not a verdict: a flagged repo is only moved down, never hidden. `tests/test_spam.py` pins the rules, the ordering, the leader exclusion and that the scheduled entry points use the same code.
+This is a heuristic, not a verdict: a flagged repo is only moved down, never hidden.
+Clear star farms (clone floods such as hundreds of `<account>/ai--manus`, fake watchers, stars nobody forks) are
+a different case: they are **dropped** by the star-farm filter, see [ANTI_ABUSE.md](ANTI_ABUSE.md). `tests/test_spam.py` pins the rules, the ordering, the leader exclusion and that the scheduled entry points use the same code.
 
 ## Per-category boards
 

@@ -25,9 +25,12 @@ Suspected cracked / pirated / activator repos are listed last and never lead a c
 
 1. Created within the last 7 days (exact timestamp check on `created_at`).
 2. At least 100 stars, not a fork, not archived, not private.
-3. The best 30 candidates by search star count (per category) are re-read with `GET /repos/{owner}/{repo}`.
-4. **Hotness = stars ÷ max(age in days, 1).**
-5. Ranked by hotness (ties: more stars, then name), top 20 shown per category, with suspected cracked / pirated repos after all normal ones.
+3. Star farms are dropped before and after the refresh: clone clusters, blocklist, stars nobody forks, fake
+   watchers, fresh throwaway owners ([ANTI_ABUSE.md](ANTI_ABUSE.md)). Dropped repos are logged under
+   `newcomers.categories.<id>.anti_abuse` and never shown.
+4. The best 30 remaining candidates by search star count (per category) are re-read with `GET /repos/{owner}/{repo}`.
+5. **Hotness = stars ÷ max(age in days, 1).**
+6. Ranked by hotness (ties: more stars, then name), top 20 shown per category, with suspected cracked / pirated repos after all normal ones.
 
 If every search query for a category fails, that category's new-repo board is shown as missing. If only some
 queries fail, the README says so. Search is index-based and can lag by minutes.

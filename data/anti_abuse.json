@@ -1,0 +1,45 @@
+{
+  "_comment": "Anti star-farming rules for the new-repo boards (tools/antiabuse.py, docs/ANTI_ABUSE.md). Thresholds were checked against every new-repo board in rankings/ (history replay). 'blocklist' applies to every board.",
+  "clone_clusters": {
+    "enabled": true,
+    "_doc": "Repos from different owners with the same normalized repo name, or the same normalized description, form a cluster. Same description (>= min_desc_chars) across >= desc_min_owners owners, or same name across >= name_min_owners owners, is a clone cluster: every member is dropped, except the earliest member whose owner is credible (when one exists).",
+    "name_min_owners": 3,
+    "desc_min_owners": 2,
+    "name_and_desc_min_owners": 2,
+    "min_desc_chars": 24,
+    "keep_check_earliest": 3
+  },
+  "credible_owner": {
+    "_doc": "Only used to keep the original of a clone cluster.",
+    "min_account_days": 365,
+    "min_followers": 50
+  },
+  "new_owner": {
+    "_doc": "A user account younger than max_account_days when the repo was created, with fewer than max_followers followers. Alone: flagged and ranked last. Together with low_fork: dropped.",
+    "max_account_days": 60,
+    "max_followers": 5
+  },
+  "low_fork": {
+    "_doc": "stars / (forks + 1). >= flag_ratio (and stars >= min_stars): flagged and ranked last. >= drop_ratio: dropped.",
+    "min_stars": 150,
+    "flag_ratio": 100,
+    "drop_ratio": 500
+  },
+  "watch_farm": {
+    "_doc": "subscribers_count (watchers) >= share x stars: dropped. Real new repos stay under ~10 %.",
+    "min_stars": 100,
+    "share": 0.4
+  },
+  "fork_farm": {
+    "_doc": "forks >= share x stars: flagged and ranked last.",
+    "min_stars": 100,
+    "share": 0.9
+  },
+  "owner_lookup_budget": 150,
+  "blocklist": {
+    "_doc": "Case-insensitive. repos: owner/name. owners: account logins. names: repo-name regexes (full match). Applies to every board.",
+    "repos": [],
+    "owners": [],
+    "names": ["ai--manus"]
+  }
+}
