@@ -133,15 +133,15 @@
 | [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
 | [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
 | [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) |  | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) |  | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) |  | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) |  | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
+| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
+| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
+| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
+| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) |  | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
-| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | 복잡한 CI 로그를 그룹화된 실패, 정확한 증거 및 조사 단계로 변환합니다. 오프라인 CLI, 재사용 가능한 GitHub Action 및 이중 언어 브라우저 워크벤치. API k… 없음 |
-| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | 디스크, SD 카드 및 USB 드라이브에서 삭제된 파일 복구, 손상된 비디오 및 사진 파일 복구, 그리고 충돌…을 위한 Wondershare Recoverit 2026 데스크톱 설치 |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | 선명한 고 ISO 촬영을 위한 DeepPRIME XD 노이즈 제거, 측정된 렌즈 프로파일 기반의 광학 보정, 비파괴 R…을 갖춘 DxO PhotoLab 10 2026 데스크톱 설정 |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
+| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 복잡한 CI 로그에서 실패 원인과 정확한 증거 정리 | 복잡한 CI 로그를 그룹화된 실패, 정확한 증거 및 조사 단계로 변환합니다. 오프라인 CLI, 재사용 가능한 GitHub Action 및 이중 언어 브라우저 워크벤치. API k… 없음 |
+| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) | Wondershare Recoverit 데스크톱 | 디스크, SD 카드 및 USB 드라이브에서 삭제된 파일 복구, 손상된 비디오 및 사진 파일 복구, 그리고 충돌…을 위한 Wondershare Recoverit 2026 데스크톱 설치 |
+| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 데스크톱 | 선명한 고 ISO 촬영을 위한 DeepPRIME XD 노이즈 제거, 측정된 렌즈 프로파일 기반의 광학 보정, 비파괴 R…을 갖춘 DxO PhotoLab 10 2026 데스크톱 설정 |
 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 데스크톱 설정 | 전체 플러그인 제품군과 완전한 기능 세트를 갖춘 Cubase Studio 2026 데스크톱 설정 |
 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 데스크톱 설정 | 임시 파일 클리너, 측정된 부팅 영향을 제공하는 시작 프로그램 관리자, 서비스 및 예약된 작업에 대한 원클릭 조정을 갖춘 Windows Optimizer 2026 데스크톱 설정… |
 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 환경 설정 | 전문적인 컬러 그레이딩, HDR 지원, 무제한 트랙을 갖춘 Fairlight 오디오 포스트, 단일…에서의 다중 사용자 협업을 갖춘 CorelDraw Desktop 2026 설정… |

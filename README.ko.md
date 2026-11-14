@@ -273,10 +273,10 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | 2026-11-09<br><sub>4.8일</sub> | 780 | 163.3 |
-| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. | 2026-11-13<br><sub>1.0일</sub> | 157 | 157.0 |
-| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>복잡한 CI 로그를 그룹화된 실패, 정확한 증거 및 조사 단계로 변환합니다. 오프라인 CLI, 재사용 가능한 GitHub Action 및 이중 언어 브라우저 워크벤치. API k… 없음 | 2026-11-07<br><sub>6.8일</sub> | 111 | 16.4 |
-| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>디스크, SD 카드 및 USB 드라이브에서 삭제된 파일 복구, 손상된 비디오 및 사진 파일 복구, 그리고 충돌…을 위한 Wondershare Recoverit 2026 데스크톱 설치 | 2026-11-13<br><sub>1.0일</sub> | 285 | 285.0 |
-| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>선명한 고 ISO 촬영을 위한 DeepPRIME XD 노이즈 제거, 측정된 렌즈 프로파일 기반의 광학 보정, 비파괴 R…을 갖춘 DxO PhotoLab 10 2026 데스크톱 설정 | 2026-11-13<br><sub>1.0일</sub> | 285 | 285.0 |
+| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>명령어 하나로 도구 선택, 실행, 사건 파일 작성 | 2026-11-13<br><sub>1.0일</sub> | 157 | 157.0 |
+| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>복잡한 CI 로그에서 실패 원인과 정확한 증거 정리 | 2026-11-07<br><sub>6.8일</sub> | 111 | 16.4 |
+| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit 데스크톱 | 2026-11-13<br><sub>1.0일</sub> | 285 | 285.0 |
+| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 데스크톱 | 2026-11-13<br><sub>1.0일</sub> | 285 | 285.0 |
 | 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 데스크톱 설정 | 2026-11-13<br><sub>1.0일</sub> | 284 | 284.0 |
 | 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026 데스크톱 설정 | 2026-11-13<br><sub>1.0일</sub> | 284 | 284.0 |
 | 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026 환경 설정 | 2026-11-13<br><sub>1.0일</sub> | 284 | 284.0 |

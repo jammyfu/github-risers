@@ -273,10 +273,10 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>4.8 日</sub> | 780 | 163.3 |
-| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 | 2026-11-13<br><sub>1.0 日</sub> | 157 | 157.0 |
-| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要 | 2026-11-07<br><sub>6.8 日</sub> | 111 | 16.4 |
-| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>ディスク、SD カード、USB ドライブから削除されたファイルの復元、破損した動画および写真ファイルの修復、クラッシュ…に対応した Wondershare Recoverit 2026 デスクトップセットアップ | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
-| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>クリアな高 ISO 撮影のための DeepPRIME XD ノイズ低減、実測レンズプロファイルによる光学補正、非破壊的 R…を備えた DxO PhotoLab 10 2026 デスクトップセットアップ | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
+| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>コマンド1つでツール選定・実行・案件ファイル作成 | 2026-11-13<br><sub>1.0 日</sub> | 157 | 157.0 |
+| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>散らかったCIログを整理、失敗の分類と証拠を抽出 | 2026-11-07<br><sub>6.8 日</sub> | 111 | 16.4 |
+| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit デスクトップ | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
+| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 デスクトップ | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
 | 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 デスクトップ設定 | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
 | 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026設定 | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
 | 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026設定 | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |

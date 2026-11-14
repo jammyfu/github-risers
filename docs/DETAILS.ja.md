@@ -133,15 +133,15 @@
 | [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
 | [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
 | [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) |  | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) |  | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) |  | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) |  | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
+| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
+| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
+| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
+| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャット横でClaude Codeの動作をリアルタイム表示 | Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) |  | OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 |
-| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要 |
-| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | ディスク、SD カード、USB ドライブから削除されたファイルの復元、破損した動画および写真ファイルの修復、クラッシュ…に対応した Wondershare Recoverit 2026 デスクトップセットアップ |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | クリアな高 ISO 撮影のための DeepPRIME XD ノイズ低減、実測レンズプロファイルによる光学補正、非破壊的 R…を備えた DxO PhotoLab 10 2026 デスクトップセットアップ |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | コマンド1つでツール選定・実行・案件ファイル作成 | OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 |
+| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 散らかったCIログを整理、失敗の分類と証拠を抽出 | ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要 |
+| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) | Wondershare Recoverit デスクトップ | ディスク、SD カード、USB ドライブから削除されたファイルの復元、破損した動画および写真ファイルの修復、クラッシュ…に対応した Wondershare Recoverit 2026 デスクトップセットアップ |
+| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 デスクトップ | クリアな高 ISO 撮影のための DeepPRIME XD ノイズ低減、実測レンズプロファイルによる光学補正、非破壊的 R…を備えた DxO PhotoLab 10 2026 デスクトップセットアップ |
 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 デスクトップ設定 | 完全なプラグインスイートと完全な機能セットを備えた Cubase Studio 2026 デスクトップセットアップ |
 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026設定 | 一時ファイルクリーナー、測定された起動への影響を備えたスタートアップマネージャー、サービスおよびスケジュールされたタスクのワンクリック調整を備えた Windows Optimizer 2026 デスクトップセットアップ… |
 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026設定 | プロフェッショナルなカラーグレーディング、HDRサポート、無制限トラックのFairlightオーディオポスト、単一の…でのマルチユーザーコラボレーションを備えた CorelDraw Desktop 2026 セットアップ… |

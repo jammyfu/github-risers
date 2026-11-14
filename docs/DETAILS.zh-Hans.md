@@ -138,10 +138,10 @@
 | [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) |  | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) |  | AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) |  | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
-| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | 将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k… |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
+| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | CI 日志太乱？帮你归类报错并找出证据 | 将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k… |
 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | Wondershare Recoverit 2026 桌面安装程序，用于从磁盘、SD 卡和 USB 驱动器恢复已删除的文件，修复损坏的视频和照片文件，以及崩溃… |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 2026 桌面安装程序，具备用于获得纯净高 ISO 照片的 DeepPRIME XD 降噪、基于实测镜头配置文件的光学校正以及非破坏性 R… |
+| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 桌面安装程序 | DxO PhotoLab 10 2026 桌面安装程序，具备用于获得纯净高 ISO 照片的 DeepPRIME XD 降噪、基于实测镜头配置文件的光学校正以及非破坏性 R… |
 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 桌面安装程序 | 配备完整插件套件和全部功能集的 Cubase Studio 2026 桌面设置 |
 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 桌面安装程序 | 配备临时文件清理器、具有测量启动影响的启动管理器，以及用于服务和计划任务的一键优化的 Windows Optimizer 2026 桌面设置… |
 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 安装程序 | 配备专业色彩分级、HDR 支持、具有无限制轨道的 Fairlight 音频后期制作，以及在单个…上实现多用户协作的 CorelDraw Desktop 2026 设置… |

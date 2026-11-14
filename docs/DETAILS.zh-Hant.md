@@ -133,15 +133,15 @@
 | [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
 | [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
 | [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) |  | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) |  | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) |  | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) |  | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
+| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
+| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
+| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
+| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什麼，邊聊邊看即時地圖 | 聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) |  | 用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。 |
-| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) |  | 將嘈雜的 CI 記錄轉換為分組的失敗、確切的證據和調查步驟。離線 CLI、可重複使用的 GitHub Action 和雙語瀏覽器工作台。無需 API k… |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一條命令自動選工具、執行並生成案卷 | 用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。 |
+| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | CI 日誌太亂？幫你歸類報錯並找出證據 | 將嘈雜的 CI 記錄轉換為分組的失敗、確切的證據和調查步驟。離線 CLI、可重複使用的 GitHub Action 和雙語瀏覽器工作台。無需 API k… |
 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | Wondershare Recoverit 2026 桌面安裝程式，用於從磁碟、SD 卡和 USB 隨身碟復原已刪除的檔案，修復損壞的影片和相片檔案，以及當機… |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) |  | DxO PhotoLab 10 2026 桌面安裝程式，配備用於純淨高 ISO 拍攝的 DeepPRIME XD 降噪、基於測量鏡頭設定檔的光學校正，以及非破壞性 R… |
+| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 桌面安裝程式 | DxO PhotoLab 10 2026 桌面安裝程式，配備用於純淨高 ISO 拍攝的 DeepPRIME XD 降噪、基於測量鏡頭設定檔的光學校正，以及非破壞性 R… |
 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 桌面安裝程式 | 配備完整外掛套件和完整功能集的 Cubase Studio 2026 桌面設定 |
 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 桌面安裝程式 | 配備暫存檔案清理器、具有測量開機影響的開機啟動管理器，以及用於服務和排程工作的一鍵微調的 Windows Optimizer 2026 桌面設定… |
 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 安裝程式 | 配備專業色彩分級、HDR 支援、具有無限制軌道的 Fairlight 音訊後製，以及在單一…上實現多使用者協作的 CorelDraw Desktop 2026 設定… |

@@ -273,10 +273,10 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什么，边聊边看实时地图 | 2026-11-09<br><sub>4.8 天</sub> | 780 | 163.3 |
-| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 | 2026-11-13<br><sub>1.0 天</sub> | 157 | 157.0 |
-| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k… | 2026-11-07<br><sub>6.8 天</sub> | 111 | 16.4 |
+| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>一条命令自动选工具、执行并生成案卷 | 2026-11-13<br><sub>1.0 天</sub> | 157 | 157.0 |
+| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>CI 日志太乱？帮你归类报错并找出证据 | 2026-11-07<br><sub>6.8 天</sub> | 111 | 16.4 |
 | 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit 2026 桌面安装程序，用于从磁盘、SD 卡和 USB 驱动器恢复已删除的文件，修复损坏的视频和照片文件，以及崩溃… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
-| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 桌面安装程序，具备用于获得纯净高 ISO 照片的 DeepPRIME XD 降噪、基于实测镜头配置文件的光学校正以及非破坏性 R… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
+| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 桌面安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
 | 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 桌面安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
 | 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026 桌面安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
 | 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026 安装程序 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
