@@ -574,7 +574,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 為 React 接入開源動態島 | 2026-11-13<br><sub>1.2 天</sub> | 620 | 521.9 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>在 macOS 和 iOS 上追劇 | 2026-11-07<br><sub>6.8 天</sub> | 516 | 75.7 |
-| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>由 AI 代理運營的開源電話交換機。接聽電話、通話期間執行工具、向人工諮詢，並在電話掛斷後繼續工作… | 2026-11-11<br><sub>3.2 天</sub> | 106 | 33.4 |
+| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>讓 AI 替你接電話並執行工具的開源總機 | 2026-11-11<br><sub>3.2 天</sub> | 106 | 33.4 |
 | 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>小鎮土地審批太繁瑣？依地塊統一管理 | 2026-11-10<br><sub>4.0 天</sub> | 126 | 31.2 |
 
 <details>

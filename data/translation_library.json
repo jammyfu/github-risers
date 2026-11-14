@@ -1018,7 +1018,9 @@
         "hook": {
           "en": "Open-source phone system operated by AI agents",
           "ja": "AIエージェントが電話対応するオープンソース交換台",
-          "ko": "AI 에이전트가 통화를 처리하는 오픈 소스 교환대"
+          "ko": "AI 에이전트가 통화를 처리하는 오픈 소스 교환대",
+          "zh-Hans": "让 AI 替你接电话并运行工具的开源总机",
+          "zh-Hant": "讓 AI 替你接電話並執行工具的開源總機"
         }
       }
     },

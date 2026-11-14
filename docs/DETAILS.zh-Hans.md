@@ -140,7 +140,7 @@
 | [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 本地工作室预配置环境 | 用于在隔离的本地工作室环境中部署专业音频工作站的 Ableton Live 12 预配置环境。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追剧 | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
-| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | 让 AI 替你接电话并运行工具的开源总机 | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 小镇土地审批太繁琐？按地块统一管理 | 适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 在一处集中运行你已有的 Linux 服务器 | 开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。 |
