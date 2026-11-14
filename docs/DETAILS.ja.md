@@ -118,56 +118,30 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 自分のPCだけに保存できるAI会議メモ | コンピュータ上に保存されるプライベートな AI 会議メモ。Mac、Windows、Linux 向けの無料のオープンソースな Granola の代替ツール。 |
-| [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus) | サンドボックスで様々なエージェント操作を実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [BladesmithPanel/ai--manus](https://github.com/BladesmithPanel/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Boarddrunail/ai--manus](https://github.com/Boarddrunail/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Boardglacode/ai--manus](https://github.com/Boardglacode/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) | AIでツールを動かしたい？サンドボックスのエージェントで | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | チームとAIエージェントが働くセルフホスト型チャット | チームとAIエージェントがチャンネルやDMで一緒に作業できる、オープンソースでセルフホスト型のSlack代替。エージェントはClaude、ChatGPT/Codex、Gemini、Grokで動作します… |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) |  | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) |  | AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャット横でClaude Codeの動作をリアルタイム表示 | Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | コマンド1つでツール選定・実行・案件ファイル作成 | OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 桜井政博の全257本からゲーム制作スキルを学ぶ | 桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） |
+| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | コミュニティが保守するオープンソースのサードパーティQQ | SnowCat 雪猫：NapCat + SnowLuma融合サードパーティ製QQクライアント、コミュニティによるリレー保守、V8チャンネル全機能でQQ 9.9.37に適応、全ツール・全ソースコード公開 |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | ブラウザで動く3DアクションゲームをAIが作成 | 歸藏 Game Skill：AIがゼロからブラウザで遊べる3Dアクションゲームを作成、プレイ可能なデモ《雾锁山门》付き。AI生成アセットで遊べるブラウザ3Dアクションゲームを構築するClaude Code / Codex向けエージェントスキル… |
+| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 文章からAI感を消して書き直す | STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh… |
+| [21stware/bowel](https://github.com/21stware/bowel) | 各種OSでmihomoクライアントを利用する | Bowel は macOS、Windows、Linux、Android 向けの mihomo クライアントです。 |
+| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 音声に合わせてコードから映画風の映像を作る | 完全にコードから構築されたナレーション付き映画風フィルム用のエージェントスキル：写真、地図、カードの上を1台の連続したカメラが移動し、音声に同期します。Claude Code, Codex, C… |
+| [threerocks/article2media](https://github.com/threerocks/article2media) | 記事や動画を図解投稿やショート動画に変換 | 1本の記事または1本の動画（抖音、B 站、YouTube、まず文字起こしに変換）をワンクリックで小红书画像テキスト、雑誌風縦長画像、公众号レイアウト、AI音声吹き替えトーク系ショート動画に仕上げるオープンソースの Claude Code / Codex スキル。21種類のテーマ、自動検収、npm依存ゼロ。 |
+| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) |  | A curated list of papers for AI in Astronomy &amp; Astrophysics. |
+| [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 古いAndroidをローカル卓上パネルにする | 古い Android スマートフォンを Windows、Linux、macOS 向けのローカルデスクパネルに変身させます。55 個のウィジェット、Smart Stack、AI クォータとセッション、メディアコントロール、USB またはペアリング… |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) |  | Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed varian… |
+| [pktq/lasik](https://github.com/pktq/lasik) |  | BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA… |
+| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | コーディングエージェントへ作業を割り振る | コーディングエージェントのためのチーフオブスタッフ：git worktrees で並行ワーカーを実行するプロジェクトごとのマネージャーエージェントにリクエストをルーティング（herdr 上）。 |
+| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) |  | Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome. |
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 散らかったCIログを整理、失敗の分類と証拠を抽出 | ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要 |
-| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) | Wondershare Recoverit デスクトップ | ディスク、SD カード、USB ドライブから削除されたファイルの復元、破損した動画および写真ファイルの修復、クラッシュ…に対応した Wondershare Recoverit 2026 デスクトップセットアップ |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 デスクトップ | クリアな高 ISO 撮影のための DeepPRIME XD ノイズ低減、実測レンズプロファイルによる光学補正、非破壊的 R…を備えた DxO PhotoLab 10 2026 デスクトップセットアップ |
-| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 デスクトップ設定 | 完全なプラグインスイートと完全な機能セットを備えた Cubase Studio 2026 デスクトップセットアップ |
-| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026設定 | 一時ファイルクリーナー、測定された起動への影響を備えたスタートアップマネージャー、サービスおよびスケジュールされたタスクのワンクリック調整を備えた Windows Optimizer 2026 デスクトップセットアップ… |
-| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026設定 | プロフェッショナルなカラーグレーディング、HDRサポート、無制限トラックのFairlightオーディオポスト、単一の…でのマルチユーザーコラボレーションを備えた CorelDraw Desktop 2026 セットアップ… |
-| [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Kontakt 8 2026 デスクトップサンプラー | 仮想楽器用の業界標準サンプラー、数千のライブラリと Kontakt Factory、さらに…するためのスクリプティングエンジンを備えた Kontakt 8 2026 デスクトップセットアップ… |
-| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Adobe Acrobat PDF 2026設定 | あらゆるPDF内でテキストや画像を直接編集、Word・Excel・画像との相互変換、さらに記入・署名・結合…を備えた Adobe Acrobat PDF 2026 デスクトップセットアップ… |
 | [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 ローカル環境設定 | 隔離されたローカルスタジオ環境でのプロフェッショナルなオーディオワークステーション導入向けに事前設定された Ableton Live 12 環境。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcnで手軽にDynamic Islandを追加 | shadcn でインストールする、React 向けのオープンソース Dynamic Island。 |
-| [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) | AIエージェントがサンドボックスでツールを実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus) | エージェントでツールを動かす？サンドボックスで実行 | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [blendhokagedestroy/ai--manus](https://github.com/blendhokagedestroy/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Boldpleinverter/ai--manus](https://github.com/Boldpleinverter/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [bravecrownvalve/ai--manus](https://github.com/bravecrownvalve/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [BrickAssemblyRepel/ai--manus](https://github.com/BrickAssemblyRepel/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [ceilingthunderretort/ai--manus](https://github.com/ceilingthunderretort/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [ChannelSparrowYank/ai--manus](https://github.com/ChannelSparrowYank/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [Lightningeuchant/ai--manus](https://github.com/Lightningeuchant/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [PolygonGlazier/ai--manus](https://github.com/PolygonGlazier/ai--manus) | サンドボックスでAIエージェントにツールを実行させる | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
-| [StudentSeparate/ai--manus](https://github.com/StudentSeparate/ai--manus) | サンドボックスでツール実行？AIエージェントにお任せ | AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。 |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOSとiOSでドラマを見る | HGhubクロスプラットフォームクライアント (macOS &amp; iOS 強化版) · Apple Silicon / Intelの両アーキテクチャ向けDMGと署名不要のiOS IPAに対応 · 没入感のあるドラマ視聴 / ジェスチャーによる拡大縮小 / ネイティブの横向き全画面表示 / 複数経路のミラー速度測定 |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… |
+| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) |  | Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 動画や音楽が散らかる？セルフホスト型アプリで管理 | 番組、映画、音楽のための1つのセルフホスト型アプリ。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 手持ちのLinuxサーバーを1か所でまとめて動かす | オープンソースの ServerOS パネル：既にお持ちの Linux サーバーを実行するひとつの場所。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |

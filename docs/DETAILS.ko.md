@@ -118,56 +118,30 @@
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 내 컴퓨터에만 보관하는 AI 회의 메모 | 컴퓨터에 보관되는 비공개 AI 회의록. Mac, Windows 및 Linux용 무료 오픈 소스 Granola 대안. |
-| [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus) | 샌드박스에서 다양한 에이전트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus) | 샌드박스에서 다양한 에이전트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus) | 샌드박스에서 다양한 에이电트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus) | 샌드박스에서 다양한 에이전트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus) | 샌드박스에서 다양한 에이전트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus) | 샌드박스에서 다양한 에이전트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus) | 샌드박스에서 다양한 에이전트 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [BladesmithPanel/ai--manus](https://github.com/BladesmithPanel/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Boarddrunail/ai--manus](https://github.com/Boarddrunail/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Boardglacode/ai--manus](https://github.com/Boardglacode/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) | AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 팀과 AI 에이전트가 채널과 DM에서 함께 협업할 수 있는 오픈 소스, 셀프 호스팅 Slack 대안. 에이전트는 Claude, ChatGPT/Codex, Gemini 또는 Grok에서 실행됩니다… |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) |  | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) |  | AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
+| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | SnowCat 雪猫: NapCat + SnowLuma 융합 서드파티 QQ 클라이언트, 커뮤니티 릴레이 유지 관리, V8 채널 전체 기능 QQ 9.9.37 호환, 전체 도구 및 전체 소스 코드 공개 |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
+| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
+| [21stware/bowel](https://github.com/21stware/bowel) | 다양한 OS에서 mihomo 클라이언트 실행하기 | Bowel은 macOS, Windows, Linux 및 Android용 mihomo 클라이언트입니다. |
+| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 음성에 맞춰 코드로 영화 같은 영상을 제작 | 완전히 코드로 구축된 내레이션 시네마틱 필름용 에이전트 스킬: 음성에 맞춰 사진, 지도 및 카드 위를 이동하는 하나의 연속 카메라. Claude Code, Codex, C… |
+| [threerocks/article2media](https://github.com/threerocks/article2media) | 글이나 영상을 카드뉴스와 숏폼 영상으로 변환 | 기사나 비디오(抖音, B 站, YouTube, 먼저 녹취록으로 변환) 한 편을 원클릭으로 小红书 이미지 텍스트, 잡지형 롱 이미지, 公众号 레이아웃 및 AI 음성 더빙 숏폼 영상으로 만들어 주는 오픈 소스 Claude Code / Codex 스킬. 21개 테마, 자동 검수, npm 의존성 제로。 |
+| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) |  | A curated list of papers for AI in Astronomy &amp; Astrophysics. |
+| [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 오래된 안드로이드 폰을 로컬 데스크 패널로 쓰기 | 오래된 Android 휴대폰을 Windows, Linux 및 macOS용 로컬 데스크 패널로 변환하세요. 55개 위젯, Smart Stack, AI 할당량 및 세션, 미디어 컨트롤, USB 또는 페어링… |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) |  | Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed varian… |
+| [pktq/lasik](https://github.com/pktq/lasik) |  | BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA… |
+| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 코딩 에ージェント에게 요청을 나누어 전달하기 | 코딩 에이전트를 위한 비서실장: herdr 상에서 git worktrees 내 병렬 worker를 실행하는 프로젝트별 관리자 에이전트로 요청을 라우팅합니다. |
+| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) |  | Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome. |
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 복잡한 CI 로그에서 실패 원인과 정확한 증거 정리 | 복잡한 CI 로그를 그룹화된 실패, 정확한 증거 및 조사 단계로 변환합니다. 오프라인 CLI, 재사용 가능한 GitHub Action 및 이중 언어 브라우저 워크벤치. API k… 없음 |
-| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) | Wondershare Recoverit 데스크톱 | 디스크, SD 카드 및 USB 드라이브에서 삭제된 파일 복구, 손상된 비디오 및 사진 파일 복구, 그리고 충돌…을 위한 Wondershare Recoverit 2026 데스크톱 설치 |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 데스크톱 | 선명한 고 ISO 촬영을 위한 DeepPRIME XD 노이즈 제거, 측정된 렌즈 프로파일 기반의 광학 보정, 비파괴 R…을 갖춘 DxO PhotoLab 10 2026 데스크톱 설정 |
-| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 데스크톱 설정 | 전체 플러그인 제품군과 완전한 기능 세트를 갖춘 Cubase Studio 2026 데스크톱 설정 |
-| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 데스크톱 설정 | 임시 파일 클리너, 측정된 부팅 영향을 제공하는 시작 프로그램 관리자, 서비스 및 예약된 작업에 대한 원클릭 조정을 갖춘 Windows Optimizer 2026 데스크톱 설정… |
-| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 환경 설정 | 전문적인 컬러 그레이딩, HDR 지원, 무제한 트랙을 갖춘 Fairlight 오디오 포스트, 단일…에서의 다중 사용자 협업을 갖춘 CorelDraw Desktop 2026 설정… |
-| [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Kontakt 8 2026 데스크톱 샘플러 설정 | 가상 악기를 위한 업계 표준 샘플러, 수천 개의 라이브러리 및 Kontakt Factory, 그리고 …하기 위한 스크립팅 엔진을 갖춘 Kontakt 8 2026 데스크톱 설정… |
-| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Adobe Acrobat PDF 2026 데스크톱 설정 | 모든 PDF 내에서 텍스트 및 이미지 직접 편집, Word, Excel 및 이미지와의 상호 변환, 그리고 작성, 서명 및 병합…을 갖춘 Adobe Acrobat PDF 2026 데스크톱 설정… |
 | [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 로컬 스튜디오 환경 설정 | 격리된 로컬 스튜디오 환경에서 전문 오디오 워크스테이션 배포를 위해 사전 구성된 Ableton Live 12 환경. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcn으로 Dynamic Island 바로 설치 | shadcn으로 설치되는 React용 오픈 소스 Dynamic Island. |
-| [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) | AI 에이전트로 샌드박스에서 도구와 작업 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이电트 시스템입니다. |
-| [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus) | 에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [blendhokagedestroy/ai--manus](https://github.com/blendhokagedestroy/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Boldpleinverter/ai--manus](https://github.com/Boldpleinverter/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [bravecrownvalve/ai--manus](https://github.com/bravecrownvalve/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [BrickAssemblyRepel/ai--manus](https://github.com/BrickAssemblyRepel/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [ceilingthunderretort/ai--manus](https://github.com/ceilingthunderretort/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [ChannelSparrowYank/ai--manus](https://github.com/ChannelSparrowYank/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [Lightningeuchant/ai--manus](https://github.com/Lightningeuchant/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [PolygonGlazier/ai--manus](https://github.com/PolygonGlazier/ai--manus) | 샌드박스에서 AI 에이전트로 각종 툴을 실행하세요 | AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
-| [StudentSeparate/ai--manus](https://github.com/StudentSeparate/ai--manus) | 샌드박스에서 도구 실행? AI 에이전트에게 맡기세요 | AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다. |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… |
+| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) |  | Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 보유한 Linux 서버를 한곳에서 모아 실행 | 오픈 소스 ServerOS 패널: 이미 보유하고 있는 Linux 서버를 실행할 수 있는 하나의 공간. |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다. |

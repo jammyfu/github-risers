@@ -118,56 +118,30 @@
 | 專案 | 表裡的一句話 | 完整介紹 |
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 會議筆記全保存在自己電腦裡 | 保留在您電腦上的私密 AI 會議記錄。一款適用於 Mac、Windows 和 Linux 的免費、開源 Granola 替代品。 |
-| [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus) | 在沙箱環境中運行各種代理工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各种工具和操作。 |
-| [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [BladesmithPanel/ai--manus](https://github.com/BladesmithPanel/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [Boarddrunail/ai--manus](https://github.com/Boarddrunail/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各种工具和操作。 |
-| [Boardglacode/ai--manus](https://github.com/Boardglacode/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [ClampOverlord46/ai--manus](https://github.com/ClampOverlord46/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [Feathershosmash/ai--manus](https://github.com/Feathershosmash/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [GryphonEmpress/ai--manus](https://github.com/GryphonEmpress/ai--manus) | 想用 AI 運行工具？交給沙盒代理 | AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [HurricaneMonarchDart/ai--manus](https://github.com/HurricaneMonarchDart/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [TealAgentRevive/ai--manus](https://github.com/TealAgentRevive/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [TorusBarbarianMap9/ai--manus](https://github.com/TorusBarbarianMap9/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [WinnerBrokerBarrow/ai--manus](https://github.com/WinnerBrokerBarrow/ai--manus) | 想在沙箱中執行各種工具？交給 AI 代理 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自行架設空間與團隊及 AI 代理協作 | 開源、自行架設的 Slack 替代方案，您的團隊和 AI 代理在頻道和 DMs 中協同工作。代理運行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) |  | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) |  | AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什麼，邊聊邊看即時地圖 | 聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一條命令自動選工具、執行並生成案卷 | 用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。 |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 借助257本櫻井字幕，讓代理帶你做遊戲 | 根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） |
+| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社群接力全功能適配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客戶端，社區接力維護，V8 通道全功能適配 QQ 9.9.37，全工具全源碼公開 |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 讓 AI 從零做出瀏覽器 3D 動作遊戲 | 歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
+| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹除文字裡的 AI 痕跡並自動重寫 | STE80 Humanizer: 消除 AI 痕跡並將文本重寫至 80% 符合 ASD-STE100 (Simplified Technical English) 的代理技能，Andrej Karpathy sh… |
+| [21stware/bowel](https://github.com/21stware/bowel) | 在多系統裝置上使用 mihomo 客戶端 | Bowel 是適用於 macOS、Windows、Linux 和 Android 的 mihomo 用戶端。 |
+| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 用程式碼做出對齊語音的電影感影片 | 完全由代碼構建的旁白電影感影片代理技能：鏡頭在照片、地圖和卡片上連續移動，配合語音節奏。Claude Code, Codex, C… |
+| [threerocks/article2media](https://github.com/threerocks/article2media) | 把文章或影片一鍵做成圖文和短影音 | 把一篇文章或一條影片（抖音、B 站、YouTube，先轉逐字稿）一鍵做成小紅書圖文、雜誌長圖、公眾號排版和 AI 配音口播短影片的開源 Claude Code / Codex 技能。21 套主題，自動驗收，零 npm 依賴。 |
+| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) |  | A curated list of papers for AI in Astronomy &amp; Astrophysics. |
+| [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 把舊安卓手機變成電腦本機桌面面板 | 將舊 Android 手機變成適用於 Windows、Linux 和 macOS 的本機桌面面板。55 個小工具、Smart Stack、AI 配額與工作階段、媒體控制項、USB 或配對… |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) |  | Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed varian… |
+| [pktq/lasik](https://github.com/pktq/lasik) |  | BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA… |
+| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 將編碼任務分派給專屬代理協同執行 | 編碼代理的幕僚長：將請求路由給在 git worktrees 中運行並行 worker 的各專案管理代理，基於 herdr。 |
+| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) |  | Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome. |
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | CI 日誌太亂？幫你歸類報錯並找出證據 | 將嘈雜的 CI 記錄轉換為分組的失敗、確切的證據和調查步驟。離線 CLI、可重複使用的 GitHub Action 和雙語瀏覽器工作台。無需 API k… |
-| [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) |  | Wondershare Recoverit 2026 桌面安裝程式，用於從磁碟、SD 卡和 USB 隨身碟復原已刪除的檔案，修復損壞的影片和相片檔案，以及當機… |
-| [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | DxO PhotoLab 10 2026 桌面安裝程式 | DxO PhotoLab 10 2026 桌面安裝程式，配備用於純淨高 ISO 拍攝的 DeepPRIME XD 降噪、基於測量鏡頭設定檔的光學校正，以及非破壞性 R… |
-| [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Cubase Studio 2026 桌面安裝程式 | 配備完整外掛套件和完整功能集的 Cubase Studio 2026 桌面設定 |
-| [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Windows Optimizer 2026 桌面安裝程式 | 配備暫存檔案清理器、具有測量開機影響的開機啟動管理器，以及用於服務和排程工作的一鍵微調的 Windows Optimizer 2026 桌面設定… |
-| [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | CorelDraw Desktop 2026 安裝程式 | 配備專業色彩分級、HDR 支援、具有無限制軌道的 Fairlight 音訊後製，以及在單一…上實現多使用者協作的 CorelDraw Desktop 2026 設定… |
-| [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Kontakt 8 2026 桌面取樣器設定環境 | 配備用於虛擬樂器的業界標準取樣器、數千個音樂庫與 Kontakt Factory，以及用於…的指令碼引擎的 Kontakt 8 2026 桌面設定… |
-| [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Adobe Acrobat PDF 2026 桌面安裝程式 | 配備直接在任何 PDF 內編輯文字和影像、與 Word、Excel 及影像雙向轉換，以及填寫、簽名和合併…的 Adobe Acrobat PDF 2026 桌面設定… |
 | [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 本機工作室預配置環境 | 用於在隔離的本機工作室環境中部署專業音訊工作站的 Ableton Live 12 預先設定環境。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) |  | 適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。 |
-| [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus) | 讓 AI 代理在沙箱中執行各種工具與操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。 |
-| [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各种工具和操作。 |
-| [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus) | 想讓代理操作工具？放進沙盒裡執行 | AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。 |
-| [blendhokagedestroy/ai--manus](https://github.com/blendhokagedestroy/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [Boldpleinverter/ai--manus](https://github.com/Boldpleinverter/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [bravecrownvalve/ai--manus](https://github.com/bravecrownvalve/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [BrickAssemblyRepel/ai--manus](https://github.com/BrickAssemblyRepel/ai--manus) | 讓 AI 代理在沙箱中執行各种工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [ceilingthunderretort/ai--manus](https://github.com/ceilingthunderretort/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具 Linux 操作。 |
-| [ChannelSparrowYank/ai--manus](https://github.com/ChannelSparrowYank/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [Lightningeuchant/ai--manus](https://github.com/Lightningeuchant/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [PolygonGlazier/ai--manus](https://github.com/PolygonGlazier/ai--manus) | 讓 AI 代理在沙箱中執行各種工具 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。 |
-| [pyramidteachermap/ai--manus](https://github.com/pyramidteachermap/ai--manus) | 想在沙箱運行工具？讓 AI 代理幫你操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。 |
-| [StudentSeparate/ai--manus](https://github.com/StudentSeparate/ai--manus) | 想在沙箱運行工具？讓 AI 代理幫你操作 | AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各种工具和操作。 |
+| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追劇 | HGhub 跨平台用戶端 (macOS &amp; iOS 增強版) · 支援 Apple Silicon / Intel 雙架構 DMG 與 iOS 免簽 IPA · 沉浸式追劇 / 手勢縮放 / 原生橫向全螢幕 / 多線路鏡像測速 |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… |
+| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) |  | Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一個自行架設應用集中管理 | 一款用於您的節目、電影和音樂的自行架設應用程式。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 在一處集中運行你已有的 Linux 伺服器 | 開源 ServerOS 面板：一處運行您已擁有的 Linux 伺服器的地方。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 驗證節點健康狀態 | 60 秒內掌握 Solana 驗證節點健康狀況：評分、出塊任務、獎勵、磁碟預測、Prometheus。單一靜態二進位檔，唯讀，絕不觸碰您的金鑰。 |
