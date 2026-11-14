@@ -66,16 +66,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux. | 2026-11-10<br><sub>3.7 日</sub> | 1,368 | 365.5 |
-| 2 | [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 3 | [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 4 | [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 5 | [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 6 | [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 7 | [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 8 | [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 9 | [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 10 | [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>自分のPCだけに保存できるAI会議メモ | 2026-11-10<br><sub>3.7 日</sub> | 1,368 | 365.5 |
+| 2 | [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 3 | [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 4 | [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 5 | [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 6 | [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 7 | [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 8 | [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus)<br>サンドボックスで様々なエージェント操作を実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 9 | [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus)<br>AIでツールを動かしたい？サンドボックスのエージェントで | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 10 | [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus)<br>AIでツールを動かしたい？サンドボックスのエージェントで | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -273,15 +273,15 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>4.8 日</sub> | 780 | 163.3 |
-| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file. | 2026-11-13<br><sub>1.0 日</sub> | 157 | 157.0 |
-| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API k… | 2026-11-07<br><sub>6.8 日</sub> | 111 | 16.4 |
-| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crash… | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
-| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive R… | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
-| 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 desktop setup with full plugin suite and complete feature set | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
-| 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled ta… | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
-| 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single… | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
-| 9 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop)<br>Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to… | 2026-11-13<br><sub>1.0 日</sub> | 283 | 283.0 |
-| 10 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)<br>Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and me… | 2026-11-14<br><sub>1.0 日</sub> | 283 | 283.0 |
+| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 | 2026-11-13<br><sub>1.0 日</sub> | 157 | 157.0 |
+| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要 | 2026-11-07<br><sub>6.8 日</sub> | 111 | 16.4 |
+| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>ディスク、SD カード、USB ドライブから削除されたファイルの復元、破損した動画および写真ファイルの修復、クラッシュ…に対応した Wondershare Recoverit 2026 デスクトップセットアップ | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
+| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>クリアな高 ISO 撮影のための DeepPRIME XD ノイズ低減、実測レンズプロファイルによる光学補正、非破壊的 R…を備えた DxO PhotoLab 10 2026 デスクトップセットアップ | 2026-11-13<br><sub>1.0 日</sub> | 285 | 285.0 |
+| 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 デスクトップ設定 | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
+| 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026設定 | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
+| 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026設定 | 2026-11-13<br><sub>1.0 日</sub> | 284 | 284.0 |
+| 9 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop)<br>Kontakt 8 2026 デスクトップサンプラー | 2026-11-13<br><sub>1.0 日</sub> | 283 | 283.0 |
+| 10 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)<br>Adobe Acrobat PDF 2026設定 | 2026-11-14<br><sub>1.0 日</sub> | 283 | 283.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -596,16 +596,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>The open-source Dynamic Island for React, installed with shadcn. | 2026-11-13<br><sub>1.1 日</sub> | 587 | 542.1 |
-| 2 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 3 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 4 | [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 5 | [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 6 | [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 7 | [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 8 | [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 9 | [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
-| 10 | [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcnで手軽にDynamic Islandを追加 | 2026-11-13<br><sub>1.1 日</sub> | 587 | 542.1 |
+| 2 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus)<br>AIエージェントがサンドボックスでツールを実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 3 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 4 | [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 5 | [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 6 | [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 7 | [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 8 | [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 9 | [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
+| 10 | [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus)<br>エージェントでツールを動かす？サンドボックスで実行 | 2026-11-13<br><sub>1.0 日</sub> | 266 | 266.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>

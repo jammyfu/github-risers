@@ -87,6 +87,56 @@
         }
       }
     },
+    "AdmiralEmporium/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이전트 도구와 작업 실행"
+        }
+      }
+    },
+    "AdvisorShake/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI Agent run tools and operations in a sandbox",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具與操作",
+          "ja": "AIエージェントがサンドボックスでツールを実行",
+          "ko": "AI 에이전트로 샌드박스에서 도구와 작업 실행"
+        }
+      }
+    },
+    "AgentLobster/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
     "Akillll-DuoHe/fy-code-animation": {
       "d42acaad092b": {
         "src": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
@@ -105,6 +155,40 @@
         }
       }
     },
+    "AmplitudeBoss/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "ApothecaryDesign/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이전트 도구와 작업 실행"
+        }
+      }
+    },
     "AquaTradesmanAbide/genesis-miner": {
       "763aa49dd31a": {
         "src": "Genesis Miner 2026: Full working installer with all features unlocked, ready to run on your desktop.",
@@ -117,6 +201,57 @@
           "en": "Genesis Miner 2026 installer, listed as fully unlocked",
           "ja": "全機能解放済みとされる 2026 デスクトップ版",
           "ko": "모든 기능이 잠금 해제된 2026 데스크톱 설치본"
+        }
+      }
+    },
+    "ArcherAmplify/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이电트 도구와 작업 실행"
+        }
+      }
+    },
+    "Archiveeutrough/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이전트 도구와 작업 실행"
+        }
+      }
+    },
+    "ArcticPrawnEmporium/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이전트 도구와 작업 실행"
         }
       }
     },
@@ -193,6 +328,23 @@
         }
       }
     },
+    "Aspectnisafeguard/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
+        }
+      }
+    },
     "AssassinCreator/steam-stash-value-report-card": {
       "7a03062552e0": {
         "src": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
@@ -207,6 +359,23 @@
           "zh-Hant": "不知庫存價值，在終端機盤點並做成卡片",
           "ja": "在庫価値が不明なら、ターミナルでSteamを査定",
           "ko": "아이템 가치를 모를 때 터미널에서 Steam 정산"
+        }
+      }
+    },
+    "AtomEmissary/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
         }
       }
     },
@@ -293,6 +462,40 @@
         }
       }
     },
+    "BannerCatbird/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各种工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "BarrierCenter/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
+        }
+      }
+    },
     "Basinflaworship2/fl-studio": {
       "73ee42fe3ef1": {
         "src": "Fl Studio 2026: Full working installer with all essential plugins and features, ready to run on your desktop.",
@@ -316,6 +519,125 @@
         "zh-Hant": "Slideshow Video Maker 2026 - 完整可用安裝程式，所有功能預先啟用且隨時可運行的桌面版。",
         "ja": "Slideshow Video Maker 2026 - 完全に動作するインストーラー、すべての機能が事前アクティベートされた実行可能なデスクトップ版。",
         "ko": "Slideshow Video Maker 2026 - 완전한 작동 설치 프로그램, 모든 기능이 사전 활성화되어 바로 실행 가능한 데스크톱 버전."
+      }
+    },
+    "Beachnuconceal/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "BeastBlazeAttract/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "BladesmithPanel/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
+        }
+      }
+    },
+    "Boarddrunail/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各种工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
+        }
+      }
+    },
+    "Boardglacode/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
+        }
+      }
+    },
+    "Boldpleinverter/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
+    "BrickAssemblyRepel/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各种工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
       }
     },
     "Bridgeyaprovide/roblox-game-copier": {
@@ -456,6 +778,23 @@
         }
       }
     },
+    "ChannelSparrowYank/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
     "ClampBeeCrane/payday-3-trainer-tool": {
       "c673352ccdb5": {
         "src": "Payday 3 1.5.4 local workstation deployment package with pre-configured environment and automated deployment pipeline, ready for immediate...",
@@ -470,6 +809,23 @@
           "zh-Hant": "Payday 3 本機部署套件",
           "ja": "Payday 3 ローカル導入パッケージ",
           "ko": "Payday 3 로컬 배포 패키지"
+        }
+      }
+    },
+    "ClampOverlord46/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
         }
       }
     },
@@ -791,6 +1147,23 @@
         }
       }
     },
+    "Feathershosmash/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
+        }
+      }
+    },
     "Flintfaconceal/ads-blocker": {
       "778f532717f6": {
         "src": "Ads Blocker utility configuration folder for secure, efficient desktop software deployment in isolated environments.",
@@ -899,6 +1272,21 @@
       }
     },
     "FrigadeHQ/yogurt": {
+      "690abcb0ba94": {
+        "src": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+        "zh-Hans": "保留在您电脑上的私密 AI 会议记录。一款适用于 Mac、Windows 和 Linux 的免费、开源 Granola 替代品。",
+        "seen": "2026-11-14",
+        "zh-Hant": "保留在您電腦上的私密 AI 會議記錄。一款適用於 Mac、Windows 和 Linux 的免費、開源 Granola 替代品。",
+        "ja": "コンピュータ上に保存されるプライベートな AI 会議メモ。Mac、Windows、Linux 向けの無料のオープンソースな Granola の代替ツール。",
+        "ko": "컴퓨터에 보관되는 비공개 AI 회의록. Mac, Windows 및 Linux용 무료 오픈 소스 Granola 대안.",
+        "hook": {
+          "en": "Keep your AI meeting notes private on your own computer",
+          "zh-Hans": "把 AI 会议笔记全保存在自己电脑里",
+          "zh-Hant": "把 AI 會議筆記全保存在自己電腦裡",
+          "ja": "自分のPCだけに保存できるAI会議メモ",
+          "ko": "내 컴퓨터에만 보관하는 AI 회의 메모"
+        }
+      },
       "8b9153a71ef5": {
         "src": "Private AI meeting notes. Free and open source.",
         "zh-Hans": "私密 AI 会议记录。免费且开源。",
@@ -978,6 +1366,23 @@
           "en": "DxO PhotoLab 10 desktop build, listed as activated",
           "ja": "有効化済みと記載のDxO PhotoLab 10デスクトップ構成",
           "ko": "활성화 상태로 기재된 DxO PhotoLab 10 데스크톱 빌드"
+        }
+      }
+    },
+    "GryphonEmpress/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need AI to run tools? Let an agent work in a sandbox",
+          "zh-Hans": "想用 AI 运行工具？交给沙盒智能体",
+          "zh-Hant": "想用 AI 運行工具？交給沙盒代理",
+          "ja": "AIでツールを動かしたい？サンドボックスのエージェントで",
+          "ko": "AI로 도구를 실행하고 싶다면? 샌드박스 에이전트로"
         }
       }
     },
@@ -1117,6 +1522,16 @@
           "ja": "動画や音楽が散らかる？セルフホスト型アプリで管理",
           "ko": "흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리"
         }
+      }
+    },
+    "HurricaneMonarchDart/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다."
       }
     },
     "Interactive-Active-AI/NextTransformer": {
@@ -1280,6 +1695,23 @@
           "ko": "CS2 거래 이익이 헷갈릴 때, 수수료 뺀 순이익 확인",
           "zh-Hans": "CS2 买卖看不清，在设备上直接看净利润",
           "zh-Hant": "CS2 買賣看不清，在裝置上直接看淨利潤"
+        }
+      }
+    },
+    "Lightningeuchant/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
         }
       }
     },
@@ -1631,6 +2063,21 @@
         }
       }
     },
+    "Omegaofidolize/ableton-live-12": {
+      "aae9c1747dec": {
+        "src": "Ableton Live 12 pre-configured environment for professional audio workstation deployment in isolated local studio setup.",
+        "zh-Hans": "用于在隔离的本地工作室环境中部署专业音频工作站的 Ableton Live 12 预配置环境。",
+        "seen": "2026-11-14",
+        "zh-Hant": "用於在隔離的本機工作室環境中部署專業音訊工作站的 Ableton Live 12 預先設定環境。",
+        "ja": "隔離されたローカルスタジオ環境でのプロフェッショナルなオーディオワークステーション導入向けに事前設定された Ableton Live 12 環境。",
+        "ko": "격리된 로컬 스튜디오 환경에서 전문 오디오 워크스테이션 배포를 위해 사전 구성된 Ableton Live 12 환경.",
+        "hook": {
+          "en": "Ableton Live 12 environment for local studio setup",
+          "ja": "Ableton Live 12 ローカル環境設定",
+          "ko": "Ableton Live 12 로컬 스튜디오 환경 설정"
+        }
+      }
+    },
     "OriginShaper/Microsoft-365": {
       "acafd56e89d8": {
         "src": "Microsoft 365 desktop utility configuration - complete standalone installation setup, ready to run with all features activated.",
@@ -1849,6 +2296,23 @@
         }
       }
     },
+    "PolygonGlazier/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
     "Prideoidemultiplexer/catia-cad": {
       "48de160f260b": {
         "src": "Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution.",
@@ -1964,6 +2428,16 @@
           "zh-Hans": "桌面开箱即用的 MetaTrader 5 机器人",
           "zh-Hant": "桌面隨開即用的 MetaTrader 5 機器人"
         }
+      }
+    },
+    "RouteInferno/shamus-osint-ai-agent": {
+      "356de5de54dd": {
+        "src": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+        "zh-Hans": "用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。",
+        "seen": "2026-11-14",
+        "zh-Hant": "用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。",
+        "ja": "OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。",
+        "ko": "OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다."
       }
     },
     "RyoTheOne/dxo-photolab-10-config": {
@@ -2339,6 +2813,22 @@
         }
       }
     },
+    "StudentSeparate/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各种工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need to run tools in a sandbox? Let an AI agent handle it",
+          "zh-Hant": "想在沙箱運行工具？讓 AI 代理幫你操作",
+          "ja": "サンドボックスでツール実行？AIエージェントにお任せ",
+          "ko": "샌드박스에서 도구 실행? AI 에이전트에게 맡기세요"
+        }
+      }
+    },
     "SymbolSteward/ozone-12-advanced": {
       "8184182b05c4": {
         "src": "Ozone 12 Advanced pre-configured environment for streamlined desktop software utility setup in isolated local workstation deployment.",
@@ -2373,6 +2863,16 @@
         }
       }
     },
+    "TealAgentRevive/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다."
+      }
+    },
     "Tempofaengage/unlocktool": {
       "cbdb6a8104d2": {
         "src": "Unlocktool 2023: Full working installer with enhanced security features for professional desktop use.",
@@ -2405,6 +2905,16 @@
           "ja": "Reason 14デスクトップ導入パッケージ",
           "ko": "Reason 14 데스크톱 배포 패키지"
         }
+      }
+    },
+    "TorusBarbarianMap9/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다."
       }
     },
     "Townlanurture/aegis-skin-terminal": {
@@ -2656,6 +3166,16 @@
           "ja": "Wondshare Recoverit 13.5デスクトップ設定環境",
           "ko": "Wondshare Recoverit 13.5 데스크톱 설정 환경"
         }
+      }
+    },
+    "WinnerBrokerBarrow/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙箱環境中執行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다."
       }
     },
     "XiaoyeCodes/code-animation-prompts": {
@@ -2998,6 +3518,55 @@
         }
       }
     },
+    "ariamitchell54/cubase-studio-desktop": {
+      "5abf46d6f38b": {
+        "src": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
+        "zh-Hans": "配备完整插件套件和全部功能集的 Cubase Studio 2026 桌面设置",
+        "seen": "2026-11-14",
+        "zh-Hant": "配備完整外掛套件和完整功能集的 Cubase Studio 2026 桌面設定",
+        "ja": "完全なプラグインスイートと完全な機能セットを備えた Cubase Studio 2026 デスクトップセットアップ",
+        "ko": "전체 플러그인 제품군과 완전한 기능 세트를 갖춘 Cubase Studio 2026 데스크톱 설정",
+        "hook": {
+          "en": "Cubase Studio 2026 desktop setup with plugin suite",
+          "ja": "Cubase Studio 2026 デスクトップ設定",
+          "ko": "Cubase Studio 2026 데스크톱 설정"
+        }
+      }
+    },
+    "armsworminterface/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이전트 도구와 작업 실행"
+        }
+      }
+    },
+    "armysystemsun/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙盒环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各种工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Run various agent tools and operations in a sandbox",
+          "zh-Hans": "在沙箱环境中运行各种智能体工具与操作",
+          "zh-Hant": "在沙箱環境中運行各種代理工具與操作",
+          "ja": "サンドボックスで様々なエージェント操作を実行",
+          "ko": "샌드박스에서 다양한 에이전트 도구와 작업 실행"
+        }
+      }
+    },
     "artemnovitckii/claude-animation-skills": {
       "d6407fdb857e": {
         "src": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, li…",
@@ -3012,6 +3581,53 @@
           "ko": "영상 소재가 없을 때, Claude Code 스킬로 애니메이션 제작",
           "zh-Hans": "做短视频没素材，用技能直接做动画",
           "zh-Hant": "做短影音沒素材，用技能直接做動畫"
+        }
+      }
+    },
+    "avenuemistravage47/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이电트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "azure-teal-slope/windows-optimizer-desktop": {
+      "eb5aec46ce4b": {
+        "src": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled ta…",
+        "zh-Hans": "配备临时文件清理器、具有测量启动影响的启动管理器，以及用于服务和计划任务的一键优化的 Windows Optimizer 2026 桌面设置…",
+        "seen": "2026-11-14",
+        "zh-Hant": "配備暫存檔案清理器、具有測量開機影響的開機啟動管理器，以及用於服務和排程工作的一鍵微調的 Windows Optimizer 2026 桌面設定…",
+        "ja": "一時ファイルクリーナー、測定された起動への影響を備えたスタートアップマネージャー、サービスおよびスケジュールされたタスクのワンクリック調整を備えた Windows Optimizer 2026 デスクトップセットアップ…",
+        "ko": "임시 파일 클리너, 측정된 부팅 영향을 제공하는 시작 프로그램 관리자, 서비스 및 예약된 작업에 대한 원클릭 조정을 갖춘 Windows Optimizer 2026 데스크톱 설정…",
+        "hook": {
+          "en": "Windows Optimizer 2026 desktop setup and file cleaner",
+          "ja": "Windows Optimizer 2026設定",
+          "ko": "Windows Optimizer 2026 데스크톱 설정"
+        }
+      }
+    },
+    "azuremaple1997/coreldraw-desktop": {
+      "c60a05970280": {
+        "src": "CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single…",
+        "zh-Hans": "配备专业色彩分级、HDR 支持、具有无限制轨道的 Fairlight 音频后期制作，以及在单个…上实现多用户协作的 CorelDraw Desktop 2026 设置…",
+        "seen": "2026-11-14",
+        "zh-Hant": "配備專業色彩分級、HDR 支援、具有無限制軌道的 Fairlight 音訊後製，以及在單一…上實現多使用者協作的 CorelDraw Desktop 2026 設定…",
+        "ja": "プロフェッショナルなカラーグレーディング、HDRサポート、無制限トラックのFairlightオーディオポスト、単一の…でのマルチユーザーコラボレーションを備えた CorelDraw Desktop 2026 セットアップ…",
+        "ko": "전문적인 컬러 그레이딩, HDR 지원, 무제한 트랙을 갖춘 Fairlight 오디오 포스트, 단일…에서의 다중 사용자 협업을 갖춘 CorelDraw Desktop 2026 설정…",
+        "hook": {
+          "en": "CorelDraw Desktop 2026 setup with color grading and HDR",
+          "ja": "CorelDraw Desktop 2026設定",
+          "ko": "CorelDraw Desktop 2026 환경 설정"
         }
       }
     },
@@ -3030,6 +3646,16 @@
         }
       }
     },
+    "azuresail195/wondershare-recoverit-desktop": {
+      "0afb19f7cad9": {
+        "src": "Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crash…",
+        "zh-Hans": "Wondershare Recoverit 2026 桌面安装程序，用于从磁盘、SD 卡和 USB 驱动器恢复已删除的文件，修复损坏的视频和照片文件，以及崩溃…",
+        "seen": "2026-11-14",
+        "zh-Hant": "Wondershare Recoverit 2026 桌面安裝程式，用於從磁碟、SD 卡和 USB 隨身碟復原已刪除的檔案，修復損壞的影片和相片檔案，以及當機…",
+        "ja": "ディスク、SD カード、USB ドライブから削除されたファイルの復元、破損した動画および写真ファイルの修復、クラッシュ…に対応した Wondershare Recoverit 2026 デスクトップセットアップ",
+        "ko": "디스크, SD 카드 및 USB 드라이브에서 삭제된 파일 복구, 손상된 비디오 및 사진 파일 복구, 그리고 충돌…을 위한 Wondershare Recoverit 2026 데스크톱 설치"
+      }
+    },
     "balkewkidane/grizl-fabric-observability": {
       "0a367304da67": {
         "src": "grizl-fabric-observability: Fabric Eventhouse/KQL observability and anomaly-signal library",
@@ -3044,6 +3670,67 @@
           "ko": "Fabric KQL 관측성 및 이상 징후 라이브러리",
           "zh-Hans": "Fabric Eventhouse/KQL 可观测性库",
           "zh-Hant": "Fabric Eventhouse/KQL 可觀測性庫"
+        }
+      }
+    },
+    "bandbeetleruminate/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用 AI 代理系統，支援在沙箱環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업의 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need an AI agent to run tools? Run them in a sandbox",
+          "zh-Hans": "想让智能体操作工具？放进沙箱里运行",
+          "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
+          "ja": "エージェントでツールを動かす？サンドボックスで実行",
+          "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "ben-cook-42/kontakt-8-desktop": {
+      "abf358e7d741": {
+        "src": "Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to…",
+        "zh-Hans": "配备用于虚拟乐器的行业标准采样器、数千个音色库与 Kontakt Factory，以及用于…的脚本引擎的 Kontakt 8 2026 桌面设置…",
+        "seen": "2026-11-14",
+        "zh-Hant": "配備用於虛擬樂器的業界標準取樣器、數千個音樂庫與 Kontakt Factory，以及用於…的指令碼引擎的 Kontakt 8 2026 桌面設定…",
+        "ja": "仮想楽器用の業界標準サンプラー、数千のライブラリと Kontakt Factory、さらに…するためのスクリプティングエンジンを備えた Kontakt 8 2026 デスクトップセットアップ…",
+        "ko": "가상 악기를 위한 업계 표준 샘플러, 수천 개의 라이브러리 및 Kontakt Factory, 그리고 …하기 위한 스크립팅 엔진을 갖춘 Kontakt 8 2026 데스크톱 설정…",
+        "hook": {
+          "en": "Kontakt 8 2026 desktop setup with instrument sampler",
+          "zh-Hans": "Kontakt 8 2026 桌面采样器配置环境",
+          "zh-Hant": "Kontakt 8 2026 桌面取樣器設定環境",
+          "ja": "Kontakt 8 2026 デスクトップサンプラー",
+          "ko": "Kontakt 8 2026 데스크톱 샘플러 설정"
+        }
+      }
+    },
+    "ben-miller-23/dxo-photolab-10-desktop": {
+      "076978771471": {
+        "src": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive R…",
+        "zh-Hans": "DxO PhotoLab 10 2026 桌面安装程序，具备用于获得纯净高 ISO 照片的 DeepPRIME XD 降噪、基于实测镜头配置文件的光学校正以及非破坏性 R…",
+        "seen": "2026-11-14",
+        "zh-Hant": "DxO PhotoLab 10 2026 桌面安裝程式，配備用於純淨高 ISO 拍攝的 DeepPRIME XD 降噪、基於測量鏡頭設定檔的光學校正，以及非破壞性 R…",
+        "ja": "クリアな高 ISO 撮影のための DeepPRIME XD ノイズ低減、実測レンズプロファイルによる光学補正、非破壊的 R…を備えた DxO PhotoLab 10 2026 デスクトップセットアップ",
+        "ko": "선명한 고 ISO 촬영을 위한 DeepPRIME XD 노이즈 제거, 측정된 렌즈 프로파일 기반의 광학 보정, 비파괴 R…을 갖춘 DxO PhotoLab 10 2026 데스크톱 설정"
+      }
+    },
+    "blendhokagedestroy/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
         }
       }
     },
@@ -3107,6 +3794,48 @@
         }
       }
     },
+    "bravecrownvalve/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具與操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
+    "briskember13/adobe-acrobat-pdf-desktop": {
+      "a6cb5528b40d": {
+        "src": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and me…",
+        "zh-Hans": "配备直接在任何 PDF 内编辑文本和图像、与 Word、Excel 及图像双向转换，以及填写、签名和合并…的 Adobe Acrobat PDF 2026 桌面设置…",
+        "seen": "2026-11-14",
+        "zh-Hant": "配備直接在任何 PDF 內編輯文字和影像、與 Word、Excel 及影像雙向轉換，以及填寫、簽名和合併…的 Adobe Acrobat PDF 2026 桌面設定…",
+        "ja": "あらゆるPDF内でテキストや画像を直接編集、Word・Excel・画像との相互変換、さらに記入・署名・結合…を備えた Adobe Acrobat PDF 2026 デスクトップセットアップ…",
+        "ko": "모든 PDF 내에서 텍스트 및 이미지 직접 편집, Word, Excel 및 이미지와의 상호 변환, 그리고 작성, 서명 및 병합…을 갖춘 Adobe Acrobat PDF 2026 데스크톱 설정…",
+        "hook": {
+          "en": "Adobe Acrobat PDF 2026 desktop setup for PDF editing",
+          "ja": "Adobe Acrobat PDF 2026設定",
+          "ko": "Adobe Acrobat PDF 2026 데스크톱 설정"
+        }
+      }
+    },
+    "brunnojob/cifuse": {
+      "9c9d42cf0093": {
+        "src": "Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API k…",
+        "zh-Hans": "将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k…",
+        "seen": "2026-11-14",
+        "zh-Hant": "將嘈雜的 CI 記錄轉換為分組的失敗、確切的證據和調查步驟。離線 CLI、可重複使用的 GitHub Action 和雙語瀏覽器工作台。無需 API k…",
+        "ja": "ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要",
+        "ko": "복잡한 CI 로그를 그룹화된 실패, 정확한 증거 및 조사 단계로 변환합니다. 오프라인 CLI, 재사용 가능한 GitHub Action 및 이중 언어 브라우저 워크벤치. API k… 없음"
+      }
+    },
     "caru-ini/stack-diagram": {
       "b35b80141e99": {
         "src": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -3146,6 +3875,23 @@
           "zh-Hant": "DeepSeek Harness 裝進口袋",
           "ja": "DeepSeek Harness をポケットに",
           "ko": "DeepSeek Harness를 주머니 속에"
+        }
+      }
+    },
+    "ceilingthunderretort/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中執行各種工具 Linux 操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구 및 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Let an AI agent run various tools in a sandbox",
+          "zh-Hans": "让 AI 智能体在沙箱中运行各种工具",
+          "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
+          "ja": "サンドボックスでAIエージェントにツールを実行させる",
+          "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
         }
       }
     },
@@ -4664,6 +5410,21 @@
         }
       }
     },
+    "opencoredev/islandcn": {
+      "6379a1483b32": {
+        "src": "The open-source Dynamic Island for React, installed with shadcn.",
+        "zh-Hans": "适用于 React 的开源 Dynamic Island，使用 shadcn 安装。",
+        "seen": "2026-11-14",
+        "zh-Hant": "適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。",
+        "ja": "shadcn でインストールする、React 向けのオープンソース Dynamic Island。",
+        "ko": "shadcn으로 설치되는 React용 오픈 소스 Dynamic Island.",
+        "hook": {
+          "en": "Add an open-source Dynamic Island to React with shadcn",
+          "ja": "shadcnで手軽にDynamic Islandを追加",
+          "ko": "shadcn으로 Dynamic Island 바로 설치"
+        }
+      }
+    },
     "orkbot-run/ork": {
       "3b6ea971a383": {
         "src": "Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps.",
@@ -4768,6 +5529,22 @@
           "en": "Metatrader 5 Bot desktop installer for trading automation",
           "ja": "Metatrader 5 Bot デスクトップ自動取引版",
           "ko": "Metatrader 5 Bot 데스크톱 자동 거래 설치본"
+        }
+      }
+    },
+    "pyramidteachermap/ai--manus": {
+      "9f0c6d8c2759": {
+        "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "zh-Hans": "AI Manus 是一个通用的 AI 智能体系统，支持在沙箱环境中运行各种工具和操作。",
+        "seen": "2026-11-14",
+        "zh-Hant": "AI Manus 是一個通用的 AI 代理系統，支援在沙盒環境中運行各種工具和操作。",
+        "ja": "AI Manus は、サンドボックス環境でさまざまなツールや操作の実行をサポートする汎用 AI エージェントシステムです。",
+        "ko": "AI Manus는 샌드박스 환경에서 다양한 도구와 작업 실행을 지원하는 범용 AI 에이전트 시스템입니다.",
+        "hook": {
+          "en": "Need to run tools in a sandbox? Let an AI agent handle it",
+          "zh-Hant": "想在沙箱運行工具？讓 AI 代理幫你操作",
+          "ja": "サンドボックスでツール実行？AIエージェントにお任せ",
+          "ko": "샌드박스에서 도구 실행? AI 에이전트에게 맡기세요"
         }
       }
     },

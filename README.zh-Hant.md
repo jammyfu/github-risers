@@ -66,16 +66,16 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux. | 2026-11-10<br><sub>3.7 天</sub> | 1,368 | 365.5 |
-| 2 | [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 3 | [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 4 | [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 5 | [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 6 | [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 7 | [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 8 | [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 9 | [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 10 | [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 會議筆記全保存在自己電腦裡 | 2026-11-10<br><sub>3.7 天</sub> | 1,368 | 365.5 |
+| 2 | [AdmiralEmporium/ai--manus](https://github.com/AdmiralEmporium/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 3 | [ApothecaryDesign/ai--manus](https://github.com/ApothecaryDesign/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 4 | [ArcherAmplify/ai--manus](https://github.com/ArcherAmplify/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 5 | [Archiveeutrough/ai--manus](https://github.com/Archiveeutrough/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 6 | [ArcticPrawnEmporium/ai--manus](https://github.com/ArcticPrawnEmporium/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 7 | [armsworminterface/ai--manus](https://github.com/armsworminterface/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 8 | [armysystemsun/ai--manus](https://github.com/armysystemsun/ai--manus)<br>在沙箱環境中運行各種代理工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 9 | [Aspectnisafeguard/ai--manus](https://github.com/Aspectnisafeguard/ai--manus)<br>想用 AI 運行工具？交給沙盒代理 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 10 | [BarrierCenter/ai--manus](https://github.com/BarrierCenter/ai--manus)<br>想用 AI 運行工具？交給沙盒代理 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -273,15 +273,15 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什麼，邊聊邊看即時地圖 | 2026-11-09<br><sub>4.8 天</sub> | 780 | 163.3 |
-| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file. | 2026-11-13<br><sub>1.0 天</sub> | 157 | 157.0 |
-| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API k… | 2026-11-07<br><sub>6.8 天</sub> | 111 | 16.4 |
-| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crash… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
-| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive R… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
-| 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>Cubase Studio 2026 desktop setup with full plugin suite and complete feature set | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
-| 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled ta… | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
-| 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single… | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
-| 9 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop)<br>Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to… | 2026-11-13<br><sub>1.0 天</sub> | 283 | 283.0 |
-| 10 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)<br>Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and me… | 2026-11-14<br><sub>1.0 天</sub> | 283 | 283.0 |
+| 2 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。 | 2026-11-13<br><sub>1.0 天</sub> | 157 | 157.0 |
+| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse)<br>將嘈雜的 CI 記錄轉換為分組的失敗、確切的證據和調查步驟。離線 CLI、可重複使用的 GitHub Action 和雙語瀏覽器工作台。無需 API k… | 2026-11-07<br><sub>6.8 天</sub> | 111 | 16.4 |
+| 4 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop)<br>Wondershare Recoverit 2026 桌面安裝程式，用於從磁碟、SD 卡和 USB 隨身碟復原已刪除的檔案，修復損壞的影片和相片檔案，以及當機… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
+| 5 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)<br>DxO PhotoLab 10 2026 桌面安裝程式，配備用於純淨高 ISO 拍攝的 DeepPRIME XD 降噪、基於測量鏡頭設定檔的光學校正，以及非破壞性 R… | 2026-11-13<br><sub>1.0 天</sub> | 285 | 285.0 |
+| 6 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop)<br>配備完整外掛套件和完整功能集的 Cubase Studio 2026 桌面設定 | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
+| 7 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop)<br>配備暫存檔案清理器、具有測量開機影響的開機啟動管理器，以及用於服務和排程工作的一鍵微調的 Windows Optimizer 2026 桌面設定… | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
+| 8 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop)<br>配備專業色彩分級、HDR 支援、具有無限制軌道的 Fairlight 音訊後製，以及在單一…上實現多使用者協作的 CorelDraw Desktop 2026 設定… | 2026-11-13<br><sub>1.0 天</sub> | 284 | 284.0 |
+| 9 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop)<br>Kontakt 8 2026 桌面取樣器設定環境 | 2026-11-13<br><sub>1.0 天</sub> | 283 | 283.0 |
+| 10 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop)<br>配備直接在任何 PDF 內編輯文字和影像、與 Word、Excel 及影像雙向轉換，以及填寫、簽名和合併…的 Adobe Acrobat PDF 2026 桌面設定… | 2026-11-14<br><sub>1.0 天</sub> | 283 | 283.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -596,16 +596,16 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>The open-source Dynamic Island for React, installed with shadcn. | 2026-11-13<br><sub>1.1 天</sub> | 587 | 542.1 |
-| 2 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 3 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 4 | [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 5 | [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 6 | [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 7 | [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 8 | [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 9 | [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
-| 10 | [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus)<br>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。 | 2026-11-13<br><sub>1.1 天</sub> | 587 | 542.1 |
+| 2 | [AdvisorShake/ai--manus](https://github.com/AdvisorShake/ai--manus)<br>讓 AI 代理在沙箱中執行各種工具與操作 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 3 | [AgentLobster/ai--manus](https://github.com/AgentLobster/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 4 | [AmplitudeBoss/ai--manus](https://github.com/AmplitudeBoss/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 5 | [AtomEmissary/ai--manus](https://github.com/AtomEmissary/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 6 | [avenuemistravage47/ai--manus](https://github.com/avenuemistravage47/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 7 | [bandbeetleruminate/ai--manus](https://github.com/bandbeetleruminate/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 8 | [BannerCatbird/ai--manus](https://github.com/BannerCatbird/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 9 | [Beachnuconceal/ai--manus](https://github.com/Beachnuconceal/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
+| 10 | [BeastBlazeAttract/ai--manus](https://github.com/BeastBlazeAttract/ai--manus)<br>想讓代理操作工具？放進沙盒裡執行 | 2026-11-13<br><sub>1.0 天</sub> | 266 | 266.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
