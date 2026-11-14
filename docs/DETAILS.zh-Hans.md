@@ -120,7 +120,7 @@
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 开源免费的私密 AI 会议记录 | 私密 AI 会议记录。免费且开源。 |
 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | 让 AI 替你操作手机，全程由你把控 | 让 AI 在你的参与下使用你的 iPhone 或 Android 手机：来自 macOS、Windows 或 Linux 的任何 MCP 智能体，或直接在手机上的 Pinky 本身。 |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自托管空间与团队及 AI 智能体协作 | 开源、自托管的 Slack 替代方案，您的团队和 AI 智能体在频道和 DMs 中协同工作。智能体运行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
+| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社区接力全功能适配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |

@@ -2882,14 +2882,16 @@
       "cd6295536bb9": {
         "src": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7…",
         "zh-Hans": "聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7…",
-        "seen": "2026-11-13",
+        "seen": "2026-11-14",
         "zh-Hant": "聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7…",
         "ja": "Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7…",
         "ko": "Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7…",
         "hook": {
           "en": "See what Claude Code is doing in real time beside your chat",
           "ja": "チャット横でClaude Codeの動作をリアルタイム表示",
-          "ko": "채팅 옆에서 Claude Code의 동작을 실시간으로 확인"
+          "ko": "채팅 옆에서 Claude Code의 동작을 실시간으로 확인",
+          "zh-Hans": "看不清在做什么，边聊边看实时地图",
+          "zh-Hant": "看不清在做什麼，邊聊邊看即時地圖"
         }
       },
       "e00cf9d6d301": {

@@ -69,7 +69,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>開源免費的私密 AI 會議記錄 | 2026-11-10<br><sub>2.8 天</sub> | 1,179 | 422.7 |
 | 2 | [DIYgod/pinky](https://github.com/DIYgod/pinky)<br>讓 AI 替你操作手機，全程由你把關 | 2026-11-06<br><sub>6.9 天</sub> | 2,068 | 298.9 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自行架設空間與團隊及 AI 代理協作 | 2026-11-09<br><sub>4.6 天</sub> | 1,293 | 281.8 |
-| 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… | 2026-11-09<br><sub>3.8 天</sub> | 689 | 180.3 |
+| 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什麼，邊聊邊看即時地圖 | 2026-11-09<br><sub>3.8 天</sub> | 689 | 180.3 |
 | 5 | [Marcian15350/mt5-tradeprotocol](https://github.com/Marcian15350/mt5-tradeprotocol) | 2026-11-06<br><sub>6.7 天</sub> | 1,103 | 163.8 |
 | 6 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>借助257本櫻井字幕，讓代理帶你做遊戲 | 2026-11-12<br><sub>1.0 天</sub> | 163 | 163.0 |
 | 7 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)<br>想用第三方QQ，社群接力全功能適配新版 | 2026-11-11<br><sub>1.7 天</sub> | 268 | 158.5 |

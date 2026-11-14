@@ -120,7 +120,7 @@
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 開源免費的私密 AI 會議記錄 | 私密 AI 會議記錄。免費且開源。 |
 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | 讓 AI 替你操作手機，全程由你把關 | 讓 AI 在你的參與下使用你的 iPhone 或 Android 手機：來自 macOS、Windows 或 Linux 的任何 MCP 代理，或直接在手機上的 Pinky 本身。 |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自行架設空間與團隊及 AI 代理協作 | 開源、自行架設的 Slack 替代方案，您的團隊和 AI 代理在頻道和 DMs 中協同工作。代理運行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) |  | 聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… |
+| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什麼，邊聊邊看即時地圖 | 聊天旁的即時地圖，展示 Claude Code 正在執行的操作：工具調用、模型步驟、鉤子、技能和子代理在發生時即時點亮。僅限本機，7… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 借助257本櫻井字幕，讓代理帶你做遊戲 | 根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） |
 | [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社群接力全功能適配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客戶端，社區接力維護，V8 通道全功能適配 QQ 9.9.37，全工具全源碼公開 |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 讓 AI 從零做出瀏覽器 3D 動作遊戲 | 歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
