@@ -68,8 +68,8 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>自分のPCだけに保存できるAI会議メモ | 2026-11-10<br><sub>3.9 日</sub> | 1,399 | 363.6 |
 | 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>チームとAIエージェントが働くセルフホスト型チャット | 2026-11-09<br><sub>5.7 日</sub> | 1,380 | 244.4 |
-| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… | 2026-11-12<br><sub>1.7 日</sub> | 361 | 211.2 |
-| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. | 2026-11-13<br><sub>1.1 日</sub> | 196 | 175.2 |
+| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>1.7 日</sub> | 361 | 211.2 |
+| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>1.1 日</sub> | 196 | 175.2 |
 | 5 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>4.9 日</sub> | 792 | 162.3 |
 | 6 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>コマンド1つでツール選定・実行・案件ファイル作成 | 2026-11-13<br><sub>1.1 日</sub> | 157 | 144.7 |
 | 7 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>2.0 日</sub> | 247 | 122.4 |
@@ -574,8 +574,8 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcnで手軽にDynamic Islandを追加 | 2026-11-13<br><sub>1.2 日</sub> | 620 | 521.9 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOSとiOSでドラマを見る | 2026-11-07<br><sub>6.8 日</sub> | 516 | 75.7 |
-| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… | 2026-11-11<br><sub>3.2 日</sub> | 106 | 33.4 |
-| 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. | 2026-11-10<br><sub>4.0 日</sub> | 126 | 31.2 |
+| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>AIエージェントが電話対応するオープンソース交換台 | 2026-11-11<br><sub>3.2 日</sub> | 106 | 33.4 |
+| 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>町の申請業務が煩雑？土地利用を区画ごとに管理 | 2026-11-10<br><sub>4.0 日</sub> | 126 | 31.2 |
 
 <details>
 <summary>このランキングのスター推移</summary>

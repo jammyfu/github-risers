@@ -119,8 +119,8 @@
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 自分のPCだけに保存できるAI会議メモ | コンピュータ上に保存されるプライベートな AI 会議メモ。Mac、Windows、Linux 向けの無料のオープンソースな Granola の代替ツール。 |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | チームとAIエージェントが働くセルフホスト型チャット | チームとAIエージェントがチャンネルやDMで一緒に作業できる、オープンソースでセルフホスト型のSlack代替。エージェントはClaude、ChatGPT/Codex、Gemini、Grokで動作します… |
-| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) |  | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) |  | AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 数千のDOMノードを無限キャンバスに描画・編集 | 数千のライブDOMノードを無限のキャンバスに配置：GPUがそれらを描画し、エディターが選択、移動、サイズ変更を行い、シェーダーとトランジションがそれらの上で実行され、そして… |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 自然な言葉で質問し文ごとに根拠のある回答を得る | Windows向けAI OSINT調査ツール：平易な言葉で質問すると、すべての文に出典が付いた、公開ソースから構築された回答が得られます。 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャット横でClaude Codeの動作をリアルタイム表示 | Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | コマンド1つでツール選定・実行・案件ファイル作成 | OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 桜井政博の全257本からゲーム制作スキルを学ぶ | 桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語） |
@@ -130,18 +130,18 @@
 | [21stware/bowel](https://github.com/21stware/bowel) | 各種OSでmihomoクライアントを利用する | Bowel は macOS、Windows、Linux、Android 向けの mihomo クライアントです。 |
 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 音声に合わせてコードから映画風の映像を作る | 完全にコードから構築されたナレーション付き映画風フィルム用のエージェントスキル：写真、地図、カードの上を1台の連続したカメラが移動し、音声に同期します。Claude Code, Codex, C… |
 | [threerocks/article2media](https://github.com/threerocks/article2media) | 記事や動画を図解投稿やショート動画に変換 | 1本の記事または1本の動画（抖音、B 站、YouTube、まず文字起こしに変換）をワンクリックで小红书画像テキスト、雑誌風縦長画像、公众号レイアウト、AI音声吹き替えトーク系ショート動画に仕上げるオープンソースの Claude Code / Codex スキル。21種類のテーマ、自動検収、npm依存ゼロ。 |
-| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) |  | A curated list of papers for AI in Astronomy &amp; Astrophysics. |
+| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 天文学と天体物理学のAI厳選論文を探す | 天文学 &amp; 天体物理学におけるAI論文の精選リスト。 |
 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 古いAndroidをローカル卓上パネルにする | 古い Android スマートフォンを Windows、Linux、macOS 向けのローカルデスクパネルに変身させます。55 個のウィジェット、Smart Stack、AI クォータとセッション、メディアコントロール、USB またはペアリング… |
-| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) |  | Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed varian… |
-| [pktq/lasik](https://github.com/pktq/lasik) |  | BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA… |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | バズった短尺動画をワンクリックで複製・脚本分析 | エージェントネイティブなバズ動画スタジオ：ワンクリックでバズるショート動画を複製し、動画フックやスクリプトをViral DNAレポートに分解して、コスト計算済みの10個のバリエーションを出荷… |
+| [pktq/lasik](https://github.com/pktq/lasik) | BLAで視界を奪われたエージェントの目を治す | BLAはエージェントの目を眩ませます。LASIKはその視力を取り戻します。BLA（Blind LLM Agents）の強化を元に戻す静的盲目化解除CLI + MCPサーバーで、コーディングエージェントやREA… |
 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | コーディングエージェントへ作業を割り振る | コーディングエージェントのためのチーフオブスタッフ：git worktrees で並行ワーカーを実行するプロジェクトごとのマネージャーエージェントにリクエストをルーティング（herdr 上）。 |
-| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) |  | Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome. |
+| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) | 主流エージェントに日中韓優先の記憶を追加 | すべての主流エージェント向けに、世界最先端のCJKファーストなメモリモジュールを構築することに取り組んでいます。issueやPRは大歓迎です。 |
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 散らかったCIログを整理、失敗の分類と証拠を抽出 | ノイズの多い CI ログをグループ化された失敗、正確な証拠、調査手順に変換します。オフライン CLI、再利用可能な GitHub Action、バイリンガルブラウザワークベンチ。API k… 不要 |
 | [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 ローカル環境設定 | 隔離されたローカルスタジオ環境でのプロフェッショナルなオーディオワークステーション導入向けに事前設定された Ableton Live 12 環境。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcnで手軽にDynamic Islandを追加 | shadcn でインストールする、React 向けのオープンソース Dynamic Island。 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOSとiOSでドラマを見る | HGhubクロスプラットフォームクライアント (macOS &amp; iOS 強化版) · Apple Silicon / Intelの両アーキテクチャ向けDMGと署名不要のiOS IPAに対応 · 没入感のあるドラマ視聴 / ジェスチャーによる拡大縮小 / ネイティブの横向き全画面表示 / 複数経路のミラー速度測定 |
-| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… |
-| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) |  | Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AIエージェントが電話対応するオープンソース交換台 | AIエージェントによって運用されるオープンソースの電話交換機。電話に応答し、通話中にツールを実行し、人間に相談し、通話が終了した後も作業を続行… |
+| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 町の申請業務が煩雑？土地利用を区画ごとに管理 | 米国の小さな町向けのオープンソース土地利用ソフトウェア：区画を中心にまとめられた許可、検査、計画委員会およびZBAの案件、法規遵守。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 動画や音楽が散らかる？セルフホスト型アプリで管理 | 番組、映画、音楽のための1つのセルフホスト型アプリ。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 手持ちのLinuxサーバーを1か所でまとめて動かす | オープンソースの ServerOS パネル：既にお持ちの Linux サーバーを実行するひとつの場所。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |

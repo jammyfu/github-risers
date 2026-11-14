@@ -68,8 +68,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>내 컴퓨터에만 보관하는 AI 회의 메모 | 2026-11-10<br><sub>3.9일</sub> | 1,399 | 363.6 |
 | 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 2026-11-09<br><sub>5.7일</sub> | 1,380 | 244.4 |
-| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… | 2026-11-12<br><sub>1.7일</sub> | 361 | 211.2 |
-| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. | 2026-11-13<br><sub>1.1일</sub> | 196 | 175.2 |
+| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>수천 개의 DOM 노드를 무한 캔버스에서 편집 | 2026-11-12<br><sub>1.7일</sub> | 361 | 211.2 |
+| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | 2026-11-13<br><sub>1.1일</sub> | 196 | 175.2 |
 | 5 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | 2026-11-09<br><sub>4.9일</sub> | 792 | 162.3 |
 | 6 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>명령어 하나로 도구 선택, 실행, 사건 파일 작성 | 2026-11-13<br><sub>1.1일</sub> | 157 | 144.7 |
 | 7 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 2026-11-12<br><sub>2.0일</sub> | 247 | 122.4 |
@@ -574,8 +574,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcn으로 Dynamic Island 바로 설치 | 2026-11-13<br><sub>1.2일</sub> | 620 | 521.9 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>macOS와 iOS에서 드라마 시청 | 2026-11-07<br><sub>6.8일</sub> | 516 | 75.7 |
-| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… | 2026-11-11<br><sub>3.2일</sub> | 106 | 33.4 |
-| 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. | 2026-11-10<br><sub>4.0일</sub> | 126 | 31.2 |
+| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | 2026-11-11<br><sub>3.2일</sub> | 106 | 33.4 |
+| 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>복잡한 마을 토지 인허가, 필지별로 묶어서 관리 | 2026-11-10<br><sub>4.0일</sub> | 126 | 31.2 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

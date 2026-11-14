@@ -68,8 +68,8 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 會議筆記全保存在自己電腦裡 | 2026-11-10<br><sub>3.9 天</sub> | 1,399 | 363.6 |
 | 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自行架設空間與團隊及 AI 代理協作 | 2026-11-09<br><sub>5.7 天</sub> | 1,380 | 244.4 |
-| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… | 2026-11-12<br><sub>1.7 天</sub> | 361 | 211.2 |
-| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. | 2026-11-13<br><sub>1.1 天</sub> | 196 | 175.2 |
+| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>將數千個活躍 DOM 節點放置在無限畫布上：GPU 進行繪製，編輯器選取、移動並調整它們的大小，著色器和過渡效果在它們上面運行，並且… | 2026-11-12<br><sub>1.7 天</sub> | 361 | 211.2 |
+| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>適用於 Windows 的 AI OSINT 調查工具：用通俗易懂的語言提問，即可獲得基於公開來源構建的答案，每句話均附有來源。 | 2026-11-13<br><sub>1.1 天</sub> | 196 | 175.2 |
 | 5 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什麼，邊聊邊看即時地圖 | 2026-11-09<br><sub>4.9 天</sub> | 792 | 162.3 |
 | 6 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>一條命令自動選工具、執行並生成案卷 | 2026-11-13<br><sub>1.1 天</sub> | 157 | 144.7 |
 | 7 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>借助257本櫻井字幕，讓代理帶你做遊戲 | 2026-11-12<br><sub>2.0 天</sub> | 247 | 122.4 |
@@ -572,10 +572,10 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。 | 2026-11-13<br><sub>1.2 天</sub> | 620 | 521.9 |
+| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 為 React 接入開源動態島 | 2026-11-13<br><sub>1.2 天</sub> | 620 | 521.9 |
 | 2 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version)<br>在 macOS 和 iOS 上追劇 | 2026-11-07<br><sub>6.8 天</sub> | 516 | 75.7 |
-| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… | 2026-11-11<br><sub>3.2 天</sub> | 106 | 33.4 |
-| 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. | 2026-11-10<br><sub>4.0 天</sub> | 126 | 31.2 |
+| 3 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>由 AI 代理運營的開源電話交換機。接聽電話、通話期間執行工具、向人工諮詢，並在電話掛斷後繼續工作… | 2026-11-11<br><sub>3.2 天</sub> | 106 | 33.4 |
+| 4 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>小鎮土地審批太繁瑣？依地塊統一管理 | 2026-11-10<br><sub>4.0 天</sub> | 126 | 31.2 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

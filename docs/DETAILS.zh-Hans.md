@@ -119,8 +119,8 @@
 |---|---|---|
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 会议笔记全保存在自己电脑里 | 保留在您电脑上的私密 AI 会议记录。一款适用于 Mac、Windows 和 Linux 的免费、开源 Granola 替代品。 |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自托管空间与团队及 AI 智能体协作 | 开源、自托管的 Slack 替代方案，您的团队和 AI 智能体在频道和 DMs 中协同工作。智能体运行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
-| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) |  | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) |  | AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence. |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) |  | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) |  | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
@@ -130,18 +130,18 @@
 | [21stware/bowel](https://github.com/21stware/bowel) | 在多系统设备上运行 mihomo 客户端 | Bowel 是适用于 macOS、Windows、Linux 和 Android 的 mihomo 客户端。 |
 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 用代码做出对齐语音的电影感视频 | 完全由代码构建的旁白电影感影片智能体技能：镜头在照片、地图和卡片上连续移动，配合语音节奏。Claude Code, Codex, C… |
 | [threerocks/article2media](https://github.com/threerocks/article2media) | 把文章或视频一键做成图文和短视频 | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
-| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) |  | A curated list of papers for AI in Astronomy &amp; Astrophysics. |
+| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 查找天文与天体物理领域的 AI 精选论文 | 天文学 &amp; 天体物理学领域 AI 论文精选列表。 |
 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 把旧安卓手机变成电脑本地桌面面板 | 将旧 Android 手机变成适用于 Windows、Linux 和 macOS 的本地桌面面板。55 个小组件、Smart Stack、AI 配额与会话、媒体控件、USB 或配对… |
-| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) |  | Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed varian… |
-| [pktq/lasik](https://github.com/pktq/lasik) |  | BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA… |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 一键复刻爆款短视频，拆解文案脚本 | 智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体… |
+| [pktq/lasik](https://github.com/pktq/lasik) | 为受 BLA 蒙蔽的智能体重新找回视野 | BLA 让你的智能体失明。LASIK 让它重见光明。静态去盲 CLI + MCP 服务器，可撤销 BLA（Blind LLM Agents）强化，使编码智能体和 REA… |
 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 把编码任务分派给专属智能体协同执行 | 编码智能体的幕僚长：将请求路由给在 git worktrees 中运行并行 worker 的各项目管理智能体，基于 herdr。 |
-| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) |  | Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome. |
+| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) | 为主流智能体提供中日韩优先的记忆模块 | 致力于为所有主流智能体打造全球最前沿、CJK 优先的记忆模块。欢迎提出任何 issue 和 PR。 |
 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | CI 日志太乱？帮你归类报错并找出证据 | 将嘈杂的 CI 日志转化为分组的故障、确切的证据和调查步骤。离线 CLI、可复用的 GitHub Action 和双语浏览器工作台。无需 API k… |
 | [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 本地工作室预配置环境 | 用于在隔离的本地工作室环境中部署专业音频工作站的 Ableton Live 12 预配置环境。 |
-| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) |  | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
+| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | 在 macOS 和 iOS 上追剧 | HGhub 跨平台客户端 (macOS &amp; iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速 |
-| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch… |
-| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) |  | Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel. |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) |  | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
+| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 小镇土地审批太繁琐？按地块统一管理 | 适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 在一处集中运行你已有的 Linux 服务器 | 开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |

@@ -1007,6 +1007,21 @@
         }
       }
     },
+    "DeskLabs-OpenSource/DeskVoice": {
+      "94eeae79dd6e": {
+        "src": "Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a ch…",
+        "zh-Hans": "由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作…",
+        "seen": "2026-11-15",
+        "zh-Hant": "由 AI 代理運營的開源電話交換機。接聽電話、通話期間執行工具、向人工諮詢，並在電話掛斷後繼續工作…",
+        "ja": "AIエージェントによって運用されるオープンソースの電話交換機。電話に応答し、通話中にツールを実行し、人間に相談し、通話が終了した後も作業を続行…",
+        "ko": "AI 에이전트가 운영하는 오픈 소스 전화 교환기. 전화를 받고, 통화 중 도구를 실행하며, 사람에게 상담하고, 통화가 종료된 후에도 작업을 계속…",
+        "hook": {
+          "en": "Open-source phone system operated by AI agents",
+          "ja": "AIエージェントが電話対応するオープンソース交換台",
+          "ko": "AI 에이전트가 통화를 처리하는 오픈 소스 교환대"
+        }
+      }
+    },
     "DiplomatHearth/roblox-ai-place-diff": {
       "4cceb0513b89": {
         "src": "Every change this Roblox Studio agent makes is a place diff you approve first. Rewind any turn with one Ctrl+Z, playtests run on a copy so live data never move…",
@@ -2738,6 +2753,23 @@
         }
       }
     },
+    "SparkofSpike/Brain4Agent": {
+      "5af07c3e569b": {
+        "src": "Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome.",
+        "zh-Hans": "致力于为所有主流智能体打造全球最前沿、CJK 优先的记忆模块。欢迎提出任何 issue 和 PR。",
+        "seen": "2026-11-15",
+        "zh-Hant": "致力於為所有主流代理打造全球最前沿、CJK 優先的記憶模組。歡迎提出任何 issue 和 PR。",
+        "ja": "すべての主流エージェント向けに、世界最先端のCJKファーストなメモリモジュールを構築することに取り組んでいます。issueやPRは大歓迎です。",
+        "ko": "모든 주류 에이전트를 위한 세계 최첨단의 CJK 우선 메모리 모듈 구축에 전념하고 있습니다. 모든 issue와 PR을 환영합니다.",
+        "hook": {
+          "en": "Add CJK-first memory to all mainstream agents",
+          "zh-Hans": "为主流智能体提供中日韩优先的记忆模块",
+          "zh-Hant": "為主流代理提供中日韓優先的記憶模組",
+          "ja": "主流エージェントに日中韓優先の記憶を追加",
+          "ko": "주류 에이전트에 CJK 우선 메모리 모듈 제공"
+        }
+      }
+    },
     "Speedzyaminaret/UnlockTool": {
       "95eec074d287": {
         "src": "Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.",
@@ -2777,6 +2809,21 @@
           "en": "Windows Optimizer 2026 installer with system tweaks",
           "ja": "Windows Optimizer 2026 最適化ツール",
           "ko": "Windows Optimizer 2026 시스템 최적화 도구"
+        }
+      }
+    },
+    "StormBrawlerSack/legwork-osint-ai-investigator": {
+      "cdd3cd4f715a": {
+        "src": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
+        "zh-Hans": "适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。",
+        "seen": "2026-11-15",
+        "zh-Hant": "適用於 Windows 的 AI OSINT 調查工具：用通俗易懂的語言提問，即可獲得基於公開來源構建的答案，每句話均附有來源。",
+        "ja": "Windows向けAI OSINT調査ツール：平易な言葉で質問すると、すべての文に出典が付いた、公開ソースから構築された回答が得られます。",
+        "ko": "Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요.",
+        "hook": {
+          "en": "Ask in plain words and get AI answers sourced per sentence",
+          "ja": "自然な言葉で質問し文ごとに根拠のある回答を得る",
+          "ko": "일상어로 질문하고 문장마다 출처가 있는 답변을 확인"
         }
       }
     },
@@ -3244,6 +3291,23 @@
           "zh-Hant": "做代碼動畫缺靈感，挑選風格一鍵匯入",
           "ja": "コードアニメに悩んだら、スタイルを選んで一括導入",
           "ko": "코드 애니메이션이 막힐 때, 스타일 골라 바로 적용"
+        }
+      }
+    },
+    "Xin-YuXiao/Awesome-AI-for-Astronomy": {
+      "719a3cb3e5cd": {
+        "src": "A curated list of papers for AI in Astronomy &amp; Astrophysics.",
+        "zh-Hans": "天文学 &amp; 天体物理学领域 AI 论文精选列表。",
+        "seen": "2026-11-15",
+        "zh-Hant": "天文學 &amp; 天體物理學領域 AI 論文精選列表。",
+        "ja": "天文学 &amp; 天体物理学におけるAI論文の精選リスト。",
+        "ko": "천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록.",
+        "hook": {
+          "en": "Find curated papers on AI in astronomy and astrophysics",
+          "zh-Hans": "查找天文与天体物理领域的 AI 精选论文",
+          "zh-Hant": "尋找天文與天體物理領域的 AI 精選論文",
+          "ja": "天文学と天体物理学のAI厳選論文を探す",
+          "ko": "천문학과 천체물리학 분야의 AI 엄선 논문 찾기"
         }
       }
     },
@@ -3770,6 +3834,21 @@
         }
       }
     },
+    "berkantay/gpucanvas": {
+      "4fb662e2e03c": {
+        "src": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and…",
+        "zh-Hans": "将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且…",
+        "seen": "2026-11-15",
+        "zh-Hant": "將數千個活躍 DOM 節點放置在無限畫布上：GPU 進行繪製，編輯器選取、移動並調整它們的大小，著色器和過渡效果在它們上面運行，並且…",
+        "ja": "数千のライブDOMノードを無限のキャンバスに配置：GPUがそれらを描画し、エディターが選択、移動、サイズ変更を行い、シェーダーとトランジションがそれらの上で実行され、そして…",
+        "ko": "수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고…",
+        "hook": {
+          "en": "Put thousands of live DOM nodes on an infinite canvas",
+          "ja": "数千のDOMノードを無限キャンバスに描画・編集",
+          "ko": "수천 개의 DOM 노드를 무한 캔버스에서 편집"
+        }
+      }
+    },
     "blendhokagedestroy/ai--manus": {
       "9f0c6d8c2759": {
         "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
@@ -3954,6 +4033,23 @@
           "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
           "ja": "サンドボックスでAIエージェントにツールを実行させる",
           "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
+    "chiban-org/chiban-oss": {
+      "b1d26673e4cd": {
+        "src": "Open-source land-use software for small US towns: permits, inspections, Planning Board and ZBA cases, and code enforcement, organized around the parcel.",
+        "zh-Hans": "适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。",
+        "seen": "2026-11-15",
+        "zh-Hant": "適用於美國小城鎮的開源土地利用軟體：以地塊為核心組織許可證、檢查、規劃委員會和 ZBA 案件以及法規執行。",
+        "ja": "米国の小さな町向けのオープンソース土地利用ソフトウェア：区画を中心にまとめられた許可、検査、計画委員会およびZBAの案件、法規遵守。",
+        "ko": "미국 소도시를 위한 오픈 소스 토지 이용 소프트웨어: 필지를 중심으로 정리된 허가, 검사, 계획 위원회 및 ZBA 사례, 규정 집행.",
+        "hook": {
+          "en": "Small town permits piling up? Manage land use by parcel",
+          "zh-Hans": "小镇土地审批太繁琐？按地块统一管理",
+          "zh-Hant": "小鎮土地審批太繁瑣？依地塊統一管理",
+          "ja": "町の申請業務が煩雑？土地利用を区画ごとに管理",
+          "ko": "복잡한 마을 토지 인허가, 필지별로 묶어서 관리"
         }
       }
     },
@@ -4384,6 +4480,23 @@
           "zh-Hant": "ExitLag 桌面效能增強安裝程式",
           "ja": "ExitLag デスクトップ性能強化インストーラー",
           "ko": "ExitLag 데스크톱 성능 강화 설치 프로그램"
+        }
+      }
+    },
+    "fendouai/ViralForge": {
+      "178764cb047b": {
+        "src": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed varian…",
+        "zh-Hans": "智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体…",
+        "seen": "2026-11-15",
+        "zh-Hant": "代理原生病毒式影片工作室：一鍵複製病毒式短影音，將影片鉤子與腳本解構為 Viral DNA 報告，並交付 10 個已核算成本的變體…",
+        "ja": "エージェントネイティブなバズ動画スタジオ：ワンクリックでバズるショート動画を複製し、動画フックやスクリプトをViral DNAレポートに分解して、コスト計算済みの10個のバリエーションを出荷…",
+        "ko": "에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작…",
+        "hook": {
+          "en": "One-click replicate viral videos and deconstruct scripts",
+          "zh-Hans": "一键复刻爆款短视频，拆解文案脚本",
+          "zh-Hant": "一鍵復刻熱門短影片，拆解文案腳本",
+          "ja": "バズった短尺動画をワンクリックで複製・脚本分析",
+          "ko": "원클릭으로 인기 숏폼을 복제하고 대본 분석"
         }
       }
     },
@@ -5476,14 +5589,16 @@
       "6379a1483b32": {
         "src": "The open-source Dynamic Island for React, installed with shadcn.",
         "zh-Hans": "适用于 React 的开源 Dynamic Island，使用 shadcn 安装。",
-        "seen": "2026-11-14",
+        "seen": "2026-11-15",
         "zh-Hant": "適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。",
         "ja": "shadcn でインストールする、React 向けのオープンソース Dynamic Island。",
         "ko": "shadcn으로 설치되는 React용 오픈 소스 Dynamic Island.",
         "hook": {
           "en": "Add an open-source Dynamic Island to React with shadcn",
           "ja": "shadcnで手軽にDynamic Islandを追加",
-          "ko": "shadcn으로 Dynamic Island 바로 설치"
+          "ko": "shadcn으로 Dynamic Island 바로 설치",
+          "zh-Hans": "用 shadcn 为 React 接入开源灵动岛",
+          "zh-Hant": "用 shadcn 為 React 接入開源動態島"
         }
       }
     },
@@ -5559,6 +5674,23 @@
           "zh-Hant": "用動畫卡片呈現 GitHub 貢獻",
           "ja": "GitHubの活動を動く統計カードに",
           "ko": "GitHub 활동을 움직이는 통계 카드로"
+        }
+      }
+    },
+    "pktq/lasik": {
+      "7cda18b4407b": {
+        "src": "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA…",
+        "zh-Hans": "BLA 让你的智能体失明。LASIK 让它重见光明。静态去盲 CLI + MCP 服务器，可撤销 BLA（Blind LLM Agents）强化，使编码智能体和 REA…",
+        "seen": "2026-11-15",
+        "zh-Hant": "BLA 讓你的代理失明。LASIK 讓它重見光明。靜態去盲 CLI + MCP 伺服器，可撤銷 BLA（Blind LLM Agents）強化，使編碼代理和 REA…",
+        "ja": "BLAはエージェントの目を眩ませます。LASIKはその視力を取り戻します。BLA（Blind LLM Agents）の強化を元に戻す静的盲目化解除CLI + MCPサーバーで、コーディングエージェントやREA…",
+        "ko": "BLA는 에이전트의 눈을 멀게 합니다. LASIK은 시력을 되찾아 줍니다. BLA(Blind LLM Agents) 강화를 되돌려 코딩 에이전트와 REA…가 다시 작업할 수 있도록 하는 정적 시력 복구 CLI + MCP 서버…",
+        "hook": {
+          "en": "Restore sight to agents blinded by BLA hardening",
+          "zh-Hans": "为受 BLA 蒙蔽的智能体重新找回视野",
+          "zh-Hant": "為受 BLA 蒙蔽的代理重新找回視野",
+          "ja": "BLAで視界を奪われたエージェントの目を治す",
+          "ko": "BLA로 시야가 차단된 에이전트의 시야를 복구"
         }
       }
     },
