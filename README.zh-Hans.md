@@ -68,8 +68,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 会议笔记全保存在自己电脑里 | 2026-11-10<br><sub>3.9 天</sub> | 1,399 | 363.6 |
 | 2 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自托管空间与团队及 AI 智能体协作 | 2026-11-09<br><sub>5.7 天</sub> | 1,380 | 244.4 |
-| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… | 2026-11-12<br><sub>1.7 天</sub> | 361 | 211.2 |
-| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 | 2026-11-13<br><sub>1.1 天</sub> | 196 | 175.2 |
+| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>1.7 天</sub> | 361 | 211.2 |
+| 4 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白话提问，答案每句都有公开来源 | 2026-11-13<br><sub>1.1 天</sub> | 196 | 175.2 |
 | 5 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什么，边聊边看实时地图 | 2026-11-09<br><sub>4.9 天</sub> | 792 | 162.3 |
 | 6 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent)<br>一条命令自动选工具、执行并生成案卷 | 2026-11-13<br><sub>1.1 天</sub> | 157 | 144.7 |
 | 7 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>用樱井政博257本字幕做游戏制作技能 | 2026-11-12<br><sub>2.0 天</sub> | 247 | 122.4 |

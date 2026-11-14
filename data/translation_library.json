@@ -2825,7 +2825,9 @@
         "hook": {
           "en": "Ask in plain words and get AI answers sourced per sentence",
           "ja": "自然な言葉で質問し文ごとに根拠のある回答を得る",
-          "ko": "일상어로 질문하고 문장마다 출처가 있는 답변을 확인"
+          "ko": "일상어로 질문하고 문장마다 출처가 있는 답변을 확인",
+          "zh-Hans": "用白话提问，答案每句都有公开来源",
+          "zh-Hant": "用白話提問，答案每句都有公開來源"
         }
       }
     },
@@ -3847,7 +3849,9 @@
         "hook": {
           "en": "Put thousands of live DOM nodes on an infinite canvas",
           "ja": "数千のDOMノードを無限キャンバスに描画・編集",
-          "ko": "수천 개의 DOM 노드를 무한 캔버스에서 편집"
+          "ko": "수천 개의 DOM 노드를 무한 캔버스에서 편집",
+          "zh-Hans": "上千节点放进无限画布，自由移动缩放",
+          "zh-Hant": "上千節點放進無限畫布，自由移動縮放"
         }
       }
     },
