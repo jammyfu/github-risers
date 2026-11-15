@@ -66,14 +66,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Cod… | 2026-11-14<br><sub>1.0 日</sub> | 345 | 345.0 |
+| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>ローカルデスクトップAIがアプリやファイルを操作 | 2026-11-14<br><sub>1.0 日</sub> | 345 | 345.0 |
 | 2 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>自分のPCだけに保存できるAI会議メモ | 2026-11-10<br><sub>4.8 日</sub> | 1,574 | 330.3 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>チームとAIエージェントが働くセルフホスト型チャット | 2026-11-09<br><sub>6.6 日</sub> | 1,466 | 223.3 |
 | 4 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>2.6 日</sub> | 464 | 176.6 |
-| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with… | 2026-11-14<br><sub>1.0 日</sub> | 182 | 176.0 |
+| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>3段階のレビュー手順でAIコードを監査 | 2026-11-14<br><sub>1.0 日</sub> | 182 | 176.0 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>2.0 日</sub> | 329 | 161.5 |
 | 7 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>5.8 日</sub> | 858 | 148.0 |
-| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 / Break down any short drama with AI: why it works, the script, every shot | 2026-11-14<br><sub>1.1 日</sub> | 155 | 143.3 |
+| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AIで人気短編ドラマの脚本や撮影手順を分析 | 2026-11-14<br><sub>1.1 日</sub> | 155 | 143.3 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>文章からAI感を消して書き直す | 2026-11-09<br><sub>5.9 日</sub> | 664 | 113.0 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>2.9 日</sub> | 329 | 112.0 |
 
@@ -272,7 +272,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fixes and incident comparison. CLI + GitHub Action + workbench. | 2026-11-10<br><sub>4.9 日</sub> | 112 | 22.7 |
+| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>ローカルでCIログと環境エラーを自動診断 | 2026-11-10<br><sub>4.9 日</sub> | 112 | 22.7 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -730,9 +730,9 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>動画や音楽が散らかる？セルフホスト型アプリで管理 | 2026-11-09<br><sub>5.6 日</sub> | 1,223 | 218.2 |
 | 2 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>手持ちのLinuxサーバーを1か所でまとめて動かす | 2026-11-09<br><sub>6.6 日</sub> | 830 | 126.4 |
-| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer. | 2026-11-13<br><sub>2.0 日</sub> | 131 | 65.7 |
+| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>WindowsでドメインのDNSや履歴を多層調査 | 2026-11-13<br><sub>2.0 日</sub> | 131 | 65.7 |
 | 4 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>秘密鍵に触れず60秒でSolanaノード状態を確認 | 2026-11-10<br><sub>4.9 日</sub> | 230 | 46.5 |
-| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 | 2026-11-13<br><sub>2.3 日</sub> | 105 | 46.4 |
+| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>使い捨て環境でバグを再現して自動修正 | 2026-11-13<br><sub>2.3 日</sub> | 105 | 46.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>

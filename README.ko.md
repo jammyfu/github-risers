@@ -66,14 +66,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Cod… | 2026-11-14<br><sub>1.0일</sub> | 345 | 345.0 |
+| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>로컬 데스크톱 AI로 앱과 파일을 직접 제어 | 2026-11-14<br><sub>1.0일</sub> | 345 | 345.0 |
 | 2 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>내 컴퓨터에만 보관하는 AI 회의 메모 | 2026-11-10<br><sub>4.8일</sub> | 1,574 | 330.3 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 2026-11-09<br><sub>6.6일</sub> | 1,466 | 223.3 |
 | 4 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>수천 개의 DOM 노드를 무한 캔버스에서 편집 | 2026-11-12<br><sub>2.6일</sub> | 464 | 176.6 |
-| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with… | 2026-11-14<br><sub>1.0일</sub> | 182 | 176.0 |
+| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>3단계 검토 파이프라인으로 AI 코드를 감사 | 2026-11-14<br><sub>1.0일</sub> | 182 | 176.0 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | 2026-11-13<br><sub>2.0일</sub> | 329 | 161.5 |
 | 7 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | 2026-11-09<br><sub>5.8일</sub> | 858 | 148.0 |
-| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 / Break down any short drama with AI: why it works, the script, every shot | 2026-11-14<br><sub>1.1일</sub> | 155 | 143.3 |
+| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI로 인기 숏폼 드라마 대본과 연출을 분석 | 2026-11-14<br><sub>1.1일</sub> | 155 | 143.3 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>글에서 AI 느낌을 지우고 다시 쓰기 | 2026-11-09<br><sub>5.9일</sub> | 664 | 113.0 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 2026-11-12<br><sub>2.9일</sub> | 329 | 112.0 |
 
@@ -272,7 +272,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fixes and incident comparison. CLI + GitHub Action + workbench. | 2026-11-10<br><sub>4.9일</sub> | 112 | 22.7 |
+| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>로컬에서 CI 로그와 개발 환경 오류를 진단 | 2026-11-10<br><sub>4.9일</sub> | 112 | 22.7 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -730,9 +730,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 2026-11-09<br><sub>5.6일</sub> | 1,223 | 218.2 |
 | 2 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>보유한 Linux 서버를 한곳에서 모아 실행 | 2026-11-09<br><sub>6.6일</sub> | 830 | 126.4 |
-| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer. | 2026-11-13<br><sub>2.0일</sub> | 131 | 65.7 |
+| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>Windows에서 도메인 DNS와 이력을 단계별 조사 | 2026-11-13<br><sub>2.0일</sub> | 131 | 65.7 |
 | 4 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 2026-11-10<br><sub>4.9일</sub> | 230 | 46.5 |
-| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 | 2026-11-13<br><sub>2.3일</sub> | 105 | 46.4 |
+| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>일회용 트윈 환경에서 버그를 재현하고 수정 | 2026-11-13<br><sub>2.3일</sub> | 105 | 46.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

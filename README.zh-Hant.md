@@ -66,14 +66,14 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Cod… | 2026-11-14<br><sub>1.0 天</sub> | 345 | 345.0 |
+| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>讓本機桌面代理幫你操控應用與檔案 | 2026-11-14<br><sub>1.0 天</sub> | 345 | 345.0 |
 | 2 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 會議筆記全保存在自己電腦裡 | 2026-11-10<br><sub>4.8 天</sub> | 1,574 | 330.3 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>在自行架設空間與團隊及 AI 代理協作 | 2026-11-09<br><sub>6.6 天</sub> | 1,466 | 223.3 |
 | 4 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千節點放進無限畫布，自由移動縮放 | 2026-11-12<br><sub>2.6 天</sub> | 464 | 176.6 |
-| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with… | 2026-11-14<br><sub>1.0 天</sub> | 182 | 176.0 |
+| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>用三階段審查流程把關 AI 產出的程式碼 | 2026-11-14<br><sub>1.0 天</sub> | 182 | 176.0 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白話提問，答案每句都有公開來源 | 2026-11-13<br><sub>2.0 天</sub> | 329 | 161.5 |
 | 7 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什麼，邊聊邊看即時地圖 | 2026-11-09<br><sub>5.8 天</sub> | 858 | 148.0 |
-| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 / Break down any short drama with AI: why it works, the script, every shot | 2026-11-14<br><sub>1.1 天</sub> | 155 | 143.3 |
+| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>跟著 AI 拆解熱門短劇的劇本與分鏡 | 2026-11-14<br><sub>1.1 天</sub> | 155 | 143.3 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹除文字裡的 AI 痕跡並自動重寫 | 2026-11-09<br><sub>5.9 天</sub> | 664 | 113.0 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>借助257本櫻井字幕，讓代理帶你做遊戲 | 2026-11-12<br><sub>2.9 天</sub> | 329 | 112.0 |
 
@@ -272,7 +272,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fixes and incident comparison. CLI + GitHub Action + workbench. | 2026-11-10<br><sub>4.9 天</sub> | 112 | 22.7 |
+| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>在本機診斷 CI 紀錄與環境問題 | 2026-11-10<br><sub>4.9 天</sub> | 112 | 22.7 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -730,9 +730,9 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>影音太分散？一個自行架設應用集中管理 | 2026-11-09<br><sub>5.6 天</sub> | 1,223 | 218.2 |
 | 2 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>在一處集中運行你已有的 Linux 伺服器 | 2026-11-09<br><sub>6.6 天</sub> | 830 | 126.4 |
-| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer. | 2026-11-13<br><sub>2.0 天</sub> | 131 | 65.7 |
+| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐層排查網域名稱與歷史 | 2026-11-13<br><sub>2.0 天</sub> | 131 | 65.7 |
 | 4 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>60 秒看清 Solana 驗證節點健康狀態 | 2026-11-10<br><sub>4.9 天</sub> | 230 | 46.5 |
-| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 | 2026-11-13<br><sub>2.3 天</sub> | 105 | 46.4 |
+| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性分身環境中重現並修復故障 | 2026-11-13<br><sub>2.3 天</sub> | 105 | 46.4 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

@@ -656,6 +656,23 @@
         }
       }
     },
+    "CaptureMiller/strata-osint-domain-recon": {
+      "a1e53fce8ed7": {
+        "src": "OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer.",
+        "zh-Hans": "适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。",
+        "seen": "2026-11-15",
+        "zh-Hant": "適用於 Windows 的 OSINT 網域和基礎設施偵察：逐層分析任何網域的 DNS、憑證、主機代管和歷史記錄。",
+        "ja": "Windows向けOSINTドメインおよびインフラ偵察：任意のドメインのDNS、証明書、ホスティング、履歴をレイヤーごとに調査。",
+        "ko": "Windows용 OSINT 도메인 및 인프라 정찰: 모든 도메인의 DNS, 인증서, 호스팅 및 이력을 계층별로 분석.",
+        "hook": {
+          "en": "Inspect DNS, certs, and history of any domain on Windows",
+          "zh-Hans": "在 Windows 上逐层排查域名解析与历史",
+          "zh-Hant": "在 Windows 上逐層排查網域名稱與歷史",
+          "ja": "WindowsでドメインのDNSや履歴を多層調査",
+          "ko": "Windows에서 도메인 DNS와 이력을 단계별 조사"
+        }
+      }
+    },
     "CaretakerPlain/Whale-Tracker": {
       "db84e52126bc": {
         "src": "Whale Tracker 2026: Pre-activated desktop edition with all features ready to run.",
@@ -1634,6 +1651,24 @@
         }
       }
     },
+    "JuneYaooo/rea-toon": {
+      "3f8ad63c67c3": {
+        "src": "AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 / Break down any short drama with AI: why it works, the script, every shot",
+        "zh-Hans": "AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍",
+        "seen": "2026-11-15",
+        "zh-Hant": "AI 拆解學習短劇：為什麼火、劇本怎麼寫、每一鏡怎麼拍",
+        "ja": "AIでショートドラマを分解・学習：なぜヒットするのか、脚本はどう書くか、各カットをどう撮るか",
+        "ko": "AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지",
+        "en": "Break down any short drama with AI: why it works, the script, every shot",
+        "hook": {
+          "en": "Let AI break down hit short dramas from script to shot",
+          "zh-Hans": "跟着 AI 拆解爆款短剧的剧本与分镜",
+          "zh-Hant": "跟著 AI 拆解熱門短劇的劇本與分鏡",
+          "ja": "AIで人気短編ドラマの脚本や撮影手順を分析",
+          "ko": "AI로 인기 숏폼 드라마 대본과 연출을 분석"
+        }
+      }
+    },
     "JuneYaooo/rea-video": {
       "c572aacfef1c": {
         "src": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
@@ -2116,6 +2151,23 @@
           "en": "Microsoft 365 desktop setup, listed as fully activated",
           "ja": "有効化済みと記載のMicrosoft 365デスクトップ構成",
           "ko": "활성화 상태로 기재된 Microsoft 365 데스크톱 구성"
+        }
+      }
+    },
+    "Outpostkrewhirl86/Capri-AI": {
+      "5dcca04c2579": {
+        "src": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Cod…",
+        "zh-Hans": "Capri：带有赛博朋克 HUD 的本地优先桌面 AI 智能体。专属于您的 Windows 个人 Jarvis。可控制文件、应用、终端和浏览器，由 Claude Cod…",
+        "seen": "2026-11-15",
+        "zh-Hant": "Capri：帶有賽博朋克 HUD 的本機優先桌面 AI 代理。專屬於您的 Windows 個人 Jarvis。可控制檔案、應用程式、終端機和瀏覽器，由 Claude Cod…",
+        "ja": "Capri：サイバーパンクHUDを備えたローカルファーストのデスクトップAIエージェント。Windows向けのパーソナルJarvis。ファイル、アプリ、ターミナル、ブラウザを制御し、Claude Cod…",
+        "ko": "Capri: 사이버펑크 HUD를 갖춘 로컬 우선 데스크톱 AI 에이전트. Windows를 위한 나만의 개인 Jarvis. 파일, 앱, 터미널 및 브라우저를 제어하며, Claude Cod…",
+        "hook": {
+          "en": "Let Windows AI control your files, apps, and browser",
+          "zh-Hans": "让本地桌面智能体帮你操控应用与文件",
+          "zh-Hant": "讓本機桌面代理幫你操控應用與檔案",
+          "ja": "ローカルデスクトップAIがアプリやファイルを操作",
+          "ko": "로컬 데스크톱 AI로 앱과 파일을 직접 제어"
         }
       }
     },
@@ -3983,6 +4035,23 @@
         }
       }
     },
+    "brunnojob/devrescue": {
+      "6cc5a188ee3b": {
+        "src": "Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fixes and incident comparison. CLI + GitHub Action + workbench.",
+        "zh-Hans": "开发者阻碍，精准诊断。本地优先的 CI 日志分流、环境检查、经过审查的修复方案和事件对比。CLI + GitHub Action + 工作台。",
+        "seen": "2026-11-15",
+        "zh-Hant": "開發者阻礙，精準診斷。本機優先的 CI 記錄檔分流、環境檢查、經過審查的修復方案和事件對比。CLI + GitHub Action + 工作台。",
+        "ja": "開発者の摩擦を診断。ローカルファーストのCIログトリアージ、環境チェック、レビュー済み修正、インシデント比較。CLI + GitHub Action + ワークベンチ。",
+        "ko": "개발자 마찰 진단. 로컬 우선 CI 로그 분류, 환경 점검, 검토된 수정 사항 및 인시던트 비교. CLI + GitHub Action + 워크벤치.",
+        "hook": {
+          "en": "Diagnose CI logs and environment errors on your machine",
+          "zh-Hans": "在本地排查 CI 日志与开发环境报错",
+          "zh-Hant": "在本機診斷 CI 紀錄與環境問題",
+          "ja": "ローカルでCIログと環境エラーを自動診断",
+          "ko": "로컬에서 CI 로그와 개발 환경 오류를 진단"
+        }
+      }
+    },
     "caru-ini/stack-diagram": {
       "b35b80141e99": {
         "src": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -4853,6 +4922,23 @@
           "zh-Hant": "讓任何 AI 用你的幣安錢包交易",
           "ja": "あらゆる AI があなたの Binance AI ウォレットで取引",
           "ko": "어떤 AI든 내 바이낸스 AI 지갑으로 거래"
+        }
+      }
+    },
+    "jackson-cmd/risk-aware-trading-agents": {
+      "11be400c8c82": {
+        "src": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 202…",
+        "zh-Hans": "具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202…",
+        "seen": "2026-11-15",
+        "zh-Hant": "具備無法預知未來的新聞回測功能的美股 AI 交易代理：公開的 LLM 交易代理排行榜（rta-bench-1），凍結時間點 202…",
+        "ja": "未来を見通せないニュースバックテストを備えた米国株向けAI取引エージェント：公開LLM取引エージェントリーダーボード（rta-bench-1）、時点固定された202…",
+        "ko": "미래를 볼 수 없는 뉴스 백테스팅을 갖춘 미국 주식용 AI 트레이딩 에이전트: 공개 LLM 트레이딩 에이전트 리더보드(rta-bench-1), 특정 시점으로 고정된 202…",
+        "hook": {
+          "en": "Test US stock trading agents with point-in-time news",
+          "zh-Hans": "回测美股交易智能体，杜绝未来数据偷看",
+          "zh-Hant": "回測美股交易代理，避免偷看未來數據",
+          "ja": "未来の情報を見せずに米国株取引AIを検証",
+          "ko": "미래 정보 유출 없이 미국 주식 거래 에이전트 검증"
         }
       }
     },
@@ -6153,6 +6239,24 @@
         }
       }
     },
+    "spacesky-cell/TwinFix": {
+      "84bcc9e65179": {
+        "src": "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。",
+        "zh-Hans": "TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。",
+        "seen": "2026-11-15",
+        "zh-Hant": "TwinFix — 在一次性孿生環境中自動診斷、復現並修復故障的 AI 代理。",
+        "ja": "TwinFix — 使い捨てのツイン環境でバグを診断、再現、修正するAIエージェント。",
+        "ko": "TwinFix — 일회용 트윈 환경에서 버그를 진단, 재현 및 수정하는 AI 에이전트.",
+        "en": "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment.",
+        "hook": {
+          "en": "Reproduce and fix bugs in disposable twin environments",
+          "zh-Hans": "在一次性孪生环境中复现并修复故障",
+          "zh-Hant": "在一次性分身環境中重現並修復故障",
+          "ja": "使い捨て環境でバグを再現して自動修正",
+          "ko": "일회용 트윈 환경에서 버그를 재현하고 수정"
+        }
+      }
+    },
     "spiderveer1-byte/play-reactive-slick": {
       "a8304b44941e": {
         "src": "Play + Postgres starter template with a clean UI",
@@ -6376,6 +6480,23 @@
           "zh-Hant": "Soundpad 2023 部署管線",
           "ja": "Soundpad 2023導入パイプライン",
           "ko": "Soundpad 2023 배포 파이프라인"
+        }
+      }
+    },
+    "vaibhav-space/my-ai-coding-workflow": {
+      "7eaca225ef8e": {
+        "src": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with…",
+        "zh-Hans": "生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于…",
+        "seen": "2026-11-15",
+        "zh-Hant": "生產級 AI 編程指令、精選技能以及 3 階段審查流程（Planning → Critical Review → Diff Audit），在歷經 4,500+ 小時後構建，基於…",
+        "ja": "本番環境レベルのAIコーディング指示、厳選されたスキル、4,500+時間以上をかけて構築された3段階のレビューパイプライン（Planning → Critical Review → Diff Audit）…",
+        "ko": "4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)…",
+        "hook": {
+          "en": "Review and audit AI code with a 3-stage pipeline",
+          "zh-Hans": "用三阶段审查流程规范 AI 生成的代码",
+          "zh-Hant": "用三階段審查流程把關 AI 產出的程式碼",
+          "ja": "3段階のレビュー手順でAIコードを監査",
+          "ko": "3단계 검토 파이프라인으로 AI 코드를 감사"
         }
       }
     },

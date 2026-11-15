@@ -66,14 +66,14 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Cod… | 2026-11-14<br><sub>1.0 d</sub> | 345 | 345.0 |
+| 1 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>Let Windows AI control your files, apps, and browser | 2026-11-14<br><sub>1.0 d</sub> | 345 | 345.0 |
 | 2 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>Keep your AI meeting notes private on your own computer | 2026-11-10<br><sub>4.8 d</sub> | 1,574 | 330.3 |
 | 3 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)<br>Chat with your team and AI agents in a self-hosted space | 2026-11-09<br><sub>6.6 d</sub> | 1,466 | 223.3 |
 | 4 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas | 2026-11-12<br><sub>2.6 d</sub> | 464 | 176.6 |
-| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with… | 2026-11-14<br><sub>1.0 d</sub> | 182 | 176.0 |
+| 5 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>Review and audit AI code with a 3-stage pipeline | 2026-11-14<br><sub>1.0 d</sub> | 182 | 176.0 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>Ask in plain words and get AI answers sourced per sentence | 2026-11-13<br><sub>2.0 d</sub> | 329 | 161.5 |
 | 7 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>See what Claude Code is doing in real time beside your chat | 2026-11-09<br><sub>5.8 d</sub> | 858 | 148.0 |
-| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 / Break down any short drama with AI: why it works, the script, every shot | 2026-11-14<br><sub>1.1 d</sub> | 155 | 143.3 |
+| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>Let AI break down hit short dramas from script to shot | 2026-11-14<br><sub>1.1 d</sub> | 155 | 143.3 |
 | 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>Remove AI tells and rewrite text clearly | 2026-11-09<br><sub>5.9 d</sub> | 664 | 113.0 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>Learn game creation from 257 Masahiro Sakurai videos | 2026-11-12<br><sub>2.9 d</sub> | 329 | 112.0 |
 
@@ -272,7 +272,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fixes and incident comparison. CLI + GitHub Action + workbench. | 2026-11-10<br><sub>4.9 d</sub> | 112 | 22.7 |
+| 1 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>Diagnose CI logs and environment errors on your machine | 2026-11-10<br><sub>4.9 d</sub> | 112 | 22.7 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -730,9 +730,9 @@ No new repo met the criteria in this run.
 |---|---|---|---:|---:|
 | 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>Too many apps? Keep shows and music in one self-hosted app | 2026-11-09<br><sub>5.6 d</sub> | 1,223 | 218.2 |
 | 2 | [serveroshq/panel](https://github.com/serveroshq/panel)<br>Run the Linux servers you already own in one place | 2026-11-09<br><sub>6.6 d</sub> | 830 | 126.4 |
-| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer. | 2026-11-13<br><sub>2.0 d</sub> | 131 | 65.7 |
+| 3 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>Inspect DNS, certs, and history of any domain on Windows | 2026-11-13<br><sub>2.0 d</sub> | 131 | 65.7 |
 | 4 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>Check Solana validator health in 60 seconds safely | 2026-11-10<br><sub>4.9 d</sub> | 230 | 46.5 |
-| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 | 2026-11-13<br><sub>2.3 d</sub> | 105 | 46.4 |
+| 5 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>Reproduce and fix bugs in disposable twin environments | 2026-11-13<br><sub>2.3 d</sub> | 105 | 46.4 |
 
 <details>
 <summary>Star history charts for this board</summary>
