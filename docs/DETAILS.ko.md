@@ -117,33 +117,31 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
+| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) |  | Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Cod… |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 내 컴퓨터에만 보관하는 AI 회의 메모 | 컴퓨터에 보관되는 비공개 AI 회의록. Mac, Windows 및 Linux용 무료 오픈 소스 Granola 대안. |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 팀과 AI 에이전트가 채널과 DM에서 함께 협업할 수 있는 오픈 소스, 셀프 호스팅 Slack 대안. 에이전트는 Claude, ChatGPT/Codex, Gemini 또는 Grok에서 실행됩니다… |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
+| [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) |  | Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
-| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | SnowCat 雪猫: NapCat + SnowLuma 융합 서드파티 QQ 클라이언트, 커뮤니티 릴레이 유지 관리, V8 채널 전체 기능 QQ 9.9.37 호환, 전체 도구 및 전체 소스 코드 공개 |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
+| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) |  | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 / Break down any short drama with AI: why it works, the script, every shot |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
-| [21stware/bowel](https://github.com/21stware/bowel) | 다양한 OS에서 mihomo 클라이언트 실행하기 | Bowel은 macOS, Windows, Linux 및 Android용 mihomo 클라이언트입니다. |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
+| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | SnowCat 雪猫: NapCat + SnowLuma 융합 서드파티 QQ 클라이언트, 커뮤니티 릴레이 유지 관리, V8 채널 전체 기능 QQ 9.9.37 호환, 전체 도구 및 전체 소스 코드 공개 |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 음성에 맞춰 코드로 영화 같은 영상을 제작 | 완전히 코드로 구축된 내레이션 시네마틱 필름용 에이전트 스킬: 음성에 맞춰 사진, 지도 및 카드 위를 이동하는 하나의 연속 카메라. Claude Code, Codex, C… |
-| [threerocks/article2media](https://github.com/threerocks/article2media) | 글이나 영상을 카드뉴스와 숏폼 영상으로 변환 | 기사나 비디오(抖音, B 站, YouTube, 먼저 녹취록으로 변환) 한 편을 원클릭으로 小红书 이미지 텍스트, 잡지형 롱 이미지, 公众号 레이아웃 및 AI 음성 더빙 숏폼 영상으로 만들어 주는 오픈 소스 Claude Code / Codex 스킬. 21개 테마, 자동 검수, npm 의존성 제로。 |
-| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 천문학과 천체물리학 분야의 AI 엄선 논문 찾기 | 천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록. |
-| [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | 오래된 안드로이드 폰을 로컬 데스크 패널로 쓰기 | 오래된 Android 휴대폰을 Windows, Linux 및 macOS용 로컬 데스크 패널로 변환하세요. 55개 위젯, Smart Stack, AI 할당량 및 세션, 미디어 컨트롤, USB 또는 페어링… |
+| [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 모델을 양자화하여 로컬 환경에서 직접 실행 | GGUF, 로컬 추론 및 그 이상을 위한 SOTA 모델 무관 양자화. llama.cpp, vLLM, Diffusers 등을 사용하여 텍스트, 이미지, 비디오 및 오디오 모델을 양자화하고 실행… |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 원클릭으로 인기 숏폼을 복제하고 대본 분석 | 에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작… |
-| [pktq/lasik](https://github.com/pktq/lasik) | BLA로 시야가 차단된 에이전트의 시야를 복구 | BLA는 에이전트의 눈을 멀게 합니다. LASIK은 시력을 되찾아 줍니다. BLA(Blind LLM Agents) 강화를 되돌려 코딩 에이전트와 REA…가 다시 작업할 수 있도록 하는 정적 시력 복구 CLI + MCP 서버… |
+| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 천문학과 천체물리학 분야의 AI 엄선 논문 찾기 | 천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록. |
+| [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) |  | AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 202… |
 | [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 코딩 에ージェント에게 요청을 나누어 전달하기 | 코딩 에이전트를 위한 비서실장: herdr 상에서 git worktrees 내 병렬 worker를 실행하는 프로젝트별 관리자 에이전트로 요청을 라우팅합니다. |
-| [SparkofSpike/Brain4Agent](https://github.com/SparkofSpike/Brain4Agent) | 주류 에이전트에 CJK 우선 메모리 모듈 제공 | 모든 주류 에이전트를 위한 세계 최첨단의 CJK 우선 메모리 모듈 구축에 전념하고 있습니다. 모든 issue와 PR을 환영합니다. |
-| [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 복잡한 CI 로그에서 실패 원인과 정확한 증거 정리 | 복잡한 CI 로그를 그룹화된 실패, 정확한 증거 및 조사 단계로 변환합니다. 오프라인 CLI, 재사용 가능한 GitHub Action 및 이중 언어 브라우저 워크벤치. API k… 없음 |
-| [Omegaofidolize/ableton-live-12](https://github.com/Omegaofidolize/ableton-live-12) | Ableton Live 12 로컬 스튜디오 환경 설정 | 격리된 로컬 스튜디오 환경에서 전문 오디오 워크스테이션 배포를 위해 사전 구성된 Ableton Live 12 환경. |
+| [brunnojob/devrescue](https://github.com/brunnojob/devrescue) |  | Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fixes and incident comparison. CLI + GitHub Action + workbench. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcn으로 Dynamic Island 바로 설치 | shadcn으로 설치되는 React용 오픈 소스 Dynamic Island. |
-| [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | macOS와 iOS에서 드라마 시청 | HGhub 크로스 플랫폼 클라이언트 (macOS &amp; iOS 강화 버전) · Apple Silicon / Intel 이중 아키텍처 DMG 및 서명 불필요 iOS IPA 지원 · 몰입형 드라마 시청 / 제스처 확대·축소 / 네이티브 가로 전체 화면 / 다중 경로 미러 속도 측정 |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | AI 에이전트가 운영하는 오픈 소스 전화 교환기. 전화를 받고, 통화 중 도구를 실행하며, 사람에게 상담하고, 통화가 종료된 후에도 작업을 계속… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 복잡한 마을 토지 인허가, 필지별로 묶어서 관리 | 미국 소도시를 위한 오픈 소스 토지 이용 소프트웨어: 필지를 중심으로 정리된 허가, 검사, 계획 위원회 및 ZBA 사례, 규정 집행. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
 | [serveroshq/panel](https://github.com/serveroshq/panel) | 보유한 Linux 서버를 한곳에서 모아 실행 | 오픈 소스 ServerOS 패널: 이미 보유하고 있는 Linux 서버를 실행할 수 있는 하나의 공간. |
+| [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) |  | OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer. |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다. |
-| [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | 영상 다운로드 없이 Twitch 드롭스 백그라운드 수령 | 백그라운드에서 Twitch 드롭을 자동 파밍합니다. 비디오 다운로드 없이 보상 수령, 채널 전환, 시간 지정 드롭 채굴을 지원합니다. Windows, mac…용 가벼운 AFK 마이너 |
-| [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) | 순수 Go로 GPU 기반 네이티브 UI 만들기 | 🍭 Lobe MyGo - 네이티브 Go 앱용 UI 키트: 순수 Go로 GPU에서 그리는 MyGo용 Lobe UI 디자인 언어 |
+| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) |  | TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 |

@@ -6,6 +6,7 @@
 
 | 日期 | 时段 | 获取时间（UTC） | 新仓库第 1 名（7 天） | 本周第 1 名 | 本月第 1 名 | 今年第 1 名 | 快照 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-15 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-15T14:23:29Z | Outpostkrewhirl86/Capri-AI (345/天) | morluto/rea (2,771/天) | morluto/rea (6,179/天) | deepseek-ai/deepseek-harness (2,992/天) | [2026-11-15/pt-0000](2026-11-15/pt-0000/rankings.zh-Hans.md) · [json](2026-11-15/pt-0000/stats.json) |
 | 2026-11-15 | 北京时间 00:00 (`cn-0000`) | 2026-11-14T16:21:35Z | FrigadeHQ/yogurt (364/天) | morluto/rea (2,870/天) | morluto/rea (6,977/天) | deepseek-ai/deepseek-harness (3,018/天) | [2026-11-15/cn-0000](2026-11-15/cn-0000/rankings.zh-Hans.md) · [json](2026-11-15/cn-0000/stats.json) |
 | 2026-11-14 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-14T13:50:01Z | FrigadeHQ/yogurt (366/天) | morluto/rea (2,870/天) | morluto/rea (6,977/天) | deepseek-ai/deepseek-harness (3,018/天) | [2026-11-14/pt-0000](2026-11-14/pt-0000/rankings.zh-Hans.md) · [json](2026-11-14/pt-0000/stats.json) |
 | 2026-11-13 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-13T14:57:43Z | FrigadeHQ/yogurt (423/天) | morluto/rea (3,026/天) | morluto/rea (7,994/天) | deepseek-ai/deepseek-harness (3,044/天) | [2026-11-13/pt-0000](2026-11-13/pt-0000/rankings.zh-Hans.md) · [json](2026-11-13/pt-0000/stats.json) |
