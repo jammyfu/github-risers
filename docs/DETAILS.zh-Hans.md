@@ -117,31 +117,34 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 让本地桌面智能体帮你操控应用与文件 | Capri：带有赛博朋克 HUD 的本地优先桌面 AI 智能体。专属于您的 Windows 个人 Jarvis。可控制文件、应用、终端和浏览器，由 Claude Cod… |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 会议笔记全保存在自己电脑里 | 保留在您电脑上的私密 AI 会议记录。一款适用于 Mac、Windows 和 Linux 的免费、开源 Granola 替代品。 |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 在自托管空间与团队及 AI 智能体协作 | 开源、自托管的 Slack 替代方案，您的团队和 AI 智能体在频道和 DMs 中协同工作。智能体运行在 Claude、ChatGPT/Codex、Gemini 或 Grok… |
+| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 让本地桌面智能体帮你操控应用与文件 | Capri：带有赛博朋克 HUD 的本地优先桌面 AI 智能体。专属于您的 Windows 个人 Jarvis。可控制文件、应用、终端和浏览器，由 Claude Cod… |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
-| [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
-| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
+| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) |  | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
+| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
+| [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
-| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 想用第三方QQ，社区接力全功能适配新版 | SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开 |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
-| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 用代码做出对齐语音的电影感视频 | 完全由代码构建的旁白电影感影片智能体技能：镜头在照片、地图和卡片上连续移动，配合语音节奏。Claude Code, Codex, C… |
 | [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 量化多模态模型并在本地顺畅运行 | 适用于 GGUF、本地推理及更多场景的 SOTA 模型无关量化。使用 llama.cpp、vLLM、Diffusers 量化并运行文本、图像、视频和音频模型，以及… |
-| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 一键复刻爆款短视频，拆解文案脚本 | 智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体… |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 查找天文与天体物理领域的 AI 精选论文 | 天文学 &amp; 天体物理学领域 AI 论文精选列表。 |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 回测美股交易智能体，杜绝未来数据偷看 | 具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202… |
-| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 把编码任务分派给专属智能体协同执行 | 编码智能体的幕僚长：将请求路由给在 git worktrees 中运行并行 worker 的各项目管理智能体，基于 herdr。 |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 一键复刻爆款短视频，拆解文案脚本 | 智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体… |
+| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) |  | Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini &amp; DeepSeek across 288 generation runs and 64 blind-r… |
+| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) |  | Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. |
+| [pktq/lasik](https://github.com/pktq/lasik) | 为受 BLA 蒙蔽的智能体重新找回视野 | BLA 让你的智能体失明。LASIK 让它重见光明。静态去盲 CLI + MCP 服务器，可撤销 BLA（Blind LLM Agents）强化，使编码智能体和 REA… |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) |
 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 在本地排查 CI 日志与开发环境报错 | 开发者阻碍，精准诊断。本地优先的 CI 日志分流、环境检查、经过审查的修复方案和事件对比。CLI + GitHub Action + 工作台。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
+| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | A Claude-inspired theme for T3 Code. One file, no fork. |
+| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) |  | A rounded variant of Geist font ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | 让 AI 替你接电话并运行工具的开源总机 | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 小镇土地审批太繁琐？按地块统一管理 | 适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
-| [serveroshq/panel](https://github.com/serveroshq/panel) | 在一处集中运行你已有的 Linux 服务器 | 开源 ServerOS 面板：一处运行您已拥有的 Linux 服务器的地方。 |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐层排查域名解析与历史 | 适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
+| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) |  | 星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. |

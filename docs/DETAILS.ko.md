@@ -117,31 +117,34 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
-| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 로컬 데스크톱 AI로 앱과 파일을 직접 제어 | Capri: 사이버펑크 HUD를 갖춘 로컬 우선 데스크톱 AI 에이전트. Windows를 위한 나만의 개인 Jarvis. 파일, 앱, 터미널 및 브라우저를 제어하며, Claude Cod… |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 내 컴퓨터에만 보관하는 AI 회의 메모 | 컴퓨터에 보관되는 비공개 AI 회의록. Mac, Windows 및 Linux용 무료 오픈 소스 Granola 대안. |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 팀과 AI 에이전트가 함께 일하는 셀프 호스팅 메신저 | 팀과 AI 에이전트가 채널과 DM에서 함께 협업할 수 있는 오픈 소스, 셀프 호스팅 Slack 대안. 에이전트는 Claude, ChatGPT/Codex, Gemini 또는 Grok에서 실행됩니다… |
+| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 로컬 데스크톱 AI로 앱과 파일을 직접 제어 | Capri: 사이버펑크 HUD를 갖춘 로컬 우선 데스크톱 AI 에이전트. Windows를 위한 나만의 개인 Jarvis. 파일, 앱, 터미널 및 브라우저를 제어하며, Claude Cod… |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
-| [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3단계 검토 파이프라인으로 AI 코드를 감사 | 4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
-| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
+| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) |  | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
+| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
+| [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3단계 검토 파이프라인으로 AI 코드를 감사 | 4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
-| [DandanLLab/SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) | 커뮤니티가 관리하는 오픈 소스 서드파티 QQ 클라이언트 | SnowCat 雪猫: NapCat + SnowLuma 융합 서드파티 QQ 클라이언트, 커뮤니티 릴레이 유지 관리, V8 채널 전체 기능 QQ 9.9.37 호환, 전체 도구 및 전체 소스 코드 공개 |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
-| [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 음성에 맞춰 코드로 영화 같은 영상을 제작 | 완전히 코드로 구축된 내레이션 시네마틱 필름용 에이전트 스킬: 음성에 맞춰 사진, 지도 및 카드 위를 이동하는 하나의 연속 카메라. Claude Code, Codex, C… |
 | [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 모델을 양자화하여 로컬 환경에서 직접 실행 | GGUF, 로컬 추론 및 그 이상을 위한 SOTA 모델 무관 양자화. llama.cpp, vLLM, Diffusers 등을 사용하여 텍스트, 이미지, 비디오 및 오디오 모델을 양자화하고 실행… |
-| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 원클릭으로 인기 숏폼을 복제하고 대본 분석 | 에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작… |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 천문학과 천체물리학 분야의 AI 엄선 논문 찾기 | 천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록. |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 미래 정보 유출 없이 미국 주식 거래 에이전트 검증 | 미래를 볼 수 없는 뉴스 백테스팅을 갖춘 미국 주식용 AI 트레이딩 에이전트: 공개 LLM 트레이딩 에이전트 리더보드(rta-bench-1), 특정 시점으로 고정된 202… |
-| [stevenmichaelthomas/numbrone](https://github.com/stevenmichaelthomas/numbrone) | 코딩 에ージェント에게 요청을 나누어 전달하기 | 코딩 에이전트를 위한 비서실장: herdr 상에서 git worktrees 내 병렬 worker를 실행하는 프로젝트별 관리자 에이전트로 요청을 라우팅합니다. |
+| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 원클릭으로 인기 숏폼을 복제하고 대본 분석 | 에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작… |
+| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) |  | Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini &amp; DeepSeek across 288 generation runs and 64 blind-r… |
+| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) |  | Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. |
+| [pktq/lasik](https://github.com/pktq/lasik) | BLA로 시야가 차단된 에이전트의 시야를 복구 | BLA는 에이전트의 눈을 멀게 합니다. LASIK은 시력을 되찾아 줍니다. BLA(Blind LLM Agents) 강화를 되돌려 코딩 에이전트와 REA…가 다시 작업할 수 있도록 하는 정적 시력 복구 CLI + MCP 서버… |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) |
 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 로컬에서 CI 로그와 개발 환경 오류를 진단 | 개발자 마찰 진단. 로컬 우선 CI 로그 분류, 환경 점검, 검토된 수정 사항 및 인시던트 비교. CLI + GitHub Action + 워크벤치. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcn으로 Dynamic Island 바로 설치 | shadcn으로 설치되는 React용 오픈 소스 Dynamic Island. |
+| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | A Claude-inspired theme for T3 Code. One file, no fork. |
+| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) |  | A rounded variant of Geist font ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | AI 에이전트가 운영하는 오픈 소스 전화 교환기. 전화를 받고, 통화 중 도구를 실행하며, 사람에게 상담하고, 통화가 종료된 후에도 작업을 계속… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 복잡한 마을 토지 인허가, 필지별로 묶어서 관리 | 미국 소도시를 위한 오픈 소스 토지 이용 소프트웨어: 필지를 중심으로 정리된 허가, 검사, 계획 위원회 및 ZBA 사례, 규정 집행. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
-| [serveroshq/panel](https://github.com/serveroshq/panel) | 보유한 Linux 서버를 한곳에서 모아 실행 | 오픈 소스 ServerOS 패널: 이미 보유하고 있는 Linux 서버를 실행할 수 있는 하나의 공간. |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | Windows에서 도메인 DNS와 이력을 단계별 조사 | Windows용 OSINT 도메인 및 인프라 정찰: 모든 도메인의 DNS, 인증서, 호스팅 및 이력을 계층별로 분석. |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다. |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 일회용 트윈 환경에서 버그를 재현하고 수정 | TwinFix — 일회용 트윈 환경에서 버그를 진단, 재현 및 수정하는 AI 에이전트. |
+| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) |  | 星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. |
