@@ -53,6 +53,23 @@
         }
       }
     },
+    "AI4XE/Parallax": {
+      "66864e188bc9": {
+        "src": "A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more)",
+        "zh-Hans": "适用于 AI 编程智能体（Claude Code、DeepSeek Harness、GitHub Copilot 等）的无需人工干预的开发插件",
+        "seen": "2026-11-17",
+        "zh-Hant": "適用於 AI 程式設計代理（Claude Code、DeepSeek Harness、GitHub Copilot 等）的無需人工干預的開發外掛",
+        "ja": "AI コーディングエージェント（Claude Code、DeepSeek Harness、GitHub Copilot など）向けのハンズオフ開発プラグイン",
+        "ko": "AI 코딩 에이전트(Claude Code, DeepSeek Harness, GitHub Copilot 등)를 위한 핸즈오프 개발 플러그인",
+        "hook": {
+          "en": "Let AI coding agents handle development hands-off",
+          "zh-Hans": "用插件让 AI 编程智能体自动完成开发",
+          "zh-Hant": "用外掛讓 AI 程式代理自動完成開發",
+          "ja": "プラグインでAIコーディングを自動化",
+          "ko": "플러그인으로 AI 코딩 에이전트 개발을 자동화"
+        }
+      }
+    },
     "AbhiKamane/ai-app-builder-open": {
       "294a01a74f58": {
         "src": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
@@ -553,6 +570,22 @@
           "zh-Hant": "想讓代理操作工具？放進沙盒裡執行",
           "ja": "エージェントでツールを動かす？サンドボックスで実行",
           "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
+        }
+      }
+    },
+    "BigPizzaV3/ClaudeMom": {
+      "3986304898da": {
+        "src": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+        "zh-Hans": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+        "seen": "2026-11-17",
+        "zh-Hant": "不用 Claude 帳號！把 API Key 變成登入模式，Claude 桌面版全功能解鎖（漢化 / 語音 / 電腦控制）",
+        "ja": "Claude アカウント不要！API Key をログインモードに変え、Claude デスクトップ版の全機能をアンロック（中国語化 / 音声 / コンピューター制御）",
+        "ko": "Claude 계정 불필요! API Key를 로그인 모드로 전환하여 Claude 데스크톱 버전 전체 기능 잠금 해제(중국어화 / 음성 / 컴퓨터 제어)",
+        "en": "No Claude account needed! Turn API Key into login mode, unlock all features of Claude desktop (Chinese localization / voice / computer control)",
+        "hook": {
+          "en": "Claude desktop tool listed as logging in with API Key",
+          "ja": "API KeyでログインするClaudeデスクトップ版ツール",
+          "ko": "API Key로 로그인하는 Claude 데스크톱 도구"
         }
       }
     },
@@ -3966,6 +3999,24 @@
         "ko": "⚡ PC에 할 일을 지시하세요. Capri는 Claude Code, Codex 또는 Antigravity를 통해 파일, 프로젝트, 코드를 다루는 사이버펑크 AI 에이전트입니다. Windows insta…"
       }
     },
+    "bohuis686-creator/AstralCodex": {
+      "797ae3419aa7": {
+        "src": "星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps.",
+        "zh-Hans": "星澜 · Windows 上 Codex 的动漫启动动画。为其他应用的动画启动器提供的开放基础。",
+        "seen": "2026-11-17",
+        "zh-Hant": "星瀾 · Windows 上 Codex 的動漫啟動動畫。為其他應用程式的動畫啟動器提供的開放基礎。",
+        "ja": "星澜 · Windows 上の Codex 向けアニメ起動アニメーション。他のアプリのアニメーション付きランチャーのためのオープンな基盤。",
+        "ko": "星澜 · Windows용 Codex 애니메이션 시작 애니메이션. 다른 앱용 애니메이션 런처를 위한 개방형 기반.",
+        "en": "星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps.",
+        "hook": {
+          "en": "Add anime startup animations to Codex on Windows",
+          "zh-Hans": "为 Windows 版 Codex 换上动漫开屏动画",
+          "zh-Hant": "為 Windows 版 Codex 換上動漫開機動畫",
+          "ja": "Windows版Codexにアニメ起動画面を追加",
+          "ko": "Windows용 Codex에 애니메이션 시작 화면 추가"
+        }
+      }
+    },
     "bookleme/bookleme": {
       "c1a0efacca05": {
         "src": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
@@ -4419,6 +4470,23 @@
           "ja": "エージェントが作った画面、デザイン崩れを点検する",
           "ko": "에이전트가 만든 화면의 디자인 규칙 위반을 점검한다",
           "zh-Hans": "AI 智能体写的界面，帮你检查设计规范"
+        }
+      }
+    },
+    "erkamyaman/unslopovich": {
+      "e7912f198a1e": {
+        "src": "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.",
+        "zh-Hans": "你的应用看起来像 AI 生成的。Dr. Unslopovich 注意到了。一个在移动应用、Web 应用和网站中查找并修复 AI 感 UI 和 UX 的智能体技能。",
+        "seen": "2026-11-17",
+        "zh-Hant": "你的應用程式看起來像 AI 生成的。Dr. Unslopovich 注意到了。一個在行動應用程式、Web 應用程式和網站中尋找並修復 AI 感 UI 和 UX 的代理技能。",
+        "ja": "あなたのアプリは AI 生成のように見えます。Dr. Unslopovich は気づきました。モバイルアプリ、Web アプリ、ウェブサイトで AI っぽい UI や UX を見つけて修正するエージェントスキル。",
+        "ko": "당신의 앱은 AI가 생성한 것처럼 보입니다. Dr. Unslopovich가 알아챘습니다. 모바일 앱, 웹 앱, 웹사이트에서 AI 느낌의 UI와 UX를 찾아 수정하는 에이전트 스킬.",
+        "hook": {
+          "en": "Fix AI-looking UI and UX across your apps and sites",
+          "zh-Hans": "界面太像 AI 做的，用智能体技能修正",
+          "zh-Hant": "介面太像 AI 做的，用代理技能修正",
+          "ja": "AIっぽいUIやUXをエージェントスキルで修正",
+          "ko": "AI 티가 나는 UI와 UX를 에이전트 스킬로 수정"
         }
       }
     },
@@ -5448,6 +5516,23 @@
         }
       }
     },
+    "molly554/whiteboard-ai-tutor": {
+      "2f10e8ea8d3a": {
+        "src": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini &amp; DeepSeek across 288 generation runs and 64 blind-r…",
+        "zh-Hans": "具有动画课程和交互式回放的开源白板 AI 导师。对比 Claude、Gemini &amp; DeepSeek 在 288 次生成运行和 64 次 blind-r…",
+        "seen": "2026-11-17",
+        "zh-Hant": "具有動畫課程和互動式回放的開源白板 AI 導師。對比 Claude、Gemini &amp; DeepSeek 在 288 次生成運行和 64 次 blind-r…",
+        "ja": "アニメーション付きレッスンとインタラクティブな再生機能を備えたオープンソースのホワイトボード AI チューター。Claude、Gemini &amp; DeepSeek の比較：288 回の生成実行と 64 回の blind-r…",
+        "ko": "애니메이션 강의와 대화형 재생 기능을 갖춘 오픈 소스 화이트보드 AI 튜터. Claude, Gemini &amp; DeepSeek 비교: 288회의 생성 실행과 64회의 blind-r…",
+        "hook": {
+          "en": "Learn from animated lessons with a whiteboard AI tutor",
+          "zh-Hans": "让开源白板 AI 导师把课程画成动画",
+          "zh-Hant": "讓開源白板 AI 導師把課程畫成動畫",
+          "ja": "オープンソースの白板AI講師がアニメで授業",
+          "ko": "오픈 소스 화이트보드 AI 튜터로 수업 시청"
+        }
+      }
+    },
     "morganlinton/BeautifulRust": {
       "a5480f24d64a": {
         "src": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, a…",
@@ -5931,6 +6016,21 @@
         }
       }
     },
+    "rohit3a/t3-clawd": {
+      "d45e1a82919c": {
+        "src": "A Claude-inspired theme for T3 Code. One file, no fork.",
+        "zh-Hans": "灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。",
+        "seen": "2026-11-17",
+        "zh-Hant": "靈感源自 Claude 的 T3 Code 主題。單一檔案，無需 fork。",
+        "ja": "Claude にインスパイアされた T3 Code 向けテーマ。1 ファイル、fork 不要。",
+        "ko": "Claude에서 영감을 받은 T3 Code용 테마. 단일 파일, fork 불필요.",
+        "hook": {
+          "en": "Get a Claude-inspired theme for T3 Code in one file",
+          "ja": "フォーク不要、1ファイルでClaude風テーマに",
+          "ko": "포크 없이 단일 파일로 Claude 스타일 테마 적용"
+        }
+      }
+    },
     "routerhubSI/uncensored-ai-api": {
       "66c2f1401a12": {
         "src": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI-…",
@@ -6058,6 +6158,23 @@
           "ko": "보유한 Linux 서버를 한곳에서 모아 실행",
           "zh-Hans": "在一处集中运行你已有的 Linux 服务器",
           "zh-Hant": "在一處集中運行你已有的 Linux 伺服器"
+        }
+      }
+    },
+    "shadcn-labs/goeist-font": {
+      "edb7ffd50da9": {
+        "src": "A rounded variant of Geist font ▲",
+        "zh-Hans": "Geist 字体的圆角变体 ▲",
+        "seen": "2026-11-17",
+        "zh-Hant": "Geist 字型的圓角變體 ▲",
+        "ja": "Geist フォントの丸みを帯びたバリアント ▲",
+        "ko": "Geist 폰트의 둥근 변형 ▲",
+        "hook": {
+          "en": "Give your text a softer look with rounded Geist font",
+          "zh-Hans": "给界面换上圆角版 Geist 字体",
+          "zh-Hant": "給介面換上圓角版 Geist 字體",
+          "ja": "Geistフォントに丸みのある柔らかさをプラス",
+          "ko": "둥근 모서리의 Geist 폰트로 부드러운 느낌 연출"
         }
       }
     },

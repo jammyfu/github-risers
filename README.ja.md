@@ -70,7 +70,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 2 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>ローカルデスクトップAIがアプリやファイルを操作 | 2026-11-14<br><sub>1.8 日</sub> | 346 | 193.3 |
 | 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>3.7 日</sub> | 507 | 136.4 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>6.9 日</sub> | 912 | 132.4 |
-| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） | 2026-11-12<br><sub>4.4 日</sub> | 495 | 112.7 |
+| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API KeyでログインするClaudeデスクトップ版ツール | 2026-11-12<br><sub>4.4 日</sub> | 495 | 112.7 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>3.1 日</sub> | 335 | 107.2 |
 | 7 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>文章からAI感を消して書き直す | 2026-11-09<br><sub>7.0 日</sub> | 723 | 103.8 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AIで人気短編ドラマの脚本や撮影手順を分析 | 2026-11-14<br><sub>2.2 日</sub> | 219 | 100.9 |
@@ -272,7 +272,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) | 2026-11-15<br><sub>1.2 日</sub> | 109 | 87.2 |
+| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>プラグインでAIコーディングを自動化 | 2026-11-15<br><sub>1.2 日</sub> | 109 | 87.2 |
 | 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>ローカルでCIログと環境エラーを自動診断 | 2026-11-10<br><sub>6.0 日</sub> | 113 | 18.7 |
 
 <details>
@@ -573,8 +573,8 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcnで手軽にDynamic Islandを追加 | 2026-11-13<br><sub>3.2 日</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>A Claude-inspired theme for T3 Code. One file, no fork. | 2026-11-14<br><sub>1.8 日</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>A rounded variant of Geist font ▲ | 2026-11-11<br><sub>4.9 日</sub> | 151 | 30.7 |
+| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>1.8 日</sub> | 122 | 68.6 |
+| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Geistフォントに丸みのある柔らかさをプラス | 2026-11-11<br><sub>4.9 日</sub> | 151 | 30.7 |
 | 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>AIエージェントが電話対応するオープンソース交換台 | 2026-11-11<br><sub>5.2 日</sub> | 120 | 23.2 |
 | 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>町の申請業務が煩雑？土地利用を区画ごとに管理 | 2026-11-10<br><sub>6.0 日</sub> | 128 | 21.2 |
 
@@ -899,7 +899,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. | 2026-11-10<br><sub>6.5 日</sub> | 104 | 16.1 |
+| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>Windows版Codexにアニメ起動画面を追加 | 2026-11-10<br><sub>6.5 日</sub> | 104 | 16.1 |
 
 <details>
 <summary>このランキングのスター推移</summary>

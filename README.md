@@ -70,7 +70,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 2 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>Let Windows AI control your files, apps, and browser | 2026-11-14<br><sub>1.8 d</sub> | 346 | 193.3 |
 | 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas | 2026-11-12<br><sub>3.7 d</sub> | 507 | 136.4 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>See what Claude Code is doing in real time beside your chat | 2026-11-09<br><sub>6.9 d</sub> | 912 | 132.4 |
-| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） | 2026-11-12<br><sub>4.4 d</sub> | 495 | 112.7 |
+| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>Claude desktop tool listed as logging in with API Key | 2026-11-12<br><sub>4.4 d</sub> | 495 | 112.7 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>Ask in plain words and get AI answers sourced per sentence | 2026-11-13<br><sub>3.1 d</sub> | 335 | 107.2 |
 | 7 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>Remove AI tells and rewrite text clearly | 2026-11-09<br><sub>7.0 d</sub> | 723 | 103.8 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>Let AI break down hit short dramas from script to shot | 2026-11-14<br><sub>2.2 d</sub> | 219 | 100.9 |
@@ -272,7 +272,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) | 2026-11-15<br><sub>1.2 d</sub> | 109 | 87.2 |
+| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>Let AI coding agents handle development hands-off | 2026-11-15<br><sub>1.2 d</sub> | 109 | 87.2 |
 | 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>Diagnose CI logs and environment errors on your machine | 2026-11-10<br><sub>6.0 d</sub> | 113 | 18.7 |
 
 <details>
@@ -573,8 +573,8 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>Add an open-source Dynamic Island to React with shadcn | 2026-11-13<br><sub>3.2 d</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>A Claude-inspired theme for T3 Code. One file, no fork. | 2026-11-14<br><sub>1.8 d</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>A rounded variant of Geist font ▲ | 2026-11-11<br><sub>4.9 d</sub> | 151 | 30.7 |
+| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>Get a Claude-inspired theme for T3 Code in one file | 2026-11-14<br><sub>1.8 d</sub> | 122 | 68.6 |
+| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Give your text a softer look with rounded Geist font | 2026-11-11<br><sub>4.9 d</sub> | 151 | 30.7 |
 | 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>Open-source phone system operated by AI agents | 2026-11-11<br><sub>5.2 d</sub> | 120 | 23.2 |
 | 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>Small town permits piling up? Manage land use by parcel | 2026-11-10<br><sub>6.0 d</sub> | 128 | 21.2 |
 
@@ -899,7 +899,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. | 2026-11-10<br><sub>6.5 d</sub> | 104 | 16.1 |
+| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>Add anime startup animations to Codex on Windows | 2026-11-10<br><sub>6.5 d</sub> | 104 | 16.1 |
 
 <details>
 <summary>Star history charts for this board</summary>

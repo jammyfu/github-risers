@@ -121,7 +121,7 @@
 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 로컬 데스크톱 AI로 앱과 파일을 직접 제어 | Capri: 사이버펑크 HUD를 갖춘 로컬 우선 데스크톱 AI 에이전트. Windows를 위한 나만의 개인 Jarvis. 파일, 앱, 터미널 및 브라우저를 제어하며, Claude Cod… |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
-| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) |  | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
+| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | API Key로 로그인하는 Claude 데스크톱 도구 | Claude 계정 불필요! API Key를 로그인 모드로 전환하여 Claude 데스크톱 버전 전체 기능 잠금 해제(중국어화 / 음성 / 컴퓨터 제어) |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
@@ -133,18 +133,18 @@
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 천문학과 천체물리학 분야의 AI 엄선 논문 찾기 | 천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록. |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 미래 정보 유출 없이 미국 주식 거래 에이전트 검증 | 미래를 볼 수 없는 뉴스 백테스팅을 갖춘 미국 주식용 AI 트레이딩 에이전트: 공개 LLM 트레이딩 에이전트 리더보드(rta-bench-1), 특정 시점으로 고정된 202… |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 원클릭으로 인기 숏폼을 복제하고 대본 분석 | 에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작… |
-| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) |  | Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini &amp; DeepSeek across 288 generation runs and 64 blind-r… |
-| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) |  | Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. |
+| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 오픈 소스 화이트보드 AI 튜터로 수업 시청 | 애니메이션 강의와 대화형 재생 기능을 갖춘 오픈 소스 화이트보드 AI 튜터. Claude, Gemini &amp; DeepSeek 비교: 288회의 생성 실행과 64회의 blind-r… |
+| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) | AI 티가 나는 UI와 UX를 에이전트 스킬로 수정 | 당신의 앱은 AI가 생성한 것처럼 보입니다. Dr. Unslopovich가 알아챘습니다. 모바일 앱, 웹 앱, 웹사이트에서 AI 느낌의 UI와 UX를 찾아 수정하는 에이전트 스킬. |
 | [pktq/lasik](https://github.com/pktq/lasik) | BLA로 시야가 차단된 에이전트의 시야를 복구 | BLA는 에이전트의 눈을 멀게 합니다. LASIK은 시력을 되찾아 줍니다. BLA(Blind LLM Agents) 강화를 되돌려 코딩 에이전트와 REA…가 다시 작업할 수 있도록 하는 정적 시력 복구 CLI + MCP 서버… |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 플러그인으로 AI 코딩 에이전트 개발을 자동화 | AI 코딩 에이전트(Claude Code, DeepSeek Harness, GitHub Copilot 등)를 위한 핸즈오프 개발 플러그인 |
 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 로컬에서 CI 로그와 개발 환경 오류를 진단 | 개발자 마찰 진단. 로컬 우선 CI 로그 분류, 환경 점검, 검토된 수정 사항 및 인시던트 비교. CLI + GitHub Action + 워크벤치. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcn으로 Dynamic Island 바로 설치 | shadcn으로 설치되는 React용 오픈 소스 Dynamic Island. |
-| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | A Claude-inspired theme for T3 Code. One file, no fork. |
-| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) |  | A rounded variant of Geist font ▲ |
+| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 포크 없이 단일 파일로 Claude 스타일 테마 적용 | Claude에서 영감을 받은 T3 Code용 테마. 단일 파일, fork 불필요. |
+| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 둥근 모서리의 Geist 폰트로 부드러운 느낌 연출 | Geist 폰트의 둥근 변형 ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | AI 에이전트가 운영하는 오픈 소스 전화 교환기. 전화를 받고, 통화 중 도구를 실행하며, 사람에게 상담하고, 통화가 종료된 후에도 작업을 계속… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 복잡한 마을 토지 인허가, 필지별로 묶어서 관리 | 미국 소도시를 위한 오픈 소스 토지 이용 소프트웨어: 필지를 중심으로 정리된 허가, 검사, 계획 위원회 및 ZBA 사례, 규정 집행. |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | Windows에서 도메인 DNS와 이력을 단계별 조사 | Windows용 OSINT 도메인 및 인프라 정찰: 모든 도메인의 DNS, 인증서, 호스팅 및 이력을 계층별로 분석. |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다. |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 일회용 트윈 환경에서 버그를 재현하고 수정 | TwinFix — 일회용 트윈 환경에서 버그를 진단, 재현 및 수정하는 AI 에이전트. |
-| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) |  | 星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. |
+| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) | Windows용 Codex에 애니메이션 시작 화면 추가 | 星澜 · Windows용 Codex 애니메이션 시작 애니메이션. 다른 앱용 애니메이션 런처를 위한 개방형 기반. |

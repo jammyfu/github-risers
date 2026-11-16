@@ -70,7 +70,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 2 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>로컬 데스크톱 AI로 앱과 파일을 직접 제어 | 2026-11-14<br><sub>1.8일</sub> | 346 | 193.3 |
 | 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>수천 개의 DOM 노드를 무한 캔버스에서 편집 | 2026-11-12<br><sub>3.7일</sub> | 507 | 136.4 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | 2026-11-09<br><sub>6.9일</sub> | 912 | 132.4 |
-| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） | 2026-11-12<br><sub>4.4일</sub> | 495 | 112.7 |
+| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API Key로 로그인하는 Claude 데스크톱 도구 | 2026-11-12<br><sub>4.4일</sub> | 495 | 112.7 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | 2026-11-13<br><sub>3.1일</sub> | 335 | 107.2 |
 | 7 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>글에서 AI 느낌을 지우고 다시 쓰기 | 2026-11-09<br><sub>7.0일</sub> | 723 | 103.8 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI로 인기 숏폼 드라마 대본과 연출을 분석 | 2026-11-14<br><sub>2.2일</sub> | 219 | 100.9 |
@@ -272,7 +272,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) | 2026-11-15<br><sub>1.2일</sub> | 109 | 87.2 |
+| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>플러그인으로 AI 코딩 에이전트 개발을 자동화 | 2026-11-15<br><sub>1.2일</sub> | 109 | 87.2 |
 | 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>로컬에서 CI 로그와 개발 환경 오류를 진단 | 2026-11-10<br><sub>6.0일</sub> | 113 | 18.7 |
 
 <details>
@@ -573,8 +573,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcn으로 Dynamic Island 바로 설치 | 2026-11-13<br><sub>3.2일</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>A Claude-inspired theme for T3 Code. One file, no fork. | 2026-11-14<br><sub>1.8일</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>A rounded variant of Geist font ▲ | 2026-11-11<br><sub>4.9일</sub> | 151 | 30.7 |
+| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>포크 없이 단일 파일로 Claude 스타일 테마 적용 | 2026-11-14<br><sub>1.8일</sub> | 122 | 68.6 |
+| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>둥근 모서리의 Geist 폰트로 부드러운 느낌 연출 | 2026-11-11<br><sub>4.9일</sub> | 151 | 30.7 |
 | 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | 2026-11-11<br><sub>5.2일</sub> | 120 | 23.2 |
 | 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>복잡한 마을 토지 인허가, 필지별로 묶어서 관리 | 2026-11-10<br><sub>6.0일</sub> | 128 | 21.2 |
 
@@ -899,7 +899,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. | 2026-11-10<br><sub>6.5일</sub> | 104 | 16.1 |
+| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>Windows용 Codex에 애니메이션 시작 화면 추가 | 2026-11-10<br><sub>6.5일</sub> | 104 | 16.1 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

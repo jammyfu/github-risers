@@ -133,18 +133,18 @@
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 查找天文与天体物理领域的 AI 精选论文 | 天文学 &amp; 天体物理学领域 AI 论文精选列表。 |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 回测美股交易智能体，杜绝未来数据偷看 | 具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202… |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 一键复刻爆款短视频，拆解文案脚本 | 智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体… |
-| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) |  | Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini &amp; DeepSeek across 288 generation runs and 64 blind-r… |
-| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) |  | Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. |
+| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 让开源白板 AI 导师把课程画成动画 | 具有动画课程和交互式回放的开源白板 AI 导师。对比 Claude、Gemini &amp; DeepSeek 在 288 次生成运行和 64 次 blind-r… |
+| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) | 界面太像 AI 做的，用智能体技能修正 | 你的应用看起来像 AI 生成的。Dr. Unslopovich 注意到了。一个在移动应用、Web 应用和网站中查找并修复 AI 感 UI 和 UX 的智能体技能。 |
 | [pktq/lasik](https://github.com/pktq/lasik) | 为受 BLA 蒙蔽的智能体重新找回视野 | BLA 让你的智能体失明。LASIK 让它重见光明。静态去盲 CLI + MCP 服务器，可撤销 BLA（Blind LLM Agents）强化，使编码智能体和 REA… |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 用插件让 AI 编程智能体自动完成开发 | 适用于 AI 编程智能体（Claude Code、DeepSeek Harness、GitHub Copilot 等）的无需人工干预的开发插件 |
 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 在本地排查 CI 日志与开发环境报错 | 开发者阻碍，精准诊断。本地优先的 CI 日志分流、环境检查、经过审查的修复方案和事件对比。CLI + GitHub Action + 工作台。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
-| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | A Claude-inspired theme for T3 Code. One file, no fork. |
-| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) |  | A rounded variant of Geist font ▲ |
+| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
+| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 给界面换上圆角版 Geist 字体 | Geist 字体的圆角变体 ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | 让 AI 替你接电话并运行工具的开源总机 | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 小镇土地审批太繁琐？按地块统一管理 | 适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐层排查域名解析与历史 | 适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
-| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) |  | 星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. |
+| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) | 为 Windows 版 Codex 换上动漫开屏动画 | 星澜 · Windows 上 Codex 的动漫启动动画。为其他应用的动画启动器提供的开放基础。 |

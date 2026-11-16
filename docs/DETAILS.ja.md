@@ -121,7 +121,7 @@
 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | ローカルデスクトップAIがアプリやファイルを操作 | Capri：サイバーパンクHUDを備えたローカルファーストのデスクトップAIエージェント。Windows向けのパーソナルJarvis。ファイル、アプリ、ターミナル、ブラウザを制御し、Claude Cod… |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 数千のDOMノードを無限キャンバスに描画・編集 | 数千のライブDOMノードを無限のキャンバスに配置：GPUがそれらを描画し、エディターが選択、移動、サイズ変更を行い、シェーダーとトランジションがそれらの上で実行され、そして… |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | チャット横でClaude Codeの動作をリアルタイム表示 | Claude Codeが何をしているかをチャットの横に表示するライブマップ：ツール呼び出し、モデルステップ、フック、スキル、サブエージェントが実行時に点灯します。ローカルのみ、7… |
-| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) |  | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
+| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | API KeyでログインするClaudeデスクトップ版ツール | Claude アカウント不要！API Key をログインモードに変え、Claude デスクトップ版の全機能をアンロック（中国語化 / 音声 / コンピューター制御） |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 自然な言葉で質問し文ごとに根拠のある回答を得る | Windows向けAI OSINT調査ツール：平易な言葉で質問すると、すべての文に出典が付いた、公開ソースから構築された回答が得られます。 |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 文章からAI感を消して書き直す | STE80 Humanizer: AI の痕跡を除去し、テキストを ASD-STE100 (Simplified Technical English) の 80% まで書き直すエージェントスキル、Andrej Karpathy sh… |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AIで人気短編ドラマの脚本や撮影手順を分析 | AIでショートドラマを分解・学習：なぜヒットするのか、脚本はどう書くか、各カットをどう撮るか |
@@ -133,18 +133,18 @@
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 天文学と天体物理学のAI厳選論文を探す | 天文学 &amp; 天体物理学におけるAI論文の精選リスト。 |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 未来の情報を見せずに米国株取引AIを検証 | 未来を見通せないニュースバックテストを備えた米国株向けAI取引エージェント：公開LLM取引エージェントリーダーボード（rta-bench-1）、時点固定された202… |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | バズった短尺動画をワンクリックで複製・脚本分析 | エージェントネイティブなバズ動画スタジオ：ワンクリックでバズるショート動画を複製し、動画フックやスクリプトをViral DNAレポートに分解して、コスト計算済みの10個のバリエーションを出荷… |
-| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) |  | Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini &amp; DeepSeek across 288 generation runs and 64 blind-r… |
-| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) |  | Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. |
+| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | オープンソースの白板AI講師がアニメで授業 | アニメーション付きレッスンとインタラクティブな再生機能を備えたオープンソースのホワイトボード AI チューター。Claude、Gemini &amp; DeepSeek の比較：288 回の生成実行と 64 回の blind-r… |
+| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) | AIっぽいUIやUXをエージェントスキルで修正 | あなたのアプリは AI 生成のように見えます。Dr. Unslopovich は気づきました。モバイルアプリ、Web アプリ、ウェブサイトで AI っぽい UI や UX を見つけて修正するエージェントスキル。 |
 | [pktq/lasik](https://github.com/pktq/lasik) | BLAで視界を奪われたエージェントの目を治す | BLAはエージェントの目を眩ませます。LASIKはその視力を取り戻します。BLA（Blind LLM Agents）の強化を元に戻す静的盲目化解除CLI + MCPサーバーで、コーディングエージェントやREA… |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | プラグインでAIコーディングを自動化 | AI コーディングエージェント（Claude Code、DeepSeek Harness、GitHub Copilot など）向けのハンズオフ開発プラグイン |
 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | ローカルでCIログと環境エラーを自動診断 | 開発者の摩擦を診断。ローカルファーストのCIログトリアージ、環境チェック、レビュー済み修正、インシデント比較。CLI + GitHub Action + ワークベンチ。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcnで手軽にDynamic Islandを追加 | shadcn でインストールする、React 向けのオープンソース Dynamic Island。 |
-| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | A Claude-inspired theme for T3 Code. One file, no fork. |
-| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) |  | A rounded variant of Geist font ▲ |
+| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | フォーク不要、1ファイルでClaude風テーマに | Claude にインスパイアされた T3 Code 向けテーマ。1 ファイル、fork 不要。 |
+| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | Geistフォントに丸みのある柔らかさをプラス | Geist フォントの丸みを帯びたバリアント ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AIエージェントが電話対応するオープンソース交換台 | AIエージェントによって運用されるオープンソースの電話交換機。電話に応答し、通話中にツールを実行し、人間に相談し、通話が終了した後も作業を続行… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 町の申請業務が煩雑？土地利用を区画ごとに管理 | 米国の小さな町向けのオープンソース土地利用ソフトウェア：区画を中心にまとめられた許可、検査、計画委員会およびZBAの案件、法規遵守。 |
 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 動画や音楽が散らかる？セルフホスト型アプリで管理 | 番組、映画、音楽のための1つのセルフホスト型アプリ。 |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | WindowsでドメインのDNSや履歴を多層調査 | Windows向けOSINTドメインおよびインフラ偵察：任意のドメインのDNS、証明書、ホスティング、履歴をレイヤーごとに調査。 |
 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 秘密鍵に触れず60秒でSolanaノード状態を確認 | 60秒でわかる Solana バリデータの健全性：スコア、リーダー責務、報酬、ディスク予測、Prometheus。単一の静的バイナリ、読み取り専用、キーには一切触れません。 |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 使い捨て環境でバグを再現して自動修正 | TwinFix — 使い捨てのツイン環境でバグを診断、再現、修正するAIエージェント。 |
-| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) |  | 星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. |
+| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) | Windows版Codexにアニメ起動画面を追加 | 星澜 · Windows 上の Codex 向けアニメ起動アニメーション。他のアプリのアニメーション付きランチャーのためのオープンな基盤。 |

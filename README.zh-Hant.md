@@ -70,7 +70,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 2 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>讓本機桌面代理幫你操控應用與檔案 | 2026-11-14<br><sub>1.8 天</sub> | 346 | 193.3 |
 | 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千節點放進無限畫布，自由移動縮放 | 2026-11-12<br><sub>3.7 天</sub> | 507 | 136.4 |
 | 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什麼，邊聊邊看即時地圖 | 2026-11-09<br><sub>6.9 天</sub> | 912 | 132.4 |
-| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） | 2026-11-12<br><sub>4.4 天</sub> | 495 | 112.7 |
+| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>不用 Claude 帳號！把 API Key 變成登入模式，Claude 桌面版全功能解鎖（漢化 / 語音 / 電腦控制） | 2026-11-12<br><sub>4.4 天</sub> | 495 | 112.7 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白話提問，答案每句都有公開來源 | 2026-11-13<br><sub>3.1 天</sub> | 335 | 107.2 |
 | 7 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹除文字裡的 AI 痕跡並自動重寫 | 2026-11-09<br><sub>7.0 天</sub> | 723 | 103.8 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>跟著 AI 拆解熱門短劇的劇本與分鏡 | 2026-11-14<br><sub>2.2 天</sub> | 219 | 100.9 |
@@ -272,7 +272,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) | 2026-11-15<br><sub>1.2 天</sub> | 109 | 87.2 |
+| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>用外掛讓 AI 程式代理自動完成開發 | 2026-11-15<br><sub>1.2 天</sub> | 109 | 87.2 |
 | 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>在本機診斷 CI 紀錄與環境問題 | 2026-11-10<br><sub>6.0 天</sub> | 113 | 18.7 |
 
 <details>
@@ -573,8 +573,8 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 為 React 接入開源動態島 | 2026-11-13<br><sub>3.2 天</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>A Claude-inspired theme for T3 Code. One file, no fork. | 2026-11-14<br><sub>1.8 天</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>A rounded variant of Geist font ▲ | 2026-11-11<br><sub>4.9 天</sub> | 151 | 30.7 |
+| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>靈感源自 Claude 的 T3 Code 主題。單一檔案，無需 fork。 | 2026-11-14<br><sub>1.8 天</sub> | 122 | 68.6 |
+| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>給介面換上圓角版 Geist 字體 | 2026-11-11<br><sub>4.9 天</sub> | 151 | 30.7 |
 | 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>讓 AI 替你接電話並執行工具的開源總機 | 2026-11-11<br><sub>5.2 天</sub> | 120 | 23.2 |
 | 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>小鎮土地審批太繁瑣？依地塊統一管理 | 2026-11-10<br><sub>6.0 天</sub> | 128 | 21.2 |
 
@@ -899,7 +899,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. | 2026-11-10<br><sub>6.5 天</sub> | 104 | 16.1 |
+| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>為 Windows 版 Codex 換上動漫開機動畫 | 2026-11-10<br><sub>6.5 天</sub> | 104 | 16.1 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

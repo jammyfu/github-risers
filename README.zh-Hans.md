@@ -272,7 +272,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more) | 2026-11-15<br><sub>1.2 天</sub> | 109 | 87.2 |
+| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>用插件让 AI 编程智能体自动完成开发 | 2026-11-15<br><sub>1.2 天</sub> | 109 | 87.2 |
 | 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>在本地排查 CI 日志与开发环境报错 | 2026-11-10<br><sub>6.0 天</sub> | 113 | 18.7 |
 
 <details>
@@ -573,8 +573,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 为 React 接入开源灵动岛 | 2026-11-13<br><sub>3.2 天</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>A Claude-inspired theme for T3 Code. One file, no fork. | 2026-11-14<br><sub>1.8 天</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>A rounded variant of Geist font ▲ | 2026-11-11<br><sub>4.9 天</sub> | 151 | 30.7 |
+| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 | 2026-11-14<br><sub>1.8 天</sub> | 122 | 68.6 |
+| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>给界面换上圆角版 Geist 字体 | 2026-11-11<br><sub>4.9 天</sub> | 151 | 30.7 |
 | 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>让 AI 替你接电话并运行工具的开源总机 | 2026-11-11<br><sub>5.2 天</sub> | 120 | 23.2 |
 | 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>小镇土地审批太繁琐？按地块统一管理 | 2026-11-10<br><sub>6.0 天</sub> | 128 | 21.2 |
 
@@ -899,7 +899,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps. | 2026-11-10<br><sub>6.5 天</sub> | 104 | 16.1 |
+| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>为 Windows 版 Codex 换上动漫开屏动画 | 2026-11-10<br><sub>6.5 天</sub> | 104 | 16.1 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
