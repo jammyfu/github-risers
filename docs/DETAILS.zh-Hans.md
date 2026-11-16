@@ -121,7 +121,7 @@
 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 让本地桌面智能体帮你操控应用与文件 | Capri：带有赛博朋克 HUD 的本地优先桌面 AI 智能体。专属于您的 Windows 个人 Jarvis。可控制文件、应用、终端和浏览器，由 Claude Cod… |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
-| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) |  | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
+| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | 没有账号也能用 API 登录桌面版 | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
@@ -139,7 +139,7 @@
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 用插件让 AI 编程智能体自动完成开发 | 适用于 AI 编程智能体（Claude Code、DeepSeek Harness、GitHub Copilot 等）的无需人工干预的开发插件 |
 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 在本地排查 CI 日志与开发环境报错 | 开发者阻碍，精准诊断。本地优先的 CI 日志分流、环境检查、经过审查的修复方案和事件对比。CLI + GitHub Action + 工作台。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
-| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) |  | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
+| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 给界面换上圆角版 Geist 字体 | Geist 字体的圆角变体 ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | 让 AI 替你接电话并运行工具的开源总机 | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 小镇土地审批太繁琐？按地块统一管理 | 适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。 |

@@ -585,7 +585,9 @@
         "hook": {
           "en": "Claude desktop tool listed as logging in with API Key",
           "ja": "API KeyでログインするClaudeデスクトップ版ツール",
-          "ko": "API Key로 로그인하는 Claude 데스크톱 도구"
+          "ko": "API Key로 로그인하는 Claude 데스크톱 도구",
+          "zh-Hans": "没有账号也能用 API 登录桌面版",
+          "zh-Hant": "沒有帳號也能用 API 登入桌面版"
         }
       }
     },
@@ -6027,7 +6029,9 @@
         "hook": {
           "en": "Get a Claude-inspired theme for T3 Code in one file",
           "ja": "フォーク不要、1ファイルでClaude風テーマに",
-          "ko": "포크 없이 단일 파일로 Claude 스타일 테마 적용"
+          "ko": "포크 없이 단일 파일로 Claude 스타일 테마 적용",
+          "zh-Hans": "不用 fork，单文件就能换主题",
+          "zh-Hant": "不用 fork，單檔案就能換主題"
         }
       }
     },
