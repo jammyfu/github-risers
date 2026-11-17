@@ -54,6 +54,20 @@
       }
     },
     "AI4XE/Parallax": {
+      "488eb90b52d2": {
+        "src": "A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+        "zh-Hans": "一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。",
+        "seen": "2026-11-18",
+        "zh-Hant": "一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。",
+        "ja": "DeepSeek Harness、Claude Code、GitHub Copilot などを活用したハンズフリー AI コーディング向け軽量ワークフロープラグイン。",
+        "ko": "DeepSeek Harness, Claude Code, GitHub Copilot 등을 활용한 핸즈오프 AI 코딩을 위한 경량 워크플로 플러그인.",
+        "hook": {
+          "en": "A lightweight workflow plugin for hands-off AI coding",
+          "zh-Hans": "借助轻量工作流插件，省心进行 AI 编程",
+          "ja": "AIコーディング用の軽量ワークフロープラグイン",
+          "ko": "편리한 AI 코딩을 위한 경량 워크플로 플러그인"
+        }
+      },
       "66864e188bc9": {
         "src": "A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more)",
         "zh-Hans": "适用于 AI 编程智能体（Claude Code、DeepSeek Harness、GitHub Copilot 等）的无需人工干预的开发插件",
@@ -1142,6 +1156,38 @@
         }
       }
     },
+    "Dude-web/easywinget-gui": {
+      "664915449477": {
+        "src": "EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management",
+        "zh-Hans": "EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面",
+        "seen": "2026-11-18",
+        "zh-Hant": "EasyWinget GUI：用於無縫 Windows 套件管理的現代化 Web 介面",
+        "ja": "EasyWinget GUI: シームレスな Windows パッケージ管理のためのモダンな Web インターフェース",
+        "ko": "EasyWinget GUI: 매끄러운 Windows 패키지 관리를 위한 현대적인 웹 인터페이스",
+        "hook": {
+          "en": "Manage Windows packages easily in a web interface",
+          "zh-Hans": "用网页界面轻松管理 Windows 软件包",
+          "zh-Hant": "用網頁介面輕鬆管理 Windows 套件",
+          "ja": "Web画面でWindowsパッケージを楽に管理",
+          "ko": "웹 인터페이스로 Windows 패키지를 편리하게 관리"
+        }
+      }
+    },
+    "ELEL182/bunny-hopping-mod": {
+      "afa21ba1692b": {
+        "src": "Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery",
+        "zh-Hans": "Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握",
+        "seen": "2026-11-18",
+        "zh-Hant": "Bunny Hopping Mod：由 Fabric 驅動的動量與移動技巧掌握",
+        "ja": "Bunny Hopping Mod: Fabric を活用した運動量と移動の習得",
+        "ko": "Bunny Hopping Mod: Fabric 기반의 모멘텀 및 움직임 숙달",
+        "hook": {
+          "en": "Master momentum and movement with Fabric bunny hopping",
+          "ja": "Fabricで慣性を活かした連続ジャンプ移動を習得",
+          "ko": "Fabric에서 관성을 살려 연속 점프 이동을 숙달"
+        }
+      }
+    },
     "Exteriordadynamo/metatrader-5-bot": {
       "15470016df2e": {
         "src": "Metatrader 5 Bot 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup.",
@@ -2174,6 +2220,23 @@
         }
       }
     },
+    "Orderchodrag/smelt-minecraft-mods-to-rust-converter": {
+      "9a0719319f8f": {
+        "src": "Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w…",
+        "zh-Hans": "将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w…",
+        "seen": "2026-11-18",
+        "zh-Hant": "將 Smelt 指向 Java mod jar，它就會啟動 Horizon 的 Rust 移植：crates、traits 和可運行的建置。未完成的部分已標記，因此你可以準確知道 w…",
+        "ja": "SmeltをJava modのjarに向けると、Horizon向けのRust移植を開始します：crate、trait、そして実行可能なビルド。未完成の部分はマークされているため、正確にw…",
+        "ko": "Smelt를 Java 모드 jar로 지정하면 Horizon용 Rust 포팅을 시작합니다: crate, trait 및 실행 가능한 빌드. 미완성된 부분은 표시되어 있어 정확히 w…",
+        "hook": {
+          "en": "Porting Java mods to Rust? Turn jar files into runnable code",
+          "zh-Hans": "Java模组难移植？转出Rust代码",
+          "zh-Hant": "Java模組難移植？轉出Rust專案",
+          "ja": "Java ModのRust移植が大変？jarから自動変換",
+          "ko": "Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결"
+        }
+      }
+    },
     "OriginShaper/Microsoft-365": {
       "acafd56e89d8": {
         "src": "Microsoft 365 desktop utility configuration - complete standalone installation setup, ready to run with all features activated.",
@@ -2523,6 +2586,23 @@
           "en": "Microstation 2026 installer, listed as pre-activated",
           "ja": "Microstation 2026（事前有効化済み）",
           "ko": "Microstation 2026 사전 활성화 데스크톱 설치본"
+        }
+      }
+    },
+    "Realmeshowroom/jet-reports-skill": {
+      "29fe09e0451a": {
+        "src": "Jet Reports Skill: Visual Workbook Workflows NAV and Business Central",
+        "zh-Hans": "Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流",
+        "seen": "2026-11-18",
+        "zh-Hant": "Jet Reports 技能：NAV 與 Business Central 的視覺化活頁簿工作流程",
+        "ja": "Jet Reports スキル: NAV および Business Central 向けのビジュアルワークブックワークフロー",
+        "ko": "Jet Reports 스킬: NAV 및 Business Central용 시각적 통합 문서 워크플로",
+        "hook": {
+          "en": "Visualize and organize complex workbook workflows",
+          "zh-Hans": "直观理清并呈现工作簿工作流",
+          "zh-Hant": "直觀理清並呈現工作簿工作流程",
+          "ja": "ワークブックのワークフローを視覚的に整理",
+          "ko": "워크북 워크플로를 시각적으로 한눈에 정리"
         }
       }
     },
@@ -3618,6 +3698,23 @@
         }
       }
     },
+    "alibasimm1993/whalefeed": {
+      "c7c8f0b965b9": {
+        "src": "Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing",
+        "zh-Hans": "Whalefeed: 具备实时同步与结构化数据解析功能的桌面 Feed 聚合器",
+        "seen": "2026-11-18",
+        "zh-Hant": "Whalefeed: 具備即時同步與結構化資料解析功能的桌面 Feed 聚合器",
+        "ja": "Whalefeed: リアルタイム同期と構造化データ解析を備えたデスクトップフィードアグリゲーター",
+        "ko": "Whalefeed: 실시간 동기화 및 구조화된 데이터 파싱 기능을 갖춘 데스크톱 피드 애그리게이터",
+        "hook": {
+          "en": "Follow all your feeds in real-time right on your desktop",
+          "zh-Hans": "在桌面实时同步，轻松追踪所有订阅",
+          "zh-Hant": "在桌面即時同步，輕鬆追蹤所有訂閱",
+          "ja": "デスクトップでフィードをリアルタイム同期",
+          "ko": "데스크톱에서 모든 피드를 실시간으로 동기화"
+        }
+      }
+    },
     "andyhuo520/digital-human-koubo": {
       "07d898e09358": {
         "src": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude…",
@@ -4037,6 +4134,23 @@
         }
       }
     },
+    "boringmarketer/boring-marketing-skills": {
+      "067cdd134b94": {
+        "src": "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+        "zh-Hans": "为你的 AI 智能体提供的 31 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。",
+        "seen": "2026-11-18",
+        "zh-Hant": "為你的 AI 代理提供的 31 個免費行銷技能：研究、定位、文案、頁面、SEO、AI 搜尋、廣告、電子郵件和內容，外加深度的本機商業包。MIT。",
+        "ja": "AIエージェント向けの31の無料マーケティングスキル：リサーチ、ポジショニング、コピー、ページ、SEO、AI検索、広告、メール、コンテンツ、さらに詳細なローカルビジネスパック。MIT。",
+        "ko": "AI 에이전트를 위한 31가지 무료 마케팅 스킬: 리서치, 포지셔닝, 카피, 페이지, SEO, AI 검색, 광고, 이메일 및 콘텐츠, 그리고 심층적인 로컬 비즈니스 팩. MIT.",
+        "hook": {
+          "en": "Agent bad at marketing? Add 31 free skills to handle it",
+          "zh-Hans": "智能体不会营销？装上31个免费营销技能",
+          "zh-Hant": "代理不懂行銷？裝上31個免費行銷技能",
+          "ja": "エージェントの集客力不足？31種の無料マーケスキル",
+          "ko": "에이전트 마케팅이 고민일 때? 31가지 무료 스킬 추가"
+        }
+      }
+    },
     "bravecrownvalve/ai--manus": {
       "9f0c6d8c2759": {
         "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
@@ -4051,6 +4165,23 @@
           "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
           "ja": "サンドボックスでAIエージェントにツールを実行させる",
           "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
+    "brightsheikhfold/minecraft-ai-mod-builder": {
+      "27c61eec52d0": {
+        "src": "Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.…",
+        "zh-Hans": "在 Minecraft 中随性建造。在你的终端中描述建筑，在世界中将其呈现为蓝图，一步完成放置并一步撤销。还能编写数据包。…",
+        "seen": "2026-11-18",
+        "zh-Hant": "在 Minecraft 中隨性建造。在你的終端機中描述建築，在世界中將其呈現為藍圖，一步完成放置並一步復原。還能編寫資料包。…",
+        "ja": "Minecraft で直感的に建築。ターミナルで建築を説明し、ワールド内で設計図として確認し、1ステップで配置して1ステップで元に戻す。データパックも作成。…",
+        "ko": "Minecraft에서 느낌대로 건축하기. 터미널에서 건축물을 설명하고, 월드에서 청사진으로 확인하며, 한 단계로 배치하고 한 단계로 실행 취소합니다. 데이터 팩도 작성합니다.…",
+        "hook": {
+          "en": "Describe a build in terminal and place it in Minecraft",
+          "zh-Hans": "在终端描述建筑，一键直接放到世界里",
+          "zh-Hant": "在終端機描述建築，一鍵直接放到世界裡",
+          "ja": "ターミナルで指示し、一発で世界に建築",
+          "ko": "터미널로 지시하고 한 번에 세계에 건축"
         }
       }
     },
@@ -4367,6 +4498,22 @@
         }
       }
     },
+    "diego3g/craft": {
+      "67aad2bfbd88": {
+        "src": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works wit…",
+        "zh-Hans": "AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit…",
+        "seen": "2026-11-18",
+        "zh-Hant": "AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit…",
+        "ja": "AIエージェント向けのデザインスキル：/craft-setup がデザインブリーフを作成し、/craft がデザインシステムからあらゆる状態の画面をデザインしてレビューします。Works wit…",
+        "ko": "AI 에이전트를 위한 디자인 스킬: /craft-setup이 디자인 브리프를 작성하고, /craft가 디자인 시스템의 모든 상태를 포함한 화면을 디자인하고 검토합니다. Works wit…",
+        "hook": {
+          "en": "UI design takes too long? Let AI agents craft every screen",
+          "zh-Hans": "界面设计太繁琐？让智能体画全状态页面",
+          "ja": "画面設計が面倒？エージェントスキルで全状態をデザイン",
+          "ko": "화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인"
+        }
+      }
+    },
     "dikshantghimire321-droid/kontakt-8-config": {
       "7b35c5b102c7": {
         "src": "Kontakt 8 desktop utility config: opinionated dotfiles, ready to run",
@@ -4472,6 +4619,23 @@
           "ja": "エージェントが作った画面、デザイン崩れを点検する",
           "ko": "에이전트가 만든 화면의 디자인 규칙 위반을 점검한다",
           "zh-Hans": "AI 智能体写的界面，帮你检查设计规范"
+        }
+      }
+    },
+    "erkamyaman/rust-anything": {
+      "bbc00434d813": {
+        "src": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc…",
+        "zh-Hans": "将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库…",
+        "seen": "2026-11-18",
+        "zh-Hant": "將你的整個應用程式逐步用 Rust 重寫，每一步都對照原始記錄的行為進行檢查。TypeSc 中的 CLI、HTTP 伺服器和函式庫…",
+        "ja": "アプリ全体を一度に1つずつRustで書き直し、各ステップでオリジナルの記録された動作と照合して確認します。TypeScで作成されたCLI、HTTPサーバー、ライブラリ…",
+        "ko": "앱 전체를 한 번에 하나씩 Rust로 재작성하고, 모든 단계에서 원본의 기록된 동작과 대조하여 확인합니다. TypeSc의 CLI, HTTP 서버 및 라이브러리…",
+        "hook": {
+          "en": "Afraid to rewrite in Rust? Migrate piece by piece safely",
+          "zh-Hans": "想换成 Rust？对照原行为一步步迁移",
+          "zh-Hant": "想換成 Rust？對照原行為一步步遷移",
+          "ja": "Rust移行が不安？動作を確認しつつ段階移行",
+          "ko": "Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환"
         }
       }
     },
@@ -4719,6 +4883,23 @@
           "ko": "API 키 없이 Claude를 잇는 MCP 서버",
           "zh-Hans": "知识库连Claude，无需API密钥",
           "zh-Hant": "知識庫連Claude，免用API金鑰"
+        }
+      }
+    },
+    "govijr/fix-storage": {
+      "8f123f646c82": {
+        "src": "A CLI to fix your mac's storage problems, just run fix-storage.",
+        "zh-Hans": "用于解决 mac 存储问题的 CLI，只需运行 fix-storage。",
+        "seen": "2026-11-18",
+        "zh-Hant": "用於解決 mac 儲存問題的 CLI，只需運行 fix-storage。",
+        "ja": "mac のストレージ問題を解決する CLI。fix-storage を実行するだけです。",
+        "ko": "mac의 저장 공간 문제를 해결하는 CLI로, fix-storage만 실행하면 됩니다.",
+        "hook": {
+          "en": "Run a simple CLI command to fix Mac storage problems",
+          "zh-Hans": "运行 CLI，轻松修复 Mac 存储空间问题",
+          "zh-Hant": "執行 CLI，輕鬆修復 Mac 儲存空間問題",
+          "ja": "CLIを実行してMacの容量問題をすっきり解決",
+          "ko": "CLI 실행으로 Mac의 저장 공간 문제를 해결"
         }
       }
     },
@@ -5435,6 +5616,23 @@
         "en": "Website legal audit under Vietnamese law (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) for Claude Code, Cursor, Copilot, Windsurf, Cline"
       }
     },
+    "mmclucknorrismm/cmangos-helm": {
+      "e1fd0cd5b77f": {
+        "src": "CMaNGOS Helm: Wield the Helm, Command Your Realm",
+        "zh-Hans": "CMaNGOS Helm: 执掌 Helm，统御你的领域",
+        "seen": "2026-11-18",
+        "zh-Hant": "CMaNGOS Helm: 執掌 Helm，統御你的領域",
+        "ja": "CMaNGOS Helm: Helm を操り、あなたのレルムを統べる",
+        "ko": "CMaNGOS Helm: Helm을 쥐고, 당신의 영역을 지휘하세요",
+        "hook": {
+          "en": "Command and manage your CMaNGOS realm with Helm",
+          "zh-Hans": "用Helm掌控并管理你的CMaNGOS领域",
+          "zh-Hant": "用Helm掌控並管理你的CMaNGOS領域",
+          "ja": "Helmを使ってCMaNGOSレルムを自在に指揮",
+          "ko": "Helm으로 CMaNGOS 렐름을 손쉽게 지휘"
+        }
+      }
+    },
     "mochiiwuff/capri-desktop": {
       "425253e2de0a": {
         "src": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
@@ -5798,6 +5996,23 @@
         }
       }
     },
+    "parth888/runtime-forge": {
+      "91062c8e7e93": {
+        "src": "Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust,",
+        "zh-Hans": "Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust，",
+        "seen": "2026-11-18",
+        "zh-Hant": "Runtime Forge CLI：檢查、安裝、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust，",
+        "ja": "Runtime Forge CLI: DirectX、VC++、.NET、Java、Python、Go、Rust の検査、インストール、アップデート、削除、",
+        "ko": "Runtime Forge CLI: DirectX, VC++, .NET, Java, Python, Go, Rust 검사, 설치, 업데이트 및 제거,",
+        "hook": {
+          "en": "Inspect, install, and update your runtimes in CLI",
+          "zh-Hans": "用 CLI 检查、安装并更新常用运行库",
+          "zh-Hant": "用 CLI 檢查、安裝並更新常用執行階段",
+          "ja": "CLIで各種ランタイムの確認・導入・更新",
+          "ko": "CLI로 다양한 런타임을 점검, 설치, 업데이트"
+        }
+      }
+    },
     "patch-gg/anymove": {
       "eeffd1cbf6fb": {
         "src": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
@@ -6003,6 +6218,21 @@
         }
       }
     },
+    "restordinaryjoint/python-script-cradle": {
+      "08758b2066e2": {
+        "src": "Cradle of small Python automation scripts — files, mail, scraping.",
+        "zh-Hans": "小型 Python 自动化脚本的摇篮 —— 文件、邮件、爬取。",
+        "seen": "2026-11-18",
+        "zh-Hant": "小型 Python 自動化腳本的搖籃 —— 檔案、郵件、爬取。",
+        "ja": "小さな Python 自動化スクリプトのゆりかご — ファイル、メール、スクレイピング。",
+        "ko": "소형 Python 자동화 스크립트의 요람 — 파일, 메일, 스크래핑.",
+        "hook": {
+          "en": "Python automation scripts for files, mail, and scraping",
+          "ja": "ファイル・メール・収集用の小型Python自動化スクリプト",
+          "ko": "파일·메일·스크래핑용 소형 Python 자동화 스크립트"
+        }
+      }
+    },
     "rivetpelicanstir/total-commander": {
       "97451f24dbb2": {
         "src": "Total Commander 10.5 - Full working installer with all plugins and settings included for seamless desktop experience.",
@@ -6073,6 +6303,23 @@
           "zh-Hant": "像素級復刻任意網站，再改成自己的",
           "ja": "好きなサイトをピクセル単位で再現して改造する",
           "ko": "원하는 웹사이트를 픽셀 단위로 똑같이 복제하고 수정"
+        }
+      }
+    },
+    "s-warren725/solana-node-notes": {
+      "8f9a8d6ff323": {
+        "src": "Validator hobbyist notes for Solana — hardware sizing and care tasks.",
+        "zh-Hans": "Solana 验证节点爱好者笔记 —— 硬件选型与维护任务。",
+        "seen": "2026-11-18",
+        "zh-Hant": "Solana 驗證節點愛好者筆記 —— 硬體規格評估與維護任務。",
+        "ja": "Solana バリデータ愛好家向けノート — ハードウェアサイジングとお手入れタスク。",
+        "ko": "Solana 검증인 애호가를 위한 노트 — 하드웨어 사이징 및 관리 작업.",
+        "hook": {
+          "en": "Pick the right hardware and care for your Solana validator",
+          "zh-Hans": "不知如何配节点？理清Solana硬件与维护",
+          "zh-Hant": "不知如何配節點？理清Solana硬體與維護",
+          "ja": "Solanaノードの機器選びや日常保守を整理",
+          "ko": "솔라나 노드 하드웨어 선택과 일상 관리 정리"
         }
       }
     },
@@ -6410,6 +6657,21 @@
         }
       }
     },
+    "staryone/motlab": {
+      "632d1b862bb6": {
+        "src": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+        "zh-Hans": "视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。",
+        "seen": "2026-11-18",
+        "zh-Hant": "影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。",
+        "ja": "コードとしての動画：ヘッドレスChromeでWebCodecsを使用してレンダリングされるcanvasシーン、レビュービューア、そして参考資料から動画を構築するエージェントスキル。",
+        "ko": "코드로서의 비디오: 헤드리스 Chrome에서 WebCodecs로 렌더링된 canvas 장면, 검토 뷰어, 참조 자료를 바탕으로 비디오를 제작하는 에이전트 스킬.",
+        "hook": {
+          "en": "Want to make videos with code? Let agents build from refs",
+          "ja": "コードで動画を作りたい？素材からエージェントが生成",
+          "ko": "코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작"
+        }
+      }
+    },
     "stevenmichaelthomas/numbrone": {
       "d36be4616011": {
         "src": "A chief of staff for your coding agents: route requests to per-project manager agents that run parallel workers in git worktrees, on herdr.",
@@ -6442,6 +6704,23 @@
           "zh-Hant": "比較AI程式開發方案與API價格",
           "ja": "AIコーディングプランとAPI料金を比較",
           "ko": "AI 코딩 요금제와 API 가격 비교"
+        }
+      }
+    },
+    "sybil-solutions/inference-optimisation-skill": {
+      "8e3e26c1c8a8": {
+        "src": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "zh-Hans": "用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能",
+        "seen": "2026-11-18",
+        "zh-Hant": "用於在任何硬體與量化條件下透過爬山法提升本機 LLM 伺服速度（解碼、投機解碼、預填、KV、啟動、TTFT）的代理技能",
+        "ja": "あらゆるハードウェアおよび量子化環境でローカルLLMサービング速度（デコード、投機的デコード、プレフィル、KV、起動、TTFT）を山登り法で向上させるエージェントスキル",
+        "ko": "모든 하드웨어 및 양자화에서 로컬 LLM 서빙 속도(디코드, 투기적 디코딩, 프리필, KV, 시작, TTFT)를 힐클라이밍으로 개선하는 에이전트 스킬",
+        "hook": {
+          "en": "Local LLM too slow? Let an agent boost serving speed",
+          "zh-Hans": "本地LLM太慢？让智能体技能帮你加速",
+          "zh-Hant": "本機LLM太慢？讓代理技能幫你調優提速",
+          "ja": "ローカルLLMが遅い？エージェントスキルで高速化",
+          "ko": "로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선"
         }
       }
     },
@@ -6483,6 +6762,23 @@
           "zh-Hant": "AI總記不住聊天？為角色添上持久記憶",
           "ja": "AIが会話を忘れてしまう？キャラに長期記憶を即追加",
           "ko": "대화를 자꾸 잊는 AI, 캐릭터에게 오래가는 기억을"
+        }
+      }
+    },
+    "tdawalton1-alt/microsoft-powerpoint": {
+      "07890dc70147": {
+        "src": "Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices",
+        "zh-Hans": "Windows 上的 Microsoft PowerPoint：设计、组织与导出最佳实践",
+        "seen": "2026-11-18",
+        "zh-Hant": "Windows 上的 Microsoft PowerPoint：設計、組織與匯出最佳做法",
+        "ja": "Windows 版 Microsoft PowerPoint: デザイン、整理、エクスポートのベストプラクティス",
+        "ko": "Windows 기반 Microsoft PowerPoint: 디자인, 구성 및 내보내기 모범 사례",
+        "hook": {
+          "en": "Microsoft PowerPoint design and export best practices",
+          "zh-Hans": "Microsoft PowerPoint设计与导出实践",
+          "zh-Hant": "Microsoft PowerPoint設計與匯出實踐",
+          "ja": "Microsoft PowerPointの設計指針",
+          "ko": "Microsoft PowerPoint 모범 사례"
         }
       }
     },
@@ -6804,6 +7100,42 @@
         }
       }
     },
+    "ysunyang4/Nexus": {
+      "cb0c3e2e341c": {
+        "src": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
+        "zh-Hans": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
+        "seen": "2026-11-18",
+        "zh-Hant": "Web AI for local work：讓網頁版 AI 直接操作你的本機檔案和電腦，配套瀏覽器外掛 webagent",
+        "ja": "Web AI for local work：Web版AIがローカルファイルやPCを直接操作できるようにし、ブラウザ拡張機能webagentが付属",
+        "ko": "Web AI for local work: 웹 버전 AI가 로컬 파일과 컴퓨터를 직접 조작할 수 있도록 지원, 브라우저 확장 프로그램 webagent 제공",
+        "en": "Web AI for local work: Let web-based AI directly operate your local files and computer, with companion browser extension webagent",
+        "hook": {
+          "en": "Web AI trapped in browser? Let it manage your local files",
+          "zh-Hans": "网页AI管不了电脑？让它操作本地文件",
+          "zh-Hant": "網頁AI管不了電腦？讓它操作本機檔案",
+          "ja": "WebのAIがPCを触れない？ローカルファイルを直接操作",
+          "ko": "웹 AI로 PC 작업이 안 될 때? 로컬 파일을 직접 제어"
+        }
+      }
+    },
+    "ysunyang4/webagent": {
+      "e513658cfddf": {
+        "src": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用",
+        "zh-Hans": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用",
+        "seen": "2026-11-18",
+        "zh-Hant": "Nexus 的瀏覽器外掛：讓 DeepSeek、Gemini、ChatGPT、Kimi 等網頁版 AI 透過 MCP 呼叫本機工具，需配合 Nexus 使用",
+        "ja": "Nexusのブラウザ拡張機能：DeepSeek、Gemini、ChatGPT、KimiなどのWeb版AIがMCP経由でローカルツールを呼び出せるようにし、Nexusと連携して使用",
+        "ko": "Nexus의 브라우저 확장 프로그램: DeepSeek, Gemini, ChatGPT, Kimi 등 웹 버전 AI가 MCP를 통해 로컬 도구를 호출할 수 있도록 지원하며, Nexus와 함께 사용해야 함",
+        "en": "Nexus browser extension: Allows web-based AI such as DeepSeek, Gemini, ChatGPT, Kimi to call local tools via MCP, requires use with Nexus",
+        "hook": {
+          "en": "Web AI can't use your tools? Call local tools via MCP",
+          "zh-Hans": "网页AI缺工具？用MCP调用本地工具",
+          "zh-Hant": "網頁AI缺工具？用MCP呼叫本機工具",
+          "ja": "WebのAIでツールを使いたい？MCPでローカルを実行",
+          "ko": "웹 AI로 로컬 도구를 못 쓸 때? MCP로 간편하게 호출"
+        }
+      }
+    },
     "yucezerey/turkish-anti-ai-skill": {
       "11f7da3976c1": {
         "src": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
@@ -6819,6 +7151,23 @@
           "zh-Hant": "去掉土耳其語文章裡的 AI 痕跡",
           "ja": "トルコ語の文章からAIの痕跡を取り除く",
           "ko": "튀르키예어 글에서 AI 흔적 지우기"
+        }
+      }
+    },
+    "zaxd122/cmp30hx-mod": {
+      "ccec8bcd3ee8": {
+        "src": "CMP30HX Mod: Shape the World, Share the Craft, Build It Together",
+        "zh-Hans": "CMP30HX Mod：塑造世界，分享技艺，共同建造",
+        "seen": "2026-11-18",
+        "zh-Hant": "CMP30HX Mod：塑造世界，分享工藝，共同建造",
+        "ja": "CMP30HX Mod: 世界を形作り、技術を共有し、共に築く",
+        "ko": "CMP30HX Mod: 세상을 형성하고, 공예를 공유하며, 함께 건설하세요",
+        "hook": {
+          "en": "Shape the world, share your craft, and build together",
+          "zh-Hans": "塑造世界并分享手艺，与大家一起建造",
+          "zh-Hant": "塑造世界並分享手藝，與大家一起建造",
+          "ja": "世界を形作り、作品を共有して共に建築",
+          "ko": "세상을 빚고 작품을 공유하며 함께 건축"
         }
       }
     },

@@ -66,15 +66,15 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization | 2026-11-16<br><sub>1.0일</sub> | 704 | 704.0 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… | 2026-11-16<br><sub>1.2일</sub> | 578 | 489.1 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>1.1일</sub> | 440 | 416.2 |
+| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 2026-11-16<br><sub>1.0일</sub> | 704 | 704.0 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 2026-11-16<br><sub>1.2일</sub> | 578 | 489.1 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>에이전트 마케팅이 고민일 때? 31가지 무료 스킬 추가 | 2026-11-16<br><sub>1.1일</sub> | 440 | 416.2 |
 | 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>내 컴퓨터에만 보관하는 AI 회의 메모 | 2026-11-10<br><sub>6.8일</sub> | 1,969 | 287.2 |
-| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. | 2026-11-16<br><sub>1.1일</sub> | 157 | 140.7 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 2026-11-16<br><sub>1.1일</sub> | 157 | 140.7 |
 | 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API Key로 로그인하는 Claude 데스크톱 도구 | 2026-11-12<br><sub>5.4일</sub> | 588 | 109.0 |
 | 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>수천 개의 DOM 노드를 무한 캔버스에서 편집 | 2026-11-12<br><sub>4.7일</sub> | 510 | 108.1 |
 | 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | 2026-11-13<br><sub>4.1일</sub> | 440 | 106.6 |
-| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent | 2026-11-13<br><sub>4.1일</sub> | 365 | 88.7 |
+| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>웹 AI로 PC 작업이 안 될 때? 로컬 파일을 직접 제어 | 2026-11-13<br><sub>4.1일</sub> | 365 | 88.7 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 2026-11-12<br><sub>5.0일</sub> | 409 | 81.4 |
 
 <details>
@@ -272,14 +272,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… | 2026-11-16<br><sub>1.0일</sub> | 256 | 247.7 |
-| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… | 2026-11-16<br><sub>1.0일</sub> | 165 | 159.6 |
-| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>CMP30HX Mod: Shape the World, Share the Craft, Build It Together | 2026-11-16<br><sub>1.2일</sub> | 113 | 95.1 |
-| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, | 2026-11-15<br><sub>1.8일</sub> | 115 | 62.8 |
-| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management | 2026-11-15<br><sub>1.9일</sub> | 115 | 61.7 |
-| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. | 2026-11-15<br><sub>2.2일</sub> | 136 | 60.4 |
-| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's storage problems, just run fix-storage. | 2026-11-14<br><sub>3.0일</sub> | 117 | 39.1 |
-| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Cradle of small Python automation scripts — files, mail, scraping. | 2026-11-15<br><sub>1.9일</sub> | 100 | 53.7 |
+| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | 2026-11-16<br><sub>1.0일</sub> | 256 | 247.7 |
+| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>터미널로 지시하고 한 번에 세계에 건축 | 2026-11-16<br><sub>1.0일</sub> | 165 | 159.6 |
+| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>세상을 빚고 작품을 공유하며 함께 건축 | 2026-11-16<br><sub>1.2일</sub> | 113 | 95.1 |
+| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLI로 다양한 런타임을 점검, 설치, 업데이트 | 2026-11-15<br><sub>1.8일</sub> | 115 | 62.8 |
+| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>웹 인터페이스로 Windows 패키지를 편리하게 관리 | 2026-11-15<br><sub>1.9일</sub> | 115 | 61.7 |
+| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>편리한 AI 코딩을 위한 경량 워크플로 플러그인 | 2026-11-15<br><sub>2.2일</sub> | 136 | 60.4 |
+| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>CLI 실행으로 Mac의 저장 공간 문제를 해결 | 2026-11-14<br><sub>3.0일</sub> | 117 | 39.1 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>파일·메일·스크래핑용 소형 Python 자동화 스크립트 | 2026-11-15<br><sub>1.9일</sub> | 100 | 53.7 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -591,7 +591,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcn으로 Dynamic Island 바로 설치 | 2026-11-13<br><sub>4.2일</sub> | 791 | 188.5 |
-| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery | 2026-11-15<br><sub>1.9일</sub> | 112 | 59.8 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Fabric에서 관성을 살려 연속 점프 이동을 숙달 | 2026-11-15<br><sub>1.9일</sub> | 112 | 59.8 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>포크 없이 단일 파일로 Claude 스타일 테마 적용 | 2026-11-14<br><sub>2.8일</sub> | 127 | 45.7 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>일회용 트윈 환경에서 버그를 재현하고 수정 | 2026-11-13<br><sub>4.3일</sub> | 130 | 29.9 |
 | 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>둥근 모서리의 Geist 폰트로 부드러운 느낌 연출 | 2026-11-11<br><sub>5.9일</sub> | 172 | 29.1 |
@@ -758,11 +758,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>Validator hobbyist notes for Solana — hardware sizing and care tasks. | 2026-11-16<br><sub>1.0일</sub> | 101 | 101.0 |
-| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>CMaNGOS Helm: Wield the Helm, Command Your Realm | 2026-11-15<br><sub>1.9일</sub> | 118 | 63.1 |
-| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Jet Reports Skill: Visual Workbook Workflows NAV and Business Central | 2026-11-15<br><sub>1.9일</sub> | 116 | 62.7 |
+| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>솔라나 노드 하드웨어 선택과 일상 관리 정리 | 2026-11-16<br><sub>1.0일</sub> | 101 | 101.0 |
+| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | 2026-11-15<br><sub>1.9일</sub> | 118 | 63.1 |
+| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>워크북 워크플로를 시각적으로 한눈에 정리 | 2026-11-15<br><sub>1.9일</sub> | 116 | 62.7 |
 | 4 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>Windows에서 도메인 DNS와 이력을 단계별 조사 | 2026-11-13<br><sub>4.1일</sub> | 161 | 39.4 |
-| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices | 2026-11-15<br><sub>1.8일</sub> | 115 | 62.4 |
+| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint 모범 사례 | 2026-11-15<br><sub>1.8일</sub> | 115 | 62.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -1067,7 +1067,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing | 2026-11-15<br><sub>1.8일</sub> | 115 | 63.3 |
+| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>데스크톱에서 모든 피드를 실시간으로 동기화 | 2026-11-15<br><sub>1.8일</sub> | 115 | 63.3 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

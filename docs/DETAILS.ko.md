@@ -117,43 +117,43 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
-| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |  | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization |
-| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) |  | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… |
-| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) |  | 31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. |
+| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 모든 하드웨어 및 양자화에서 로컬 LLM 서빙 속도(디코드, 투기적 디코딩, 프리필, KV, 시작, TTFT)를 힐클라이밍으로 개선하는 에이전트 스킬 |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 앱 전체를 한 번에 하나씩 Rust로 재작성하고, 모든 단계에서 원본의 기록된 동작과 대조하여 확인합니다. TypeSc의 CLI, HTTP 서버 및 라이브러리… |
+| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 에이전트 마케팅이 고민일 때? 31가지 무료 스킬 추가 | AI 에이전트를 위한 31가지 무료 마케팅 스킬: 리서치, 포지셔닝, 카피, 페이지, SEO, AI 검색, 광고, 이메일 및 콘텐츠, 그리고 심층적인 로컬 비즈니스 팩. MIT. |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 내 컴퓨터에만 보관하는 AI 회의 메모 | 컴퓨터에 보관되는 비공개 AI 회의록. Mac, Windows 및 Linux용 무료 오픈 소스 Granola 대안. |
-| [staryone/motlab](https://github.com/staryone/motlab) |  | Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. |
+| [staryone/motlab](https://github.com/staryone/motlab) | 코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 코드로서의 비디오: 헤드리스 Chrome에서 WebCodecs로 렌더링된 canvas 장면, 검토 뷰어, 참조 자료를 바탕으로 비디오를 제작하는 에이전트 스킬. |
 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | API Key로 로그인하는 Claude 데스크톱 도구 | Claude 계정 불필요! API Key를 로그인 모드로 전환하여 Claude 데스크톱 버전 전체 기능 잠금 해제(중국어화 / 음성 / 컴퓨터 제어) |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
-| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) |  | Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent |
+| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | 웹 AI로 PC 작업이 안 될 때? 로컬 파일을 직접 제어 | Web AI for local work: 웹 버전 AI가 로컬 파일과 컴퓨터를 직접 조작할 수 있도록 지원, 브라우저 확장 프로그램 webagent 제공 |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3단계 검토 파이프라인으로 AI 코드를 감사 | 4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)… |
-| [diego3g/craft](https://github.com/diego3g/craft) |  | Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works wit… |
+| [diego3g/craft](https://github.com/diego3g/craft) | 화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | AI 에이전트를 위한 디자인 스킬: /craft-setup이 디자인 브리프를 작성하고, /craft가 디자인 시스템의 모든 상태를 포함한 화면을 디자인하고 검토합니다. Works wit… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 천문학과 천체물리학 분야의 AI 엄선 논문 찾기 | 천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록. |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 원클릭으로 인기 숏폼을 복제하고 대본 분석 | 에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작… |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 미래 정보 유출 없이 미국 주식 거래 에이전트 검증 | 미래를 볼 수 없는 뉴스 백테스팅을 갖춘 미국 주식용 AI 트레이딩 에이전트: 공개 LLM 트레이딩 에이전트 리더보드(rta-bench-1), 특정 시점으로 고정된 202… |
 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 오픈 소스 화이트보드 AI 튜터로 수업 시청 | 애니메이션 강의와 대화형 재생 기능을 갖춘 오픈 소스 화이트보드 AI 튜터. Claude, Gemini &amp; DeepSeek 비교: 288회의 생성 실행과 64회의 blind-r… |
-| [ysunyang4/webagent](https://github.com/ysunyang4/webagent) |  | Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用 |
-| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) |  | Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… |
-| [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder) |  | Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… |
-| [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) |  | CMP30HX Mod: Shape the World, Share the Craft, Build It Together |
-| [parth888/runtime-forge](https://github.com/parth888/runtime-forge) |  | Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, |
-| [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) |  | EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. |
-| [govijr/fix-storage](https://github.com/govijr/fix-storage) |  | A CLI to fix your mac's storage problems, just run fix-storage. |
-| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) |  | Cradle of small Python automation scripts — files, mail, scraping. |
+| [ysunyang4/webagent](https://github.com/ysunyang4/webagent) | 웹 AI로 로컬 도구를 못 쓸 때? MCP로 간편하게 호출 | Nexus의 브라우저 확장 프로그램: DeepSeek, Gemini, ChatGPT, Kimi 등 웹 버전 AI가 MCP를 통해 로컬 도구를 호출할 수 있도록 지원하며, Nexus와 함께 사용해야 함 |
+| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | Smelt를 Java 모드 jar로 지정하면 Horizon용 Rust 포팅을 시작합니다: crate, trait 및 실행 가능한 빌드. 미완성된 부분은 표시되어 있어 정확히 w… |
+| [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder) | 터미널로 지시하고 한 번에 세계에 건축 | Minecraft에서 느낌대로 건축하기. 터미널에서 건축물을 설명하고, 월드에서 청사진으로 확인하며, 한 단계로 배치하고 한 단계로 실행 취소합니다. 데이터 팩도 작성합니다.… |
+| [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 세상을 빚고 작품을 공유하며 함께 건축 | CMP30HX Mod: 세상을 형성하고, 공예를 공유하며, 함께 건설하세요 |
+| [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLI로 다양한 런타임을 점검, 설치, 업데이트 | Runtime Forge CLI: DirectX, VC++, .NET, Java, Python, Go, Rust 검사, 설치, 업데이트 및 제거, |
+| [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 웹 인터페이스로 Windows 패키지를 편리하게 관리 | EasyWinget GUI: 매끄러운 Windows 패키지 관리를 위한 현대적인 웹 인터페이스 |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 편리한 AI 코딩을 위한 경량 워크플로 플러그인 | DeepSeek Harness, Claude Code, GitHub Copilot 등을 활용한 핸즈오프 AI 코딩을 위한 경량 워크플로 플러그인. |
+| [govijr/fix-storage](https://github.com/govijr/fix-storage) | CLI 실행으로 Mac의 저장 공간 문제를 해결 | mac의 저장 공간 문제를 해결하는 CLI로, fix-storage만 실행하면 됩니다. |
+| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) | 파일·메일·스크래핑용 소형 Python 자동화 스크립트 | 소형 Python 자동화 스크립트의 요람 — 파일, 메일, 스크래핑. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcn으로 Dynamic Island 바로 설치 | shadcn으로 설치되는 React용 오픈 소스 Dynamic Island. |
-| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) |  | Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery |
+| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabric에서 관성을 살려 연속 점프 이동을 숙달 | Bunny Hopping Mod: Fabric 기반의 모멘텀 및 움직임 숙달 |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 포크 없이 단일 파일로 Claude 스타일 테마 적용 | Claude에서 영감을 받은 T3 Code용 테마. 단일 파일, fork 불필요. |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 일회용 트윈 환경에서 버그를 재현하고 수정 | TwinFix — 일회용 트윈 환경에서 버그를 진단, 재현 및 수정하는 AI 에이전트. |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 둥근 모서리의 Geist 폰트로 부드러운 느낌 연출 | Geist 폰트의 둥근 변형 ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | AI 에이전트가 운영하는 오픈 소스 전화 교환기. 전화를 받고, 통화 중 도구를 실행하며, 사람에게 상담하고, 통화가 종료된 후에도 작업을 계속… |
-| [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes) |  | Validator hobbyist notes for Solana — hardware sizing and care tasks. |
-| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) |  | CMaNGOS Helm: Wield the Helm, Command Your Realm |
-| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) |  | Jet Reports Skill: Visual Workbook Workflows NAV and Business Central |
+| [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes) | 솔라나 노드 하드웨어 선택과 일상 관리 정리 | Solana 검증인 애호가를 위한 노트 — 하드웨어 사이징 및 관리 작업. |
+| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | CMaNGOS Helm: Helm을 쥐고, 당신의 영역을 지휘하세요 |
+| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 워크북 워크플로를 시각적으로 한눈에 정리 | Jet Reports 스킬: NAV 및 Business Central용 시각적 통합 문서 워크플로 |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | Windows에서 도메인 DNS와 이력을 단계별 조사 | Windows용 OSINT 도메인 및 인프라 정찰: 모든 도메인의 DNS, 인증서, 호스팅 및 이력을 계층별로 분석. |
-| [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) |  | Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices |
-| [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) |  | Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing |
+| [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) | Microsoft PowerPoint 모범 사례 | Windows 기반 Microsoft PowerPoint: 디자인, 구성 및 내보내기 모범 사례 |
+| [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 데스크톱에서 모든 피드를 실시간으로 동기화 | Whalefeed: 실시간 동기화 및 구조화된 데이터 파싱 기능을 갖춘 데스크톱 피드 애그리게이터 |

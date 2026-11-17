@@ -66,15 +66,15 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization | 2026-11-16<br><sub>1.0 天</sub> | 704 | 704.0 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… | 2026-11-16<br><sub>1.2 天</sub> | 578 | 489.1 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>1.1 天</sub> | 440 | 416.2 |
+| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>本地LLM太慢？让智能体技能帮你加速 | 2026-11-16<br><sub>1.0 天</sub> | 704 | 704.0 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想换成 Rust？对照原行为一步步迁移 | 2026-11-16<br><sub>1.2 天</sub> | 578 | 489.1 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>智能体不会营销？装上31个免费营销技能 | 2026-11-16<br><sub>1.1 天</sub> | 440 | 416.2 |
 | 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 会议笔记全保存在自己电脑里 | 2026-11-10<br><sub>6.8 天</sub> | 1,969 | 287.2 |
-| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
 | 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>没有账号也能用 API 登录桌面版 | 2026-11-12<br><sub>5.4 天</sub> | 588 | 109.0 |
 | 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>4.7 天</sub> | 510 | 108.1 |
 | 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白话提问，答案每句都有公开来源 | 2026-11-13<br><sub>4.1 天</sub> | 440 | 106.6 |
-| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent | 2026-11-13<br><sub>4.1 天</sub> | 365 | 88.7 |
+| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>网页AI管不了电脑？让它操作本地文件 | 2026-11-13<br><sub>4.1 天</sub> | 365 | 88.7 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>用樱井政博257本字幕做游戏制作技能 | 2026-11-12<br><sub>5.0 天</sub> | 409 | 81.4 |
 
 <details>
@@ -272,14 +272,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… | 2026-11-16<br><sub>1.0 天</sub> | 256 | 247.7 |
-| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… | 2026-11-16<br><sub>1.0 天</sub> | 165 | 159.6 |
-| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>CMP30HX Mod: Shape the World, Share the Craft, Build It Together | 2026-11-16<br><sub>1.2 天</sub> | 113 | 95.1 |
-| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.8 |
-| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management | 2026-11-15<br><sub>1.9 天</sub> | 115 | 61.7 |
-| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. | 2026-11-15<br><sub>2.2 天</sub> | 136 | 60.4 |
-| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's storage problems, just run fix-storage. | 2026-11-14<br><sub>3.0 天</sub> | 117 | 39.1 |
-| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Cradle of small Python automation scripts — files, mail, scraping. | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
+| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模组难移植？转出Rust代码 | 2026-11-16<br><sub>1.0 天</sub> | 256 | 247.7 |
+| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>在终端描述建筑，一键直接放到世界里 | 2026-11-16<br><sub>1.0 天</sub> | 165 | 159.6 |
+| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界并分享手艺，与大家一起建造 | 2026-11-16<br><sub>1.2 天</sub> | 113 | 95.1 |
+| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 检查、安装并更新常用运行库 | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.8 |
+| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用网页界面轻松管理 Windows 软件包 | 2026-11-15<br><sub>1.9 天</sub> | 115 | 61.7 |
+| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>借助轻量工作流插件，省心进行 AI 编程 | 2026-11-15<br><sub>2.2 天</sub> | 136 | 60.4 |
+| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>运行 CLI，轻松修复 Mac 存储空间问题 | 2026-11-14<br><sub>3.0 天</sub> | 117 | 39.1 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>小型 Python 自动化脚本的摇篮 —— 文件、邮件、爬取。 | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -591,7 +591,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 为 React 接入开源灵动岛 | 2026-11-13<br><sub>4.2 天</sub> | 791 | 188.5 |
-| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，单文件就能换主题 | 2026-11-14<br><sub>2.8 天</sub> | 127 | 45.7 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性孪生环境中复现并修复故障 | 2026-11-13<br><sub>4.3 天</sub> | 130 | 29.9 |
 | 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>给界面换上圆角版 Geist 字体 | 2026-11-11<br><sub>5.9 天</sub> | 172 | 29.1 |
@@ -758,11 +758,11 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>Validator hobbyist notes for Solana — hardware sizing and care tasks. | 2026-11-16<br><sub>1.0 天</sub> | 101 | 101.0 |
-| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>CMaNGOS Helm: Wield the Helm, Command Your Realm | 2026-11-15<br><sub>1.9 天</sub> | 118 | 63.1 |
-| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Jet Reports Skill: Visual Workbook Workflows NAV and Business Central | 2026-11-15<br><sub>1.9 天</sub> | 116 | 62.7 |
+| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>不知如何配节点？理清Solana硬件与维护 | 2026-11-16<br><sub>1.0 天</sub> | 101 | 101.0 |
+| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控并管理你的CMaNGOS领域 | 2026-11-15<br><sub>1.9 天</sub> | 118 | 63.1 |
+| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直观理清并呈现工作簿工作流 | 2026-11-15<br><sub>1.9 天</sub> | 116 | 62.7 |
 | 4 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐层排查域名解析与历史 | 2026-11-13<br><sub>4.1 天</sub> | 161 | 39.4 |
-| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.4 |
+| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint设计与导出实践 | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.4 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1067,7 +1067,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing | 2026-11-15<br><sub>1.8 天</sub> | 115 | 63.3 |
+| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>在桌面实时同步，轻松追踪所有订阅 | 2026-11-15<br><sub>1.8 天</sub> | 115 | 63.3 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

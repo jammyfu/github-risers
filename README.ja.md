@@ -66,15 +66,15 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization | 2026-11-16<br><sub>1.0 日</sub> | 704 | 704.0 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… | 2026-11-16<br><sub>1.2 日</sub> | 578 | 489.1 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>1.1 日</sub> | 440 | 416.2 |
+| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>ローカルLLMが遅い？エージェントスキルで高速化 | 2026-11-16<br><sub>1.0 日</sub> | 704 | 704.0 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust移行が不安？動作を確認しつつ段階移行 | 2026-11-16<br><sub>1.2 日</sub> | 578 | 489.1 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>エージェントの集客力不足？31種の無料マーケスキル | 2026-11-16<br><sub>1.1 日</sub> | 440 | 416.2 |
 | 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>自分のPCだけに保存できるAI会議メモ | 2026-11-10<br><sub>6.8 日</sub> | 1,969 | 287.2 |
-| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. | 2026-11-16<br><sub>1.1 日</sub> | 157 | 140.7 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>コードで動画を作りたい？素材からエージェントが生成 | 2026-11-16<br><sub>1.1 日</sub> | 157 | 140.7 |
 | 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API KeyでログインするClaudeデスクトップ版ツール | 2026-11-12<br><sub>5.4 日</sub> | 588 | 109.0 |
 | 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>4.7 日</sub> | 510 | 108.1 |
 | 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>4.1 日</sub> | 440 | 106.6 |
-| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent | 2026-11-13<br><sub>4.1 日</sub> | 365 | 88.7 |
+| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>WebのAIがPCを触れない？ローカルファイルを直接操作 | 2026-11-13<br><sub>4.1 日</sub> | 365 | 88.7 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>5.0 日</sub> | 409 | 81.4 |
 
 <details>
@@ -272,14 +272,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… | 2026-11-16<br><sub>1.0 日</sub> | 256 | 247.7 |
-| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… | 2026-11-16<br><sub>1.0 日</sub> | 165 | 159.6 |
-| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>CMP30HX Mod: Shape the World, Share the Craft, Build It Together | 2026-11-16<br><sub>1.2 日</sub> | 113 | 95.1 |
-| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, | 2026-11-15<br><sub>1.8 日</sub> | 115 | 62.8 |
-| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management | 2026-11-15<br><sub>1.9 日</sub> | 115 | 61.7 |
-| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. | 2026-11-15<br><sub>2.2 日</sub> | 136 | 60.4 |
-| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's storage problems, just run fix-storage. | 2026-11-14<br><sub>3.0 日</sub> | 117 | 39.1 |
-| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Cradle of small Python automation scripts — files, mail, scraping. | 2026-11-15<br><sub>1.9 日</sub> | 100 | 53.7 |
+| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java ModのRust移植が大変？jarから自動変換 | 2026-11-16<br><sub>1.0 日</sub> | 256 | 247.7 |
+| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>ターミナルで指示し、一発で世界に建築 | 2026-11-16<br><sub>1.0 日</sub> | 165 | 159.6 |
+| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>世界を形作り、作品を共有して共に建築 | 2026-11-16<br><sub>1.2 日</sub> | 113 | 95.1 |
+| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLIで各種ランタイムの確認・導入・更新 | 2026-11-15<br><sub>1.8 日</sub> | 115 | 62.8 |
+| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Web画面でWindowsパッケージを楽に管理 | 2026-11-15<br><sub>1.9 日</sub> | 115 | 61.7 |
+| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>AIコーディング用の軽量ワークフロープラグイン | 2026-11-15<br><sub>2.2 日</sub> | 136 | 60.4 |
+| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>CLIを実行してMacの容量問題をすっきり解決 | 2026-11-14<br><sub>3.0 日</sub> | 117 | 39.1 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>ファイル・メール・収集用の小型Python自動化スクリプト | 2026-11-15<br><sub>1.9 日</sub> | 100 | 53.7 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -591,7 +591,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcnで手軽にDynamic Islandを追加 | 2026-11-13<br><sub>4.2 日</sub> | 791 | 188.5 |
-| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery | 2026-11-15<br><sub>1.9 日</sub> | 112 | 59.8 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Fabricで慣性を活かした連続ジャンプ移動を習得 | 2026-11-15<br><sub>1.9 日</sub> | 112 | 59.8 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>2.8 日</sub> | 127 | 45.7 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>使い捨て環境でバグを再現して自動修正 | 2026-11-13<br><sub>4.3 日</sub> | 130 | 29.9 |
 | 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Geistフォントに丸みのある柔らかさをプラス | 2026-11-11<br><sub>5.9 日</sub> | 172 | 29.1 |
@@ -758,11 +758,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>Validator hobbyist notes for Solana — hardware sizing and care tasks. | 2026-11-16<br><sub>1.0 日</sub> | 101 | 101.0 |
-| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>CMaNGOS Helm: Wield the Helm, Command Your Realm | 2026-11-15<br><sub>1.9 日</sub> | 118 | 63.1 |
-| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Jet Reports Skill: Visual Workbook Workflows NAV and Business Central | 2026-11-15<br><sub>1.9 日</sub> | 116 | 62.7 |
+| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>Solanaノードの機器選びや日常保守を整理 | 2026-11-16<br><sub>1.0 日</sub> | 101 | 101.0 |
+| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Helmを使ってCMaNGOSレルムを自在に指揮 | 2026-11-15<br><sub>1.9 日</sub> | 118 | 63.1 |
+| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>ワークブックのワークフローを視覚的に整理 | 2026-11-15<br><sub>1.9 日</sub> | 116 | 62.7 |
 | 4 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>WindowsでドメインのDNSや履歴を多層調査 | 2026-11-13<br><sub>4.1 日</sub> | 161 | 39.4 |
-| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices | 2026-11-15<br><sub>1.8 日</sub> | 115 | 62.4 |
+| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPointの設計指針 | 2026-11-15<br><sub>1.8 日</sub> | 115 | 62.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -1067,7 +1067,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing | 2026-11-15<br><sub>1.8 日</sub> | 115 | 63.3 |
+| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>デスクトップでフィードをリアルタイム同期 | 2026-11-15<br><sub>1.8 日</sub> | 115 | 63.3 |
 
 <details>
 <summary>このランキングのスター推移</summary>
