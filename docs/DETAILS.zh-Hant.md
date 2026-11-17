@@ -121,7 +121,7 @@
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想換成 Rust？對照原行為一步步遷移 | 將你的整個應用程式逐步用 Rust 重寫，每一步都對照原始記錄的行為進行檢查。TypeSc 中的 CLI、HTTP 伺服器和函式庫… |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 代理不懂行銷？裝上31個免費行銷技能 | 為你的 AI 代理提供的 31 個免費行銷技能：研究、定位、文案、頁面、SEO、AI 搜尋、廣告、電子郵件和內容，外加深度的本機商業包。MIT。 |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 會議筆記全保存在自己電腦裡 | 保留在您電腦上的私密 AI 會議記錄。一款適用於 Mac、Windows 和 Linux 的免費、開源 Granola 替代品。 |
-| [staryone/motlab](https://github.com/staryone/motlab) |  | 影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。 |
+| [staryone/motlab](https://github.com/staryone/motlab) | 給參考資料，讓代理寫程式做影片 | 影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。 |
 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | 沒有帳號也能用 API 登入桌面版 | 不用 Claude 帳號！把 API Key 變成登入模式，Claude 桌面版全功能解鎖（漢化 / 語音 / 電腦控制） |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千節點放進無限畫布，自由移動縮放 | 將數千個活躍 DOM 節點放置在無限畫布上：GPU 進行繪製，編輯器選取、移動並調整它們的大小，著色器和過渡效果在它們上面運行，並且… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白話提問，答案每句都有公開來源 | 適用於 Windows 的 AI OSINT 調查工具：用通俗易懂的語言提問，即可獲得基於公開來源構建的答案，每句話均附有來源。 |
@@ -129,7 +129,7 @@
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 借助257本櫻井字幕，讓代理帶你做遊戲 | 根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟著 AI 拆解熱門短劇的劇本與分鏡 | AI 拆解學習短劇：為什麼火、劇本怎麼寫、每一鏡怎麼拍 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三階段審查流程把關 AI 產出的程式碼 | 生產級 AI 編程指令、精選技能以及 3 階段審查流程（Planning → Critical Review → Diff Audit），在歷經 4,500+ 小時後構建，基於… |
-| [diego3g/craft](https://github.com/diego3g/craft) |  | AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit… |
+| [diego3g/craft](https://github.com/diego3g/craft) | 讓 AI 代理照設計系統畫出所有畫面 | AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一條命令自動選工具、執行並生成案卷 | 用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。 |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 讓 AI 從零做出瀏覽器 3D 動作遊戲 | 歸藏 Game Skill：讓 AI 從零做出能在瀏覽器裡玩的 3D 動作遊戲，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 尋找天文與天體物理領域的 AI 精選論文 | 天文學 &amp; 天體物理學領域 AI 論文精選列表。 |
@@ -142,11 +142,11 @@
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界並分享手藝，與大家一起建造 | CMP30HX Mod：塑造世界，分享工藝，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 檢查、安裝並更新常用執行階段 | Runtime Forge CLI：檢查、安裝、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用網頁介面輕鬆管理 Windows 套件 | EasyWinget GUI：用於無縫 Windows 套件管理的現代化 Web 介面 |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | 一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 寫程式免盯，讓 AI 自動跑完流程 | 一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 執行 CLI，輕鬆修復 Mac 儲存空間問題 | 用於解決 mac 儲存問題的 CLI，只需運行 fix-storage。 |
-| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) |  | 小型 Python 自動化腳本的搖籃 —— 檔案、郵件、爬取。 |
+| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) | Python 檔案與爬蟲自動化腳本集 | 小型 Python 自動化腳本的搖籃 —— 檔案、郵件、爬取。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 為 React 接入開源動態島 | 適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。 |
-| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) |  | Bunny Hopping Mod：由 Fabric 驅動的動量與移動技巧掌握 |
+| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握連跳技巧，靠慣性高速移動 | Bunny Hopping Mod：由 Fabric 驅動的動量與移動技巧掌握 |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，單檔案就能換主題 | 靈感源自 Claude 的 T3 Code 主題。單一檔案，無需 fork。 |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性分身環境中重現並修復故障 | TwinFix — 在一次性孿生環境中自動診斷、復現並修復故障的 AI 代理。 |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 給介面換上圓角版 Geist 字體 | Geist 字型的圓角變體 ▲ |

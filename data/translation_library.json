@@ -65,7 +65,8 @@
           "en": "A lightweight workflow plugin for hands-off AI coding",
           "zh-Hans": "借助轻量工作流插件，省心进行 AI 编程",
           "ja": "AIコーディング用の軽量ワークフロープラグイン",
-          "ko": "편리한 AI 코딩을 위한 경량 워크플로 플러그인"
+          "ko": "편리한 AI 코딩을 위한 경량 워크플로 플러그인",
+          "zh-Hant": "寫程式免盯，讓 AI 自動跑完流程"
         }
       },
       "66864e188bc9": {
@@ -1184,7 +1185,9 @@
         "hook": {
           "en": "Master momentum and movement with Fabric bunny hopping",
           "ja": "Fabricで慣性を活かした連続ジャンプ移動を習得",
-          "ko": "Fabric에서 관성을 살려 연속 점프 이동을 숙달"
+          "ko": "Fabric에서 관성을 살려 연속 점프 이동을 숙달",
+          "zh-Hans": "掌握连跳技巧，靠惯性高速移动",
+          "zh-Hant": "掌握連跳技巧，靠慣性高速移動"
         }
       }
     },
@@ -4510,7 +4513,8 @@
           "en": "UI design takes too long? Let AI agents craft every screen",
           "zh-Hans": "界面设计太繁琐？让智能体画全状态页面",
           "ja": "画面設計が面倒？エージェントスキルで全状態をデザイン",
-          "ko": "화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인"
+          "ko": "화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인",
+          "zh-Hant": "讓 AI 代理照設計系統畫出所有畫面"
         }
       }
     },
@@ -6229,7 +6233,9 @@
         "hook": {
           "en": "Python automation scripts for files, mail, and scraping",
           "ja": "ファイル・メール・収集用の小型Python自動化スクリプト",
-          "ko": "파일·메일·스크래핑용 소형 Python 자동화 스크립트"
+          "ko": "파일·메일·스크래핑용 소형 Python 자동화 스크립트",
+          "zh-Hans": "Python 文件与爬虫自动化脚本集",
+          "zh-Hant": "Python 檔案與爬蟲自動化腳本集"
         }
       }
     },
@@ -6668,7 +6674,9 @@
         "hook": {
           "en": "Want to make videos with code? Let agents build from refs",
           "ja": "コードで動画を作りたい？素材からエージェントが生成",
-          "ko": "코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작"
+          "ko": "코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작",
+          "zh-Hans": "给参考资料，让智能体写代码做视频",
+          "zh-Hant": "給參考資料，讓代理寫程式做影片"
         }
       }
     },

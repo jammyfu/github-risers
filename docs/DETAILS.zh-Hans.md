@@ -121,7 +121,7 @@
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想换成 Rust？对照原行为一步步迁移 | 将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库… |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 智能体不会营销？装上31个免费营销技能 | 为你的 AI 智能体提供的 31 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。 |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 会议笔记全保存在自己电脑里 | 保留在您电脑上的私密 AI 会议记录。一款适用于 Mac、Windows 和 Linux 的免费、开源 Granola 替代品。 |
-| [staryone/motlab](https://github.com/staryone/motlab) |  | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
+| [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | 没有账号也能用 API 登录桌面版 | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
@@ -144,9 +144,9 @@
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 运行 CLI，轻松修复 Mac 存储空间问题 | 用于解决 mac 存储问题的 CLI，只需运行 fix-storage。 |
-| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) |  | 小型 Python 自动化脚本的摇篮 —— 文件、邮件、爬取。 |
+| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) | Python 文件与爬虫自动化脚本集 | 小型 Python 自动化脚本的摇篮 —— 文件、邮件、爬取。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
-| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) |  | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
+| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 给界面换上圆角版 Geist 字体 | Geist 字体的圆角变体 ▲ |

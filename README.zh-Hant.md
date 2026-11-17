@@ -70,7 +70,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想換成 Rust？對照原行為一步步遷移 | 2026-11-16<br><sub>1.2 天</sub> | 578 | 489.1 |
 | 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>代理不懂行銷？裝上31個免費行銷技能 | 2026-11-16<br><sub>1.1 天</sub> | 440 | 416.2 |
 | 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 會議筆記全保存在自己電腦裡 | 2026-11-10<br><sub>6.8 天</sub> | 1,969 | 287.2 |
-| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。 | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>給參考資料，讓代理寫程式做影片 | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
 | 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>沒有帳號也能用 API 登入桌面版 | 2026-11-12<br><sub>5.4 天</sub> | 588 | 109.0 |
 | 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千節點放進無限畫布，自由移動縮放 | 2026-11-12<br><sub>4.7 天</sub> | 510 | 108.1 |
 | 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白話提問，答案每句都有公開來源 | 2026-11-13<br><sub>4.1 天</sub> | 440 | 106.6 |
@@ -277,9 +277,9 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界並分享手藝，與大家一起建造 | 2026-11-16<br><sub>1.2 天</sub> | 113 | 95.1 |
 | 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 檢查、安裝並更新常用執行階段 | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.8 |
 | 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用網頁介面輕鬆管理 Windows 套件 | 2026-11-15<br><sub>1.9 天</sub> | 115 | 61.7 |
-| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 | 2026-11-15<br><sub>2.2 天</sub> | 136 | 60.4 |
+| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>寫程式免盯，讓 AI 自動跑完流程 | 2026-11-15<br><sub>2.2 天</sub> | 136 | 60.4 |
 | 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>執行 CLI，輕鬆修復 Mac 儲存空間問題 | 2026-11-14<br><sub>3.0 天</sub> | 117 | 39.1 |
-| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>小型 Python 自動化腳本的搖籃 —— 檔案、郵件、爬取。 | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Python 檔案與爬蟲自動化腳本集 | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -591,7 +591,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 為 React 接入開源動態島 | 2026-11-13<br><sub>4.2 天</sub> | 791 | 188.5 |
-| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod：由 Fabric 驅動的動量與移動技巧掌握 | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>掌握連跳技巧，靠慣性高速移動 | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，單檔案就能換主題 | 2026-11-14<br><sub>2.8 天</sub> | 127 | 45.7 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性分身環境中重現並修復故障 | 2026-11-13<br><sub>4.3 天</sub> | 130 | 29.9 |
 | 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>給介面換上圓角版 Geist 字體 | 2026-11-11<br><sub>5.9 天</sub> | 172 | 29.1 |

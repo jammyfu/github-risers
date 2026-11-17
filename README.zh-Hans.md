@@ -70,7 +70,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想换成 Rust？对照原行为一步步迁移 | 2026-11-16<br><sub>1.2 天</sub> | 578 | 489.1 |
 | 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>智能体不会营销？装上31个免费营销技能 | 2026-11-16<br><sub>1.1 天</sub> | 440 | 416.2 |
 | 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 会议笔记全保存在自己电脑里 | 2026-11-10<br><sub>6.8 天</sub> | 1,969 | 287.2 |
-| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>给参考资料，让智能体写代码做视频 | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
 | 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>没有账号也能用 API 登录桌面版 | 2026-11-12<br><sub>5.4 天</sub> | 588 | 109.0 |
 | 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>4.7 天</sub> | 510 | 108.1 |
 | 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白话提问，答案每句都有公开来源 | 2026-11-13<br><sub>4.1 天</sub> | 440 | 106.6 |
@@ -279,7 +279,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用网页界面轻松管理 Windows 软件包 | 2026-11-15<br><sub>1.9 天</sub> | 115 | 61.7 |
 | 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>借助轻量工作流插件，省心进行 AI 编程 | 2026-11-15<br><sub>2.2 天</sub> | 136 | 60.4 |
 | 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>运行 CLI，轻松修复 Mac 存储空间问题 | 2026-11-14<br><sub>3.0 天</sub> | 117 | 39.1 |
-| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>小型 Python 自动化脚本的摇篮 —— 文件、邮件、爬取。 | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Python 文件与爬虫自动化脚本集 | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -591,7 +591,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 为 React 接入开源灵动岛 | 2026-11-13<br><sub>4.2 天</sub> | 791 | 188.5 |
-| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>掌握连跳技巧，靠惯性高速移动 | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，单文件就能换主题 | 2026-11-14<br><sub>2.8 天</sub> | 127 | 45.7 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性孪生环境中复现并修复故障 | 2026-11-13<br><sub>4.3 天</sub> | 130 | 29.9 |
 | 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>给界面换上圆角版 Geist 字体 | 2026-11-11<br><sub>5.9 天</sub> | 172 | 29.1 |
