@@ -6,6 +6,7 @@
 
 | 日付 | スロット | 取得日時（UTC） | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | スナップショット |
 |---|---|---|---|---|---|---|---|
+| 2026-11-17 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-17T16:32:09Z | sybil-solutions/inference-optimisation-skill (704/日) | morluto/rea (2,499/日) | morluto/rea (5,191/日) | deepseek-ai/deepseek-harness (2,944/日) | [2026-11-17/pt-0000](2026-11-17/pt-0000/rankings.ja.md) · [json](2026-11-17/pt-0000/stats.json) |
 | 2026-11-16 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-16T16:31:39Z | FrigadeHQ/yogurt (308/日) | morluto/rea (2,647/日) | morluto/rea (5,669/日) | deepseek-ai/deepseek-harness (2,968/日) | [2026-11-16/pt-0000](2026-11-16/pt-0000/rankings.ja.md) · [json](2026-11-16/pt-0000/stats.json) |
 | 2026-11-15 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-15T14:23:29Z | Outpostkrewhirl86/Capri-AI (345/日) | morluto/rea (2,771/日) | morluto/rea (6,179/日) | deepseek-ai/deepseek-harness (2,992/日) | [2026-11-15/pt-0000](2026-11-15/pt-0000/rankings.ja.md) · [json](2026-11-15/pt-0000/stats.json) |
 | 2026-11-15 | 北京時間 00:00 (`cn-0000`) | 2026-11-14T16:21:35Z | FrigadeHQ/yogurt (364/日) | morluto/rea (2,870/日) | morluto/rea (6,977/日) | deepseek-ai/deepseek-harness (3,018/日) | [2026-11-15/cn-0000](2026-11-15/cn-0000/rankings.ja.md) · [json](2026-11-15/cn-0000/stats.json) |

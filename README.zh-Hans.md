@@ -8,7 +8,7 @@
 
 按每天新增星标（而不是总星标）给 GitHub 仓库排名：AI 在前，其后是开发者工具、安全、Web / 前端、基础设施、设计 / 创意和数据；每天更新。
 
-数据取自 2026-11-16 16:31（UTC）。每天更新。
+数据取自 2026-11-17 16:32（UTC）。每天更新。
 
 **在线榜单：** [网站](https://jammyfu.github.io/github-risers/) · [最新快照](latest/rankings.zh-Hans.md)
 
@@ -24,13 +24,13 @@
 
 | 分类 | 新仓库第 1 名（7 天） | 本周第 1 名 | 本月第 1 名 | 今年第 1 名 | 总星标第 1 名 |
 |---|---|---|---|---|---|
-| **[人工智能](#人工智能)** ★ 主榜 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>308/天 | [morluto/rea](https://github.com/morluto/rea)<br>2,647/天 | [morluto/rea](https://github.com/morluto/rea)<br>5,669/天 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>2,968/天 | [morluto/rea](https://github.com/morluto/rea)<br>463,557 ★ |
-| **[开发者工具](#开发者工具)** | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>87.2/天 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>112/天 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>119/天 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>75.0/天 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>96,716 ★ |
-| **[安全](#安全)** | 无 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>40.6/天 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>32.4/天 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>28.5/天 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>39,409 ★ |
-| **[Web / 前端](#web--前端)** | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>240/天 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>95.6/天 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>92.9/天 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>83.6/天 | [facebook/react](https://github.com/facebook/react)<br>252,638 ★ |
-| **[基础设施](#基础设施)** | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>199/天 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>37.4/天 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>39.2/天 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>33.1/天 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>129,090 ★ |
-| **[设计 / 创意](#设计--创意)** | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>16.1/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>63.3/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>65.8/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>73.8/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>135,789 ★ |
-| **[数据](#数据)** | 无 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>26.1/天 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>31.8/天 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/天 | [apache/superset](https://github.com/apache/superset)<br>75,531 ★ |
+| **[人工智能](#人工智能)** ★ 主榜 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>704/天 | [morluto/rea](https://github.com/morluto/rea)<br>2,499/天 | [morluto/rea](https://github.com/morluto/rea)<br>5,191/天 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>2,944/天 | [morluto/rea](https://github.com/morluto/rea)<br>465,706 ★ |
+| **[开发者工具](#开发者工具)** | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>248/天 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>108/天 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>121/天 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>75.1/天 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>96,727 ★ |
+| **[安全](#安全)** | 无 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>43.9/天 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>33.9/天 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>28.7/天 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>39,473 ★ |
+| **[Web / 前端](#web--前端)** | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>188/天 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>93.0/天 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>93.7/天 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>83.6/天 | [facebook/react](https://github.com/facebook/react)<br>252,871 ★ |
+| **[基础设施](#基础设施)** | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>101/天 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>48.9/天 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>39.2/天 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>33.2/天 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>129,325 ★ |
+| **[设计 / 创意](#设计--创意)** | 无 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>64.1/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>66.0/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>73.8/天 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>135,859 ★ |
+| **[数据](#数据)** | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>63.3/天 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/天 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>31.9/天 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/天 | [apache/superset](https://github.com/apache/superset)<br>75,543 ★ |
 
 这里每张榜只列前 10 名，完整的前 20 名见 [latest/rankings.zh-Hans.md](latest/rankings.zh-Hans.md)。
 
@@ -66,37 +66,37 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 会议笔记全保存在自己电脑里 | 2026-11-10<br><sub>5.8 天</sub> | 1,805 | 308.3 |
-| 2 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>让本地桌面智能体帮你操控应用与文件 | 2026-11-14<br><sub>1.8 天</sub> | 346 | 193.3 |
-| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>3.7 天</sub> | 507 | 136.4 |
-| 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>看不清在做什么，边聊边看实时地图 | 2026-11-09<br><sub>6.9 天</sub> | 912 | 132.4 |
-| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>没有账号也能用 API 登录桌面版 | 2026-11-12<br><sub>4.4 天</sub> | 495 | 112.7 |
-| 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白话提问，答案每句都有公开来源 | 2026-11-13<br><sub>3.1 天</sub> | 335 | 107.2 |
-| 7 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>抹去文本里的 AI 味并自动重写 | 2026-11-09<br><sub>7.0 天</sub> | 723 | 103.8 |
-| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>跟着 AI 拆解爆款短剧的剧本与分镜 | 2026-11-14<br><sub>2.2 天</sub> | 219 | 100.9 |
-| 9 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>用三阶段审查流程规范 AI 生成的代码 | 2026-11-14<br><sub>2.1 天</sub> | 210 | 98.9 |
-| 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>用樱井政博257本字幕做游戏制作技能 | 2026-11-12<br><sub>4.0 天</sub> | 371 | 92.2 |
+| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization | 2026-11-16<br><sub>1.0 天</sub> | 704 | 704.0 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… | 2026-11-16<br><sub>1.2 天</sub> | 578 | 489.1 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>1.1 天</sub> | 440 | 416.2 |
+| 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>把 AI 会议笔记全保存在自己电脑里 | 2026-11-10<br><sub>6.8 天</sub> | 1,969 | 287.2 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. | 2026-11-16<br><sub>1.1 天</sub> | 157 | 140.7 |
+| 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>没有账号也能用 API 登录桌面版 | 2026-11-12<br><sub>5.4 天</sub> | 588 | 109.0 |
+| 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>4.7 天</sub> | 510 | 108.1 |
+| 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白话提问，答案每句都有公开来源 | 2026-11-13<br><sub>4.1 天</sub> | 440 | 106.6 |
+| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent | 2026-11-13<br><sub>4.1 天</sub> | 365 | 88.7 |
+| 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>用樱井政博257本字幕做游戏制作技能 | 2026-11-12<br><sub>5.0 天</sub> | 409 | 81.4 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
 
+<a href="https://www.star-history.com/#sybil-solutions/inference-optimisation-skill&Date"><img src="https://api.star-history.com/svg?repos=sybil-solutions/inference-optimisation-skill&type=Date" width="260" alt="sybil-solutions/inference-optimisation-skill 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#erkamyaman/rust-anything&Date"><img src="https://api.star-history.com/svg?repos=erkamyaman/rust-anything&type=Date" width="260" alt="erkamyaman/rust-anything 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#boringmarketer/boring-marketing-skills&Date"><img src="https://api.star-history.com/svg?repos=boringmarketer/boring-marketing-skills&type=Date" width="260" alt="boringmarketer/boring-marketing-skills 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#FrigadeHQ/yogurt&Date"><img src="https://api.star-history.com/svg?repos=FrigadeHQ/yogurt&type=Date" width="260" alt="FrigadeHQ/yogurt 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#Outpostkrewhirl86/Capri-AI&Date"><img src="https://api.star-history.com/svg?repos=Outpostkrewhirl86/Capri-AI&type=Date" width="260" alt="Outpostkrewhirl86/Capri-AI 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#berkantay/gpucanvas&Date"><img src="https://api.star-history.com/svg?repos=berkantay/gpucanvas&type=Date" width="260" alt="berkantay/gpucanvas 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#alexeyw/lot-map&Date"><img src="https://api.star-history.com/svg?repos=alexeyw/lot-map&type=Date" width="260" alt="alexeyw/lot-map 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#staryone/motlab&Date"><img src="https://api.star-history.com/svg?repos=staryone/motlab&type=Date" width="260" alt="staryone/motlab 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#BigPizzaV3/ClaudeMom&Date"><img src="https://api.star-history.com/svg?repos=BigPizzaV3/ClaudeMom&type=Date" width="260" alt="BigPizzaV3/ClaudeMom 的星标历史曲线"></a>
 
+<a href="https://www.star-history.com/#berkantay/gpucanvas&Date"><img src="https://api.star-history.com/svg?repos=berkantay/gpucanvas&type=Date" width="260" alt="berkantay/gpucanvas 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#StormBrawlerSack/legwork-osint-ai-investigator&Date"><img src="https://api.star-history.com/svg?repos=StormBrawlerSack/legwork-osint-ai-investigator&type=Date" width="260" alt="StormBrawlerSack/legwork-osint-ai-investigator 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#Dodaios/ste80-humanizer&Date"><img src="https://api.star-history.com/svg?repos=Dodaios/ste80-humanizer&type=Date" width="260" alt="Dodaios/ste80-humanizer 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#JuneYaooo/rea-toon&Date"><img src="https://api.star-history.com/svg?repos=JuneYaooo/rea-toon&type=Date" width="260" alt="JuneYaooo/rea-toon 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#vaibhav-space/my-ai-coding-workflow&Date"><img src="https://api.star-history.com/svg?repos=vaibhav-space/my-ai-coding-workflow&type=Date" width="260" alt="vaibhav-space/my-ai-coding-workflow 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#ysunyang4/Nexus&Date"><img src="https://api.star-history.com/svg?repos=ysunyang4/Nexus&type=Date" width="260" alt="ysunyang4/Nexus 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#kociden/sakurai-skill&Date"><img src="https://api.star-history.com/svg?repos=kociden/sakurai-skill&type=Date" width="260" alt="kociden/sakurai-skill 的星标历史曲线"></a>
 
@@ -106,16 +106,16 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | +18,528 | 2,646.9 | 463,557 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>几个 AI 一起写，谁好用一眼看出<br>`人工智能` | +6,676 | 953.7 | 126,539 |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI 查代码漏洞，另一个 AI 逐条复核<br>`人工智能` | +6,297 | 899.6 | 73,681 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 技能怎么写，照着官方学<br>`人工智能` | +5,752 | 821.7 | 195,810 |
-| 5 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | +5,488 | 784.0 | 282,232 |
-| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | +4,770 | 681.4 | 191,953 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>编程 AI 换模型，额度用完自动续<br>`人工智能` | +4,721 | 674.4 | 37,507 |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | +4,473 | 639.0 | 304,356 |
-| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>别再让 AI 做出千篇一律的页面<br>`人工智能` | +4,363 | 623.3 | 116,680 |
-| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大项目看不过来，先看这张地图<br>`人工智能` | +4,145 | 592.1 | 148,845 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | +17,492 | 2,498.9 | 465,706 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>几个 AI 一起写，谁好用一眼看出<br>`人工智能` | +6,557 | 936.7 | 127,560 |
+| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI 查代码漏洞，另一个 AI 逐条复核<br>`人工智能` | +5,869 | 838.4 | 74,549 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | +5,188 | 741.1 | 282,869 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 技能怎么写，照着官方学<br>`人工智能` | +4,974 | 710.6 | 196,542 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | +4,770 | 681.4 | 305,180 |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | +4,653 | 664.7 | 192,767 |
+| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>别再让 AI 做出千篇一律的页面<br>`人工智能` | +4,588 | 655.4 | 117,519 |
+| 9 | [yetone/magpie](https://github.com/yetone/magpie)<br>编程 AI 换模型，额度用完自动续<br>`人工智能` | +4,507 | 643.9 | 38,037 |
+| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大项目看不过来，先看这张地图<br>`人工智能` | +4,169 | 595.6 | 149,465 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -126,17 +126,17 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 <a href="https://www.star-history.com/#cloudflare/security-audit-skill&Date"><img src="https://api.star-history.com/svg?repos=cloudflare/security-audit-skill&type=Date" width="260" alt="cloudflare/security-audit-skill 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#anthropics/skills&Date"><img src="https://api.star-history.com/svg?repos=anthropics/skills&type=Date" width="260" alt="anthropics/skills 的星标历史曲线"></a>
-
 <a href="https://www.star-history.com/#deepseek-ai/deepseek-harness&Date"><img src="https://api.star-history.com/svg?repos=deepseek-ai/deepseek-harness&type=Date" width="260" alt="deepseek-ai/deepseek-harness 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#DietrichGebert/ponytail&Date"><img src="https://api.star-history.com/svg?repos=DietrichGebert/ponytail&type=Date" width="260" alt="DietrichGebert/ponytail 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#anthropics/skills&Date"><img src="https://api.star-history.com/svg?repos=anthropics/skills&type=Date" width="260" alt="anthropics/skills 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#affaan-m/ECC&Date"><img src="https://api.star-history.com/svg?repos=affaan-m/ECC&type=Date" width="260" alt="affaan-m/ECC 的星标历史曲线"></a>
 
+<a href="https://www.star-history.com/#DietrichGebert/ponytail&Date"><img src="https://api.star-history.com/svg?repos=DietrichGebert/ponytail&type=Date" width="260" alt="DietrichGebert/ponytail 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#Leonxlnx/taste-skill&Date"><img src="https://api.star-history.com/svg?repos=Leonxlnx/taste-skill&type=Date" width="260" alt="Leonxlnx/taste-skill 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#Graphify-Labs/graphify&Date"><img src="https://api.star-history.com/svg?repos=Graphify-Labs/graphify&type=Date" width="260" alt="Graphify-Labs/graphify 的星标历史曲线"></a>
 
@@ -146,16 +146,16 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | +170,064 | 5,668.8 | 463,557 |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI 查代码漏洞，另一个 AI 逐条复核<br>`人工智能` | +43,336 | 1,444.5 | 73,681 |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca)<br>几个 AI 一起写，谁好用一眼看出<br>`人工智能` | +32,127 | 1,070.9 | 126,539 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | +31,850 | 1,061.7 | 282,232 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | +27,163 | 905.4 | 191,953 |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | +23,556 | 785.2 | 304,356 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>编程 AI 换模型，额度用完自动续<br>`人工智能` | +23,153 | 771.8 | 37,507 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大项目看不过来，先看这张地图<br>`人工智能` | +21,835 | 727.8 | 148,845 |
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>不会剪辑，写网页一样就能出片<br>`人工智能` | +19,751 | 658.4 | 85,081 |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>别再让 AI 做出千篇一律的页面<br>`人工智能` | +18,768 | 625.6 | 116,680 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | +155,736 | 5,191.2 | 465,706 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI 查代码漏洞，另一个 AI 逐条复核<br>`人工智能` | +43,643 | 1,454.8 | 74,549 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca)<br>几个 AI 一起写，谁好用一眼看出<br>`人工智能` | +32,101 | 1,070.0 | 127,560 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | +31,370 | 1,045.7 | 282,869 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | +26,848 | 894.9 | 192,767 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | +23,378 | 779.3 | 305,180 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>编程 AI 换模型，额度用完自动续<br>`人工智能` | +22,768 | 758.9 | 38,037 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大项目看不过来，先看这张地图<br>`人工智能` | +21,885 | 729.5 | 149,465 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>不会剪辑，写网页一样就能出片<br>`人工智能` | +19,630 | 654.3 | 85,765 |
+| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>别再让 AI 做出千篇一律的页面<br>`人工智能` | +19,073 | 635.8 | 117,519 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -186,16 +186,16 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | +281,929 | 2,967.7 †<br><sub>÷95 天</sub> | 282,232 |
-| 2 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | +462,611 | 2,141.7 †<br><sub>÷216 天</sub> | 463,557 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | +191,648 | 1,220.7 †<br><sub>÷157 天</sub> | 191,953 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>能把事做完的 AI 助手，跑在自己设备上<br>`人工智能` | +394,516 | 1,105.1 †<br><sub>÷357 天</sub> | 394,577 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | +303,988 | 1,006.6 †<br><sub>÷302 天</sub> | 304,356 |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>越用越会干活的 AI 助手<br>`人工智能` | +263,694 | 722.4 | 263,830 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>编程 AI 换模型，额度用完自动续<br>`人工智能` | +37,269 | 690.2 †<br><sub>÷54 天</sub> | 37,507 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大项目看不过来，先看这张地图<br>`人工智能` | +148,589 | 654.6 †<br><sub>÷227 天</sub> | 148,845 |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>终端里，有个开源 AI 帮你写代码<br>`人工智能` | +195,601 | 535.9 | 227,247 |
-| 10 | [stablyai/orca](https://github.com/stablyai/orca)<br>几个 AI 一起写，谁好用一眼看出<br>`人工智能` | +126,083 | 516.7 †<br><sub>÷244 天</sub> | 126,539 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | +282,580 | 2,943.5 †<br><sub>÷96 天</sub> | 282,869 |
+| 2 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | +464,788 | 2,141.9 †<br><sub>÷217 天</sub> | 465,706 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | +192,395 | 1,217.7 †<br><sub>÷158 天</sub> | 192,767 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>能把事做完的 AI 助手，跑在自己设备上<br>`人工智能` | +394,592 | 1,102.2 †<br><sub>÷358 天</sub> | 394,642 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | +304,818 | 1,006.0 †<br><sub>÷303 天</sub> | 305,180 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>越用越会干活的 AI 助手<br>`人工智能` | +263,992 | 723.3 | 264,139 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>编程 AI 换模型，额度用完自动续<br>`人工智能` | +37,811 | 687.5 †<br><sub>÷55 天</sub> | 38,037 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大项目看不过来，先看这张地图<br>`人工智能` | +149,190 | 654.3 †<br><sub>÷228 天</sub> | 149,465 |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>终端里，有个开源 AI 帮你写代码<br>`人工智能` | +195,777 | 536.4 | 227,505 |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca)<br>几个 AI 一起写，谁好用一眼看出<br>`人工智能` | +127,067 | 518.6 †<br><sub>÷245 天</sub> | 127,560 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -228,16 +228,16 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | 463,557 |
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>能把事做完的 AI 助手，跑在自己设备上<br>`人工智能` | 394,577 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | 304,356 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | 282,232 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>越用越会干活的 AI 助手<br>`人工智能` | 263,830 |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>终端里，有个开源 AI 帮你写代码<br>`人工智能` | 227,247 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 技能怎么写，照着官方学<br>`人工智能` | 195,810 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | 191,953 |
-| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>换接口不用改配置，一键切<br>`人工智能` | 154,901 |
-| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>AI 做的界面，看着像专业设计<br>`人工智能` | 150,303 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>让 AI 帮你克隆任何软件<br>`人工智能` | 465,706 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>能把事做完的 AI 助手，跑在自己设备上<br>`人工智能` | 394,642 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>给编程 AI 加记忆、技能和安全检查<br>`人工智能` | 305,180 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>想要什么智能体，用插件自己拼<br>`人工智能` | 282,869 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>越用越会干活的 AI 助手<br>`人工智能` | 264,139 |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>终端里，有个开源 AI 帮你写代码<br>`人工智能` | 227,505 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 技能怎么写，照着官方学<br>`人工智能` | 196,542 |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>让 AI 少写废代码，该写的写对<br>`人工智能` | 192,767 |
+| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>换接口不用改配置，一键切<br>`人工智能` | 155,186 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>AI 做的界面，看着像专业设计<br>`人工智能` | 150,768 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -272,15 +272,33 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>用插件让 AI 编程智能体自动完成开发 | 2026-11-15<br><sub>1.2 天</sub> | 109 | 87.2 |
-| 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>在本地排查 CI 日志与开发环境报错 | 2026-11-10<br><sub>6.0 天</sub> | 113 | 18.7 |
+| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… | 2026-11-16<br><sub>1.0 天</sub> | 256 | 247.7 |
+| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… | 2026-11-16<br><sub>1.0 天</sub> | 165 | 159.6 |
+| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>CMP30HX Mod: Shape the World, Share the Craft, Build It Together | 2026-11-16<br><sub>1.2 天</sub> | 113 | 95.1 |
+| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.8 |
+| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management | 2026-11-15<br><sub>1.9 天</sub> | 115 | 61.7 |
+| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. | 2026-11-15<br><sub>2.2 天</sub> | 136 | 60.4 |
+| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's storage problems, just run fix-storage. | 2026-11-14<br><sub>3.0 天</sub> | 117 | 39.1 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Cradle of small Python automation scripts — files, mail, scraping. | 2026-11-15<br><sub>1.9 天</sub> | 100 | 53.7 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
 
+<a href="https://www.star-history.com/#Orderchodrag/smelt-minecraft-mods-to-rust-converter&Date"><img src="https://api.star-history.com/svg?repos=Orderchodrag/smelt-minecraft-mods-to-rust-converter&type=Date" width="260" alt="Orderchodrag/smelt-minecraft-mods-to-rust-converter 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#brightsheikhfold/minecraft-ai-mod-builder&Date"><img src="https://api.star-history.com/svg?repos=brightsheikhfold/minecraft-ai-mod-builder&type=Date" width="260" alt="brightsheikhfold/minecraft-ai-mod-builder 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#zaxd122/cmp30hx-mod&Date"><img src="https://api.star-history.com/svg?repos=zaxd122/cmp30hx-mod&type=Date" width="260" alt="zaxd122/cmp30hx-mod 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#parth888/runtime-forge&Date"><img src="https://api.star-history.com/svg?repos=parth888/runtime-forge&type=Date" width="260" alt="parth888/runtime-forge 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#Dude-web/easywinget-gui&Date"><img src="https://api.star-history.com/svg?repos=Dude-web/easywinget-gui&type=Date" width="260" alt="Dude-web/easywinget-gui 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#AI4XE/Parallax&Date"><img src="https://api.star-history.com/svg?repos=AI4XE/Parallax&type=Date" width="260" alt="AI4XE/Parallax 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#brunnojob/devrescue&Date"><img src="https://api.star-history.com/svg?repos=brunnojob/devrescue&type=Date" width="260" alt="brunnojob/devrescue 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#govijr/fix-storage&Date"><img src="https://api.star-history.com/svg?repos=govijr/fix-storage&type=Date" width="260" alt="govijr/fix-storage 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#restordinaryjoint/python-script-cradle&Date"><img src="https://api.star-history.com/svg?repos=restordinaryjoint/python-script-cradle&type=Date" width="260" alt="restordinaryjoint/python-script-cradle 的星标历史曲线"></a>
 
 </details>
 
@@ -288,14 +306,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | +781 | 111.6 | 95,149 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | +366 | 52.3 | 92,005 |
-| 3 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | +258 | 36.9 | 36,211 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | +189 | 27.0 | 69,983 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | +139 | 19.9 | 96,716 |
-| 6 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | +119 | 17.0 | 47,044 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | +95 | 13.6 | 46,909 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | +56 | 8.0 | 26,114 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | +753 | 107.6 | 95,213 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | +361 | 51.6 | 92,191 |
+| 3 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | +256 | 36.6 | 36,237 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | +185 | 26.4 | 70,017 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | +142 | 20.3 | 96,727 |
+| 6 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | +126 | 18.0 | 47,063 |
+| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | +97 | 13.9 | 46,914 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | +59 | 8.4 | 26,123 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -322,14 +340,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | +3,584 | 119.5 | 95,149 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | +1,355 | 45.2 | 92,005 |
-| 3 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | +1,186 | 39.5 | 36,211 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | +944 | 31.5 | 69,983 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | +667 | 22.2 | 96,716 |
-| 6 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | +453 | 15.1 | 47,044 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | +404 | 13.5 | 46,909 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | +215 | 7.2 | 26,114 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | +3,620 | 120.7 | 95,213 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | +1,374 | 45.8 | 92,191 |
+| 3 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | +1,192 | 39.7 | 36,237 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | +942 | 31.4 | 70,017 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | +662 | 22.1 | 96,727 |
+| 6 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | +461 | 15.4 | 47,063 |
+| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | +402 | 13.4 | 46,914 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | +220 | 7.3 | 26,123 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -356,14 +374,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | +27,389 | 75.0 | 95,149 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | +20,659 | 56.6 | 92,005 |
-| 3 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | +16,506 | 45.2 | 96,716 |
-| 4 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | +15,269 | 41.8 | 36,211 |
-| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | +13,329 | 36.5 | 69,983 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | +6,489 | 17.8 | 46,909 |
-| 7 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | +6,328 | 17.3 | 47,044 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | +4,415 | 12.1 | 26,114 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | +27,402 | 75.1 | 95,213 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | +20,627 | 56.5 | 92,191 |
+| 3 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | +16,505 | 45.2 | 96,727 |
+| 4 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | +15,275 | 41.8 | 36,237 |
+| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | +13,333 | 36.5 | 70,017 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | +6,477 | 17.7 | 46,914 |
+| 7 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | +6,334 | 17.4 | 47,063 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | +4,413 | 12.1 | 26,123 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -390,14 +408,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | 96,716 |
-| 2 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | 95,149 |
-| 3 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | 92,005 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | 69,983 |
-| 5 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | 47,044 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | 46,909 |
-| 7 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | 36,211 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | 26,114 |
+| 1 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>运行打包测试装包，一个工具全包<br>`开发者工具` | 96,727 |
+| 2 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>打开就快，还能多人一起写代码<br>`开发者工具` | 95,213 |
+| 3 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>装 Python 包，不用再干等<br>`开发者工具` | 92,191 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>翻遍整个目录找文字，比 grep 快<br>`开发者工具` | 70,017 |
+| 5 | [cli/cli](https://github.com/cli/cli)<br>不开网页，命令行里处理 GitHub<br>`开发者工具` | 47,063 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>语法高亮、语言服务都内置的文本编辑器<br>`开发者工具` | 46,914 |
+| 7 | [jdx/mise](https://github.com/jdx/mise)<br>开发工具、环境变量、任务，一个工具管<br>`开发者工具` | 36,237 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>网页代码格式和检查，一个工具搞定<br>`开发者工具` | 26,123 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -432,14 +450,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | +284 | 40.6 | 32,979 |
-| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | +261 | 37.3 | 39,409 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | +158 | 22.6 | 17,729 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | +115 | 16.4 | 34,077 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | +75 | 10.7 | 11,541 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | +52 | 7.4 | 13,269 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | +15 | 2.1 | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | +9 | 1.3 | 9,009 |
+| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | +307 | 43.9 | 33,047 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | +278 | 39.7 | 39,473 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | +178 | 25.4 | 17,770 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | +102 | 14.6 | 34,094 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | +65 | 9.3 | 11,548 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | +51 | 7.3 | 13,280 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | +18 | 2.6 | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | +9 | 1.3 | 9,010 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -466,14 +484,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | +973 | 32.4 | 39,409 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | +969 | 32.3 | 32,979 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | +644 | 21.5 | 17,729 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | +452 | 15.1 | 34,077 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | +355 | 11.8 | 11,541 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | +242 | 8.1 | 13,269 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | +113 | 3.8 | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | +41 | 1.4 | 9,009 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | +1,017 | 33.9 | 39,473 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | +1,008 | 33.6 | 33,047 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | +671 | 22.4 | 17,770 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | +461 | 15.4 | 34,094 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | +364 | 12.1 | 11,548 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | +249 | 8.3 | 13,280 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | +114 | 3.8 | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | +41 | 1.4 | 9,010 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -500,14 +518,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | +10,416 | 28.5 | 39,409 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | +7,908 | 21.7 | 32,979 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | +4,570 | 12.5 | 17,729 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | +3,651 | 10.0 | 34,077 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | +3,602 | 9.9 | 11,541 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | +2,388 | 6.5 | 13,269 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | +1,266 | 3.5 | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | +556 | 1.5 | 9,009 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | +10,461 | 28.7 | 39,473 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | +7,953 | 21.8 | 33,047 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | +4,593 | 12.6 | 17,770 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | +3,655 | 10.0 | 34,094 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | +3,605 | 9.9 | 11,548 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | +2,394 | 6.6 | 13,280 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | +1,268 | 3.5 | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | +555 | 1.5 | 9,010 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -534,14 +552,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | 39,409 |
-| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | 34,077 |
-| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | 32,979 |
-| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | 17,729 |
-| 5 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | 13,269 |
-| 6 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | 11,541 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | 9,009 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>容器和代码仓，一次扫完安全问题<br>`安全` | 39,473 |
+| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>应用安全怎么做，看这套速查表<br>`安全` | 34,094 |
+| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>写个模板，就能批量扫漏洞<br>`安全` | 33,047 |
+| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>代码里的问题，提交前先揪出来<br>`安全` | 17,770 |
+| 5 | [anchore/grype](https://github.com/anchore/grype)<br>容器镜像有没有漏洞，扫一下就知道<br>`安全` | 13,280 |
+| 6 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>用的依赖安不安全，扫一下就知道<br>`安全` | 11,548 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>云上有异常，第一时间知道<br>`安全` | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 代码的安全隐患，扫一遍就知道<br>`安全` | 9,010 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -572,24 +590,27 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 为 React 接入开源灵动岛 | 2026-11-13<br><sub>3.2 天</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，单文件就能换主题 | 2026-11-14<br><sub>1.8 天</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>给界面换上圆角版 Geist 字体 | 2026-11-11<br><sub>4.9 天</sub> | 151 | 30.7 |
-| 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>让 AI 替你接电话并运行工具的开源总机 | 2026-11-11<br><sub>5.2 天</sub> | 120 | 23.2 |
-| 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>小镇土地审批太繁琐？按地块统一管理 | 2026-11-10<br><sub>6.0 天</sub> | 128 | 21.2 |
+| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>用 shadcn 为 React 接入开源灵动岛 | 2026-11-13<br><sub>4.2 天</sub> | 791 | 188.5 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery | 2026-11-15<br><sub>1.9 天</sub> | 112 | 59.8 |
+| 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，单文件就能换主题 | 2026-11-14<br><sub>2.8 天</sub> | 127 | 45.7 |
+| 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性孪生环境中复现并修复故障 | 2026-11-13<br><sub>4.3 天</sub> | 130 | 29.9 |
+| 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>给界面换上圆角版 Geist 字体 | 2026-11-11<br><sub>5.9 天</sub> | 172 | 29.1 |
+| 6 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>让 AI 替你接电话并运行工具的开源总机 | 2026-11-11<br><sub>6.2 天</sub> | 127 | 20.5 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
 
 <a href="https://www.star-history.com/#opencoredev/islandcn&Date"><img src="https://api.star-history.com/svg?repos=opencoredev/islandcn&type=Date" width="260" alt="opencoredev/islandcn 的星标历史曲线"></a>
 
+<a href="https://www.star-history.com/#ELEL182/bunny-hopping-mod&Date"><img src="https://api.star-history.com/svg?repos=ELEL182/bunny-hopping-mod&type=Date" width="260" alt="ELEL182/bunny-hopping-mod 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#rohit3a/t3-clawd&Date"><img src="https://api.star-history.com/svg?repos=rohit3a/t3-clawd&type=Date" width="260" alt="rohit3a/t3-clawd 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#spacesky-cell/TwinFix&Date"><img src="https://api.star-history.com/svg?repos=spacesky-cell/TwinFix&type=Date" width="260" alt="spacesky-cell/TwinFix 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#shadcn-labs/goeist-font&Date"><img src="https://api.star-history.com/svg?repos=shadcn-labs/goeist-font&type=Date" width="260" alt="shadcn-labs/goeist-font 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#DeskLabs-OpenSource/DeskVoice&Date"><img src="https://api.star-history.com/svg?repos=DeskLabs-OpenSource/DeskVoice&type=Date" width="260" alt="DeskLabs-OpenSource/DeskVoice 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#chiban-org/chiban-oss&Date"><img src="https://api.star-history.com/svg?repos=chiban-org/chiban-oss&type=Date" width="260" alt="chiban-org/chiban-oss 的星标历史曲线"></a>
 
 </details>
 
@@ -597,31 +618,31 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | +669 | 95.6 | 128,321 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | +367 | 52.4 | 252,638 |
-| 3 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | +191 | 27.3 | 143,608 |
-| 4 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | +190 | 27.1 | 88,829 |
-| 5 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | +180 | 25.7 | 63,999 |
-| 6 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | +149 | 21.3 | 54,992 |
-| 7 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | +139 | 19.9 | 98,673 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | +38 | 5.4 | 50,568 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | +651 | 93.0 | 128,408 |
+| 2 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | +572 | 81.7 | 89,449 |
+| 3 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | +440 | 62.9 | 252,871 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | +263 | 37.6 | 143,683 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | +199 | 28.4 | 98,736 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | +183 | 26.1 | 64,015 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | +176 | 25.1 | 55,182 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | +36 | 5.1 | 50,568 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
 
 <a href="https://www.star-history.com/#shadcn-ui/ui&Date"><img src="https://api.star-history.com/svg?repos=shadcn-ui/ui&type=Date" width="260" alt="shadcn-ui/ui 的星标历史曲线"></a>
 
+<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#facebook/react&Date"><img src="https://api.star-history.com/svg?repos=facebook/react&type=Date" width="260" alt="facebook/react 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#vercel/next.js&Date"><img src="https://api.star-history.com/svg?repos=vercel/next.js&type=Date" width="260" alt="vercel/next.js 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#tailwindlabs/tailwindcss&Date"><img src="https://api.star-history.com/svg?repos=tailwindlabs/tailwindcss&type=Date" width="260" alt="tailwindlabs/tailwindcss 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#withastro/astro&Date"><img src="https://api.star-history.com/svg?repos=withastro/astro&type=Date" width="260" alt="withastro/astro 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#vuejs/core&Date"><img src="https://api.star-history.com/svg?repos=vuejs/core&type=Date" width="260" alt="vuejs/core 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#tailwindlabs/tailwindcss&Date"><img src="https://api.star-history.com/svg?repos=tailwindlabs/tailwindcss&type=Date" width="260" alt="tailwindlabs/tailwindcss 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#tanstack/query&Date"><img src="https://api.star-history.com/svg?repos=tanstack/query&type=Date" width="260" alt="tanstack/query 的星标历史曲线"></a>
 
@@ -631,14 +652,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | +2,786 | 92.9 | 128,321 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | +1,921 | 64.0 | 252,638 |
-| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | +960 | 32.0 | 98,673 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | +808 | 26.9 | 143,608 |
-| 5 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | +802 | 26.7 | 63,999 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | +521 | 17.4 | 88,829 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | +424 | 14.1 | 54,992 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | +190 | 6.3 | 50,568 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | +2,812 | 93.7 | 128,408 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | +1,994 | 66.5 | 252,871 |
+| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | +1,021 | 34.0 | 98,736 |
+| 4 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | +900 | 30.0 | 89,449 |
+| 5 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | +888 | 29.6 | 143,683 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | +818 | 27.3 | 64,015 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | +463 | 15.4 | 55,182 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | +186 | 6.2 | 50,568 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -649,11 +670,11 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 <a href="https://www.star-history.com/#tailwindlabs/tailwindcss&Date"><img src="https://api.star-history.com/svg?repos=tailwindlabs/tailwindcss&type=Date" width="260" alt="tailwindlabs/tailwindcss 的星标历史曲线"></a>
 
+<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte 的星标历史曲线"></a>
+
 <a href="https://www.star-history.com/#vercel/next.js&Date"><img src="https://api.star-history.com/svg?repos=vercel/next.js&type=Date" width="260" alt="vercel/next.js 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#withastro/astro&Date"><img src="https://api.star-history.com/svg?repos=withastro/astro&type=Date" width="260" alt="withastro/astro 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#vuejs/core&Date"><img src="https://api.star-history.com/svg?repos=vuejs/core&type=Date" width="260" alt="vuejs/core 的星标历史曲线"></a>
 
@@ -665,14 +686,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | +30,515 | 83.6 | 128,321 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | +15,647 | 42.9 | 252,638 |
-| 3 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | +10,581 | 29.0 | 63,999 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | +10,424 | 28.6 | 143,608 |
-| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | +8,946 | 24.5 | 98,673 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | +5,181 | 14.2 | 88,829 |
-| 7 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | +3,741 | 10.2 | 50,568 |
-| 8 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | +3,679 | 10.1 | 54,992 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | +30,531 | 83.6 | 128,408 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | +15,744 | 43.1 | 252,871 |
+| 3 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | +10,595 | 29.0 | 64,015 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | +10,497 | 28.8 | 143,683 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | +9,008 | 24.7 | 98,736 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | +5,557 | 15.2 | 89,449 |
+| 7 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | +3,730 | 10.2 | 50,568 |
+| 8 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | +3,713 | 10.2 | 55,182 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -699,13 +720,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | 252,638 |
-| 2 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | 143,608 |
-| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | 128,321 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | 98,673 |
-| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | 88,829 |
-| 6 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | 63,999 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | 54,992 |
+| 1 | [facebook/react](https://github.com/facebook/react)<br>网页和 App 界面，都能用它来搭<br>`Web / 前端` | 252,871 |
+| 2 | [vercel/next.js](https://github.com/vercel/next.js)<br>用 React 做完整网站，从前到后<br>`Web / 前端` | 143,683 |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>好看的组件，代码归你，随便改<br>`Web / 前端` | 128,408 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>不写一大堆 CSS，也能做定制界面<br>`Web / 前端` | 98,736 |
+| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>你写组件，编译器变出高效的网页代码<br>`Web / 前端` | 89,449 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>做内容型网站，页面输出更轻量<br>`Web / 前端` | 64,015 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>从一个小页面开始，用多少学多少<br>`Web / 前端` | 55,182 |
 | 8 | [tanstack/query](https://github.com/tanstack/query)<br>请求数据和缓存，交给它管<br>`Web / 前端` | 50,568 |
 
 <details>
@@ -737,21 +758,24 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>影音太分散？一个自托管应用集中管理 | 2026-11-09<br><sub>6.7 天</sub> | 1,333 | 199.2 |
-| 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐层排查域名解析与历史 | 2026-11-13<br><sub>3.1 天</sub> | 131 | 42.5 |
-| 3 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>60 秒看清 Solana 验证节点健康状态 | 2026-11-10<br><sub>6.0 天</sub> | 230 | 38.1 |
-| 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性孪生环境中复现并修复故障 | 2026-11-13<br><sub>3.4 天</sub> | 124 | 37.0 |
+| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>Validator hobbyist notes for Solana — hardware sizing and care tasks. | 2026-11-16<br><sub>1.0 天</sub> | 101 | 101.0 |
+| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>CMaNGOS Helm: Wield the Helm, Command Your Realm | 2026-11-15<br><sub>1.9 天</sub> | 118 | 63.1 |
+| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Jet Reports Skill: Visual Workbook Workflows NAV and Business Central | 2026-11-15<br><sub>1.9 天</sub> | 116 | 62.7 |
+| 4 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐层排查域名解析与历史 | 2026-11-13<br><sub>4.1 天</sub> | 161 | 39.4 |
+| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices | 2026-11-15<br><sub>1.8 天</sub> | 115 | 62.4 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
 
-<a href="https://www.star-history.com/#HolyArrs/HolyArrs&Date"><img src="https://api.star-history.com/svg?repos=HolyArrs/HolyArrs&type=Date" width="260" alt="HolyArrs/HolyArrs 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#s-warren725/solana-node-notes&Date"><img src="https://api.star-history.com/svg?repos=s-warren725/solana-node-notes&type=Date" width="260" alt="s-warren725/solana-node-notes 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#mmclucknorrismm/cmangos-helm&Date"><img src="https://api.star-history.com/svg?repos=mmclucknorrismm/cmangos-helm&type=Date" width="260" alt="mmclucknorrismm/cmangos-helm 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#Realmeshowroom/jet-reports-skill&Date"><img src="https://api.star-history.com/svg?repos=Realmeshowroom/jet-reports-skill&type=Date" width="260" alt="Realmeshowroom/jet-reports-skill 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#CaptureMiller/strata-osint-domain-recon&Date"><img src="https://api.star-history.com/svg?repos=CaptureMiller/strata-osint-domain-recon&type=Date" width="260" alt="CaptureMiller/strata-osint-domain-recon 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#ValidatorStack/solana-vigil&Date"><img src="https://api.star-history.com/svg?repos=ValidatorStack/solana-vigil&type=Date" width="260" alt="ValidatorStack/solana-vigil 的星标历史曲线"></a>
-
-<a href="https://www.star-history.com/#spacesky-cell/TwinFix&Date"><img src="https://api.star-history.com/svg?repos=spacesky-cell/TwinFix&type=Date" width="260" alt="spacesky-cell/TwinFix 的星标历史曲线"></a>
+<a href="https://www.star-history.com/#tdawalton1-alt/microsoft-powerpoint&Date"><img src="https://api.star-history.com/svg?repos=tdawalton1-alt/microsoft-powerpoint&type=Date" width="260" alt="tdawalton1-alt/microsoft-powerpoint 的星标历史曲线"></a>
 
 </details>
 
@@ -759,14 +783,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | +262 | 37.4 | 129,090 |
-| 2 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | +201 | 28.7 | 38,863 |
-| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | +199 | 28.4 | 79,097 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | +188 | 26.9 | 77,942 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | +178 | 25.4 | 67,651 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | +91 | 13.0 | 65,567 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | +91 | 13.0 | 50,253 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | +67 | 9.6 | 25,907 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | +342 | 48.9 | 129,325 |
+| 2 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | +274 | 39.1 | 39,081 |
+| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | +205 | 29.3 | 79,127 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | +185 | 26.4 | 77,964 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | +175 | 25.0 | 67,672 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | +89 | 12.7 | 65,575 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | +87 | 12.4 | 50,263 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | +65 | 9.3 | 25,911 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -793,14 +817,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | +1,175 | 39.2 | 79,097 |
-| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | +1,165 | 38.8 | 67,651 |
-| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | +1,062 | 35.4 | 129,090 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | +767 | 25.6 | 77,942 |
-| 5 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | +533 | 17.8 | 38,863 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | +409 | 13.6 | 65,567 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | +406 | 13.5 | 50,253 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | +157 | 5.2 | 25,907 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | +1,177 | 39.2 | 79,127 |
+| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | +1,170 | 39.0 | 67,672 |
+| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | +1,145 | 38.2 | 129,325 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | +769 | 25.6 | 77,964 |
+| 5 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | +612 | 20.4 | 39,081 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | +403 | 13.4 | 65,575 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | +399 | 13.3 | 50,263 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | +160 | 5.3 | 25,911 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -827,14 +851,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | +12,094 | 33.1 | 79,097 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | +11,779 | 32.3 | 129,090 |
-| 3 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | +8,075 | 22.1 | 65,567 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | +7,973 | 21.8 | 77,942 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | +7,052 | 19.3 | 67,651 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | +3,825 | 10.5 | 50,253 |
-| 7 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | +2,827 | 7.7 | 38,863 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | +2,110 | 5.8 | 25,907 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | +12,111 | 33.2 | 79,127 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | +11,870 | 32.5 | 129,325 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | +7,982 | 21.9 | 77,964 |
+| 4 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | +7,960 | 21.8 | 65,575 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | +7,063 | 19.4 | 67,672 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | +3,823 | 10.5 | 50,263 |
+| 7 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | +2,906 | 8.0 | 39,081 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | +2,107 | 5.8 | 25,911 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -843,9 +867,9 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 <a href="https://www.star-history.com/#kubernetes/kubernetes&Date"><img src="https://api.star-history.com/svg?repos=kubernetes/kubernetes&type=Date" width="260" alt="kubernetes/kubernetes 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#traefik/traefik&Date"><img src="https://api.star-history.com/svg?repos=traefik/traefik&type=Date" width="260" alt="traefik/traefik 的星标历史曲线"></a>
-
 <a href="https://www.star-history.com/#grafana/grafana&Date"><img src="https://api.star-history.com/svg?repos=grafana/grafana&type=Date" width="260" alt="grafana/grafana 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#traefik/traefik&Date"><img src="https://api.star-history.com/svg?repos=traefik/traefik&type=Date" width="260" alt="traefik/traefik 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#prometheus/prometheus&Date"><img src="https://api.star-history.com/svg?repos=prometheus/prometheus&type=Date" width="260" alt="prometheus/prometheus 的星标历史曲线"></a>
 
@@ -861,14 +885,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | 129,090 |
-| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | 79,097 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | 77,942 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | 67,651 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | 65,567 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | 50,253 |
-| 7 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | 38,863 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | 25,907 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>容器多了，部署扩容交给它<br>`基础设施` | 129,325 |
+| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>搭网站服务器，HTTPS 自动配好<br>`基础设施` | 79,127 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>指标日志链路，放进一个面板<br>`基础设施` | 77,964 |
+| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>系统出问题，告警先找到你<br>`基础设施` | 67,672 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>服务多了，流量自动分好<br>`基础设施` | 65,575 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>云资源写成代码，可审阅、可版本管理<br>`基础设施` | 50,263 |
+| 7 | [docker/compose](https://github.com/docker/compose)<br>多个容器写进一个文件，一起跑<br>`基础设施` | 39,081 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>用熟悉的编程语言管云资源<br>`基础设施` | 25,911 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -897,28 +921,19 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 ### 最热新仓库（近 7 天内创建）
 
-| # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
-|---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>为 Windows 版 Codex 换上动漫开屏动画 | 2026-11-10<br><sub>6.5 天</sub> | 104 | 16.1 |
-
-<details>
-<summary>本榜星标历史曲线</summary>
-
-<a href="https://www.star-history.com/#bohuis686-creator/AstralCodex&Date"><img src="https://api.star-history.com/svg?repos=bohuis686-creator/AstralCodex&type=Date" width="260" alt="bohuis686-creator/AstralCodex 的星标历史曲线"></a>
-
-</details>
+本次运行中没有符合条件的新仓库。
 
 ### 本周增长最快（近 7 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | +443 | 63.3 | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | +235 | 33.6 | 62,424 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | +149 | 21.3 | 25,795 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | +138 | 19.7 | 9,400 |
-| 5 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | +102 | 14.6 | 32,476 |
-| 6 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | +100 | 14.3 | 42,856 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | +35 | 5.0 | 7,817 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | +449 | 64.1 | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | +256 | 36.6 | 62,469 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | +146 | 20.9 | 25,813 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | +144 | 20.6 | 9,437 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | +107 | 15.3 | 42,877 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | +99 | 14.1 | 32,486 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | +34 | 4.9 | 7,822 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>AE 做的动画，直接放进 iOS<br>`设计 / 创意` | +0 | 0.0 | 43 |
 
 <details>
@@ -932,9 +947,9 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 <a href="https://www.star-history.com/#jgraph/drawio&Date"><img src="https://api.star-history.com/svg?repos=jgraph/drawio&type=Date" width="260" alt="jgraph/drawio 的星标历史曲线"></a>
 
-<a href="https://www.star-history.com/#airbnb/lottie-web&Date"><img src="https://api.star-history.com/svg?repos=airbnb/lottie-web&type=Date" width="260" alt="airbnb/lottie-web 的星标历史曲线"></a>
-
 <a href="https://www.star-history.com/#saadeghi/daisyui&Date"><img src="https://api.star-history.com/svg?repos=saadeghi/daisyui&type=Date" width="260" alt="saadeghi/daisyui 的星标历史曲线"></a>
+
+<a href="https://www.star-history.com/#airbnb/lottie-web&Date"><img src="https://api.star-history.com/svg?repos=airbnb/lottie-web&type=Date" width="260" alt="airbnb/lottie-web 的星标历史曲线"></a>
 
 <a href="https://www.star-history.com/#phosphor-icons/homepage&Date"><img src="https://api.star-history.com/svg?repos=phosphor-icons/homepage&type=Date" width="260" alt="phosphor-icons/homepage 的星标历史曲线"></a>
 
@@ -946,13 +961,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | +1,973 | 65.8 | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | +1,306 | 43.5 | 62,424 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | +754 | 25.1 | 25,795 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | +585 | 19.5 | 9,400 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | +322 | 10.7 | 42,856 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | +265 | 8.8 | 32,476 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | +160 | 5.3 | 7,817 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | +1,980 | 66.0 | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | +1,298 | 43.3 | 62,469 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | +742 | 24.7 | 25,813 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | +600 | 20.0 | 9,437 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | +342 | 11.4 | 42,877 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | +267 | 8.9 | 32,486 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | +165 | 5.5 | 7,822 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>AE 做的动画，直接放进 iOS<br>`设计 / 创意` | +0 | 0.0 | 43 |
 
 <details>
@@ -980,13 +995,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | +26,933 | 73.8 | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | +21,655 | 59.3 | 62,424 |
-| 3 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | +6,639 | 18.2 | 9,400 |
-| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | +6,405 | 17.5 | 25,795 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | +4,232 | 11.6 | 42,856 |
-| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | +2,204 | 6.0 | 7,817 |
-| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | +1,220 | 3.3 | 32,476 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | +26,925 | 73.8 | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | +21,697 | 59.4 | 62,469 |
+| 3 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | +6,658 | 18.2 | 9,437 |
+| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | +6,406 | 17.6 | 25,813 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | +4,252 | 11.6 | 42,877 |
+| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | +2,207 | 6.0 | 7,822 |
+| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | +1,224 | 3.4 | 32,486 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>AE 做的动画，直接放进 iOS<br>`设计 / 创意` | +1 | 0.0 | 43 |
 
 <details>
@@ -1014,13 +1029,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | 62,424 |
-| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | 42,856 |
-| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | 32,476 |
-| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | 25,795 |
-| 6 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | 9,400 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | 7,817 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>打开就画，像在纸上随手画图<br>`设计 / 创意` | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>团队一起做设计，用开源平台<br>`设计 / 创意` | 62,469 |
+| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 也有现成组件可挑<br>`设计 / 创意` | 42,877 |
+| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>AE 做的动画，直接放进网页<br>`设计 / 创意` | 32,486 |
+| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>一套图标风格统一，拿来就用<br>`设计 / 创意` | 25,813 |
+| 6 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>画图和白板，一个编辑器搞定<br>`设计 / 创意` | 9,437 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>一整套灵活的图标，人人可用<br>`设计 / 创意` | 7,822 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>AE 做的动画，直接放进 iOS<br>`设计 / 创意` | 43 |
 
 <details>
@@ -1050,20 +1065,29 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 ### 最热新仓库（近 7 天内创建）
 
-本次运行中没有符合条件的新仓库。
+| # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
+|---|---|---|---:|---:|
+| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing | 2026-11-15<br><sub>1.8 天</sub> | 115 | 63.3 |
+
+<details>
+<summary>本榜星标历史曲线</summary>
+
+<a href="https://www.star-history.com/#alibasimm1993/whalefeed&Date"><img src="https://api.star-history.com/svg?repos=alibasimm1993/whalefeed&type=Date" width="260" alt="alibasimm1993/whalefeed 的星标历史曲线"></a>
+
+</details>
 
 ### 本周增长最快（近 7 天）
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | +183 | 26.1 | 43,104 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | +136 | 19.4 | 50,960 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | +95 | 13.6 | 75,531 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | +69 | 9.9 | 40,350 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>系统之间的事件流，交给它来传<br>`数据` | +42 | 6.0 | 34,224 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | +41 | 5.9 | 14,175 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | +24 | 3.4 | 17,303 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | +10 | 1.4 | 13,471 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | +181 | 25.9 | 43,125 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | +143 | 20.4 | 50,971 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | +98 | 14.0 | 75,543 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | +71 | 10.1 | 40,363 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>系统之间的事件流，交给它来传<br>`数据` | +44 | 6.3 | 34,224 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | +43 | 6.1 | 14,183 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | +29 | 4.1 | 17,310 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | +10 | 1.4 | 13,472 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1090,14 +1114,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | +955 | 31.8 | 43,104 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | +573 | 19.1 | 50,960 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | +446 | 14.9 | 75,531 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | +294 | 9.8 | 40,350 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | +956 | 31.9 | 43,125 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | +577 | 19.2 | 50,971 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | +435 | 14.5 | 75,543 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | +297 | 9.9 | 40,363 |
 | 5 | [apache/kafka](https://github.com/apache/kafka)<br>系统之间的事件流，交给它来传<br>`数据` | +290 | 9.7 | 34,224 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | +159 | 5.3 | 14,175 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | +106 | 3.5 | 17,303 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | +46 | 1.5 | 13,471 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | +162 | 5.4 | 14,183 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | +112 | 3.7 | 17,310 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | +43 | 1.4 | 13,472 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1124,14 +1148,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 新增星标 | 星标/天 | 总星标 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | +9,444 | 25.9 | 43,104 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | +7,578 | 20.8 | 50,960 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | +7,358 | 20.2 | 75,531 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | +4,774 | 13.1 | 40,350 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>系统之间的事件流，交给它来传<br>`数据` | +3,312 | 9.1 | 34,224 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | +2,470 | 6.8 | 14,175 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | +1,300 | 3.6 | 17,303 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | +872 | 2.4 | 13,471 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | +9,442 | 25.9 | 43,125 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | +7,578 | 20.8 | 50,971 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | +7,355 | 20.2 | 75,543 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | +4,776 | 13.1 | 40,363 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>系统之间的事件流，交给它来传<br>`数据` | +3,307 | 9.1 | 34,224 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | +2,473 | 6.8 | 14,183 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | +1,304 | 3.6 | 17,310 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | +867 | 2.4 | 13,472 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1158,14 +1182,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 总星标 |
 |---|---|---:|
-| 1 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | 75,531 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | 50,960 |
-| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | 43,104 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | 40,350 |
+| 1 | [apache/superset](https://github.com/apache/superset)<br>数据看不懂，做成图就明白<br>`数据` | 75,543 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量数据实时分析，用开源的<br>`数据` | 50,971 |
+| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>不搭数据库服务，也能跑 SQL 分析<br>`数据` | 43,125 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表格数据处理快，不用干等<br>`数据` | 40,363 |
 | 5 | [apache/kafka](https://github.com/apache/kafka)<br>系统之间的事件流，交给它来传<br>`数据` | 34,224 |
-| 6 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | 17,303 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | 14,175 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | 13,471 |
+| 6 | [apache/arrow](https://github.com/apache/arrow)<br>不同语言之间，数据直接通用<br>`数据` | 17,310 |
+| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>数据转换，照软件工程的做法来<br>`数据` | 14,183 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>在网页里写代码，边写边看结果<br>`数据` | 13,472 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

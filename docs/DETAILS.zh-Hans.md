@@ -117,34 +117,43 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
+| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |  | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) |  | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… |
+| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) |  | 31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 会议笔记全保存在自己电脑里 | 保留在您电脑上的私密 AI 会议记录。一款适用于 Mac、Windows 和 Linux 的免费、开源 Granola 替代品。 |
-| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 让本地桌面智能体帮你操控应用与文件 | Capri：带有赛博朋克 HUD 的本地优先桌面 AI 智能体。专属于您的 Windows 个人 Jarvis。可控制文件、应用、终端和浏览器，由 Claude Cod… |
-| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 看不清在做什么，边聊边看实时地图 | 聊天旁的实时地图，展示 Claude Code 正在执行的操作：工具调用、模型步骤、钩子、技能和子智能体在发生时即时点亮。仅限本地，7… |
+| [staryone/motlab](https://github.com/staryone/motlab) |  | Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. |
 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | 没有账号也能用 API 登录桌面版 | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
-| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 抹去文本里的 AI 味并自动重写 | STE80 Humanizer: 消除 AI 痕迹并将文本重写至 80% 符合 ASD-STE100 (Simplified Technical English) 的智能体技能，Andrej Karpathy sh… |
+| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) |  | Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
-| [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 量化多模态模型并在本地顺畅运行 | 适用于 GGUF、本地推理及更多场景的 SOTA 模型无关量化。使用 llama.cpp、vLLM、Diffusers 量化并运行文本、图像、视频和音频模型，以及… |
+| [diego3g/craft](https://github.com/diego3g/craft) |  | Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works wit… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 查找天文与天体物理领域的 AI 精选论文 | 天文学 &amp; 天体物理学领域 AI 论文精选列表。 |
-| [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 回测美股交易智能体，杜绝未来数据偷看 | 具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202… |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 一键复刻爆款短视频，拆解文案脚本 | 智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体… |
+| [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 回测美股交易智能体，杜绝未来数据偷看 | 具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202… |
 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 让开源白板 AI 导师把课程画成动画 | 具有动画课程和交互式回放的开源白板 AI 导师。对比 Claude、Gemini &amp; DeepSeek 在 288 次生成运行和 64 次 blind-r… |
-| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) | 界面太像 AI 做的，用智能体技能修正 | 你的应用看起来像 AI 生成的。Dr. Unslopovich 注意到了。一个在移动应用、Web 应用和网站中查找并修复 AI 感 UI 和 UX 的智能体技能。 |
-| [pktq/lasik](https://github.com/pktq/lasik) | 为受 BLA 蒙蔽的智能体重新找回视野 | BLA 让你的智能体失明。LASIK 让它重见光明。静态去盲 CLI + MCP 服务器，可撤销 BLA（Blind LLM Agents）强化，使编码智能体和 REA… |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 用插件让 AI 编程智能体自动完成开发 | 适用于 AI 编程智能体（Claude Code、DeepSeek Harness、GitHub Copilot 等）的无需人工干预的开发插件 |
-| [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 在本地排查 CI 日志与开发环境报错 | 开发者阻碍，精准诊断。本地优先的 CI 日志分流、环境检查、经过审查的修复方案和事件对比。CLI + GitHub Action + 工作台。 |
+| [ysunyang4/webagent](https://github.com/ysunyang4/webagent) |  | Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用 |
+| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) |  | Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… |
+| [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder) |  | Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… |
+| [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) |  | CMP30HX Mod: Shape the World, Share the Craft, Build It Together |
+| [parth888/runtime-forge](https://github.com/parth888/runtime-forge) |  | Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, |
+| [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) |  | EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. |
+| [govijr/fix-storage](https://github.com/govijr/fix-storage) |  | A CLI to fix your mac's storage problems, just run fix-storage. |
+| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) |  | Cradle of small Python automation scripts — files, mail, scraping. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
+| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) |  | Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
+| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 给界面换上圆角版 Geist 字体 | Geist 字体的圆角变体 ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | 让 AI 替你接电话并运行工具的开源总机 | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
-| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 小镇土地审批太繁琐？按地块统一管理 | 适用于美国小城镇的开源土地利用软件：以地块为核心组织许可证、检查、规划委员会和 ZBA 案件以及法规执行。 |
-| [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 影音太分散？一个自托管应用集中管理 | 一款用于您的剧集、电影和音乐的自托管应用。 |
+| [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes) |  | Validator hobbyist notes for Solana — hardware sizing and care tasks. |
+| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) |  | CMaNGOS Helm: Wield the Helm, Command Your Realm |
+| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) |  | Jet Reports Skill: Visual Workbook Workflows NAV and Business Central |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐层排查域名解析与历史 | 适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。 |
-| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 60 秒看清 Solana 验证节点健康状态 | 60 秒内掌握 Solana 验证节点健康状况：评分、出块任务、奖励、磁盘预测、Prometheus。单一静态二进制文件，只读，绝不触碰您的密钥。 |
-| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
-| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) | 为 Windows 版 Codex 换上动漫开屏动画 | 星澜 · Windows 上 Codex 的动漫启动动画。为其他应用的动画启动器提供的开放基础。 |
+| [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) |  | Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices |
+| [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) |  | Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing |

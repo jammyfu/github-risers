@@ -8,7 +8,7 @@
 
 総スター数ではなく、1 日あたりに増えたスター数で GitHub リポジトリを並べます。AI が先頭で、開発者ツール、セキュリティ、Web / フロントエンド、インフラ、デザイン / クリエイティブ、データが続きます。毎日更新。
 
-データ取得 2026-11-16 16:31（UTC）。毎日更新。
+データ取得 2026-11-17 16:32（UTC）。毎日更新。
 
 **公開ランキング：** [ウェブサイト](https://jammyfu.github.io/github-risers/) · [最新スナップショット](latest/rankings.ja.md)
 
@@ -24,13 +24,13 @@
 
 | カテゴリ | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | 総スター 1 位 |
 |---|---|---|---|---|---|
-| **[AI](#ai)** ★ メイン | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>308/日 | [morluto/rea](https://github.com/morluto/rea)<br>2,647/日 | [morluto/rea](https://github.com/morluto/rea)<br>5,669/日 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>2,968/日 | [morluto/rea](https://github.com/morluto/rea)<br>463,557 ★ |
-| **[開発者ツール](#開発者ツール)** | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>87.2/日 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>112/日 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>119/日 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>75.0/日 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>96,716 ★ |
-| **[セキュリティ](#セキュリティ)** | なし | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>40.6/日 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>32.4/日 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>28.5/日 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>39,409 ★ |
-| **[Web / フロントエンド](#web--フロントエンド)** | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>240/日 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>95.6/日 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>92.9/日 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>83.6/日 | [facebook/react](https://github.com/facebook/react)<br>252,638 ★ |
-| **[インフラ](#インフラ)** | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>199/日 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>37.4/日 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>39.2/日 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>33.1/日 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>129,090 ★ |
-| **[デザイン / クリエイティブ](#デザイン--クリエイティブ)** | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>16.1/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>63.3/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>65.8/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>73.8/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>135,789 ★ |
-| **[データ](#データ)** | なし | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>26.1/日 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>31.8/日 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/日 | [apache/superset](https://github.com/apache/superset)<br>75,531 ★ |
+| **[AI](#ai)** ★ メイン | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>704/日 | [morluto/rea](https://github.com/morluto/rea)<br>2,499/日 | [morluto/rea](https://github.com/morluto/rea)<br>5,191/日 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>2,944/日 | [morluto/rea](https://github.com/morluto/rea)<br>465,706 ★ |
+| **[開発者ツール](#開発者ツール)** | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>248/日 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>108/日 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>121/日 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>75.1/日 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>96,727 ★ |
+| **[セキュリティ](#セキュリティ)** | なし | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>43.9/日 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>33.9/日 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>28.7/日 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>39,473 ★ |
+| **[Web / フロントエンド](#web--フロントエンド)** | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>188/日 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>93.0/日 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>93.7/日 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>83.6/日 | [facebook/react](https://github.com/facebook/react)<br>252,871 ★ |
+| **[インフラ](#インフラ)** | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>101/日 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>48.9/日 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>39.2/日 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>33.2/日 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>129,325 ★ |
+| **[デザイン / クリエイティブ](#デザイン--クリエイティブ)** | なし | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>64.1/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>66.0/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>73.8/日 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>135,859 ★ |
+| **[データ](#データ)** | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>63.3/日 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/日 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>31.9/日 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/日 | [apache/superset](https://github.com/apache/superset)<br>75,543 ★ |
 
 ここでは各ランキングの上位 10 件だけを載せています。上位 20 件の全体は [latest/rankings.ja.md](latest/rankings.ja.md) にあります。
 
@@ -66,37 +66,37 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>自分のPCだけに保存できるAI会議メモ | 2026-11-10<br><sub>5.8 日</sub> | 1,805 | 308.3 |
-| 2 | [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI)<br>ローカルデスクトップAIがアプリやファイルを操作 | 2026-11-14<br><sub>1.8 日</sub> | 346 | 193.3 |
-| 3 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>3.7 日</sub> | 507 | 136.4 |
-| 4 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map)<br>チャット横でClaude Codeの動作をリアルタイム表示 | 2026-11-09<br><sub>6.9 日</sub> | 912 | 132.4 |
-| 5 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API KeyでログインするClaudeデスクトップ版ツール | 2026-11-12<br><sub>4.4 日</sub> | 495 | 112.7 |
-| 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>3.1 日</sub> | 335 | 107.2 |
-| 7 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)<br>文章からAI感を消して書き直す | 2026-11-09<br><sub>7.0 日</sub> | 723 | 103.8 |
-| 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AIで人気短編ドラマの脚本や撮影手順を分析 | 2026-11-14<br><sub>2.2 日</sub> | 219 | 100.9 |
-| 9 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>3段階のレビュー手順でAIコードを監査 | 2026-11-14<br><sub>2.1 日</sub> | 210 | 98.9 |
-| 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>4.0 日</sub> | 371 | 92.2 |
+| 1 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization | 2026-11-16<br><sub>1.0 日</sub> | 704 | 704.0 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… | 2026-11-16<br><sub>1.2 日</sub> | 578 | 489.1 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>1.1 日</sub> | 440 | 416.2 |
+| 4 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)<br>自分のPCだけに保存できるAI会議メモ | 2026-11-10<br><sub>6.8 日</sub> | 1,969 | 287.2 |
+| 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. | 2026-11-16<br><sub>1.1 日</sub> | 157 | 140.7 |
+| 6 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API KeyでログインするClaudeデスクトップ版ツール | 2026-11-12<br><sub>5.4 日</sub> | 588 | 109.0 |
+| 7 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>4.7 日</sub> | 510 | 108.1 |
+| 8 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>4.1 日</sub> | 440 | 106.6 |
+| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent | 2026-11-13<br><sub>4.1 日</sub> | 365 | 88.7 |
+| 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>5.0 日</sub> | 409 | 81.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>
 
+<a href="https://www.star-history.com/#sybil-solutions/inference-optimisation-skill&Date"><img src="https://api.star-history.com/svg?repos=sybil-solutions/inference-optimisation-skill&type=Date" width="260" alt="sybil-solutions/inference-optimisation-skill のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#erkamyaman/rust-anything&Date"><img src="https://api.star-history.com/svg?repos=erkamyaman/rust-anything&type=Date" width="260" alt="erkamyaman/rust-anything のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#boringmarketer/boring-marketing-skills&Date"><img src="https://api.star-history.com/svg?repos=boringmarketer/boring-marketing-skills&type=Date" width="260" alt="boringmarketer/boring-marketing-skills のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#FrigadeHQ/yogurt&Date"><img src="https://api.star-history.com/svg?repos=FrigadeHQ/yogurt&type=Date" width="260" alt="FrigadeHQ/yogurt のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#Outpostkrewhirl86/Capri-AI&Date"><img src="https://api.star-history.com/svg?repos=Outpostkrewhirl86/Capri-AI&type=Date" width="260" alt="Outpostkrewhirl86/Capri-AI のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#berkantay/gpucanvas&Date"><img src="https://api.star-history.com/svg?repos=berkantay/gpucanvas&type=Date" width="260" alt="berkantay/gpucanvas のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#alexeyw/lot-map&Date"><img src="https://api.star-history.com/svg?repos=alexeyw/lot-map&type=Date" width="260" alt="alexeyw/lot-map のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#staryone/motlab&Date"><img src="https://api.star-history.com/svg?repos=staryone/motlab&type=Date" width="260" alt="staryone/motlab のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#BigPizzaV3/ClaudeMom&Date"><img src="https://api.star-history.com/svg?repos=BigPizzaV3/ClaudeMom&type=Date" width="260" alt="BigPizzaV3/ClaudeMom のスター推移グラフ"></a>
 
+<a href="https://www.star-history.com/#berkantay/gpucanvas&Date"><img src="https://api.star-history.com/svg?repos=berkantay/gpucanvas&type=Date" width="260" alt="berkantay/gpucanvas のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#StormBrawlerSack/legwork-osint-ai-investigator&Date"><img src="https://api.star-history.com/svg?repos=StormBrawlerSack/legwork-osint-ai-investigator&type=Date" width="260" alt="StormBrawlerSack/legwork-osint-ai-investigator のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#Dodaios/ste80-humanizer&Date"><img src="https://api.star-history.com/svg?repos=Dodaios/ste80-humanizer&type=Date" width="260" alt="Dodaios/ste80-humanizer のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#JuneYaooo/rea-toon&Date"><img src="https://api.star-history.com/svg?repos=JuneYaooo/rea-toon&type=Date" width="260" alt="JuneYaooo/rea-toon のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#vaibhav-space/my-ai-coding-workflow&Date"><img src="https://api.star-history.com/svg?repos=vaibhav-space/my-ai-coding-workflow&type=Date" width="260" alt="vaibhav-space/my-ai-coding-workflow のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#ysunyang4/Nexus&Date"><img src="https://api.star-history.com/svg?repos=ysunyang4/Nexus&type=Date" width="260" alt="ysunyang4/Nexus のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#kociden/sakurai-skill&Date"><img src="https://api.star-history.com/svg?repos=kociden/sakurai-skill&type=Date" width="260" alt="kociden/sakurai-skill のスター推移グラフ"></a>
 
@@ -106,16 +106,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | +18,528 | 2,646.9 | 463,557 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>複数の AI に書かせて、どれが良いか一目で<br>`AI` | +6,676 | 953.7 | 126,539 |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI が脆弱性を探し、別の AI が一件ずつ検証<br>`AI` | +6,297 | 899.6 | 73,681 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude スキルの書き方は、公式の例で学ぶ<br>`AI` | +5,752 | 821.7 | 195,810 |
-| 5 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | +5,488 | 784.0 | 282,232 |
-| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | +4,770 | 681.4 | 191,953 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>コーディング AI のモデルを替え、枠切れでも続行<br>`AI` | +4,721 | 674.4 | 37,507 |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | +4,473 | 639.0 | 304,356 |
-| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI が同じ見た目のページばかり作るのを止める<br>`AI` | +4,363 | 623.3 | 116,680 |
-| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大きすぎて読めない時は、まずこの地図から<br>`AI` | +4,145 | 592.1 | 148,845 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | +17,492 | 2,498.9 | 465,706 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>複数の AI に書かせて、どれが良いか一目で<br>`AI` | +6,557 | 936.7 | 127,560 |
+| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI が脆弱性を探し、別の AI が一件ずつ検証<br>`AI` | +5,869 | 838.4 | 74,549 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | +5,188 | 741.1 | 282,869 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude スキルの書き方は、公式の例で学ぶ<br>`AI` | +4,974 | 710.6 | 196,542 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | +4,770 | 681.4 | 305,180 |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | +4,653 | 664.7 | 192,767 |
+| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI が同じ見た目のページばかり作るのを止める<br>`AI` | +4,588 | 655.4 | 117,519 |
+| 9 | [yetone/magpie](https://github.com/yetone/magpie)<br>コーディング AI のモデルを替え、枠切れでも続行<br>`AI` | +4,507 | 643.9 | 38,037 |
+| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大きすぎて読めない時は、まずこの地図から<br>`AI` | +4,169 | 595.6 | 149,465 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -126,17 +126,17 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 <a href="https://www.star-history.com/#cloudflare/security-audit-skill&Date"><img src="https://api.star-history.com/svg?repos=cloudflare/security-audit-skill&type=Date" width="260" alt="cloudflare/security-audit-skill のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#anthropics/skills&Date"><img src="https://api.star-history.com/svg?repos=anthropics/skills&type=Date" width="260" alt="anthropics/skills のスター推移グラフ"></a>
-
 <a href="https://www.star-history.com/#deepseek-ai/deepseek-harness&Date"><img src="https://api.star-history.com/svg?repos=deepseek-ai/deepseek-harness&type=Date" width="260" alt="deepseek-ai/deepseek-harness のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#DietrichGebert/ponytail&Date"><img src="https://api.star-history.com/svg?repos=DietrichGebert/ponytail&type=Date" width="260" alt="DietrichGebert/ponytail のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#anthropics/skills&Date"><img src="https://api.star-history.com/svg?repos=anthropics/skills&type=Date" width="260" alt="anthropics/skills のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#affaan-m/ECC&Date"><img src="https://api.star-history.com/svg?repos=affaan-m/ECC&type=Date" width="260" alt="affaan-m/ECC のスター推移グラフ"></a>
 
+<a href="https://www.star-history.com/#DietrichGebert/ponytail&Date"><img src="https://api.star-history.com/svg?repos=DietrichGebert/ponytail&type=Date" width="260" alt="DietrichGebert/ponytail のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#Leonxlnx/taste-skill&Date"><img src="https://api.star-history.com/svg?repos=Leonxlnx/taste-skill&type=Date" width="260" alt="Leonxlnx/taste-skill のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#Graphify-Labs/graphify&Date"><img src="https://api.star-history.com/svg?repos=Graphify-Labs/graphify&type=Date" width="260" alt="Graphify-Labs/graphify のスター推移グラフ"></a>
 
@@ -146,16 +146,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | +170,064 | 5,668.8 | 463,557 |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI が脆弱性を探し、別の AI が一件ずつ検証<br>`AI` | +43,336 | 1,444.5 | 73,681 |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca)<br>複数の AI に書かせて、どれが良いか一目で<br>`AI` | +32,127 | 1,070.9 | 126,539 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | +31,850 | 1,061.7 | 282,232 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | +27,163 | 905.4 | 191,953 |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | +23,556 | 785.2 | 304,356 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>コーディング AI のモデルを替え、枠切れでも続行<br>`AI` | +23,153 | 771.8 | 37,507 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大きすぎて読めない時は、まずこの地図から<br>`AI` | +21,835 | 727.8 | 148,845 |
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>編集できなくても、Web ページ感覚で動画に<br>`AI` | +19,751 | 658.4 | 85,081 |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI が同じ見た目のページばかり作るのを止める<br>`AI` | +18,768 | 625.6 | 116,680 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | +155,736 | 5,191.2 | 465,706 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI が脆弱性を探し、別の AI が一件ずつ検証<br>`AI` | +43,643 | 1,454.8 | 74,549 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca)<br>複数の AI に書かせて、どれが良いか一目で<br>`AI` | +32,101 | 1,070.0 | 127,560 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | +31,370 | 1,045.7 | 282,869 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | +26,848 | 894.9 | 192,767 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | +23,378 | 779.3 | 305,180 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>コーディング AI のモデルを替え、枠切れでも続行<br>`AI` | +22,768 | 758.9 | 38,037 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大きすぎて読めない時は、まずこの地図から<br>`AI` | +21,885 | 729.5 | 149,465 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>編集できなくても、Web ページ感覚で動画に<br>`AI` | +19,630 | 654.3 | 85,765 |
+| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI が同じ見た目のページばかり作るのを止める<br>`AI` | +19,073 | 635.8 | 117,519 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -186,16 +186,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | +281,929 | 2,967.7 †<br><sub>÷95日</sub> | 282,232 |
-| 2 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | +462,611 | 2,141.7 †<br><sub>÷216日</sub> | 463,557 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | +191,648 | 1,220.7 †<br><sub>÷157日</sub> | 191,953 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>仕事を片付ける AI アシスタント、動くのは自分の端末<br>`AI` | +394,516 | 1,105.1 †<br><sub>÷357日</sub> | 394,577 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | +303,988 | 1,006.6 †<br><sub>÷302日</sub> | 304,356 |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>使うほど仕事が上手くなる AI アシスタント<br>`AI` | +263,694 | 722.4 | 263,830 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>コーディング AI のモデルを替え、枠切れでも続行<br>`AI` | +37,269 | 690.2 †<br><sub>÷54日</sub> | 37,507 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大きすぎて読めない時は、まずこの地図から<br>`AI` | +148,589 | 654.6 †<br><sub>÷227日</sub> | 148,845 |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>ターミナルで、オープンソースの AI がコードを書く<br>`AI` | +195,601 | 535.9 | 227,247 |
-| 10 | [stablyai/orca](https://github.com/stablyai/orca)<br>複数の AI に書かせて、どれが良いか一目で<br>`AI` | +126,083 | 516.7 †<br><sub>÷244日</sub> | 126,539 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | +282,580 | 2,943.5 †<br><sub>÷96日</sub> | 282,869 |
+| 2 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | +464,788 | 2,141.9 †<br><sub>÷217日</sub> | 465,706 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | +192,395 | 1,217.7 †<br><sub>÷158日</sub> | 192,767 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>仕事を片付ける AI アシスタント、動くのは自分の端末<br>`AI` | +394,592 | 1,102.2 †<br><sub>÷358日</sub> | 394,642 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | +304,818 | 1,006.0 †<br><sub>÷303日</sub> | 305,180 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>使うほど仕事が上手くなる AI アシスタント<br>`AI` | +263,992 | 723.3 | 264,139 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>コーディング AI のモデルを替え、枠切れでも続行<br>`AI` | +37,811 | 687.5 †<br><sub>÷55日</sub> | 38,037 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>大きすぎて読めない時は、まずこの地図から<br>`AI` | +149,190 | 654.3 †<br><sub>÷228日</sub> | 149,465 |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>ターミナルで、オープンソースの AI がコードを書く<br>`AI` | +195,777 | 536.4 | 227,505 |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca)<br>複数の AI に書かせて、どれが良いか一目で<br>`AI` | +127,067 | 518.6 †<br><sub>÷245日</sub> | 127,560 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -228,16 +228,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | 463,557 |
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>仕事を片付ける AI アシスタント、動くのは自分の端末<br>`AI` | 394,577 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | 304,356 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | 282,232 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>使うほど仕事が上手くなる AI アシスタント<br>`AI` | 263,830 |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>ターミナルで、オープンソースの AI がコードを書く<br>`AI` | 227,247 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude スキルの書き方は、公式の例で学ぶ<br>`AI` | 195,810 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | 191,953 |
-| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>設定ファイルを触らず、ワンクリックで切替<br>`AI` | 154,901 |
-| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>AI が作る画面を、プロのデザインらしく<br>`AI` | 150,303 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI でどんなソフトもクローンできる<br>`AI` | 465,706 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>仕事を片付ける AI アシスタント、動くのは自分の端末<br>`AI` | 394,642 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>コーディング AI に記憶・スキル・安全チェックを<br>`AI` | 305,180 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>欲しいエージェントは、プラグインで自分で組む<br>`AI` | 282,869 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>使うほど仕事が上手くなる AI アシスタント<br>`AI` | 264,139 |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>ターミナルで、オープンソースの AI がコードを書く<br>`AI` | 227,505 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude スキルの書き方は、公式の例で学ぶ<br>`AI` | 196,542 |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI の無駄なコードを減らし、必要な所は正しく<br>`AI` | 192,767 |
+| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>設定ファイルを触らず、ワンクリックで切替<br>`AI` | 155,186 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>AI が作る画面を、プロのデザインらしく<br>`AI` | 150,768 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -272,15 +272,33 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>プラグインでAIコーディングを自動化 | 2026-11-15<br><sub>1.2 日</sub> | 109 | 87.2 |
-| 2 | [brunnojob/devrescue](https://github.com/brunnojob/devrescue)<br>ローカルでCIログと環境エラーを自動診断 | 2026-11-10<br><sub>6.0 日</sub> | 113 | 18.7 |
+| 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… | 2026-11-16<br><sub>1.0 日</sub> | 256 | 247.7 |
+| 2 | [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder)<br>Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… | 2026-11-16<br><sub>1.0 日</sub> | 165 | 159.6 |
+| 3 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>CMP30HX Mod: Shape the World, Share the Craft, Build It Together | 2026-11-16<br><sub>1.2 日</sub> | 113 | 95.1 |
+| 4 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, | 2026-11-15<br><sub>1.8 日</sub> | 115 | 62.8 |
+| 5 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management | 2026-11-15<br><sub>1.9 日</sub> | 115 | 61.7 |
+| 6 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. | 2026-11-15<br><sub>2.2 日</sub> | 136 | 60.4 |
+| 7 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's storage problems, just run fix-storage. | 2026-11-14<br><sub>3.0 日</sub> | 117 | 39.1 |
+| 8 | [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle)<br>Cradle of small Python automation scripts — files, mail, scraping. | 2026-11-15<br><sub>1.9 日</sub> | 100 | 53.7 |
 
 <details>
 <summary>このランキングのスター推移</summary>
 
+<a href="https://www.star-history.com/#Orderchodrag/smelt-minecraft-mods-to-rust-converter&Date"><img src="https://api.star-history.com/svg?repos=Orderchodrag/smelt-minecraft-mods-to-rust-converter&type=Date" width="260" alt="Orderchodrag/smelt-minecraft-mods-to-rust-converter のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#brightsheikhfold/minecraft-ai-mod-builder&Date"><img src="https://api.star-history.com/svg?repos=brightsheikhfold/minecraft-ai-mod-builder&type=Date" width="260" alt="brightsheikhfold/minecraft-ai-mod-builder のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#zaxd122/cmp30hx-mod&Date"><img src="https://api.star-history.com/svg?repos=zaxd122/cmp30hx-mod&type=Date" width="260" alt="zaxd122/cmp30hx-mod のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#parth888/runtime-forge&Date"><img src="https://api.star-history.com/svg?repos=parth888/runtime-forge&type=Date" width="260" alt="parth888/runtime-forge のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#Dude-web/easywinget-gui&Date"><img src="https://api.star-history.com/svg?repos=Dude-web/easywinget-gui&type=Date" width="260" alt="Dude-web/easywinget-gui のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#AI4XE/Parallax&Date"><img src="https://api.star-history.com/svg?repos=AI4XE/Parallax&type=Date" width="260" alt="AI4XE/Parallax のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#brunnojob/devrescue&Date"><img src="https://api.star-history.com/svg?repos=brunnojob/devrescue&type=Date" width="260" alt="brunnojob/devrescue のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#govijr/fix-storage&Date"><img src="https://api.star-history.com/svg?repos=govijr/fix-storage&type=Date" width="260" alt="govijr/fix-storage のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#restordinaryjoint/python-script-cradle&Date"><img src="https://api.star-history.com/svg?repos=restordinaryjoint/python-script-cradle&type=Date" width="260" alt="restordinaryjoint/python-script-cradle のスター推移グラフ"></a>
 
 </details>
 
@@ -288,14 +306,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | +781 | 111.6 | 95,149 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | +366 | 52.3 | 92,005 |
-| 3 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | +258 | 36.9 | 36,211 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | +189 | 27.0 | 69,983 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | +139 | 19.9 | 96,716 |
-| 6 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | +119 | 17.0 | 47,044 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | +95 | 13.6 | 46,909 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | +56 | 8.0 | 26,114 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | +753 | 107.6 | 95,213 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | +361 | 51.6 | 92,191 |
+| 3 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | +256 | 36.6 | 36,237 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | +185 | 26.4 | 70,017 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | +142 | 20.3 | 96,727 |
+| 6 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | +126 | 18.0 | 47,063 |
+| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | +97 | 13.9 | 46,914 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | +59 | 8.4 | 26,123 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -322,14 +340,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | +3,584 | 119.5 | 95,149 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | +1,355 | 45.2 | 92,005 |
-| 3 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | +1,186 | 39.5 | 36,211 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | +944 | 31.5 | 69,983 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | +667 | 22.2 | 96,716 |
-| 6 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | +453 | 15.1 | 47,044 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | +404 | 13.5 | 46,909 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | +215 | 7.2 | 26,114 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | +3,620 | 120.7 | 95,213 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | +1,374 | 45.8 | 92,191 |
+| 3 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | +1,192 | 39.7 | 36,237 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | +942 | 31.4 | 70,017 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | +662 | 22.1 | 96,727 |
+| 6 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | +461 | 15.4 | 47,063 |
+| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | +402 | 13.4 | 46,914 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | +220 | 7.3 | 26,123 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -356,14 +374,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | +27,389 | 75.0 | 95,149 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | +20,659 | 56.6 | 92,005 |
-| 3 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | +16,506 | 45.2 | 96,716 |
-| 4 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | +15,269 | 41.8 | 36,211 |
-| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | +13,329 | 36.5 | 69,983 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | +6,489 | 17.8 | 46,909 |
-| 7 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | +6,328 | 17.3 | 47,044 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | +4,415 | 12.1 | 26,114 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | +27,402 | 75.1 | 95,213 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | +20,627 | 56.5 | 92,191 |
+| 3 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | +16,505 | 45.2 | 96,727 |
+| 4 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | +15,275 | 41.8 | 36,237 |
+| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | +13,333 | 36.5 | 70,017 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | +6,477 | 17.7 | 46,914 |
+| 7 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | +6,334 | 17.4 | 47,063 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | +4,413 | 12.1 | 26,123 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -390,14 +408,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | 96,716 |
-| 2 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | 95,149 |
-| 3 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | 92,005 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | 69,983 |
-| 5 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | 47,044 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | 46,909 |
-| 7 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | 36,211 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | 26,114 |
+| 1 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>実行・バンドル・テスト・導入を 1 つで<br>`開発者ツール` | 96,727 |
+| 2 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>すぐ開けて、みんなで一緒にコードを書ける<br>`開発者ツール` | 95,213 |
+| 3 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python パッケージの導入で待たされない<br>`開発者ツール` | 92,191 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>フォルダ全体の文字検索が grep より速い<br>`開発者ツール` | 70,017 |
+| 5 | [cli/cli](https://github.com/cli/cli)<br>ブラウザを開かず、コマンドラインで GitHub を操作<br>`開発者ツール` | 47,063 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>構文ハイライトも言語サーバーも内蔵のテキストエディタ<br>`開発者ツール` | 46,914 |
+| 7 | [jdx/mise](https://github.com/jdx/mise)<br>開発ツール・環境変数・タスクを 1 つで管理<br>`開発者ツール` | 36,237 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>Web コードの整形とチェックを 1 つで<br>`開発者ツール` | 26,123 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -432,14 +450,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | +284 | 40.6 | 32,979 |
-| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | +261 | 37.3 | 39,409 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | +158 | 22.6 | 17,729 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | +115 | 16.4 | 34,077 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | +75 | 10.7 | 11,541 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | +52 | 7.4 | 13,269 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | +15 | 2.1 | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | +9 | 1.3 | 9,009 |
+| 1 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | +307 | 43.9 | 33,047 |
+| 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | +278 | 39.7 | 39,473 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | +178 | 25.4 | 17,770 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | +102 | 14.6 | 34,094 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | +65 | 9.3 | 11,548 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | +51 | 7.3 | 13,280 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | +18 | 2.6 | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | +9 | 1.3 | 9,010 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -466,14 +484,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | +973 | 32.4 | 39,409 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | +969 | 32.3 | 32,979 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | +644 | 21.5 | 17,729 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | +452 | 15.1 | 34,077 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | +355 | 11.8 | 11,541 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | +242 | 8.1 | 13,269 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | +113 | 3.8 | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | +41 | 1.4 | 9,009 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | +1,017 | 33.9 | 39,473 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | +1,008 | 33.6 | 33,047 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | +671 | 22.4 | 17,770 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | +461 | 15.4 | 34,094 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | +364 | 12.1 | 11,548 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | +249 | 8.3 | 13,280 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | +114 | 3.8 | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | +41 | 1.4 | 9,010 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -500,14 +518,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | +10,416 | 28.5 | 39,409 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | +7,908 | 21.7 | 32,979 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | +4,570 | 12.5 | 17,729 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | +3,651 | 10.0 | 34,077 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | +3,602 | 9.9 | 11,541 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | +2,388 | 6.5 | 13,269 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | +1,266 | 3.5 | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | +556 | 1.5 | 9,009 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | +10,461 | 28.7 | 39,473 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | +7,953 | 21.8 | 33,047 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | +4,593 | 12.6 | 17,770 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | +3,655 | 10.0 | 34,094 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | +3,605 | 9.9 | 11,548 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | +2,394 | 6.6 | 13,280 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | +1,268 | 3.5 | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | +555 | 1.5 | 9,010 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -534,14 +552,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | 39,409 |
-| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | 34,077 |
-| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | 32,979 |
-| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | 17,729 |
-| 5 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | 13,269 |
-| 6 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | 11,541 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | 9,581 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | 9,009 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>コンテナもコードも、安全チェックは 1 回で<br>`セキュリティ` | 39,473 |
+| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>アプリのセキュリティは、この簡潔な手引きで<br>`セキュリティ` | 34,094 |
+| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>テンプレート 1 つで、脆弱性を一括スキャン<br>`セキュリティ` | 33,047 |
+| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>コードの問題は、コミット前に見つけ出す<br>`セキュリティ` | 17,770 |
+| 5 | [anchore/grype](https://github.com/anchore/grype)<br>コンテナイメージに脆弱性がないか、スキャンで確認<br>`セキュリティ` | 13,280 |
+| 6 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>使っている依存は安全か、スキャンすればわかる<br>`セキュリティ` | 11,548 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>クラウドの異常に、すぐ気づける<br>`セキュリティ` | 9,584 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go コードのセキュリティ問題を、スキャンで見つける<br>`セキュリティ` | 9,010 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -572,24 +590,27 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcnで手軽にDynamic Islandを追加 | 2026-11-13<br><sub>3.2 日</sub> | 766 | 239.7 |
-| 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>1.8 日</sub> | 122 | 68.6 |
-| 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Geistフォントに丸みのある柔らかさをプラス | 2026-11-11<br><sub>4.9 日</sub> | 151 | 30.7 |
-| 4 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>AIエージェントが電話対応するオープンソース交換台 | 2026-11-11<br><sub>5.2 日</sub> | 120 | 23.2 |
-| 5 | [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss)<br>町の申請業務が煩雑？土地利用を区画ごとに管理 | 2026-11-10<br><sub>6.0 日</sub> | 128 | 21.2 |
+| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn)<br>shadcnで手軽にDynamic Islandを追加 | 2026-11-13<br><sub>4.2 日</sub> | 791 | 188.5 |
+| 2 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery | 2026-11-15<br><sub>1.9 日</sub> | 112 | 59.8 |
+| 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>2.8 日</sub> | 127 | 45.7 |
+| 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>使い捨て環境でバグを再現して自動修正 | 2026-11-13<br><sub>4.3 日</sub> | 130 | 29.9 |
+| 5 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Geistフォントに丸みのある柔らかさをプラス | 2026-11-11<br><sub>5.9 日</sub> | 172 | 29.1 |
+| 6 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice)<br>AIエージェントが電話対応するオープンソース交換台 | 2026-11-11<br><sub>6.2 日</sub> | 127 | 20.5 |
 
 <details>
 <summary>このランキングのスター推移</summary>
 
 <a href="https://www.star-history.com/#opencoredev/islandcn&Date"><img src="https://api.star-history.com/svg?repos=opencoredev/islandcn&type=Date" width="260" alt="opencoredev/islandcn のスター推移グラフ"></a>
 
+<a href="https://www.star-history.com/#ELEL182/bunny-hopping-mod&Date"><img src="https://api.star-history.com/svg?repos=ELEL182/bunny-hopping-mod&type=Date" width="260" alt="ELEL182/bunny-hopping-mod のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#rohit3a/t3-clawd&Date"><img src="https://api.star-history.com/svg?repos=rohit3a/t3-clawd&type=Date" width="260" alt="rohit3a/t3-clawd のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#spacesky-cell/TwinFix&Date"><img src="https://api.star-history.com/svg?repos=spacesky-cell/TwinFix&type=Date" width="260" alt="spacesky-cell/TwinFix のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#shadcn-labs/goeist-font&Date"><img src="https://api.star-history.com/svg?repos=shadcn-labs/goeist-font&type=Date" width="260" alt="shadcn-labs/goeist-font のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#DeskLabs-OpenSource/DeskVoice&Date"><img src="https://api.star-history.com/svg?repos=DeskLabs-OpenSource/DeskVoice&type=Date" width="260" alt="DeskLabs-OpenSource/DeskVoice のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#chiban-org/chiban-oss&Date"><img src="https://api.star-history.com/svg?repos=chiban-org/chiban-oss&type=Date" width="260" alt="chiban-org/chiban-oss のスター推移グラフ"></a>
 
 </details>
 
@@ -597,31 +618,31 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | +669 | 95.6 | 128,321 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | +367 | 52.4 | 252,638 |
-| 3 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | +191 | 27.3 | 143,608 |
-| 4 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | +190 | 27.1 | 88,829 |
-| 5 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | +180 | 25.7 | 63,999 |
-| 6 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | +149 | 21.3 | 54,992 |
-| 7 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | +139 | 19.9 | 98,673 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | +38 | 5.4 | 50,568 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | +651 | 93.0 | 128,408 |
+| 2 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | +572 | 81.7 | 89,449 |
+| 3 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | +440 | 62.9 | 252,871 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | +263 | 37.6 | 143,683 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | +199 | 28.4 | 98,736 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | +183 | 26.1 | 64,015 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | +176 | 25.1 | 55,182 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | +36 | 5.1 | 50,568 |
 
 <details>
 <summary>このランキングのスター推移</summary>
 
 <a href="https://www.star-history.com/#shadcn-ui/ui&Date"><img src="https://api.star-history.com/svg?repos=shadcn-ui/ui&type=Date" width="260" alt="shadcn-ui/ui のスター推移グラフ"></a>
 
+<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#facebook/react&Date"><img src="https://api.star-history.com/svg?repos=facebook/react&type=Date" width="260" alt="facebook/react のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#vercel/next.js&Date"><img src="https://api.star-history.com/svg?repos=vercel/next.js&type=Date" width="260" alt="vercel/next.js のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#tailwindlabs/tailwindcss&Date"><img src="https://api.star-history.com/svg?repos=tailwindlabs/tailwindcss&type=Date" width="260" alt="tailwindlabs/tailwindcss のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#withastro/astro&Date"><img src="https://api.star-history.com/svg?repos=withastro/astro&type=Date" width="260" alt="withastro/astro のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#vuejs/core&Date"><img src="https://api.star-history.com/svg?repos=vuejs/core&type=Date" width="260" alt="vuejs/core のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#tailwindlabs/tailwindcss&Date"><img src="https://api.star-history.com/svg?repos=tailwindlabs/tailwindcss&type=Date" width="260" alt="tailwindlabs/tailwindcss のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#tanstack/query&Date"><img src="https://api.star-history.com/svg?repos=tanstack/query&type=Date" width="260" alt="tanstack/query のスター推移グラフ"></a>
 
@@ -631,14 +652,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | +2,786 | 92.9 | 128,321 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | +1,921 | 64.0 | 252,638 |
-| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | +960 | 32.0 | 98,673 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | +808 | 26.9 | 143,608 |
-| 5 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | +802 | 26.7 | 63,999 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | +521 | 17.4 | 88,829 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | +424 | 14.1 | 54,992 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | +190 | 6.3 | 50,568 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | +2,812 | 93.7 | 128,408 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | +1,994 | 66.5 | 252,871 |
+| 3 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | +1,021 | 34.0 | 98,736 |
+| 4 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | +900 | 30.0 | 89,449 |
+| 5 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | +888 | 29.6 | 143,683 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | +818 | 27.3 | 64,015 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | +463 | 15.4 | 55,182 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | +186 | 6.2 | 50,568 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -649,11 +670,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 <a href="https://www.star-history.com/#tailwindlabs/tailwindcss&Date"><img src="https://api.star-history.com/svg?repos=tailwindlabs/tailwindcss&type=Date" width="260" alt="tailwindlabs/tailwindcss のスター推移グラフ"></a>
 
+<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte のスター推移グラフ"></a>
+
 <a href="https://www.star-history.com/#vercel/next.js&Date"><img src="https://api.star-history.com/svg?repos=vercel/next.js&type=Date" width="260" alt="vercel/next.js のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#withastro/astro&Date"><img src="https://api.star-history.com/svg?repos=withastro/astro&type=Date" width="260" alt="withastro/astro のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#sveltejs/svelte&Date"><img src="https://api.star-history.com/svg?repos=sveltejs/svelte&type=Date" width="260" alt="sveltejs/svelte のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#vuejs/core&Date"><img src="https://api.star-history.com/svg?repos=vuejs/core&type=Date" width="260" alt="vuejs/core のスター推移グラフ"></a>
 
@@ -665,14 +686,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | +30,515 | 83.6 | 128,321 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | +15,647 | 42.9 | 252,638 |
-| 3 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | +10,581 | 29.0 | 63,999 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | +10,424 | 28.6 | 143,608 |
-| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | +8,946 | 24.5 | 98,673 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | +5,181 | 14.2 | 88,829 |
-| 7 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | +3,741 | 10.2 | 50,568 |
-| 8 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | +3,679 | 10.1 | 54,992 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | +30,531 | 83.6 | 128,408 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | +15,744 | 43.1 | 252,871 |
+| 3 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | +10,595 | 29.0 | 64,015 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | +10,497 | 28.8 | 143,683 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | +9,008 | 24.7 | 98,736 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | +5,557 | 15.2 | 89,449 |
+| 7 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | +3,730 | 10.2 | 50,568 |
+| 8 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | +3,713 | 10.2 | 55,182 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -699,13 +720,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | 252,638 |
-| 2 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | 143,608 |
-| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | 128,321 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | 98,673 |
-| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | 88,829 |
-| 6 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | 63,999 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | 54,992 |
+| 1 | [facebook/react](https://github.com/facebook/react)<br>Web もネイティブアプリの画面も、これで作る<br>`Web / フロントエンド` | 252,871 |
+| 2 | [vercel/next.js](https://github.com/vercel/next.js)<br>React でサイトを丸ごと、フロントから裏側まで<br>`Web / フロントエンド` | 143,683 |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>見栄えの良い部品。コードは自分のもの、自由に改造<br>`Web / フロントエンド` | 128,408 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS を大量に書かなくても、独自デザインに<br>`Web / フロントエンド` | 98,736 |
+| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>書いた部品を、コンパイラが効率的な Web コードに<br>`Web / フロントエンド` | 89,449 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>コンテンツ中心のサイトを、軽量な出力で作る<br>`Web / フロントエンド` | 64,015 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>小さなページから始め、使う分だけ学べる<br>`Web / フロントエンド` | 55,182 |
 | 8 | [tanstack/query](https://github.com/tanstack/query)<br>データ取得とキャッシュは、これに任せる<br>`Web / フロントエンド` | 50,568 |
 
 <details>
@@ -737,21 +758,24 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)<br>動画や音楽が散らかる？セルフホスト型アプリで管理 | 2026-11-09<br><sub>6.7 日</sub> | 1,333 | 199.2 |
-| 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>WindowsでドメインのDNSや履歴を多層調査 | 2026-11-13<br><sub>3.1 日</sub> | 131 | 42.5 |
-| 3 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil)<br>秘密鍵に触れず60秒でSolanaノード状態を確認 | 2026-11-10<br><sub>6.0 日</sub> | 230 | 38.1 |
-| 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>使い捨て環境でバグを再現して自動修正 | 2026-11-13<br><sub>3.4 日</sub> | 124 | 37.0 |
+| 1 | [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes)<br>Validator hobbyist notes for Solana — hardware sizing and care tasks. | 2026-11-16<br><sub>1.0 日</sub> | 101 | 101.0 |
+| 2 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>CMaNGOS Helm: Wield the Helm, Command Your Realm | 2026-11-15<br><sub>1.9 日</sub> | 118 | 63.1 |
+| 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Jet Reports Skill: Visual Workbook Workflows NAV and Business Central | 2026-11-15<br><sub>1.9 日</sub> | 116 | 62.7 |
+| 4 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>WindowsでドメインのDNSや履歴を多層調査 | 2026-11-13<br><sub>4.1 日</sub> | 161 | 39.4 |
+| 5 | [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint)<br>Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices | 2026-11-15<br><sub>1.8 日</sub> | 115 | 62.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>
 
-<a href="https://www.star-history.com/#HolyArrs/HolyArrs&Date"><img src="https://api.star-history.com/svg?repos=HolyArrs/HolyArrs&type=Date" width="260" alt="HolyArrs/HolyArrs のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#s-warren725/solana-node-notes&Date"><img src="https://api.star-history.com/svg?repos=s-warren725/solana-node-notes&type=Date" width="260" alt="s-warren725/solana-node-notes のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#mmclucknorrismm/cmangos-helm&Date"><img src="https://api.star-history.com/svg?repos=mmclucknorrismm/cmangos-helm&type=Date" width="260" alt="mmclucknorrismm/cmangos-helm のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#Realmeshowroom/jet-reports-skill&Date"><img src="https://api.star-history.com/svg?repos=Realmeshowroom/jet-reports-skill&type=Date" width="260" alt="Realmeshowroom/jet-reports-skill のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#CaptureMiller/strata-osint-domain-recon&Date"><img src="https://api.star-history.com/svg?repos=CaptureMiller/strata-osint-domain-recon&type=Date" width="260" alt="CaptureMiller/strata-osint-domain-recon のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#ValidatorStack/solana-vigil&Date"><img src="https://api.star-history.com/svg?repos=ValidatorStack/solana-vigil&type=Date" width="260" alt="ValidatorStack/solana-vigil のスター推移グラフ"></a>
-
-<a href="https://www.star-history.com/#spacesky-cell/TwinFix&Date"><img src="https://api.star-history.com/svg?repos=spacesky-cell/TwinFix&type=Date" width="260" alt="spacesky-cell/TwinFix のスター推移グラフ"></a>
+<a href="https://www.star-history.com/#tdawalton1-alt/microsoft-powerpoint&Date"><img src="https://api.star-history.com/svg?repos=tdawalton1-alt/microsoft-powerpoint&type=Date" width="260" alt="tdawalton1-alt/microsoft-powerpoint のスター推移グラフ"></a>
 
 </details>
 
@@ -759,14 +783,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | +262 | 37.4 | 129,090 |
-| 2 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | +201 | 28.7 | 38,863 |
-| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | +199 | 28.4 | 79,097 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | +188 | 26.9 | 77,942 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | +178 | 25.4 | 67,651 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | +91 | 13.0 | 65,567 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | +91 | 13.0 | 50,253 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | +67 | 9.6 | 25,907 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | +342 | 48.9 | 129,325 |
+| 2 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | +274 | 39.1 | 39,081 |
+| 3 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | +205 | 29.3 | 79,127 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | +185 | 26.4 | 77,964 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | +175 | 25.0 | 67,672 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | +89 | 12.7 | 65,575 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | +87 | 12.4 | 50,263 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | +65 | 9.3 | 25,911 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -793,14 +817,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | +1,175 | 39.2 | 79,097 |
-| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | +1,165 | 38.8 | 67,651 |
-| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | +1,062 | 35.4 | 129,090 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | +767 | 25.6 | 77,942 |
-| 5 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | +533 | 17.8 | 38,863 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | +409 | 13.6 | 65,567 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | +406 | 13.5 | 50,253 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | +157 | 5.2 | 25,907 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | +1,177 | 39.2 | 79,127 |
+| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | +1,170 | 39.0 | 67,672 |
+| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | +1,145 | 38.2 | 129,325 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | +769 | 25.6 | 77,964 |
+| 5 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | +612 | 20.4 | 39,081 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | +403 | 13.4 | 65,575 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | +399 | 13.3 | 50,263 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | +160 | 5.3 | 25,911 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -827,14 +851,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | +12,094 | 33.1 | 79,097 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | +11,779 | 32.3 | 129,090 |
-| 3 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | +8,075 | 22.1 | 65,567 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | +7,973 | 21.8 | 77,942 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | +7,052 | 19.3 | 67,651 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | +3,825 | 10.5 | 50,253 |
-| 7 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | +2,827 | 7.7 | 38,863 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | +2,110 | 5.8 | 25,907 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | +12,111 | 33.2 | 79,127 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | +11,870 | 32.5 | 129,325 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | +7,982 | 21.9 | 77,964 |
+| 4 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | +7,960 | 21.8 | 65,575 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | +7,063 | 19.4 | 67,672 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | +3,823 | 10.5 | 50,263 |
+| 7 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | +2,906 | 8.0 | 39,081 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | +2,107 | 5.8 | 25,911 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -843,9 +867,9 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 <a href="https://www.star-history.com/#kubernetes/kubernetes&Date"><img src="https://api.star-history.com/svg?repos=kubernetes/kubernetes&type=Date" width="260" alt="kubernetes/kubernetes のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#traefik/traefik&Date"><img src="https://api.star-history.com/svg?repos=traefik/traefik&type=Date" width="260" alt="traefik/traefik のスター推移グラフ"></a>
-
 <a href="https://www.star-history.com/#grafana/grafana&Date"><img src="https://api.star-history.com/svg?repos=grafana/grafana&type=Date" width="260" alt="grafana/grafana のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#traefik/traefik&Date"><img src="https://api.star-history.com/svg?repos=traefik/traefik&type=Date" width="260" alt="traefik/traefik のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#prometheus/prometheus&Date"><img src="https://api.star-history.com/svg?repos=prometheus/prometheus&type=Date" width="260" alt="prometheus/prometheus のスター推移グラフ"></a>
 
@@ -861,14 +885,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | 129,090 |
-| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | 79,097 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | 77,942 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | 67,651 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | 65,567 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | 50,253 |
-| 7 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | 38,863 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | 25,907 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>コンテナが増えても、配備と拡張は任せる<br>`インフラ` | 129,325 |
+| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>Web サーバー構築、HTTPS は自動で設定<br>`インフラ` | 79,127 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>指標・ログ・トレースを 1 つのパネルに<br>`インフラ` | 77,964 |
+| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>システムの不具合は、アラートが先に知らせる<br>`インフラ` | 67,672 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>サービスが増えても、通信は自動で振り分け<br>`インフラ` | 65,575 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>クラウド資源をコードにして、レビューもバージョン管理も<br>`インフラ` | 50,263 |
+| 7 | [docker/compose](https://github.com/docker/compose)<br>複数のコンテナを 1 つのファイルでまとめて動かす<br>`インフラ` | 39,081 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>使い慣れた言語で、クラウド資源を管理<br>`インフラ` | 25,911 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -897,28 +921,19 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 ### 7 日以内の新着で最も熱いリポジトリ（作成から 7 日以内）
 
-| # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
-|---|---|---|---:|---:|
-| 1 | [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)<br>Windows版Codexにアニメ起動画面を追加 | 2026-11-10<br><sub>6.5 日</sub> | 104 | 16.1 |
-
-<details>
-<summary>このランキングのスター推移</summary>
-
-<a href="https://www.star-history.com/#bohuis686-creator/AstralCodex&Date"><img src="https://api.star-history.com/svg?repos=bohuis686-creator/AstralCodex&type=Date" width="260" alt="bohuis686-creator/AstralCodex のスター推移グラフ"></a>
-
-</details>
+今回の実行で条件を満たす新着リポジトリはありませんでした。
 
 ### 今週もっとも伸びた（直近 7 日）
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | +443 | 63.3 | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | +235 | 33.6 | 62,424 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | +149 | 21.3 | 25,795 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | +138 | 19.7 | 9,400 |
-| 5 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | +102 | 14.6 | 32,476 |
-| 6 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | +100 | 14.3 | 42,856 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | +35 | 5.0 | 7,817 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | +449 | 64.1 | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | +256 | 36.6 | 62,469 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | +146 | 20.9 | 25,813 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | +144 | 20.6 | 9,437 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | +107 | 15.3 | 42,877 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | +99 | 14.1 | 32,486 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | +34 | 4.9 | 7,822 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects のアニメを、そのまま iOS に<br>`デザイン / クリエイティブ` | +0 | 0.0 | 43 |
 
 <details>
@@ -932,9 +947,9 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 <a href="https://www.star-history.com/#jgraph/drawio&Date"><img src="https://api.star-history.com/svg?repos=jgraph/drawio&type=Date" width="260" alt="jgraph/drawio のスター推移グラフ"></a>
 
-<a href="https://www.star-history.com/#airbnb/lottie-web&Date"><img src="https://api.star-history.com/svg?repos=airbnb/lottie-web&type=Date" width="260" alt="airbnb/lottie-web のスター推移グラフ"></a>
-
 <a href="https://www.star-history.com/#saadeghi/daisyui&Date"><img src="https://api.star-history.com/svg?repos=saadeghi/daisyui&type=Date" width="260" alt="saadeghi/daisyui のスター推移グラフ"></a>
+
+<a href="https://www.star-history.com/#airbnb/lottie-web&Date"><img src="https://api.star-history.com/svg?repos=airbnb/lottie-web&type=Date" width="260" alt="airbnb/lottie-web のスター推移グラフ"></a>
 
 <a href="https://www.star-history.com/#phosphor-icons/homepage&Date"><img src="https://api.star-history.com/svg?repos=phosphor-icons/homepage&type=Date" width="260" alt="phosphor-icons/homepage のスター推移グラフ"></a>
 
@@ -946,13 +961,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | +1,973 | 65.8 | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | +1,306 | 43.5 | 62,424 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | +754 | 25.1 | 25,795 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | +585 | 19.5 | 9,400 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | +322 | 10.7 | 42,856 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | +265 | 8.8 | 32,476 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | +160 | 5.3 | 7,817 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | +1,980 | 66.0 | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | +1,298 | 43.3 | 62,469 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | +742 | 24.7 | 25,813 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | +600 | 20.0 | 9,437 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | +342 | 11.4 | 42,877 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | +267 | 8.9 | 32,486 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | +165 | 5.5 | 7,822 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects のアニメを、そのまま iOS に<br>`デザイン / クリエイティブ` | +0 | 0.0 | 43 |
 
 <details>
@@ -980,13 +995,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | +26,933 | 73.8 | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | +21,655 | 59.3 | 62,424 |
-| 3 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | +6,639 | 18.2 | 9,400 |
-| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | +6,405 | 17.5 | 25,795 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | +4,232 | 11.6 | 42,856 |
-| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | +2,204 | 6.0 | 7,817 |
-| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | +1,220 | 3.3 | 32,476 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | +26,925 | 73.8 | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | +21,697 | 59.4 | 62,469 |
+| 3 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | +6,658 | 18.2 | 9,437 |
+| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | +6,406 | 17.6 | 25,813 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | +4,252 | 11.6 | 42,877 |
+| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | +2,207 | 6.0 | 7,822 |
+| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | +1,224 | 3.4 | 32,486 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects のアニメを、そのまま iOS に<br>`デザイン / クリエイティブ` | +1 | 0.0 | 43 |
 
 <details>
@@ -1014,13 +1029,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | 135,789 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | 62,424 |
-| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | 42,856 |
-| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | 32,476 |
-| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | 25,795 |
-| 6 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | 9,400 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | 7,817 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>開いてすぐ描ける、紙に落書きする感覚で<br>`デザイン / クリエイティブ` | 135,859 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>チームで一緒にデザイン、オープンソースの基盤で<br>`デザイン / クリエイティブ` | 62,469 |
+| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind 用の部品が最初から揃っている<br>`デザイン / クリエイティブ` | 42,877 |
+| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects のアニメを、そのまま Web に<br>`デザイン / クリエイティブ` | 32,486 |
+| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>スタイルが揃ったアイコン一式、すぐ使える<br>`デザイン / クリエイティブ` | 25,813 |
+| 6 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>作図もホワイトボードも、1 つのエディタで<br>`デザイン / クリエイティブ` | 9,437 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>誰でも使える、柔軟なアイコンファミリー<br>`デザイン / クリエイティブ` | 7,822 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects のアニメを、そのまま iOS に<br>`デザイン / クリエイティブ` | 43 |
 
 <details>
@@ -1050,20 +1065,29 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 ### 7 日以内の新着で最も熱いリポジトリ（作成から 7 日以内）
 
-今回の実行で条件を満たす新着リポジトリはありませんでした。
+| # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
+|---|---|---|---:|---:|
+| 1 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed)<br>Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing | 2026-11-15<br><sub>1.8 日</sub> | 115 | 63.3 |
+
+<details>
+<summary>このランキングのスター推移</summary>
+
+<a href="https://www.star-history.com/#alibasimm1993/whalefeed&Date"><img src="https://api.star-history.com/svg?repos=alibasimm1993/whalefeed&type=Date" width="260" alt="alibasimm1993/whalefeed のスター推移グラフ"></a>
+
+</details>
 
 ### 今週もっとも伸びた（直近 7 日）
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | +183 | 26.1 | 43,104 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | +136 | 19.4 | 50,960 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | +95 | 13.6 | 75,531 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | +69 | 9.9 | 40,350 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>システム間のイベントの流れを、分散基盤で運ぶ<br>`データ` | +42 | 6.0 | 34,224 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | +41 | 5.9 | 14,175 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | +24 | 3.4 | 17,303 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | +10 | 1.4 | 13,471 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | +181 | 25.9 | 43,125 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | +143 | 20.4 | 50,971 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | +98 | 14.0 | 75,543 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | +71 | 10.1 | 40,363 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>システム間のイベントの流れを、分散基盤で運ぶ<br>`データ` | +44 | 6.3 | 34,224 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | +43 | 6.1 | 14,183 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | +29 | 4.1 | 17,310 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | +10 | 1.4 | 13,472 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -1090,14 +1114,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | +955 | 31.8 | 43,104 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | +573 | 19.1 | 50,960 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | +446 | 14.9 | 75,531 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | +294 | 9.8 | 40,350 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | +956 | 31.9 | 43,125 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | +577 | 19.2 | 50,971 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | +435 | 14.5 | 75,543 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | +297 | 9.9 | 40,363 |
 | 5 | [apache/kafka](https://github.com/apache/kafka)<br>システム間のイベントの流れを、分散基盤で運ぶ<br>`データ` | +290 | 9.7 | 34,224 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | +159 | 5.3 | 14,175 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | +106 | 3.5 | 17,303 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | +46 | 1.5 | 13,471 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | +162 | 5.4 | 14,183 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | +112 | 3.7 | 17,310 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | +43 | 1.4 | 13,472 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -1124,14 +1148,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 増加数 | スター/日 | 総スター数 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | +9,444 | 25.9 | 43,104 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | +7,578 | 20.8 | 50,960 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | +7,358 | 20.2 | 75,531 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | +4,774 | 13.1 | 40,350 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>システム間のイベントの流れを、分散基盤で運ぶ<br>`データ` | +3,312 | 9.1 | 34,224 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | +2,470 | 6.8 | 14,175 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | +1,300 | 3.6 | 17,303 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | +872 | 2.4 | 13,471 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | +9,442 | 25.9 | 43,125 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | +7,578 | 20.8 | 50,971 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | +7,355 | 20.2 | 75,543 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | +4,776 | 13.1 | 40,363 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>システム間のイベントの流れを、分散基盤で運ぶ<br>`データ` | +3,307 | 9.1 | 34,224 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | +2,473 | 6.8 | 14,183 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | +1,304 | 3.6 | 17,310 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | +867 | 2.4 | 13,472 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -1158,14 +1182,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 総スター数 |
 |---|---|---:|
-| 1 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | 75,531 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | 50,960 |
-| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | 43,104 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | 40,350 |
+| 1 | [apache/superset](https://github.com/apache/superset)<br>データは、グラフにすれば見えてくる<br>`データ` | 75,543 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>大量データのリアルタイム分析をオープンソースで<br>`データ` | 50,971 |
+| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>データベースサーバーなしで、SQL 分析ができる<br>`データ` | 43,125 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>表データの処理が速く、待たされない<br>`データ` | 40,363 |
 | 5 | [apache/kafka](https://github.com/apache/kafka)<br>システム間のイベントの流れを、分散基盤で運ぶ<br>`データ` | 34,224 |
-| 6 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | 17,303 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | 14,175 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | 13,471 |
+| 6 | [apache/arrow](https://github.com/apache/arrow)<br>言語が違っても、データはそのまま通じる<br>`データ` | 17,310 |
+| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>データ変換を、ソフトウェア開発のやり方で<br>`データ` | 14,183 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>ブラウザでコードを書き、結果をその場で確認<br>`データ` | 13,472 |
 
 <details>
 <summary>このランキングのスター推移</summary>

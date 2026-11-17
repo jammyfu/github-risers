@@ -117,34 +117,43 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
+| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |  | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) |  | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeSc… |
+| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) |  | 31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 내 컴퓨터에만 보관하는 AI 회의 메모 | 컴퓨터에 보관되는 비공개 AI 회의록. Mac, Windows 및 Linux용 무료 오픈 소스 Granola 대안. |
-| [Outpostkrewhirl86/Capri-AI](https://github.com/Outpostkrewhirl86/Capri-AI) | 로컬 데스크톱 AI로 앱과 파일을 직접 제어 | Capri: 사이버펑크 HUD를 갖춘 로컬 우선 데스크톱 AI 에이전트. Windows를 위한 나만의 개인 Jarvis. 파일, 앱, 터미널 및 브라우저를 제어하며, Claude Cod… |
-| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
-| [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | 채팅 옆에서 Claude Code의 동작을 실시간으로 확인 | Claude Code가 무엇을 하고 있는지 채팅 옆에 보여주는 라이브 맵: 도구 호출, 모델 단계, 훅, 스킬 및 서브에이전트가 실행되는 즉시 켜집니다. 로컬 전용, 7… |
+| [staryone/motlab](https://github.com/staryone/motlab) |  | Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references. |
 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | API Key로 로그인하는 Claude 데스크톱 도구 | Claude 계정 불필요! API Key를 로그인 모드로 전환하여 Claude 데스크톱 버전 전체 기능 잠금 해제(중국어화 / 음성 / 컴퓨터 제어) |
+| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
-| [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | 글에서 AI 느낌을 지우고 다시 쓰기 | STE80 Humanizer: AI 흔적을 제거하고 텍스트를 ASD-STE100 (Simplified Technical English)의 80% 수준으로 다시 작성하는 에이전트 스킬, Andrej Karpathy sh… |
+| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) |  | Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent |
+| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3단계 검토 파이프라인으로 AI 코드를 감사 | 4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)… |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 桜井政博のゲーム作るには 본편 257편 전체 자막으로 만든 게임 제작 에이전트 스킬(비공식, 일본어) |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
-| [huawei-csl/MACaQ](https://github.com/huawei-csl/MACaQ) | 모델을 양자화하여 로컬 환경에서 직접 실행 | GGUF, 로컬 추론 및 그 이상을 위한 SOTA 모델 무관 양자화. llama.cpp, vLLM, Diffusers 등을 사용하여 텍스트, 이미지, 비디오 및 오디오 모델을 양자화하고 실행… |
+| [diego3g/craft](https://github.com/diego3g/craft) |  | Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works wit… |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
+| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 브라우저용 3D 액션 게임을 AI로 직접 제작 | 歸藏 Game Skill: AI가 처음부터 브라우저에서 플레이할 수 있는 3D 액션 게임을 만들 수 있게 하며, 플레이 가능한 데모 《雾锁山门》 포함. AI 생성 에셋으로 플레이 가능한 브라우저 3D 액션 게임을 구축하는 Claude Code / Codex용 에이전트 스킬… |
 | [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 천문학과 천체물리학 분야의 AI 엄선 논문 찾기 | 천문학 &amp; 천체물리학 분야 AI 논문 큐레이션 목록. |
-| [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 미래 정보 유출 없이 미국 주식 거래 에이전트 검증 | 미래를 볼 수 없는 뉴스 백테스팅을 갖춘 미국 주식용 AI 트레이딩 에이전트: 공개 LLM 트레이딩 에이전트 리더보드(rta-bench-1), 특정 시점으로 고정된 202… |
 | [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 원클릭으로 인기 숏폼을 복제하고 대본 분석 | 에이전트 네이티브 바이럴 비디오 스튜디오: 원클릭으로 바이럴 쇼츠를 복제하고, 비디오 후크와 스크립트를 Viral DNA 보고서로 분해하며, 비용이 산정된 10개의 변형을 제작… |
+| [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 미래 정보 유출 없이 미국 주식 거래 에이전트 검증 | 미래를 볼 수 없는 뉴스 백테스팅을 갖춘 미국 주식용 AI 트레이딩 에이전트: 공개 LLM 트레이딩 에이전트 리더보드(rta-bench-1), 특정 시점으로 고정된 202… |
 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 오픈 소스 화이트보드 AI 튜터로 수업 시청 | 애니메이션 강의와 대화형 재생 기능을 갖춘 오픈 소스 화이트보드 AI 튜터. Claude, Gemini &amp; DeepSeek 비교: 288회의 생성 실행과 64회의 blind-r… |
-| [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) | AI 티가 나는 UI와 UX를 에이전트 스킬로 수정 | 당신의 앱은 AI가 생성한 것처럼 보입니다. Dr. Unslopovich가 알아챘습니다. 모바일 앱, 웹 앱, 웹사이트에서 AI 느낌의 UI와 UX를 찾아 수정하는 에이전트 스킬. |
-| [pktq/lasik](https://github.com/pktq/lasik) | BLA로 시야가 차단된 에이전트의 시야를 복구 | BLA는 에이전트의 눈을 멀게 합니다. LASIK은 시력을 되찾아 줍니다. BLA(Blind LLM Agents) 강화를 되돌려 코딩 에이전트와 REA…가 다시 작업할 수 있도록 하는 정적 시력 복구 CLI + MCP 서버… |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 플러그인으로 AI 코딩 에이전트 개발을 자동화 | AI 코딩 에이전트(Claude Code, DeepSeek Harness, GitHub Copilot 등)를 위한 핸즈오프 개발 플러그인 |
-| [brunnojob/devrescue](https://github.com/brunnojob/devrescue) | 로컬에서 CI 로그와 개발 환경 오류를 진단 | 개발자 마찰 진단. 로컬 우선 CI 로그 분류, 환경 점검, 검토된 수정 사항 및 인시던트 비교. CLI + GitHub Action + 워크벤치. |
+| [ysunyang4/webagent](https://github.com/ysunyang4/webagent) |  | Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用 |
+| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) |  | Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly w… |
+| [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder) |  | Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too.… |
+| [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) |  | CMP30HX Mod: Shape the World, Share the Craft, Build It Together |
+| [parth888/runtime-forge](https://github.com/parth888/runtime-forge) |  | Runtime Forge CLI: inspect, install, update, and remove DirectX, VC++,.NET, Java, Python, Go, Rust, |
+| [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) |  | EasyWinget GUI: A Modern Web Interface for Seamless Windows Package Management |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) |  | A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more. |
+| [govijr/fix-storage](https://github.com/govijr/fix-storage) |  | A CLI to fix your mac's storage problems, just run fix-storage. |
+| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) |  | Cradle of small Python automation scripts — files, mail, scraping. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcn으로 Dynamic Island 바로 설치 | shadcn으로 설치되는 React용 오픈 소스 Dynamic Island. |
+| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) |  | Bunny Hopping Mod: Fabric-Powered Momentum and Movement Mastery |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 포크 없이 단일 파일로 Claude 스타일 테마 적용 | Claude에서 영감을 받은 T3 Code용 테마. 단일 파일, fork 불필요. |
+| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 일회용 트윈 환경에서 버그를 재현하고 수정 | TwinFix — 일회용 트윈 환경에서 버그를 진단, 재현 및 수정하는 AI 에이전트. |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 둥근 모서리의 Geist 폰트로 부드러운 느낌 연출 | Geist 폰트의 둥근 변형 ▲ |
 | [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | AI 에이전트가 통화를 처리하는 오픈 소스 교환대 | AI 에이전트가 운영하는 오픈 소스 전화 교환기. 전화를 받고, 통화 중 도구를 실행하며, 사람에게 상담하고, 통화가 종료된 후에도 작업을 계속… |
-| [chiban-org/chiban-oss](https://github.com/chiban-org/chiban-oss) | 복잡한 마을 토지 인허가, 필지별로 묶어서 관리 | 미국 소도시를 위한 오픈 소스 토지 이용 소프트웨어: 필지를 중심으로 정리된 허가, 검사, 계획 위원회 및 ZBA 사례, 규정 집행. |
-| [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | 흩어진 영상과 음악? 셀프 호스팅 앱 하나로 관리 | 프로그램, 영화, 음악을 위한 하나의 셀프 호스팅 앱. |
+| [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes) |  | Validator hobbyist notes for Solana — hardware sizing and care tasks. |
+| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) |  | CMaNGOS Helm: Wield the Helm, Command Your Realm |
+| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) |  | Jet Reports Skill: Visual Workbook Workflows NAV and Business Central |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | Windows에서 도메인 DNS와 이력을 단계별 조사 | Windows용 OSINT 도메인 및 인프라 정찰: 모든 도메인의 DNS, 인증서, 호스팅 및 이력을 계층별로 분석. |
-| [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 키 노출 없이 60초 만에 Solana 검증인 상태 확인 | 60초 만에 확인하는 Solana 밸리데이터 상태: 점수, 리더 임무, 보상, 디스크 예측, Prometheus. 단일 정적 바이너리, 읽기 전용, 키에는 절대 접근하지 않습니다. |
-| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 일회용 트윈 환경에서 버그를 재현하고 수정 | TwinFix — 일회용 트윈 환경에서 버그를 진단, 재현 및 수정하는 AI 에이전트. |
-| [bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex) | Windows용 Codex에 애니메이션 시작 화면 추가 | 星澜 · Windows용 Codex 애니메이션 시작 애니메이션. 다른 앱용 애니메이션 런처를 위한 개방형 기반. |
+| [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) |  | Microsoft PowerPoint on Windows: Design, Organization, and Export Best Practices |
+| [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) |  | Whalefeed: Desktop Feed Aggregator with Real-Time Sync and Structured Data Parsing |
