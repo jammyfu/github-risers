@@ -124,7 +124,7 @@
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千節點放進無限畫布，自由移動縮放 | 將數千個活躍 DOM 節點放置在無限畫布上：GPU 進行繪製，編輯器選取、移動並調整它們的大小，著色器和過渡效果在它們上面運行，並且… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白話提問，答案每句都有公開來源 | 適用於 Windows 的 AI OSINT 調查工具：用通俗易懂的語言提問，即可獲得基於公開來源構建的答案，每句話均附有來源。 |
 | [staryone/motlab](https://github.com/staryone/motlab) | 給參考資料，讓代理寫程式做影片 | 影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。 |
-| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) |  | 透過 MCP 將 Web AI 助理連接到本機檔案、終端機、Git 和桌面工具，並具備使用者控制的權限。 |
+| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | 想讓網頁 AI 連接本機？權限由你掌控 | 透過 MCP 將 Web AI 助理連接到本機檔案、終端機、Git 和桌面工具，並具備使用者控制的權限。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 讓 AI 代理照設計系統畫出所有畫面 | AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 借助257本櫻井字幕，讓代理帶你做遊戲 | 根據 桜井政博のゲーム作るには 全本篇 257 條字幕製作的遊戲製作代理技能（非官方·日語） |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟著 AI 拆解熱門短劇的劇本與分鏡 | AI 拆解學習短劇：為什麼火、劇本怎麼寫、每一鏡怎麼拍 |
@@ -139,7 +139,7 @@
 | [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | 社群驅動的加密貨幣吸籌掃描工具 | 面向 Discord 和 Telegram rich 的社群驅動型加密貨幣積累掃描器 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模組難移植？轉出Rust專案 | 將 Smelt 指向 Java mod jar，它就會啟動 Horizon 的 Rust 移植：crates、traits 和可運行的建置。未完成的部分已標記，因此你可以準確知道 w… |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 寫程式免盯，讓 AI 自動跑完流程 | 一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 |
-| [govijr/fix-storage](https://github.com/govijr/fix-storage) |  | 用於解決你的 mac &amp; linux 機器儲存問題的 CLI，只需執行 fix-storage。 |
+| [govijr/fix-storage](https://github.com/govijr/fix-storage) | 儲存空間出問題？一條指令直接修復 | 用於解決你的 mac &amp; linux 機器儲存問題的 CLI，只需執行 fix-storage。 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界並分享手藝，與大家一起建造 | CMP30HX Mod：塑造世界，分享工藝，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 檢查、安裝並更新常用執行階段 | Runtime Forge CLI：檢查、安裝、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用網頁介面輕鬆管理 Windows 套件 | EasyWinget GUI：用於無縫 Windows 套件管理的現代化 Web 介面 |
@@ -150,7 +150,7 @@
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性分身環境中重現並修復故障 | TwinFix — 在一次性孿生環境中自動診斷、復現並修復故障的 AI 代理。 |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用於重複執行機器人任務的自動化腳本 | Stratgies Indicator 自動化腳本可重複機器人任務運行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握連跳技巧，靠慣性高速移動 | Bunny Hopping Mod：由 Fabric 驅動的動量與移動技巧掌握 |
-| [replit/datacat](https://github.com/replit/datacat) |  | 自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 |
+| [replit/datacat](https://github.com/replit/datacat) | 想自己做監控？自行架設儀表板與告警 | 自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐層排查網域名稱與歷史 | 適用於 Windows 的 OSINT 網域和基礎設施偵察：逐層分析任何網域的 DNS、憑證、主機代管和歷史記錄。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直觀理清並呈現工作簿工作流程 | Jet Reports 技能：NAV 與 Business Central 的視覺化活頁簿工作流程 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控並管理你的CMaNGOS領域 | CMaNGOS Helm: 執掌 Helm，統御你的領域 |

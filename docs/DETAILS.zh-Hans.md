@@ -139,7 +139,7 @@
 | [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | 社区驱动的加密货币吸筹扫描工具 | 面向 Discord 和 Telegram rich 的社区驱动型加密货币积累扫描器 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模组难移植？转出Rust代码 | 将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w… |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
-| [govijr/fix-storage](https://github.com/govijr/fix-storage) |  | 用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 |
+| [govijr/fix-storage](https://github.com/govijr/fix-storage) | 存储空间出问题？一条命令直接修复 | 用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
@@ -150,7 +150,7 @@
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
-| [replit/datacat](https://github.com/replit/datacat) |  | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
+| [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐层排查域名解析与历史 | 适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |

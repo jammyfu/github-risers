@@ -73,7 +73,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千節點放進無限畫布，自由移動縮放 | 2026-11-12<br><sub>5.7 天</sub> | 521 | 91.5 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白話提問，答案每句都有公開來源 | 2026-11-13<br><sub>5.1 天</sub> | 454 | 88.9 |
 | 7 | [staryone/motlab](https://github.com/staryone/motlab)<br>給參考資料，讓代理寫程式做影片 | 2026-11-16<br><sub>2.1 天</sub> | 186 | 88.8 |
-| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>透過 MCP 將 Web AI 助理連接到本機檔案、終端機、Git 和桌面工具，並具備使用者控制的權限。 | 2026-11-13<br><sub>5.1 天</sub> | 399 | 78.3 |
+| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>想讓網頁 AI 連接本機？權限由你掌控 | 2026-11-13<br><sub>5.1 天</sub> | 399 | 78.3 |
 | 9 | [diego3g/craft](https://github.com/diego3g/craft)<br>讓 AI 代理照設計系統畫出所有畫面 | 2026-11-15<br><sub>2.8 天</sub> | 219 | 77.4 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>借助257本櫻井字幕，讓代理帶你做遊戲 | 2026-11-12<br><sub>6.0 天</sub> | 456 | 76.0 |
 
@@ -274,7 +274,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模組難移植？轉出Rust專案 | 2026-11-16<br><sub>2.0 天</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>寫程式免盯，讓 AI 自動跑完流程 | 2026-11-15<br><sub>3.2 天</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>用於解決你的 mac &amp; linux 機器儲存問題的 CLI，只需執行 fix-storage。 | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>儲存空間出問題？一條指令直接修復 | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界並分享手藝，與大家一起建造 | 2026-11-16<br><sub>2.2 天</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 檢查、安裝並更新常用執行階段 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用網頁介面輕鬆管理 Windows 套件 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 53.9 |
@@ -761,7 +761,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>想自己做監控？自行架設儀表板與告警 | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐層排查網域名稱與歷史 | 2026-11-13<br><sub>5.1 天</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直觀理清並呈現工作簿工作流程 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控並管理你的CMaNGOS領域 | 2026-11-15<br><sub>2.9 天</sub> | 153 | 53.7 |

@@ -4999,7 +4999,9 @@
         "hook": {
           "en": "Fix storage problems on Mac and Linux with one CLI",
           "ja": "MacとLinuxのストレージ問題をCLIで解決",
-          "ko": "Mac과 Linux의 저장 공간 문제를 CLI로 해결"
+          "ko": "Mac과 Linux의 저장 공간 문제를 CLI로 해결",
+          "zh-Hans": "存储空间出问题？一条命令直接修复",
+          "zh-Hant": "儲存空間出問題？一條指令直接修復"
         }
       }
     },
@@ -6363,7 +6365,9 @@
         "hook": {
           "en": "Track metrics and logs with self-hosted dashboards",
           "ja": "セルフホスト型で指標やログを一覧し異常に気づく",
-          "ko": "셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요"
+          "ko": "셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요",
+          "zh-Hans": "想自己做监控？自托管仪表盘与告警",
+          "zh-Hant": "想自己做監控？自行架設儀表板與告警"
         }
       }
     },
@@ -7282,7 +7286,8 @@
           "en": "Safely connect web AI assistants to your local tools",
           "zh-Hans": "把网页 AI 助手安全连上本地工具与终端",
           "ja": "WebのAIをローカルのツールやターミナルに接続",
-          "ko": "웹 AI를 로컬 도구와 터미널에 안전하게 연결"
+          "ko": "웹 AI를 로컬 도구와 터미널에 안전하게 연결",
+          "zh-Hant": "想讓網頁 AI 連接本機？權限由你掌控"
         }
       },
       "cb0c3e2e341c": {

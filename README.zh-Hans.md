@@ -274,7 +274,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模组难移植？转出Rust代码 | 2026-11-16<br><sub>2.0 天</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>借助轻量工作流插件，省心进行 AI 编程 | 2026-11-15<br><sub>3.2 天</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>存储空间出问题？一条命令直接修复 | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界并分享手艺，与大家一起建造 | 2026-11-16<br><sub>2.2 天</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 检查、安装并更新常用运行库 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用网页界面轻松管理 Windows 软件包 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 53.9 |
@@ -761,7 +761,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>想自己做监控？自托管仪表盘与告警 | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐层排查域名解析与历史 | 2026-11-13<br><sub>5.1 天</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直观理清并呈现工作簿工作流 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控并管理你的CMaNGOS领域 | 2026-11-15<br><sub>2.9 天</sub> | 153 | 53.7 |
