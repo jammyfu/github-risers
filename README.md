@@ -68,12 +68,12 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Afraid to rewrite in Rust? Migrate piece by piece safely | 2026-11-16<br><sub>2.2 d</sub> | 2,786 | 1,290.0 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Local LLM too slow? Let an agent boost serving speed | 2026-11-16<br><sub>1.9 d</sub> | 1,042 | 551.5 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>2.0 d</sub> | 636 | 312.5 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>Give your AI agent 32 free marketing skills | 2026-11-16<br><sub>2.0 d</sub> | 636 | 312.5 |
 | 4 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>Claude desktop tool listed as logging in with API Key | 2026-11-12<br><sub>6.4 d</sub> | 609 | 95.6 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas | 2026-11-12<br><sub>5.7 d</sub> | 521 | 91.5 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>Ask in plain words and get AI answers sourced per sentence | 2026-11-13<br><sub>5.1 d</sub> | 454 | 88.9 |
 | 7 | [staryone/motlab](https://github.com/staryone/motlab)<br>Want to make videos with code? Let agents build from refs | 2026-11-16<br><sub>2.1 d</sub> | 186 | 88.8 |
-| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions. | 2026-11-13<br><sub>5.1 d</sub> | 399 | 78.3 |
+| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Safely connect web AI assistants to your local tools | 2026-11-13<br><sub>5.1 d</sub> | 399 | 78.3 |
 | 9 | [diego3g/craft](https://github.com/diego3g/craft)<br>UI design takes too long? Let AI agents craft every screen | 2026-11-15<br><sub>2.8 d</sub> | 219 | 77.4 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>Learn game creation from 257 Masahiro Sakurai videos | 2026-11-12<br><sub>6.0 d</sub> | 456 | 76.0 |
 
@@ -274,7 +274,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Porting Java mods to Rust? Turn jar files into runnable code | 2026-11-16<br><sub>2.0 d</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>A lightweight workflow plugin for hands-off AI coding | 2026-11-15<br><sub>3.2 d</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's &amp; linux machine's storage problems, just run fix-storage. | 2026-11-14<br><sub>4.0 d</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Fix storage problems on Mac and Linux with one CLI | 2026-11-14<br><sub>4.0 d</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>Shape the world, share your craft, and build together | 2026-11-16<br><sub>2.2 d</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Inspect, install, and update your runtimes in CLI | 2026-11-15<br><sub>2.8 d</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Manage Windows packages easily in a web interface | 2026-11-15<br><sub>2.8 d</sub> | 153 | 53.9 |
@@ -440,7 +440,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust. | 2026-11-14<br><sub>4.5 d</sub> | 141 | 31.1 |
+| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>Verify whether your agents and skills can be trusted | 2026-11-14<br><sub>4.5 d</sub> | 141 | 31.1 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -597,7 +597,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>Get a Claude-inspired theme for T3 Code in one file | 2026-11-14<br><sub>3.8 d</sub> | 130 | 34.6 |
 | 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Give your text a softer look with rounded Geist font | 2026-11-11<br><sub>6.9 d</sub> | 178 | 25.8 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>Reproduce and fix bugs in disposable twin environments | 2026-11-13<br><sub>5.3 d</sub> | 132 | 24.8 |
-| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Stratgies Indicator automation script repeatable bot task runs | 2026-11-15<br><sub>2.8 d</sub> | 153 | 54.6 |
+| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Automation script for repeatable bot task runs | 2026-11-15<br><sub>2.8 d</sub> | 153 | 54.6 |
 | 6 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Master momentum and movement with Fabric bunny hopping | 2026-11-15<br><sub>2.9 d</sub> | 153 | 53.7 |
 
 <details>
@@ -761,7 +761,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. | 2026-11-17<br><sub>1.6 d</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>Track metrics and logs with self-hosted dashboards | 2026-11-17<br><sub>1.6 d</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>Inspect DNS, certs, and history of any domain on Windows | 2026-11-13<br><sub>5.1 d</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Visualize and organize complex workbook workflows | 2026-11-15<br><sub>2.8 d</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Command and manage your CMaNGOS realm with Helm | 2026-11-15<br><sub>2.9 d</sub> | 153 | 53.7 |

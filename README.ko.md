@@ -68,12 +68,12 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 2026-11-16<br><sub>2.2일</sub> | 2,786 | 1,290.0 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 2026-11-16<br><sub>1.9일</sub> | 1,042 | 551.5 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>2.0일</sub> | 636 | 312.5 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | 2026-11-16<br><sub>2.0일</sub> | 636 | 312.5 |
 | 4 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API Key로 로그인하는 Claude 데스크톱 도구 | 2026-11-12<br><sub>6.4일</sub> | 609 | 95.6 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>수천 개의 DOM 노드를 무한 캔버스에서 편집 | 2026-11-12<br><sub>5.7일</sub> | 521 | 91.5 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | 2026-11-13<br><sub>5.1일</sub> | 454 | 88.9 |
 | 7 | [staryone/motlab](https://github.com/staryone/motlab)<br>코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 2026-11-16<br><sub>2.1일</sub> | 186 | 88.8 |
-| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions. | 2026-11-13<br><sub>5.1일</sub> | 399 | 78.3 |
+| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>웹 AI를 로컬 도구와 터미널에 안전하게 연결 | 2026-11-13<br><sub>5.1일</sub> | 399 | 78.3 |
 | 9 | [diego3g/craft](https://github.com/diego3g/craft)<br>화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | 2026-11-15<br><sub>2.8일</sub> | 219 | 77.4 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>사쿠라이 마사히로 영상 257편으로 배우는 게임 제작 | 2026-11-12<br><sub>6.0일</sub> | 456 | 76.0 |
 
@@ -274,7 +274,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | 2026-11-16<br><sub>2.0일</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>편리한 AI 코딩을 위한 경량 워크플로 플러그인 | 2026-11-15<br><sub>3.2일</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's &amp; linux machine's storage problems, just run fix-storage. | 2026-11-14<br><sub>4.0일</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Mac과 Linux의 저장 공간 문제를 CLI로 해결 | 2026-11-14<br><sub>4.0일</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>세상을 빚고 작품을 공유하며 함께 건축 | 2026-11-16<br><sub>2.2일</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLI로 다양한 런타임을 점검, 설치, 업데이트 | 2026-11-15<br><sub>2.8일</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>웹 인터페이스로 Windows 패키지를 편리하게 관리 | 2026-11-15<br><sub>2.8일</sub> | 153 | 53.9 |
@@ -440,7 +440,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust. | 2026-11-14<br><sub>4.5일</sub> | 141 | 31.1 |
+| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>에이전트와 스킬이 믿을 수 있는지 확인하세요 | 2026-11-14<br><sub>4.5일</sub> | 141 | 31.1 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -597,7 +597,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>포크 없이 단일 파일로 Claude 스타일 테마 적용 | 2026-11-14<br><sub>3.8일</sub> | 130 | 34.6 |
 | 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>둥근 모서리의 Geist 폰트로 부드러운 느낌 연출 | 2026-11-11<br><sub>6.9일</sub> | 178 | 25.8 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>일회용 트윈 환경에서 버그를 재현하고 수정 | 2026-11-13<br><sub>5.3일</sub> | 132 | 24.8 |
-| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Stratgies Indicator automation script repeatable bot task runs | 2026-11-15<br><sub>2.8일</sub> | 153 | 54.6 |
+| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>반복 봇 작업을 실행하는 자동화 스크립트 | 2026-11-15<br><sub>2.8일</sub> | 153 | 54.6 |
 | 6 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Fabric에서 관성을 살려 연속 점프 이동을 숙달 | 2026-11-15<br><sub>2.9일</sub> | 153 | 53.7 |
 
 <details>
@@ -761,7 +761,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. | 2026-11-17<br><sub>1.6일</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요 | 2026-11-17<br><sub>1.6일</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>Windows에서 도메인 DNS와 이력을 단계별 조사 | 2026-11-13<br><sub>5.1일</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>워크북 워크플로를 시각적으로 한눈에 정리 | 2026-11-15<br><sub>2.8일</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | 2026-11-15<br><sub>2.9일</sub> | 153 | 53.7 |

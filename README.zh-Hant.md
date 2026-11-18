@@ -68,12 +68,12 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想換成 Rust？對照原行為一步步遷移 | 2026-11-16<br><sub>2.2 天</sub> | 2,786 | 1,290.0 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>本機LLM太慢？讓代理技能幫你調優提速 | 2026-11-16<br><sub>1.9 天</sub> | 1,042 | 551.5 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>2.0 天</sub> | 636 | 312.5 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>讓 AI 代理掌握 32 項免費行銷技能 | 2026-11-16<br><sub>2.0 天</sub> | 636 | 312.5 |
 | 4 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>沒有帳號也能用 API 登入桌面版 | 2026-11-12<br><sub>6.4 天</sub> | 609 | 95.6 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千節點放進無限畫布，自由移動縮放 | 2026-11-12<br><sub>5.7 天</sub> | 521 | 91.5 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白話提問，答案每句都有公開來源 | 2026-11-13<br><sub>5.1 天</sub> | 454 | 88.9 |
 | 7 | [staryone/motlab](https://github.com/staryone/motlab)<br>給參考資料，讓代理寫程式做影片 | 2026-11-16<br><sub>2.1 天</sub> | 186 | 88.8 |
-| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions. | 2026-11-13<br><sub>5.1 天</sub> | 399 | 78.3 |
+| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>透過 MCP 將 Web AI 助理連接到本機檔案、終端機、Git 和桌面工具，並具備使用者控制的權限。 | 2026-11-13<br><sub>5.1 天</sub> | 399 | 78.3 |
 | 9 | [diego3g/craft](https://github.com/diego3g/craft)<br>讓 AI 代理照設計系統畫出所有畫面 | 2026-11-15<br><sub>2.8 天</sub> | 219 | 77.4 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>借助257本櫻井字幕，讓代理帶你做遊戲 | 2026-11-12<br><sub>6.0 天</sub> | 456 | 76.0 |
 
@@ -274,7 +274,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模組難移植？轉出Rust專案 | 2026-11-16<br><sub>2.0 天</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>寫程式免盯，讓 AI 自動跑完流程 | 2026-11-15<br><sub>3.2 天</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's &amp; linux machine's storage problems, just run fix-storage. | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>用於解決你的 mac &amp; linux 機器儲存問題的 CLI，只需執行 fix-storage。 | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界並分享手藝，與大家一起建造 | 2026-11-16<br><sub>2.2 天</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 檢查、安裝並更新常用執行階段 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用網頁介面輕鬆管理 Windows 套件 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 53.9 |
@@ -440,7 +440,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust. | 2026-11-14<br><sub>4.5 天</sub> | 141 | 31.1 |
+| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>查驗代理與技能，確認來源值得信賴 | 2026-11-14<br><sub>4.5 天</sub> | 141 | 31.1 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -597,7 +597,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，單檔案就能換主題 | 2026-11-14<br><sub>3.8 天</sub> | 130 | 34.6 |
 | 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>給介面換上圓角版 Geist 字體 | 2026-11-11<br><sub>6.9 天</sub> | 178 | 25.8 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性分身環境中重現並修復故障 | 2026-11-13<br><sub>5.3 天</sub> | 132 | 24.8 |
-| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Stratgies Indicator automation script repeatable bot task runs | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.6 |
+| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>用於重複執行機器人任務的自動化腳本 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.6 |
 | 6 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>掌握連跳技巧，靠慣性高速移動 | 2026-11-15<br><sub>2.9 天</sub> | 153 | 53.7 |
 
 <details>
@@ -761,7 +761,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐層排查網域名稱與歷史 | 2026-11-13<br><sub>5.1 天</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直觀理清並呈現工作簿工作流程 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控並管理你的CMaNGOS領域 | 2026-11-15<br><sub>2.9 天</sub> | 153 | 53.7 |

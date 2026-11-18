@@ -68,12 +68,12 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust移行が不安？動作を確認しつつ段階移行 | 2026-11-16<br><sub>2.2 日</sub> | 2,786 | 1,290.0 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>ローカルLLMが遅い？エージェントスキルで高速化 | 2026-11-16<br><sub>1.9 日</sub> | 1,042 | 551.5 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>2.0 日</sub> | 636 | 312.5 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AIエージェントに32の無料マーケティングスキルを | 2026-11-16<br><sub>2.0 日</sub> | 636 | 312.5 |
 | 4 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>API KeyでログインするClaudeデスクトップ版ツール | 2026-11-12<br><sub>6.4 日</sub> | 609 | 95.6 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>5.7 日</sub> | 521 | 91.5 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>自然な言葉で質問し文ごとに根拠のある回答を得る | 2026-11-13<br><sub>5.1 日</sub> | 454 | 88.9 |
 | 7 | [staryone/motlab](https://github.com/staryone/motlab)<br>コードで動画を作りたい？素材からエージェントが生成 | 2026-11-16<br><sub>2.1 日</sub> | 186 | 88.8 |
-| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions. | 2026-11-13<br><sub>5.1 日</sub> | 399 | 78.3 |
+| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>WebのAIをローカルのツールやターミナルに接続 | 2026-11-13<br><sub>5.1 日</sub> | 399 | 78.3 |
 | 9 | [diego3g/craft](https://github.com/diego3g/craft)<br>画面設計が面倒？エージェントスキルで全状態をデザイン | 2026-11-15<br><sub>2.8 日</sub> | 219 | 77.4 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>桜井政博の全257本からゲーム制作スキルを学ぶ | 2026-11-12<br><sub>6.0 日</sub> | 456 | 76.0 |
 
@@ -274,7 +274,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java ModのRust移植が大変？jarから自動変換 | 2026-11-16<br><sub>2.0 日</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>AIコーディング用の軽量ワークフロープラグイン | 2026-11-15<br><sub>3.2 日</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's &amp; linux machine's storage problems, just run fix-storage. | 2026-11-14<br><sub>4.0 日</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>MacとLinuxのストレージ問題をCLIで解決 | 2026-11-14<br><sub>4.0 日</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>世界を形作り、作品を共有して共に建築 | 2026-11-16<br><sub>2.2 日</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLIで各種ランタイムの確認・導入・更新 | 2026-11-15<br><sub>2.8 日</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Web画面でWindowsパッケージを楽に管理 | 2026-11-15<br><sub>2.8 日</sub> | 153 | 53.9 |
@@ -440,7 +440,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust. | 2026-11-14<br><sub>4.5 日</sub> | 141 | 31.1 |
+| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>エージェントやスキルが安全か確認して使う | 2026-11-14<br><sub>4.5 日</sub> | 141 | 31.1 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -597,7 +597,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>3.8 日</sub> | 130 | 34.6 |
 | 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>Geistフォントに丸みのある柔らかさをプラス | 2026-11-11<br><sub>6.9 日</sub> | 178 | 25.8 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>使い捨て環境でバグを再現して自動修正 | 2026-11-13<br><sub>5.3 日</sub> | 132 | 24.8 |
-| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Stratgies Indicator automation script repeatable bot task runs | 2026-11-15<br><sub>2.8 日</sub> | 153 | 54.6 |
+| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>ボットタスクを繰り返し実行する自動化スクリプト | 2026-11-15<br><sub>2.8 日</sub> | 153 | 54.6 |
 | 6 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Fabricで慣性を活かした連続ジャンプ移動を習得 | 2026-11-15<br><sub>2.9 日</sub> | 153 | 53.7 |
 
 <details>
@@ -761,7 +761,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. | 2026-11-17<br><sub>1.6 日</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>セルフホスト型で指標やログを一覧し異常に気づく | 2026-11-17<br><sub>1.6 日</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>WindowsでドメインのDNSや履歴を多層調査 | 2026-11-13<br><sub>5.1 日</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>ワークブックのワークフローを視覚的に整理 | 2026-11-15<br><sub>2.8 日</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Helmを使ってCMaNGOSレルムを自在に指揮 | 2026-11-15<br><sub>2.9 日</sub> | 153 | 53.7 |

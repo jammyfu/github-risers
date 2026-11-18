@@ -68,12 +68,12 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想换成 Rust？对照原行为一步步迁移 | 2026-11-16<br><sub>2.2 天</sub> | 2,786 | 1,290.0 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>本地LLM太慢？让智能体技能帮你加速 | 2026-11-16<br><sub>1.9 天</sub> | 1,042 | 551.5 |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. | 2026-11-16<br><sub>2.0 天</sub> | 636 | 312.5 |
+| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>让 AI 智能体掌握 32 项免费营销技能 | 2026-11-16<br><sub>2.0 天</sub> | 636 | 312.5 |
 | 4 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)<br>没有账号也能用 API 登录桌面版 | 2026-11-12<br><sub>6.4 天</sub> | 609 | 95.6 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>5.7 天</sub> | 521 | 91.5 |
 | 6 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator)<br>用白话提问，答案每句都有公开来源 | 2026-11-13<br><sub>5.1 天</sub> | 454 | 88.9 |
 | 7 | [staryone/motlab](https://github.com/staryone/motlab)<br>给参考资料，让智能体写代码做视频 | 2026-11-16<br><sub>2.1 天</sub> | 186 | 88.8 |
-| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions. | 2026-11-13<br><sub>5.1 天</sub> | 399 | 78.3 |
+| 8 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)<br>把网页 AI 助手安全连上本地工具与终端 | 2026-11-13<br><sub>5.1 天</sub> | 399 | 78.3 |
 | 9 | [diego3g/craft](https://github.com/diego3g/craft)<br>界面设计太繁琐？让智能体画全状态页面 | 2026-11-15<br><sub>2.8 天</sub> | 219 | 77.4 |
 | 10 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)<br>用樱井政博257本字幕做游戏制作技能 | 2026-11-12<br><sub>6.0 天</sub> | 456 | 76.0 |
 
@@ -274,7 +274,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模组难移植？转出Rust代码 | 2026-11-16<br><sub>2.0 天</sub> | 262 | 130.3 |
 | 2 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax)<br>借助轻量工作流插件，省心进行 AI 编程 | 2026-11-15<br><sub>3.2 天</sub> | 136 | 42.1 |
-| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>A CLI to fix your mac's &amp; linux machine's storage problems, just run fix-storage. | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
+| 3 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 | 2026-11-14<br><sub>4.0 天</sub> | 124 | 31.2 |
 | 4 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界并分享手艺，与大家一起建造 | 2026-11-16<br><sub>2.2 天</sub> | 153 | 70.6 |
 | 5 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 检查、安装并更新常用运行库 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.5 |
 | 6 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用网页界面轻松管理 Windows 软件包 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 53.9 |
@@ -440,7 +440,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust. | 2026-11-14<br><sub>4.5 天</sub> | 141 | 31.1 |
+| 1 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet)<br>查验智能体与技能，确认来源值得信赖 | 2026-11-14<br><sub>4.5 天</sub> | 141 | 31.1 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -597,7 +597,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 2 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，单文件就能换主题 | 2026-11-14<br><sub>3.8 天</sub> | 130 | 34.6 |
 | 3 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font)<br>给界面换上圆角版 Geist 字体 | 2026-11-11<br><sub>6.9 天</sub> | 178 | 25.8 |
 | 4 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix)<br>在一次性孪生环境中复现并修复故障 | 2026-11-13<br><sub>5.3 天</sub> | 132 | 24.8 |
-| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Stratgies Indicator automation script repeatable bot task runs | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.6 |
+| 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>用于重复执行机器人任务的自动化脚本 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.6 |
 | 6 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>掌握连跳技巧，靠惯性高速移动 | 2026-11-15<br><sub>2.9 天</sub> | 153 | 53.7 |
 
 <details>
@@ -761,7 +761,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [replit/datacat](https://github.com/replit/datacat)<br>Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
+| 1 | [replit/datacat](https://github.com/replit/datacat)<br>自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 | 2026-11-17<br><sub>1.6 天</sub> | 118 | 76.2 |
 | 2 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon)<br>在 Windows 上逐层排查域名解析与历史 | 2026-11-13<br><sub>5.1 天</sub> | 163 | 32.2 |
 | 3 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直观理清并呈现工作簿工作流 | 2026-11-15<br><sub>2.8 天</sub> | 153 | 54.1 |
 | 4 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控并管理你的CMaNGOS领域 | 2026-11-15<br><sub>2.9 天</sub> | 153 | 53.7 |
