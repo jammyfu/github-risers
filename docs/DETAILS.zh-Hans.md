@@ -117,43 +117,41 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本地LLM太慢？让智能体技能帮你加速 | 用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能 |
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想换成 Rust？对照原行为一步步迁移 | 将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库… |
-| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 智能体不会营销？装上31个免费营销技能 | 为你的 AI 智能体提供的 31 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。 |
-| [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 把 AI 会议笔记全保存在自己电脑里 | 保留在您电脑上的私密 AI 会议记录。一款适用于 Mac、Windows 和 Linux 的免费、开源 Granola 替代品。 |
-| [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
+| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本地LLM太慢？让智能体技能帮你加速 | 用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能 |
+| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) |  | 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT. |
 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | 没有账号也能用 API 登录桌面版 | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
-| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | 网页AI管不了电脑？让它操作本地文件 | Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent |
+| [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
+| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) |  | Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions. |
+| [diego3g/craft](https://github.com/diego3g/craft) | 界面设计太繁琐？让智能体画全状态页面 | AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit… |
 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
-| [diego3g/craft](https://github.com/diego3g/craft) | 界面设计太繁琐？让智能体画全状态页面 | AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
-| [Xin-YuXiao/Awesome-AI-for-Astronomy](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) | 查找天文与天体物理领域的 AI 精选论文 | 天文学 &amp; 天体物理学领域 AI 论文精选列表。 |
-| [fendouai/ViralForge](https://github.com/fendouai/ViralForge) | 一键复刻爆款短视频，拆解文案脚本 | 智能体原生病毒式视频工作室：一键复刻病毒式短视频，将视频钩子与脚本解构为 Viral DNA 报告，并交付 10 个已核算成本的变体… |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
 | [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 回测美股交易智能体，杜绝未来数据偷看 | 具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202… |
-| [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 让开源白板 AI 导师把课程画成动画 | 具有动画课程和交互式回放的开源白板 AI 导师。对比 Claude、Gemini &amp; DeepSeek 在 288 次生成运行和 64 次 blind-r… |
-| [ysunyang4/webagent](https://github.com/ysunyang4/webagent) | 网页AI缺工具？用MCP调用本地工具 | Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用 |
+| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) |  | Verified license and provenance records for datasets behind medical AI: information cards, JSON Schema, decision rules and evidence index (hashes only). Cards… |
+| [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) |  | Interview Copilot EdTech App: Bridge Learning and Your Dream Job |
+| [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) |  | Grand Tour Skill: orchestrated developer library for /grand-tour |
+| [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) |  | Events Tracker: Team Calendar and Event Management Platform |
+| [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) |  | Community-driven crypto accumulation scanner for Discord and Telegram rich |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模组难移植？转出Rust代码 | 将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w… |
-| [brightsheikhfold/minecraft-ai-mod-builder](https://github.com/brightsheikhfold/minecraft-ai-mod-builder) | 在终端描述建筑，一键直接放到世界里 | 在 Minecraft 中随性建造。在你的终端中描述建筑，在世界中将其呈现为蓝图，一步完成放置并一步撤销。还能编写数据包。… |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
+| [govijr/fix-storage](https://github.com/govijr/fix-storage) |  | A CLI to fix your mac's &amp; linux machine's storage problems, just run fix-storage. |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
-| [govijr/fix-storage](https://github.com/govijr/fix-storage) | 运行 CLI，轻松修复 Mac 存储空间问题 | 用于解决 mac 存储问题的 CLI，只需运行 fix-storage。 |
-| [restordinaryjoint/python-script-cradle](https://github.com/restordinaryjoint/python-script-cradle) | Python 文件与爬虫自动化脚本集 | 小型 Python 自动化脚本的摇篮 —— 文件、邮件、爬取。 |
+| [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) |  | The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust. |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
-| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
-| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
 | [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 给界面换上圆角版 Geist 字体 | Geist 字体的圆角变体 ▲ |
-| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | 让 AI 替你接电话并运行工具的开源总机 | 由 AI 智能体运营的开源电话交换机。接听电话、通话期间执行工具、向人工咨询，并在电话挂断后继续工作… |
-| [s-warren725/solana-node-notes](https://github.com/s-warren725/solana-node-notes) | 不知如何配节点？理清Solana硬件与维护 | Solana 验证节点爱好者笔记 —— 硬件选型与维护任务。 |
-| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
-| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
+| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
+| [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) |  | Stratgies Indicator automation script repeatable bot task runs |
+| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
+| [replit/datacat](https://github.com/replit/datacat) |  | Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. |
 | [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐层排查域名解析与历史 | 适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。 |
-| [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) | Microsoft PowerPoint设计与导出实践 | Windows 上的 Microsoft PowerPoint：设计、组织与导出最佳实践 |
+| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
+| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 在桌面实时同步，轻松追踪所有订阅 | Whalefeed: 具备实时同步与结构化数据解析功能的桌面 Feed 聚合器 |
