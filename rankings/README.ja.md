@@ -6,6 +6,7 @@
 
 | 日付 | スロット | 取得日時（UTC） | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | スナップショット |
 |---|---|---|---|---|---|---|---|
+| 2026-11-19 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-19T16:07:38Z | erkamyaman/rust-anything (1,476/日) | morluto/rea (2,263/日) | morluto/rea (4,375/日) | deepseek-ai/deepseek-harness (2,897/日) | [2026-11-19/pt-0000](2026-11-19/pt-0000/rankings.ja.md) · [json](2026-11-19/pt-0000/stats.json) |
 | 2026-11-18 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-18T16:00:36Z | erkamyaman/rust-anything (1,290/日) | morluto/rea (2,384/日) | morluto/rea (4,755/日) | deepseek-ai/deepseek-harness (2,920/日) | [2026-11-18/pt-0000](2026-11-18/pt-0000/rankings.ja.md) · [json](2026-11-18/pt-0000/stats.json) |
 | 2026-11-17 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-17T16:32:09Z | sybil-solutions/inference-optimisation-skill (704/日) | morluto/rea (2,499/日) | morluto/rea (5,191/日) | deepseek-ai/deepseek-harness (2,944/日) | [2026-11-17/pt-0000](2026-11-17/pt-0000/rankings.ja.md) · [json](2026-11-17/pt-0000/stats.json) |
 | 2026-11-16 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-16T16:31:39Z | FrigadeHQ/yogurt (308/日) | morluto/rea (2,647/日) | morluto/rea (5,669/日) | deepseek-ai/deepseek-harness (2,968/日) | [2026-11-16/pt-0000](2026-11-16/pt-0000/rankings.ja.md) · [json](2026-11-16/pt-0000/stats.json) |

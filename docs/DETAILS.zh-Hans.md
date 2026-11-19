@@ -118,40 +118,40 @@
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想换成 Rust？对照原行为一步步迁移 | 将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库… |
+| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) |  | Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本地LLM太慢？让智能体技能帮你加速 | 用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 让 AI 智能体掌握 32 项免费营销技能 | 为你的 AI 智能体提供 32 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。 |
-| [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | 没有账号也能用 API 登录桌面版 | 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制） |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
-| [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
-| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | 把网页 AI 助手安全连上本地工具与终端 | 通过 MCP 将 Web AI 助手连接到本地文件、终端、Git 和桌面工具，并具备用户可控的权限。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 界面设计太繁琐？让智能体画全状态页面 | AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit… |
-| [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | 用樱井政博257本字幕做游戏制作技能 | 根据 桜井政博のゲーム作るには 全本篇 257 条字幕制作的游戏制作智能体技能（非官方·日语） |
+| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | 把网页 AI 助手安全连上本地工具与终端 | 通过 MCP 将 Web AI 助手连接到本地文件、终端、Git 和桌面工具，并具备用户可控的权限。 |
+| [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
-| [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | 让 AI 从零做出浏览器 3D 动作游戏 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets… |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
-| [jackson-cmd/risk-aware-trading-agents](https://github.com/jackson-cmd/risk-aware-trading-agents) | 回测美股交易智能体，杜绝未来数据偷看 | 具备无法预知未来的新闻回测功能的美股 AI 交易智能体：公开的 LLM 交易智能体排行榜（rta-bench-1），冻结时间点 202… |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医疗 AI 数据集的许可与来源验证记录库 | 医疗 AI 背后数据集的经过验证的许可与来源记录：信息卡、JSON Schema、决策规则和证据索引（仅哈希）。Cards… |
-| [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 面向求职准备的面试副驾驶教育应用 | Interview Copilot EdTech App：连接学习与你的理想工作 |
+| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) |  | Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each oth… |
+| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
+| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
+| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) |  | 让 Antigravity 少走回合、少等审查的本地规则插件（非官方） |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
+| [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 面向求职准备的面试副驾驶教育应用 | Interview Copilot EdTech App：连接学习与你的理想工作 |
 | [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) | 团队日历与活动管理平台 | Events Tracker：团队日历与活动管理平台 |
 | [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | 社区驱动的加密货币吸筹扫描工具 | 面向 Discord 和 Telegram rich 的社区驱动型加密货币积累扫描器 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模组难移植？转出Rust代码 | 将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w… |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 存储空间出问题？一条命令直接修复 | 用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 |
+| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) |  | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
+| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) |  | Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | 查验智能体与技能，确认来源值得信赖 | 智能体与技能的认可印章：具备签名与透明日志发布信任的图优先语义治理注册表。 |
 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 为 React 接入开源灵动岛 | 适用于 React 的开源 Dynamic Island，使用 shadcn 安装。 |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
-| [shadcn-labs/goeist-font](https://github.com/shadcn-labs/goeist-font) | 给界面换上圆角版 Geist 字体 | Geist 字体的圆角变体 ▲ |
 | [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性孪生环境中复现并修复故障 | TwinFix — 在一次性孪生环境中自动诊断、复现并修复故障的 AI 智能体。 |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
-| [CaptureMiller/strata-osint-domain-recon](https://github.com/CaptureMiller/strata-osint-domain-recon) | 在 Windows 上逐层排查域名解析与历史 | 适用于 Windows 的 OSINT 域名和基础设施侦察：逐层分析任何域名的 DNS、证书、主机托管和历史记录。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) |  | Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 在桌面实时同步，轻松追踪所有订阅 | Whalefeed: 具备实时同步与结构化数据解析功能的桌面 Feed 聚合器 |
