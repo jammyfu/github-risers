@@ -67,7 +67,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想换成 Rust？对照原行为一步步迁移 | 2026-11-16<br><sub>3.2 天</sub> | 4,671 | 1,476.0 |
-| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. | 2026-11-18<br><sub>1.0 天</sub> | 457 | 457.0 |
+| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>把 GTA 6 直播切成竖屏短视频 | 2026-11-18<br><sub>1.0 天</sub> | 457 | 457.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>本地LLM太慢？让智能体技能帮你加速 | 2026-11-16<br><sub>2.9 天</sub> | 1,214 | 419.5 |
 | 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>让 AI 智能体掌握 32 项免费营销技能 | 2026-11-16<br><sub>3.0 天</sub> | 699 | 229.9 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>上千节点放进无限画布，自由移动缩放 | 2026-11-12<br><sub>6.7 天</sub> | 534 | 79.7 |
@@ -274,8 +274,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模组难移植？转出Rust代码 | 2026-11-16<br><sub>3.0 天</sub> | 144 | 47.7 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>存储空间出问题？一条命令直接修复 | 2026-11-14<br><sub>5.0 天</sub> | 127 | 25.5 |
-| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… | 2026-11-15<br><sub>4.3 天</sub> | 109 | 25.2 |
-| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. | 2026-11-14<br><sub>5.2 天</sub> | 101 | 19.6 |
+| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>在方案与代码评审中快速批注并解决卡点 | 2026-11-15<br><sub>4.3 天</sub> | 109 | 25.2 |
+| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>上下文使用量、模型配额、Token 消耗细分和生成指标 —— 尽在您的 Antigravity composer 中。 | 2026-11-14<br><sub>5.2 天</sub> | 101 | 19.6 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界并分享手艺，与大家一起建造 | 2026-11-16<br><sub>3.2 天</sub> | 153 | 48.2 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 检查、安装并更新常用运行库 | 2026-11-15<br><sub>3.8 天</sub> | 153 | 40.1 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用网页界面轻松管理 Windows 软件包 | 2026-11-15<br><sub>3.9 天</sub> | 153 | 39.8 |
@@ -920,7 +920,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… | 2026-11-16<br><sub>3.5 天</sub> | 121 | 35.0 |
+| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… | 2026-11-16<br><sub>3.5 天</sub> | 121 | 35.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

@@ -67,7 +67,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust移行が不安？動作を確認しつつ段階移行 | 2026-11-16<br><sub>3.2 日</sub> | 4,671 | 1,476.0 |
-| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. | 2026-11-18<br><sub>1.0 日</sub> | 457 | 457.0 |
+| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>GTA 6の配信から縦型動画を切り抜く | 2026-11-18<br><sub>1.0 日</sub> | 457 | 457.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>ローカルLLMが遅い？エージェントスキルで高速化 | 2026-11-16<br><sub>2.9 日</sub> | 1,214 | 419.5 |
 | 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AIエージェントに32の無料マーケティングスキルを | 2026-11-16<br><sub>3.0 日</sub> | 699 | 229.9 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>数千のDOMノードを無限キャンバスに描画・編集 | 2026-11-12<br><sub>6.7 日</sub> | 534 | 79.7 |
@@ -274,8 +274,8 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java ModのRust移植が大変？jarから自動変換 | 2026-11-16<br><sub>3.0 日</sub> | 144 | 47.7 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>MacとLinuxのストレージ問題をCLIで解決 | 2026-11-14<br><sub>5.0 日</sub> | 127 | 25.5 |
-| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… | 2026-11-15<br><sub>4.3 日</sub> | 109 | 25.2 |
-| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. | 2026-11-14<br><sub>5.2 日</sub> | 101 | 19.6 |
+| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>計画やコードレビューで注釈を付け課題を解決 | 2026-11-15<br><sub>4.3 日</sub> | 109 | 25.2 |
+| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>Antigravityでコンテキストとモデル使用量を確認 | 2026-11-14<br><sub>5.2 日</sub> | 101 | 19.6 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>世界を形作り、作品を共有して共に建築 | 2026-11-16<br><sub>3.2 日</sub> | 153 | 48.2 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLIで各種ランタイムの確認・導入・更新 | 2026-11-15<br><sub>3.8 日</sub> | 153 | 40.1 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Web画面でWindowsパッケージを楽に管理 | 2026-11-15<br><sub>3.9 日</sub> | 153 | 39.8 |
@@ -920,7 +920,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… | 2026-11-16<br><sub>3.5 日</sub> | 121 | 35.0 |
+| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Codexを使って一言からコマ撮りアニメを作る | 2026-11-16<br><sub>3.5 日</sub> | 121 | 35.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>

@@ -118,7 +118,7 @@
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想换成 Rust？对照原行为一步步迁移 | 将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库… |
-| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) |  | Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. |
+| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | 把 GTA 6 直播切成竖屏短视频 | 将 GTA 6 直播转化为付费竖屏短视频的 Claude Code 插件：实时活动、热门视频、精彩时刻，以及带有吸引点、字幕和署名的 9:16 剪辑。 |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本地LLM太慢？让智能体技能帮你加速 | 用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 让 AI 智能体掌握 32 项免费营销技能 | 为你的 AI 智能体提供 32 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。 |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千节点放进无限画布，自由移动缩放 | 将数千个活跃 DOM 节点放置在无限画布上：GPU 进行绘制，编辑器选择、移动并调整它们的大小，着色器和过渡效果在它们上面运行，并且… |
@@ -128,19 +128,19 @@
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医疗 AI 数据集的许可与来源验证记录库 | 医疗 AI 背后数据集的经过验证的许可与来源记录：信息卡、JSON Schema、决策规则和证据索引（仅哈希）。Cards… |
-| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) |  | Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each oth… |
+| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | 在 Mac 同时登录多个 Claude 桌面账号 | 在 Mac 上同时运行多个 Claude Desktop 账号：独立登录、自定义图标、共享的 Claude Code 配置，以及彼此互相发消… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白话提问，答案每句都有公开来源 | 适用于 Windows 的 AI OSINT 调查工具：用通俗易懂的语言提问，即可获得基于公开来源构建的答案，每句话均附有来源。 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一条命令自动选工具、执行并生成案卷 | 用于 OSINT 的命令行 AI 智能体：一条命令，即可挑选工具、运行它们并编写案件文件。 |
-| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) |  | 让 Antigravity 少走回合、少等审查的本地规则插件（非官方） |
+| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) | 减少 Antigravity 的回合与审查等待 | 让 Antigravity 少走回合、少等审查的本地规则插件（非官方） |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
 | [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 面向求职准备的面试副驾驶教育应用 | Interview Copilot EdTech App：连接学习与你的理想工作 |
 | [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) | 团队日历与活动管理平台 | Events Tracker：团队日历与活动管理平台 |
 | [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | 社区驱动的加密货币吸筹扫描工具 | 面向 Discord 和 Telegram rich 的社区驱动型加密货币积累扫描器 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模组难移植？转出Rust代码 | 将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 存储空间出问题？一条命令直接修复 | 用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 |
-| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) |  | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) |  | Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. |
+| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 在方案与代码评审中快速批注并解决卡点 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
+| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) |  | 上下文使用量、模型配额、Token 消耗细分和生成指标 —— 尽在您的 Antigravity composer 中。 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
@@ -153,5 +153,5 @@
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) |  | Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) |  | 由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 在桌面实时同步，轻松追踪所有订阅 | Whalefeed: 具备实时同步与结构化数据解析功能的桌面 Feed 聚合器 |

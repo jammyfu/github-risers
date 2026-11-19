@@ -118,7 +118,7 @@
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 앱 전체를 한 번에 하나씩 Rust로 재작성하고, 모든 단계에서 원본의 기록된 동작과 대조하여 확인합니다. TypeSc의 CLI, HTTP 서버 및 라이브러리… |
-| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) |  | Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. |
+| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | GTA 6 방송을 세로형 클립으로 편집 | GTA 6 스트리밍을 유료 세로형 클립으로 변환하는 Claude Code 플러그인: 라이브 캠페인, 트렌딩 비디오, 베스트 모먼트, 훅·자막·크레딧이 포함된 9:16 컷. |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 모든 하드웨어 및 양자화에서 로컬 LLM 서빙 속도(디코드, 투기적 디코딩, 프리필, KV, 시작, TTFT)를 힐클라이밍으로 개선하는 에이전트 스킬 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | AI 에이전트를 위한 32가지 무료 마케팅 스킬: 리서치, 포지셔닝, 카피, 페이지, SEO, AI 검색, 광고, 이메일 및 콘텐츠, 그리고 심층 로컬 비즈니스 팩. MIT. |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 수천 개의 DOM 노드를 무한 캔버스에서 편집 | 수천 개의 라이브 DOM 노드를 무한 캔버스에 배치: GPU가 이를 그리고, 편집기가 이를 선택·이동·크기 조절하며, 셰이더와 트랜지션이 그 위에서 실행되고… |
@@ -128,19 +128,19 @@
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3단계 검토 파이프라인으로 AI 코드를 감사 | 4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)… |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 의료 AI 데이터셋 라이선스 및 출처 검증 기록 | 의료 AI 기반 데이터셋을 위한 검증된 라이선스 및 출처 기록: 정보 카드, JSON Schema, 의사결정 규칙 및 증거 색인(해시 전용). Cards… |
-| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) |  | Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each oth… |
+| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Mac에서 Claude 데스크톱 여러 개를 동시에 사용 | Mac에서 여러 Claude Desktop 계정을 동시에 실행: 개별 로그인, 커스텀 아이콘, 하나의 공유 Claude Code 설정, 그리고 서로 메시지를 주고받… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 일상어로 질문하고 문장마다 출처가 있는 답변을 확인 | Windows용 AI OSINT 조사 도구: 평이한 말로 질문하고 모든 문장에 출처가 달린 공개 소스 기반의 답변을 받으세요. |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 편리한 AI 코딩을 위한 경량 워크플로 플러그인 | DeepSeek Harness, Claude Code, GitHub Copilot 등을 활용한 핸즈오프 AI 코딩을 위한 경량 워크플로 플러그인. |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 명령어 하나로 도구 선택, 실행, 사건 파일 작성 | OSINT용 명령줄 AI 에이전트: 단 하나의 명령으로 도구를 선택하고 실행하며 사건 파일을 작성합니다. |
-| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) |  | 让 Antigravity 少走回合、少等审查的本地规则插件（非官方） |
+| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) | Antigravity 반복 턴과 검토 대기 줄이기 | Antigravity의 턴과 검토 대기 시간을 줄여주는 로컬 규칙 플러그인(비공식) |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 전용 개발자 스킬 라이브러리 | Grand Tour 스킬: /grand-tour를 위한 오케스트레이션된 개발자 라이브러리 |
 | [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 취업 면접 준비를 돕는 교육용 앱 | Interview Copilot EdTech App: 학습과 꿈의 직장을 잇다 |
 | [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) | 팀 캘린더 및 이벤트 관리 플랫폼 | Events Tracker: 팀 캘린더 및 이벤트 관리 플랫폼 |
 | [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | 디스코드와 텔레그램용 가상자산 축적 스캐너 | Discord 및 Telegram rich를 위한 커뮤니티 주도형 암호화폐 매집 스캐너 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | Smelt를 Java 모드 jar로 지정하면 Horizon용 Rust 포팅을 시작합니다: crate, trait 및 실행 가능한 빌드. 미완성된 부분은 표시되어 있어 정확히 w… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | Mac과 Linux의 저장 공간 문제를 CLI로 해결 | mac &amp; linux 머신의 스토리지 문제를 해결하는 CLI로, fix-storage를 실행하기만 하면 됩니다. |
-| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) |  | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) |  | Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. |
+| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 계획과 코드 검토에서 메모를 달고 장애물 해결 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
+| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | Antigravity에서 컨텍스트와 모델 사용량 바로 확인 | 컨텍스트 사용량, 모델 할당량, 토큰 세부 분석 및 생성 지표 — Antigravity composer에서 바로 확인하세요. |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 세상을 빚고 작품을 공유하며 함께 건축 | CMP30HX Mod: 세상을 형성하고, 공예를 공유하며, 함께 건설하세요 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLI로 다양한 런타임을 점검, 설치, 업데이트 | Runtime Forge CLI: DirectX, VC++, .NET, Java, Python, Go, Rust 검사, 설치, 업데이트 및 제거, |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 웹 인터페이스로 Windows 패키지를 편리하게 관리 | EasyWinget GUI: 매끄러운 Windows 패키지 관리를 위한 현대적인 웹 인터페이스 |
@@ -153,5 +153,5 @@
 | [replit/datacat](https://github.com/replit/datacat) | 셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요 | 셀프 호스팅 관측 가능성: 메트릭, 로그, 추적, 대시보드 및 알림. PostgreSQL 또는 ClickHouse에 데이터를 저장합니다. OpenTelemetry 데이터를 수용합니다. |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 워크북 워크플로를 시각적으로 한눈에 정리 | Jet Reports 스킬: NAV 및 Business Central용 시각적 통합 문서 워크플로 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | CMaNGOS Helm: Helm을 쥐고, 당신의 영역을 지휘하세요 |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) |  | Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codex로 한 문장에서 스톱모션 애니메이션 만들기 | 한 줄로 만드는 스톱모션 단편, Codex로 제작: 8가지 머티리얼 스타일, 이미지 모델이 그리고 코드에서 프레임 단위로 움직이는 퍼펫. 한 문장으로 Codex로 스톱모션 애니메이션 만들기… |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 데스크톱에서 모든 피드를 실시간으로 동기화 | Whalefeed: 실시간 동기화 및 구조화된 데이터 파싱 기능을 갖춘 데스크톱 피드 애그리게이터 |

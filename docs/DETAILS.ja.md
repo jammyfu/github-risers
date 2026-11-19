@@ -118,7 +118,7 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust移行が不安？動作を確認しつつ段階移行 | アプリ全体を一度に1つずつRustで書き直し、各ステップでオリジナルの記録された動作と照合して確認します。TypeScで作成されたCLI、HTTPサーバー、ライブラリ… |
-| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) |  | Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. |
+| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | GTA 6の配信から縦型動画を切り抜く | GTA 6の配信を有料の縦型動画に変換するClaude Codeプラグイン：ライブキャンペーン、トレンド動画、ベストモーメント、フック・字幕・クレジット付きの9:16カット。 |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | ローカルLLMが遅い？エージェントスキルで高速化 | あらゆるハードウェアおよび量子化環境でローカルLLMサービング速度（デコード、投機的デコード、プレフィル、KV、起動、TTFT）を山登り法で向上させるエージェントスキル |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AIエージェントに32の無料マーケティングスキルを | AI エージェント向けの 32 の無料マーケティングスキル：リサーチ、ポジショニング、コピー、ページ、SEO、AI 検索、広告、メール、コンテンツ、さらに充実したローカルビジネスパック。MIT。 |
 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 数千のDOMノードを無限キャンバスに描画・編集 | 数千のライブDOMノードを無限のキャンバスに配置：GPUがそれらを描画し、エディターが選択、移動、サイズ変更を行い、シェーダーとトランジションがそれらの上で実行され、そして… |
@@ -128,19 +128,19 @@
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AIで人気短編ドラマの脚本や撮影手順を分析 | AIでショートドラマを分解・学習：なぜヒットするのか、脚本はどう書くか、各カットをどう撮るか |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3段階のレビュー手順でAIコードを監査 | 本番環境レベルのAIコーディング指示、厳選されたスキル、4,500+時間以上をかけて構築された3段階のレビューパイプライン（Planning → Critical Review → Diff Audit）… |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医療向けAIデータセットのライセンス検証記録 | 医療 AI を支えるデータセットの検証済みライセンスおよび出所記録：情報カード、JSON Schema、決定ルール、証拠インデックス（ハッシュのみ）。Cards… |
-| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) |  | Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each oth… |
+| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Macで複数のClaude デスクトップを同時に使う | Mac上で複数のClaude Desktopアカウントを同時に実行：個別のサインイン、カスタムアイコン、1つの共有Claude Code環境、そして互いにメッセージを送信し合… |
 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 自然な言葉で質問し文ごとに根拠のある回答を得る | Windows向けAI OSINT調査ツール：平易な言葉で質問すると、すべての文に出典が付いた、公開ソースから構築された回答が得られます。 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | AIコーディング用の軽量ワークフロープラグイン | DeepSeek Harness、Claude Code、GitHub Copilot などを活用したハンズフリー AI コーディング向け軽量ワークフロープラグイン。 |
 | [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | コマンド1つでツール選定・実行・案件ファイル作成 | OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 |
-| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) |  | 让 Antigravity 少走回合、少等审查的本地规则插件（非官方） |
+| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) | Antigravityのやり取りと審査待ちを減らす | Antigravityのターン数とレビュー待ちを減らすローカルルールプラグイン（非公式） |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 用の開発者向けスキルライブラリ | Grand Tour スキル：/grand-tour 向けにオーケストレーションされた開発者ライブラリ |
 | [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 就職面接を支援する教育アプリ | Interview Copilot EdTech App：学習と理想の仕事の架け橋 |
 | [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) | チームカレンダーとイベント管理プラットフォーム | Events Tracker：チームカレンダーおよびイベント管理プラットフォーム |
 | [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | DiscordとTelegram向け暗号資産スキャナー | Discord および Telegram rich 向けのコミュニティ主導型暗号資産アキュムレーションスキャナー |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java ModのRust移植が大変？jarから自動変換 | SmeltをJava modのjarに向けると、Horizon向けのRust移植を開始します：crate、trait、そして実行可能なビルド。未完成の部分はマークされているため、正確にw… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | MacとLinuxのストレージ問題をCLIで解決 | mac &amp; linux マシンのストレージ問題を解決する CLI。fix-storage を実行するだけです。 |
-| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) |  | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) |  | Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. |
+| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 計画やコードレビューで注釈を付け課題を解決 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
+| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | Antigravityでコンテキストとモデル使用量を確認 | コンテキスト使用量、モデルクォータ、トークンの内訳、生成指標 — Antigravity composerから直接確認できます。 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 世界を形作り、作品を共有して共に建築 | CMP30HX Mod: 世界を形作り、技術を共有し、共に築く |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLIで各種ランタイムの確認・導入・更新 | Runtime Forge CLI: DirectX、VC++、.NET、Java、Python、Go、Rust の検査、インストール、アップデート、削除、 |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | Web画面でWindowsパッケージを楽に管理 | EasyWinget GUI: シームレスな Windows パッケージ管理のためのモダンな Web インターフェース |
@@ -153,5 +153,5 @@
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | ワークブックのワークフローを視覚的に整理 | Jet Reports スキル: NAV および Business Central 向けのビジュアルワークブックワークフロー |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helmを使ってCMaNGOSレルムを自在に指揮 | CMaNGOS Helm: Helm を操り、あなたのレルムを統べる |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) |  | Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codexを使って一言からコマ撮りアニメを作る | 1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る… |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | デスクトップでフィードをリアルタイム同期 | Whalefeed: リアルタイム同期と構造化データ解析を備えたデスクトップフィードアグリゲーター |

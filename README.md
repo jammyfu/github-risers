@@ -67,7 +67,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Afraid to rewrite in Rust? Migrate piece by piece safely | 2026-11-16<br><sub>3.2 d</sub> | 4,671 | 1,476.0 |
-| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. | 2026-11-18<br><sub>1.0 d</sub> | 457 | 457.0 |
+| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>Turn GTA 6 stream footage into vertical clips | 2026-11-18<br><sub>1.0 d</sub> | 457 | 457.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Local LLM too slow? Let an agent boost serving speed | 2026-11-16<br><sub>2.9 d</sub> | 1,214 | 419.5 |
 | 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>Give your AI agent 32 free marketing skills | 2026-11-16<br><sub>3.0 d</sub> | 699 | 229.9 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>Put thousands of live DOM nodes on an infinite canvas | 2026-11-12<br><sub>6.7 d</sub> | 534 | 79.7 |
@@ -274,8 +274,8 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Porting Java mods to Rust? Turn jar files into runnable code | 2026-11-16<br><sub>3.0 d</sub> | 144 | 47.7 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Fix storage problems on Mac and Linux with one CLI | 2026-11-14<br><sub>5.0 d</sub> | 127 | 25.5 |
-| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… | 2026-11-15<br><sub>4.3 d</sub> | 109 | 25.2 |
-| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. | 2026-11-14<br><sub>5.2 d</sub> | 101 | 19.6 |
+| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Annotate and resolve blockers across plan and code reviews | 2026-11-15<br><sub>4.3 d</sub> | 109 | 25.2 |
+| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>See context usage and model quotas right in Antigravity | 2026-11-14<br><sub>5.2 d</sub> | 101 | 19.6 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>Shape the world, share your craft, and build together | 2026-11-16<br><sub>3.2 d</sub> | 153 | 48.2 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Inspect, install, and update your runtimes in CLI | 2026-11-15<br><sub>3.8 d</sub> | 153 | 40.1 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Manage Windows packages easily in a web interface | 2026-11-15<br><sub>3.9 d</sub> | 153 | 39.8 |
@@ -920,7 +920,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… | 2026-11-16<br><sub>3.5 d</sub> | 121 | 35.0 |
+| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Turn a single line into a stop-motion short with Codex | 2026-11-16<br><sub>3.5 d</sub> | 121 | 35.0 |
 
 <details>
 <summary>Star history charts for this board</summary>

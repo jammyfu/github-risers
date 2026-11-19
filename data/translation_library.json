@@ -674,6 +674,23 @@
         }
       }
     },
+    "Bodila51/gtavi-claudecode": {
+      "063c6457ad4a": {
+        "src": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+        "zh-Hans": "将 GTA 6 直播转化为付费竖屏短视频的 Claude Code 插件：实时活动、热门视频、精彩时刻，以及带有吸引点、字幕和署名的 9:16 剪辑。",
+        "seen": "2026-11-20",
+        "zh-Hant": "將 GTA 6 直播轉換為付費直式短片的外掛 Claude Code 外掛：即時活動、熱門影片、精彩時刻，以及帶有吸睛點、字幕與名單的 9:16 剪輯。",
+        "ja": "GTA 6の配信を有料の縦型動画に変換するClaude Codeプラグイン：ライブキャンペーン、トレンド動画、ベストモーメント、フック・字幕・クレジット付きの9:16カット。",
+        "ko": "GTA 6 스트리밍을 유료 세로형 클립으로 변환하는 Claude Code 플러그인: 라이브 캠페인, 트렌딩 비디오, 베스트 모먼트, 훅·자막·크레딧이 포함된 9:16 컷.",
+        "hook": {
+          "en": "Turn GTA 6 stream footage into vertical clips",
+          "zh-Hans": "把 GTA 6 直播切成竖屏短视频",
+          "zh-Hant": "把 GTA 6 直播剪成直向短影片",
+          "ja": "GTA 6の配信から縦型動画を切り抜く",
+          "ko": "GTA 6 방송을 세로형 클립으로 편집"
+        }
+      }
+    },
     "Boldpleinverter/ai--manus": {
       "9f0c6d8c2759": {
         "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
@@ -1913,6 +1930,21 @@
           "zh-Hant": "2026 出版方案完整安裝程式",
           "ja": "2026 年版の出版用インストーラー",
           "ko": "2026 출판용 전체 설치 파일"
+        }
+      }
+    },
+    "Lumidarin/agy-capsule": {
+      "5068ada142b0": {
+        "src": "Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer.",
+        "zh-Hans": "上下文使用量、模型配额、Token 消耗细分和生成指标 —— 尽在您的 Antigravity composer 中。",
+        "seen": "2026-11-20",
+        "zh-Hant": "上下文使用量、模型配額、Token 消耗細分與生成指標 —— 盡在您的 Antigravity composer 中。",
+        "ja": "コンテキスト使用量、モデルクォータ、トークンの内訳、生成指標 — Antigravity composerから直接確認できます。",
+        "ko": "컨텍스트 사용량, 모델 할당량, 토큰 세부 분석 및 생성 지표 — Antigravity composer에서 바로 확인하세요.",
+        "hook": {
+          "en": "See context usage and model quotas right in Antigravity",
+          "ja": "Antigravityでコンテキストとモデル使用量を確認",
+          "ko": "Antigravity에서 컨텍스트와 모델 사용량 바로 확인"
         }
       }
     },
@@ -5253,6 +5285,19 @@
         }
       }
     },
+    "ineedfoundmyway/planrelay": {
+      "2df438430c74": {
+        "src": "Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a…",
+        "hook": {
+          "en": "Annotate and resolve blockers across plan and code reviews",
+          "zh-Hans": "在方案与代码评审中快速批注并解决卡点",
+          "zh-Hant": "在方案與程式碼審查中標註並解決卡點",
+          "ja": "計画やコードレビューで注釈を付け課題を解決",
+          "ko": "계획과 코드 검토에서 메모를 달고 장애물 해결"
+        },
+        "seen": "2026-11-20"
+      }
+    },
     "jacke-pp/ai-wallet-binance": {
       "f3d5b873580c": {
         "src": "让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。免费开源 MIT · 作者：Jacke_pp · 联系：X @Jacke_pp（私信）",
@@ -5275,6 +5320,23 @@
           "zh-Hant": "讓任何 AI 用你的幣安錢包交易",
           "ja": "あらゆる AI があなたの Binance AI ウォレットで取引",
           "ko": "어떤 AI든 내 바이낸스 AI 지갑으로 거래"
+        }
+      }
+    },
+    "jackson-cmd/claude-multi-desktop": {
+      "06a005cc509f": {
+        "src": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each oth…",
+        "zh-Hans": "在 Mac 上同时运行多个 Claude Desktop 账号：独立登录、自定义图标、共享的 Claude Code 配置，以及彼此互相发消…",
+        "seen": "2026-11-20",
+        "zh-Hant": "在 Mac 上同時執行多個 Claude Desktop 帳號：獨立登入、自訂圖示、一份共用的 Claude Code 設定，以及彼此互相傳送訊…",
+        "ja": "Mac上で複数のClaude Desktopアカウントを同時に実行：個別のサインイン、カスタムアイコン、1つの共有Claude Code環境、そして互いにメッセージを送信し合…",
+        "ko": "Mac에서 여러 Claude Desktop 계정을 동시에 실행: 개별 로그인, 커스텀 아이콘, 하나의 공유 Claude Code 설정, 그리고 서로 메시지를 주고받…",
+        "hook": {
+          "en": "Run multiple Claude Desktop accounts at once on Mac",
+          "zh-Hans": "在 Mac 同时登录多个 Claude 桌面账号",
+          "zh-Hant": "在 Mac 同時登入多個 Claude 桌面帳號",
+          "ja": "Macで複数のClaude デスクトップを同時に使う",
+          "ko": "Mac에서 Claude 데스크톱 여러 개를 동시에 사용"
         }
       }
     },
@@ -5595,6 +5657,22 @@
           "zh-Hant": "桌面軟體自動部署設定",
           "ja": "デスクトップソフトの自動デプロイ設定",
           "ko": "데스크톱 소프트웨어 자동 배포 구성"
+        }
+      }
+    },
+    "lemomo-ai/lemo-animi": {
+      "88222df83a44": {
+        "src": "Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画…",
+        "zh-Hans": "由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画…",
+        "seen": "2026-11-20",
+        "zh-Hant": "由一行文字生成的定格動畫短片，使用 Codex 製作：八種材質風格，由圖像模型繪製人偶並透過程式碼逐格移動。一句話，用 Codex 做一支定格動畫…",
+        "ja": "1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る…",
+        "ko": "한 줄로 만드는 스톱모션 단편, Codex로 제작: 8가지 머티리얼 스타일, 이미지 모델이 그리고 코드에서 프레임 단위로 움직이는 퍼펫. 한 문장으로 Codex로 스톱모션 애니메이션 만들기…",
+        "en": "Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. One sentence, make a stop-motion animation with Codex…",
+        "hook": {
+          "en": "Turn a single line into a stop-motion short with Codex",
+          "ja": "Codexを使って一言からコマ撮りアニメを作る",
+          "ko": "Codex로 한 문장에서 스톱모션 애니메이션 만들기"
         }
       }
     },
@@ -6042,6 +6120,24 @@
           "zh-Hant": "Cubase 13 預啟用安裝版",
           "ja": "Cubase 13 事前アクティベート済みインストーラー",
           "ko": "Cubase 13 사전 활성화 설치판"
+        }
+      }
+    },
+    "oil-oil/agy-fast-io": {
+      "63816c6e4614": {
+        "src": "让 Antigravity 少走回合、少等审查的本地规则插件（非官方）",
+        "zh-Hans": "让 Antigravity 少走回合、少等审查的本地规则插件（非官方）",
+        "seen": "2026-11-20",
+        "zh-Hant": "讓 Antigravity 少走回合、少等審查的本機規則外掛（非官方）",
+        "ja": "Antigravityのターン数とレビュー待ちを減らすローカルルールプラグイン（非公式）",
+        "ko": "Antigravity의 턴과 검토 대기 시간을 줄여주는 로컬 규칙 플러그인(비공식)",
+        "en": "Unofficial local rule plugin to help Antigravity take fewer turns and wait less for reviews",
+        "hook": {
+          "en": "Cut extra turns and review wait times in Antigravity",
+          "zh-Hans": "减少 Antigravity 的回合与审查等待",
+          "zh-Hant": "減少 Antigravity 的回合與審查等待",
+          "ja": "Antigravityのやり取りと審査待ちを減らす",
+          "ko": "Antigravity 반복 턴과 검토 대기 줄이기"
         }
       }
     },

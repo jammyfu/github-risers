@@ -67,7 +67,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 2026-11-16<br><sub>3.2일</sub> | 4,671 | 1,476.0 |
-| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits. | 2026-11-18<br><sub>1.0일</sub> | 457 | 457.0 |
+| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode)<br>GTA 6 방송을 세로형 클립으로 편집 | 2026-11-18<br><sub>1.0일</sub> | 457 | 457.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 2026-11-16<br><sub>2.9일</sub> | 1,214 | 419.5 |
 | 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | 2026-11-16<br><sub>3.0일</sub> | 699 | 229.9 |
 | 5 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)<br>수천 개의 DOM 노드를 무한 캔버스에서 편집 | 2026-11-12<br><sub>6.7일</sub> | 534 | 79.7 |
@@ -274,8 +274,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | 2026-11-16<br><sub>3.0일</sub> | 144 | 47.7 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Mac과 Linux의 저장 공간 문제를 CLI로 해결 | 2026-11-14<br><sub>5.0일</sub> | 127 | 25.5 |
-| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… | 2026-11-15<br><sub>4.3일</sub> | 109 | 25.2 |
-| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer. | 2026-11-14<br><sub>5.2일</sub> | 101 | 19.6 |
+| 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>계획과 코드 검토에서 메모를 달고 장애물 해결 | 2026-11-15<br><sub>4.3일</sub> | 109 | 25.2 |
+| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>Antigravity에서 컨텍스트와 모델 사용량 바로 확인 | 2026-11-14<br><sub>5.2일</sub> | 101 | 19.6 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>세상을 빚고 작품을 공유하며 함께 건축 | 2026-11-16<br><sub>3.2일</sub> | 153 | 48.2 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLI로 다양한 런타임을 점검, 설치, 업데이트 | 2026-11-15<br><sub>3.8일</sub> | 153 | 40.1 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>웹 인터페이스로 Windows 패키지를 편리하게 관리 | 2026-11-15<br><sub>3.9일</sub> | 153 | 39.8 |
@@ -920,7 +920,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画… | 2026-11-16<br><sub>3.5일</sub> | 121 | 35.0 |
+| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>Codex로 한 문장에서 스톱모션 애니메이션 만들기 | 2026-11-16<br><sub>3.5일</sub> | 121 | 35.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
