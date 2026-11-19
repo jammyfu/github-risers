@@ -275,7 +275,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模组难移植？转出Rust代码 | 2026-11-16<br><sub>3.0 天</sub> | 144 | 47.7 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>存储空间出问题？一条命令直接修复 | 2026-11-14<br><sub>5.0 天</sub> | 127 | 25.5 |
 | 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>在方案与代码评审中快速批注并解决卡点 | 2026-11-15<br><sub>4.3 天</sub> | 109 | 25.2 |
-| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>上下文使用量、模型配额、Token 消耗细分和生成指标 —— 尽在您的 Antigravity composer 中。 | 2026-11-14<br><sub>5.2 天</sub> | 101 | 19.6 |
+| 4 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule)<br>模型额度用了多少，在编辑器里直接看 | 2026-11-14<br><sub>5.2 天</sub> | 101 | 19.6 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界并分享手艺，与大家一起建造 | 2026-11-16<br><sub>3.2 天</sub> | 153 | 48.2 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 检查、安装并更新常用运行库 | 2026-11-15<br><sub>3.8 天</sub> | 153 | 40.1 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用网页界面轻松管理 Windows 软件包 | 2026-11-15<br><sub>3.9 天</sub> | 153 | 39.8 |
@@ -920,7 +920,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… | 2026-11-16<br><sub>3.5 天</sub> | 121 | 35.0 |
+| 1 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi)<br>想做定格动画？用 Codex 一句话做出来 | 2026-11-16<br><sub>3.5 天</sub> | 121 | 35.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

@@ -1944,7 +1944,9 @@
         "hook": {
           "en": "See context usage and model quotas right in Antigravity",
           "ja": "Antigravityでコンテキストとモデル使用量を確認",
-          "ko": "Antigravity에서 컨텍스트와 모델 사용량 바로 확인"
+          "ko": "Antigravity에서 컨텍스트와 모델 사용량 바로 확인",
+          "zh-Hans": "模型额度用了多少，在编辑器里直接看",
+          "zh-Hant": "模型額度用了多少，在編輯器裡直接看"
         }
       }
     },
@@ -5672,7 +5674,9 @@
         "hook": {
           "en": "Turn a single line into a stop-motion short with Codex",
           "ja": "Codexを使って一言からコマ撮りアニメを作る",
-          "ko": "Codex로 한 문장에서 스톱모션 애니메이션 만들기"
+          "ko": "Codex로 한 문장에서 스톱모션 애니메이션 만들기",
+          "zh-Hans": "想做定格动画？用 Codex 一句话做出来",
+          "zh-Hant": "想做定格動畫？用 Codex 一句話做出來"
         }
       }
     },
