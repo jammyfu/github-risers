@@ -69,13 +69,13 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Afraid to rewrite in Rust? Migrate piece by piece safely | 2026-11-16<br><sub>4.2 d</sub> | 6,233 | 1,501.5 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Local LLM too slow? Let an agent boost serving speed | 2026-11-16<br><sub>3.9 d</sub> | 1,304 | 336.0 |
 | 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>Give your AI agent 32 free marketing skills | 2026-11-16<br><sub>4.0 d</sub> | 734 | 182.3 |
-| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… | 2026-11-19<br><sub>1.4 d</sub> | 119 | 82.0 |
+| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Tokens running out? Cut LLM turns and token quota | 2026-11-19<br><sub>1.4 d</sub> | 119 | 82.0 |
 | 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>Want to make videos with code? Let agents build from refs | 2026-11-16<br><sub>4.1 d</sub> | 256 | 62.7 |
 | 6 | [diego3g/craft](https://github.com/diego3g/craft)<br>UI design takes too long? Let AI agents craft every screen | 2026-11-15<br><sub>4.8 d</sub> | 284 | 58.9 |
 | 7 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>Review and audit AI code with a 3-stage pipeline | 2026-11-14<br><sub>6.1 d</sub> | 309 | 50.7 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>Let AI break down hit short dramas from script to shot | 2026-11-14<br><sub>6.1 d</sub> | 284 | 46.2 |
 | 9 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>Run multiple Claude Desktop accounts at once on Mac | 2026-11-16<br><sub>4.5 d</sub> | 203 | 45.4 |
-| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>GDM Robotics Skills for agentic robotics workflows across simulation and real robots. | 2026-11-16<br><sub>3.9 d</sub> | 164 | 42.3 |
+| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>Sim to real robots? Power agentic robotics workflows | 2026-11-16<br><sub>3.9 d</sub> | 164 | 42.3 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -275,11 +275,11 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Porting Java mods to Rust? Turn jar files into runnable code | 2026-11-16<br><sub>4.0 d</sub> | 142 | 35.5 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Fix storage problems on Mac and Linux with one CLI | 2026-11-14<br><sub>6.0 d</sub> | 160 | 26.8 |
 | 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Annotate and resolve blockers across plan and code reviews | 2026-11-15<br><sub>5.3 d</sub> | 119 | 22.4 |
-| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>How to get CapCut 2026 | 2026-11-19<br><sub>1.0 d</sub> | 101 | 101.0 |
+| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>Guide on how to get CapCut 2026 | 2026-11-19<br><sub>1.0 d</sub> | 101 | 101.0 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>Shape the world, share your craft, and build together | 2026-11-16<br><sub>4.2 d</sub> | 153 | 36.8 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>Inspect, install, and update your runtimes in CLI | 2026-11-15<br><sub>4.8 d</sub> | 153 | 31.9 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Manage Windows packages easily in a web interface | 2026-11-15<br><sub>4.8 d</sub> | 153 | 31.7 |
-| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… | 2026-11-14<br><sub>6.3 d</sub> | 167 | 26.3 |
+| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>Local timing and self-improvement tool for coding agents | 2026-11-14<br><sub>6.3 d</sub> | 167 | 26.3 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -591,11 +591,11 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>Get a Claude-inspired theme for T3 Code in one file | 2026-11-14<br><sub>5.8 d</sub> | 138 | 24.0 |
-| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. | 2026-11-13<br><sub>6.9 d</sub> | 138 | 20.0 |
-| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. | 2026-11-14<br><sub>6.3 d</sub> | 104 | 16.5 |
+| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>Turn HTML into print-ready PDFs without running a browser | 2026-11-13<br><sub>6.9 d</sub> | 138 | 20.0 |
+| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>Keep your notes to yourself with end-to-end encryption | 2026-11-14<br><sub>6.3 d</sub> | 104 | 16.5 |
 | 4 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Automation script for repeatable bot task runs | 2026-11-15<br><sub>4.8 d</sub> | 153 | 31.9 |
 | 5 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Master momentum and movement with Fabric bunny hopping | 2026-11-15<br><sub>4.8 d</sub> | 153 | 31.6 |
-| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). | 2026-11-15<br><sub>4.9 d</sub> | 109 | 22.4 |
+| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>Browser tool for inspecting GGUF tokens and samplers | 2026-11-15<br><sub>4.9 d</sub> | 109 | 22.4 |
 
 <details>
 <summary>Star history charts for this board</summary>

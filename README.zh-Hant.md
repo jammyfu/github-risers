@@ -75,7 +75,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 7 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>用三階段審查流程把關 AI 產出的程式碼 | 2026-11-14<br><sub>6.1 天</sub> | 309 | 50.7 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>跟著 AI 拆解熱門短劇的劇本與分鏡 | 2026-11-14<br><sub>6.1 天</sub> | 284 | 46.2 |
 | 9 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>在 Mac 同時登入多個 Claude 桌面帳號 | 2026-11-16<br><sub>4.5 天</sub> | 203 | 45.4 |
-| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>GDM Robotics Skills for agentic robotics workflows across simulation and real robots. | 2026-11-16<br><sub>3.9 天</sub> | 164 | 42.3 |
+| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>打不通仿真與真機？運行代理式工作流程 | 2026-11-16<br><sub>3.9 天</sub> | 164 | 42.3 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -275,11 +275,11 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java模組難移植？轉出Rust專案 | 2026-11-16<br><sub>4.0 天</sub> | 142 | 35.5 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>儲存空間出問題？一條指令直接修復 | 2026-11-14<br><sub>6.0 天</sub> | 160 | 26.8 |
 | 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>在方案與程式碼審查中標註並解決卡點 | 2026-11-15<br><sub>5.3 天</sub> | 119 | 22.4 |
-| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>How to get CapCut 2026 | 2026-11-19<br><sub>1.0 天</sub> | 101 | 101.0 |
+| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>CapCut 2026 獲取教學 | 2026-11-19<br><sub>1.0 天</sub> | 101 | 101.0 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>塑造世界並分享手藝，與大家一起建造 | 2026-11-16<br><sub>4.2 天</sub> | 153 | 36.8 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>用 CLI 檢查、安裝並更新常用執行階段 | 2026-11-15<br><sub>4.8 天</sub> | 153 | 31.9 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>用網頁介面輕鬆管理 Windows 套件 | 2026-11-15<br><sub>4.8 天</sub> | 153 | 31.7 |
-| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… | 2026-11-14<br><sub>6.3 天</sub> | 167 | 26.3 |
+| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>編程代理的時間記錄與覆盤工具 | 2026-11-14<br><sub>6.3 天</sub> | 167 | 26.3 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -591,11 +591,11 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>不用 fork，單檔案就能換主題 | 2026-11-14<br><sub>5.8 天</sub> | 138 | 24.0 |
-| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. | 2026-11-13<br><sub>6.9 天</sub> | 138 | 20.0 |
-| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. | 2026-11-14<br><sub>6.3 天</sub> | 104 | 16.5 |
+| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>不用開瀏覽器，直接將網頁排版轉成PDF | 2026-11-13<br><sub>6.9 天</sub> | 138 | 20.0 |
+| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>用端到端加密記筆記，只有自己能看 | 2026-11-14<br><sub>6.3 天</sub> | 104 | 16.5 |
 | 4 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>用於重複執行機器人任務的自動化腳本 | 2026-11-15<br><sub>4.8 天</sub> | 153 | 31.9 |
 | 5 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>掌握連跳技巧，靠慣性高速移動 | 2026-11-15<br><sub>4.8 天</sub> | 153 | 31.6 |
-| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). | 2026-11-15<br><sub>4.9 天</sub> | 109 | 22.4 |
+| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>瀏覽器內GGUF量化與取樣檢查工具 | 2026-11-15<br><sub>4.9 天</sub> | 109 | 22.4 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

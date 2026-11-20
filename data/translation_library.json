@@ -1710,6 +1710,17 @@
         }
       }
     },
+    "INK-Q/agy-fast": {
+      "40458b9cc54e": {
+        "src": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe…",
+        "hook": {
+          "en": "Tokens running out? Cut LLM turns and token quota",
+          "ja": "トークンが足りない？LLMの往復と消費枠を削減",
+          "ko": "토큰이 부족한가요? LLM 턴과 할당량을 절약"
+        },
+        "seen": "2026-11-21"
+      }
+    },
     "Interactive-Active-AI/NextTransformer": {
       "960c8d09a764": {
         "src": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous…",
@@ -2694,6 +2705,23 @@
         }
       }
     },
+    "RescuerDevelop/CapCut-AI-PC-Latest": {
+      "5d12cc342b0d": {
+        "src": "How to get CapCut 2026",
+        "zh-Hans": "如何获取 CapCut 2026",
+        "seen": "2026-11-21",
+        "zh-Hant": "如何取得 CapCut 2026",
+        "ja": "CapCut 2026 の入手方法",
+        "ko": "CapCut 2026 얻는 방법",
+        "hook": {
+          "en": "Guide on how to get CapCut 2026",
+          "zh-Hans": "CapCut 2026 获取教程",
+          "zh-Hant": "CapCut 2026 獲取教學",
+          "ja": "CapCut 2026の入手ガイド",
+          "ko": "CapCut 2026 획득 가이드"
+        }
+      }
+    },
     "RolandoV3/metatrader-5-bot": {
       "7457e2780510": {
         "src": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
@@ -3317,6 +3345,21 @@
           "zh-Hant": "Scrcpy 1.34 自動部署",
           "ja": "Scrcpy 1.34 自動導入パイプライン",
           "ko": "Scrcpy 1.34 자동 배포 파이프라인"
+        }
+      }
+    },
+    "Tthanh2k6/turbo-browser-mcp": {
+      "ec4385b69c4d": {
+        "src": "Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default",
+        "zh-Hans": "专为削减智能体轮次与 token 而构建的 Playwright MCP 服务器：单次调用表单填写、增量快照、批处理步骤以及默认开启的提交守卫",
+        "seen": "2026-11-21",
+        "zh-Hant": "專為削減代理輪次與 token 而構建的 Playwright MCP 伺服器：單次呼叫表單填寫、增量快照、批次處理步驟以及預設開啟的提交守衛",
+        "ja": "エージェントのターン数と token を削減するために構築された Playwright MCP サーバー：ワンコールのフォーム入力、差分スナップショット、バッチ処理ステップ、デフォルトで有効な送信ガード",
+        "ko": "에이전트 턴과 token을 줄이기 위해 구축된 Playwright MCP 서버: 한 번의 호출로 폼 작성, 델타 스냅샷, 일괄 처리 단계, 기본 활성화된 제출 보호 장치",
+        "hook": {
+          "en": "Agent eating tokens? Cut browser turns and tokens",
+          "ja": "ブラウザ操作が重い？エージェントのターンとトークンを削減",
+          "ko": "브라우저 작업이 느린가요? 에이전트 턴과 토큰을 절약"
         }
       }
     },
@@ -4542,6 +4585,21 @@
         }
       }
     },
+    "davimatosms/Arara-voice": {
+      "c0e625f0525c": {
+        "src": "Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado…",
+        "zh-Hans": "适用于巴西葡萄牙语的免费、开源且 100% 本地的语音听写（Windows 和 macOS）。电脑上的 Whisper：按下快捷键，说话，文本即被粘贴…",
+        "seen": "2026-11-21",
+        "zh-Hant": "適用於巴西葡萄牙語的免費、開源且 100% 本機的語音聽寫（Windows 和 macOS）。電腦上的 Whisper：按下快速鍵，說話，文字即被貼上…",
+        "ja": "ブラジルポルトガル語向けの無料、オープンソース、100% ローカルな音声ディクテーション（Windows および macOS）。コンピュータ上の Whisper：ショートカットを押し、話すとテキストが貼り付けられ…",
+        "ko": "브라질 포르투갈어를 위한 무료, 오픈 소스, 100% 로컬 음성 받아쓰기(Windows 및 macOS). 내 컴퓨터의 Whisper: 단축키를 누르고 말하면 텍스트가 붙여넣어짐…",
+        "hook": {
+          "en": "Tired of typing? Press a key, speak, and paste text locally",
+          "ja": "タイピングが面倒？ショートカットを押して話すだけで入力",
+          "ko": "타이핑이 귀찮을 때? 단축키 누르고 말하면 바로 입력"
+        }
+      }
+    },
     "declarative-dragging/dragology": {
       "e238d64204f8": {
         "src": "Declarative dragging for SVG on the web",
@@ -5007,6 +5065,23 @@
         }
       }
     },
+    "google-deepmind/robotics-antigravity-plugin": {
+      "a844421f573b": {
+        "src": "GDM Robotics Skills for agentic robotics workflows across simulation and real robots.",
+        "zh-Hans": "用于跨仿真与真实机器人的智能体式机器人工作流的 GDM Robotics 技能。",
+        "seen": "2026-11-21",
+        "zh-Hant": "用於跨模擬與真實機器人的代理式機器人工作流程的 GDM Robotics 技能。",
+        "ja": "シミュレーションと実ロボットをまたぐエージェント型ロボティクスワークフロー向けの GDM Robotics スキル。",
+        "ko": "시뮬레이션과 실제 로봇 전반의 에이전틱 로보틱스 워크플로를 위한 GDM Robotics 스킬.",
+        "hook": {
+          "en": "Sim to real robots? Power agentic robotics workflows",
+          "zh-Hans": "打不通仿真与真机？运行智能体式工作流",
+          "zh-Hant": "打不通仿真與真機？運行代理式工作流程",
+          "ja": "実機連携に悩む？エージェント型ロボットワークフロー",
+          "ko": "실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로"
+        }
+      }
+    },
     "govijr/fix-storage": {
       "8f123f646c82": {
         "src": "A CLI to fix your mac's storage problems, just run fix-storage.",
@@ -5102,6 +5177,21 @@
           "en": "Startall Back 2026 desktop configuration installer",
           "ja": "Startall Back 2026 デスクトップ設定ツール",
           "ko": "Startall Back 2026 데스크톱 설정 프로그램"
+        }
+      }
+    },
+    "hackclub/orchard": {
+      "b65e5575ddd6": {
+        "src": "Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command.",
+        "zh-Hans": "开源、自托管的部署平台。只需一条命令即可从 Git 部署到您自己的服务器。",
+        "seen": "2026-11-21",
+        "zh-Hant": "開源、自行架設的部署平台。只需一條指令即可從 Git 部署到您自己的伺服器。",
+        "ja": "オープンソースでセルフホスト型のデプロイプラットフォーム。1つのコマンドで Git から独自のサーバーにデプロイ。",
+        "ko": "오픈 소스, 셀프 호스팅 배포 플랫폼. 한 번의 명령으로 Git에서 자체 서버로 배포하세요.",
+        "hook": {
+          "en": "Deploying to servers is hard? Ship from Git in one command",
+          "ja": "デプロイが面倒？Gitから自分のサーバーへコマンド1つで",
+          "ko": "배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포"
         }
       }
     },
@@ -5209,6 +5299,19 @@
           "zh-Hans": "在 Blender 里用对话和智能体做场景",
           "zh-Hant": "在 Blender 裡用對話和代理做場景"
         }
+      }
+    },
+    "homielab/noteflare": {
+      "31f100231ad5": {
+        "src": "Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1.",
+        "hook": {
+          "en": "Keep your notes to yourself with end-to-end encryption",
+          "zh-Hans": "用端到端加密记笔记，只有自己能看",
+          "zh-Hant": "用端到端加密記筆記，只有自己能看",
+          "ja": "エンドツーエンド暗号化でノートを自分だけに保管",
+          "ko": "종단간 암호화로 나만 볼 수 있게 메모 저장"
+        },
+        "seen": "2026-11-21"
       }
     },
     "howznguyen/shorts-kit": {
@@ -5767,6 +5870,21 @@
         }
       }
     },
+    "lynote-ai/ai-tutor": {
+      "68e5872ecd9e": {
+        "src": "Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path a…",
+        "zh-Hans": "用于自学、电子学习和备考的自托管 AI 导师与学习助手。将学习笔记、PDF 和讲义转化为章节学习路径并…",
+        "seen": "2026-11-21",
+        "zh-Hant": "用於自學、線上學習和備考的自行架設 AI 導師與學習助理。將研讀筆記、PDF 和課堂講義轉換為章節學習路徑並…",
+        "ja": "自習、eラーニング、試験対策向けのセルフホスト型 AI チューターおよび学習アシスタント。学習ノート、PDF、講義ノートを章ごとの学習パスへと変換し…",
+        "ko": "독학, 이러닝, 시험 준비를 위한 셀프 호스팅 AI 튜터 및 학습 도우미. 공부 노트, PDF, 강의 노트를 단원별 학습 경로로 변환하고…",
+        "hook": {
+          "en": "Messy notes? Turn PDFs and study notes into learning paths",
+          "ja": "教材が散らかる？ノートやPDFを章ごとの学習コースに",
+          "ko": "공부 자료가 막막할 때? 노트를 단원별 학습 경로로"
+        }
+      }
+    },
     "manjushree-iyer/soundpad-audio-suite": {
       "69e59684776c": {
         "src": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
@@ -5782,6 +5900,19 @@
           "zh-Hans": "为专业 DAW 工作流提供高级音频处理",
           "zh-Hant": "為專業 DAW 工作流程提供進階音訊處理"
         }
+      }
+    },
+    "manuelgscom/inside-llm": {
+      "6f0857df0938": {
+        "src": "See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan).",
+        "hook": {
+          "en": "Browser tool for inspecting GGUF tokens and samplers",
+          "zh-Hans": "浏览器内GGUF量化与采样检查工具",
+          "zh-Hant": "瀏覽器內GGUF量化與取樣檢查工具",
+          "ja": "ブラウザでGGUFの量子化とサンプラーを確認するツール",
+          "ko": "브라우저 기반 GGUF 양자화 및 샘플러 검사 도구"
+        },
+        "seen": "2026-11-21"
       }
     },
     "marbleorbweb94/ninjatrader-bot": {
@@ -6103,6 +6234,19 @@
         }
       }
     },
+    "nforst/fagus": {
+      "3c4af9c2fbbb": {
+        "src": "HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.",
+        "hook": {
+          "en": "Turn HTML into print-ready PDFs without running a browser",
+          "zh-Hans": "不用开浏览器，直接把网页排版转成PDF",
+          "zh-Hant": "不用開瀏覽器，直接將網頁排版轉成PDF",
+          "ja": "ブラウザなしで印刷品質のPDFを作成",
+          "ko": "브라우저 없이 고품질 인쇄용 PDF 생성"
+        },
+        "seen": "2026-11-21"
+      }
+    },
     "nodedevelopersack/Cubase": {
       "e4e70a0685b8": {
         "src": "Professional Cubase 13 complete standalone installation build, pre-activated for seamless desktop audio production.",
@@ -6213,6 +6357,19 @@
           "zh-Hans": "用 shadcn 为 React 接入开源灵动岛",
           "zh-Hant": "用 shadcn 為 React 接入開源動態島"
         }
+      }
+    },
+    "oriliz/agent-crop": {
+      "a121248efaab": {
+        "src": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro…",
+        "hook": {
+          "en": "Local timing and self-improvement tool for coding agents",
+          "zh-Hans": "编程智能体的时间记录与复盘工具",
+          "zh-Hant": "編程代理的時間記錄與覆盤工具",
+          "ja": "コーディングエージェント向け時間記録と改善ツール",
+          "ko": "코딩 에이전트 시간 기록 및 자체 개선 도구"
+        },
+        "seen": "2026-11-21"
       }
     },
     "orkbot-run/ork": {

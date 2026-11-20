@@ -69,13 +69,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust移行が不安？動作を確認しつつ段階移行 | 2026-11-16<br><sub>4.2 日</sub> | 6,233 | 1,501.5 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>ローカルLLMが遅い？エージェントスキルで高速化 | 2026-11-16<br><sub>3.9 日</sub> | 1,304 | 336.0 |
 | 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AIエージェントに32の無料マーケティングスキルを | 2026-11-16<br><sub>4.0 日</sub> | 734 | 182.3 |
-| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… | 2026-11-19<br><sub>1.4 日</sub> | 119 | 82.0 |
+| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>トークンが足りない？LLMの往復と消費枠を削減 | 2026-11-19<br><sub>1.4 日</sub> | 119 | 82.0 |
 | 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>コードで動画を作りたい？素材からエージェントが生成 | 2026-11-16<br><sub>4.1 日</sub> | 256 | 62.7 |
 | 6 | [diego3g/craft](https://github.com/diego3g/craft)<br>画面設計が面倒？エージェントスキルで全状態をデザイン | 2026-11-15<br><sub>4.8 日</sub> | 284 | 58.9 |
 | 7 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>3段階のレビュー手順でAIコードを監査 | 2026-11-14<br><sub>6.1 日</sub> | 309 | 50.7 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AIで人気短編ドラマの脚本や撮影手順を分析 | 2026-11-14<br><sub>6.1 日</sub> | 284 | 46.2 |
 | 9 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>Macで複数のClaude デスクトップを同時に使う | 2026-11-16<br><sub>4.5 日</sub> | 203 | 45.4 |
-| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>GDM Robotics Skills for agentic robotics workflows across simulation and real robots. | 2026-11-16<br><sub>3.9 日</sub> | 164 | 42.3 |
+| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>実機連携に悩む？エージェント型ロボットワークフロー | 2026-11-16<br><sub>3.9 日</sub> | 164 | 42.3 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -275,11 +275,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java ModのRust移植が大変？jarから自動変換 | 2026-11-16<br><sub>4.0 日</sub> | 142 | 35.5 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>MacとLinuxのストレージ問題をCLIで解決 | 2026-11-14<br><sub>6.0 日</sub> | 160 | 26.8 |
 | 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>計画やコードレビューで注釈を付け課題を解決 | 2026-11-15<br><sub>5.3 日</sub> | 119 | 22.4 |
-| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>How to get CapCut 2026 | 2026-11-19<br><sub>1.0 日</sub> | 101 | 101.0 |
+| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>CapCut 2026の入手ガイド | 2026-11-19<br><sub>1.0 日</sub> | 101 | 101.0 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>世界を形作り、作品を共有して共に建築 | 2026-11-16<br><sub>4.2 日</sub> | 153 | 36.8 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLIで各種ランタイムの確認・導入・更新 | 2026-11-15<br><sub>4.8 日</sub> | 153 | 31.9 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>Web画面でWindowsパッケージを楽に管理 | 2026-11-15<br><sub>4.8 日</sub> | 153 | 31.7 |
-| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… | 2026-11-14<br><sub>6.3 日</sub> | 167 | 26.3 |
+| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>コーディングエージェント向け時間記録と改善ツール | 2026-11-14<br><sub>6.3 日</sub> | 167 | 26.3 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -591,11 +591,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>5.8 日</sub> | 138 | 24.0 |
-| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. | 2026-11-13<br><sub>6.9 日</sub> | 138 | 20.0 |
-| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. | 2026-11-14<br><sub>6.3 日</sub> | 104 | 16.5 |
+| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>ブラウザなしで印刷品質のPDFを作成 | 2026-11-13<br><sub>6.9 日</sub> | 138 | 20.0 |
+| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>エンドツーエンド暗号化でノートを自分だけに保管 | 2026-11-14<br><sub>6.3 日</sub> | 104 | 16.5 |
 | 4 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>ボットタスクを繰り返し実行する自動化スクリプト | 2026-11-15<br><sub>4.8 日</sub> | 153 | 31.9 |
 | 5 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Fabricで慣性を活かした連続ジャンプ移動を習得 | 2026-11-15<br><sub>4.8 日</sub> | 153 | 31.6 |
-| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). | 2026-11-15<br><sub>4.9 日</sub> | 109 | 22.4 |
+| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>ブラウザでGGUFの量子化とサンプラーを確認するツール | 2026-11-15<br><sub>4.9 日</sub> | 109 | 22.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>

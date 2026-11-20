@@ -120,37 +120,37 @@
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust移行が不安？動作を確認しつつ段階移行 | アプリ全体を一度に1つずつRustで書き直し、各ステップでオリジナルの記録された動作と照合して確認します。TypeScで作成されたCLI、HTTPサーバー、ライブラリ… |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | ローカルLLMが遅い？エージェントスキルで高速化 | あらゆるハードウェアおよび量子化環境でローカルLLMサービング速度（デコード、投機的デコード、プレフィル、KV、起動、TTFT）を山登り法で向上させるエージェントスキル |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AIエージェントに32の無料マーケティングスキルを | AI エージェント向けの 32 の無料マーケティングスキル：リサーチ、ポジショニング、コピー、ページ、SEO、AI 検索、広告、メール、コンテンツ、さらに充実したローカルビジネスパック。MIT。 |
-| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) |  | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
+| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | トークンが足りない？LLMの往復と消費枠を削減 | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
 | [staryone/motlab](https://github.com/staryone/motlab) | コードで動画を作りたい？素材からエージェントが生成 | コードとしての動画：ヘッドレスChromeでWebCodecsを使用してレンダリングされるcanvasシーン、レビュービューア、そして参考資料から動画を構築するエージェントスキル。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 画面設計が面倒？エージェントスキルで全状態をデザイン | AIエージェント向けのデザインスキル：/craft-setup がデザインブリーフを作成し、/craft がデザインシステムからあらゆる状態の画面をデザインしてレビューします。Works wit… |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3段階のレビュー手順でAIコードを監査 | 本番環境レベルのAIコーディング指示、厳選されたスキル、4,500+時間以上をかけて構築された3段階のレビューパイプライン（Planning → Critical Review → Diff Audit）… |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AIで人気短編ドラマの脚本や撮影手順を分析 | AIでショートドラマを分解・学習：なぜヒットするのか、脚本はどう書くか、各カットをどう撮るか |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Macで複数のClaude デスクトップを同時に使う | Mac上で複数のClaude Desktopアカウントを同時に実行：個別のサインイン、カスタムアイコン、1つの共有Claude Code環境、そして互いにメッセージを送信し合… |
-| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) |  | GDM Robotics Skills for agentic robotics workflows across simulation and real robots. |
+| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 実機連携に悩む？エージェント型ロボットワークフロー | シミュレーションと実ロボットをまたぐエージェント型ロボティクスワークフロー向けの GDM Robotics スキル。 |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医療向けAIデータセットのライセンス検証記録 | 医療 AI を支えるデータセットの検証済みライセンスおよび出所記録：情報カード、JSON Schema、決定ルール、証拠インデックス（ハッシュのみ）。Cards… |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codexを使って一言からコマ撮りアニメを作る | 1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る… |
-| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) |  | Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path a… |
+| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 教材が散らかる？ノートやPDFを章ごとの学習コースに | 自習、eラーニング、試験対策向けのセルフホスト型 AI チューターおよび学習アシスタント。学習ノート、PDF、講義ノートを章ごとの学習パスへと変換し… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 用の開発者向けスキルライブラリ | Grand Tour スキル：/grand-tour 向けにオーケストレーションされた開発者ライブラリ |
-| [hackclub/orchard](https://github.com/hackclub/orchard) |  | Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command. |
+| [hackclub/orchard](https://github.com/hackclub/orchard) | デプロイが面倒？Gitから自分のサーバーへコマンド1つで | オープンソースでセルフホスト型のデプロイプラットフォーム。1つのコマンドで Git から独自のサーバーにデプロイ。 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | AIコーディング用の軽量ワークフロープラグイン | DeepSeek Harness、Claude Code、GitHub Copilot などを活用したハンズフリー AI コーディング向け軽量ワークフロープラグイン。 |
-| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) |  | Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default |
-| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) |  | Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado… |
+| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) | ブラウザ操作が重い？エージェントのターンとトークンを削減 | エージェントのターン数と token を削減するために構築された Playwright MCP サーバー：ワンコールのフォーム入力、差分スナップショット、バッチ処理ステップ、デフォルトで有効な送信ガード |
+| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) | タイピングが面倒？ショートカットを押して話すだけで入力 | ブラジルポルトガル語向けの無料、オープンソース、100% ローカルな音声ディクテーション（Windows および macOS）。コンピュータ上の Whisper：ショートカットを押し、話すとテキストが貼り付けられ… |
 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | Antigravityでコンテキストとモデル使用量を確認 | コンテキスト使用量、モデルクォータ、トークンの内訳、生成指標 — Antigravity composerから直接確認できます。 |
 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | エージェントやスキルが安全か確認して使う | エージェントとスキルのための承認印：署名および透明性ログ記録による公開の信頼性を備えた、グラフファーストのセマンティックガバナンスレジストリ。 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java ModのRust移植が大変？jarから自動変換 | SmeltをJava modのjarに向けると、Horizon向けのRust移植を開始します：crate、trait、そして実行可能なビルド。未完成の部分はマークされているため、正確にw… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | MacとLinuxのストレージ問題をCLIで解決 | mac &amp; linux マシンのストレージ問題を解決する CLI。fix-storage を実行するだけです。 |
 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 計画やコードレビューで注釈を付け課題を解決 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) |  | How to get CapCut 2026 |
+| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) | CapCut 2026の入手ガイド | CapCut 2026 の入手方法 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 世界を形作り、作品を共有して共に建築 | CMP30HX Mod: 世界を形作り、技術を共有し、共に築く |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLIで各種ランタイムの確認・導入・更新 | Runtime Forge CLI: DirectX、VC++、.NET、Java、Python、Go、Rust の検査、インストール、アップデート、削除、 |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | Web画面でWindowsパッケージを楽に管理 | EasyWinget GUI: シームレスな Windows パッケージ管理のためのモダンな Web インターフェース |
-| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) |  | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
+| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | コーディングエージェント向け時間記録と改善ツール | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | フォーク不要、1ファイルでClaude風テーマに | Claude にインスパイアされた T3 Code 向けテーマ。1 ファイル、fork 不要。 |
-| [nforst/fagus](https://github.com/nforst/fagus) |  | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
-| [homielab/noteflare](https://github.com/homielab/noteflare) |  | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
+| [nforst/fagus](https://github.com/nforst/fagus) | ブラウザなしで印刷品質のPDFを作成 | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
+| [homielab/noteflare](https://github.com/homielab/noteflare) | エンドツーエンド暗号化でノートを自分だけに保管 | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | ボットタスクを繰り返し実行する自動化スクリプト | Stratgies Indicator 自動化スクリプトの反復可能なボットタスク実行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabricで慣性を活かした連続ジャンプ移動を習得 | Bunny Hopping Mod: Fabric を活用した運動量と移動の習得 |
-| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) |  | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | ブラウザでGGUFの量子化とサンプラーを確認するツール | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | ワークブックのワークフローを視覚的に整理 | Jet Reports スキル: NAV および Business Central 向けのビジュアルワークブックワークフロー |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helmを使ってCMaNGOSレルムを自在に指揮 | CMaNGOS Helm: Helm を操り、あなたのレルムを統べる |

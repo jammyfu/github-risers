@@ -69,13 +69,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 2026-11-16<br><sub>4.2일</sub> | 6,233 | 1,501.5 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 2026-11-16<br><sub>3.9일</sub> | 1,304 | 336.0 |
 | 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | 2026-11-16<br><sub>4.0일</sub> | 734 | 182.3 |
-| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… | 2026-11-19<br><sub>1.4일</sub> | 119 | 82.0 |
+| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>토큰이 부족한가요? LLM 턴과 할당량을 절약 | 2026-11-19<br><sub>1.4일</sub> | 119 | 82.0 |
 | 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 2026-11-16<br><sub>4.1일</sub> | 256 | 62.7 |
 | 6 | [diego3g/craft](https://github.com/diego3g/craft)<br>화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | 2026-11-15<br><sub>4.8일</sub> | 284 | 58.9 |
 | 7 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>3단계 검토 파이프라인으로 AI 코드를 감사 | 2026-11-14<br><sub>6.1일</sub> | 309 | 50.7 |
 | 8 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon)<br>AI로 인기 숏폼 드라마 대본과 연출을 분석 | 2026-11-14<br><sub>6.1일</sub> | 284 | 46.2 |
 | 9 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>Mac에서 Claude 데스크톱 여러 개를 동시에 사용 | 2026-11-16<br><sub>4.5일</sub> | 203 | 45.4 |
-| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>GDM Robotics Skills for agentic robotics workflows across simulation and real robots. | 2026-11-16<br><sub>3.9일</sub> | 164 | 42.3 |
+| 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로 | 2026-11-16<br><sub>3.9일</sub> | 164 | 42.3 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -275,11 +275,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 1 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | 2026-11-16<br><sub>4.0일</sub> | 142 | 35.5 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Mac과 Linux의 저장 공간 문제를 CLI로 해결 | 2026-11-14<br><sub>6.0일</sub> | 160 | 26.8 |
 | 3 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>계획과 코드 검토에서 메모를 달고 장애물 해결 | 2026-11-15<br><sub>5.3일</sub> | 119 | 22.4 |
-| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>How to get CapCut 2026 | 2026-11-19<br><sub>1.0일</sub> | 101 | 101.0 |
+| 4 | [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest)<br>CapCut 2026 획득 가이드 | 2026-11-19<br><sub>1.0일</sub> | 101 | 101.0 |
 | 5 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod)<br>세상을 빚고 작품을 공유하며 함께 건축 | 2026-11-16<br><sub>4.2일</sub> | 153 | 36.8 |
 | 6 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge)<br>CLI로 다양한 런타임을 점검, 설치, 업데이트 | 2026-11-15<br><sub>4.8일</sub> | 153 | 31.9 |
 | 7 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui)<br>웹 인터페이스로 Windows 패키지를 편리하게 관리 | 2026-11-15<br><sub>4.8일</sub> | 153 | 31.7 |
-| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… | 2026-11-14<br><sub>6.3일</sub> | 167 | 26.3 |
+| 8 | [oriliz/agent-crop](https://github.com/oriliz/agent-crop)<br>코딩 에이전트 시간 기록 및 자체 개선 도구 | 2026-11-14<br><sub>6.3일</sub> | 167 | 26.3 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -591,11 +591,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>포크 없이 단일 파일로 Claude 스타일 테마 적용 | 2026-11-14<br><sub>5.8일</sub> | 138 | 24.0 |
-| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. | 2026-11-13<br><sub>6.9일</sub> | 138 | 20.0 |
-| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. | 2026-11-14<br><sub>6.3일</sub> | 104 | 16.5 |
+| 2 | [nforst/fagus](https://github.com/nforst/fagus)<br>브라우저 없이 고품질 인쇄용 PDF 생성 | 2026-11-13<br><sub>6.9일</sub> | 138 | 20.0 |
+| 3 | [homielab/noteflare](https://github.com/homielab/noteflare)<br>종단간 암호화로 나만 볼 수 있게 메모 저장 | 2026-11-14<br><sub>6.3일</sub> | 104 | 16.5 |
 | 4 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>반복 봇 작업을 실행하는 자동화 스크립트 | 2026-11-15<br><sub>4.8일</sub> | 153 | 31.9 |
 | 5 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod)<br>Fabric에서 관성을 살려 연속 점프 이동을 숙달 | 2026-11-15<br><sub>4.8일</sub> | 153 | 31.6 |
-| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). | 2026-11-15<br><sub>4.9일</sub> | 109 | 22.4 |
+| 6 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 2026-11-15<br><sub>4.9일</sub> | 109 | 22.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

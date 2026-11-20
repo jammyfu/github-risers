@@ -126,31 +126,31 @@
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三阶段审查流程规范 AI 生成的代码 | 生产级 AI 编程指令、精选技能以及 3 阶段审查流程（Planning → Critical Review → Diff Audit），在历经 4,500+ 小时后构建，基于… |
 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟着 AI 拆解爆款短剧的剧本与分镜 | AI 拆解学习短剧：为什么火、剧本怎么写、每一镜怎么拍 |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | 在 Mac 同时登录多个 Claude 桌面账号 | 在 Mac 上同时运行多个 Claude Desktop 账号：独立登录、自定义图标、共享的 Claude Code 配置，以及彼此互相发消… |
-| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) |  | GDM Robotics Skills for agentic robotics workflows across simulation and real robots. |
+| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真与真机？运行智能体式工作流 | 用于跨仿真与真实机器人的智能体式机器人工作流的 GDM Robotics 技能。 |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医疗 AI 数据集的许可与来源验证记录库 | 医疗 AI 背后数据集的经过验证的许可与来源记录：信息卡、JSON Schema、决策规则和证据索引（仅哈希）。Cards… |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格动画？用 Codex 一句话做出来 | 由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… |
-| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) |  | Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path a… |
+| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) |  | 用于自学、电子学习和备考的自托管 AI 导师与学习助手。将学习笔记、PDF 和讲义转化为章节学习路径并… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
-| [hackclub/orchard](https://github.com/hackclub/orchard) |  | Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command. |
+| [hackclub/orchard](https://github.com/hackclub/orchard) |  | 开源、自托管的部署平台。只需一条命令即可从 Git 部署到您自己的服务器。 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
-| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) |  | Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default |
-| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) |  | Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado… |
+| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) |  | 专为削减智能体轮次与 token 而构建的 Playwright MCP 服务器：单次调用表单填写、增量快照、批处理步骤以及默认开启的提交守卫 |
+| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) |  | 适用于巴西葡萄牙语的免费、开源且 100% 本地的语音听写（Windows 和 macOS）。电脑上的 Whisper：按下快捷键，说话，文本即被粘贴… |
 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | 模型额度用了多少，在编辑器里直接看 | 上下文使用量、模型配额、Token 消耗细分和生成指标 —— 尽在您的 Antigravity composer 中。 |
 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | 查验智能体与技能，确认来源值得信赖 | 智能体与技能的认可印章：具备签名与透明日志发布信任的图优先语义治理注册表。 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模组难移植？转出Rust代码 | 将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 存储空间出问题？一条命令直接修复 | 用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 |
 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 在方案与代码评审中快速批注并解决卡点 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) |  | How to get CapCut 2026 |
+| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) | CapCut 2026 获取教程 | 如何获取 CapCut 2026 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
-| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) |  | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
+| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | 编程智能体的时间记录与复盘工具 | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
-| [nforst/fagus](https://github.com/nforst/fagus) |  | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
-| [homielab/noteflare](https://github.com/homielab/noteflare) |  | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
+| [nforst/fagus](https://github.com/nforst/fagus) | 不用开浏览器，直接把网页排版转成PDF | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
+| [homielab/noteflare](https://github.com/homielab/noteflare) | 用端到端加密记笔记，只有自己能看 | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
-| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) |  | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 浏览器内GGUF量化与采样检查工具 | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
