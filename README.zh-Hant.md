@@ -69,7 +69,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想換成 Rust？對照原行為一步步遷移 | 2026-11-16<br><sub>4.2 天</sub> | 6,233 | 1,501.5 |
 | 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>本機LLM太慢？讓代理技能幫你調優提速 | 2026-11-16<br><sub>3.9 天</sub> | 1,304 | 336.0 |
 | 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>讓 AI 代理掌握 32 項免費行銷技能 | 2026-11-16<br><sub>4.0 天</sub> | 734 | 182.3 |
-| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… | 2026-11-19<br><sub>1.4 天</sub> | 119 | 82.0 |
+| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>對話太耗Token？幫你減少額度消耗 | 2026-11-19<br><sub>1.4 天</sub> | 119 | 82.0 |
 | 5 | [staryone/motlab](https://github.com/staryone/motlab)<br>給參考資料，讓代理寫程式做影片 | 2026-11-16<br><sub>4.1 天</sub> | 256 | 62.7 |
 | 6 | [diego3g/craft](https://github.com/diego3g/craft)<br>讓 AI 代理照設計系統畫出所有畫面 | 2026-11-15<br><sub>4.8 天</sub> | 284 | 58.9 |
 | 7 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow)<br>用三階段審查流程把關 AI 產出的程式碼 | 2026-11-14<br><sub>6.1 天</sub> | 309 | 50.7 |

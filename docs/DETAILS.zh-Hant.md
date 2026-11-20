@@ -120,7 +120,7 @@
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想換成 Rust？對照原行為一步步遷移 | 將你的整個應用程式逐步用 Rust 重寫，每一步都對照原始記錄的行為進行檢查。TypeSc 中的 CLI、HTTP 伺服器和函式庫… |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本機LLM太慢？讓代理技能幫你調優提速 | 用於在任何硬體與量化條件下透過爬山法提升本機 LLM 伺服速度（解碼、投機解碼、預填、KV、啟動、TTFT）的代理技能 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 讓 AI 代理掌握 32 項免費行銷技能 | 為你的 AI 代理提供 32 個免費行銷技能：研究、定位、文案、頁面、SEO、AI 搜尋、廣告、電子郵件和內容，外加深度的本機商業套件。MIT。 |
-| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) |  | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
+| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 對話太耗Token？幫你減少額度消耗 | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
 | [staryone/motlab](https://github.com/staryone/motlab) | 給參考資料，讓代理寫程式做影片 | 影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 讓 AI 代理照設計系統畫出所有畫面 | AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit… |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三階段審查流程把關 AI 產出的程式碼 | 生產級 AI 編程指令、精選技能以及 3 階段審查流程（Planning → Critical Review → Diff Audit），在歷經 4,500+ 小時後構建，基於… |
@@ -129,12 +129,12 @@
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真與真機？運行代理式工作流程 | 用於跨模擬與真實機器人的代理式機器人工作流程的 GDM Robotics 技能。 |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 醫療 AI 資料集的授權與來源驗證紀錄庫 | 醫療 AI 背後資料集的已驗證授權與來源記錄：資訊卡、JSON Schema、決策規則和證據索引（僅雜湊）。Cards… |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格動畫？用 Codex 一句話做出來 | 由一行文字生成的定格動畫短片，使用 Codex 製作：八種材質風格，由圖像模型繪製人偶並透過程式碼逐格移動。一句話，用 Codex 做一支定格動畫… |
-| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) |  | 用於自學、線上學習和備考的自行架設 AI 導師與學習助理。將研讀筆記、PDF 和課堂講義轉換為章節學習路徑並… |
+| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 備考筆記太亂？讓AI幫你理出學習路徑 | 用於自學、線上學習和備考的自行架設 AI 導師與學習助理。將研讀筆記、PDF 和課堂講義轉換為章節學習路徑並… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用於 /grand-tour 的開發者技能庫 | Grand Tour 技能：用於 /grand-tour 的編排式開發者程式庫 |
-| [hackclub/orchard](https://github.com/hackclub/orchard) |  | 開源、自行架設的部署平台。只需一條指令即可從 Git 部署到您自己的伺服器。 |
+| [hackclub/orchard](https://github.com/hackclub/orchard) | 部署太煩？一行指令從Git發到伺服器 | 開源、自行架設的部署平台。只需一條指令即可從 Git 部署到您自己的伺服器。 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 寫程式免盯，讓 AI 自動跑完流程 | 一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 |
-| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) |  | 專為削減代理輪次與 token 而構建的 Playwright MCP 伺服器：單次呼叫表單填寫、增量快照、批次處理步驟以及預設開啟的提交守衛 |
-| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) |  | 適用於巴西葡萄牙語的免費、開源且 100% 本機的語音聽寫（Windows 和 macOS）。電腦上的 Whisper：按下快速鍵，說話，文字即被貼上… |
+| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) | 代理太費Token？幫你省下操作輪數 | 專為削減代理輪次與 token 而構建的 Playwright MCP 伺服器：單次呼叫表單填寫、增量快照、批次處理步驟以及預設開啟的提交守衛 |
+| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) | 打字太累？按下快捷鍵說話直接貼上 | 適用於巴西葡萄牙語的免費、開源且 100% 本機的語音聽寫（Windows 和 macOS）。電腦上的 Whisper：按下快速鍵，說話，文字即被貼上… |
 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | 模型額度用了多少，在編輯器裡直接看 | 上下文使用量、模型配額、Token 消耗細分與生成指標 —— 盡在您的 Antigravity composer 中。 |
 | [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | 查驗代理與技能，確認來源值得信賴 | 代理與技能的認可印章：具備簽名與透明日誌發布信任的圖優先語義治理註冊表。 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模組難移植？轉出Rust專案 | 將 Smelt 指向 Java mod jar，它就會啟動 Horizon 的 Rust 移植：crates、traits 和可運行的建置。未完成的部分已標記，因此你可以準確知道 w… |

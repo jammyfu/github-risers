@@ -1716,7 +1716,9 @@
         "hook": {
           "en": "Tokens running out? Cut LLM turns and token quota",
           "ja": "トークンが足りない？LLMの往復と消費枠を削減",
-          "ko": "토큰이 부족한가요? LLM 턴과 할당량을 절약"
+          "ko": "토큰이 부족한가요? LLM 턴과 할당량을 절약",
+          "zh-Hans": "对话太耗Token？帮你减少额度消耗",
+          "zh-Hant": "對話太耗Token？幫你減少額度消耗"
         },
         "seen": "2026-11-21"
       }
@@ -3359,7 +3361,9 @@
         "hook": {
           "en": "Agent eating tokens? Cut browser turns and tokens",
           "ja": "ブラウザ操作が重い？エージェントのターンとトークンを削減",
-          "ko": "브라우저 작업이 느린가요? 에이전트 턴과 토큰을 절약"
+          "ko": "브라우저 작업이 느린가요? 에이전트 턴과 토큰을 절약",
+          "zh-Hans": "智能体太费Token？帮你省下操作轮数",
+          "zh-Hant": "代理太費Token？幫你省下操作輪數"
         }
       }
     },
@@ -4596,7 +4600,9 @@
         "hook": {
           "en": "Tired of typing? Press a key, speak, and paste text locally",
           "ja": "タイピングが面倒？ショートカットを押して話すだけで入力",
-          "ko": "타이핑이 귀찮을 때? 단축키 누르고 말하면 바로 입력"
+          "ko": "타이핑이 귀찮을 때? 단축키 누르고 말하면 바로 입력",
+          "zh-Hans": "打字太累？按下快捷键说话直接粘贴",
+          "zh-Hant": "打字太累？按下快捷鍵說話直接貼上"
         }
       }
     },
@@ -5191,7 +5197,9 @@
         "hook": {
           "en": "Deploying to servers is hard? Ship from Git in one command",
           "ja": "デプロイが面倒？Gitから自分のサーバーへコマンド1つで",
-          "ko": "배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포"
+          "ko": "배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포",
+          "zh-Hans": "部署太烦？一条命令从Git发到服务器",
+          "zh-Hant": "部署太煩？一行指令從Git發到伺服器"
         }
       }
     },
@@ -5881,7 +5889,9 @@
         "hook": {
           "en": "Messy notes? Turn PDFs and study notes into learning paths",
           "ja": "教材が散らかる？ノートやPDFを章ごとの学習コースに",
-          "ko": "공부 자료가 막막할 때? 노트를 단원별 학습 경로로"
+          "ko": "공부 자료가 막막할 때? 노트를 단원별 학습 경로로",
+          "zh-Hans": "备考笔记太乱？让AI帮你理出学习路径",
+          "zh-Hant": "備考筆記太亂？讓AI幫你理出學習路徑"
         }
       }
     },
