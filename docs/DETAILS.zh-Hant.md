@@ -118,40 +118,40 @@
 | 專案 | 表裡的一句話 | 完整介紹 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想換成 Rust？對照原行為一步步遷移 | 將你的整個應用程式逐步用 Rust 重寫，每一步都對照原始記錄的行為進行檢查。TypeSc 中的 CLI、HTTP 伺服器和函式庫… |
-| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | 把 GTA 6 直播剪成直向短影片 | 將 GTA 6 直播轉換為付費直式短片的外掛 Claude Code 外掛：即時活動、熱門影片、精彩時刻，以及帶有吸睛點、字幕與名單的 9:16 剪輯。 |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本機LLM太慢？讓代理技能幫你調優提速 | 用於在任何硬體與量化條件下透過爬山法提升本機 LLM 伺服速度（解碼、投機解碼、預填、KV、啟動、TTFT）的代理技能 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 讓 AI 代理掌握 32 項免費行銷技能 | 為你的 AI 代理提供 32 個免費行銷技能：研究、定位、文案、頁面、SEO、AI 搜尋、廣告、電子郵件和內容，外加深度的本機商業套件。MIT。 |
-| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 上千節點放進無限畫布，自由移動縮放 | 將數千個活躍 DOM 節點放置在無限畫布上：GPU 進行繪製，編輯器選取、移動並調整它們的大小，著色器和過渡效果在它們上面運行，並且… |
-| [diego3g/craft](https://github.com/diego3g/craft) | 讓 AI 代理照設計系統畫出所有畫面 | AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit… |
-| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | 想讓網頁 AI 連接本機？權限由你掌控 | 透過 MCP 將 Web AI 助理連接到本機檔案、終端機、Git 和桌面工具，並具備使用者控制的權限。 |
+| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) |  | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
 | [staryone/motlab](https://github.com/staryone/motlab) | 給參考資料，讓代理寫程式做影片 | 影片即程式碼：在無頭 Chrome 中使用 WebCodecs 渲染的 canvas 場景、審核檢視器，以及根據你的參考資料建立影片的代理技能。 |
-| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟著 AI 拆解熱門短劇的劇本與分鏡 | AI 拆解學習短劇：為什麼火、劇本怎麼寫、每一鏡怎麼拍 |
+| [diego3g/craft](https://github.com/diego3g/craft) | 讓 AI 代理照設計系統畫出所有畫面 | AI 代理的設計技能：/craft-setup 編寫你的設計簡報，/craft 根據你的設計系統設計包含所有狀態的畫面並進行審查。Works wit… |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 用三階段審查流程把關 AI 產出的程式碼 | 生產級 AI 編程指令、精選技能以及 3 階段審查流程（Planning → Critical Review → Diff Audit），在歷經 4,500+ 小時後構建，基於… |
-| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 醫療 AI 資料集的授權與來源驗證紀錄庫 | 醫療 AI 背後資料集的已驗證授權與來源記錄：資訊卡、JSON Schema、決策規則和證據索引（僅雜湊）。Cards… |
+| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | 跟著 AI 拆解熱門短劇的劇本與分鏡 | AI 拆解學習短劇：為什麼火、劇本怎麼寫、每一鏡怎麼拍 |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | 在 Mac 同時登入多個 Claude 桌面帳號 | 在 Mac 上同時執行多個 Claude Desktop 帳號：獨立登入、自訂圖示、一份共用的 Claude Code 設定，以及彼此互相傳送訊… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 用白話提問，答案每句都有公開來源 | 適用於 Windows 的 AI OSINT 調查工具：用通俗易懂的語言提問，即可獲得基於公開來源構建的答案，每句話均附有來源。 |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 寫程式免盯，讓 AI 自動跑完流程 | 一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | 一條命令自動選工具、執行並生成案卷 | 用於 OSINT 的命令列 AI 代理：一條命令，即可挑選工具、執行它們並撰寫案件檔案。 |
-| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) | 減少 Antigravity 的回合與審查等待 | 讓 Antigravity 少走回合、少等審查的本機規則外掛（非官方） |
+| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) |  | GDM Robotics Skills for agentic robotics workflows across simulation and real robots. |
+| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 醫療 AI 資料集的授權與來源驗證紀錄庫 | 醫療 AI 背後資料集的已驗證授權與來源記錄：資訊卡、JSON Schema、決策規則和證據索引（僅雜湊）。Cards… |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格動畫？用 Codex 一句話做出來 | 由一行文字生成的定格動畫短片，使用 Codex 製作：八種材質風格，由圖像模型繪製人偶並透過程式碼逐格移動。一句話，用 Codex 做一支定格動畫… |
+| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) |  | Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path a… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用於 /grand-tour 的開發者技能庫 | Grand Tour 技能：用於 /grand-tour 的編排式開發者程式庫 |
-| [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 面向求職準備的面試副駕駛教育應用 | Interview Copilot EdTech App：連結學習與你的理想工作 |
-| [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) | 團隊行事曆與活動管理平台 | Events Tracker：團隊行事曆與活動管理平台 |
-| [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | 社群驅動的加密貨幣吸籌掃描工具 | 面向 Discord 和 Telegram rich 的社群驅動型加密貨幣積累掃描器 |
+| [hackclub/orchard](https://github.com/hackclub/orchard) |  | Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command. |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 寫程式免盯，讓 AI 自動跑完流程 | 一款輕量級工作流程外掛，用於結合 DeepSeek Harness、Claude Code、GitHub Copilot 等實現全自動 AI 編程。 |
+| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) |  | Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default |
+| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) |  | Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado… |
+| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | 模型額度用了多少，在編輯器裡直接看 | 上下文使用量、模型配額、Token 消耗細分與生成指標 —— 盡在您的 Antigravity composer 中。 |
+| [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | 查驗代理與技能，確認來源值得信賴 | 代理與技能的認可印章：具備簽名與透明日誌發布信任的圖優先語義治理註冊表。 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模組難移植？轉出Rust專案 | 將 Smelt 指向 Java mod jar，它就會啟動 Horizon 的 Rust 移植：crates、traits 和可運行的建置。未完成的部分已標記，因此你可以準確知道 w… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 儲存空間出問題？一條指令直接修復 | 用於解決你的 mac &amp; linux 機器儲存問題的 CLI，只需執行 fix-storage。 |
 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 在方案與程式碼審查中標註並解決卡點 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | 模型額度用了多少，在編輯器裡直接看 | 上下文使用量、模型配額、Token 消耗細分與生成指標 —— 盡在您的 Antigravity composer 中。 |
+| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) |  | How to get CapCut 2026 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界並分享手藝，與大家一起建造 | CMP30HX Mod：塑造世界，分享工藝，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 檢查、安裝並更新常用執行階段 | Runtime Forge CLI：檢查、安裝、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用網頁介面輕鬆管理 Windows 套件 | EasyWinget GUI：用於無縫 Windows 套件管理的現代化 Web 介面 |
-| [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | 查驗代理與技能，確認來源值得信賴 | 代理與技能的認可印章：具備簽名與透明日誌發布信任的圖優先語義治理註冊表。 |
-| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 用 shadcn 為 React 接入開源動態島 | 適用於 React 的開源 Dynamic Island，使用 shadcn 安裝。 |
+| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) |  | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，單檔案就能換主題 | 靈感源自 Claude 的 T3 Code 主題。單一檔案，無需 fork。 |
-| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 在一次性分身環境中重現並修復故障 | TwinFix — 在一次性孿生環境中自動診斷、復現並修復故障的 AI 代理。 |
+| [nforst/fagus](https://github.com/nforst/fagus) |  | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
+| [homielab/noteflare](https://github.com/homielab/noteflare) |  | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用於重複執行機器人任務的自動化腳本 | Stratgies Indicator 自動化腳本可重複機器人任務運行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握連跳技巧，靠慣性高速移動 | Bunny Hopping Mod：由 Fabric 驅動的動量與移動技巧掌握 |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) |  | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做監控？自行架設儀表板與告警 | 自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直觀理清並呈現工作簿工作流程 | Jet Reports 技能：NAV 與 Business Central 的視覺化活頁簿工作流程 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控並管理你的CMaNGOS領域 | CMaNGOS Helm: 執掌 Helm，統御你的領域 |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格動畫？用 Codex 一句話做出來 | 由一行文字生成的定格動畫短片，使用 Codex 製作：八種材質風格，由圖像模型繪製人偶並透過程式碼逐格移動。一句話，用 Codex 做一支定格動畫… |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 在桌面即時同步，輕鬆追蹤所有訂閱 | Whalefeed: 具備即時同步與結構化資料解析功能的桌面 Feed 聚合器 |

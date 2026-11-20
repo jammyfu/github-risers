@@ -118,40 +118,40 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust移行が不安？動作を確認しつつ段階移行 | アプリ全体を一度に1つずつRustで書き直し、各ステップでオリジナルの記録された動作と照合して確認します。TypeScで作成されたCLI、HTTPサーバー、ライブラリ… |
-| [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | GTA 6の配信から縦型動画を切り抜く | GTA 6の配信を有料の縦型動画に変換するClaude Codeプラグイン：ライブキャンペーン、トレンド動画、ベストモーメント、フック・字幕・クレジット付きの9:16カット。 |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | ローカルLLMが遅い？エージェントスキルで高速化 | あらゆるハードウェアおよび量子化環境でローカルLLMサービング速度（デコード、投機的デコード、プレフィル、KV、起動、TTFT）を山登り法で向上させるエージェントスキル |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AIエージェントに32の無料マーケティングスキルを | AI エージェント向けの 32 の無料マーケティングスキル：リサーチ、ポジショニング、コピー、ページ、SEO、AI 検索、広告、メール、コンテンツ、さらに充実したローカルビジネスパック。MIT。 |
-| [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | 数千のDOMノードを無限キャンバスに描画・編集 | 数千のライブDOMノードを無限のキャンバスに配置：GPUがそれらを描画し、エディターが選択、移動、サイズ変更を行い、シェーダーとトランジションがそれらの上で実行され、そして… |
-| [diego3g/craft](https://github.com/diego3g/craft) | 画面設計が面倒？エージェントスキルで全状態をデザイン | AIエージェント向けのデザインスキル：/craft-setup がデザインブリーフを作成し、/craft がデザインシステムからあらゆる状態の画面をデザインしてレビューします。Works wit… |
-| [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | WebのAIをローカルのツールやターミナルに接続 | MCP を介して Web AI アシスタントをローカルファイル、ターミナル、Git、デスクトップツールに接続し、ユーザーが権限を制御できます。 |
+| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) |  | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
 | [staryone/motlab](https://github.com/staryone/motlab) | コードで動画を作りたい？素材からエージェントが生成 | コードとしての動画：ヘッドレスChromeでWebCodecsを使用してレンダリングされるcanvasシーン、レビュービューア、そして参考資料から動画を構築するエージェントスキル。 |
-| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AIで人気短編ドラマの脚本や撮影手順を分析 | AIでショートドラマを分解・学習：なぜヒットするのか、脚本はどう書くか、各カットをどう撮るか |
+| [diego3g/craft](https://github.com/diego3g/craft) | 画面設計が面倒？エージェントスキルで全状態をデザイン | AIエージェント向けのデザインスキル：/craft-setup がデザインブリーフを作成し、/craft がデザインシステムからあらゆる状態の画面をデザインしてレビューします。Works wit… |
 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3段階のレビュー手順でAIコードを監査 | 本番環境レベルのAIコーディング指示、厳選されたスキル、4,500+時間以上をかけて構築された3段階のレビューパイプライン（Planning → Critical Review → Diff Audit）… |
-| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医療向けAIデータセットのライセンス検証記録 | 医療 AI を支えるデータセットの検証済みライセンスおよび出所記録：情報カード、JSON Schema、決定ルール、証拠インデックス（ハッシュのみ）。Cards… |
+| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AIで人気短編ドラマの脚本や撮影手順を分析 | AIでショートドラマを分解・学習：なぜヒットするのか、脚本はどう書くか、各カットをどう撮るか |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Macで複数のClaude デスクトップを同時に使う | Mac上で複数のClaude Desktopアカウントを同時に実行：個別のサインイン、カスタムアイコン、1つの共有Claude Code環境、そして互いにメッセージを送信し合… |
-| [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | 自然な言葉で質問し文ごとに根拠のある回答を得る | Windows向けAI OSINT調査ツール：平易な言葉で質問すると、すべての文に出典が付いた、公開ソースから構築された回答が得られます。 |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | AIコーディング用の軽量ワークフロープラグイン | DeepSeek Harness、Claude Code、GitHub Copilot などを活用したハンズフリー AI コーディング向け軽量ワークフロープラグイン。 |
-| [RouteInferno/shamus-osint-ai-agent](https://github.com/RouteInferno/shamus-osint-ai-agent) | コマンド1つでツール選定・実行・案件ファイル作成 | OSINT 向けコマンドライン AI エージェント：1 つのコマンドでツールを選択して実行し、ケースファイルを作成します。 |
-| [oil-oil/agy-fast-io](https://github.com/oil-oil/agy-fast-io) | Antigravityのやり取りと審査待ちを減らす | Antigravityのターン数とレビュー待ちを減らすローカルルールプラグイン（非公式） |
+| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) |  | GDM Robotics Skills for agentic robotics workflows across simulation and real robots. |
+| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医療向けAIデータセットのライセンス検証記録 | 医療 AI を支えるデータセットの検証済みライセンスおよび出所記録：情報カード、JSON Schema、決定ルール、証拠インデックス（ハッシュのみ）。Cards… |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codexを使って一言からコマ撮りアニメを作る | 1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る… |
+| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) |  | Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path a… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 用の開発者向けスキルライブラリ | Grand Tour スキル：/grand-tour 向けにオーケストレーションされた開発者ライブラリ |
-| [Wilfriedbkt/interview-copilot-edtech-app](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) | 就職面接を支援する教育アプリ | Interview Copilot EdTech App：学習と理想の仕事の架け橋 |
-| [FIlIP-C3/events-tracker](https://github.com/FIlIP-C3/events-tracker) | チームカレンダーとイベント管理プラットフォーム | Events Tracker：チームカレンダーおよびイベント管理プラットフォーム |
-| [Nihongo-editor/crypto-accumulation-scanner](https://github.com/Nihongo-editor/crypto-accumulation-scanner) | DiscordとTelegram向け暗号資産スキャナー | Discord および Telegram rich 向けのコミュニティ主導型暗号資産アキュムレーションスキャナー |
+| [hackclub/orchard](https://github.com/hackclub/orchard) |  | Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command. |
+| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | AIコーディング用の軽量ワークフロープラグイン | DeepSeek Harness、Claude Code、GitHub Copilot などを活用したハンズフリー AI コーディング向け軽量ワークフロープラグイン。 |
+| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) |  | Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default |
+| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) |  | Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado… |
+| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | Antigravityでコンテキストとモデル使用量を確認 | コンテキスト使用量、モデルクォータ、トークンの内訳、生成指標 — Antigravity composerから直接確認できます。 |
+| [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | エージェントやスキルが安全か確認して使う | エージェントとスキルのための承認印：署名および透明性ログ記録による公開の信頼性を備えた、グラフファーストのセマンティックガバナンスレジストリ。 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java ModのRust移植が大変？jarから自動変換 | SmeltをJava modのjarに向けると、Horizon向けのRust移植を開始します：crate、trait、そして実行可能なビルド。未完成の部分はマークされているため、正確にw… |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | MacとLinuxのストレージ問題をCLIで解決 | mac &amp; linux マシンのストレージ問題を解決する CLI。fix-storage を実行するだけです。 |
 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 計画やコードレビューで注釈を付け課題を解決 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | Antigravityでコンテキストとモデル使用量を確認 | コンテキスト使用量、モデルクォータ、トークンの内訳、生成指標 — Antigravity composerから直接確認できます。 |
+| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) |  | How to get CapCut 2026 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 世界を形作り、作品を共有して共に建築 | CMP30HX Mod: 世界を形作り、技術を共有し、共に築く |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLIで各種ランタイムの確認・導入・更新 | Runtime Forge CLI: DirectX、VC++、.NET、Java、Python、Go、Rust の検査、インストール、アップデート、削除、 |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | Web画面でWindowsパッケージを楽に管理 | EasyWinget GUI: シームレスな Windows パッケージ管理のためのモダンな Web インターフェース |
-| [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | エージェントやスキルが安全か確認して使う | エージェントとスキルのための承認印：署名および透明性ログ記録による公開の信頼性を備えた、グラフファーストのセマンティックガバナンスレジストリ。 |
-| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | shadcnで手軽にDynamic Islandを追加 | shadcn でインストールする、React 向けのオープンソース Dynamic Island。 |
+| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) |  | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | フォーク不要、1ファイルでClaude風テーマに | Claude にインスパイアされた T3 Code 向けテーマ。1 ファイル、fork 不要。 |
-| [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) | 使い捨て環境でバグを再現して自動修正 | TwinFix — 使い捨てのツイン環境でバグを診断、再現、修正するAIエージェント。 |
+| [nforst/fagus](https://github.com/nforst/fagus) |  | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
+| [homielab/noteflare](https://github.com/homielab/noteflare) |  | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | ボットタスクを繰り返し実行する自動化スクリプト | Stratgies Indicator 自動化スクリプトの反復可能なボットタスク実行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabricで慣性を活かした連続ジャンプ移動を習得 | Bunny Hopping Mod: Fabric を活用した運動量と移動の習得 |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) |  | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | ワークブックのワークフローを視覚的に整理 | Jet Reports スキル: NAV および Business Central 向けのビジュアルワークブックワークフロー |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helmを使ってCMaNGOSレルムを自在に指揮 | CMaNGOS Helm: Helm を操り、あなたのレルムを統べる |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codexを使って一言からコマ撮りアニメを作る | 1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る… |
 | [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | デスクトップでフィードをリアルタイム同期 | Whalefeed: リアルタイム同期と構造化データ解析を備えたデスクトップフィードアグリゲーター |

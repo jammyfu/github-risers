@@ -6,6 +6,7 @@ Latest: [`latest/rankings.md`](../latest/rankings.md) · [`latest/stats.json`](.
 
 | Date | Slot | Fetched (UTC) | #1 new (7 days) | #1 this week | #1 this month | #1 this year | Snapshot |
 |---|---|---|---|---|---|---|---|
+| 2026-11-20 | Los Angeles 00:00 (`pt-0000`) | 2026-11-20T15:48:18Z | erkamyaman/rust-anything (1,502/day) | morluto/rea (2,145/day) | morluto/rea (4,068/day) | deepseek-ai/deepseek-harness (2,873/day) | [2026-11-20/pt-0000](2026-11-20/pt-0000/rankings.md) · [json](2026-11-20/pt-0000/stats.json) |
 | 2026-11-19 | Los Angeles 00:00 (`pt-0000`) | 2026-11-19T16:07:38Z | erkamyaman/rust-anything (1,476/day) | morluto/rea (2,263/day) | morluto/rea (4,375/day) | deepseek-ai/deepseek-harness (2,897/day) | [2026-11-19/pt-0000](2026-11-19/pt-0000/rankings.md) · [json](2026-11-19/pt-0000/stats.json) |
 | 2026-11-18 | Los Angeles 00:00 (`pt-0000`) | 2026-11-18T16:00:36Z | erkamyaman/rust-anything (1,290/day) | morluto/rea (2,384/day) | morluto/rea (4,755/day) | deepseek-ai/deepseek-harness (2,920/day) | [2026-11-18/pt-0000](2026-11-18/pt-0000/rankings.md) · [json](2026-11-18/pt-0000/stats.json) |
 | 2026-11-17 | Los Angeles 00:00 (`pt-0000`) | 2026-11-17T16:32:09Z | sybil-solutions/inference-optimisation-skill (704/day) | morluto/rea (2,499/day) | morluto/rea (5,191/day) | deepseek-ai/deepseek-harness (2,944/day) | [2026-11-17/pt-0000](2026-11-17/pt-0000/rankings.md) · [json](2026-11-17/pt-0000/stats.json) |
