@@ -144,13 +144,13 @@
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 世界を形作り、作品を共有して共に建築 | CMP30HX Mod: 世界を形作り、技術を共有し、共に築く |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLIで各種ランタイムの確認・導入・更新 | Runtime Forge CLI: DirectX、VC++、.NET、Java、Python、Go、Rust の検査、インストール、アップデート、削除、 |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | Web画面でWindowsパッケージを楽に管理 | EasyWinget GUI: シームレスな Windows パッケージ管理のためのモダンな Web インターフェース |
-| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | コーディングエージェント向け時間記録と改善ツール | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
+| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | コーディングエージェント向け時間記録と改善ツール | AI プログラミングアシスタントに鞭を：ローカルで時間の使い道を記録し、振り返りをエージェントの指示/スキル/ツールに反映。改善されたかどうかはデータで語る。 / コーディングエージェントのための鞭：ローカル計時、レッドラインのナッジ、そして証拠に裏付けられた監査可能な自己改善… |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | フォーク不要、1ファイルでClaude風テーマに | Claude にインスパイアされた T3 Code 向けテーマ。1 ファイル、fork 不要。 |
-| [nforst/fagus](https://github.com/nforst/fagus) | ブラウザなしで印刷品質のPDFを作成 | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
-| [homielab/noteflare](https://github.com/homielab/noteflare) | エンドツーエンド暗号化でノートを自分だけに保管 | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
+| [nforst/fagus](https://github.com/nforst/fagus) | ブラウザなしで印刷品質のPDFを作成 | PHP および Laravel 向けのブラウザ不要の HTML/CSS to PDF ツール。Chrome 印刷のようにレンダリングし、PDF/A、PDF/UA、ZUGFeRD/Factur-X に対応。 |
+| [homielab/noteflare](https://github.com/homielab/noteflare) | エンドツーエンド暗号化でノートを自分だけに保管 | ノートを Cloudflare に保存し、自分だけのものに。Cloudflare Workers + D1 上のエンドツーエンド暗号化ノート。 |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | ボットタスクを繰り返し実行する自動化スクリプト | Stratgies Indicator 自動化スクリプトの反復可能なボットタスク実行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabricで慣性を活かした連続ジャンプ移動を習得 | Bunny Hopping Mod: Fabric を活用した運動量と移動の習得 |
-| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | ブラウザでGGUFの量子化とサンプラーを確認するツール | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | ブラウザでGGUFの量子化とサンプラーを確認するツール | 任意の GGUF の内部を可視化：2 つの量子化がどこで分岐するのかをトークンごとに確認し、各サンプラーが何を削減するかを把握。llama.cpp（CUDA または Vulkan）を搭載し、ブラウザ内でリアルタイム動作。 |
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | ワークブックのワークフローを視覚的に整理 | Jet Reports スキル: NAV および Business Central 向けのビジュアルワークブックワークフロー |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helmを使ってCMaNGOSレルムを自在に指揮 | CMaNGOS Helm: Helm を操り、あなたのレルムを統べる |

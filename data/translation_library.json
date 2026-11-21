@@ -5319,7 +5319,11 @@
           "ja": "エンドツーエンド暗号化でノートを自分だけに保管",
           "ko": "종단간 암호화로 나만 볼 수 있게 메모 저장"
         },
-        "seen": "2026-11-21"
+        "seen": "2026-11-21",
+        "zh-Hans": "将你的笔记保存在 Cloudflare 上，留给自己私享。基于 Cloudflare Workers + D1 的端到端加密笔记。",
+        "zh-Hant": "將你的筆記保存在 Cloudflare 上，留給自己私享。基於 Cloudflare Workers + D1 的端對端加密筆記。",
+        "ja": "ノートを Cloudflare に保存し、自分だけのものに。Cloudflare Workers + D1 上のエンドツーエンド暗号化ノート。",
+        "ko": "노트를 Cloudflare에 보관하고 본인만 확인하세요. Cloudflare Workers + D1 기반의 종단간 암호화 노트."
       }
     },
     "howznguyen/shorts-kit": {
@@ -5922,7 +5926,11 @@
           "ja": "ブラウザでGGUFの量子化とサンプラーを確認するツール",
           "ko": "브라우저 기반 GGUF 양자화 및 샘플러 검사 도구"
         },
-        "seen": "2026-11-21"
+        "seen": "2026-11-21",
+        "zh-Hans": "透视任何 GGUF 内部：逐个 token 观察两种量化方式的分歧点，以及各采样器裁减的内容。在你的浏览器中实时运行，由 llama.cpp（CUDA 或 Vulkan）驱动。",
+        "zh-Hant": "透視任何 GGUF 內部：逐個 token 觀察兩種量化方式的分歧點，以及各取樣器裁減的內容。在你的瀏覽器中即時運行，由 llama.cpp（CUDA 或 Vulkan）驅動。",
+        "ja": "任意の GGUF の内部を可視化：2 つの量子化がどこで分岐するのかをトークンごとに確認し、各サンプラーが何を削減するかを把握。llama.cpp（CUDA または Vulkan）を搭載し、ブラウザ内でリアルタイム動作。",
+        "ko": "모든 GGUF의 내부를 확인하세요: 두 양자화가 갈라지는 지점을 토큰별로 파악하고 각 샘플러가 무엇을 잘라내는지 확인합니다. llama.cpp(CUDA 또는 Vulkan) 기반으로 브라우저에서 실시간 실행됩니다."
       }
     },
     "marbleorbweb94/ninjatrader-bot": {
@@ -6254,7 +6262,11 @@
           "ja": "ブラウザなしで印刷品質のPDFを作成",
           "ko": "브라우저 없이 고품질 인쇄용 PDF 생성"
         },
-        "seen": "2026-11-21"
+        "seen": "2026-11-21",
+        "zh-Hans": "适用于 PHP 和 Laravel 的无需浏览器的 HTML 和 CSS 转 PDF 工具。渲染效果如同 Chrome 打印，支持 PDF/A、PDF/UA 和 ZUGFeRD/Factur-X。",
+        "zh-Hant": "適用於 PHP 和 Laravel 的無需瀏覽器的 HTML 和 CSS 轉 PDF 工具。渲染效果宛如 Chrome 列印，支援 PDF/A、PDF/UA 和 ZUGFeRD/Factur-X。",
+        "ja": "PHP および Laravel 向けのブラウザ不要の HTML/CSS to PDF ツール。Chrome 印刷のようにレンダリングし、PDF/A、PDF/UA、ZUGFeRD/Factur-X に対応。",
+        "ko": "브라우저 없이 동작하는 PHP 및 Laravel용 HTML/CSS to PDF 변환 도구. Chrome 인쇄처럼 렌더링하며 PDF/A, PDF/UA 및 ZUGFeRD/Factur-X를 지원합니다."
       }
     },
     "nodedevelopersack/Cubase": {
@@ -6379,7 +6391,12 @@
           "ja": "コーディングエージェント向け時間記録と改善ツール",
           "ko": "코딩 에이전트 시간 기록 및 자체 개선 도구"
         },
-        "seen": "2026-11-21"
+        "seen": "2026-11-21",
+        "zh-Hans": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回智能体指令/技能/工具；改没改好，用数据说话。 / 给编程智能体的一根鞭子：本地计时、红线提示，以及有据可查、可审计的自我改进…",
+        "zh-Hant": "給 AI 程式設計助手一根馬鞭：本機記錄時間去向，把複盤寫回代理指令/技能/工具；改沒改好，用數據說話。 / 給編程代理的一根鞭子：本機計時、紅線提示，以及有據可查、可審計的自我改進…",
+        "ja": "AI プログラミングアシスタントに鞭を：ローカルで時間の使い道を記録し、振り返りをエージェントの指示/スキル/ツールに反映。改善されたかどうかはデータで語る。 / コーディングエージェントのための鞭：ローカル計時、レッドラインのナッジ、そして証拠に裏付けられた監査可能な自己改善…",
+        "ko": "AI 코딩 도우미에게 채찍을: 로컬에서 시간 흐름을 기록하고, 복기를 에이전트 지시/스킬/도구에 다시 작성. 개선 여부는 데이터로 증명. / 코딩 에이전트를 위한 채찍: 로컬 시간 측정, 레드라인 넛지, 그리고 증거 기반의 감사 가능한 자가 개선…",
+        "en": "A whip for AI coding assistants: record where time goes locally, write post-mortems back to agent instructions/skills/tools; whether improved or not, let data speak. / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro…"
       }
     },
     "orkbot-run/ork": {

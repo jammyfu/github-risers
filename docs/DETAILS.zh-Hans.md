@@ -144,13 +144,13 @@
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
-| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | 编程智能体的时间记录与复盘工具 | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 / A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-impro… |
+| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | 编程智能体的时间记录与复盘工具 | 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回智能体指令/技能/工具；改没改好，用数据说话。 / 给编程智能体的一根鞭子：本地计时、红线提示，以及有据可查、可审计的自我改进… |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 不用 fork，单文件就能换主题 | 灵感源自 Claude 的 T3 Code 主题。单文件，无需 fork。 |
-| [nforst/fagus](https://github.com/nforst/fagus) | 不用开浏览器，直接把网页排版转成PDF | HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X. |
-| [homielab/noteflare](https://github.com/homielab/noteflare) | 用端到端加密记笔记，只有自己能看 | Keep your notes on Cloudflare. Keep them to yourself. End-to-end encrypted notes on Cloudflare Workers + D1. |
+| [nforst/fagus](https://github.com/nforst/fagus) | 不用开浏览器，直接把网页排版转成PDF | 适用于 PHP 和 Laravel 的无需浏览器的 HTML 和 CSS 转 PDF 工具。渲染效果如同 Chrome 打印，支持 PDF/A、PDF/UA 和 ZUGFeRD/Factur-X。 |
+| [homielab/noteflare](https://github.com/homielab/noteflare) | 用端到端加密记笔记，只有自己能看 | 将你的笔记保存在 Cloudflare 上，留给自己私享。基于 Cloudflare Workers + D1 的端到端加密笔记。 |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
-| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 浏览器内GGUF量化与采样检查工具 | See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan). |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 浏览器内GGUF量化与采样检查工具 | 透视任何 GGUF 内部：逐个 token 观察两种量化方式的分歧点，以及各采样器裁减的内容。在你的浏览器中实时运行，由 llama.cpp（CUDA 或 Vulkan）驱动。 |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
