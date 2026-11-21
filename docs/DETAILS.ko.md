@@ -125,18 +125,18 @@
 | [staryone/motlab](https://github.com/staryone/motlab) | 코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 코드로서의 비디오: 헤드리스 Chrome에서 WebCodecs로 렌더링된 canvas 장면, 검토 뷰어, 참조 자료를 바탕으로 비디오를 제작하는 에이전트 스킬. |
 | [diego3g/craft](https://github.com/diego3g/craft) | 화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | AI 에이전트를 위한 디자인 스킬: /craft-setup이 디자인 브리프를 작성하고, /craft가 디자인 시스템의 모든 상태를 포함한 화면을 디자인하고 검토합니다. Works wit… |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Mac에서 Claude 데스크톱 여러 개를 동시에 사용 | Mac에서 여러 Claude Desktop 계정을 동시에 실행: 개별 로그인, 커스텀 아이콘, 하나의 공유 Claude Code 설정, 그리고 서로 메시지를 주고받… |
-| [kobimusic/dettato](https://github.com/kobimusic/dettato) |  | KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording |
+| [kobimusic/dettato](https://github.com/kobimusic/dettato) |  | KobiMusic의 다중 악기 오디오-MIDI 트랜스크라이버: 모든 녹음에서 음표, 악기 트랙, 드럼을 전사합니다 |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로 | 시뮬레이션과 실제 로봇 전반의 에이전틱 로보틱스 워크플로를 위한 GDM Robotics 스킬. |
-| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) |  | Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin. |
+| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) |  | Claude, ChatGPT, Claude Code, Cursor 또는 VS Code에 누가 AI 예산을 썼는지, 무엇을 수정해야 하는지 물어보세요. TraxAgent의 읽기 전용 MCP 서버 및 Claude Code 플러그인. |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codex로 한 문장에서 스톱모션 애니메이션 만들기 | 한 줄로 만드는 스톱모션 단편, Codex로 제작: 8가지 머티리얼 스타일, 이미지 모델이 그리고 코드에서 프레임 단위로 움직이는 퍼펫. 한 문장으로 Codex로 스톱모션 애니메이션 만들기… |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 의료 AI 데이터셋 라이선스 및 출처 검증 기록 | 의료 AI 기반 데이터셋을 위한 검증된 라이선스 및 출처 기록: 정보 카드, JSON Schema, 의사결정 규칙 및 증거 색인(해시 전용). Cards… |
 | [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 공부 자료가 막막할 때? 노트를 단원별 학습 경로로 | 독학, 이러닝, 시험 준비를 위한 셀프 호스팅 AI 튜터 및 학습 도우미. 공부 노트, PDF, 강의 노트를 단원별 학습 경로로 변환하고… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 전용 개발자 스킬 라이브러리 | Grand Tour 스킬: /grand-tour를 위한 오케스트레이션된 개발자 라이브러리 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 편리한 AI 코딩을 위한 경량 워크플로 플러그인 | DeepSeek Harness, Claude Code, GitHub Copilot 등을 활용한 핸즈오프 AI 코딩을 위한 경량 워크플로 플러그인. |
-| [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) |  | Chat with private AI models locally, powered by Open Webui Private Ai Desk. |
-| [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) |  | Opencode Project Workbench structures opencode project tasks, files, and workflow state. |
-| [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) |  | Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository |
-| [chase1225/anythingllm-verona-document-chat](https://github.com/chase1225/anythingllm-verona-document-chat) |  | Document-grounded chat for Verona - AnythingLLM workspace integration. |
+| [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) |  | Open Webui Private Ai Desk 기반으로 로컬에서 프라이빗 AI 모델과 대화하세요. |
+| [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) |  | Opencode Project Workbench는 opencode 프로젝트 작업, 파일 및 워크플로 상태를 구조화합니다. |
+| [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) |  | Codex Cli Repo Workbench는 Codex CLI 저장소를 관리하고 검사하기 위한 로컬 워크스페이스를 제공합니다 |
+| [chase1225/anythingllm-verona-document-chat](https://github.com/chase1225/anythingllm-verona-document-chat) |  | Verona를 위한 문서 기반 채팅 - AnythingLLM 워크스페이스 통합. |
 | [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora) |  | Terminal emulator configuration with customizable themes and keybindings. |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | Mac과 Linux의 저장 공간 문제를 CLI로 해결 | mac &amp; linux 머신의 스토리지 문제를 해결하는 CLI로, fix-storage를 실행하기만 하면 됩니다. |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | Smelt를 Java 모드 jar로 지정하면 Horizon용 Rust 포팅을 시작합니다: crate, trait 및 실행 가능한 빌드. 미완성된 부분은 표시되어 있어 정확히 w… |
@@ -147,26 +147,26 @@
 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora) |  | Play Delta Force with Velmora's trainer for live tactical readouts. |
 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas) |  | Sonyvegas delivers core functionality — built with direct, technical precision. |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) |  | Varvera edition of Adobe Dreamweaver, a web development environment for coding and design. |
-| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) |  | GPU-accelerated terminal emulator configuration layer for Alacritty, managing settings and profiles. |
+| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) |  | 설정과 프로필을 관리하는 Alacritty용 GPU 가속 터미널 에뮬레이터 구성 레이어. |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 세상을 빚고 작품을 공유하며 함께 건축 | CMP30HX Mod: 세상을 형성하고, 공예를 공유하며, 함께 건설하세요 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLI로 다양한 런타임을 점검, 설치, 업데이트 | Runtime Forge CLI: DirectX, VC++, .NET, Java, Python, Go, Rust 검사, 설치, 업데이트 및 제거, |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 웹 인터페이스로 Windows 패키지를 편리하게 관리 | EasyWinget GUI: 매끄러운 Windows 패키지 관리를 위한 현대적인 웹 인터페이스 |
-| [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) |  | 面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。 |
+| [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) |  | 중국 특허 작성을 위한 전문 에디터로, 발명 및 실용신안 5서 편집과 디자인 특허 자료 정리를 지원하며, 특허 라이브러리 관리, 2D CAD, 문서 검사, AI 보조 및 Word/PDF 내보내기를 제공합니다. GPL-3.0 오픈 소스. |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 포크 없이 단일 파일로 Claude 스타일 테마 적용 | Claude에서 영감을 받은 T3 Code용 테마. 단일 파일, fork 불필요. |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 모든 GGUF의 내부를 확인하세요: 두 양자화가 갈라지는 지점을 토큰별로 파악하고 각 샘플러가 무엇을 잘라내는지 확인합니다. llama.cpp(CUDA 또는 Vulkan) 기반으로 브라우저에서 실시간 실행됩니다. |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 반복 봇 작업을 실행하는 자동화 스크립트 | Stratgies Indicator 자동화 스크립트 반복 가능한 봇 작업 실행 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabric에서 관성을 살려 연속 점프 이동을 숙달 | Bunny Hopping Mod: Fabric 기반의 모멘텀 및 움직임 숙달 |
 | [replit/datacat](https://github.com/replit/datacat) | 셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요 | 셀프 호스팅 관측 가능성: 메트릭, 로그, 추적, 대시보드 및 알림. PostgreSQL 또는 ClickHouse에 데이터를 저장합니다. OpenTelemetry 데이터를 수용합니다. |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) |  | AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM |
+| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) |  | Tekton 및 vLLM과 함께 Kubernetes / OpenShift에서 실행되는 AI Software Factory |
 | [hackclub/orchard](https://github.com/hackclub/orchard) | 배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포 | 오픈 소스, 셀프 호스팅 배포 플랫폼. 한 번의 명령으로 Git에서 자체 서버로 배포하세요. |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 워크북 워크플로를 시각적으로 한눈에 정리 | Jet Reports 스킬: NAV 및 Business Central용 시각적 통합 문서 워크플로 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | CMaNGOS Helm: Helm을 쥐고, 당신의 영역을 지휘하세요 |
-| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) |  | Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork. |
-| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) |  | Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. |
-| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) |  | After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques. |
-| [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides. |
-| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | Create and refine animations with Adobe Animate Velvona tools. |
-| [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) |  | Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping |
-| [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) |  | Node-based texturing workflow for procedural material authoring and 3D asset design. |
-| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) |  | Krita plugin that builds a structured art studio workspace for digital painters. |
-| [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) |  | Automates structured data workflows and spreadsheet task orchestration in Excel. |
+| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) |  | Illustrator Datalin Vector Design은 구조화된 아트워크를 위한 정밀한 벡터 디자인 워크플로를 제공합니다. |
+| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) |  | 구조화된 스튜디오 워크플로를 통해 Cinema 4D Sacerin 모션 장면을 구축합니다. |
+| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) |  | After Effects Ceramar Motion Design: Ceramar 기법을 중심으로 구축된 모션 디자인 프로젝트. |
+| [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | 스크린샷 중심의 시각적 가이드를 통해 Adobe Fresco Elrina의 브러시와 도구를 살펴봅니다. |
+| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | Adobe Animate Velvona 도구로 애니메이션을 제작하고 다듬습니다. |
+| [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) |  | 웹캠 및 오디오 입력으로 구동되는 실시간 퍼핏 애니메이션—Calrara는 표정 매핑을 통합합니다 |
+| [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) |  | 절차적 머티리얼 제작 및 3D 에셋 디자인을 위한 노드 기반 텍스처링 워크플로. |
+| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) |  | 디지털 페인터를 위한 구조화된 아트 스튜디오 작업 공간을 구축하는 Krita 플러그인. |
+| [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) |  | Excel에서 구조화된 데이터 워크플로 및 스프레드시트 작업 오케스트레이션을 자동화합니다. |

@@ -125,18 +125,18 @@
 | [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 界面设计太繁琐？让智能体画全状态页面 | AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit… |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | 在 Mac 同时登录多个 Claude 桌面账号 | 在 Mac 上同时运行多个 Claude Desktop 账号：独立登录、自定义图标、共享的 Claude Code 配置，以及彼此互相发消… |
-| [kobimusic/dettato](https://github.com/kobimusic/dettato) |  | KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording |
+| [kobimusic/dettato](https://github.com/kobimusic/dettato) |  | KobiMusic 的多乐器音频转 MIDI 转录器：从任何录音中提取音符、乐器音轨和鼓声 |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真与真机？运行智能体式工作流 | 用于跨仿真与真实机器人的智能体式机器人工作流的 GDM Robotics 技能。 |
-| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) |  | Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin. |
+| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) |  | 询问 Claude、ChatGPT、Claude Code、Cursor 或 VS Code 谁花费了您的 AI 预算以及该修复什么。TraxAgent 的只读 MCP 服务器和 Claude Code 插件。 |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格动画？用 Codex 一句话做出来 | 由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… |
 | [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医疗 AI 数据集的许可与来源验证记录库 | 医疗 AI 背后数据集的经过验证的许可与来源记录：信息卡、JSON Schema、决策规则和证据索引（仅哈希）。Cards… |
 | [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 备考笔记太乱？让AI帮你理出学习路径 | 用于自学、电子学习和备考的自托管 AI 导师与学习助手。将学习笔记、PDF 和讲义转化为章节学习路径并… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 借助轻量工作流插件，省心进行 AI 编程 | 一款轻量级工作流插件，用于结合 DeepSeek Harness、Claude Code、GitHub Copilot 等实现全自动 AI 编程。 |
-| [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) |  | Chat with private AI models locally, powered by Open Webui Private Ai Desk. |
-| [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) |  | Opencode Project Workbench structures opencode project tasks, files, and workflow state. |
-| [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) |  | Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository |
-| [chase1225/anythingllm-verona-document-chat](https://github.com/chase1225/anythingllm-verona-document-chat) |  | Document-grounded chat for Verona - AnythingLLM workspace integration. |
+| [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) |  | 在本地与私有 AI 模型对话，由 Open Webui Private Ai Desk 提供支持。 |
+| [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) |  | Opencode Project Workbench 组织 opencode 项目任务、文件和工作流状态。 |
+| [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) |  | Codex Cli Repo Workbench 提供用于管理和检查 Codex CLI 仓库的本地工作区 |
+| [chase1225/anythingllm-verona-document-chat](https://github.com/chase1225/anythingllm-verona-document-chat) |  | 适用于 Verona 的基于文档的对话 - AnythingLLM 工作区集成。 |
 | [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora) |  | Terminal emulator configuration with customizable themes and keybindings. |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | 存储空间出问题？一条命令直接修复 | 用于解决你的 mac &amp; linux 机器存储问题的 CLI，只需运行 fix-storage。 |
 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java模组难移植？转出Rust代码 | 将 Smelt 指向 Java mod jar，它就会启动 Horizon 的 Rust 移植：crates、traits 和可运行的构建。未完成的部分已做标记，因此你可以准确知道 w… |
@@ -147,7 +147,7 @@
 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora) |  | Play Delta Force with Velmora's trainer for live tactical readouts. |
 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas) |  | Sonyvegas delivers core functionality — built with direct, technical precision. |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) |  | Varvera edition of Adobe Dreamweaver, a web development environment for coding and design. |
-| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) |  | GPU-accelerated terminal emulator configuration layer for Alacritty, managing settings and profiles. |
+| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) |  | 适用于 Alacritty 的 GPU 加速终端模拟器配置层，用于管理设置与配置文件。 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
@@ -157,16 +157,16 @@
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) |  | AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM |
+| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) |  | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
 | [hackclub/orchard](https://github.com/hackclub/orchard) | 部署太烦？一条命令从Git发到服务器 | 开源、自托管的部署平台。只需一条命令即可从 Git 部署到您自己的服务器。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
-| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) |  | Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork. |
-| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) |  | Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. |
-| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) |  | After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques. |
-| [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides. |
-| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | Create and refine animations with Adobe Animate Velvona tools. |
-| [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) |  | Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping |
-| [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) |  | Node-based texturing workflow for procedural material authoring and 3D asset design. |
-| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) |  | Krita plugin that builds a structured art studio workspace for digital painters. |
-| [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) |  | Automates structured data workflows and spreadsheet task orchestration in Excel. |
+| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) |  | Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。 |
+| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) |  | 通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 |
+| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) |  | After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 |
+| [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | 通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。 |
+| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | 使用 Adobe Animate Velvona 工具创建和完善动画。 |
+| [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) |  | 由网络摄像头和音频输入驱动的实时人偶动画—Calrara 集成了表情映射 |
+| [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) |  | 用于程序化材质创作和 3D 资产设计的基于节点的纹理工作流。 |
+| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) |  | 为数字画家构建结构化艺术工作室工作区的 Krita 插件。 |
+| [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) |  | 在 Excel 中自动化结构化数据工作流和电子表格任务编排。 |

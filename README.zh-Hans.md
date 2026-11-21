@@ -74,7 +74,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 6 | [staryone/motlab](https://github.com/staryone/motlab)<br>给参考资料，让智能体写代码做视频 | 2026-11-16<br><sub>5.0 天</sub> | 331 | 65.5 |
 | 7 | [diego3g/craft](https://github.com/diego3g/craft)<br>界面设计太繁琐？让智能体画全状态页面 | 2026-11-15<br><sub>5.8 天</sub> | 341 | 58.9 |
 | 8 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>在 Mac 同时登录多个 Claude 桌面账号 | 2026-11-16<br><sub>5.4 天</sub> | 247 | 45.4 |
-| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording | 2026-11-16<br><sub>5.2 天</sub> | 211 | 40.2 |
+| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>KobiMusic 的多乐器音频转 MIDI 转录器：从任何录音中提取音符、乐器音轨和鼓声 | 2026-11-16<br><sub>5.2 天</sub> | 211 | 40.2 |
 | 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>打不通仿真与真机？运行智能体式工作流 | 2026-11-16<br><sub>4.8 天</sub> | 191 | 39.5 |
 
 <details>
@@ -765,7 +765,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [replit/datacat](https://github.com/replit/datacat)<br>想自己做监控？自托管仪表盘与告警 | 2026-11-17<br><sub>4.5 天</sub> | 488 | 108.3 |
-| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM | 2026-11-18<br><sub>2.7 天</sub> | 114 | 42.6 |
+| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory | 2026-11-18<br><sub>2.7 天</sub> | 114 | 42.6 |
 | 3 | [hackclub/orchard](https://github.com/hackclub/orchard)<br>部署太烦？一条命令从Git发到服务器 | 2026-11-17<br><sub>4.5 天</sub> | 115 | 25.6 |
 | 4 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直观理清并呈现工作簿工作流 | 2026-11-15<br><sub>5.8 天</sub> | 153 | 26.5 |
 | 5 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控并管理你的CMaNGOS领域 | 2026-11-15<br><sub>5.8 天</sub> | 153 | 26.4 |
@@ -929,14 +929,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork. | 2026-11-20<br><sub>1.0 天</sub> | 206 | 206.0 |
-| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. | 2026-11-21<br><sub>1.0 天</sub> | 203 | 203.0 |
-| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques. | 2026-11-21<br><sub>1.0 天</sub> | 196 | 196.0 |
-| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides. | 2026-11-19<br><sub>1.6 天</sub> | 152 | 92.9 |
-| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Create and refine animations with Adobe Animate Velvona tools. | 2026-11-19<br><sub>1.6 天</sub> | 150 | 91.3 |
-| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping | 2026-11-19<br><sub>1.6 天</sub> | 149 | 90.9 |
-| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>Node-based texturing workflow for procedural material authoring and 3D asset design. | 2026-11-18<br><sub>2.7 天</sub> | 152 | 55.8 |
-| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>Krita plugin that builds a structured art studio workspace for digital painters. | 2026-11-18<br><sub>3.0 天</sub> | 152 | 50.1 |
+| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。 | 2026-11-20<br><sub>1.0 天</sub> | 206 | 206.0 |
+| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 | 2026-11-21<br><sub>1.0 天</sub> | 203 | 203.0 |
+| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 | 2026-11-21<br><sub>1.0 天</sub> | 196 | 196.0 |
+| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。 | 2026-11-19<br><sub>1.6 天</sub> | 152 | 92.9 |
+| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>使用 Adobe Animate Velvona 工具创建和完善动画。 | 2026-11-19<br><sub>1.6 天</sub> | 150 | 91.3 |
+| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>由网络摄像头和音频输入驱动的实时人偶动画—Calrara 集成了表情映射 | 2026-11-19<br><sub>1.6 天</sub> | 149 | 90.9 |
+| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>用于程序化材质创作和 3D 资产设计的基于节点的纹理工作流。 | 2026-11-18<br><sub>2.7 天</sub> | 152 | 55.8 |
+| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>为数字画家构建结构化艺术工作室工作区的 Krita 插件。 | 2026-11-18<br><sub>3.0 天</sub> | 152 | 50.1 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -1103,7 +1103,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Automates structured data workflows and spreadsheet task orchestration in Excel. | 2026-11-18<br><sub>2.8 天</sub> | 152 | 54.6 |
+| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>在 Excel 中自动化结构化数据工作流和电子表格任务编排。 | 2026-11-18<br><sub>2.8 天</sub> | 152 | 54.6 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

@@ -74,7 +74,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 6 | [staryone/motlab](https://github.com/staryone/motlab)<br>코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 2026-11-16<br><sub>5.0일</sub> | 331 | 65.5 |
 | 7 | [diego3g/craft](https://github.com/diego3g/craft)<br>화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | 2026-11-15<br><sub>5.8일</sub> | 341 | 58.9 |
 | 8 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>Mac에서 Claude 데스크톱 여러 개를 동시에 사용 | 2026-11-16<br><sub>5.4일</sub> | 247 | 45.4 |
-| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording | 2026-11-16<br><sub>5.2일</sub> | 211 | 40.2 |
+| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>KobiMusic의 다중 악기 오디오-MIDI 트랜스크라이버: 모든 녹음에서 음표, 악기 트랙, 드럼을 전사합니다 | 2026-11-16<br><sub>5.2일</sub> | 211 | 40.2 |
 | 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로 | 2026-11-16<br><sub>4.8일</sub> | 191 | 39.5 |
 
 <details>
@@ -597,7 +597,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [carlperry-88/devlabs](https://github.com/carlperry-88/devlabs) | 2026-11-20<br><sub>1.0일</sub> | 106 | 106.0 |
-| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。 | 2026-11-17<br><sub>4.1일</sub> | 130 | 31.7 |
+| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>중국 특허 작성을 위한 전문 에디터로, 발명 및 실용신안 5서 편집과 디자인 특허 자료 정리를 지원하며, 특허 라이브러리 관리, 2D CAD, 문서 검사, AI 보조 및 Word/PDF 내보내기를 제공합니다. GPL-3.0 오픈 소스. | 2026-11-17<br><sub>4.1일</sub> | 130 | 31.7 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>포크 없이 단일 파일로 Claude 스타일 테마 적용 | 2026-11-14<br><sub>6.7일</sub> | 139 | 20.7 |
 | 4 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 2026-11-15<br><sub>5.8일</sub> | 115 | 19.7 |
 | 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>반복 봇 작업을 실행하는 자동화 스크립트 | 2026-11-15<br><sub>5.8일</sub> | 153 | 26.6 |
@@ -765,7 +765,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [replit/datacat](https://github.com/replit/datacat)<br>셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요 | 2026-11-17<br><sub>4.5일</sub> | 488 | 108.3 |
-| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM | 2026-11-18<br><sub>2.7일</sub> | 114 | 42.6 |
+| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>Tekton 및 vLLM과 함께 Kubernetes / OpenShift에서 실행되는 AI Software Factory | 2026-11-18<br><sub>2.7일</sub> | 114 | 42.6 |
 | 3 | [hackclub/orchard](https://github.com/hackclub/orchard)<br>배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포 | 2026-11-17<br><sub>4.5일</sub> | 115 | 25.6 |
 | 4 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>워크북 워크플로를 시각적으로 한눈에 정리 | 2026-11-15<br><sub>5.8일</sub> | 153 | 26.5 |
 | 5 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | 2026-11-15<br><sub>5.8일</sub> | 153 | 26.4 |
@@ -929,14 +929,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork. | 2026-11-20<br><sub>1.0일</sub> | 206 | 206.0 |
-| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. | 2026-11-21<br><sub>1.0일</sub> | 203 | 203.0 |
-| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques. | 2026-11-21<br><sub>1.0일</sub> | 196 | 196.0 |
-| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides. | 2026-11-19<br><sub>1.6일</sub> | 152 | 92.9 |
-| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Create and refine animations with Adobe Animate Velvona tools. | 2026-11-19<br><sub>1.6일</sub> | 150 | 91.3 |
-| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping | 2026-11-19<br><sub>1.6일</sub> | 149 | 90.9 |
-| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>Node-based texturing workflow for procedural material authoring and 3D asset design. | 2026-11-18<br><sub>2.7일</sub> | 152 | 55.8 |
-| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>Krita plugin that builds a structured art studio workspace for digital painters. | 2026-11-18<br><sub>3.0일</sub> | 152 | 50.1 |
+| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design은 구조화된 아트워크를 위한 정밀한 벡터 디자인 워크플로를 제공합니다. | 2026-11-20<br><sub>1.0일</sub> | 206 | 206.0 |
+| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>구조화된 스튜디오 워크플로를 통해 Cinema 4D Sacerin 모션 장면을 구축합니다. | 2026-11-21<br><sub>1.0일</sub> | 203 | 203.0 |
+| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design: Ceramar 기법을 중심으로 구축된 모션 디자인 프로젝트. | 2026-11-21<br><sub>1.0일</sub> | 196 | 196.0 |
+| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>스크린샷 중심의 시각적 가이드를 통해 Adobe Fresco Elrina의 브러시와 도구를 살펴봅니다. | 2026-11-19<br><sub>1.6일</sub> | 152 | 92.9 |
+| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Adobe Animate Velvona 도구로 애니메이션을 제작하고 다듬습니다. | 2026-11-19<br><sub>1.6일</sub> | 150 | 91.3 |
+| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>웹캠 및 오디오 입력으로 구동되는 실시간 퍼핏 애니메이션—Calrara는 표정 매핑을 통합합니다 | 2026-11-19<br><sub>1.6일</sub> | 149 | 90.9 |
+| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>절차적 머티리얼 제작 및 3D 에셋 디자인을 위한 노드 기반 텍스처링 워크플로. | 2026-11-18<br><sub>2.7일</sub> | 152 | 55.8 |
+| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>디지털 페인터를 위한 구조화된 아트 스튜디오 작업 공간을 구축하는 Krita 플러그인. | 2026-11-18<br><sub>3.0일</sub> | 152 | 50.1 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -1103,7 +1103,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Automates structured data workflows and spreadsheet task orchestration in Excel. | 2026-11-18<br><sub>2.8일</sub> | 152 | 54.6 |
+| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Excel에서 구조화된 데이터 워크플로 및 스프레드시트 작업 오케스트레이션을 자동화합니다. | 2026-11-18<br><sub>2.8일</sub> | 152 | 54.6 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

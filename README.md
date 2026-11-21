@@ -597,7 +597,7 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [carlperry-88/devlabs](https://github.com/carlperry-88/devlabs) | 2026-11-20<br><sub>1.0 d</sub> | 106 | 106.0 |
-| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。 | 2026-11-17<br><sub>4.1 d</sub> | 130 | 31.7 |
+| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>A professional editor for Chinese patent drafting, supporting the editing of invention and utility model documents and the organization of design patent materials, featuring patent library management, 2D CAD, document checking, AI assistance, and Word/PDF export. Open source under GPL-3.0. | 2026-11-17<br><sub>4.1 d</sub> | 130 | 31.7 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>Get a Claude-inspired theme for T3 Code in one file | 2026-11-14<br><sub>6.7 d</sub> | 139 | 20.7 |
 | 4 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>Browser tool for inspecting GGUF tokens and samplers | 2026-11-15<br><sub>5.8 d</sub> | 115 | 19.7 |
 | 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Automation script for repeatable bot task runs | 2026-11-15<br><sub>5.8 d</sub> | 153 | 26.6 |
