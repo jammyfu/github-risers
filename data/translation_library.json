@@ -6,10 +6,15 @@
       "0d774d108394": {
         "src": "Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides.",
         "zh-Hans": "通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "透過包含大量截圖的視覺指南探索 Adobe Fresco Elrina 中的筆刷和工具。",
         "ja": "スクリーンショット満載のビジュアルガイドで Adobe Fresco Elrina のブラシとツールを探索します。",
-        "ko": "스크린샷 중심의 시각적 가이드를 통해 Adobe Fresco Elrina의 브러시와 도구를 살펴봅니다."
+        "ko": "스크린샷 중심의 시각적 가이드를 통해 Adobe Fresco Elrina의 브러시와 도구를 살펴봅니다.",
+        "hook": {
+          "en": "Visual guides for Adobe Fresco Elrina brushes and tools",
+          "ja": "スクリーンショット付きAdobe Frescoツールガイド",
+          "ko": "스크린샷 중심 Adobe Fresco 브러시 및 도구 가이드"
+        }
       }
     },
     "21041979/rufus-usb-formatter": {
@@ -60,6 +65,20 @@
           "zh-Hant": "用於 /grand-tour 的開發者技能庫",
           "ja": "/grand-tour 用の開発者向けスキルライブラリ",
           "ko": "/grand-tour 전용 개발자 스킬 라이브러리"
+        }
+      }
+    },
+    "2411500034-indra/delta-force-trainer-velmora": {
+      "5b2af3b8e99a": {
+        "src": "Play Delta Force with Velmora's trainer for live tactical readouts.",
+        "zh-Hans": "配合 Velmora 的修改器（trainer）畅玩 Delta Force，获取实时战术读数。",
+        "seen": "2026-11-22",
+        "zh-Hant": "配合 Velmora 的修改器（trainer）暢玩 Delta Force，獲取即時戰術數據。",
+        "ja": "リアルタイムの戦術情報を取得できるVelmoraのトレーナーでDelta Forceをプレイ。",
+        "ko": "실시간 전술 판독값을 제공하는 Velmora의 트레이너와 함께 Delta Force를 플레이하세요.",
+        "hook": {
+          "ja": "リアルタイム戦術数値を表示するDelta Force用ツール",
+          "ko": "실시간 전술 정보를 표시하는 Delta Force 트레이너"
         }
       }
     },
@@ -236,10 +255,17 @@
       "ef937574a4f6": {
         "src": "Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping",
         "zh-Hans": "由网络摄像头和音频输入驱动的实时人偶动画—Calrara 集成了表情映射",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "由網路攝影機與音訊輸入驅動的即時人偶動畫—Calrara 整合了表情映射",
         "ja": "ウェブカメラと音声入力によって駆動されるリアルタイムのパペットアニメーション—Calraraは表情マッピングを統合します",
-        "ko": "웹캠 및 오디오 입력으로 구동되는 실시간 퍼핏 애니메이션—Calrara는 표정 매핑을 통합합니다"
+        "ko": "웹캠 및 오디오 입력으로 구동되는 실시간 퍼핏 애니메이션—Calrara는 표정 매핑을 통합합니다",
+        "hook": {
+          "en": "Real-time puppet animation with webcam and audio input",
+          "zh-Hans": "由摄像头和音频驱动的实时人偶动画",
+          "zh-Hant": "由攝影機與音訊驅動的即時偶動畫",
+          "ja": "カメラと音声によるリアルタイムパペットアニメーション",
+          "ko": "웹캠과 오디오 기반 실시간 인형 애니메이션"
+        }
       }
     },
     "ApothecaryDesign/ai--manus": {
@@ -2107,6 +2133,21 @@
         }
       }
     },
+    "MinosoaRafalimanana/adobe-dreamweaver-varvera": {
+      "c7cc7e40ad3d": {
+        "src": "Varvera edition of Adobe Dreamweaver, a web development environment for coding and design.",
+        "zh-Hans": "Adobe Dreamweaver 的 Varvera 版本，用于编码和设计的 Web 开发环境。",
+        "seen": "2026-11-22",
+        "zh-Hant": "Adobe Dreamweaver 的 Varvera 版本，用於編碼和設計的 Web 開發環境。",
+        "ja": "コーディングとデザインのためのWeb開発環境である Adobe Dreamweaver の Varvera エディション。",
+        "ko": "코딩 및 디자인을 위한 웹 개발 환경인 Adobe Dreamweaver의 Varvera 에디션.",
+        "hook": {
+          "en": "Adobe Dreamweaver web development build, Varvera edition",
+          "ja": "Web開発環境Adobe DreamweaverのVarvera版",
+          "ko": "웹 개발 환경 Adobe Dreamweaver의 Varvera 에디션"
+        }
+      }
+    },
     "Moh4696/cinematic-skill": {
       "2e5144ada144": {
         "src": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, C…",
@@ -2841,10 +2882,15 @@
       "944bb3e820f3": {
         "src": "Create and refine animations with Adobe Animate Velvona tools.",
         "zh-Hans": "使用 Adobe Animate Velvona 工具创建和完善动画。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "使用 Adobe Animate Velvona 工具建立和完善動畫。",
         "ja": "Adobe Animate Velvona ツールを使用してアニメーションを作成および調整します。",
-        "ko": "Adobe Animate Velvona 도구로 애니메이션을 제작하고 다듬습니다."
+        "ko": "Adobe Animate Velvona 도구로 애니메이션을 제작하고 다듬습니다.",
+        "hook": {
+          "en": "Animation creation and refinement tools for Adobe Animate",
+          "ja": "Adobe Animate向けアニメーション作成・調整ツール",
+          "ko": "Adobe Animate 애니메이션 제작 및 편집 도구"
+        }
       }
     },
     "SalmeronDevZone/azure-lab": {
@@ -4059,10 +4105,17 @@
       "b3f7ae9a65e0": {
         "src": "Automates structured data workflows and spreadsheet task orchestration in Excel.",
         "zh-Hans": "在 Excel 中自动化结构化数据工作流和电子表格任务编排。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "在 Excel 中自動化結構化資料工作流程與試算表任務編排。",
         "ja": "Excelにおける構造化データワークフローとスプレッドシートタスクのオーケストレーションを自動化します。",
-        "ko": "Excel에서 구조화된 데이터 워크플로 및 스프레드시트 작업 오케스트레이션을 자동화합니다."
+        "ko": "Excel에서 구조화된 데이터 워크플로 및 스프레드시트 작업 오케스트레이션을 자동화합니다.",
+        "hook": {
+          "en": "Automates structured data workflows in Excel",
+          "zh-Hans": "在 Excel 中自动化结构化数据工作流",
+          "zh-Hant": "在 Excel 中自動化結構化資料工作流程",
+          "ja": "Excel で構造化データワークフローを自動化",
+          "ko": "Excel에서 구조화된 데이터 워크플로 자동화"
+        }
       }
     },
     "avenuemistravage47/ai--manus": {
@@ -4235,10 +4288,15 @@
       "135224af43ac": {
         "src": "Builds Cinema 4D Sacerin motion scenes through a structured studio workflow.",
         "zh-Hans": "通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "透過結構化的工作室工作流程構建 Cinema 4D Sacerin 動態場景。",
         "ja": "構造化されたスタジオワークフローを通じて Cinema 4D Sacerin のモーションシーンを構築します。",
-        "ko": "구조화된 스튜디오 워크플로를 통해 Cinema 4D Sacerin 모션 장면을 구축합니다."
+        "ko": "구조화된 스튜디오 워크플로를 통해 Cinema 4D Sacerin 모션 장면을 구축합니다.",
+        "hook": {
+          "en": "Cinema 4D motion scene builder with a studio workflow",
+          "ja": "Cinema 4Dスタジオ動態シーン構築ワークフロー",
+          "ko": "Cinema 4D 스튜디오 모션 씬 구축 워크플로"
+        }
       }
     },
     "blendhokagedestroy/ai--manus": {
@@ -4474,10 +4532,17 @@
       "afca0035d6b3": {
         "src": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
         "zh-Hans": "询问 Claude、ChatGPT、Claude Code、Cursor 或 VS Code 谁花费了您的 AI 预算以及该修复什么。TraxAgent 的只读 MCP 服务器和 Claude Code 插件。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "詢問 Claude、ChatGPT、Claude Code、Cursor 或 VS Code 誰花費了您的 AI 預算以及該修復什麼。TraxAgent 的唯讀 MCP 伺服器和 Claude Code 外掛。",
         "ja": "Claude、ChatGPT、Claude Code、Cursor、または VS Code に、AI 予算を誰が消費したのか、何を修正すべきかを尋ねます。TraxAgent の読み取り専用 MCP サーバーおよび Claude Code プラグイン。",
-        "ko": "Claude, ChatGPT, Claude Code, Cursor 또는 VS Code에 누가 AI 예산을 썼는지, 무엇을 수정해야 하는지 물어보세요. TraxAgent의 읽기 전용 MCP 서버 및 Claude Code 플러그인."
+        "ko": "Claude, ChatGPT, Claude Code, Cursor 또는 VS Code에 누가 AI 예산을 썼는지, 무엇을 수정해야 하는지 물어보세요. TraxAgent의 읽기 전용 MCP 서버 및 Claude Code 플러그인.",
+        "hook": {
+          "en": "Find out who spent your AI budget and what to fix",
+          "zh-Hans": "查出谁花光了AI预算并获知修复方案",
+          "zh-Hant": "查出誰花光了AI預算並獲知修復方案",
+          "ja": "誰がAI予算を使い切ったかと対策を調べる",
+          "ko": "누가 AI 예산을 썼는지와 대책을 바로 확인"
+        }
       }
     },
     "ccch1mneyyy/dsh-go": {
@@ -4526,20 +4591,34 @@
       "8da80fc179b8": {
         "src": "Node-based texturing workflow for procedural material authoring and 3D asset design.",
         "zh-Hans": "用于程序化材质创作和 3D 资产设计的基于节点的纹理工作流。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "用於程序化材質製作與 3D 資產設計的基於節點的紋理工作流程。",
         "ja": "プロシージャルマテリアルオーサリングと3Dアセットデザインのためのノードベースのテクスチャリングワークフロー。",
-        "ko": "절차적 머티리얼 제작 및 3D 에셋 디자인을 위한 노드 기반 텍스처링 워크플로."
+        "ko": "절차적 머티리얼 제작 및 3D 에셋 디자인을 위한 노드 기반 텍스처링 워크플로.",
+        "hook": {
+          "en": "Node-based texturing workflow for procedural 3D materials",
+          "zh-Hans": "程序化材质创作的节点式贴图工作流",
+          "zh-Hant": "程序化材質創作的節點式貼圖工作流程",
+          "ja": "プロシージャル素材のノード型テクスチャワークフロー",
+          "ko": "절차적 머티리얼을 위한 노드 기반 텍스처 워크플로"
+        }
       }
     },
     "chase1225/anythingllm-verona-document-chat": {
       "01f9aa1cf805": {
         "src": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
         "zh-Hans": "适用于 Verona 的基于文档的对话 - AnythingLLM 工作区集成。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "適用於 Verona 的基於文件的對話 - AnythingLLM 工作區整合。",
         "ja": "Verona 向けのドキュメントに基づくチャット - AnythingLLM ワークスペース統合。",
-        "ko": "Verona를 위한 문서 기반 채팅 - AnythingLLM 워크스페이스 통합."
+        "ko": "Verona를 위한 문서 기반 채팅 - AnythingLLM 워크스페이스 통합.",
+        "hook": {
+          "en": "AnythingLLM workspace document-grounded chat for Verona",
+          "zh-Hans": "AnythingLLM工作区Verona文档对话集成",
+          "zh-Hant": "AnythingLLM工作區Verona文件對話整合",
+          "ja": "Verona向けAnythingLLM文書対話の連携機能",
+          "ko": "Verona용 AnythingLLM 문서 기반 대화 연동"
+        }
       }
     },
     "chiban-org/chiban-oss": {
@@ -4563,11 +4642,18 @@
       "06f500f90823": {
         "src": "面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。",
         "zh-Hans": "面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "面向中國專利撰寫的專業編輯器，支援發明、實用新型五書編輯和外觀設計專利材料整理，提供專利庫管理、二維 CAD、文件檢查、AI 輔助及 Word/PDF 匯出。GPL-3.0 開源。",
         "ja": "中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。",
         "ko": "중국 특허 작성을 위한 전문 에디터로, 발명 및 실용신안 5서 편집과 디자인 특허 자료 정리를 지원하며, 특허 라이브러리 관리, 2D CAD, 문서 검사, AI 보조 및 Word/PDF 내보내기를 제공합니다. GPL-3.0 오픈 소스.",
-        "en": "A professional editor for Chinese patent drafting, supporting the editing of invention and utility model documents and the organization of design patent materials, featuring patent library management, 2D CAD, document checking, AI assistance, and Word/PDF export. Open source under GPL-3.0."
+        "en": "A professional editor for Chinese patent drafting, supporting the editing of invention and utility model documents and the organization of design patent materials, featuring patent library management, 2D CAD, document checking, AI assistance, and Word/PDF export. Open source under GPL-3.0.",
+        "hook": {
+          "en": "Draft and review Chinese patent filings with built-in AI",
+          "zh-Hans": "用专业编辑器撰写并检查中国专利文件",
+          "zh-Hant": "用專業編輯器撰寫並檢查中國專利文件",
+          "ja": "中国特許書類の作成や文書チェックを行う専用ツール",
+          "ko": "중국 특허 문서를 전문적으로 작성하고 검토하는 도구"
+        }
       }
     },
     "claudememory/claude-memory": {
@@ -4620,6 +4706,19 @@
           "ja": "デスクトップで全機能を使って音声を編集する",
           "ko": "데스크톱에서 모든 기능으로 오디오를 편집하기"
         }
+      }
+    },
+    "danielwh2/sprite-stacking": {
+      "f4b7b1ba9d10": {
+        "src": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+        "hook": {
+          "en": "Turn four pixel views into 3D sprites you can spin",
+          "zh-Hans": "四张像素画直接变能旋转的伪3D",
+          "zh-Hant": "四張像素畫直接變能旋轉的偽3D",
+          "ja": "4枚のドット絵を回せる疑似3Dにする",
+          "ko": "도트 그림 네 장을 회전하는 의사 3D로 변환"
+        },
+        "seen": "2026-11-22"
       }
     },
     "darkareaminaret/MetaTrader-5-Bot": {
@@ -5315,10 +5414,17 @@
       "f97727bd894f": {
         "src": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
         "zh-Hans": "在本地与私有 AI 模型对话，由 Open Webui Private Ai Desk 提供支持。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "在本機與私有 AI 模型對話，由 Open Webui Private Ai Desk 提供支援。",
         "ja": "ローカルでプライベート AI モデルとチャット。Open Webui Private Ai Desk を搭載。",
-        "ko": "Open Webui Private Ai Desk 기반으로 로컬에서 프라이빗 AI 모델과 대화하세요."
+        "ko": "Open Webui Private Ai Desk 기반으로 로컬에서 프라이빗 AI 모델과 대화하세요.",
+        "hook": {
+          "en": "Open WebUI Private Ai Desk local private AI chat",
+          "zh-Hans": "Open WebUI本地私有AI模型对话桌面端",
+          "zh-Hant": "Open WebUI本機私有AI模型對話桌面端",
+          "ja": "Open WebUIによるローカル私有AIモデル対話",
+          "ko": "Open WebUI 로컬 프라이빗 AI 모델 대화"
+        }
       }
     },
     "haydenschmitty/floorplan": {
@@ -5397,10 +5503,15 @@
       "3c49fdab0ff7": {
         "src": "After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques.",
         "zh-Hans": "After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "After Effects Ceramar Motion Design：圍繞 Ceramar 技術構建的動態設計專案。",
         "ja": "After Effects Ceramar Motion Design: Ceramar テクニックを中心に構築されたモーションデザインプロジェクト。",
-        "ko": "After Effects Ceramar Motion Design: Ceramar 기법을 중심으로 구축된 모션 디자인 프로젝트."
+        "ko": "After Effects Ceramar Motion Design: Ceramar 기법을 중심으로 구축된 모션 디자인 프로젝트.",
+        "hook": {
+          "en": "After Effects motion design project using Ceramar methods",
+          "ja": "Ceramar手法を用いたAfter Effectsモーション設計",
+          "ko": "Ceramar 기법 기반 After Effects 모션 디자인"
+        }
       }
     },
     "hitkeeen/blender-ai-mcp-addon": {
@@ -5499,10 +5610,15 @@
       "c997c628d927": {
         "src": "GPU-accelerated terminal emulator configuration layer for Alacritty, managing settings and profiles.",
         "zh-Hans": "适用于 Alacritty 的 GPU 加速终端模拟器配置层，用于管理设置与配置文件。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "適用於 Alacritty 的 GPU 加速終端機模擬器設定層，用於管理設定與設定檔。",
         "ja": "設定とプロファイルを管理する、Alacritty 向けの GPU アクセラレート対応ターミナルエミュレータ設定レイヤー。",
-        "ko": "설정과 프로필을 관리하는 Alacritty용 GPU 가속 터미널 에뮬레이터 구성 레이어."
+        "ko": "설정과 프로필을 관리하는 Alacritty용 GPU 가속 터미널 에뮬레이터 구성 레이어.",
+        "hook": {
+          "en": "Configuration layer for managing Alacritty terminal profiles",
+          "ja": "設定やプロファイルを管理するAlacritty用ターミナル設定層",
+          "ko": "설정과 프로필을 관리하는 Alacritty 터미널 구성 레이어"
+        }
       }
     },
     "imsai-sh/fish-pocket": {
@@ -5793,10 +5909,17 @@
       "8757ab4a7a0e": {
         "src": "KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording",
         "zh-Hans": "KobiMusic 的多乐器音频转 MIDI 转录器：从任何录音中提取音符、乐器音轨和鼓声",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "KobiMusic 的多樂器音訊轉 MIDI 轉錄器：從任何錄音中擷取音符、樂器音軌和鼓聲",
         "ja": "KobiMusic のマルチインストゥルメント対応オーディオ-MIDI トランスクライバー：あらゆる録音から音符、楽器トラック、ドラムを書き起こし",
-        "ko": "KobiMusic의 다중 악기 오디오-MIDI 트랜스크라이버: 모든 녹음에서 음표, 악기 트랙, 드럼을 전사합니다"
+        "ko": "KobiMusic의 다중 악기 오디오-MIDI 트랜스크라이버: 모든 녹음에서 음표, 악기 트랙, 드럼을 전사합니다",
+        "hook": {
+          "en": "Turn any audio into notes, instrument tracks and drums",
+          "zh-Hans": "录音直接转各乐器音轨、音符与鼓点",
+          "zh-Hant": "錄音直接轉各樂器音軌、音符與鼓點",
+          "ja": "録音から音符や楽器トラック、ドラムを書き出す",
+          "ko": "녹음 파일에서 악기 트랙과 드럼, 음표 추출"
+        }
       }
     },
     "kociden/sakurai-skill": {
@@ -6013,6 +6136,40 @@
         }
       }
     },
+    "luciskynet-cloud/sonyvegas": {
+      "78493000c585": {
+        "src": "Sonyvegas delivers core functionality — built with direct, technical precision.",
+        "zh-Hans": "Sonyvegas 提供核心功能——以直接、精准的技术构建。",
+        "seen": "2026-11-22",
+        "zh-Hant": "Sonyvegas 提供核心功能——以直接、精準的技術構建。",
+        "ja": "Sonyvegas はコア機能を提供します — 直接的かつ技術的な精度で構築されています。",
+        "ko": "Sonyvegas는 핵심 기능을 제공합니다 — 직접적이고 기술적인 정밀함으로 구축되었습니다.",
+        "hook": {
+          "en": "Sonyvegas build providing core functionality",
+          "zh-Hans": "提供核心功能的Sonyvegas构建版本",
+          "zh-Hant": "提供核心功能的Sonyvegas構建版本",
+          "ja": "基本機能を提供するSonyvegasビルド",
+          "ko": "핵심 기능을 제공하는 Sonyvegas 빌드"
+        }
+      }
+    },
+    "luisgonzaleznf/renfe-cli": {
+      "e2658e1e6e3e": {
+        "src": "JSON-first CLI for Renfe train timetables and fares. No account needed.",
+        "zh-Hans": "用于查询 Renfe 火车时刻表和票价的 JSON 优先 CLI。无需账户。",
+        "seen": "2026-11-22",
+        "zh-Hant": "用於查詢 Renfe 火車時刻表和票價的 JSON 優先 CLI。無需帳號。",
+        "ja": "Renfe列車の時刻表と運賃のためのJSONファーストなCLI。アカウント不要。",
+        "ko": "Renfe 열차 시간표 및 요금을 위한 JSON 우선 CLI. 계정이 필요하지 않습니다.",
+        "hook": {
+          "en": "Check Renfe train times and fares in JSON without an account",
+          "zh-Hans": "无需登录直接查询西班牙国铁时刻与票价",
+          "zh-Hant": "無需登入直接查詢西班牙國鐵時刻與票價",
+          "ja": "アカウント不要でRenfeの運行時間や運賃を確認",
+          "ko": "계정 없이 Renfe 열차 시간과 운임을 조회하는 CLI"
+        }
+      }
+    },
     "lynote-ai/ai-tutor": {
       "68e5872ecd9e": {
         "src": "Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path a…",
@@ -6079,14 +6236,38 @@
         }
       }
     },
+    "mariaquinonesm-dot/wezterm-cerroora": {
+      "0a488c7cd539": {
+        "src": "Terminal emulator configuration with customizable themes and keybindings.",
+        "zh-Hans": "具有可自定义主题和按键绑定的终端模拟器配置。",
+        "seen": "2026-11-22",
+        "zh-Hant": "具有可自訂主題和按鍵綁定的終端機模擬器設定。",
+        "ja": "カスタマイズ可能なテーマとキーバインドを備えたターミナルエミュレータ設定。",
+        "ko": "맞춤 설정 가능한 테마와 키 바인딩을 갖춘 터미널 에뮬레이터 설정.",
+        "hook": {
+          "en": "Customize your terminal with preset themes and keybindings",
+          "zh-Hans": "自定义你的终端主题与快捷键配置",
+          "zh-Hant": "自訂你的終端機主題與快捷鍵設定",
+          "ja": "ターミナルの配色やキー設定を自在に整える",
+          "ko": "터미널 테마와 단축키 설정을 자유롭게 맞춤"
+        }
+      }
+    },
     "marketzy/codex-cli-repo-workbench": {
       "3321513656e3": {
         "src": "Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository",
         "zh-Hans": "Codex Cli Repo Workbench 提供用于管理和检查 Codex CLI 仓库的本地工作区",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "Codex Cli Repo Workbench 提供用於管理和檢查 Codex CLI 儲存庫的本機工作區",
         "ja": "Codex Cli Repo Workbench は Codex CLI リポジトリを管理および検査するためのローカルワークスペースを提供します",
-        "ko": "Codex Cli Repo Workbench는 Codex CLI 저장소를 관리하고 검사하기 위한 로컬 워크스페이스를 제공합니다"
+        "ko": "Codex Cli Repo Workbench는 Codex CLI 저장소를 관리하고 검사하기 위한 로컬 워크스페이스를 제공합니다",
+        "hook": {
+          "en": "Local workspace for Codex CLI repository inspection",
+          "zh-Hans": "Codex CLI仓库管理与检查本地工作区",
+          "zh-Hant": "Codex CLI儲存庫管理與檢查本機工作區",
+          "ja": "Codex CLIリポジトリ管理と検査のローカル作業場",
+          "ko": "Codex CLI 저장소 관리 및 점검용 로컬 작업대"
+        }
       }
     },
     "mdexa-ai/mdexa-ai-native-database": {
@@ -6636,10 +6817,15 @@
       "85034e009b28": {
         "src": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
         "zh-Hans": "在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "在 Kubernetes / OpenShift 上搭配 Tekton 和 vLLM 運行的 AI Software Factory",
         "ja": "Tekton および vLLM とともに Kubernetes / OpenShift 上で稼働する AI Software Factory",
-        "ko": "Tekton 및 vLLM과 함께 Kubernetes / OpenShift에서 실행되는 AI Software Factory"
+        "ko": "Tekton 및 vLLM과 함께 Kubernetes / OpenShift에서 실행되는 AI Software Factory",
+        "hook": {
+          "en": "Need an AI software factory? Run it on Kubernetes",
+          "ja": "KubernetesでAIソフトウェア工場を動かす",
+          "ko": "Kubernetes에서 AI 소프트웨어 팩토리 실행"
+        }
       }
     },
     "pktq/lasik": {
@@ -6753,10 +6939,15 @@
       "3b87abb2f910": {
         "src": "Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork.",
         "zh-Hans": "Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "Illustrator Datalin Vector Design 為結構化藝術品提供精確的向量設計工作流程。",
         "ja": "Illustrator Datalin Vector Design は、構造化されたアートワークに高精度なベクターデザインワークフローを提供します。",
-        "ko": "Illustrator Datalin Vector Design은 구조화된 아트워크를 위한 정밀한 벡터 디자인 워크플로를 제공합니다."
+        "ko": "Illustrator Datalin Vector Design은 구조화된 아트워크를 위한 정밀한 벡터 디자인 워크플로를 제공합니다.",
+        "hook": {
+          "en": "Illustrator vector design workflow for structured artwork",
+          "ja": "Illustrator向けベクター設計ワークフロー",
+          "ko": "Illustrator 구조화 벡터 디자인 워크플로"
+        }
       }
     },
     "rddmwmddr/android-ad-cleaner": {
@@ -7350,14 +7541,34 @@
         }
       }
     },
+    "takidd767-ship-it/rust-external-trainer-sanolan": {
+      "b0faf9549ca9": {
+        "src": "A focused Rust external trainer delivering practical in-game aid and readable data panels.",
+        "zh-Hans": "一款专注的 Rust 外部修改器（trainer），提供实用的游戏内辅助和清晰易读的数据面板。",
+        "seen": "2026-11-22",
+        "zh-Hant": "一款專注的 Rust 外部修改器（trainer），提供實用的遊戲內輔助和清晰易讀的資料面板。",
+        "ja": "実用的なゲーム内アシストと読みやすいデータパネルを提供する、特化型のRust外部トレーナー。",
+        "ko": "실용적인 인게임 지원과 가독성 높은 데이터 패널을 제공하는 집중형 Rust 외부 트레이너.",
+        "hook": {
+          "en": "External trainer for Rust with in-game aid and data panels",
+          "ja": "ゲーム内補助とデータパネルを備えたRust用トレーナー",
+          "ko": "게임 내 보조와 데이터 패널을 제공하는 Rust 트레이너"
+        }
+      }
+    },
     "tarouquelaprogramacao-max/krita-elvona-art-studio": {
       "03379f72763d": {
         "src": "Krita plugin that builds a structured art studio workspace for digital painters.",
         "zh-Hans": "为数字画家构建结构化艺术工作室工作区的 Krita 插件。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "為數位畫家構建結構化藝術工作室工作區的 Krita 外掛。",
         "ja": "デジタルペインター向けに構造化されたアートスタジオワークスペースを構築するKritaプラグイン。",
-        "ko": "디지털 페인터를 위한 구조화된 아트 스튜디오 작업 공간을 구축하는 Krita 플러그인."
+        "ko": "디지털 페인터를 위한 구조화된 아트 스튜디오 작업 공간을 구축하는 Krita 플러그인.",
+        "hook": {
+          "en": "Krita plugin that builds art studio workspaces",
+          "ja": "デジタル画家向け作業環境の Krita プラグイン",
+          "ko": "디지털 화가를 위한 작업 공간 Krita 플러그인"
+        }
       }
     },
     "tavern-labs-ai/persona-ai-sdk": {
@@ -7604,6 +7815,23 @@
         }
       }
     },
+    "vulnix0x4/a-better-antivirus": {
+      "ef21578d038b": {
+        "src": "Catches infostealers in the act on Windows: plants fake passwords, wallets and app data that only malware would read, and freezes whatever touches them.",
+        "zh-Hans": "在 Windows 上当场抓获信息窃取程序：植入只有恶意软件才会读取的虚假密码、钱包和应用数据，并冻结任何触碰它们的事物。",
+        "seen": "2026-11-22",
+        "zh-Hant": "在 Windows 上當場抓獲資訊竊取程式：植入只有惡意軟體才會讀取的虛假密碼、錢包和應用程式資料，並凍結任何觸碰它們的事物。",
+        "ja": "Windows上で情報窃取マルウェアを現行犯で捕捉：マルウェアしか読み取らない偽のパスワード、ウォレット、アプリデータを配置し、それらに触れたものをすべて凍結します。",
+        "ko": "Windows에서 정보 탈취 악성코드를 현행범으로 포착: 악성코드만 읽을 가짜 비밀번호, 지갑, 앱 데이터를 심어놓고, 이에 접근하는 모든 것을 동결합니다.",
+        "hook": {
+          "en": "Lure Windows infostealers with fake data and freeze them",
+          "zh-Hans": "用假数据诱捕窃密木马并当场冻结",
+          "zh-Hant": "用假資料誘捕竊密木馬並當場凍結",
+          "ja": "偽データで情報窃取者を誘い出して停止",
+          "ko": "가짜 데이터로 탈취 프로그램을 유인해 동결"
+        }
+      }
+    },
     "wanghao-SunSky/cs329z-chinese": {
       "74e5fab684ab": {
         "src": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
@@ -7691,10 +7919,17 @@
       "ab5d94a4fa4d": {
         "src": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
         "zh-Hans": "Opencode Project Workbench 组织 opencode 项目任务、文件和工作流状态。",
-        "seen": "2026-11-21",
+        "seen": "2026-11-22",
         "zh-Hant": "Opencode Project Workbench 組織 opencode 專案任務、檔案和工作流程狀態。",
         "ja": "Opencode Project Workbench は、opencode プロジェクトのタスク、ファイル、およびワークフローの状態を構造化します。",
-        "ko": "Opencode Project Workbench는 opencode 프로젝트 작업, 파일 및 워크플로 상태를 구조화합니다."
+        "ko": "Opencode Project Workbench는 opencode 프로젝트 작업, 파일 및 워크플로 상태를 구조화합니다.",
+        "hook": {
+          "en": "Opencode project task, file, and workflow workbench",
+          "zh-Hans": "Opencode项目任务文件与工作流工作台",
+          "zh-Hant": "Opencode專案任務檔案與工作流程工作台",
+          "ja": "Opencodeのタスクやファイル、ワークフロー作業台",
+          "ko": "Opencode 프로젝트 작업, 파일, 워크플로 작업대"
+        }
       }
     },
     "xanthichi/mcd-meal-mate": {

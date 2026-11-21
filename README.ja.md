@@ -67,14 +67,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust移行が不安？動作を確認しつつ段階移行 | 2026-11-16<br><sub>5.1 日</sub> | 7,137 | 1,394.9 |
-| 2 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. | 2026-11-20<br><sub>1.0 日</sub> | 306 | 300.6 |
+| 2 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>4枚のドット絵を回せる疑似3Dにする | 2026-11-20<br><sub>1.0 日</sub> | 306 | 300.6 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>ローカルLLMが遅い？エージェントスキルで高速化 | 2026-11-16<br><sub>4.8 日</sub> | 1,426 | 294.3 |
 | 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AIエージェントに32の無料マーケティングスキルを | 2026-11-16<br><sub>5.0 日</sub> | 763 | 152.8 |
 | 5 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>トークンが足りない？LLMの往復と消費枠を削減 | 2026-11-19<br><sub>2.4 日</sub> | 238 | 98.5 |
 | 6 | [staryone/motlab](https://github.com/staryone/motlab)<br>コードで動画を作りたい？素材からエージェントが生成 | 2026-11-16<br><sub>5.0 日</sub> | 331 | 65.5 |
 | 7 | [diego3g/craft](https://github.com/diego3g/craft)<br>画面設計が面倒？エージェントスキルで全状態をデザイン | 2026-11-15<br><sub>5.8 日</sub> | 341 | 58.9 |
 | 8 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>Macで複数のClaude デスクトップを同時に使う | 2026-11-16<br><sub>5.4 日</sub> | 247 | 45.4 |
-| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>KobiMusic のマルチインストゥルメント対応オーディオ-MIDI トランスクライバー：あらゆる録音から音符、楽器トラック、ドラムを書き起こし | 2026-11-16<br><sub>5.2 日</sub> | 211 | 40.2 |
+| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>録音から音符や楽器トラック、ドラムを書き出す | 2026-11-16<br><sub>5.2 日</sub> | 211 | 40.2 |
 | 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>実機連携に悩む？エージェント型ロボットワークフロー | 2026-11-16<br><sub>4.8 日</sub> | 191 | 39.5 |
 
 <details>
@@ -272,16 +272,16 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora)<br>Terminal emulator configuration with customizable themes and keybindings. | 2026-11-20<br><sub>1.6 日</sub> | 149 | 92.4 |
+| 1 | [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora)<br>ターミナルの配色やキー設定を自在に整える | 2026-11-20<br><sub>1.6 日</sub> | 149 | 92.4 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>MacとLinuxのストレージ問題をCLIで解決 | 2026-11-14<br><sub>6.9 日</sub> | 209 | 30.2 |
 | 3 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Java ModのRust移植が大変？jarから自動変換 | 2026-11-16<br><sub>5.0 日</sub> | 142 | 28.6 |
-| 4 | [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus)<br>Catches infostealers in the act on Windows: plants fake passwords, wallets and app data that only malware would read, and freezes whatever touches them. | 2026-11-17<br><sub>4.5 日</sub> | 111 | 24.7 |
+| 4 | [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus)<br>偽データで情報窃取者を誘い出して停止 | 2026-11-17<br><sub>4.5 日</sub> | 111 | 24.7 |
 | 5 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>計画やコードレビューで注釈を付け課題を解決 | 2026-11-15<br><sub>6.3 日</sub> | 123 | 19.6 |
-| 6 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli)<br>JSON-first CLI for Renfe train timetables and fares. No account needed. | 2026-11-15<br><sub>5.9 日</sub> | 105 | 17.9 |
-| 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>A focused Rust external trainer delivering practical in-game aid and readable data panels. | 2026-11-21<br><sub>1.0 日</sub> | 189 | 189.0 |
-| 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>Play Delta Force with Velmora's trainer for live tactical readouts. | 2026-11-20<br><sub>1.0 日</sub> | 151 | 151.0 |
-| 9 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas)<br>Sonyvegas delivers core functionality — built with direct, technical precision. | 2026-11-20<br><sub>1.1 日</sub> | 151 | 142.7 |
-| 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Varvera edition of Adobe Dreamweaver, a web development environment for coding and design. | 2026-11-18<br><sub>2.8 日</sub> | 152 | 53.7 |
+| 6 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli)<br>アカウント不要でRenfeの運行時間や運賃を確認 | 2026-11-15<br><sub>5.9 日</sub> | 105 | 17.9 |
+| 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>ゲーム内補助とデータパネルを備えたRust用トレーナー | 2026-11-21<br><sub>1.0 日</sub> | 189 | 189.0 |
+| 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>リアルタイム戦術数値を表示するDelta Force用ツール | 2026-11-20<br><sub>1.0 日</sub> | 151 | 151.0 |
+| 9 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas)<br>基本機能を提供するSonyvegasビルド | 2026-11-20<br><sub>1.1 日</sub> | 151 | 142.7 |
+| 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Web開発環境Adobe DreamweaverのVarvera版 | 2026-11-18<br><sub>2.8 日</sub> | 152 | 53.7 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -597,7 +597,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [carlperry-88/devlabs](https://github.com/carlperry-88/devlabs) | 2026-11-20<br><sub>1.0 日</sub> | 106 | 106.0 |
-| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。 | 2026-11-17<br><sub>4.1 日</sub> | 130 | 31.7 |
+| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>中国特許書類の作成や文書チェックを行う専用ツール | 2026-11-17<br><sub>4.1 日</sub> | 130 | 31.7 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>フォーク不要、1ファイルでClaude風テーマに | 2026-11-14<br><sub>6.7 日</sub> | 139 | 20.7 |
 | 4 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>ブラウザでGGUFの量子化とサンプラーを確認するツール | 2026-11-15<br><sub>5.8 日</sub> | 115 | 19.7 |
 | 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>ボットタスクを繰り返し実行する自動化スクリプト | 2026-11-15<br><sub>5.8 日</sub> | 153 | 26.6 |
@@ -765,7 +765,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [replit/datacat](https://github.com/replit/datacat)<br>セルフホスト型で指標やログを一覧し異常に気づく | 2026-11-17<br><sub>4.5 日</sub> | 488 | 108.3 |
-| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>Tekton および vLLM とともに Kubernetes / OpenShift 上で稼働する AI Software Factory | 2026-11-18<br><sub>2.7 日</sub> | 114 | 42.6 |
+| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>KubernetesでAIソフトウェア工場を動かす | 2026-11-18<br><sub>2.7 日</sub> | 114 | 42.6 |
 | 3 | [hackclub/orchard](https://github.com/hackclub/orchard)<br>デプロイが面倒？Gitから自分のサーバーへコマンド1つで | 2026-11-17<br><sub>4.5 日</sub> | 115 | 25.6 |
 | 4 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>ワークブックのワークフローを視覚的に整理 | 2026-11-15<br><sub>5.8 日</sub> | 153 | 26.5 |
 | 5 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Helmを使ってCMaNGOSレルムを自在に指揮 | 2026-11-15<br><sub>5.8 日</sub> | 153 | 26.4 |
@@ -929,14 +929,14 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design は、構造化されたアートワークに高精度なベクターデザインワークフローを提供します。 | 2026-11-20<br><sub>1.0 日</sub> | 206 | 206.0 |
-| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>構造化されたスタジオワークフローを通じて Cinema 4D Sacerin のモーションシーンを構築します。 | 2026-11-21<br><sub>1.0 日</sub> | 203 | 203.0 |
-| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design: Ceramar テクニックを中心に構築されたモーションデザインプロジェクト。 | 2026-11-21<br><sub>1.0 日</sub> | 196 | 196.0 |
-| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>スクリーンショット満載のビジュアルガイドで Adobe Fresco Elrina のブラシとツールを探索します。 | 2026-11-19<br><sub>1.6 日</sub> | 152 | 92.9 |
-| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Adobe Animate Velvona ツールを使用してアニメーションを作成および調整します。 | 2026-11-19<br><sub>1.6 日</sub> | 150 | 91.3 |
-| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>ウェブカメラと音声入力によって駆動されるリアルタイムのパペットアニメーション—Calraraは表情マッピングを統合します | 2026-11-19<br><sub>1.6 日</sub> | 149 | 90.9 |
-| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>プロシージャルマテリアルオーサリングと3Dアセットデザインのためのノードベースのテクスチャリングワークフロー。 | 2026-11-18<br><sub>2.7 日</sub> | 152 | 55.8 |
-| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>デジタルペインター向けに構造化されたアートスタジオワークスペースを構築するKritaプラグイン。 | 2026-11-18<br><sub>3.0 日</sub> | 152 | 50.1 |
+| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator向けベクター設計ワークフロー | 2026-11-20<br><sub>1.0 日</sub> | 206 | 206.0 |
+| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Cinema 4Dスタジオ動態シーン構築ワークフロー | 2026-11-21<br><sub>1.0 日</sub> | 203 | 203.0 |
+| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>Ceramar手法を用いたAfter Effectsモーション設計 | 2026-11-21<br><sub>1.0 日</sub> | 196 | 196.0 |
+| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>スクリーンショット付きAdobe Frescoツールガイド | 2026-11-19<br><sub>1.6 日</sub> | 152 | 92.9 |
+| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Adobe Animate向けアニメーション作成・調整ツール | 2026-11-19<br><sub>1.6 日</sub> | 150 | 91.3 |
+| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>カメラと音声によるリアルタイムパペットアニメーション | 2026-11-19<br><sub>1.6 日</sub> | 149 | 90.9 |
+| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>プロシージャル素材のノード型テクスチャワークフロー | 2026-11-18<br><sub>2.7 日</sub> | 152 | 55.8 |
+| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>デジタル画家向け作業環境の Krita プラグイン | 2026-11-18<br><sub>3.0 日</sub> | 152 | 50.1 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -1103,7 +1103,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Excelにおける構造化データワークフローとスプレッドシートタスクのオーケストレーションを自動化します。 | 2026-11-18<br><sub>2.8 日</sub> | 152 | 54.6 |
+| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Excel で構造化データワークフローを自動化 | 2026-11-18<br><sub>2.8 日</sub> | 152 | 54.6 |
 
 <details>
 <summary>このランキングのスター推移</summary>

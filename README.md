@@ -67,14 +67,14 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Afraid to rewrite in Rust? Migrate piece by piece safely | 2026-11-16<br><sub>5.1 d</sub> | 7,137 | 1,394.9 |
-| 2 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. | 2026-11-20<br><sub>1.0 d</sub> | 306 | 300.6 |
+| 2 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Turn four pixel views into 3D sprites you can spin | 2026-11-20<br><sub>1.0 d</sub> | 306 | 300.6 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Local LLM too slow? Let an agent boost serving speed | 2026-11-16<br><sub>4.8 d</sub> | 1,426 | 294.3 |
 | 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>Give your AI agent 32 free marketing skills | 2026-11-16<br><sub>5.0 d</sub> | 763 | 152.8 |
 | 5 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Tokens running out? Cut LLM turns and token quota | 2026-11-19<br><sub>2.4 d</sub> | 238 | 98.5 |
 | 6 | [staryone/motlab](https://github.com/staryone/motlab)<br>Want to make videos with code? Let agents build from refs | 2026-11-16<br><sub>5.0 d</sub> | 331 | 65.5 |
 | 7 | [diego3g/craft](https://github.com/diego3g/craft)<br>UI design takes too long? Let AI agents craft every screen | 2026-11-15<br><sub>5.8 d</sub> | 341 | 58.9 |
 | 8 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop)<br>Run multiple Claude Desktop accounts at once on Mac | 2026-11-16<br><sub>5.4 d</sub> | 247 | 45.4 |
-| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording | 2026-11-16<br><sub>5.2 d</sub> | 211 | 40.2 |
+| 9 | [kobimusic/dettato](https://github.com/kobimusic/dettato)<br>Turn any audio into notes, instrument tracks and drums | 2026-11-16<br><sub>5.2 d</sub> | 211 | 40.2 |
 | 10 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin)<br>Sim to real robots? Power agentic robotics workflows | 2026-11-16<br><sub>4.8 d</sub> | 191 | 39.5 |
 
 <details>
@@ -272,16 +272,16 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora)<br>Terminal emulator configuration with customizable themes and keybindings. | 2026-11-20<br><sub>1.6 d</sub> | 149 | 92.4 |
+| 1 | [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora)<br>Customize your terminal with preset themes and keybindings | 2026-11-20<br><sub>1.6 d</sub> | 149 | 92.4 |
 | 2 | [govijr/fix-storage](https://github.com/govijr/fix-storage)<br>Fix storage problems on Mac and Linux with one CLI | 2026-11-14<br><sub>6.9 d</sub> | 209 | 30.2 |
 | 3 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter)<br>Porting Java mods to Rust? Turn jar files into runnable code | 2026-11-16<br><sub>5.0 d</sub> | 142 | 28.6 |
-| 4 | [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus)<br>Catches infostealers in the act on Windows: plants fake passwords, wallets and app data that only malware would read, and freezes whatever touches them. | 2026-11-17<br><sub>4.5 d</sub> | 111 | 24.7 |
+| 4 | [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus)<br>Lure Windows infostealers with fake data and freeze them | 2026-11-17<br><sub>4.5 d</sub> | 111 | 24.7 |
 | 5 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Annotate and resolve blockers across plan and code reviews | 2026-11-15<br><sub>6.3 d</sub> | 123 | 19.6 |
-| 6 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli)<br>JSON-first CLI for Renfe train timetables and fares. No account needed. | 2026-11-15<br><sub>5.9 d</sub> | 105 | 17.9 |
-| 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>A focused Rust external trainer delivering practical in-game aid and readable data panels. | 2026-11-21<br><sub>1.0 d</sub> | 189 | 189.0 |
+| 6 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli)<br>Check Renfe train times and fares in JSON without an account | 2026-11-15<br><sub>5.9 d</sub> | 105 | 17.9 |
+| 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>External trainer for Rust with in-game aid and data panels | 2026-11-21<br><sub>1.0 d</sub> | 189 | 189.0 |
 | 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>Play Delta Force with Velmora's trainer for live tactical readouts. | 2026-11-20<br><sub>1.0 d</sub> | 151 | 151.0 |
-| 9 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas)<br>Sonyvegas delivers core functionality — built with direct, technical precision. | 2026-11-20<br><sub>1.1 d</sub> | 151 | 142.7 |
-| 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Varvera edition of Adobe Dreamweaver, a web development environment for coding and design. | 2026-11-18<br><sub>2.8 d</sub> | 152 | 53.7 |
+| 9 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas)<br>Sonyvegas build providing core functionality | 2026-11-20<br><sub>1.1 d</sub> | 151 | 142.7 |
+| 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Adobe Dreamweaver web development build, Varvera edition | 2026-11-18<br><sub>2.8 d</sub> | 152 | 53.7 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -597,7 +597,7 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [carlperry-88/devlabs](https://github.com/carlperry-88/devlabs) | 2026-11-20<br><sub>1.0 d</sub> | 106 | 106.0 |
-| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>A professional editor for Chinese patent drafting, supporting the editing of invention and utility model documents and the organization of design patent materials, featuring patent library management, 2D CAD, document checking, AI assistance, and Word/PDF export. Open source under GPL-3.0. | 2026-11-17<br><sub>4.1 d</sub> | 130 | 31.7 |
+| 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>Draft and review Chinese patent filings with built-in AI | 2026-11-17<br><sub>4.1 d</sub> | 130 | 31.7 |
 | 3 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd)<br>Get a Claude-inspired theme for T3 Code in one file | 2026-11-14<br><sub>6.7 d</sub> | 139 | 20.7 |
 | 4 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm)<br>Browser tool for inspecting GGUF tokens and samplers | 2026-11-15<br><sub>5.8 d</sub> | 115 | 19.7 |
 | 5 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator)<br>Automation script for repeatable bot task runs | 2026-11-15<br><sub>5.8 d</sub> | 153 | 26.6 |
@@ -765,7 +765,7 @@ No new repo met the criteria in this run.
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [replit/datacat](https://github.com/replit/datacat)<br>Track metrics and logs with self-hosted dashboards | 2026-11-17<br><sub>4.5 d</sub> | 488 | 108.3 |
-| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM | 2026-11-18<br><sub>2.7 d</sub> | 114 | 42.6 |
+| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>Need an AI software factory? Run it on Kubernetes | 2026-11-18<br><sub>2.7 d</sub> | 114 | 42.6 |
 | 3 | [hackclub/orchard](https://github.com/hackclub/orchard)<br>Deploying to servers is hard? Ship from Git in one command | 2026-11-17<br><sub>4.5 d</sub> | 115 | 25.6 |
 | 4 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>Visualize and organize complex workbook workflows | 2026-11-15<br><sub>5.8 d</sub> | 153 | 26.5 |
 | 5 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>Command and manage your CMaNGOS realm with Helm | 2026-11-15<br><sub>5.8 d</sub> | 153 | 26.4 |
@@ -929,14 +929,14 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork. | 2026-11-20<br><sub>1.0 d</sub> | 206 | 206.0 |
-| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. | 2026-11-21<br><sub>1.0 d</sub> | 203 | 203.0 |
-| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques. | 2026-11-21<br><sub>1.0 d</sub> | 196 | 196.0 |
-| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides. | 2026-11-19<br><sub>1.6 d</sub> | 152 | 92.9 |
-| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Create and refine animations with Adobe Animate Velvona tools. | 2026-11-19<br><sub>1.6 d</sub> | 150 | 91.3 |
-| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping | 2026-11-19<br><sub>1.6 d</sub> | 149 | 90.9 |
-| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>Node-based texturing workflow for procedural material authoring and 3D asset design. | 2026-11-18<br><sub>2.7 d</sub> | 152 | 55.8 |
-| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>Krita plugin that builds a structured art studio workspace for digital painters. | 2026-11-18<br><sub>3.0 d</sub> | 152 | 50.1 |
+| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator vector design workflow for structured artwork | 2026-11-20<br><sub>1.0 d</sub> | 206 | 206.0 |
+| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Cinema 4D motion scene builder with a studio workflow | 2026-11-21<br><sub>1.0 d</sub> | 203 | 203.0 |
+| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects motion design project using Ceramar methods | 2026-11-21<br><sub>1.0 d</sub> | 196 | 196.0 |
+| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>Visual guides for Adobe Fresco Elrina brushes and tools | 2026-11-19<br><sub>1.6 d</sub> | 152 | 92.9 |
+| 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Animation creation and refinement tools for Adobe Animate | 2026-11-19<br><sub>1.6 d</sub> | 150 | 91.3 |
+| 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>Real-time puppet animation with webcam and audio input | 2026-11-19<br><sub>1.6 d</sub> | 149 | 90.9 |
+| 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>Node-based texturing workflow for procedural 3D materials | 2026-11-18<br><sub>2.7 d</sub> | 152 | 55.8 |
+| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>Krita plugin that builds art studio workspaces | 2026-11-18<br><sub>3.0 d</sub> | 152 | 50.1 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -1103,7 +1103,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Automates structured data workflows and spreadsheet task orchestration in Excel. | 2026-11-18<br><sub>2.8 d</sub> | 152 | 54.6 |
+| 1 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora)<br>Automates structured data workflows in Excel | 2026-11-18<br><sub>2.8 d</sub> | 152 | 54.6 |
 
 <details>
 <summary>Star history charts for this board</summary>
