@@ -6,6 +6,7 @@
 
 | 日期 | 时段 | 获取时间（UTC） | 新仓库第 1 名（7 天） | 本周第 1 名 | 本月第 1 名 | 今年第 1 名 | 快照 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-21 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-21T14:58:23Z | erkamyaman/rust-anything (1,395/天) | morluto/rea (2,021/天) | morluto/rea (3,804/天) | deepseek-ai/deepseek-harness (2,848/天) | [2026-11-21/pt-0000](2026-11-21/pt-0000/rankings.zh-Hans.md) · [json](2026-11-21/pt-0000/stats.json) |
 | 2026-11-20 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-20T15:48:18Z | erkamyaman/rust-anything (1,502/天) | morluto/rea (2,145/天) | morluto/rea (4,068/天) | deepseek-ai/deepseek-harness (2,873/天) | [2026-11-20/pt-0000](2026-11-20/pt-0000/rankings.zh-Hans.md) · [json](2026-11-20/pt-0000/stats.json) |
 | 2026-11-19 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-19T16:07:38Z | erkamyaman/rust-anything (1,476/天) | morluto/rea (2,263/天) | morluto/rea (4,375/天) | deepseek-ai/deepseek-harness (2,897/天) | [2026-11-19/pt-0000](2026-11-19/pt-0000/rankings.zh-Hans.md) · [json](2026-11-19/pt-0000/stats.json) |
 | 2026-11-18 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-18T16:00:36Z | erkamyaman/rust-anything (1,290/天) | morluto/rea (2,384/天) | morluto/rea (4,755/天) | deepseek-ai/deepseek-harness (2,920/天) | [2026-11-18/pt-0000](2026-11-18/pt-0000/rankings.zh-Hans.md) · [json](2026-11-18/pt-0000/stats.json) |

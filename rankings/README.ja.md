@@ -6,6 +6,7 @@
 
 | 日付 | スロット | 取得日時（UTC） | 新着 1 位（7 日） | 今週 1 位 | 今月 1 位 | 今年 1 位 | スナップショット |
 |---|---|---|---|---|---|---|---|
+| 2026-11-21 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-21T14:58:23Z | erkamyaman/rust-anything (1,395/日) | morluto/rea (2,021/日) | morluto/rea (3,804/日) | deepseek-ai/deepseek-harness (2,848/日) | [2026-11-21/pt-0000](2026-11-21/pt-0000/rankings.ja.md) · [json](2026-11-21/pt-0000/stats.json) |
 | 2026-11-20 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-20T15:48:18Z | erkamyaman/rust-anything (1,502/日) | morluto/rea (2,145/日) | morluto/rea (4,068/日) | deepseek-ai/deepseek-harness (2,873/日) | [2026-11-20/pt-0000](2026-11-20/pt-0000/rankings.ja.md) · [json](2026-11-20/pt-0000/stats.json) |
 | 2026-11-19 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-19T16:07:38Z | erkamyaman/rust-anything (1,476/日) | morluto/rea (2,263/日) | morluto/rea (4,375/日) | deepseek-ai/deepseek-harness (2,897/日) | [2026-11-19/pt-0000](2026-11-19/pt-0000/rankings.ja.md) · [json](2026-11-19/pt-0000/stats.json) |
 | 2026-11-18 | ロサンゼルス時間 00:00 (`pt-0000`) | 2026-11-18T16:00:36Z | erkamyaman/rust-anything (1,290/日) | morluto/rea (2,384/日) | morluto/rea (4,755/日) | deepseek-ai/deepseek-harness (2,920/日) | [2026-11-18/pt-0000](2026-11-18/pt-0000/rankings.ja.md) · [json](2026-11-18/pt-0000/stats.json) |

@@ -118,40 +118,55 @@
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 앱 전체를 한 번에 하나씩 Rust로 재작성하고, 모든 단계에서 원본의 기록된 동작과 대조하여 확인합니다. TypeSc의 CLI, HTTP 서버 및 라이브러리… |
+| [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) |  | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 모든 하드웨어 및 양자화에서 로컬 LLM 서빙 속도(디코드, 투기적 디코딩, 프리필, KV, 시작, TTFT)를 힐클라이밍으로 개선하는 에이전트 스킬 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | AI 에이전트를 위한 32가지 무료 마케팅 스킬: 리서치, 포지셔닝, 카피, 페이지, SEO, AI 검색, 광고, 이메일 및 콘텐츠, 그리고 심층 로컬 비즈니스 팩. MIT. |
 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 토큰이 부족한가요? LLM 턴과 할당량을 절약 | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
 | [staryone/motlab](https://github.com/staryone/motlab) | 코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 코드로서의 비디오: 헤드리스 Chrome에서 WebCodecs로 렌더링된 canvas 장면, 검토 뷰어, 참조 자료를 바탕으로 비디오를 제작하는 에이전트 스킬. |
 | [diego3g/craft](https://github.com/diego3g/craft) | 화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | AI 에이전트를 위한 디자인 스킬: /craft-setup이 디자인 브리프를 작성하고, /craft가 디자인 시스템의 모든 상태를 포함한 화면을 디자인하고 검토합니다. Works wit… |
-| [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | 3단계 검토 파이프라인으로 AI 코드를 감사 | 4,500+ 시간 이상을 거쳐 구축된 프로덕션급 AI 코딩 지침, 엄선된 스킬, 3단계 검토 파이프라인(Planning → Critical Review → Diff Audit)… |
-| [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI로 인기 숏폼 드라마 대본과 연출을 분석 | AI로 숏폼 드라마 분해 학습: 왜 뜨는지, 대본은 어떻게 쓰는지, 매 컷은 어떻게 찍는지 |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Mac에서 Claude 데스크톱 여러 개를 동시에 사용 | Mac에서 여러 Claude Desktop 계정을 동시에 실행: 개별 로그인, 커스텀 아이콘, 하나의 공유 Claude Code 설정, 그리고 서로 메시지를 주고받… |
+| [kobimusic/dettato](https://github.com/kobimusic/dettato) |  | KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로 | 시뮬레이션과 실제 로봇 전반의 에이전틱 로보틱스 워크플로를 위한 GDM Robotics 스킬. |
-| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 의료 AI 데이터셋 라이선스 및 출처 검증 기록 | 의료 AI 기반 데이터셋을 위한 검증된 라이선스 및 출처 기록: 정보 카드, JSON Schema, 의사결정 규칙 및 증거 색인(해시 전용). Cards… |
+| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) |  | Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin. |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codex로 한 문장에서 스톱모션 애니메이션 만들기 | 한 줄로 만드는 스톱모션 단편, Codex로 제작: 8가지 머티리얼 스타일, 이미지 모델이 그리고 코드에서 프레임 단위로 움직이는 퍼펫. 한 문장으로 Codex로 스톱모션 애니메이션 만들기… |
+| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 의료 AI 데이터셋 라이선스 및 출처 검증 기록 | 의료 AI 기반 데이터셋을 위한 검증된 라이선스 및 출처 기록: 정보 카드, JSON Schema, 의사결정 규칙 및 증거 색인(해시 전용). Cards… |
 | [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 공부 자료가 막막할 때? 노트를 단원별 학습 경로로 | 독학, 이러닝, 시험 준비를 위한 셀프 호스팅 AI 튜터 및 학습 도우미. 공부 노트, PDF, 강의 노트를 단원별 학습 경로로 변환하고… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 전용 개발자 스킬 라이브러리 | Grand Tour 스킬: /grand-tour를 위한 오케스트레이션된 개발자 라이브러리 |
-| [hackclub/orchard](https://github.com/hackclub/orchard) | 배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포 | 오픈 소스, 셀프 호스팅 배포 플랫폼. 한 번의 명령으로 Git에서 자체 서버로 배포하세요. |
 | [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | 편리한 AI 코딩을 위한 경량 워크플로 플러그인 | DeepSeek Harness, Claude Code, GitHub Copilot 등을 활용한 핸즈오프 AI 코딩을 위한 경량 워크플로 플러그인. |
-| [Tthanh2k6/turbo-browser-mcp](https://github.com/Tthanh2k6/turbo-browser-mcp) | 브라우저 작업이 느린가요? 에이전트 턴과 토큰을 절약 | 에이전트 턴과 token을 줄이기 위해 구축된 Playwright MCP 서버: 한 번의 호출로 폼 작성, 델타 스냅샷, 일괄 처리 단계, 기본 활성화된 제출 보호 장치 |
-| [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) | 타이핑이 귀찮을 때? 단축키 누르고 말하면 바로 입력 | 브라질 포르투갈어를 위한 무료, 오픈 소스, 100% 로컬 음성 받아쓰기(Windows 및 macOS). 내 컴퓨터의 Whisper: 단축키를 누르고 말하면 텍스트가 붙여넣어짐… |
-| [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) | Antigravity에서 컨텍스트와 모델 사용량 바로 확인 | 컨텍스트 사용량, 모델 할당량, 토큰 세부 분석 및 생성 지표 — Antigravity composer에서 바로 확인하세요. |
-| [therandomsecurityguy/signet](https://github.com/therandomsecurityguy/signet) | 에이전트와 스킬이 믿을 수 있는지 확인하세요 | 에이전트와 스킬을 위한 승인 인장: 서명 및 투명성 로그가 기록된 게시 신뢰성을 갖춘 그래프 우선 시맨틱 거버넌스 레지스트리. |
-| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | Smelt를 Java 모드 jar로 지정하면 Horizon용 Rust 포팅을 시작합니다: crate, trait 및 실행 가능한 빌드. 미완성된 부분은 표시되어 있어 정확히 w… |
+| [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) |  | Chat with private AI models locally, powered by Open Webui Private Ai Desk. |
+| [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) |  | Opencode Project Workbench structures opencode project tasks, files, and workflow state. |
+| [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) |  | Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository |
+| [chase1225/anythingllm-verona-document-chat](https://github.com/chase1225/anythingllm-verona-document-chat) |  | Document-grounded chat for Verona - AnythingLLM workspace integration. |
+| [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora) |  | Terminal emulator configuration with customizable themes and keybindings. |
 | [govijr/fix-storage](https://github.com/govijr/fix-storage) | Mac과 Linux의 저장 공간 문제를 CLI로 해결 | mac &amp; linux 머신의 스토리지 문제를 해결하는 CLI로, fix-storage를 실행하기만 하면 됩니다. |
+| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java 모드 Rust 이식이 막막할 때? jar 변환으로 해결 | Smelt를 Java 모드 jar로 지정하면 Horizon용 Rust 포팅을 시작합니다: crate, trait 및 실행 가능한 빌드. 미완성된 부분은 표시되어 있어 정확히 w… |
+| [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus) |  | Catches infostealers in the act on Windows: plants fake passwords, wallets and app data that only malware would read, and freezes whatever touches them. |
 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 계획과 코드 검토에서 메모를 달고 장애물 해결 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [RescuerDevelop/CapCut-AI-PC-Latest](https://github.com/RescuerDevelop/CapCut-AI-PC-Latest) | CapCut 2026 획득 가이드 | CapCut 2026 얻는 방법 |
+| [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli) |  | JSON-first CLI for Renfe train timetables and fares. No account needed. |
+| [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan) |  | A focused Rust external trainer delivering practical in-game aid and readable data panels. |
+| [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora) |  | Play Delta Force with Velmora's trainer for live tactical readouts. |
+| [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas) |  | Sonyvegas delivers core functionality — built with direct, technical precision. |
+| [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) |  | Varvera edition of Adobe Dreamweaver, a web development environment for coding and design. |
+| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) |  | GPU-accelerated terminal emulator configuration layer for Alacritty, managing settings and profiles. |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 세상을 빚고 작품을 공유하며 함께 건축 | CMP30HX Mod: 세상을 형성하고, 공예를 공유하며, 함께 건설하세요 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLI로 다양한 런타임을 점검, 설치, 업데이트 | Runtime Forge CLI: DirectX, VC++, .NET, Java, Python, Go, Rust 검사, 설치, 업데이트 및 제거, |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 웹 인터페이스로 Windows 패키지를 편리하게 관리 | EasyWinget GUI: 매끄러운 Windows 패키지 관리를 위한 현대적인 웹 인터페이스 |
-| [oriliz/agent-crop](https://github.com/oriliz/agent-crop) | 코딩 에이전트 시간 기록 및 자체 개선 도구 | AI 코딩 도우미에게 채찍을: 로컬에서 시간 흐름을 기록하고, 복기를 에이전트 지시/스킬/도구에 다시 작성. 개선 여부는 데이터로 증명. / 코딩 에이전트를 위한 채찍: 로컬 시간 측정, 레드라인 넛지, 그리고 증거 기반의 감사 가능한 자가 개선… |
+| [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) |  | 面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。 |
 | [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | 포크 없이 단일 파일로 Claude 스타일 테마 적용 | Claude에서 영감을 받은 T3 Code용 테마. 단일 파일, fork 불필요. |
-| [nforst/fagus](https://github.com/nforst/fagus) | 브라우저 없이 고품질 인쇄용 PDF 생성 | 브라우저 없이 동작하는 PHP 및 Laravel용 HTML/CSS to PDF 변환 도구. Chrome 인쇄처럼 렌더링하며 PDF/A, PDF/UA 및 ZUGFeRD/Factur-X를 지원합니다. |
-| [homielab/noteflare](https://github.com/homielab/noteflare) | 종단간 암호화로 나만 볼 수 있게 메모 저장 | 노트를 Cloudflare에 보관하고 본인만 확인하세요. Cloudflare Workers + D1 기반의 종단간 암호화 노트. |
+| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 모든 GGUF의 내부를 확인하세요: 두 양자화가 갈라지는 지점을 토큰별로 파악하고 각 샘플러가 무엇을 잘라내는지 확인합니다. llama.cpp(CUDA 또는 Vulkan) 기반으로 브라우저에서 실시간 실행됩니다. |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 반복 봇 작업을 실행하는 자동화 스크립트 | Stratgies Indicator 자동화 스크립트 반복 가능한 봇 작업 실행 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabric에서 관성을 살려 연속 점프 이동을 숙달 | Bunny Hopping Mod: Fabric 기반의 모멘텀 및 움직임 숙달 |
-| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 모든 GGUF의 내부를 확인하세요: 두 양자화가 갈라지는 지점을 토큰별로 파악하고 각 샘플러가 무엇을 잘라내는지 확인합니다. llama.cpp(CUDA 또는 Vulkan) 기반으로 브라우저에서 실시간 실행됩니다. |
 | [replit/datacat](https://github.com/replit/datacat) | 셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요 | 셀프 호스팅 관측 가능성: 메트릭, 로그, 추적, 대시보드 및 알림. PostgreSQL 또는 ClickHouse에 데이터를 저장합니다. OpenTelemetry 데이터를 수용합니다. |
+| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) |  | AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM |
+| [hackclub/orchard](https://github.com/hackclub/orchard) | 배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포 | 오픈 소스, 셀프 호스팅 배포 플랫폼. 한 번의 명령으로 Git에서 자체 서버로 배포하세요. |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 워크북 워크플로를 시각적으로 한눈에 정리 | Jet Reports 스킬: NAV 및 Business Central용 시각적 통합 문서 워크플로 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helm으로 CMaNGOS 렐름을 손쉽게 지휘 | CMaNGOS Helm: Helm을 쥐고, 당신의 영역을 지휘하세요 |
-| [alibasimm1993/whalefeed](https://github.com/alibasimm1993/whalefeed) | 데스크톱에서 모든 피드를 실시간으로 동기화 | Whalefeed: 실시간 동기화 및 구조화된 데이터 파싱 기능을 갖춘 데스크톱 피드 애그리게이터 |
+| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) |  | Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork. |
+| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) |  | Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. |
+| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) |  | After Effects Ceramar Motion Design: a motion design project built around Ceramar techniques. |
+| [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | Explore brushes and tools in Adobe Fresco Elrina with screenshot-heavy visual guides. |
+| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | Create and refine animations with Adobe Animate Velvona tools. |
+| [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) |  | Real-time puppet animation driven by webcam and audio input—Calrara integrates expression mapping |
+| [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) |  | Node-based texturing workflow for procedural material authoring and 3D asset design. |
+| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) |  | Krita plugin that builds a structured art studio workspace for digital painters. |
+| [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) |  | Automates structured data workflows and spreadsheet task orchestration in Excel. |
