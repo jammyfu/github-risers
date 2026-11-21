@@ -143,11 +143,11 @@
 | [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus) | 用假数据诱捕窃密木马并当场冻结 | 在 Windows 上当场抓获信息窃取程序：植入只有恶意软件才会读取的虚假密码、钱包和应用数据，并冻结任何触碰它们的事物。 |
 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 在方案与代码评审中快速批注并解决卡点 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli) | 无需登录直接查询西班牙国铁时刻与票价 | 用于查询 Renfe 火车时刻表和票价的 JSON 优先 CLI。无需账户。 |
-| [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan) |  | 一款专注的 Rust 外部修改器（trainer），提供实用的游戏内辅助和清晰易读的数据面板。 |
-| [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora) |  | 配合 Velmora 的修改器（trainer）畅玩 Delta Force，获取实时战术读数。 |
+| [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan) | Rust 外部辅助与数据面板工具 | 一款专注的 Rust 外部修改器（trainer），提供实用的游戏内辅助和清晰易读的数据面板。 |
+| [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora) | Delta Force 实时战术读数辅助工具 | 配合 Velmora 的修改器（trainer）畅玩 Delta Force，获取实时战术读数。 |
 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas) | 提供核心功能的Sonyvegas构建版本 | Sonyvegas 提供核心功能——以直接、精准的技术构建。 |
-| [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) |  | Adobe Dreamweaver 的 Varvera 版本，用于编码和设计的 Web 开发环境。 |
-| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) |  | 适用于 Alacritty 的 GPU 加速终端模拟器配置层，用于管理设置与配置文件。 |
+| [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Adobe Dreamweaver 网页开发与设计环境 | Adobe Dreamweaver 的 Varvera 版本，用于编码和设计的 Web 开发环境。 |
+| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) | Alacritty 终端配置管理工具 | 适用于 Alacritty 的 GPU 加速终端模拟器配置层，用于管理设置与配置文件。 |
 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 塑造世界并分享手艺，与大家一起建造 | CMP30HX Mod：塑造世界，分享技艺，共同建造 |
 | [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | 用 CLI 检查、安装并更新常用运行库 | Runtime Forge CLI：检查、安装、更新和移除 DirectX、VC++、.NET、Java、Python、Go、Rust， |
 | [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | 用网页界面轻松管理 Windows 软件包 | EasyWinget GUI：用于无缝 Windows 软件包管理的现代化 Web 界面 |
@@ -157,16 +157,16 @@
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) |  | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
+| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 构建软件 | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
 | [hackclub/orchard](https://github.com/hackclub/orchard) | 部署太烦？一条命令从Git发到服务器 | 开源、自托管的部署平台。只需一条命令即可从 Git 部署到您自己的服务器。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
-| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) |  | Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。 |
-| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) |  | 通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 |
-| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) |  | After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 |
+| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) | Illustrator 矢量设计工作流工具 | Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。 |
+| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) | Cinema 4D 动态场景工作流工具 | 通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 |
+| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) | After Effects 动效设计工程项目 | After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 |
 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | 通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。 |
 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | 使用 Adobe Animate Velvona 工具创建和完善动画。 |
 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) | 由摄像头和音频驱动的实时人偶动画 | 由网络摄像头和音频输入驱动的实时人偶动画—Calrara 集成了表情映射 |
 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) | 程序化材质创作的节点式贴图工作流 | 用于程序化材质创作和 3D 资产设计的基于节点的纹理工作流。 |
-| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) |  | 为数字画家构建结构化艺术工作室工作区的 Krita 插件。 |
+| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) | Krita 结构化画室工作区插件 | 为数字画家构建结构化艺术工作室工作区的 Krita 插件。 |
 | [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) | 在 Excel 中自动化结构化数据工作流 | 在 Excel 中自动化结构化数据工作流和电子表格任务编排。 |

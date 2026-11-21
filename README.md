@@ -279,7 +279,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 5 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>Annotate and resolve blockers across plan and code reviews | 2026-11-15<br><sub>6.3 d</sub> | 123 | 19.6 |
 | 6 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli)<br>Check Renfe train times and fares in JSON without an account | 2026-11-15<br><sub>5.9 d</sub> | 105 | 17.9 |
 | 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>External trainer for Rust with in-game aid and data panels | 2026-11-21<br><sub>1.0 d</sub> | 189 | 189.0 |
-| 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>Play Delta Force with Velmora's trainer for live tactical readouts. | 2026-11-20<br><sub>1.0 d</sub> | 151 | 151.0 |
+| 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>Delta Force tactical readout trainer | 2026-11-20<br><sub>1.0 d</sub> | 151 | 151.0 |
 | 9 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas)<br>Sonyvegas build providing core functionality | 2026-11-20<br><sub>1.1 d</sub> | 151 | 142.7 |
 | 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Adobe Dreamweaver web development build, Varvera edition | 2026-11-18<br><sub>2.8 d</sub> | 152 | 53.7 |
 

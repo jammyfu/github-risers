@@ -278,10 +278,10 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 4 | [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus)<br>用假数据诱捕窃密木马并当场冻结 | 2026-11-17<br><sub>4.5 天</sub> | 111 | 24.7 |
 | 5 | [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay)<br>在方案与代码评审中快速批注并解决卡点 | 2026-11-15<br><sub>6.3 天</sub> | 123 | 19.6 |
 | 6 | [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli)<br>无需登录直接查询西班牙国铁时刻与票价 | 2026-11-15<br><sub>5.9 天</sub> | 105 | 17.9 |
-| 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>一款专注的 Rust 外部修改器（trainer），提供实用的游戏内辅助和清晰易读的数据面板。 | 2026-11-21<br><sub>1.0 天</sub> | 189 | 189.0 |
-| 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>配合 Velmora 的修改器（trainer）畅玩 Delta Force，获取实时战术读数。 | 2026-11-20<br><sub>1.0 天</sub> | 151 | 151.0 |
+| 7 | [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)<br>Rust 外部辅助与数据面板工具 | 2026-11-21<br><sub>1.0 天</sub> | 189 | 189.0 |
+| 8 | [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora)<br>Delta Force 实时战术读数辅助工具 | 2026-11-20<br><sub>1.0 天</sub> | 151 | 151.0 |
 | 9 | [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas)<br>提供核心功能的Sonyvegas构建版本 | 2026-11-20<br><sub>1.1 天</sub> | 151 | 142.7 |
-| 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Adobe Dreamweaver 的 Varvera 版本，用于编码和设计的 Web 开发环境。 | 2026-11-18<br><sub>2.8 天</sub> | 152 | 53.7 |
+| 10 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera)<br>Adobe Dreamweaver 网页开发与设计环境 | 2026-11-18<br><sub>2.8 天</sub> | 152 | 53.7 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -765,7 +765,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
 | 1 | [replit/datacat](https://github.com/replit/datacat)<br>想自己做监控？自托管仪表盘与告警 | 2026-11-17<br><sub>4.5 天</sub> | 488 | 108.3 |
-| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory | 2026-11-18<br><sub>2.7 天</sub> | 114 | 42.6 |
+| 2 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory)<br>在 Kubernetes 上直接用 AI 构建软件 | 2026-11-18<br><sub>2.7 天</sub> | 114 | 42.6 |
 | 3 | [hackclub/orchard](https://github.com/hackclub/orchard)<br>部署太烦？一条命令从Git发到服务器 | 2026-11-17<br><sub>4.5 天</sub> | 115 | 25.6 |
 | 4 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill)<br>直观理清并呈现工作簿工作流 | 2026-11-15<br><sub>5.8 天</sub> | 153 | 26.5 |
 | 5 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm)<br>用Helm掌控并管理你的CMaNGOS领域 | 2026-11-15<br><sub>5.8 天</sub> | 153 | 26.4 |
@@ -929,14 +929,14 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。 | 2026-11-20<br><sub>1.0 天</sub> | 206 | 206.0 |
-| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 | 2026-11-21<br><sub>1.0 天</sub> | 203 | 203.0 |
-| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 | 2026-11-21<br><sub>1.0 天</sub> | 196 | 196.0 |
+| 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator 矢量设计工作流工具 | 2026-11-20<br><sub>1.0 天</sub> | 206 | 206.0 |
+| 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Cinema 4D 动态场景工作流工具 | 2026-11-21<br><sub>1.0 天</sub> | 203 | 203.0 |
+| 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects 动效设计工程项目 | 2026-11-21<br><sub>1.0 天</sub> | 196 | 196.0 |
 | 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。 | 2026-11-19<br><sub>1.6 天</sub> | 152 | 92.9 |
 | 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>使用 Adobe Animate Velvona 工具创建和完善动画。 | 2026-11-19<br><sub>1.6 天</sub> | 150 | 91.3 |
 | 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>由摄像头和音频驱动的实时人偶动画 | 2026-11-19<br><sub>1.6 天</sub> | 149 | 90.9 |
 | 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>程序化材质创作的节点式贴图工作流 | 2026-11-18<br><sub>2.7 天</sub> | 152 | 55.8 |
-| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>为数字画家构建结构化艺术工作室工作区的 Krita 插件。 | 2026-11-18<br><sub>3.0 天</sub> | 152 | 50.1 |
+| 8 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio)<br>Krita 结构化画室工作区插件 | 2026-11-18<br><sub>3.0 天</sub> | 152 | 50.1 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

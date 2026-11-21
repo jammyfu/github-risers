@@ -78,7 +78,10 @@
         "ko": "실시간 전술 판독값을 제공하는 Velmora의 트레이너와 함께 Delta Force를 플레이하세요.",
         "hook": {
           "ja": "リアルタイム戦術数値を表示するDelta Force用ツール",
-          "ko": "실시간 전술 정보를 표시하는 Delta Force 트레이너"
+          "ko": "실시간 전술 정보를 표시하는 Delta Force 트레이너",
+          "en": "Delta Force tactical readout trainer",
+          "zh-Hans": "Delta Force 实时战术读数辅助工具",
+          "zh-Hant": "Delta Force 即時戰術讀數輔助工具"
         }
       }
     },
@@ -2144,7 +2147,9 @@
         "hook": {
           "en": "Adobe Dreamweaver web development build, Varvera edition",
           "ja": "Web開発環境Adobe DreamweaverのVarvera版",
-          "ko": "웹 개발 환경 Adobe Dreamweaver의 Varvera 에디션"
+          "ko": "웹 개발 환경 Adobe Dreamweaver의 Varvera 에디션",
+          "zh-Hans": "Adobe Dreamweaver 网页开发与设计环境",
+          "zh-Hant": "Adobe Dreamweaver 網頁開發與設計環境"
         }
       }
     },
@@ -4295,7 +4300,9 @@
         "hook": {
           "en": "Cinema 4D motion scene builder with a studio workflow",
           "ja": "Cinema 4Dスタジオ動態シーン構築ワークフロー",
-          "ko": "Cinema 4D 스튜디오 모션 씬 구축 워크플로"
+          "ko": "Cinema 4D 스튜디오 모션 씬 구축 워크플로",
+          "zh-Hans": "Cinema 4D 动态场景工作流工具",
+          "zh-Hant": "Cinema 4D 動態場景工作流程工具"
         }
       }
     },
@@ -5510,7 +5517,9 @@
         "hook": {
           "en": "After Effects motion design project using Ceramar methods",
           "ja": "Ceramar手法を用いたAfter Effectsモーション設計",
-          "ko": "Ceramar 기법 기반 After Effects 모션 디자인"
+          "ko": "Ceramar 기법 기반 After Effects 모션 디자인",
+          "zh-Hans": "After Effects 动效设计工程项目",
+          "zh-Hant": "After Effects 動效設計專案項目"
         }
       }
     },
@@ -5617,7 +5626,9 @@
         "hook": {
           "en": "Configuration layer for managing Alacritty terminal profiles",
           "ja": "設定やプロファイルを管理するAlacritty用ターミナル設定層",
-          "ko": "설정과 프로필을 관리하는 Alacritty 터미널 구성 레이어"
+          "ko": "설정과 프로필을 관리하는 Alacritty 터미널 구성 레이어",
+          "zh-Hans": "Alacritty 终端配置管理工具",
+          "zh-Hant": "Alacritty 終端機設定管理工具"
         }
       }
     },
@@ -6824,7 +6835,9 @@
         "hook": {
           "en": "Need an AI software factory? Run it on Kubernetes",
           "ja": "KubernetesでAIソフトウェア工場を動かす",
-          "ko": "Kubernetes에서 AI 소프트웨어 팩토리 실행"
+          "ko": "Kubernetes에서 AI 소프트웨어 팩토리 실행",
+          "zh-Hans": "在 Kubernetes 上直接用 AI 构建软件",
+          "zh-Hant": "在 Kubernetes 上直接用 AI 建置軟體"
         }
       }
     },
@@ -6946,7 +6959,9 @@
         "hook": {
           "en": "Illustrator vector design workflow for structured artwork",
           "ja": "Illustrator向けベクター設計ワークフロー",
-          "ko": "Illustrator 구조화 벡터 디자인 워크플로"
+          "ko": "Illustrator 구조화 벡터 디자인 워크플로",
+          "zh-Hans": "Illustrator 矢量设计工作流工具",
+          "zh-Hant": "Illustrator 向量設計工作流程工具"
         }
       }
     },
@@ -7552,7 +7567,9 @@
         "hook": {
           "en": "External trainer for Rust with in-game aid and data panels",
           "ja": "ゲーム内補助とデータパネルを備えたRust用トレーナー",
-          "ko": "게임 내 보조와 데이터 패널을 제공하는 Rust 트레이너"
+          "ko": "게임 내 보조와 데이터 패널을 제공하는 Rust 트레이너",
+          "zh-Hans": "Rust 外部辅助与数据面板工具",
+          "zh-Hant": "Rust 外部輔助與數據面板工具"
         }
       }
     },
@@ -7567,7 +7584,9 @@
         "hook": {
           "en": "Krita plugin that builds art studio workspaces",
           "ja": "デジタル画家向け作業環境の Krita プラグイン",
-          "ko": "디지털 화가를 위한 작업 공간 Krita 플러그인"
+          "ko": "디지털 화가를 위한 작업 공간 Krita 플러그인",
+          "zh-Hans": "Krita 结构化画室工作区插件",
+          "zh-Hant": "Krita 結構化畫室工作區外掛"
         }
       }
     },
