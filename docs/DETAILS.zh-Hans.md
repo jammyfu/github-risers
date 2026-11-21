@@ -165,7 +165,7 @@
 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) | Cinema 4D 动态场景工作流工具 | 通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 |
 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) | After Effects 动效设计工程项目 | After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 |
 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | 通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。 |
-| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | 使用 Adobe Animate Velvona 工具创建和完善动画。 |
+| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) | Adobe Animate Velvona 动画制作工具 | 使用 Adobe Animate Velvona 工具创建和完善动画。 |
 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) | 由摄像头和音频驱动的实时人偶动画 | 由网络摄像头和音频输入驱动的实时人偶动画—Calrara 集成了表情映射 |
 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) | 程序化材质创作的节点式贴图工作流 | 用于程序化材质创作和 3D 资产设计的基于节点的纹理工作流。 |
 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) | Krita 结构化画室工作区插件 | 为数字画家构建结构化艺术工作室工作区的 Krita 插件。 |

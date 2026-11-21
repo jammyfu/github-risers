@@ -165,7 +165,7 @@
 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) | Cinema 4D 動態場景工作流程工具 | 透過結構化的工作室工作流程構建 Cinema 4D Sacerin 動態場景。 |
 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) | After Effects 動效設計專案項目 | After Effects Ceramar Motion Design：圍繞 Ceramar 技術構建的動態設計專案。 |
 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) |  | 透過包含大量截圖的視覺指南探索 Adobe Fresco Elrina 中的筆刷和工具。 |
-| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) |  | 使用 Adobe Animate Velvona 工具建立和完善動畫。 |
+| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) | Adobe Animate Velvona 動畫製作工具 | 使用 Adobe Animate Velvona 工具建立和完善動畫。 |
 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) | 由攝影機與音訊驅動的即時偶動畫 | 由網路攝影機與音訊輸入驅動的即時人偶動畫—Calrara 整合了表情映射 |
 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) | 程序化材質創作的節點式貼圖工作流程 | 用於程序化材質製作與 3D 資產設計的基於節點的紋理工作流程。 |
 | [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) | Krita 結構化畫室工作區外掛 | 為數位畫家構建結構化藝術工作室工作區的 Krita 外掛。 |
