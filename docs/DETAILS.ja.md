@@ -137,14 +137,14 @@
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 用の開発者向けスキルライブラリ | Grand Tour スキル：/grand-tour 向けにオーケストレーションされた開発者ライブラリ |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube向けAI動画編集ワークフロー | ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー |
 | [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUIによるローカル私有AIモデル対話 | ローカルでプライベート AI モデルとチャット。Open Webui Private Ai Desk を搭載。 |
-| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxeデスクトップ財務管理版 | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
-| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility デスクトップ管理 | Startall Back Utility: Desktop Manager with Interface Customization |
-| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 配分管理ツール | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
-| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader Bot Discord連携ツール | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
-| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | SP Flash Tool MediaTek設定ツール | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
-| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 bot Discord連携 | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
-| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 画面複製 | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
+| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxeデスクトップ財務管理版 | Quicken Deluxe: 予算管理とレポート機能を備えた包括的なデスクトップ財務管理 |
+| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility デスクトップ管理 | Startall Back Utility: インターフェースのカスタマイズ機能を備えたデスクトップマネージャー |
+| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 配分管理ツール | Portfolio Rebalancer: デスクトップポートフォリオの設定および配分管理 |
+| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader Bot Discord連携ツール | Rich を備えた Discord および Telegram 向けのコミュニティ主導型 NinjaTrader Bot |
+| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | SP Flash Tool MediaTek設定ツール | SP Flash Tool: サポートされている MediaTek デバイス向けのコマンドラインセットアップおよび構成ユーティリティ |
+| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 bot Discord連携 | Discord および Telegram 向けのコミュニティ主導型 MetaTrader 5 bot、deskto への親しみやすさを搭載 |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 画面複製 | Scrcpy Screen Mirroring: 低遅延 Android ディスプレイ複製と入力制御 |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 設計ツール | MicroStation Utility: インフラ設計のための包括的なデスクトップエンジニアリングツールセット |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO デスクトップ作成ツール | Ultra ISO: デスクトップディスクイメージ作成、マウント、および変換ツールキット |
 | [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) | Honeypot Detector セキュリティツール | Honeypot Detector: 欺瞞的なネットワークエンドポイントを特定するためのセキュリティツール |
@@ -153,10 +153,10 @@
 | [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag デスクトップネットワーク最適化ツール | ExitLag Utility: デスクトップネットワーク最適化およびルート管理コンソール |
 | [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) | デスクトップパーティション管理スイート | Easeus Partition Master: フル機能のデスクトップパーティション管理スイート |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 複数画面デスクトップ管理 | Display Fusion: ウィンドウのスナップとプロファイル自動化を備えたマルチモニターデスクトップ管理 |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer デスクトップ性能ツール | Delta Force Trainer: Tactical Desktop Performance Toolkit |
-| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility デスクトップ管理ツール | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
-| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Better Discord Client デスクトップ | Better Discord Client: Remastered Desktop Experience for Modders |
-| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop プラグインとデスクトップ統合 | Clion Desktop: Plugin Suite and Desktop Integration |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer デスクトップ性能ツール | Delta Force Trainer: 戦術的デスクトップ パフォーマンス ツールキット |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility デスクトップ管理ツール | Chimera Utility: システム管理とワークフローのための統合デスクトップ ツールチェーン |
+| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Better Discord Client デスクトップ | Better Discord Client: Modder 向けにリマスターされたデスクトップ体験 |
+| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop プラグインとデスクトップ統合 | Clion Desktop: プラグイン スイートとデスクトップ統合 |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | ブラウザでGGUFの量子化とサンプラーを確認するツール | 任意の GGUF の内部を可視化：2 つの量子化がどこで分岐するのかをトークンごとに確認し、各サンプラーが何を削減するかを把握。llama.cpp（CUDA または Vulkan）を搭載し、ブラウザ内でリアルタイム動作。 |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Web開発環境Adobe DreamweaverのVarvera版 | コーディングとデザインのためのWeb開発環境である Adobe Dreamweaver の Varvera エディション。 |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 中国特許書類の作成や文書チェックを行う専用ツール | 中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。 |

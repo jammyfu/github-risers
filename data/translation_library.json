@@ -180,7 +180,11 @@
           "ja": "全機能を含むStudioonepro7デスクトップ版",
           "ko": "모든 기능을 포함한 Studioonepro7 데스크톱 버전"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Studioonepro7 Release：包含所有功能的完整桌面套件",
+        "zh-Hant": "Studioonepro7 Release：包含所有功能的完整桌面套件",
+        "ja": "Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート",
+        "ko": "Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군"
       }
     },
     "AdmiralEmporium/ai--manus": {
@@ -927,7 +931,11 @@
           "ja": "Chimera Utility デスクトップ管理ツール",
           "ko": "Chimera Utility 데스크톱 워크플로 도구"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Chimera Utility: 用于系统管理和工作流的统一桌面工具链",
+        "zh-Hant": "Chimera Utility: 用於系統管理與工作流程的統一桌面工具鏈",
+        "ja": "Chimera Utility: システム管理とワークフローのための統合デスクトップ ツールチェーン",
+        "ko": "Chimera Utility: 시스템 관리 및 워크플로를 위한 통합 데스크톱 툴체인"
       }
     },
     "ChannelCooperStart/capri-ai": {
@@ -1148,9 +1156,15 @@
         "hook": {
           "en": "Startall Back Utility desktop customization tool",
           "ja": "Startall Back Utility デスクトップ管理",
-          "ko": "Startall Back Utility 데스크톱 관리 도구"
+          "ko": "Startall Back Utility 데스크톱 관리 도구",
+          "zh-Hans": "Startall Back 界面定制桌面工具",
+          "zh-Hant": "Startall Back 介面自訂桌面工具"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Startall Back Utility：具有界面自定义功能的桌面管理器",
+        "zh-Hant": "Startall Back Utility：具有介面自訂功能的桌面管理器",
+        "ja": "Startall Back Utility: インターフェースのカスタマイズ機能を備えたデスクトップマネージャー",
+        "ko": "Startall Back Utility: 인터페이스 사용자 지정 기능이 있는 데스크톱 관리자"
       }
     },
     "DandanLLab/SnowCatQQ": {
@@ -2936,14 +2950,16 @@
       "f54a466c269f": {
         "src": "Honeypot Detector: Security Tool for Identifying Deceptive Network Endpoints",
         "zh-Hans": "Honeypot Detector: 用于识别欺骗性网络端点的安全工具",
-        "seen": "2026-11-22",
+        "seen": "2026-11-23",
         "zh-Hant": "Honeypot Detector: 用於識別欺騙性網路端點的資安工具",
         "ja": "Honeypot Detector: 欺瞞的なネットワークエンドポイントを特定するためのセキュリティツール",
         "ko": "Honeypot Detector: 기만적인 네트워크 엔드포인트를 식별하기 위한 보안 도구",
         "hook": {
           "en": "Honeypot Detector security tool for deceptive endpoints",
           "ja": "Honeypot Detector セキュリティツール",
-          "ko": "Honeypot Detector 엔드포인트 보안 도구"
+          "ko": "Honeypot Detector 엔드포인트 보안 도구",
+          "zh-Hans": "识别欺骗性网络端点的安全工具",
+          "zh-Hant": "識別欺騙性網路端點的資安工具"
         }
       }
     },
@@ -3254,7 +3270,11 @@
           "ja": "Delta Force Trainer デスクトップ性能ツール",
           "ko": "Delta Force Trainer 데스크톱 성능 툴킷"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Delta Force Trainer: 战术桌面性能工具包",
+        "zh-Hant": "Delta Force Trainer: 戰術桌面效能工具套件",
+        "ja": "Delta Force Trainer: 戦術的デスクトップ パフォーマンス ツールキット",
+        "ko": "Delta Force Trainer: 전술 데스크톱 성능 툴킷"
       }
     },
     "Speedzyaminaret/UnlockTool": {
@@ -4282,9 +4302,15 @@
         "hook": {
           "en": "MetaTrader 5 bot for Discord and Telegram",
           "ja": "MetaTrader 5 bot Discord連携",
-          "ko": "Discord 및 Telegram용 MetaTrader 5 bot"
+          "ko": "Discord 및 Telegram용 MetaTrader 5 bot",
+          "zh-Hans": "MetaTrader 5 桌面机器人",
+          "zh-Hant": "MetaTrader 5 桌面機器人"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好",
+        "zh-Hant": "面向 Discord 和 Telegram 的社群驅動型 MetaTrader 5 bot，包含對 deskto 友好",
+        "ja": "Discord および Telegram 向けのコミュニティ主導型 MetaTrader 5 bot、deskto への親しみやすさを搭載",
+        "ko": "Discord 및 Telegram용 커뮤니티 주도형 MetaTrader 5 bot, deskto에 친화적인"
       }
     },
     "azure-teal-slope/windows-optimizer-desktop": {
@@ -4837,7 +4863,11 @@
           "ja": "Quicken Deluxeデスクトップ財務管理版",
           "ko": "Quicken Deluxe 데스크톱 금융 관리 버전"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Quicken Deluxe：具有预算和报告功能的综合桌面财务管理",
+        "zh-Hant": "Quicken Deluxe：具有預算和報告功能的綜合桌面財務管理",
+        "ja": "Quicken Deluxe: 予算管理とレポート機能を備えた包括的なデスクトップ財務管理",
+        "ko": "Quicken Deluxe: 예산 관리 및 보고 기능을 갖춘 종합 데스크톱 재무 관리"
       }
     },
     "dabingfy-dot/solo-to-team-skills": {
@@ -5079,9 +5109,15 @@
         "hook": {
           "en": "Portfolio Rebalancer desktop allocation tool",
           "ja": "Portfolio Rebalancer 配分管理ツール",
-          "ko": "Portfolio Rebalancer 데스크톱 자산 배분 도구"
+          "ko": "Portfolio Rebalancer 데스크톱 자산 배분 도구",
+          "zh-Hans": "桌面投资组合配置与分配管理工具",
+          "zh-Hant": "桌面投資組合配置與分配管理工具"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Portfolio Rebalancer：桌面投资组合的配置与分配管理",
+        "zh-Hant": "Portfolio Rebalancer：桌面投資組合的配置與分配管理",
+        "ja": "Portfolio Rebalancer: デスクトップポートフォリオの設定および配分管理",
+        "ko": "Portfolio Rebalancer: 데스크톱 포트폴리오를 위한 구성 및 배분 관리"
       }
     },
     "driftcoralemporium/instagram-liker-bot": {
@@ -5157,9 +5193,15 @@
         "hook": {
           "en": "NinjaTrader Bot for Discord and Telegram",
           "ja": "NinjaTrader Bot Discord連携ツール",
-          "ko": "Discord 및 Telegram용 NinjaTrader Bot"
+          "ko": "Discord 및 Telegram용 NinjaTrader Bot",
+          "zh-Hans": "NinjaTrader 社区机器人",
+          "zh-Hant": "NinjaTrader 社群機器人"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "面向 Discord 和 Telegram 的社区驱动型 NinjaTrader Bot，具有 Rich",
+        "zh-Hant": "面向 Discord 和 Telegram 的社群驅動型 NinjaTrader Bot，具有 Rich",
+        "ja": "Rich を備えた Discord および Telegram 向けのコミュニティ主導型 NinjaTrader Bot",
+        "ko": "Rich가 포함된 Discord 및 Telegram용 커뮤니티 주도형 NinjaTrader Bot"
       }
     },
     "emanuele-em/kanzo": {
@@ -5639,9 +5681,15 @@
         "hook": {
           "en": "SP Flash Tool command-line utility for MediaTek",
           "ja": "SP Flash Tool MediaTek設定ツール",
-          "ko": "MediaTek 지원 SP Flash Tool 명령줄 도구"
+          "ko": "MediaTek 지원 SP Flash Tool 명령줄 도구",
+          "zh-Hans": "MediaTek 设备命令行配置工具",
+          "zh-Hant": "MediaTek 裝置命令列設定工具"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "SP Flash Tool：适用于受支持 MediaTek 设备的命令行设置和配置实用工具",
+        "zh-Hant": "SP Flash Tool：適用於受支援 MediaTek 裝置的命令列設定和配置實用工具",
+        "ja": "SP Flash Tool: サポートされている MediaTek デバイス向けのコマンドラインセットアップおよび構成ユーティリティ",
+        "ko": "SP Flash Tool: 지원되는 MediaTek 기기용 명령줄 설정 및 구성 유틸리티"
       }
     },
     "haydenschmitty/floorplan": {
@@ -6098,9 +6146,15 @@
         "hook": {
           "en": "Scrcpy Screen Mirroring display and input tool",
           "ja": "Scrcpy Screen Mirroring 画面複製",
-          "ko": "Scrcpy Screen Mirroring 화면 미러링 도구"
+          "ko": "Scrcpy Screen Mirroring 화면 미러링 도구",
+          "zh-Hans": "Android 低延迟投屏与输入控制",
+          "zh-Hant": "Android 低延遲投螢與輸入控制"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Scrcpy Screen Mirroring: 低延迟 Android 显示复制与输入控制",
+        "zh-Hant": "Scrcpy Screen Mirroring: 低延遲 Android 顯示複製與輸入控制",
+        "ja": "Scrcpy Screen Mirroring: 低遅延 Android ディスプレイ複製と入力制御",
+        "ko": "Scrcpy Screen Mirroring: 저지연 Android 디스플레이 복제 및 입력 제어"
       }
     },
     "juniordroid/better-discord-client": {
@@ -6111,7 +6165,11 @@
           "ja": "Better Discord Client デスクトップ",
           "ko": "모더용 Better Discord Client 데스크톱"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Better Discord Client: 面向 Mod 制作者的重制桌面体验",
+        "zh-Hant": "Better Discord Client: 面向 Mod 製作者的重製桌面體驗",
+        "ja": "Better Discord Client: Modder 向けにリマスターされたデスクトップ体験",
+        "ko": "Better Discord Client: 모더를 위한 리마스터된 데스크톱 경험"
       }
     },
     "kevinraymond/florilegium": {
@@ -6838,14 +6896,16 @@
       "a42af282f606": {
         "src": "MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design",
         "zh-Hans": "MicroStation Utility: 用于基础设施设计的综合桌面工程工具集",
-        "seen": "2026-11-22",
+        "seen": "2026-11-23",
         "zh-Hant": "MicroStation Utility: 用於基礎設施設計的綜合桌面工程工具組",
         "ja": "MicroStation Utility: インフラ設計のための包括的なデスクトップエンジニアリングツールセット",
         "ko": "MicroStation Utility: 인프라 설계를 위한 포괄적인 데스크톱 엔지니어링 툴셋",
         "hook": {
           "en": "MicroStation Utility engineering toolset",
           "ja": "MicroStation Utility 設計ツール",
-          "ko": "MicroStation Utility 데스크톱 엔지니어링 도구"
+          "ko": "MicroStation Utility 데스크톱 엔지니어링 도구",
+          "zh-Hans": "MicroStation 桌面工程工具",
+          "zh-Hant": "MicroStation 桌面工程工具"
         }
       }
     },
@@ -7036,9 +7096,15 @@
         "hook": {
           "en": "Clion Desktop plugin suite and desktop integration",
           "ja": "Clion Desktop プラグインとデスクトップ統合",
-          "ko": "Clion Desktop 플러그인 및 데스크톱 통합"
+          "ko": "Clion Desktop 플러그인 및 데스크톱 통합",
+          "zh-Hans": "Clion Desktop 插件套件与桌面集成工具",
+          "zh-Hant": "Clion Desktop 外掛套件與桌面整合工具"
         },
-        "seen": "2026-11-22"
+        "seen": "2026-11-23",
+        "zh-Hans": "Clion Desktop: 插件套件与桌面集成",
+        "zh-Hant": "Clion Desktop: 外掛套件與桌面整合",
+        "ja": "Clion Desktop: プラグイン スイートとデスクトップ統合",
+        "ko": "Clion Desktop: 플러그인 스위트 및 데스크톱 통합"
       }
     },
     "patch-gg/anymove": {

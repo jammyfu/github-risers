@@ -274,13 +274,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>Studioonepro7发布，含全功能桌面套件 | 2026-11-21<br><sub>1.0 天</sub> | 339 | 339.0 |
 | 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe桌面财务管理发布版 | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
-| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility: Desktop Manager with Interface Customization | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
-| 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
-| 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>Community-Driven NinjaTrader Bot for Discord and Telegram with Rich | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
-| 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
-| 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
-| 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
-| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility: 用于基础设施设计的综合桌面工程工具集 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
+| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back 界面定制桌面工具 | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
+| 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>桌面投资组合配置与分配管理工具 | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
+| 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>NinjaTrader 社区机器人 | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
+| 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>MediaTek 设备命令行配置工具 | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
+| 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>MetaTrader 5 桌面机器人 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
+| 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Android 低延迟投屏与输入控制 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
+| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation 桌面工程工具 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
 | 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 桌面光盘映像制作与转换工具 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
 
 <details>

@@ -137,26 +137,26 @@
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
 | [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUI本地私有AI模型对话桌面端 | 在本地与私有 AI 模型对话，由 Open Webui Private Ai Desk 提供支持。 |
-| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
-| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) |  | Startall Back Utility: Desktop Manager with Interface Customization |
-| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) |  | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
-| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) |  | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
-| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) |  | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
-| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) |  | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
-| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) |  | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
-| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) |  | MicroStation Utility: 用于基础设施设计的综合桌面工程工具集 |
+| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe：具有预算和报告功能的综合桌面财务管理 |
+| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back 界面定制桌面工具 | Startall Back Utility：具有界面自定义功能的桌面管理器 |
+| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | 桌面投资组合配置与分配管理工具 | Portfolio Rebalancer：桌面投资组合的配置与分配管理 |
+| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader 社区机器人 | 面向 Discord 和 Telegram 的社区驱动型 NinjaTrader Bot，具有 Rich |
+| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 设备命令行配置工具 | SP Flash Tool：适用于受支持 MediaTek 设备的命令行设置和配置实用工具 |
+| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面机器人 | 面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好 |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Android 低延迟投屏与输入控制 | Scrcpy Screen Mirroring: 低延迟 Android 显示复制与输入控制 |
+| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation 桌面工程工具 | MicroStation Utility: 用于基础设施设计的综合桌面工程工具集 |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光盘映像制作与转换工具 | Ultra ISO: 桌面光盘映像制作、挂载与转换工具包 |
-| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) |  | Honeypot Detector: 用于识别欺骗性网络端点的安全工具 |
+| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) | 识别欺骗性网络端点的安全工具 | Honeypot Detector: 用于识别欺骗性网络端点的安全工具 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面数据传输与设备管理套件 | FoneTrans Desktop Utility: 完整的数据传输与设备管理套件 |
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面演示与仪式规划软件 | Easy Worship Desktop: 精简的演示与礼拜规划软件 |
 | [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag 桌面网络优化与路由管理控制台 | ExitLag Utility: 桌面网络优化与路由管理控制台 |
 | [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) |  | Easeus Partition Master: 功能齐全的桌面分区管理套件 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) |  | Delta Force Trainer: Tactical Desktop Performance Toolkit |
-| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) |  | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
-| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) |  | Better Discord Client: Remastered Desktop Experience for Modders |
-| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) |  | Clion Desktop: Plugin Suite and Desktop Integration |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) |  | Delta Force Trainer: 战术桌面性能工具包 |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) |  | Chimera Utility: 用于系统管理和工作流的统一桌面工具链 |
+| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) |  | Better Discord Client: 面向 Mod 制作者的重制桌面体验 |
+| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop 插件套件与桌面集成工具 | Clion Desktop: 插件套件与桌面集成 |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 浏览器内GGUF量化与采样检查工具 | 透视任何 GGUF 内部：逐个 token 观察两种量化方式的分歧点，以及各采样器裁减的内容。在你的浏览器中实时运行，由 llama.cpp（CUDA 或 Vulkan）驱动。 |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Adobe Dreamweaver 网页开发与设计环境 | Adobe Dreamweaver 的 Varvera 版本，用于编码和设计的 Web 开发环境。 |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 用专业编辑器撰写并检查中国专利文件 | 面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。 |

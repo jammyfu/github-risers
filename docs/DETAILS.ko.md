@@ -137,14 +137,14 @@
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 전용 개발자 스킬 라이브러리 | Grand Tour 스킬: /grand-tour를 위한 오케스트레이션된 개발자 라이브러리 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube용 AI 동영상 편집 워크플로 | 스토리보드, 캡처 및 애니메이션: YouTube용 AI 편집 워크플로 |
 | [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUI 로컬 프라이빗 AI 모델 대화 | Open Webui Private Ai Desk 기반으로 로컬에서 프라이빗 AI 모델과 대화하세요. |
-| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe 데스크톱 금융 관리 버전 | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
-| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility 데스크톱 관리 도구 | Startall Back Utility: Desktop Manager with Interface Customization |
-| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 데스크톱 자산 배분 도구 | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
-| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | Discord 및 Telegram용 NinjaTrader Bot | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
-| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 지원 SP Flash Tool 명령줄 도구 | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
-| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | Discord 및 Telegram용 MetaTrader 5 bot | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
-| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 화면 미러링 도구 | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
+| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군 |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe 데스크톱 금융 관리 버전 | Quicken Deluxe: 예산 관리 및 보고 기능을 갖춘 종합 데스크톱 재무 관리 |
+| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility 데스크톱 관리 도구 | Startall Back Utility: 인터페이스 사용자 지정 기능이 있는 데스크톱 관리자 |
+| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 데스크톱 자산 배분 도구 | Portfolio Rebalancer: 데스크톱 포트폴리오를 위한 구성 및 배분 관리 |
+| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | Discord 및 Telegram용 NinjaTrader Bot | Rich가 포함된 Discord 및 Telegram용 커뮤니티 주도형 NinjaTrader Bot |
+| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 지원 SP Flash Tool 명령줄 도구 | SP Flash Tool: 지원되는 MediaTek 기기용 명령줄 설정 및 구성 유틸리티 |
+| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | Discord 및 Telegram용 MetaTrader 5 bot | Discord 및 Telegram용 커뮤니티 주도형 MetaTrader 5 bot, deskto에 친화적인 |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 화면 미러링 도구 | Scrcpy Screen Mirroring: 저지연 Android 디스플레이 복제 및 입력 제어 |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 데스크톱 엔지니어링 도구 | MicroStation Utility: 인프라 설계를 위한 포괄적인 데스크톱 엔지니어링 툴셋 |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 데스크톱 디스크 이미지 도구 | Ultra ISO: 데스크톱 디스크 이미지 제작, 마운트 및 변환 툴킷 |
 | [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) | Honeypot Detector 엔드포인트 보안 도구 | Honeypot Detector: 기만적인 네트워크 엔드포인트를 식별하기 위한 보안 도구 |
@@ -153,10 +153,10 @@
 | [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag 데스크톱 네트워크 최적화 콘솔 | ExitLag Utility: 데스크톱 네트워크 최적화 및 경로 관리 콘솔 |
 | [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) | 데스크톱 파티션 관리 스위트 소프트웨어 | Easeus Partition Master: 모든 기능을 갖춘 데스크톱 파티션 관리 제품군 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 다중 모니터 데스크톱 관리 도구 | Display Fusion: 창 스냅 및 프로필 자동화 기능을 갖춘 다중 모니터 데스크톱 관리 |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer 데스크톱 성능 툴킷 | Delta Force Trainer: Tactical Desktop Performance Toolkit |
-| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility 데스크톱 워크플로 도구 | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
-| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 모더용 Better Discord Client 데스크톱 | Better Discord Client: Remastered Desktop Experience for Modders |
-| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop 플러그인 및 데스크톱 통합 | Clion Desktop: Plugin Suite and Desktop Integration |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer 데스크톱 성능 툴킷 | Delta Force Trainer: 전술 데스크톱 성능 툴킷 |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility 데스크톱 워크플로 도구 | Chimera Utility: 시스템 관리 및 워크플로를 위한 통합 데스크톱 툴체인 |
+| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 모더용 Better Discord Client 데스크톱 | Better Discord Client: 모더를 위한 리마스터된 데스크톱 경험 |
+| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop 플러그인 및 데스크톱 통합 | Clion Desktop: 플러그인 스위트 및 데스크톱 통합 |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 모든 GGUF의 내부를 확인하세요: 두 양자화가 갈라지는 지점을 토큰별로 파악하고 각 샘플러가 무엇을 잘라내는지 확인합니다. llama.cpp(CUDA 또는 Vulkan) 기반으로 브라우저에서 실시간 실행됩니다. |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | 웹 개발 환경 Adobe Dreamweaver의 Varvera 에디션 | 코딩 및 디자인을 위한 웹 개발 환경인 Adobe Dreamweaver의 Varvera 에디션. |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 중국 특허 문서를 전문적으로 작성하고 검토하는 도구 | 중국 특허 작성을 위한 전문 에디터로, 발명 및 실용신안 5서 편집과 디자인 특허 자료 정리를 지원하며, 특허 라이브러리 관리, 2D CAD, 문서 검사, AI 보조 및 Word/PDF 내보내기를 제공합니다. GPL-3.0 오픈 소스. |
