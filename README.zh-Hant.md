@@ -932,7 +932,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design)<br>Illustrator 向量設計工作流程工具 | 2026-11-20<br><sub>1.0 天</sub> | 206 | 206.0 |
 | 2 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)<br>Cinema 4D 動態場景工作流程工具 | 2026-11-21<br><sub>1.0 天</sub> | 203 | 203.0 |
 | 3 | [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design)<br>After Effects 動效設計專案項目 | 2026-11-21<br><sub>1.0 天</sub> | 196 | 196.0 |
-| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>透過包含大量截圖的視覺指南探索 Adobe Fresco Elrina 中的筆刷和工具。 | 2026-11-19<br><sub>1.6 天</sub> | 152 | 92.9 |
+| 4 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina)<br>含大量截圖的筆刷與工具圖解指南 | 2026-11-19<br><sub>1.6 天</sub> | 152 | 92.9 |
 | 5 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona)<br>Adobe Animate Velvona 動畫製作工具 | 2026-11-19<br><sub>1.6 天</sub> | 150 | 91.3 |
 | 6 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara)<br>由攝影機與音訊驅動的即時偶動畫 | 2026-11-19<br><sub>1.6 天</sub> | 149 | 90.9 |
 | 7 | [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora)<br>程序化材質創作的節點式貼圖工作流程 | 2026-11-18<br><sub>2.7 天</sub> | 152 | 55.8 |

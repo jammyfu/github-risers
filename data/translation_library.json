@@ -13,7 +13,9 @@
         "hook": {
           "en": "Visual guides for Adobe Fresco Elrina brushes and tools",
           "ja": "スクリーンショット付きAdobe Frescoツールガイド",
-          "ko": "스크린샷 중심 Adobe Fresco 브러시 및 도구 가이드"
+          "ko": "스크린샷 중심 Adobe Fresco 브러시 및 도구 가이드",
+          "zh-Hans": "含大量截图的画笔与工具图解指南",
+          "zh-Hant": "含大量截圖的筆刷與工具圖解指南"
         }
       }
     },
