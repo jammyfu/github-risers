@@ -6,6 +6,7 @@ Latest: [`latest/rankings.md`](../latest/rankings.md) · [`latest/stats.json`](.
 
 | Date | Slot | Fetched (UTC) | #1 new (7 days) | #1 this week | #1 this month | #1 this year | Snapshot |
 |---|---|---|---|---|---|---|---|
+| 2026-11-22 | Los Angeles 00:00 (`pt-0000`) | 2026-11-22T14:56:25Z | erkamyaman/rust-anything (1,275/day) | morluto/rea (1,884/day) | morluto/rea (3,575/day) | deepseek-ai/deepseek-harness (2,824/day) | [2026-11-22/pt-0000](2026-11-22/pt-0000/rankings.md) · [json](2026-11-22/pt-0000/stats.json) |
 | 2026-11-21 | Los Angeles 00:00 (`pt-0000`) | 2026-11-21T14:58:23Z | erkamyaman/rust-anything (1,395/day) | morluto/rea (2,021/day) | morluto/rea (3,804/day) | deepseek-ai/deepseek-harness (2,848/day) | [2026-11-21/pt-0000](2026-11-21/pt-0000/rankings.md) · [json](2026-11-21/pt-0000/stats.json) |
 | 2026-11-20 | Los Angeles 00:00 (`pt-0000`) | 2026-11-20T15:48:18Z | erkamyaman/rust-anything (1,502/day) | morluto/rea (2,145/day) | morluto/rea (4,068/day) | deepseek-ai/deepseek-harness (2,873/day) | [2026-11-20/pt-0000](2026-11-20/pt-0000/rankings.md) · [json](2026-11-20/pt-0000/stats.json) |
 | 2026-11-19 | Los Angeles 00:00 (`pt-0000`) | 2026-11-19T16:07:38Z | erkamyaman/rust-anything (1,476/day) | morluto/rea (2,263/day) | morluto/rea (4,375/day) | deepseek-ai/deepseek-harness (2,897/day) | [2026-11-19/pt-0000](2026-11-19/pt-0000/rankings.md) · [json](2026-11-19/pt-0000/stats.json) |

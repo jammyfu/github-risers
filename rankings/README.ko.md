@@ -6,6 +6,7 @@
 
 | 날짜 | 슬롯 | 가져온 시각(UTC) | 신규 1위(7일) | 이번 주 1위 | 이번 달 1위 | 올해 1위 | 스냅샷 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-22 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-22T14:56:25Z | erkamyaman/rust-anything (1,275/일) | morluto/rea (1,884/일) | morluto/rea (3,575/일) | deepseek-ai/deepseek-harness (2,824/일) | [2026-11-22/pt-0000](2026-11-22/pt-0000/rankings.ko.md) · [json](2026-11-22/pt-0000/stats.json) |
 | 2026-11-21 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-21T14:58:23Z | erkamyaman/rust-anything (1,395/일) | morluto/rea (2,021/일) | morluto/rea (3,804/일) | deepseek-ai/deepseek-harness (2,848/일) | [2026-11-21/pt-0000](2026-11-21/pt-0000/rankings.ko.md) · [json](2026-11-21/pt-0000/stats.json) |
 | 2026-11-20 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-20T15:48:18Z | erkamyaman/rust-anything (1,502/일) | morluto/rea (2,145/일) | morluto/rea (4,068/일) | deepseek-ai/deepseek-harness (2,873/일) | [2026-11-20/pt-0000](2026-11-20/pt-0000/rankings.ko.md) · [json](2026-11-20/pt-0000/stats.json) |
 | 2026-11-19 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-19T16:07:38Z | erkamyaman/rust-anything (1,476/일) | morluto/rea (2,263/일) | morluto/rea (4,375/일) | deepseek-ai/deepseek-harness (2,897/일) | [2026-11-19/pt-0000](2026-11-19/pt-0000/rankings.ko.md) · [json](2026-11-19/pt-0000/stats.json) |

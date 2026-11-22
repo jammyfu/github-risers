@@ -118,42 +118,48 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust移行が不安？動作を確認しつつ段階移行 | アプリ全体を一度に1つずつRustで書き直し、各ステップでオリジナルの記録された動作と照合して確認します。TypeScで作成されたCLI、HTTPサーバー、ライブラリ… |
-| [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 4枚のドット絵を回せる疑似3Dにする | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
+| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) |  | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s… |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | ローカルLLMが遅い？エージェントスキルで高速化 | あらゆるハードウェアおよび量子化環境でローカルLLMサービング速度（デコード、投機的デコード、プレフィル、KV、起動、TTFT）を山登り法で向上させるエージェントスキル |
+| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) |  | Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A… |
+| [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 4枚のドット絵を回せる疑似3Dにする | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
+| [pritamux/gridlines](https://github.com/pritamux/gridlines) |  | An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding. |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AIエージェントに32の無料マーケティングスキルを | AI エージェント向けの 32 の無料マーケティングスキル：リサーチ、ポジショニング、コピー、ページ、SEO、AI 検索、広告、メール、コンテンツ、さらに充実したローカルビジネスパック。MIT。 |
 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | トークンが足りない？LLMの往復と消費枠を削減 | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
+| [sous-labs/songe](https://github.com/sous-labs/songe) |  | A training engine for your local model, using your idle compute |
 | [staryone/motlab](https://github.com/staryone/motlab) | コードで動画を作りたい？素材からエージェントが生成 | コードとしての動画：ヘッドレスChromeでWebCodecsを使用してレンダリングされるcanvasシーン、レビュービューア、そして参考資料から動画を構築するエージェントスキル。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 画面設計が面倒？エージェントスキルで全状態をデザイン | AIエージェント向けのデザインスキル：/craft-setup がデザインブリーフを作成し、/craft がデザインシステムからあらゆる状態の画面をデザインしてレビューします。Works wit… |
+| [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) |  | Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she… |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Macで複数のClaude デスクトップを同時に使う | Mac上で複数のClaude Desktopアカウントを同時に実行：個別のサインイン、カスタムアイコン、1つの共有Claude Code環境、そして互いにメッセージを送信し合… |
 | [kobimusic/dettato](https://github.com/kobimusic/dettato) | 録音から音符や楽器トラック、ドラムを書き出す | KobiMusic のマルチインストゥルメント対応オーディオ-MIDI トランスクライバー：あらゆる録音から音符、楽器トラック、ドラムを書き起こし |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 実機連携に悩む？エージェント型ロボットワークフロー | シミュレーションと実ロボットをまたぐエージェント型ロボティクスワークフロー向けの GDM Robotics スキル。 |
-| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) | 誰がAI予算を使い切ったかと対策を調べる | Claude、ChatGPT、Claude Code、Cursor、または VS Code に、AI 予算を誰が消費したのか、何を修正すべきかを尋ねます。TraxAgent の読み取り専用 MCP サーバーおよび Claude Code プラグイン。 |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codexを使って一言からコマ撮りアニメを作る | 1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る… |
-| [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database) | 医療向けAIデータセットのライセンス検証記録 | 医療 AI を支えるデータセットの検証済みライセンスおよび出所記録：情報カード、JSON Schema、決定ルール、証拠インデックス（ハッシュのみ）。Cards… |
 | [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 教材が散らかる？ノートやPDFを章ごとの学習コースに | 自習、eラーニング、試験対策向けのセルフホスト型 AI チューターおよび学習アシスタント。学習ノート、PDF、講義ノートを章ごとの学習パスへと変換し… |
+| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codexを使って一言からコマ撮りアニメを作る | 1行のテキストから生成されるコマ撮り短編、Codexで作成：8つのマテリアルスタイル、画像モデルによって描かれコードで1フレームずつ動かされるパペット。一言で言えば、Codexでコマ撮りアニメーションを作る… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 用の開発者向けスキルライブラリ | Grand Tour スキル：/grand-tour 向けにオーケストレーションされた開発者ライブラリ |
-| [AI4XE/Parallax](https://github.com/AI4XE/Parallax) | AIコーディング用の軽量ワークフロープラグイン | DeepSeek Harness、Claude Code、GitHub Copilot などを活用したハンズフリー AI コーディング向け軽量ワークフロープラグイン。 |
+| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) |  | Storyboard, capture, and animate: an AI editing workflow for YouTube |
 | [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUIによるローカル私有AIモデル対話 | ローカルでプライベート AI モデルとチャット。Open Webui Private Ai Desk を搭載。 |
-| [wozniakalan323-bit/opencode-project-workbench](https://github.com/wozniakalan323-bit/opencode-project-workbench) | Opencodeのタスクやファイル、ワークフロー作業台 | Opencode Project Workbench は、opencode プロジェクトのタスク、ファイル、およびワークフローの状態を構造化します。 |
-| [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) | Codex CLIリポジトリ管理と検査のローカル作業場 | Codex Cli Repo Workbench は Codex CLI リポジトリを管理および検査するためのローカルワークスペースを提供します |
-| [chase1225/anythingllm-verona-document-chat](https://github.com/chase1225/anythingllm-verona-document-chat) | Verona向けAnythingLLM文書対話の連携機能 | Verona 向けのドキュメントに基づくチャット - AnythingLLM ワークスペース統合。 |
-| [mariaquinonesm-dot/wezterm-cerroora](https://github.com/mariaquinonesm-dot/wezterm-cerroora) | ターミナルの配色やキー設定を自在に整える | カスタマイズ可能なテーマとキーバインドを備えたターミナルエミュレータ設定。 |
-| [govijr/fix-storage](https://github.com/govijr/fix-storage) | MacとLinuxのストレージ問題をCLIで解決 | mac &amp; linux マシンのストレージ問題を解決する CLI。fix-storage を実行するだけです。 |
-| [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | Java ModのRust移植が大変？jarから自動変換 | SmeltをJava modのjarに向けると、Horizon向けのRust移植を開始します：crate、trait、そして実行可能なビルド。未完成の部分はマークされているため、正確にw… |
-| [vulnix0x4/a-better-antivirus](https://github.com/vulnix0x4/a-better-antivirus) | 偽データで情報窃取者を誘い出して停止 | Windows上で情報窃取マルウェアを現行犯で捕捉：マルウェアしか読み取らない偽のパスワード、ウォレット、アプリデータを配置し、それらに触れたものをすべて凍結します。 |
-| [ineedfoundmyway/planrelay](https://github.com/ineedfoundmyway/planrelay) | 計画やコードレビューで注釈を付け課題を解決 | Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer a… |
-| [luisgonzaleznf/renfe-cli](https://github.com/luisgonzaleznf/renfe-cli) | アカウント不要でRenfeの運行時間や運賃を確認 | Renfe列車の時刻表と運賃のためのJSONファーストなCLI。アカウント不要。 |
-| [takidd767-ship-it/rust-external-trainer-sanolan](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan) | ゲーム内補助とデータパネルを備えたRust用トレーナー | 実用的なゲーム内アシストと読みやすいデータパネルを提供する、特化型のRust外部トレーナー。 |
-| [2411500034-indra/delta-force-trainer-velmora](https://github.com/2411500034-indra/delta-force-trainer-velmora) | リアルタイム戦術数値を表示するDelta Force用ツール | リアルタイムの戦術情報を取得できるVelmoraのトレーナーでDelta Forceをプレイ。 |
-| [luciskynet-cloud/sonyvegas](https://github.com/luciskynet-cloud/sonyvegas) | 基本機能を提供するSonyvegasビルド | Sonyvegas はコア機能を提供します — 直接的かつ技術的な精度で構築されています。 |
-| [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Web開発環境Adobe DreamweaverのVarvera版 | コーディングとデザインのためのWeb開発環境である Adobe Dreamweaver の Varvera エディション。 |
-| [iftikharcoder2023/alacritty-alrira](https://github.com/iftikharcoder2023/alacritty-alrira) | 設定やプロファイルを管理するAlacritty用ターミナル設定層 | 設定とプロファイルを管理する、Alacritty 向けの GPU アクセラレート対応ターミナルエミュレータ設定レイヤー。 |
-| [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 世界を形作り、作品を共有して共に建築 | CMP30HX Mod: 世界を形作り、技術を共有し、共に築く |
-| [parth888/runtime-forge](https://github.com/parth888/runtime-forge) | CLIで各種ランタイムの確認・導入・更新 | Runtime Forge CLI: DirectX、VC++、.NET、Java、Python、Go、Rust の検査、インストール、アップデート、削除、 |
-| [Dude-web/easywinget-gui](https://github.com/Dude-web/easywinget-gui) | Web画面でWindowsパッケージを楽に管理 | EasyWinget GUI: シームレスな Windows パッケージ管理のためのモダンな Web インターフェース |
-| [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 中国特許書類の作成や文書チェックを行う専用ツール | 中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。 |
-| [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd) | フォーク不要、1ファイルでClaude風テーマに | Claude にインスパイアされた T3 Code 向けテーマ。1 ファイル、fork 不要。 |
+| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) |  | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) |  | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
+| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) |  | Startall Back Utility: Desktop Manager with Interface Customization |
+| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) |  | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
+| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) |  | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
+| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) |  | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
+| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) |  | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) |  | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
+| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) |  | MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design |
+| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) |  | Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit |
+| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) |  | Honeypot Detector: Security Tool for Identifying Deceptive Network Endpoints |
+| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) |  | FoneTrans Desktop Utility: Complete Data Transfer and Device Management Suite |
+| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) |  | Easy Worship Desktop: Streamlined Presentation and Service Planning Software |
+| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) |  | ExitLag Utility: Desktop Network Optimization and Route Management Console |
+| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) |  | Easeus Partition Master: Full-Featured Desktop Partition Management Suite |
+| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) |  | Display Fusion: Multi-Monitor Desktop Management with Window Snapping and Profile Automation |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) |  | Delta Force Trainer: Tactical Desktop Performance Toolkit |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) |  | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
+| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) |  | Better Discord Client: Remastered Desktop Experience for Modders |
+| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) |  | Clion Desktop: Plugin Suite and Desktop Integration |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | ブラウザでGGUFの量子化とサンプラーを確認するツール | 任意の GGUF の内部を可視化：2 つの量子化がどこで分岐するのかをトークンごとに確認し、各サンプラーが何を削減するかを把握。llama.cpp（CUDA または Vulkan）を搭載し、ブラウザ内でリアルタイム動作。 |
+| [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Web開発環境Adobe DreamweaverのVarvera版 | コーディングとデザインのためのWeb開発環境である Adobe Dreamweaver の Varvera エディション。 |
+| [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 中国特許書類の作成や文書チェックを行う専用ツール | 中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。 |
 | [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | ボットタスクを繰り返し実行する自動化スクリプト | Stratgies Indicator 自動化スクリプトの反復可能なボットタスク実行 |
 | [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | Fabricで慣性を活かした連続ジャンプ移動を習得 | Bunny Hopping Mod: Fabric を活用した運動量と移動の習得 |
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
@@ -161,9 +167,9 @@
 | [hackclub/orchard](https://github.com/hackclub/orchard) | デプロイが面倒？Gitから自分のサーバーへコマンド1つで | オープンソースでセルフホスト型のデプロイプラットフォーム。1つのコマンドで Git から独自のサーバーにデプロイ。 |
 | [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | ワークブックのワークフローを視覚的に整理 | Jet Reports スキル: NAV および Business Central 向けのビジュアルワークブックワークフロー |
 | [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | Helmを使ってCMaNGOSレルムを自在に指揮 | CMaNGOS Helm: Helm を操り、あなたのレルムを統べる |
+| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) | Ceramar手法を用いたAfter Effectsモーション設計 | After Effects Ceramar Motion Design: Ceramar テクニックを中心に構築されたモーションデザインプロジェクト。 |
 | [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) | Illustrator向けベクター設計ワークフロー | Illustrator Datalin Vector Design は、構造化されたアートワークに高精度なベクターデザインワークフローを提供します。 |
 | [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) | Cinema 4Dスタジオ動態シーン構築ワークフロー | 構造化されたスタジオワークフローを通じて Cinema 4D Sacerin のモーションシーンを構築します。 |
-| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) | Ceramar手法を用いたAfter Effectsモーション設計 | After Effects Ceramar Motion Design: Ceramar テクニックを中心に構築されたモーションデザインプロジェクト。 |
 | [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) | スクリーンショット付きAdobe Frescoツールガイド | スクリーンショット満載のビジュアルガイドで Adobe Fresco Elrina のブラシとツールを探索します。 |
 | [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) | Adobe Animate向けアニメーション作成・調整ツール | Adobe Animate Velvona ツールを使用してアニメーションを作成および調整します。 |
 | [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) | カメラと音声によるリアルタイムパペットアニメーション | ウェブカメラと音声入力によって駆動されるリアルタイムのパペットアニメーション—Calraraは表情マッピングを統合します |
