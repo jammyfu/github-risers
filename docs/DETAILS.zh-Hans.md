@@ -118,41 +118,41 @@
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想换成 Rust？对照原行为一步步迁移 | 将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库… |
-| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) |  | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s… |
+| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 代码太慢？让智能体只重写最慢的5% | 不要用 Rust 重写。重写慢的 5%：分析 Python、Node 或 Ruby 应用的性能，用你的编程智能体移植热点函数，证明它们的行为相… |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本地LLM太慢？让智能体技能帮你加速 | 用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能 |
-| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) |  | Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A… |
+| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面运行开源的本地AI智能体团队 | 适用于桌面的开源、本地优先 AI 智能体团队：多智能体群聊、计算机使用、浏览器、MCP、例程与审批。macOS、Windows、Linux + A… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四张像素画直接变能旋转的伪3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
-| [pritamux/gridlines](https://github.com/pritamux/gridlines) |  | An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding. |
+| [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 让 AI 智能体掌握 32 项免费营销技能 | 为你的 AI 智能体提供 32 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。 |
-| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 对话太耗Token？帮你减少额度消耗 | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
-| [sous-labs/songe](https://github.com/sous-labs/songe) |  | A training engine for your local model, using your idle compute |
+| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 对话太耗Token？帮你减少额度消耗 | 适用于 Google Antigravity (CLI/Desktop/IDE) 的非侵入式 MCP 加速器插件：在不影响…的情况下减少 LLM 轮次 (-34%)、Token 配额 (-31%) 和上传流量 (-40%) |
+| [sous-labs/songe](https://github.com/sous-labs/songe) | 闲置算力浪费了？用来训练你的本地模型 | 利用闲置算力为本地模型提供支持的训练引擎 |
 | [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
 | [diego3g/craft](https://github.com/diego3g/craft) | 界面设计太繁琐？让智能体画全状态页面 | AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit… |
-| [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) |  | Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she… |
+| [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | 将设计和幻灯片以普通文件保存在本地 | 开放且独立于智能体和模型的工件，全部作为纯文本文件保存在本地——编辑、评论并导出幻灯片、UI 设计、设计系统、白板、表… |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | 在 Mac 同时登录多个 Claude 桌面账号 | 在 Mac 上同时运行多个 Claude Desktop 账号：独立登录、自定义图标、共享的 Claude Code 配置，以及彼此互相发消… |
 | [kobimusic/dettato](https://github.com/kobimusic/dettato) | 录音直接转各乐器音轨、音符与鼓点 | KobiMusic 的多乐器音频转 MIDI 转录器：从任何录音中提取音符、乐器音轨和鼓声 |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真与真机？运行智能体式工作流 | 用于跨仿真与真实机器人的智能体式机器人工作流的 GDM Robotics 技能。 |
 | [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 备考笔记太乱？让AI帮你理出学习路径 | 用于自学、电子学习和备考的自托管 AI 导师与学习助手。将学习笔记、PDF 和讲义转化为章节学习路径并… |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格动画？用 Codex 一句话做出来 | 由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
-| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) |  | Storyboard, capture, and animate: an AI editing workflow for YouTube |
+| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
 | [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUI本地私有AI模型对话桌面端 | 在本地与私有 AI 模型对话，由 Open Webui Private Ai Desk 提供支持。 |
-| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) |  | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) |  | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
+| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) |  | Startall Back Utility: Desktop Manager with Interface Customization |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) |  | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) |  | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) |  | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) |  | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) |  | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
-| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) |  | MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design |
-| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) |  | Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit |
-| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) |  | Honeypot Detector: Security Tool for Identifying Deceptive Network Endpoints |
-| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) |  | FoneTrans Desktop Utility: Complete Data Transfer and Device Management Suite |
-| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) |  | Easy Worship Desktop: Streamlined Presentation and Service Planning Software |
-| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) |  | ExitLag Utility: Desktop Network Optimization and Route Management Console |
-| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) |  | Easeus Partition Master: Full-Featured Desktop Partition Management Suite |
-| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) |  | Display Fusion: Multi-Monitor Desktop Management with Window Snapping and Profile Automation |
+| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) |  | MicroStation Utility: 用于基础设施设计的综合桌面工程工具集 |
+| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光盘映像制作与转换工具 | Ultra ISO: 桌面光盘映像制作、挂载与转换工具包 |
+| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) |  | Honeypot Detector: 用于识别欺骗性网络端点的安全工具 |
+| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面数据传输与设备管理套件 | FoneTrans Desktop Utility: 完整的数据传输与设备管理套件 |
+| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面演示与仪式规划软件 | Easy Worship Desktop: 精简的演示与礼拜规划软件 |
+| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag 桌面网络优化与路由管理控制台 | ExitLag Utility: 桌面网络优化与路由管理控制台 |
+| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) |  | Easeus Partition Master: 功能齐全的桌面分区管理套件 |
+| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
 | [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) |  | Delta Force Trainer: Tactical Desktop Performance Toolkit |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) |  | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) |  | Better Discord Client: Remastered Desktop Experience for Modders |

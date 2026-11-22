@@ -67,14 +67,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 2026-11-16<br><sub>6.1일</sub> | 7,795 | 1,274.7 |
-| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s… | 2026-11-21<br><sub>1.0일</sub> | 1,095 | 1,083.0 |
+| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>1.0일</sub> | 1,095 | 1,083.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 2026-11-16<br><sub>5.8일</sub> | 1,874 | 320.6 |
-| 4 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A… | 2026-11-21<br><sub>1.3일</sub> | 314 | 235.3 |
+| 4 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀 | 2026-11-21<br><sub>1.3일</sub> | 314 | 235.3 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>도트 그림 네 장을 회전하는 의사 3D로 변환 | 2026-11-20<br><sub>2.0일</sub> | 427 | 211.8 |
-| 6 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding. | 2026-11-21<br><sub>1.1일</sub> | 156 | 137.6 |
+| 6 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>UI 정렬이 어긋날 때 가이드선으로 여백 수정 | 2026-11-21<br><sub>1.1일</sub> | 156 | 137.6 |
 | 7 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | 2026-11-16<br><sub>6.0일</sub> | 790 | 131.9 |
 | 8 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>토큰이 부족한가요? LLM 턴과 할당량을 절약 | 2026-11-19<br><sub>3.4일</sub> | 399 | 116.8 |
-| 9 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>A training engine for your local model, using your idle compute | 2026-11-20<br><sub>2.2일</sub> | 210 | 97.1 |
+| 9 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기 | 2026-11-20<br><sub>2.2일</sub> | 210 | 97.1 |
 | 10 | [staryone/motlab](https://github.com/staryone/motlab)<br>코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 2026-11-16<br><sub>6.0일</sub> | 375 | 62.0 |
 
 <details>
@@ -272,16 +272,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>Studioonepro7 Release: Complete Desktop Suite with All Features Included | 2026-11-21<br><sub>1.0일</sub> | 339 | 339.0 |
-| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
-| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility: Desktop Manager with Interface Customization | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
-| 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
-| 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>Community-Driven NinjaTrader Bot for Discord and Telegram with Rich | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
-| 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
-| 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
-| 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
-| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
-| 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
+| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>모든 기능을 포함한 Studioonepro7 데스크톱 버전 | 2026-11-21<br><sub>1.0일</sub> | 339 | 339.0 |
+| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe 데스크톱 금융 관리 버전 | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
+| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility 데스크톱 관리 도구 | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
+| 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer 데스크톱 자산 배분 도구 | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
+| 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>Discord 및 Telegram용 NinjaTrader Bot | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
+| 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>MediaTek 지원 SP Flash Tool 명령줄 도구 | 2026-11-21<br><sub>1.0일</sub> | 338 | 338.0 |
+| 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Discord 및 Telegram용 MetaTrader 5 bot | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
+| 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring 화면 미러링 도구 | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
+| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility 데스크톱 엔지니어링 도구 | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
+| 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 데스크톱 디스크 이미지 도구 | 2026-11-21<br><sub>1.0일</sub> | 337 | 337.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

@@ -170,6 +170,19 @@
         }
       }
     },
+    "Adabi0304/studioonepro7-release": {
+      "5aee3c834d01": {
+        "src": "Studioonepro7 Release: Complete Desktop Suite with All Features Included",
+        "hook": {
+          "en": "Studioonepro7 desktop suite release with all features",
+          "zh-Hans": "Studioonepro7发布，含全功能桌面套件",
+          "zh-Hant": "Studioonepro7發布，含全功能桌面套件",
+          "ja": "全機能を含むStudioonepro7デスクトップ版",
+          "ko": "모든 기능을 포함한 Studioonepro7 데스크톱 버전"
+        },
+        "seen": "2026-11-22"
+      }
+    },
     "AdmiralEmporium/ai--manus": {
       "9f0c6d8c2759": {
         "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
@@ -791,6 +804,22 @@
         }
       }
     },
+    "Buntee-tech/exitlag-utility": {
+      "056f97f85ad8": {
+        "src": "ExitLag Utility: Desktop Network Optimization and Route Management Console",
+        "zh-Hans": "ExitLag Utility: 桌面网络优化与路由管理控制台",
+        "seen": "2026-11-22",
+        "zh-Hant": "ExitLag Utility: 桌面網路最佳化與路由管理主控台",
+        "ja": "ExitLag Utility: デスクトップネットワーク最適化およびルート管理コンソール",
+        "ko": "ExitLag Utility: 데스크톱 네트워크 최적화 및 경로 관리 콘솔",
+        "hook": {
+          "en": "ExitLag desktop network optimization and route console",
+          "zh-Hans": "ExitLag 桌面网络优化与路由管理控制台",
+          "ja": "ExitLag デスクトップネットワーク最適化ツール",
+          "ko": "ExitLag 데스크톱 네트워크 최적화 콘솔"
+        }
+      }
+    },
     "CaptureMiller/strata-osint-domain-recon": {
       "a1e53fce8ed7": {
         "src": "OSINT domain and infrastructure reconnaissance for Windows: DNS, certificates, hosting and history of any domain, layer by layer.",
@@ -888,6 +917,17 @@
           "ko": "Ads Blocker 2026 광고 차단 표기",
           "zh-Hans": "Ads Blocker 2026 桌面广告拦截安装包"
         }
+      }
+    },
+    "CertificateVerfication/chimera-utility": {
+      "6a6591b8e2d8": {
+        "src": "Chimera Utility: Unified Desktop Toolchain for System Management and Workflow",
+        "hook": {
+          "en": "Chimera Utility desktop system and workflow toolchain",
+          "ja": "Chimera Utility デスクトップ管理ツール",
+          "ko": "Chimera Utility 데스크톱 워크플로 도구"
+        },
+        "seen": "2026-11-22"
       }
     },
     "ChannelCooperStart/capri-ai": {
@@ -1102,6 +1142,17 @@
         }
       }
     },
+    "Daax116/startall-back-utility": {
+      "7b8af01a2aeb": {
+        "src": "Startall Back Utility: Desktop Manager with Interface Customization",
+        "hook": {
+          "en": "Startall Back Utility desktop customization tool",
+          "ja": "Startall Back Utility デスクトップ管理",
+          "ko": "Startall Back Utility 데스크톱 관리 도구"
+        },
+        "seen": "2026-11-22"
+      }
+    },
     "DandanLLab/SnowCatQQ": {
       "95251239fd5f": {
         "src": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
@@ -1256,6 +1307,23 @@
           "zh-Hant": "用網頁介面輕鬆管理 Windows 套件",
           "ja": "Web画面でWindowsパッケージを楽に管理",
           "ko": "웹 인터페이스로 Windows 패키지를 편리하게 관리"
+        }
+      }
+    },
+    "EL4CTEO/fast-anything": {
+      "8c7717403c89": {
+        "src": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s…",
+        "zh-Hans": "不要用 Rust 重写。重写慢的 5%：分析 Python、Node 或 Ruby 应用的性能，用你的编程智能体移植热点函数，证明它们的行为相…",
+        "seen": "2026-11-22",
+        "zh-Hant": "不要用 Rust 重寫。重寫慢的 5%：分析 Python、Node 或 Ruby 應用程式的效能，用你的編程代理移植熱點函式，證明它們的行為相…",
+        "ja": "Rustで書き直さないでください。遅い5%を書き直す：Python、Node、Rubyアプリをプロファイリングし、コーディングエージェントでホット関数を移植し、同じように動作することを証明…",
+        "ko": "Rust로 다시 작성하지 마세요. 느린 5%를 다시 작성하세요: Python, Node 또는 Ruby 앱을 프로파일링하고, 코딩 에이전트로 핫 함수를 포팅하고, 동일하게 동작함을 증…",
+        "hook": {
+          "en": "App running slow? Let an agent rewrite the slow 5%",
+          "zh-Hans": "代码太慢？让智能体只重写最慢的5%",
+          "zh-Hant": "程式太慢？讓代理只重寫最慢的5%",
+          "ja": "アプリが遅い？遅い5%だけエージェントで書き換える",
+          "ko": "앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기"
         }
       }
     },
@@ -1771,7 +1839,11 @@
           "zh-Hans": "对话太耗Token？帮你减少额度消耗",
           "zh-Hant": "對話太耗Token？幫你減少額度消耗"
         },
-        "seen": "2026-11-21"
+        "seen": "2026-11-22",
+        "zh-Hans": "适用于 Google Antigravity (CLI/Desktop/IDE) 的非侵入式 MCP 加速器插件：在不影响…的情况下减少 LLM 轮次 (-34%)、Token 配额 (-31%) 和上传流量 (-40%)",
+        "zh-Hant": "適用於 Google Antigravity (CLI/Desktop/IDE) 的非侵入式 MCP 加速器外掛：在不影響…的情況下減少 LLM 輪次 (-34%)、Token 配額 (-31%) 和上傳流量 (-40%)",
+        "ja": "Google Antigravity (CLI/Desktop/IDE)向けの非侵襲的MCPアクセラレータプラグイン：…に影響を与えることなくLLMターン数 (-34%)、トークンクォータ (-31%)、アップロードトラフィック (-40%) を削減",
+        "ko": "Google Antigravity (CLI/Desktop/IDE)용 비침습적 MCP 가속기 플러그인: …에 영향을 주지 않고 LLM 턴(-34%), 토큰 쿼터(-31%), 업로드 트래픽(-40%)을 절감"
       }
     },
     "Interactive-Active-AI/NextTransformer": {
@@ -1805,6 +1877,23 @@
           "zh-Hant": "daemon-pro 獨立桌面完整安裝設定",
           "ja": "daemon-pro スタンドアロンデスクトップ設定",
           "ko": "daemon-pro 독립형 데스크톱 전체 설치 구성"
+        }
+      }
+    },
+    "JimLiu/open-artifact": {
+      "be11785e262d": {
+        "src": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she…",
+        "zh-Hans": "开放且独立于智能体和模型的工件，全部作为纯文本文件保存在本地——编辑、评论并导出幻灯片、UI 设计、设计系统、白板、表…",
+        "seen": "2026-11-22",
+        "zh-Hant": "開放且獨立於代理和模型的工件，全部作為純文字檔案儲存在本機——編輯、評論並匯出投影片、UI 設計、設計系統、白板、試算…",
+        "ja": "オープンで、エージェントやモデルを問わない成果物。すべてプレーンファイルとしてローカルに保存 — スライド、UIデザイン、デザインシステム、ホワイトボード、シー…の編集、コメント、エクスポート",
+        "ko": "개방적이고 에이전트 및 모델에 구애받지 않는 아티팩트, 모두 로컬에 일반 파일로 저장 — 슬라이드, UI 디자인, 디자인 시스템, 화이트보드, 시… 편집, 댓글 작성 및 내보내기",
+        "hook": {
+          "en": "Save slides and UI designs locally as plain files",
+          "zh-Hans": "将设计和幻灯片以普通文件保存在本地",
+          "zh-Hant": "將設計與簡報以普通檔案儲存在本機",
+          "ja": "スライドやUI設計を普通のファイルでローカル保存",
+          "ko": "슬라이드와 디자인을 일반 파일로 로컬에 저장"
         }
       }
     },
@@ -2843,6 +2932,21 @@
         }
       }
     },
+    "SABINOGAMESPONTOCOM/honeypot-detector": {
+      "f54a466c269f": {
+        "src": "Honeypot Detector: Security Tool for Identifying Deceptive Network Endpoints",
+        "zh-Hans": "Honeypot Detector: 用于识别欺骗性网络端点的安全工具",
+        "seen": "2026-11-22",
+        "zh-Hant": "Honeypot Detector: 用於識別欺騙性網路端點的資安工具",
+        "ja": "Honeypot Detector: 欺瞞的なネットワークエンドポイントを特定するためのセキュリティツール",
+        "ko": "Honeypot Detector: 기만적인 네트워크 엔드포인트를 식별하기 위한 보안 도구",
+        "hook": {
+          "en": "Honeypot Detector security tool for deceptive endpoints",
+          "ja": "Honeypot Detector セキュリティツール",
+          "ko": "Honeypot Detector 엔드포인트 보안 도구"
+        }
+      }
+    },
     "SAOS-3624/dsh-see-now": {
       "f6568f266eb2": {
         "src": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -3140,6 +3244,17 @@
           "ja": "主流エージェントに日中韓優先の記憶を追加",
           "ko": "주류 에이전트에 CJK 우선 메모리 모듈 제공"
         }
+      }
+    },
+    "Speedydx/delta-force-trainer": {
+      "eafa90e184cf": {
+        "src": "Delta Force Trainer: Tactical Desktop Performance Toolkit",
+        "hook": {
+          "en": "Delta Force Trainer tactical desktop performance toolkit",
+          "ja": "Delta Force Trainer デスクトップ性能ツール",
+          "ko": "Delta Force Trainer 데스크톱 성능 툴킷"
+        },
+        "seen": "2026-11-22"
       }
     },
     "Speedzyaminaret/UnlockTool": {
@@ -3736,6 +3851,23 @@
         }
       }
     },
+    "Yummy2288/fonetrans-desktop-utility": {
+      "f3d80d07e7e2": {
+        "src": "FoneTrans Desktop Utility: Complete Data Transfer and Device Management Suite",
+        "zh-Hans": "FoneTrans Desktop Utility: 完整的数据传输与设备管理套件",
+        "seen": "2026-11-22",
+        "zh-Hant": "FoneTrans Desktop Utility: 完整的資料傳輸與裝置管理套件",
+        "ja": "FoneTrans Desktop Utility: 完全なデータ転送およびデバイス管理スイート",
+        "ko": "FoneTrans Desktop Utility: 완전한 데이터 전송 및 기기 관리 제품군",
+        "hook": {
+          "en": "FoneTrans desktop data transfer and device management suite",
+          "zh-Hans": "FoneTrans 桌面数据传输与设备管理套件",
+          "zh-Hant": "FoneTrans 桌面資料傳輸與裝置管理套件",
+          "ja": "FoneTrans デスクトップデータ転送スイート",
+          "ko": "FoneTrans 데스크톱 데이터 전송 및 기기 관리"
+        }
+      }
+    },
     "YusufCeng1z/ding": {
       "483ce4b89845": {
         "src": "Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte and plain DOM.",
@@ -4142,6 +4274,17 @@
           "ja": "エージェントでツールを動かす？サンドボックスで実行",
           "ko": "에이전트로 도구를 다루고 싶다면? 샌드박스에서 실행"
         }
+      }
+    },
+    "ayux777/metatrader-5-bot": {
+      "19a7027c168f": {
+        "src": "Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto",
+        "hook": {
+          "en": "MetaTrader 5 bot for Discord and Telegram",
+          "ja": "MetaTrader 5 bot Discord連携",
+          "ko": "Discord 및 Telegram용 MetaTrader 5 bot"
+        },
+        "seen": "2026-11-22"
       }
     },
     "azure-teal-slope/windows-optimizer-desktop": {
@@ -4684,6 +4827,19 @@
         }
       }
     },
+    "cr4zyp4ul/quicken-deluxe": {
+      "a1e64f9e9297": {
+        "src": "Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting",
+        "hook": {
+          "en": "Quicken Deluxe desktop financial management release",
+          "zh-Hans": "Quicken Deluxe桌面财务管理发布版",
+          "zh-Hant": "Quicken Deluxe桌面財務管理發布版",
+          "ja": "Quicken Deluxeデスクトップ財務管理版",
+          "ko": "Quicken Deluxe 데스크톱 금융 관리 버전"
+        },
+        "seen": "2026-11-22"
+      }
+    },
     "dabingfy-dot/solo-to-team-skills": {
       "0bdecfa14a14": {
         "src": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
@@ -4917,6 +5073,17 @@
         }
       }
     },
+    "dongarenikhilit047-star/portfolio-rebalancer": {
+      "32b4d40f177e": {
+        "src": "Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios",
+        "hook": {
+          "en": "Portfolio Rebalancer desktop allocation tool",
+          "ja": "Portfolio Rebalancer 配分管理ツール",
+          "ko": "Portfolio Rebalancer 데스크톱 자산 배분 도구"
+        },
+        "seen": "2026-11-22"
+      }
+    },
     "driftcoralemporium/instagram-liker-bot": {
       "0ba3a1b3b3e7": {
         "src": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.",
@@ -4929,6 +5096,23 @@
           "en": "Instagram Liker Bot 2023 desktop automated liking setup",
           "ja": "Instagram Liker Bot 2023 自動化ツール",
           "ko": "Instagram Liker Bot 2023 데스크톱 자동화 프로그램"
+        }
+      }
+    },
+    "drillryte/easy-worship": {
+      "94abfdc2f0ab": {
+        "src": "Easy Worship Desktop: Streamlined Presentation and Service Planning Software",
+        "zh-Hans": "Easy Worship Desktop: 精简的演示与礼拜规划软件",
+        "seen": "2026-11-22",
+        "zh-Hant": "Easy Worship Desktop: 精簡的簡報與禮拜規劃軟體",
+        "ja": "Easy Worship Desktop: 合理化されたプレゼンテーションおよび礼拝計画ソフトウェア",
+        "ko": "Easy Worship Desktop: 간소화된 프레젠테이션 및 예배 계획 소프트웨어",
+        "hook": {
+          "en": "Easy Worship desktop presentation and planning software",
+          "zh-Hans": "Easy Worship 桌面演示与仪式规划软件",
+          "zh-Hant": "Easy Worship 桌面簡報與儀式規劃軟體",
+          "ja": "Easy Worship デスクトッププレゼンソフト",
+          "ko": "Easy Worship 데스크톱 프레젠테이션 소프트웨어"
         }
       }
     },
@@ -4965,6 +5149,17 @@
           "ja": "中国語と英語での医学論文執筆を支援",
           "ko": "중국어와 영어로 의학 논문 쓰기 지원"
         }
+      }
+    },
+    "eastspaper6-cmyk/ninjatrader-bot": {
+      "67cf16ed0f45": {
+        "src": "Community-Driven NinjaTrader Bot for Discord and Telegram with Rich",
+        "hook": {
+          "en": "NinjaTrader Bot for Discord and Telegram",
+          "ja": "NinjaTrader Bot Discord連携ツール",
+          "ko": "Discord 및 Telegram용 NinjaTrader Bot"
+        },
+        "seen": "2026-11-22"
       }
     },
     "emanuele-em/kanzo": {
@@ -5438,6 +5633,17 @@
         }
       }
     },
+    "hariachayan5-dotcom/sp-flash-tool": {
+      "d6b3be0fa4df": {
+        "src": "SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices",
+        "hook": {
+          "en": "SP Flash Tool command-line utility for MediaTek",
+          "ja": "SP Flash Tool MediaTek設定ツール",
+          "ko": "MediaTek 지원 SP Flash Tool 명령줄 도구"
+        },
+        "seen": "2026-11-22"
+      }
+    },
     "haydenschmitty/floorplan": {
       "0d7b5039191e": {
         "src": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
@@ -5884,6 +6090,28 @@
           "ja": "ボットタスクを繰り返し実行する自動化スクリプト",
           "ko": "반복 봇 작업을 실행하는 자동화 스크립트"
         }
+      }
+    },
+    "jshami391-bit/scrcpy-screen-mirroring": {
+      "485e3bf01502": {
+        "src": "Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control",
+        "hook": {
+          "en": "Scrcpy Screen Mirroring display and input tool",
+          "ja": "Scrcpy Screen Mirroring 画面複製",
+          "ko": "Scrcpy Screen Mirroring 화면 미러링 도구"
+        },
+        "seen": "2026-11-22"
+      }
+    },
+    "juniordroid/better-discord-client": {
+      "93459d1be021": {
+        "src": "Better Discord Client: Remastered Desktop Experience for Modders",
+        "hook": {
+          "en": "Better Discord Client desktop experience for modders",
+          "ja": "Better Discord Client デスクトップ",
+          "ko": "모더용 Better Discord Client 데스크톱"
+        },
+        "seen": "2026-11-22"
       }
     },
     "kevinraymond/florilegium": {
@@ -6606,6 +6834,21 @@
         "ko": "브라우저 없이 동작하는 PHP 및 Laravel용 HTML/CSS to PDF 변환 도구. Chrome 인쇄처럼 렌더링하며 PDF/A, PDF/UA 및 ZUGFeRD/Factur-X를 지원합니다."
       }
     },
+    "njoniktu5/microstation-utility": {
+      "a42af282f606": {
+        "src": "MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design",
+        "zh-Hans": "MicroStation Utility: 用于基础设施设计的综合桌面工程工具集",
+        "seen": "2026-11-22",
+        "zh-Hant": "MicroStation Utility: 用於基礎設施設計的綜合桌面工程工具組",
+        "ja": "MicroStation Utility: インフラ設計のための包括的なデスクトップエンジニアリングツールセット",
+        "ko": "MicroStation Utility: 인프라 설계를 위한 포괄적인 데스크톱 엔지니어링 툴셋",
+        "hook": {
+          "en": "MicroStation Utility engineering toolset",
+          "ja": "MicroStation Utility 設計ツール",
+          "ko": "MicroStation Utility 데스크톱 엔지니어링 도구"
+        }
+      }
+    },
     "nodedevelopersack/Cubase": {
       "e4e70a0685b8": {
         "src": "Professional Cubase 13 complete standalone installation build, pre-activated for seamless desktop audio production.",
@@ -6627,6 +6870,23 @@
           "zh-Hant": "Cubase 13 預啟用安裝版",
           "ja": "Cubase 13 事前アクティベート済みインストーラー",
           "ko": "Cubase 13 사전 활성화 설치판"
+        }
+      }
+    },
+    "official00shivansh-eng/ultra-iso": {
+      "863375ccf31e": {
+        "src": "Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit",
+        "zh-Hans": "Ultra ISO: 桌面光盘映像制作、挂载与转换工具包",
+        "seen": "2026-11-22",
+        "zh-Hant": "Ultra ISO: 桌面光碟映像製作、掛載與轉換工具組",
+        "ja": "Ultra ISO: デスクトップディスクイメージ作成、マウント、および変換ツールキット",
+        "ko": "Ultra ISO: 데스크톱 디스크 이미지 제작, 마운트 및 변환 툴킷",
+        "hook": {
+          "en": "Ultra ISO desktop disc image toolkit",
+          "zh-Hans": "Ultra ISO 桌面光盘映像制作与转换工具",
+          "zh-Hant": "Ultra ISO 桌面光碟映像製作與轉換工具",
+          "ja": "Ultra ISO デスクトップ作成ツール",
+          "ko": "Ultra ISO 데스크톱 디스크 이미지 도구"
         }
       }
     },
@@ -6770,6 +7030,17 @@
         }
       }
     },
+    "parthivvinod95-blip/clion-desktop": {
+      "1cd52acab06b": {
+        "src": "Clion Desktop: Plugin Suite and Desktop Integration",
+        "hook": {
+          "en": "Clion Desktop plugin suite and desktop integration",
+          "ja": "Clion Desktop プラグインとデスクトップ統合",
+          "ko": "Clion Desktop 플러그인 및 데스크톱 통합"
+        },
+        "seen": "2026-11-22"
+      }
+    },
     "patch-gg/anymove": {
       "eeffd1cbf6fb": {
         "src": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
@@ -6862,6 +7133,23 @@
         }
       }
     },
+    "praseesh369/youtube-ai-video-editing-system": {
+      "a564bfcc92dd": {
+        "src": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
+        "zh-Hans": "分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流",
+        "seen": "2026-11-22",
+        "zh-Hant": "分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程",
+        "ja": "ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー",
+        "ko": "스토리보드, 캡처 및 애니메이션: YouTube용 AI 편집 워크플로",
+        "hook": {
+          "en": "AI editing workflow for YouTube",
+          "zh-Hans": "YouTube的AI视频剪辑工作流",
+          "zh-Hant": "YouTube的AI影片剪輯工作流程",
+          "ja": "YouTube向けAI動画編集ワークフロー",
+          "ko": "YouTube용 AI 동영상 편집 워크플로"
+        }
+      }
+    },
     "precygtrucqui1981/blender-ai-copilot-lab": {
       "13935328da0f": {
         "src": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one c…",
@@ -6876,6 +7164,23 @@
           "ko": "여러 에이전트가 협업해 Blender 장면을 제작",
           "zh-Hans": "让智能体团队在 Blender 里分步做场景",
           "zh-Hant": "讓代理團隊在 Blender 裡分步做場景"
+        }
+      }
+    },
+    "pritamux/gridlines": {
+      "997f205ac702": {
+        "src": "An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding.",
+        "zh-Hans": "用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。",
+        "seen": "2026-11-22",
+        "zh-Hant": "用於對齊調整的代理技能：在介面上繪製參考線，找出每一個偏離參考線的元素，修復內邊距。",
+        "ja": "アライメント調整用のエージェントスキル：インターフェースにガイド線を引き、線から外れているすべての項目を見つけ、パディングを修正します。",
+        "ko": "정렬 패스를 위한 에이전트 스킬: 인터페이스에 가이드 라인을 그리고, 라인을 벗어난 모든 항목을 찾아 패딩을 수정합니다.",
+        "hook": {
+          "en": "UI misaligned? Draw guide lines and fix the padding",
+          "zh-Hans": "界面没对齐？画参考线修正内边距",
+          "zh-Hant": "介面沒對齊？畫參考線修正內邊距",
+          "ja": "UIがズレている？ガイド線を引いて余白を直す",
+          "ko": "UI 정렬이 어긋날 때 가이드선으로 여백 수정"
         }
       }
     },
@@ -7009,6 +7314,21 @@
         }
       }
     },
+    "rehmanbugti123/easeus-partition-master": {
+      "81fb41d34a7e": {
+        "src": "Easeus Partition Master: Full-Featured Desktop Partition Management Suite",
+        "zh-Hans": "Easeus Partition Master: 功能齐全的桌面分区管理套件",
+        "seen": "2026-11-22",
+        "zh-Hant": "Easeus Partition Master: 功能齊全的桌面磁碟分割管理套件",
+        "ja": "Easeus Partition Master: フル機能のデスクトップパーティション管理スイート",
+        "ko": "Easeus Partition Master: 모든 기능을 갖춘 데스크톱 파티션 관리 제품군",
+        "hook": {
+          "en": "Easeus Partition Master desktop partition management suite",
+          "ja": "デスクトップパーティション管理スイート",
+          "ko": "데스크톱 파티션 관리 스위트 소프트웨어"
+        }
+      }
+    },
     "replit/datacat": {
       "1b4053ee5c0f": {
         "src": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
@@ -7130,6 +7450,23 @@
           "zh-Hant": "不知如何配節點？理清Solana硬體與維護",
           "ja": "Solanaノードの機器選びや日常保守を整理",
           "ko": "솔라나 노드 하드웨어 선택과 일상 관리 정리"
+        }
+      }
+    },
+    "sadiqameen2005-pixel/display-fusion": {
+      "d49362f05172": {
+        "src": "Display Fusion: Multi-Monitor Desktop Management with Window Snapping and Profile Automation",
+        "zh-Hans": "Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理",
+        "seen": "2026-11-22",
+        "zh-Hant": "Display Fusion: 具備視窗貼齊與設定檔自動化的多螢幕桌面管理",
+        "ja": "Display Fusion: ウィンドウのスナップとプロファイル自動化を備えたマルチモニターデスクトップ管理",
+        "ko": "Display Fusion: 창 스냅 및 프로필 자동화 기능을 갖춘 다중 모니터 데스크톱 관리",
+        "hook": {
+          "en": "Display Fusion multi-monitor desktop management tool",
+          "zh-Hans": "Display Fusion 多显示器桌面管理工具",
+          "zh-Hant": "Display Fusion 多螢幕桌面管理工具",
+          "ja": "Display Fusion 複数画面デスクトップ管理",
+          "ko": "Display Fusion 다중 모니터 데스크톱 관리 도구"
         }
       }
     },
@@ -7414,6 +7751,23 @@
           "ko": "CS2 주문 수수료가 고민될 때, 계정 없이 바로 계획",
           "zh-Hans": "不想登录看库存？在本地规划 CS2 订单",
           "zh-Hant": "不想登入看庫存？在本機規劃 CS2 訂單"
+        }
+      }
+    },
+    "sous-labs/songe": {
+      "788f608b6861": {
+        "src": "A training engine for your local model, using your idle compute",
+        "zh-Hans": "利用闲置算力为本地模型提供支持的训练引擎",
+        "seen": "2026-11-22",
+        "zh-Hant": "利用閒置運算能力為本機模型提供支援的訓練引擎",
+        "ja": "アイドルの計算リソースを活用した、ローカルモデル用トレーニングエンジン",
+        "ko": "유휴 컴퓨팅을 활용한 로컬 모델용 학습 엔진",
+        "hook": {
+          "en": "Wasting idle compute? Use it to train your local model",
+          "zh-Hans": "闲置算力浪费了？用来训练你的本地模型",
+          "zh-Hant": "閒置算力浪費了？用來訓練你的本機模型",
+          "ja": "空き計算資源がもったいない？ローカルモデルを訓練する",
+          "ko": "쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기"
         }
       }
     },
@@ -7852,6 +8206,23 @@
           "zh-Hant": "用假資料誘捕竊密木馬並當場凍結",
           "ja": "偽データで情報窃取者を誘い出して停止",
           "ko": "가짜 데이터로 탈취 프로그램을 유인해 동결"
+        }
+      }
+    },
+    "w01fb0ss/PiBot": {
+      "4654b0cae1a9": {
+        "src": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A…",
+        "zh-Hans": "适用于桌面的开源、本地优先 AI 智能体团队：多智能体群聊、计算机使用、浏览器、MCP、例程与审批。macOS、Windows、Linux + A…",
+        "seen": "2026-11-22",
+        "zh-Hant": "適用於桌面的開源、本機優先 AI 代理團隊：多代理群聊、電腦使用、瀏覽器、MCP、例程與審批。macOS、Windows、Linux + A…",
+        "ja": "デスクトップ向けのオープンソース、ローカル優先AIエージェントチーム：マルチエージェントグループチャット、コンピュータ使用、ブラウザ、MCP、ルーチン、承認。macOS、Windows、Linux + A…",
+        "ko": "데스크톱을 위한 오픈 소스, 로컬 우선 AI 에이전트 팀: 멀티 에이전트 그룹 채팅, 컴퓨터 사용, 브라우저, MCP, 루틴 및 승인. macOS, Windows, Linux + A…",
+        "hook": {
+          "en": "Run an open-source, local AI agent team on your desktop",
+          "zh-Hans": "在桌面运行开源的本地AI智能体团队",
+          "zh-Hant": "在桌面運行開源的本機AI代理團隊",
+          "ja": "デスクトップで動くオープンソースのローカルAIエージェント",
+          "ko": "데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀"
         }
       }
     },

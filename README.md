@@ -67,14 +67,14 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>Afraid to rewrite in Rust? Migrate piece by piece safely | 2026-11-16<br><sub>6.1 d</sub> | 7,795 | 1,274.7 |
-| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s… | 2026-11-21<br><sub>1.0 d</sub> | 1,095 | 1,083.0 |
+| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>App running slow? Let an agent rewrite the slow 5% | 2026-11-21<br><sub>1.0 d</sub> | 1,095 | 1,083.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>Local LLM too slow? Let an agent boost serving speed | 2026-11-16<br><sub>5.8 d</sub> | 1,874 | 320.6 |
-| 4 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A… | 2026-11-21<br><sub>1.3 d</sub> | 314 | 235.3 |
+| 4 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Run an open-source, local AI agent team on your desktop | 2026-11-21<br><sub>1.3 d</sub> | 314 | 235.3 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Turn four pixel views into 3D sprites you can spin | 2026-11-20<br><sub>2.0 d</sub> | 427 | 211.8 |
-| 6 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding. | 2026-11-21<br><sub>1.1 d</sub> | 156 | 137.6 |
+| 6 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>UI misaligned? Draw guide lines and fix the padding | 2026-11-21<br><sub>1.1 d</sub> | 156 | 137.6 |
 | 7 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>Give your AI agent 32 free marketing skills | 2026-11-16<br><sub>6.0 d</sub> | 790 | 131.9 |
 | 8 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Tokens running out? Cut LLM turns and token quota | 2026-11-19<br><sub>3.4 d</sub> | 399 | 116.8 |
-| 9 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>A training engine for your local model, using your idle compute | 2026-11-20<br><sub>2.2 d</sub> | 210 | 97.1 |
+| 9 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>Wasting idle compute? Use it to train your local model | 2026-11-20<br><sub>2.2 d</sub> | 210 | 97.1 |
 | 10 | [staryone/motlab](https://github.com/staryone/motlab)<br>Want to make videos with code? Let agents build from refs | 2026-11-16<br><sub>6.0 d</sub> | 375 | 62.0 |
 
 <details>
@@ -272,16 +272,16 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>Studioonepro7 Release: Complete Desktop Suite with All Features Included | 2026-11-21<br><sub>1.0 d</sub> | 339 | 339.0 |
-| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
-| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility: Desktop Manager with Interface Customization | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
-| 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
-| 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>Community-Driven NinjaTrader Bot for Discord and Telegram with Rich | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
-| 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
-| 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
-| 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
-| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
-| 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
+| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>Studioonepro7 desktop suite release with all features | 2026-11-21<br><sub>1.0 d</sub> | 339 | 339.0 |
+| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe desktop financial management release | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
+| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility desktop customization tool | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
+| 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer desktop allocation tool | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
+| 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>NinjaTrader Bot for Discord and Telegram | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
+| 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>SP Flash Tool command-line utility for MediaTek | 2026-11-21<br><sub>1.0 d</sub> | 338 | 338.0 |
+| 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>MetaTrader 5 bot for Discord and Telegram | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
+| 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring display and input tool | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
+| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility engineering toolset | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
+| 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO desktop disc image toolkit | 2026-11-21<br><sub>1.0 d</sub> | 337 | 337.0 |
 
 <details>
 <summary>Star history charts for this board</summary>

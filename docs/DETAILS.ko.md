@@ -118,45 +118,45 @@
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환 | 앱 전체를 한 번에 하나씩 Rust로 재작성하고, 모든 단계에서 원본의 기록된 동작과 대조하여 확인합니다. TypeSc의 CLI, HTTP 서버 및 라이브러리… |
-| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) |  | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s… |
+| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | Rust로 다시 작성하지 마세요. 느린 5%를 다시 작성하세요: Python, Node 또는 Ruby 앱을 프로파일링하고, 코딩 에이전트로 핫 함수를 포팅하고, 동일하게 동작함을 증… |
 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 로컬 LLM이 느릴 때? 에이전트 스킬로 서빙 속도 개선 | 모든 하드웨어 및 양자화에서 로컬 LLM 서빙 속도(디코드, 투기적 디코딩, 프리필, KV, 시작, TTFT)를 힐클라이밍으로 개선하는 에이전트 스킬 |
-| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) |  | Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A… |
+| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀 | 데스크톱을 위한 오픈 소스, 로컬 우선 AI 에이전트 팀: 멀티 에이전트 그룹 채팅, 컴퓨터 사용, 브라우저, MCP, 루틴 및 승인. macOS, Windows, Linux + A… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 도트 그림 네 장을 회전하는 의사 3D로 변환 | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
-| [pritamux/gridlines](https://github.com/pritamux/gridlines) |  | An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding. |
+| [pritamux/gridlines](https://github.com/pritamux/gridlines) | UI 정렬이 어긋날 때 가이드선으로 여백 수정 | 정렬 패스를 위한 에이전트 스킬: 인터페이스에 가이드 라인을 그리고, 라인을 벗어난 모든 항목을 찾아 패딩을 수정합니다. |
 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | AI 에이전트에 32가지 무료 마케팅 스킬을 추가 | AI 에이전트를 위한 32가지 무료 마케팅 스킬: 리서치, 포지셔닝, 카피, 페이지, SEO, AI 검색, 광고, 이메일 및 콘텐츠, 그리고 심층 로컬 비즈니스 팩. MIT. |
-| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 토큰이 부족한가요? LLM 턴과 할당량을 절약 | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affe… |
-| [sous-labs/songe](https://github.com/sous-labs/songe) |  | A training engine for your local model, using your idle compute |
+| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 토큰이 부족한가요? LLM 턴과 할당량을 절약 | Google Antigravity (CLI/Desktop/IDE)용 비침습적 MCP 가속기 플러그인: …에 영향을 주지 않고 LLM 턴(-34%), 토큰 쿼터(-31%), 업로드 트래픽(-40%)을 절감 |
+| [sous-labs/songe](https://github.com/sous-labs/songe) | 쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기 | 유휴 컴퓨팅을 활용한 로컬 모델용 학습 엔진 |
 | [staryone/motlab](https://github.com/staryone/motlab) | 코드로 영상을 만들고 싶다면? 참고 자료로 에이전트가 제작 | 코드로서의 비디오: 헤드리스 Chrome에서 WebCodecs로 렌더링된 canvas 장면, 검토 뷰어, 참조 자료를 바탕으로 비디오를 제작하는 에이전트 스킬. |
 | [diego3g/craft](https://github.com/diego3g/craft) | 화면 설계가 번거로울 때? 에이전트 스킬로 모든 상태 디자인 | AI 에이전트를 위한 디자인 스킬: /craft-setup이 디자인 브리프를 작성하고, /craft가 디자인 시스템의 모든 상태를 포함한 화면을 디자인하고 검토합니다. Works wit… |
-| [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) |  | Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she… |
+| [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | 슬라이드와 디자인을 일반 파일로 로컬에 저장 | 개방적이고 에이전트 및 모델에 구애받지 않는 아티팩트, 모두 로컬에 일반 파일로 저장 — 슬라이드, UI 디자인, 디자인 시스템, 화이트보드, 시… 편집, 댓글 작성 및 내보내기 |
 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Mac에서 Claude 데스크톱 여러 개를 동시에 사용 | Mac에서 여러 Claude Desktop 계정을 동시에 실행: 개별 로그인, 커스텀 아이콘, 하나의 공유 Claude Code 설정, 그리고 서로 메시지를 주고받… |
 | [kobimusic/dettato](https://github.com/kobimusic/dettato) | 녹음 파일에서 악기 트랙과 드럼, 음표 추출 | KobiMusic의 다중 악기 오디오-MIDI 트랜스크라이버: 모든 녹음에서 음표, 악기 트랙, 드럼을 전사합니다 |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로 | 시뮬레이션과 실제 로봇 전반의 에이전틱 로보틱스 워크플로를 위한 GDM Robotics 스킬. |
 | [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 공부 자료가 막막할 때? 노트를 단원별 학습 경로로 | 독학, 이러닝, 시험 준비를 위한 셀프 호스팅 AI 튜터 및 학습 도우미. 공부 노트, PDF, 강의 노트를 단원별 학습 경로로 변환하고… |
 | [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | Codex로 한 문장에서 스톱모션 애니메이션 만들기 | 한 줄로 만드는 스톱모션 단편, Codex로 제작: 8가지 머티리얼 스타일, 이미지 모델이 그리고 코드에서 프레임 단위로 움직이는 퍼펫. 한 문장으로 Codex로 스톱모션 애니메이션 만들기… |
 | [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | /grand-tour 전용 개발자 스킬 라이브러리 | Grand Tour 스킬: /grand-tour를 위한 오케스트레이션된 개발자 라이브러리 |
-| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) |  | Storyboard, capture, and animate: an AI editing workflow for YouTube |
+| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube용 AI 동영상 편집 워크플로 | 스토리보드, 캡처 및 애니메이션: YouTube용 AI 편집 워크플로 |
 | [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUI 로컬 프라이빗 AI 모델 대화 | Open Webui Private Ai Desk 기반으로 로컬에서 프라이빗 AI 모델과 대화하세요. |
-| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) |  | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) |  | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
-| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) |  | Startall Back Utility: Desktop Manager with Interface Customization |
-| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) |  | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
-| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) |  | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
-| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) |  | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
-| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) |  | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
-| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) |  | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
-| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) |  | MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design |
-| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) |  | Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit |
-| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) |  | Honeypot Detector: Security Tool for Identifying Deceptive Network Endpoints |
-| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) |  | FoneTrans Desktop Utility: Complete Data Transfer and Device Management Suite |
-| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) |  | Easy Worship Desktop: Streamlined Presentation and Service Planning Software |
-| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) |  | ExitLag Utility: Desktop Network Optimization and Route Management Console |
-| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) |  | Easeus Partition Master: Full-Featured Desktop Partition Management Suite |
-| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) |  | Display Fusion: Multi-Monitor Desktop Management with Window Snapping and Profile Automation |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) |  | Delta Force Trainer: Tactical Desktop Performance Toolkit |
-| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) |  | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
-| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) |  | Better Discord Client: Remastered Desktop Experience for Modders |
-| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) |  | Clion Desktop: Plugin Suite and Desktop Integration |
+| [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: Complete Desktop Suite with All Features Included |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe 데스크톱 금융 관리 버전 | Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting |
+| [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility 데스크톱 관리 도구 | Startall Back Utility: Desktop Manager with Interface Customization |
+| [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 데스크톱 자산 배분 도구 | Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios |
+| [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | Discord 및 Telegram용 NinjaTrader Bot | Community-Driven NinjaTrader Bot for Discord and Telegram with Rich |
+| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 지원 SP Flash Tool 명령줄 도구 | SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices |
+| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | Discord 및 Telegram용 MetaTrader 5 bot | Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 화면 미러링 도구 | Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control |
+| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 데스크톱 엔지니어링 도구 | MicroStation Utility: 인프라 설계를 위한 포괄적인 데스크톱 엔지니어링 툴셋 |
+| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 데스크톱 디스크 이미지 도구 | Ultra ISO: 데스크톱 디스크 이미지 제작, 마운트 및 변환 툴킷 |
+| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) | Honeypot Detector 엔드포인트 보안 도구 | Honeypot Detector: 기만적인 네트워크 엔드포인트를 식별하기 위한 보안 도구 |
+| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 데스크톱 데이터 전송 및 기기 관리 | FoneTrans Desktop Utility: 완전한 데이터 전송 및 기기 관리 제품군 |
+| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 데스크톱 프레젠테이션 소프트웨어 | Easy Worship Desktop: 간소화된 프레젠테이션 및 예배 계획 소프트웨어 |
+| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag 데스크톱 네트워크 최적화 콘솔 | ExitLag Utility: 데스크톱 네트워크 최적화 및 경로 관리 콘솔 |
+| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) | 데스크톱 파티션 관리 스위트 소프트웨어 | Easeus Partition Master: 모든 기능을 갖춘 데스크톱 파티션 관리 제품군 |
+| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 다중 모니터 데스크톱 관리 도구 | Display Fusion: 창 스냅 및 프로필 자동화 기능을 갖춘 다중 모니터 데스크톱 관리 |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer 데스크톱 성능 툴킷 | Delta Force Trainer: Tactical Desktop Performance Toolkit |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility 데스크톱 워크플로 도구 | Chimera Utility: Unified Desktop Toolchain for System Management and Workflow |
+| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 모더용 Better Discord Client 데스크톱 | Better Discord Client: Remastered Desktop Experience for Modders |
+| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop 플러그인 및 데스크톱 통합 | Clion Desktop: Plugin Suite and Desktop Integration |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 브라우저 기반 GGUF 양자화 및 샘플러 검사 도구 | 모든 GGUF의 내부를 확인하세요: 두 양자화가 갈라지는 지점을 토큰별로 파악하고 각 샘플러가 무엇을 잘라내는지 확인합니다. llama.cpp(CUDA 또는 Vulkan) 기반으로 브라우저에서 실시간 실행됩니다. |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | 웹 개발 환경 Adobe Dreamweaver의 Varvera 에디션 | 코딩 및 디자인을 위한 웹 개발 환경인 Adobe Dreamweaver의 Varvera 에디션. |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 중국 특허 문서를 전문적으로 작성하고 검토하는 도구 | 중국 특허 작성을 위한 전문 에디터로, 발명 및 실용신안 5서 편집과 디자인 특허 자료 정리를 지원하며, 특허 라이브러리 관리, 2D CAD, 문서 검사, AI 보조 및 Word/PDF 내보내기를 제공합니다. GPL-3.0 오픈 소스. |

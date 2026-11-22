@@ -67,14 +67,14 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>想換成 Rust？對照原行為一步步遷移 | 2026-11-16<br><sub>6.1 天</sub> | 7,795 | 1,274.7 |
-| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the s… | 2026-11-21<br><sub>1.0 天</sub> | 1,095 | 1,083.0 |
+| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>程式太慢？讓代理只重寫最慢的5% | 2026-11-21<br><sub>1.0 天</sub> | 1,095 | 1,083.0 |
 | 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)<br>本機LLM太慢？讓代理技能幫你調優提速 | 2026-11-16<br><sub>5.8 天</sub> | 1,874 | 320.6 |
-| 4 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A… | 2026-11-21<br><sub>1.3 天</sub> | 314 | 235.3 |
+| 4 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面運行開源的本機AI代理團隊 | 2026-11-21<br><sub>1.3 天</sub> | 314 | 235.3 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四張像素畫直接變能旋轉的偽3D | 2026-11-20<br><sub>2.0 天</sub> | 427 | 211.8 |
-| 6 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding. | 2026-11-21<br><sub>1.1 天</sub> | 156 | 137.6 |
+| 6 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>介面沒對齊？畫參考線修正內邊距 | 2026-11-21<br><sub>1.1 天</sub> | 156 | 137.6 |
 | 7 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)<br>讓 AI 代理掌握 32 項免費行銷技能 | 2026-11-16<br><sub>6.0 天</sub> | 790 | 131.9 |
 | 8 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>對話太耗Token？幫你減少額度消耗 | 2026-11-19<br><sub>3.4 天</sub> | 399 | 116.8 |
-| 9 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>A training engine for your local model, using your idle compute | 2026-11-20<br><sub>2.2 天</sub> | 210 | 97.1 |
+| 9 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>閒置算力浪費了？用來訓練你的本機模型 | 2026-11-20<br><sub>2.2 天</sub> | 210 | 97.1 |
 | 10 | [staryone/motlab](https://github.com/staryone/motlab)<br>給參考資料，讓代理寫程式做影片 | 2026-11-16<br><sub>6.0 天</sub> | 375 | 62.0 |
 
 <details>
@@ -272,16 +272,16 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>Studioonepro7 Release: Complete Desktop Suite with All Features Included | 2026-11-21<br><sub>1.0 天</sub> | 339 | 339.0 |
-| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
+| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>Studioonepro7發布，含全功能桌面套件 | 2026-11-21<br><sub>1.0 天</sub> | 339 | 339.0 |
+| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe桌面財務管理發布版 | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
 | 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility: Desktop Manager with Interface Customization | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
 | 4 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer: Configuration and Allocation Management for Desktop Portfolios | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
 | 5 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>Community-Driven NinjaTrader Bot for Discord and Telegram with Rich | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
 | 6 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>SP Flash Tool: command-line setup and configuration utility for supported MediaTek devices | 2026-11-21<br><sub>1.0 天</sub> | 338 | 338.0 |
 | 7 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Community-driven MetaTrader 5 bot for Discord and Telegram, packed with friendly for deskto | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
 | 8 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
-| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility: Comprehensive Desktop Engineering Toolset for Infrastructure Design | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
-| 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO: Desktop Disc Image Authoring, Mounting, and Conversion Toolkit | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
+| 9 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility: 用於基礎設施設計的綜合桌面工程工具組 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
+| 10 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 桌面光碟映像製作與轉換工具 | 2026-11-21<br><sub>1.0 天</sub> | 337 | 337.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
