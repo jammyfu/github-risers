@@ -1941,7 +1941,12 @@
           "zh-Hans": "需求架构难写，让智能体集群直出原型",
           "zh-Hant": "需求架構難寫，讓代理集群直出原型"
         },
-        "seen": "2026-11-24"
+        "seen": "2026-11-24",
+        "zh-Hans": "面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil…",
+        "zh-Hant": "面向複雜軟件工程與產品設計的旗艦級跨廠商多 Agent 集群：架構層直出 PRD、技術架構與交互原型（完美適配產品經理任務），實現層跨廠互審與沙箱實證交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil…",
+        "ja": "複雑なソフトウェアエンジニアリングと製品設計に向けたフラッグシップマルチベンダー多エージェントクラスタ：アーキテクチャ層でPRD、技術アーキテクチャ、インタラクティブプロトタイプを直接出力（プロダクトマネージャーのタスクに最適）、実装層でクロスベンダー相互レビューとサンドボックス実証納品 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil…",
+        "ko": "복잡한 소프트웨어 엔지니어링 및 제품 설계를 위한 플래그십 멀티 벤더 멀티 에이전트 클러스터: 아키텍처 계층에서 PRD, 기술 아키텍처 및 인터랙티브 프로토타입 직접 출력(제품 관리자 작업에 완벽 최적화), 구현 계층에서 벤더 간 상호 검토 및 샌드박스 실증 납품 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil…",
+        "en": "Flagship multi-vendor multi-agent cluster for complex software engineering and product design: Architecture layer directly outputs PRDs, technical architecture, and interactive prototypes (perfectly tailored for PM tasks), implementation layer provides cross-vendor peer review and sandbox-verified delivery / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil…"
       }
     },
     "JosssphZhou/poki": {
@@ -3724,7 +3729,11 @@
           "ja": "Roblox 向けデスクトップシェーダー調整ツール",
           "ko": "셰이더 제어 지원 Roblox 데스크톱 향상 도구"
         },
-        "seen": "2026-11-24"
+        "seen": "2026-11-24",
+        "zh-Hans": "适用于 Roblox 的 BloxShade：带有着色器控制的桌面增强套件",
+        "zh-Hant": "適用於 Roblox 的 BloxShade：帶有著色器控制項的桌面增強套件",
+        "ja": "Roblox 向け BloxShade: シェーダー制御を備えたデスクトップ強化スイート",
+        "ko": "Roblox용 BloxShade: 셰이더 제어 기능을 갖춘 데스크톱 향상 스위트"
       }
     },
     "ValidatorStack/solana-vigil": {
@@ -3845,7 +3854,11 @@
           "ja": "Daemon Pro デスクトップ設定プラットフォーム",
           "ko": "Daemon Pro 데스크톱 설정 및 구성 플랫폼"
         },
-        "seen": "2026-11-24"
+        "seen": "2026-11-24",
+        "zh-Hans": "Daemon Pro：完整的桌面设置与配置平台",
+        "zh-Hant": "Daemon Pro：完整的桌面設定與配置平台",
+        "ja": "Daemon Pro: 完全なデスクトップセットアップおよび構成プラットフォーム",
+        "ko": "Daemon Pro: 완전한 데스크톱 설정 및 구성 플랫폼"
       }
     },
     "Wilfriedbkt/interview-copilot-edtech-app": {
@@ -4550,7 +4563,11 @@
           "ja": "長いGTA 6の配信から縦型ショート動画を自動生成",
           "ko": "긴 GTA 6 방송을 인기 세로 영상으로 자동 편집"
         },
-        "seen": "2026-11-24"
+        "seen": "2026-11-24",
+        "zh-Hans": "自动将冗长的 GTA 6 直播切片转换为病毒式传播的 9:16 短视频。免费、本地，可在 Claude 和 ChatGPT 中使用。",
+        "zh-Hant": "自動將冗長的 GTA 6 直播片段轉換為病毒式傳播的 9:16 短片。免費、本機，可在 Claude 和 ChatGPT 中使用。",
+        "ja": "長い GTA 6 配信をバイラルな 9:16 リール動画に自動変換。無料、ローカル、Claude および ChatGPT で動作。",
+        "ko": "긴 GTA 6 스트리밍 영상을 바이럴 9:16 릴스로 자동 변환합니다. 무료, 로컬, Claude 및 ChatGPT에서 작동합니다."
       }
     },
     "bgleeson180-afk/cinema-4d-sacerin-motion-studio": {
@@ -6258,7 +6275,11 @@
           "ja": "ゲーム強化用 Rust 外部トレーナーツール",
           "ko": "게임 향상용 Rust 외부 트레이너 툴"
         },
-        "seen": "2026-11-24"
+        "seen": "2026-11-24",
+        "zh-Hans": "Rust External Trainer Tool：自信的游戏增强",
+        "zh-Hant": "Rust External Trainer Tool：自信的遊戲增強",
+        "ja": "Rust External Trainer Tool: 自信に満ちたゲーム拡張",
+        "ko": "Rust External Trainer Tool: 자신감 있는 게임 향상"
       }
     },
     "jshami391-bit/scrcpy-screen-mirroring": {
@@ -7828,7 +7849,11 @@
           "ja": "エアドロが面倒？ウォレットとタスクを自動化",
           "ko": "에어드롭이 번거로울 때 지갑과 퀘스트 자동화"
         },
-        "seen": "2026-11-24"
+        "seen": "2026-11-24",
+        "zh-Hans": "自主空投操作员：身份、钱包、社交、测试网、任务、雷达 —— 受保护的 CLI + MCP",
+        "zh-Hant": "自主空投操作員：身分、錢包、社交、測試網、任務、雷達 —— 受保護的 CLI + MCP",
+        "ja": "自律型エアドロップオペレーター：アイデンティティ、ウォレット、ソーシャル、テストネット、クエスト、レーダー — 保護された CLI + MCP",
+        "ko": "자율 에어드롭 오퍼레이터: 신원, 지갑, 소셜, 테스트넷, 퀘스트, 레이더 — 보호된 CLI + MCP"
       }
     },
     "shadcn-labs/goeist-font": {

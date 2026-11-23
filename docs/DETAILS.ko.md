@@ -132,9 +132,9 @@
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | AI가 스스로 상태와 컨텍스트를 관리하도록 지원 | AI가 스스로를 관리하도록 지원 — 런타임 상태, 컨텍스트 갱신, 자가 복제 등을 위한 크로스 harness 키트 |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 실제 로봇 연동이 어렵다면? 에이전틱 로봇 워크플로 | 시뮬레이션과 실제 로봇 전반의 에이전틱 로보틱스 워크플로를 위한 GDM Robotics 스킬. |
 | [replit/amuse](https://github.com/replit/amuse) | 내 컴퓨터에서 개인 AI 에이전트를 직접 실행 | 셀프 호스팅 개인 AI 에이전트: 리서치, 실시간 브라우저, 알림 및 소형 앱, 작업 전 승인 기능 포함. OpenAI 키로 사용자의 컴퓨터에서 실행됩니다. |
-| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 긴 GTA 6 방송을 인기 세로 영상으로 자동 편집 | Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT. |
+| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 긴 GTA 6 방송을 인기 세로 영상으로 자동 편집 | 긴 GTA 6 스트리밍 영상을 바이럴 9:16 릴스로 자동 변환합니다. 무료, 로컬, Claude 및 ChatGPT에서 작동합니다. |
 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | Kubernetes에서 AI 소프트웨어 팩토리 실행 | Tekton 및 vLLM과 함께 Kubernetes / OpenShift에서 실행되는 AI Software Factory |
-| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) | 에어드롭이 번거로울 때 지갑과 퀘스트 자동화 | Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP |
+| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) | 에어드롭이 번거로울 때 지갑과 퀘스트 자동화 | 자율 에어드롭 오퍼레이터: 신원, 지갑, 소셜, 테스트넷, 퀘스트, 레이더 — 보호된 CLI + MCP |
 | [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) | 누가 AI 예산을 썼는지와 대책을 바로 확인 | Claude, ChatGPT, Claude Code, Cursor 또는 VS Code에 누가 AI 예산을 썼는지, 무엇을 수정해야 하는지 물어보세요. TraxAgent의 읽기 전용 MCP 서버 및 Claude Code 플러그인. |
 | [hackclub/orchard](https://github.com/hackclub/orchard) | 배포가 번거롭다면? Git에서 내 서버로 명령어 한 줄 배포 | 오픈 소스, 셀프 호스팅 배포 플랫폼. 한 번의 명령으로 Git에서 자체 서버로 배포하세요. |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군 |
@@ -143,7 +143,7 @@
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe 데스크톱 금융 관리 버전 | Quicken Deluxe: 예산 관리 및 보고 기능을 갖춘 종합 데스크톱 재무 관리 |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 데스크톱 디스크 이미지 도구 | Ultra ISO: 데스크톱 디스크 이미지 제작, 마운트 및 변환 툴킷 |
 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 화면 미러링 도구 | Scrcpy Screen Mirroring: 저지연 Android 디스플레이 복제 및 입력 제어 |
-| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | 게임 향상용 Rust 외부 트레이너 툴 | Rust External Trainer Tool: Confident Game Enhancement |
+| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | 게임 향상용 Rust 외부 트레이너 툴 | Rust External Trainer Tool: 자신감 있는 게임 향상 |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 데스크톱 자산 배분 도구 | Portfolio Rebalancer: 데스크톱 포트폴리오를 위한 구성 및 배분 관리 |
 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | Discord 및 Telegram용 NinjaTrader Bot | Rich가 포함된 Discord 및 Telegram용 커뮤니티 주도형 NinjaTrader Bot |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 데스크톱 엔지니어링 도구 | MicroStation Utility: 인프라 설계를 위한 포괄적인 데스크톱 엔지니어링 툴셋 |
@@ -154,10 +154,10 @@
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 모더용 Better Discord Client 데스크톱 | Better Discord Client: 모더를 위한 리마스터된 데스크톱 경험 |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility 데스크톱 워크플로 도구 | Chimera Utility: 시스템 관리 및 워크플로를 위한 통합 데스크톱 툴체인 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 다중 모니터 데스크톱 관리 도구 | Display Fusion: 창 스냅 및 프로필 자동화 기능을 갖춘 다중 모니터 데스크톱 관리 |
-| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | 셰이더 제어 지원 Roblox 데스크톱 향상 도구 | BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | 셰이더 제어 지원 Roblox 데스크톱 향상 도구 | Roblox용 BloxShade: 셰이더 제어 기능을 갖춘 데스크톱 향상 스위트 |
 | [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer 데스크톱 성능 툴킷 | Delta Force Trainer: 전술 데스크톱 성능 툴킷 |
-| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro 데스크톱 설정 및 구성 플랫폼 | Daemon Pro: Complete Desktop Setup and Configuration Platform |
-| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | PRD 작성이 막막할 때 에이전트가 프로토타입 출력 | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
+| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro 데스크톱 설정 및 구성 플랫폼 | Daemon Pro: 완전한 데스크톱 설정 및 구성 플랫폼 |
+| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | PRD 작성이 막막할 때 에이전트가 프로토타입 출력 | 복잡한 소프트웨어 엔지니어링 및 제품 설계를 위한 플래그십 멀티 벤더 멀티 에이전트 클러스터: 아키텍처 계층에서 PRD, 기술 아키텍처 및 인터랙티브 프로토타입 직접 출력(제품 관리자 작업에 완벽 최적화), 구현 계층에서 벤더 간 상호 검토 및 샌드박스 실증 납품 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 중국 특허 문서를 전문적으로 작성하고 검토하는 도구 | 중국 특허 작성을 위한 전문 에디터로, 발명 및 실용신안 5서 편집과 디자인 특허 자료 정리를 지원하며, 특허 라이브러리 관리, 2D CAD, 문서 검사, AI 보조 및 Word/PDF 내보내기를 제공합니다. GPL-3.0 오픈 소스. |
 | [replit/datacat](https://github.com/replit/datacat) | 셀프 호스팅으로 지표와 로그를 보고 알림을 확인하세요 | 셀프 호스팅 관측 가능성: 메트릭, 로그, 추적, 대시보드 및 알림. PostgreSQL 또는 ClickHouse에 데이터를 저장합니다. OpenTelemetry 데이터를 수용합니다. |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube용 AI 동영상 편집 워크플로 | 스토리보드, 캡처 및 애니메이션: YouTube용 AI 편집 워크플로 |

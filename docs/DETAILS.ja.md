@@ -132,9 +132,9 @@
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | AIに自身の状態やコンテキストを自動管理させる | AI に自己管理させる — ランタイムステータス、コンテキスト更新、自己複製などのためのクロス harness キット |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 実機連携に悩む？エージェント型ロボットワークフロー | シミュレーションと実ロボットをまたぐエージェント型ロボティクスワークフロー向けの GDM Robotics スキル。 |
 | [replit/amuse](https://github.com/replit/amuse) | 自宅のPCで自分専用のエージェントを動かす | セルフホスト型パーソナル AI エージェント：リサーチ、ライブブラウザ、リマインダー、小さなアプリ、アクション前の承認機能付き。OpenAI キーを使用して自身のコンピューター上で動作。 |
-| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 長いGTA 6の配信から縦型ショート動画を自動生成 | Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT. |
+| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 長いGTA 6の配信から縦型ショート動画を自動生成 | 長い GTA 6 配信をバイラルな 9:16 リール動画に自動変換。無料、ローカル、Claude および ChatGPT で動作。 |
 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | KubernetesでAIソフトウェア工場を動かす | Tekton および vLLM とともに Kubernetes / OpenShift 上で稼働する AI Software Factory |
-| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) | エアドロが面倒？ウォレットとタスクを自動化 | Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP |
+| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) | エアドロが面倒？ウォレットとタスクを自動化 | 自律型エアドロップオペレーター：アイデンティティ、ウォレット、ソーシャル、テストネット、クエスト、レーダー — 保護された CLI + MCP |
 | [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) | 誰がAI予算を使い切ったかと対策を調べる | Claude、ChatGPT、Claude Code、Cursor、または VS Code に、AI 予算を誰が消費したのか、何を修正すべきかを尋ねます。TraxAgent の読み取り専用 MCP サーバーおよび Claude Code プラグイン。 |
 | [hackclub/orchard](https://github.com/hackclub/orchard) | デプロイが面倒？Gitから自分のサーバーへコマンド1つで | オープンソースでセルフホスト型のデプロイプラットフォーム。1つのコマンドで Git から独自のサーバーにデプロイ。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート |
@@ -143,7 +143,7 @@
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxeデスクトップ財務管理版 | Quicken Deluxe: 予算管理とレポート機能を備えた包括的なデスクトップ財務管理 |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO デスクトップ作成ツール | Ultra ISO: デスクトップディスクイメージ作成、マウント、および変換ツールキット |
 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 画面複製 | Scrcpy Screen Mirroring: 低遅延 Android ディスプレイ複製と入力制御 |
-| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | ゲーム強化用 Rust 外部トレーナーツール | Rust External Trainer Tool: Confident Game Enhancement |
+| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | ゲーム強化用 Rust 外部トレーナーツール | Rust External Trainer Tool: 自信に満ちたゲーム拡張 |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 配分管理ツール | Portfolio Rebalancer: デスクトップポートフォリオの設定および配分管理 |
 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader Bot Discord連携ツール | Rich を備えた Discord および Telegram 向けのコミュニティ主導型 NinjaTrader Bot |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 設計ツール | MicroStation Utility: インフラ設計のための包括的なデスクトップエンジニアリングツールセット |
@@ -154,10 +154,10 @@
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Better Discord Client デスクトップ | Better Discord Client: Modder 向けにリマスターされたデスクトップ体験 |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility デスクトップ管理ツール | Chimera Utility: システム管理とワークフローのための統合デスクトップ ツールチェーン |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 複数画面デスクトップ管理 | Display Fusion: ウィンドウのスナップとプロファイル自動化を備えたマルチモニターデスクトップ管理 |
-| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 向けデスクトップシェーダー調整ツール | BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 向けデスクトップシェーダー調整ツール | Roblox 向け BloxShade: シェーダー制御を備えたデスクトップ強化スイート |
 | [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer デスクトップ性能ツール | Delta Force Trainer: 戦術的デスクトップ パフォーマンス ツールキット |
-| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro デスクトップ設定プラットフォーム | Daemon Pro: Complete Desktop Setup and Configuration Platform |
-| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | PRD作成が大変？エージェントが構成と試作を出力 | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
+| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro デスクトップ設定プラットフォーム | Daemon Pro: 完全なデスクトップセットアップおよび構成プラットフォーム |
+| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | PRD作成が大変？エージェントが構成と試作を出力 | 複雑なソフトウェアエンジニアリングと製品設計に向けたフラッグシップマルチベンダー多エージェントクラスタ：アーキテクチャ層でPRD、技術アーキテクチャ、インタラクティブプロトタイプを直接出力（プロダクトマネージャーのタスクに最適）、実装層でクロスベンダー相互レビューとサンドボックス実証納品 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 中国特許書類の作成や文書チェックを行う専用ツール | 中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。 |
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube向けAI動画編集ワークフロー | ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー |
