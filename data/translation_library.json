@@ -1937,7 +1937,9 @@
         "hook": {
           "en": "Tired of writing PRDs? Let AI agents draft prototypes",
           "ja": "PRD作成が大変？エージェントが構成と試作を出力",
-          "ko": "PRD 작성이 막막할 때 에이전트가 프로토타입 출력"
+          "ko": "PRD 작성이 막막할 때 에이전트가 프로토타입 출력",
+          "zh-Hans": "需求架构难写，让智能体集群直出原型",
+          "zh-Hant": "需求架構難寫，讓代理集群直出原型"
         },
         "seen": "2026-11-24"
       }
@@ -2066,7 +2068,9 @@
         "hook": {
           "en": "Import WorkBuddy accounts into DeepSeek Harness",
           "ja": "WorkBuddyアカウントをDeepSeek Harnessに取り込む",
-          "ko": "WorkBuddy 계정을 DeepSeek Harness로 가져오기"
+          "ko": "WorkBuddy 계정을 DeepSeek Harness로 가져오기",
+          "zh-Hans": "账号多难打理，接入轻松查余额与模型",
+          "zh-Hant": "帳號多難打理，接入輕鬆查餘額與模型"
         }
       }
     },

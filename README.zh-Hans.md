@@ -596,7 +596,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… | 2026-11-19<br><sub>4.7 天</sub> | 151 | 32.0 |
+| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架构难写，让智能体集群直出原型 | 2026-11-19<br><sub>4.7 天</sub> | 151 | 32.0 |
 | 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>用专业编辑器撰写并检查中国专利文件 | 2026-11-17<br><sub>6.3 天</sub> | 203 | 32.4 |
 
 <details>

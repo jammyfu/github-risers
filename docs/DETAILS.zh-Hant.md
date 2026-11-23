@@ -127,7 +127,7 @@
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 閒置算力浪費了？用來訓練你的本機模型 | 利用閒置運算能力為本機模型提供支援的訓練引擎 |
 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | 將設計與簡報以普通檔案儲存在本機 | 開放且獨立於代理和模型的工件，全部作為純文字檔案儲存在本機——編輯、評論並匯出投影片、UI 設計、設計系統、白板、試算… |
 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | 畫密集架構圖，讓圖表自己檢查排版 | 用於可自行檢查版面配置的密集架構圖的 Python 構建塊 |
-| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) |  | 將 WorkBuddy 帳戶作為模型提供商匯入 DeepSeek Harness：每個帳戶一個路由、完整模型清單、個別帳戶積分餘額，以及自動工作區… |
+| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | 帳號多難打理，接入輕鬆查餘額與模型 | 將 WorkBuddy 帳戶作為模型提供商匯入 DeepSeek Harness：每個帳戶一個路由、完整模型清單、個別帳戶積分餘額，以及自動工作區… |
 | [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | 為Nest框架快速接入代理技能 | 適用於 Nest 框架 (node.js) 的代理技能 🕵️♂️ |
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | 讓AI自己管理運行狀態、上下文與複製 | 讓 AI 自我管理 —— 一個用於執行時狀態、上下文更新、自我複製等的跨 harness 工具包 |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真與真機？運行代理式工作流程 | 用於跨模擬與真實機器人的代理式機器人工作流程的 GDM Robotics 技能。 |
@@ -157,7 +157,7 @@
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面著色器控制增強套件 | BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls |
 | [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | 戰術桌面效能工具套件 | Delta Force Trainer: 戰術桌面效能工具套件 |
 | [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro 桌面安裝與配置平台 | Daemon Pro: Complete Desktop Setup and Configuration Platform |
-| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) |  | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
+| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架構難寫，讓代理集群直出原型 | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 用專業編輯器撰寫並檢查中國專利文件 | 面向中國專利撰寫的專業編輯器，支援發明、實用新型五書編輯和外觀設計專利材料整理，提供專利庫管理、二維 CAD、文件檢查、AI 輔助及 Word/PDF 匯出。GPL-3.0 開源。 |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做監控？自行架設儀表板與告警 | 自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI影片剪輯工作流程 | 分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程 |
