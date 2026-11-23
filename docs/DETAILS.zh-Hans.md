@@ -117,62 +117,47 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 想换成 Rust？对照原行为一步步迁移 | 将你的整个应用逐步用 Rust 重写，每一步都对照原始记录的行为进行检查。TypeSc 中的 CLI、HTTP 服务器和库… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 代码太慢？让智能体只重写最慢的5% | 不要用 Rust 重写。重写慢的 5%：分析 Python、Node 或 Ruby 应用的性能，用你的编程智能体移植热点函数，证明它们的行为相… |
-| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 本地LLM太慢？让智能体技能帮你加速 | 用于在任意硬件和量化条件下通过爬山法提升本地 LLM 服务速度（解码、投机解码、预填充、KV、启动、TTFT）的智能体技能 |
+| [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) |  | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面运行开源的本地AI智能体团队 | 适用于桌面的开源、本地优先 AI 智能体团队：多智能体群聊、计算机使用、浏览器、MCP、例程与审批。macOS、Windows、Linux + A… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四张像素画直接变能旋转的伪3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
-| [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
-| [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 让 AI 智能体掌握 32 项免费营销技能 | 为你的 AI 智能体提供 32 个免费营销技能：研究、定位、文案、页面、SEO、AI 搜索、广告、电子邮件和内容，外加深度的本地商业包。MIT。 |
+| [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |  | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,… |
 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 对话太耗Token？帮你减少额度消耗 | 适用于 Google Antigravity (CLI/Desktop/IDE) 的非侵入式 MCP 加速器插件：在不影响…的情况下减少 LLM 轮次 (-34%)、Token 配额 (-31%) 和上传流量 (-40%) |
+| [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 闲置算力浪费了？用来训练你的本地模型 | 利用闲置算力为本地模型提供支持的训练引擎 |
-| [staryone/motlab](https://github.com/staryone/motlab) | 给参考资料，让智能体写代码做视频 | 视频即代码：在无头 Chrome 中使用 WebCodecs 渲染的 canvas 场景、审核查看器，以及根据你的参考资料构建视频的智能体技能。 |
-| [diego3g/craft](https://github.com/diego3g/craft) | 界面设计太繁琐？让智能体画全状态页面 | AI 智能体的设计技能：/craft-setup 编写你的设计简报，/craft 根据你的设计系统设计包含所有状态的屏幕并进行审查。Works wit… |
 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | 将设计和幻灯片以普通文件保存在本地 | 开放且独立于智能体和模型的工件，全部作为纯文本文件保存在本地——编辑、评论并导出幻灯片、UI 设计、设计系统、白板、表… |
-| [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | 在 Mac 同时登录多个 Claude 桌面账号 | 在 Mac 上同时运行多个 Claude Desktop 账号：独立登录、自定义图标、共享的 Claude Code 配置，以及彼此互相发消… |
-| [kobimusic/dettato](https://github.com/kobimusic/dettato) | 录音直接转各乐器音轨、音符与鼓点 | KobiMusic 的多乐器音频转 MIDI 转录器：从任何录音中提取音符、乐器音轨和鼓声 |
+| [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) |  | Python building blocks for dense architecture diagrams that check their own layout |
+| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) |  | Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workar… |
+| [nestjs/agent-skills](https://github.com/nestjs/agent-skills) |  | Agent skills for Nest framework (node.js) 🕵️‍♂️ |
+| [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) |  | Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真与真机？运行智能体式工作流 | 用于跨仿真与真实机器人的智能体式机器人工作流的 GDM Robotics 技能。 |
-| [lynote-ai/ai-tutor](https://github.com/lynote-ai/ai-tutor) | 备考笔记太乱？让AI帮你理出学习路径 | 用于自学、电子学习和备考的自托管 AI 导师与学习助手。将学习笔记、PDF 和讲义转化为章节学习路径并… |
-| [lemomo-ai/lemo-animi](https://github.com/lemomo-ai/lemo-animi) | 想做定格动画？用 Codex 一句话做出来 | 由一行文本生成的定格动画短片，使用 Codex 制作：八种材质风格，由图像模型绘制人偶并通过代码逐帧移动。一句话，用 Codex 做一支定格动画… |
-| [237Zidane/grand-tour-skill](https://github.com/237Zidane/grand-tour-skill) | 用于 /grand-tour 的开发者技能库 | Grand Tour 技能：用于 /grand-tour 的编排式开发者库 |
-| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
-| [han938/open-webui-private-ai-desk](https://github.com/han938/open-webui-private-ai-desk) | Open WebUI本地私有AI模型对话桌面端 | 在本地与私有 AI 模型对话，由 Open Webui Private Ai Desk 提供支持。 |
+| [replit/amuse](https://github.com/replit/amuse) |  | Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key. |
+| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) |  | Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT. |
+| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 构建软件 | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
+| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) |  | Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP |
+| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) | 查出谁花光了AI预算并获知修复方案 | 询问 Claude、ChatGPT、Claude Code、Cursor 或 VS Code 谁花费了您的 AI 预算以及该修复什么。TraxAgent 的只读 MCP 服务器和 Claude Code 插件。 |
+| [hackclub/orchard](https://github.com/hackclub/orchard) | 部署太烦？一条命令从Git发到服务器 | 开源、自托管的部署平台。只需一条命令即可从 Git 部署到您自己的服务器。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe：具有预算和报告功能的综合桌面财务管理 |
 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back 界面定制桌面工具 | Startall Back Utility：具有界面自定义功能的桌面管理器 |
+| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 设备命令行配置工具 | SP Flash Tool：适用于受支持 MediaTek 设备的命令行设置和配置实用工具 |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe：具有预算和报告功能的综合桌面财务管理 |
+| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光盘映像制作与转换工具 | Ultra ISO: 桌面光盘映像制作、挂载与转换工具包 |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Android 低延迟投屏与输入控制 | Scrcpy Screen Mirroring: 低延迟 Android 显示复制与输入控制 |
+| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) |  | Rust External Trainer Tool: Confident Game Enhancement |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | 桌面投资组合配置与分配管理工具 | Portfolio Rebalancer：桌面投资组合的配置与分配管理 |
 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader 社区机器人 | 面向 Discord 和 Telegram 的社区驱动型 NinjaTrader Bot，具有 Rich |
-| [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 设备命令行配置工具 | SP Flash Tool：适用于受支持 MediaTek 设备的命令行设置和配置实用工具 |
-| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面机器人 | 面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好 |
-| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Android 低延迟投屏与输入控制 | Scrcpy Screen Mirroring: 低延迟 Android 显示复制与输入控制 |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation 桌面工程工具 | MicroStation Utility: 用于基础设施设计的综合桌面工程工具集 |
-| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光盘映像制作与转换工具 | Ultra ISO: 桌面光盘映像制作、挂载与转换工具包 |
-| [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) | 识别欺骗性网络端点的安全工具 | Honeypot Detector: 用于识别欺骗性网络端点的安全工具 |
+| [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面机器人 | 面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面数据传输与设备管理套件 | FoneTrans Desktop Utility: 完整的数据传输与设备管理套件 |
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面演示与仪式规划软件 | Easy Worship Desktop: 精简的演示与礼拜规划软件 |
 | [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag 桌面网络优化与路由管理控制台 | ExitLag Utility: 桌面网络优化与路由管理控制台 |
-| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) | 全功能桌面分区管理套件 | Easeus Partition Master: 功能齐全的桌面分区管理套件 |
-| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | 战术桌面性能工具套件 | Delta Force Trainer: 战术桌面性能工具包 |
-| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | 系统管理与工作流的统一桌面工具链 | Chimera Utility: 用于系统管理和工作流的统一桌面工具链 |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 面向模组开发者的重制桌面体验 | Better Discord Client: 面向 Mod 制作者的重制桌面体验 |
-| [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop 插件套件与桌面集成工具 | Clion Desktop: 插件套件与桌面集成 |
-| [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 浏览器内GGUF量化与采样检查工具 | 透视任何 GGUF 内部：逐个 token 观察两种量化方式的分歧点，以及各采样器裁减的内容。在你的浏览器中实时运行，由 llama.cpp（CUDA 或 Vulkan）驱动。 |
-| [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Adobe Dreamweaver 网页开发与设计环境 | Adobe Dreamweaver 的 Varvera 版本，用于编码和设计的 Web 开发环境。 |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | 系统管理与工作流的统一桌面工具链 | Chimera Utility: 用于系统管理和工作流的统一桌面工具链 |
+| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) |  | BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | 战术桌面性能工具套件 | Delta Force Trainer: 战术桌面性能工具包 |
+| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) |  | Daemon Pro: Complete Desktop Setup and Configuration Platform |
+| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) |  | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 用专业编辑器撰写并检查中国专利文件 | 面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。 |
-| [johnnablea29-art/stratgies-indicator](https://github.com/johnnablea29-art/stratgies-indicator) | 用于重复执行机器人任务的自动化脚本 | Stratgies Indicator 自动化脚本可重复机器人任务运行 |
-| [ELEL182/bunny-hopping-mod](https://github.com/ELEL182/bunny-hopping-mod) | 掌握连跳技巧，靠惯性高速移动 | Bunny Hopping Mod：由 Fabric 驱动的动量与移动技巧掌握 |
 | [replit/datacat](https://github.com/replit/datacat) | 想自己做监控？自托管仪表盘与告警 | 自托管可观测性：指标、日志、追踪、仪表盘和告警。将数据存储在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 数据。 |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 构建软件 | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
-| [hackclub/orchard](https://github.com/hackclub/orchard) | 部署太烦？一条命令从Git发到服务器 | 开源、自托管的部署平台。只需一条命令即可从 Git 部署到您自己的服务器。 |
-| [Realmeshowroom/jet-reports-skill](https://github.com/Realmeshowroom/jet-reports-skill) | 直观理清并呈现工作簿工作流 | Jet Reports 技能：NAV 与 Business Central 的可视化工作簿工作流 |
-| [mmclucknorrismm/cmangos-helm](https://github.com/mmclucknorrismm/cmangos-helm) | 用Helm掌控并管理你的CMaNGOS领域 | CMaNGOS Helm: 执掌 Helm，统御你的领域 |
-| [himeshsuthar91-eng/after-effects-ceramar-motion-design](https://github.com/himeshsuthar91-eng/after-effects-ceramar-motion-design) | After Effects 动效设计工程项目 | After Effects Ceramar Motion Design：围绕 Ceramar 技术构建的动态设计项目。 |
-| [randrianiaina1/illustrator-datalin-vector-design](https://github.com/randrianiaina1/illustrator-datalin-vector-design) | Illustrator 矢量设计工作流工具 | Illustrator Datalin Vector Design 为结构化艺术品提供精确的矢量设计工作流。 |
-| [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio) | Cinema 4D 动态场景工作流工具 | 通过结构化的工作室工作流构建 Cinema 4D Sacerin 动态场景。 |
-| [124113009-art/adobe-fresco-elrina](https://github.com/124113009-art/adobe-fresco-elrina) | 含大量截图的画笔与工具图解指南 | 通过包含大量截图的视觉指南探索 Adobe Fresco Elrina 中的画笔和工具。 |
-| [SPAPharma/adobe-animate-velvona](https://github.com/SPAPharma/adobe-animate-velvona) | Adobe Animate Velvona 动画制作工具 | 使用 Adobe Animate Velvona 工具创建和完善动画。 |
-| [Anais27-pharma/adobe-character-animator-calrara](https://github.com/Anais27-pharma/adobe-character-animator-calrara) | 由摄像头和音频驱动的实时人偶动画 | 由网络摄像头和音频输入驱动的实时人偶动画—Calrara 集成了表情映射 |
-| [charaf24/substance-3d-designer-norlora](https://github.com/charaf24/substance-3d-designer-norlora) | 程序化材质创作的节点式贴图工作流 | 用于程序化材质创作和 3D 资产设计的基于节点的纹理工作流。 |
-| [tarouquelaprogramacao-max/krita-elvona-art-studio](https://github.com/tarouquelaprogramacao-max/krita-elvona-art-studio) | Krita 结构化画室工作区插件 | 为数字画家构建结构化艺术工作室工作区的 Krita 插件。 |
-| [aurahamzzz-cyber/microsoft-excel-alvaora](https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora) | 在 Excel 中自动化结构化数据工作流 | 在 Excel 中自动化结构化数据工作流和电子表格任务编排。 |
+| [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
