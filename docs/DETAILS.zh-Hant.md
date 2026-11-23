@@ -150,12 +150,12 @@
 | [SABINOGAMESPONTOCOM/honeypot-detector](https://github.com/SABINOGAMESPONTOCOM/honeypot-detector) | 識別欺騙性網路端點的資安工具 | Honeypot Detector: 用於識別欺騙性網路端點的資安工具 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面資料傳輸與裝置管理套件 | FoneTrans Desktop Utility: 完整的資料傳輸與裝置管理套件 |
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面簡報與儀式規劃軟體 | Easy Worship Desktop: 精簡的簡報與禮拜規劃軟體 |
-| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) |  | ExitLag Utility: 桌面網路最佳化與路由管理主控台 |
-| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) |  | Easeus Partition Master: 功能齊全的桌面磁碟分割管理套件 |
+| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | 桌面網路最佳化與路由管理主控台 | ExitLag Utility: 桌面網路最佳化與路由管理主控台 |
+| [rehmanbugti123/easeus-partition-master](https://github.com/rehmanbugti123/easeus-partition-master) | 全功能桌面分割區管理套件 | Easeus Partition Master: 功能齊全的桌面磁碟分割管理套件 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多螢幕桌面管理工具 | Display Fusion: 具備視窗貼齊與設定檔自動化的多螢幕桌面管理 |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) |  | Delta Force Trainer: 戰術桌面效能工具套件 |
-| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) |  | Chimera Utility: 用於系統管理與工作流程的統一桌面工具鏈 |
-| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) |  | Better Discord Client: 面向 Mod 製作者的重製桌面體驗 |
+| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | 戰術桌面效能工具套件 | Delta Force Trainer: 戰術桌面效能工具套件 |
+| [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | 系統管理與工作流程的統一桌面工具鏈 | Chimera Utility: 用於系統管理與工作流程的統一桌面工具鏈 |
+| [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 針對模組開發者的重製桌面體驗 | Better Discord Client: 面向 Mod 製作者的重製桌面體驗 |
 | [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Clion Desktop 外掛套件與桌面整合工具 | Clion Desktop: 外掛套件與桌面整合 |
 | [manuelgscom/inside-llm](https://github.com/manuelgscom/inside-llm) | 瀏覽器內GGUF量化與取樣檢查工具 | 透視任何 GGUF 內部：逐個 token 觀察兩種量化方式的分歧點，以及各取樣器裁減的內容。在你的瀏覽器中即時運行，由 llama.cpp（CUDA 或 Vulkan）驅動。 |
 | [MinosoaRafalimanana/adobe-dreamweaver-varvera](https://github.com/MinosoaRafalimanana/adobe-dreamweaver-varvera) | Adobe Dreamweaver 網頁開發與設計環境 | Adobe Dreamweaver 的 Varvera 版本，用於編碼和設計的 Web 開發環境。 |

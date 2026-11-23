@@ -812,7 +812,7 @@
       "056f97f85ad8": {
         "src": "ExitLag Utility: Desktop Network Optimization and Route Management Console",
         "zh-Hans": "ExitLag Utility: 桌面网络优化与路由管理控制台",
-        "seen": "2026-11-22",
+        "seen": "2026-11-23",
         "zh-Hant": "ExitLag Utility: 桌面網路最佳化與路由管理主控台",
         "ja": "ExitLag Utility: デスクトップネットワーク最適化およびルート管理コンソール",
         "ko": "ExitLag Utility: 데스크톱 네트워크 최적화 및 경로 관리 콘솔",
@@ -820,7 +820,8 @@
           "en": "ExitLag desktop network optimization and route console",
           "zh-Hans": "ExitLag 桌面网络优化与路由管理控制台",
           "ja": "ExitLag デスクトップネットワーク最適化ツール",
-          "ko": "ExitLag 데스크톱 네트워크 최적화 콘솔"
+          "ko": "ExitLag 데스크톱 네트워크 최적화 콘솔",
+          "zh-Hant": "桌面網路最佳化與路由管理主控台"
         }
       }
     },
@@ -929,7 +930,9 @@
         "hook": {
           "en": "Chimera Utility desktop system and workflow toolchain",
           "ja": "Chimera Utility デスクトップ管理ツール",
-          "ko": "Chimera Utility 데스크톱 워크플로 도구"
+          "ko": "Chimera Utility 데스크톱 워크플로 도구",
+          "zh-Hans": "系统管理与工作流的统一桌面工具链",
+          "zh-Hant": "系統管理與工作流程的統一桌面工具鏈"
         },
         "seen": "2026-11-23",
         "zh-Hans": "Chimera Utility: 用于系统管理和工作流的统一桌面工具链",
@@ -3268,7 +3271,9 @@
         "hook": {
           "en": "Delta Force Trainer tactical desktop performance toolkit",
           "ja": "Delta Force Trainer デスクトップ性能ツール",
-          "ko": "Delta Force Trainer 데스크톱 성능 툴킷"
+          "ko": "Delta Force Trainer 데스크톱 성능 툴킷",
+          "zh-Hans": "战术桌面性能工具套件",
+          "zh-Hant": "戰術桌面效能工具套件"
         },
         "seen": "2026-11-23",
         "zh-Hans": "Delta Force Trainer: 战术桌面性能工具包",
@@ -6163,7 +6168,9 @@
         "hook": {
           "en": "Better Discord Client desktop experience for modders",
           "ja": "Better Discord Client デスクトップ",
-          "ko": "모더용 Better Discord Client 데스크톱"
+          "ko": "모더용 Better Discord Client 데스크톱",
+          "zh-Hans": "面向模组开发者的重制桌面体验",
+          "zh-Hant": "針對模組開發者的重製桌面體驗"
         },
         "seen": "2026-11-23",
         "zh-Hans": "Better Discord Client: 面向 Mod 制作者的重制桌面体验",
@@ -7384,14 +7391,16 @@
       "81fb41d34a7e": {
         "src": "Easeus Partition Master: Full-Featured Desktop Partition Management Suite",
         "zh-Hans": "Easeus Partition Master: 功能齐全的桌面分区管理套件",
-        "seen": "2026-11-22",
+        "seen": "2026-11-23",
         "zh-Hant": "Easeus Partition Master: 功能齊全的桌面磁碟分割管理套件",
         "ja": "Easeus Partition Master: フル機能のデスクトップパーティション管理スイート",
         "ko": "Easeus Partition Master: 모든 기능을 갖춘 데스크톱 파티션 관리 제품군",
         "hook": {
           "en": "Easeus Partition Master desktop partition management suite",
           "ja": "デスクトップパーティション管理スイート",
-          "ko": "데스크톱 파티션 관리 스위트 소프트웨어"
+          "ko": "데스크톱 파티션 관리 스위트 소프트웨어",
+          "zh-Hans": "全功能桌面分区管理套件",
+          "zh-Hant": "全功能桌面分割區管理套件"
         }
       }
     },
