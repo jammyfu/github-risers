@@ -67,15 +67,15 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>App running slow? Let an agent rewrite the slow 5% | 2026-11-21<br><sub>2.2 d</sub> | 3,015 | 1,387.7 |
-| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. | 2026-11-22<br><sub>1.1 d</sub> | 421 | 387.4 |
+| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find vulnerabilities before anyone else does | 2026-11-22<br><sub>1.1 d</sub> | 421 | 387.4 |
 | 3 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Run an open-source, local AI agent team on your desktop | 2026-11-21<br><sub>2.5 d</sub> | 494 | 197.9 |
 | 4 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Turn four pixel views into 3D sprites you can spin | 2026-11-20<br><sub>3.2 d</sub> | 625 | 196.7 |
-| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,… | 2026-11-16<br><sub>7.0 d</sub> | 1,363 | 195.2 |
+| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>Find broken app flows with 20 parallel AI testers | 2026-11-16<br><sub>7.0 d</sub> | 1,363 | 195.2 |
 | 6 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Tokens running out? Cut LLM turns and token quota | 2026-11-19<br><sub>4.6 d</sub> | 769 | 168.0 |
 | 7 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>UI misaligned? Draw guide lines and fix the padding | 2026-11-21<br><sub>2.3 d</sub> | 213 | 92.8 |
 | 8 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>Wasting idle compute? Use it to train your local model | 2026-11-20<br><sub>3.3 d</sub> | 291 | 87.5 |
 | 9 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact)<br>Save slides and UI designs locally as plain files | 2026-11-17<br><sub>6.7 d</sub> | 431 | 64.5 |
-| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>Python building blocks for dense architecture diagrams that check their own layout | 2026-11-18<br><sub>5.0 d</sub> | 321 | 63.5 |
+| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>Draw dense architecture diagrams that check their layout | 2026-11-18<br><sub>5.0 d</sub> | 321 | 63.5 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -278,7 +278,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 4 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe desktop financial management release | 2026-11-21<br><sub>2.1 d</sub> | 338 | 163.3 |
 | 5 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO desktop disc image toolkit | 2026-11-21<br><sub>2.1 d</sub> | 337 | 163.3 |
 | 6 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring display and input tool | 2026-11-21<br><sub>2.1 d</sub> | 337 | 163.0 |
-| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>Rust External Trainer Tool: Confident Game Enhancement | 2026-11-21<br><sub>2.1 d</sub> | 337 | 162.9 |
+| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>Rust external trainer tool, listed for game enhancement | 2026-11-21<br><sub>2.1 d</sub> | 337 | 162.9 |
 | 8 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer desktop allocation tool | 2026-11-21<br><sub>2.1 d</sub> | 338 | 159.6 |
 | 9 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>NinjaTrader Bot for Discord and Telegram | 2026-11-21<br><sub>2.1 d</sub> | 338 | 158.2 |
 | 10 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility engineering toolset | 2026-11-21<br><sub>2.1 d</sub> | 337 | 157.0 |
@@ -596,7 +596,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… | 2026-11-19<br><sub>4.7 d</sub> | 151 | 32.0 |
+| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>Tired of writing PRDs? Let AI agents draft prototypes | 2026-11-19<br><sub>4.7 d</sub> | 151 | 32.0 |
 | 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>Draft and review Chinese patent filings with built-in AI | 2026-11-17<br><sub>6.3 d</sub> | 203 | 32.4 |
 
 <details>

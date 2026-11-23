@@ -136,6 +136,23 @@
         }
       }
     },
+    "AI4XE/ai4ai": {
+      "ceb92a5842b1": {
+        "src": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
+        "zh-Hans": "让 AI 自我管理 —— 一个用于运行时状态、上下文更新、自我复制等的跨 harness 工具包",
+        "seen": "2026-11-24",
+        "zh-Hant": "讓 AI 自我管理 —— 一個用於執行時狀態、上下文更新、自我複製等的跨 harness 工具包",
+        "ja": "AI に自己管理させる — ランタイムステータス、コンテキスト更新、自己複製などのためのクロス harness キット",
+        "ko": "AI가 스스로를 관리하도록 지원 — 런타임 상태, 컨텍스트 갱신, 자가 복제 등을 위한 크로스 harness 키트",
+        "hook": {
+          "en": "Let AI manage its own status, context, and runs",
+          "zh-Hans": "让AI自己管理运行状态、上下文与复刻",
+          "zh-Hant": "讓AI自己管理運行狀態、上下文與複製",
+          "ja": "AIに自身の状態やコンテキストを自動管理させる",
+          "ko": "AI가 스스로 상태와 컨텍스트를 관리하도록 지원"
+        }
+      }
+    },
     "AbhiKamane/ai-app-builder-open": {
       "294a01a74f58": {
         "src": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
@@ -1914,6 +1931,17 @@
         }
       }
     },
+    "Johnson-Durui/ApexCluster": {
+      "9dccd6a55cb2": {
+        "src": "面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil…",
+        "hook": {
+          "en": "Tired of writing PRDs? Let AI agents draft prototypes",
+          "ja": "PRD作成が大変？エージェントが構成と試作を出力",
+          "ko": "PRD 작성이 막막할 때 에이전트가 프로토타입 출력"
+        },
+        "seen": "2026-11-24"
+      }
+    },
     "JosssphZhou/poki": {
       "541ddcbbafca": {
         "src": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
@@ -2024,6 +2052,21 @@
           "zh-Hant": "自動設定本機工作站環境",
           "ja": "ローカルワークステーション環境の自動設定",
           "ko": "로컬 워크스테이션 환경 자동 설정"
+        }
+      }
+    },
+    "LIUFelix2004/dsh-workbuddy": {
+      "38a5b59ba268": {
+        "src": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workar…",
+        "zh-Hans": "将 WorkBuddy 账户作为模型提供商导入 DeepSeek Harness：每个账户一个路由、完整模型列表、单账户积分余额，以及自动工作区…",
+        "seen": "2026-11-24",
+        "zh-Hant": "將 WorkBuddy 帳戶作為模型提供商匯入 DeepSeek Harness：每個帳戶一個路由、完整模型清單、個別帳戶積分餘額，以及自動工作區…",
+        "ja": "WorkBuddy アカウントをモデルプロバイダーとして DeepSeek Harness にインポート：アカウントごとに1つのルート、完全なモデルリスト、アカウントごとのクレジット残高、自動ワークア…",
+        "ko": "WorkBuddy 계정을 모델 제공자로 DeepSeek Harness에 가져오기: 계정당 1개의 경로, 전체 모델 목록, 계정별 크레딧 잔액 및 자동 해결책…",
+        "hook": {
+          "en": "Import WorkBuddy accounts into DeepSeek Harness",
+          "ja": "WorkBuddyアカウントをDeepSeek Harnessに取り込む",
+          "ko": "WorkBuddy 계정을 DeepSeek Harness로 가져오기"
         }
       }
     },
@@ -3667,6 +3710,19 @@
         }
       }
     },
+    "Urvee003/bloxshade-for-roblox": {
+      "819fc8c5c242": {
+        "src": "BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls",
+        "hook": {
+          "en": "BloxShade for Roblox desktop shader enhancement suite",
+          "zh-Hans": "Roblox 桌面着色器控制增强套件",
+          "zh-Hant": "Roblox 桌面著色器控制增強套件",
+          "ja": "Roblox 向けデスクトップシェーダー調整ツール",
+          "ko": "셰이더 제어 지원 Roblox 데스크톱 향상 도구"
+        },
+        "seen": "2026-11-24"
+      }
+    },
     "ValidatorStack/solana-vigil": {
       "427ec48068bd": {
         "src": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
@@ -3773,6 +3829,19 @@
           "ja": "Wondshare Recoverit 13.5デスクトップ設定環境",
           "ko": "Wondshare Recoverit 13.5 데스크톱 설정 환경"
         }
+      }
+    },
+    "WezTerp/daemon-pro": {
+      "27b160868a23": {
+        "src": "Daemon Pro: Complete Desktop Setup and Configuration Platform",
+        "hook": {
+          "en": "Daemon Pro desktop setup and configuration platform",
+          "zh-Hans": "Daemon Pro 桌面安装与配置平台",
+          "zh-Hant": "Daemon Pro 桌面安裝與配置平台",
+          "ja": "Daemon Pro デスクトップ設定プラットフォーム",
+          "ko": "Daemon Pro 데스크톱 설정 및 구성 플랫폼"
+        },
+        "seen": "2026-11-24"
       }
     },
     "Wilfriedbkt/interview-copilot-edtech-app": {
@@ -4465,6 +4534,19 @@
           "zh-Hans": "上千节点放进无限画布，自由移动缩放",
           "zh-Hant": "上千節點放進無限畫布，自由移動縮放"
         }
+      }
+    },
+    "beyondtahir/beyondgtaclips": {
+      "ce00ab34380b": {
+        "src": "Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT.",
+        "hook": {
+          "en": "Turn long GTA 6 streams into viral reels automatically",
+          "zh-Hans": "把GTA 6直播长视频自动切成爆款短视频",
+          "zh-Hant": "把GTA 6直播長影片自動剪成熱門短影音",
+          "ja": "長いGTA 6の配信から縦型ショート動画を自動生成",
+          "ko": "긴 GTA 6 방송을 인기 세로 영상으로 자동 편집"
+        },
+        "seen": "2026-11-24"
       }
     },
     "bgleeson180-afk/cinema-4d-sacerin-motion-studio": {
@@ -5264,6 +5346,23 @@
           "zh-Hant": "想換成 Rust？對照原行為一步步遷移",
           "ja": "Rust移行が不安？動作を確認しつつ段階移行",
           "ko": "Rust 재작성이 걱정될 때? 기존 동작 대조하며 단계별 전환"
+        }
+      }
+    },
+    "erkamyaman/safe-anything": {
+      "7670db903099": {
+        "src": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+        "zh-Hans": "在别人之前找出漏洞。一款快速且 100% Rust 编写的漏洞扫描器：支持 XSS、SQL 注入、泄露的密钥、依赖 CVE 以及 AI 智能体配置。",
+        "seen": "2026-11-24",
+        "zh-Hant": "在別人之前找出漏洞。一款快速且 100% Rust 編寫的漏洞掃描器：支援 XSS、SQL 注入、外洩的密鑰、依賴項 CVE 以及 AI 代理設定。",
+        "ja": "誰かに見つけられる前に脆弱性を発見。高速な 100% Rust 製の脆弱性スキャナー：XSS、SQLインジェクション、漏洩したシークレット、依存関係のCVE、AI エージェントの設定。",
+        "ko": "다른 사람이 찾기 전에 취약점을 찾아내세요. 빠른 100% Rust 취약점 스캐너: XSS, SQL 삽입, 유출된 비밀, 의존성 CVE 및 AI 에이전트 설정.",
+        "hook": {
+          "en": "Find vulnerabilities before anyone else does",
+          "zh-Hans": "赶在别人发现前，快速找出系统漏洞",
+          "zh-Hant": "趕在別人發現前，快速找出系統漏洞",
+          "ja": "誰かに突かれる前に、脆弱性をすばやく見つける",
+          "ko": "남들이 찾기 전에 취약점을 빠르게 찾아내기"
         }
       }
     },
@@ -6145,6 +6244,19 @@
         }
       }
     },
+    "jomicat1989-dotcom/rust-external-trainer-tool": {
+      "b7725babe063": {
+        "src": "Rust External Trainer Tool: Confident Game Enhancement",
+        "hook": {
+          "en": "Rust external trainer tool, listed for game enhancement",
+          "zh-Hans": "Rust 外部修改工具，标为游戏增强",
+          "zh-Hant": "Rust 外部修改工具，標為遊戲增強",
+          "ja": "ゲーム強化用 Rust 外部トレーナーツール",
+          "ko": "게임 향상용 Rust 외부 트레이너 툴"
+        },
+        "seen": "2026-11-24"
+      }
+    },
     "jshami391-bit/scrcpy-screen-mirroring": {
       "485e3bf01502": {
         "src": "Scrcpy Screen Mirroring: Low-Latency Android Display Replication and Input Control",
@@ -6475,6 +6587,23 @@
           "zh-Hant": "無需登入直接查詢西班牙國鐵時刻與票價",
           "ja": "アカウント不要でRenfeの運行時間や運賃を確認",
           "ko": "계정 없이 Renfe 열차 시간과 운임을 조회하는 CLI"
+        }
+      }
+    },
+    "lukendeasy/open-diagram": {
+      "4785cfcd74fa": {
+        "src": "Python building blocks for dense architecture diagrams that check their own layout",
+        "zh-Hans": "用于可自行检查布局的密集架构图的 Python 构建块",
+        "seen": "2026-11-24",
+        "zh-Hant": "用於可自行檢查版面配置的密集架構圖的 Python 構建塊",
+        "ja": "レイアウトを自己検証する密集したアーキテクチャ図のための Python 構成要素",
+        "ko": "자체 레이아웃을 검사하는 고밀도 아키텍처 다이어그램을 위한 Python 빌딩 블록",
+        "hook": {
+          "en": "Draw dense architecture diagrams that check their layout",
+          "zh-Hans": "画密集架构图，让图表自己检查排版",
+          "zh-Hant": "畫密集架構圖，讓圖表自己檢查排版",
+          "ja": "自動でレイアウトを確認して密な構成図を描く",
+          "ko": "배치를 스스로 검사해 복잡한 구조도 그리기"
         }
       }
     },
@@ -6882,6 +7011,23 @@
         }
       }
     },
+    "nestjs/agent-skills": {
+      "6a36beadf8de": {
+        "src": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+        "zh-Hans": "适用于 Nest 框架 (node.js) 的智能体技能 🕵️♂️",
+        "seen": "2026-11-24",
+        "zh-Hant": "適用於 Nest 框架 (node.js) 的代理技能 🕵️♂️",
+        "ja": "Nest フレームワーク (node.js) 向けのエージェント スキル 🕵️♂️",
+        "ko": "Nest 프레임워크(node.js)를 위한 에이전트 스킬 🕵️♂️",
+        "hook": {
+          "en": "Add agent skills directly to Nest framework",
+          "zh-Hans": "为Nest框架快速接入智能体技能",
+          "zh-Hant": "為Nest框架快速接入代理技能",
+          "ja": "Nestフレームワークにエージェントのスキルを追加",
+          "ko": "Nest 프레임워크에 에이전트 스킬 더하기"
+        }
+      }
+    },
     "nforst/fagus": {
       "3c4af9c2fbbb": {
         "src": "HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.",
@@ -7172,6 +7318,23 @@
         }
       }
     },
+    "pierridotite/mobile-agent-testers": {
+      "bb4bd14616cb": {
+        "src": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,…",
+        "zh-Hans": "在 GitHub 的免费运行器上，由 20 个 AI 测试员在 20 部不同的手机上并行测试：运行在 iOS 模拟器和 Android 模拟器上的 Claude Code 智能体，用于发现损坏的流程，…",
+        "seen": "2026-11-24",
+        "zh-Hant": "在 GitHub 的免費執行器上，由 20 個 AI 測試員在 20 部不同的手機上並行測試：執行在 iOS 模擬器和 Android 模擬器上的 Claude Code 代理，用於發現損壞的流程，…",
+        "ja": "GitHub の無料ランナー上で、20台の異なるスマートフォンで20の AI テスターが並行稼働：壊れたフローを発見する iOS シミュレータおよび Android エミュレータ上の Claude Code エージェント、…",
+        "ko": "GitHub의 무료 러너에서 20대의 서로 다른 스마트폰으로 20명의 AI 테스터가 병렬로 테스트: 망가진 플로우를 찾는 iOS 시뮬레이터 및 Android 에뮬레이터 기반 Claude Code 에이전트,…",
+        "hook": {
+          "en": "Find broken app flows with 20 parallel AI testers",
+          "zh-Hans": "用20个AI在不同手机上快速找出异常流程",
+          "zh-Hant": "用20個AI在不同手機上快速找出異常流程",
+          "ja": "20台のスマホを20体のAIで同時にテストする",
+          "ko": "20대의 스마트폰에서 20개 AI로 오류 찾기"
+        }
+      }
+    },
     "piomin/ai-software-factory": {
       "85034e009b28": {
         "src": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
@@ -7404,6 +7567,23 @@
         }
       }
     },
+    "replit/amuse": {
+      "4d48b28a6e3d": {
+        "src": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+        "zh-Hans": "自托管个人 AI 智能体：研究、实时浏览器、提醒和小应用，执行操作前需经批准。使用 OpenAI 密钥在您自己的计算机上运行。",
+        "seen": "2026-11-24",
+        "zh-Hant": "自行架設個人 AI 代理：研究、即時瀏覽器、提醒與小型應用程式，執行動作前需經批准。使用 OpenAI 金鑰在您自己的電腦上執行。",
+        "ja": "セルフホスト型パーソナル AI エージェント：リサーチ、ライブブラウザ、リマインダー、小さなアプリ、アクション前の承認機能付き。OpenAI キーを使用して自身のコンピューター上で動作。",
+        "ko": "셀프 호스팅 개인 AI 에이전트: 리서치, 실시간 브라우저, 알림 및 소형 앱, 작업 전 승인 기능 포함. OpenAI 키로 사용자의 컴퓨터에서 실행됩니다.",
+        "hook": {
+          "en": "Run your personal AI agent on your own computer",
+          "zh-Hans": "在自己的电脑上运行自托管个人AI智能体",
+          "zh-Hant": "在自己的電腦上運行自行架設個人AI代理",
+          "ja": "自宅のPCで自分専用のエージェントを動かす",
+          "ko": "내 컴퓨터에서 개인 AI 에이전트를 직접 실행"
+        }
+      }
+    },
     "replit/datacat": {
       "1b4053ee5c0f": {
         "src": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
@@ -7632,6 +7812,19 @@
           "zh-Hans": "在一处集中运行你已有的 Linux 服务器",
           "zh-Hant": "在一處集中運行你已有的 Linux 伺服器"
         }
+      }
+    },
+    "setyamickala/airdrop-agent": {
+      "de66fffc7b45": {
+        "src": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
+        "hook": {
+          "en": "Tired of manual airdrops? Automate quests and wallets",
+          "zh-Hans": "刷空投太繁琐？自动处理钱包与任务",
+          "zh-Hant": "刷空投太繁瑣？自動處理錢包與任務",
+          "ja": "エアドロが面倒？ウォレットとタスクを自動化",
+          "ko": "에어드롭이 번거로울 때 지갑과 퀘스트 자동화"
+        },
+        "seen": "2026-11-24"
       }
     },
     "shadcn-labs/goeist-font": {

@@ -67,15 +67,15 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>程式太慢？讓代理只重寫最慢的5% | 2026-11-21<br><sub>2.2 天</sub> | 3,015 | 1,387.7 |
-| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. | 2026-11-22<br><sub>1.1 天</sub> | 421 | 387.4 |
+| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>趕在別人發現前，快速找出系統漏洞 | 2026-11-22<br><sub>1.1 天</sub> | 421 | 387.4 |
 | 3 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面運行開源的本機AI代理團隊 | 2026-11-21<br><sub>2.5 天</sub> | 494 | 197.9 |
 | 4 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四張像素畫直接變能旋轉的偽3D | 2026-11-20<br><sub>3.2 天</sub> | 625 | 196.7 |
-| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,… | 2026-11-16<br><sub>7.0 天</sub> | 1,363 | 195.2 |
+| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>用20個AI在不同手機上快速找出異常流程 | 2026-11-16<br><sub>7.0 天</sub> | 1,363 | 195.2 |
 | 6 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>對話太耗Token？幫你減少額度消耗 | 2026-11-19<br><sub>4.6 天</sub> | 769 | 168.0 |
 | 7 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>介面沒對齊？畫參考線修正內邊距 | 2026-11-21<br><sub>2.3 天</sub> | 213 | 92.8 |
 | 8 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>閒置算力浪費了？用來訓練你的本機模型 | 2026-11-20<br><sub>3.3 天</sub> | 291 | 87.5 |
 | 9 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact)<br>將設計與簡報以普通檔案儲存在本機 | 2026-11-17<br><sub>6.7 天</sub> | 431 | 64.5 |
-| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>Python building blocks for dense architecture diagrams that check their own layout | 2026-11-18<br><sub>5.0 天</sub> | 321 | 63.5 |
+| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>畫密集架構圖，讓圖表自己檢查排版 | 2026-11-18<br><sub>5.0 天</sub> | 321 | 63.5 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -278,7 +278,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 4 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe桌面財務管理發布版 | 2026-11-21<br><sub>2.1 天</sub> | 338 | 163.3 |
 | 5 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 桌面光碟映像製作與轉換工具 | 2026-11-21<br><sub>2.1 天</sub> | 337 | 163.3 |
 | 6 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Android 低延遲投螢與輸入控制 | 2026-11-21<br><sub>2.1 天</sub> | 337 | 163.0 |
-| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>Rust External Trainer Tool: Confident Game Enhancement | 2026-11-21<br><sub>2.1 天</sub> | 337 | 162.9 |
+| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>Rust 外部修改工具，標為遊戲增強 | 2026-11-21<br><sub>2.1 天</sub> | 337 | 162.9 |
 | 8 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>桌面投資組合配置與分配管理工具 | 2026-11-21<br><sub>2.1 天</sub> | 338 | 159.6 |
 | 9 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>NinjaTrader 社群機器人 | 2026-11-21<br><sub>2.1 天</sub> | 338 | 158.2 |
 | 10 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation 桌面工程工具 | 2026-11-21<br><sub>2.1 天</sub> | 337 | 157.0 |

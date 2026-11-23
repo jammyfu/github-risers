@@ -67,15 +67,15 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>2.2일</sub> | 3,015 | 1,387.7 |
-| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. | 2026-11-22<br><sub>1.1일</sub> | 421 | 387.4 |
+| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>1.1일</sub> | 421 | 387.4 |
 | 3 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀 | 2026-11-21<br><sub>2.5일</sub> | 494 | 197.9 |
 | 4 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>도트 그림 네 장을 회전하는 의사 3D로 변환 | 2026-11-20<br><sub>3.2일</sub> | 625 | 196.7 |
-| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,… | 2026-11-16<br><sub>7.0일</sub> | 1,363 | 195.2 |
+| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>20대의 스마트폰에서 20개 AI로 오류 찾기 | 2026-11-16<br><sub>7.0일</sub> | 1,363 | 195.2 |
 | 6 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>토큰이 부족한가요? LLM 턴과 할당량을 절약 | 2026-11-19<br><sub>4.6일</sub> | 769 | 168.0 |
 | 7 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>UI 정렬이 어긋날 때 가이드선으로 여백 수정 | 2026-11-21<br><sub>2.3일</sub> | 213 | 92.8 |
 | 8 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기 | 2026-11-20<br><sub>3.3일</sub> | 291 | 87.5 |
 | 9 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact)<br>슬라이드와 디자인을 일반 파일로 로컬에 저장 | 2026-11-17<br><sub>6.7일</sub> | 431 | 64.5 |
-| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>Python building blocks for dense architecture diagrams that check their own layout | 2026-11-18<br><sub>5.0일</sub> | 321 | 63.5 |
+| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>배치를 스스로 검사해 복잡한 구조도 그리기 | 2026-11-18<br><sub>5.0일</sub> | 321 | 63.5 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -278,7 +278,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 4 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe 데스크톱 금융 관리 버전 | 2026-11-21<br><sub>2.1일</sub> | 338 | 163.3 |
 | 5 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 데스크톱 디스크 이미지 도구 | 2026-11-21<br><sub>2.1일</sub> | 337 | 163.3 |
 | 6 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring 화면 미러링 도구 | 2026-11-21<br><sub>2.1일</sub> | 337 | 163.0 |
-| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>Rust External Trainer Tool: Confident Game Enhancement | 2026-11-21<br><sub>2.1일</sub> | 337 | 162.9 |
+| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>게임 향상용 Rust 외부 트레이너 툴 | 2026-11-21<br><sub>2.1일</sub> | 337 | 162.9 |
 | 8 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer 데스크톱 자산 배분 도구 | 2026-11-21<br><sub>2.1일</sub> | 338 | 159.6 |
 | 9 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>Discord 및 Telegram용 NinjaTrader Bot | 2026-11-21<br><sub>2.1일</sub> | 338 | 158.2 |
 | 10 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility 데스크톱 엔지니어링 도구 | 2026-11-21<br><sub>2.1일</sub> | 337 | 157.0 |
@@ -596,7 +596,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… | 2026-11-19<br><sub>4.7일</sub> | 151 | 32.0 |
+| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>PRD 작성이 막막할 때 에이전트가 프로토타입 출력 | 2026-11-19<br><sub>4.7일</sub> | 151 | 32.0 |
 | 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>중국 특허 문서를 전문적으로 작성하고 검토하는 도구 | 2026-11-17<br><sub>6.3일</sub> | 203 | 32.4 |
 
 <details>

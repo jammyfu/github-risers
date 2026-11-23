@@ -118,23 +118,23 @@
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | アプリが遅い？遅い5%だけエージェントで書き換える | Rustで書き直さないでください。遅い5%を書き直す：Python、Node、Rubyアプリをプロファイリングし、コーディングエージェントでホット関数を移植し、同じように動作することを証明… |
-| [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) |  | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. |
+| [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 誰かに突かれる前に、脆弱性をすばやく見つける | 誰かに見つけられる前に脆弱性を発見。高速な 100% Rust 製の脆弱性スキャナー：XSS、SQLインジェクション、漏洩したシークレット、依存関係のCVE、AI エージェントの設定。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | デスクトップで動くオープンソースのローカルAIエージェント | デスクトップ向けのオープンソース、ローカル優先AIエージェントチーム：マルチエージェントグループチャット、コンピュータ使用、ブラウザ、MCP、ルーチン、承認。macOS、Windows、Linux + A… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 4枚のドット絵を回せる疑似3Dにする | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
-| [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |  | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,… |
+| [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 20台のスマホを20体のAIで同時にテストする | GitHub の無料ランナー上で、20台の異なるスマートフォンで20の AI テスターが並行稼働：壊れたフローを発見する iOS シミュレータおよび Android エミュレータ上の Claude Code エージェント、… |
 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | トークンが足りない？LLMの往復と消費枠を削減 | Google Antigravity (CLI/Desktop/IDE)向けの非侵襲的MCPアクセラレータプラグイン：…に影響を与えることなくLLMターン数 (-34%)、トークンクォータ (-31%)、アップロードトラフィック (-40%) を削減 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | UIがズレている？ガイド線を引いて余白を直す | アライメント調整用のエージェントスキル：インターフェースにガイド線を引き、線から外れているすべての項目を見つけ、パディングを修正します。 |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 空き計算資源がもったいない？ローカルモデルを訓練する | アイドルの計算リソースを活用した、ローカルモデル用トレーニングエンジン |
 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | スライドやUI設計を普通のファイルでローカル保存 | オープンで、エージェントやモデルを問わない成果物。すべてプレーンファイルとしてローカルに保存 — スライド、UIデザイン、デザインシステム、ホワイトボード、シー…の編集、コメント、エクスポート |
-| [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) |  | Python building blocks for dense architecture diagrams that check their own layout |
-| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) |  | Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workar… |
-| [nestjs/agent-skills](https://github.com/nestjs/agent-skills) |  | Agent skills for Nest framework (node.js) 🕵️‍♂️ |
-| [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) |  | Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more |
+| [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | 自動でレイアウトを確認して密な構成図を描く | レイアウトを自己検証する密集したアーキテクチャ図のための Python 構成要素 |
+| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | WorkBuddyアカウントをDeepSeek Harnessに取り込む | WorkBuddy アカウントをモデルプロバイダーとして DeepSeek Harness にインポート：アカウントごとに1つのルート、完全なモデルリスト、アカウントごとのクレジット残高、自動ワークア… |
+| [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | Nestフレームワークにエージェントのスキルを追加 | Nest フレームワーク (node.js) 向けのエージェント スキル 🕵️♂️ |
+| [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | AIに自身の状態やコンテキストを自動管理させる | AI に自己管理させる — ランタイムステータス、コンテキスト更新、自己複製などのためのクロス harness キット |
 | [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 実機連携に悩む？エージェント型ロボットワークフロー | シミュレーションと実ロボットをまたぐエージェント型ロボティクスワークフロー向けの GDM Robotics スキル。 |
-| [replit/amuse](https://github.com/replit/amuse) |  | Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key. |
-| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) |  | Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT. |
+| [replit/amuse](https://github.com/replit/amuse) | 自宅のPCで自分専用のエージェントを動かす | セルフホスト型パーソナル AI エージェント：リサーチ、ライブブラウザ、リマインダー、小さなアプリ、アクション前の承認機能付き。OpenAI キーを使用して自身のコンピューター上で動作。 |
+| [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 長いGTA 6の配信から縦型ショート動画を自動生成 | Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT. |
 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | KubernetesでAIソフトウェア工場を動かす | Tekton および vLLM とともに Kubernetes / OpenShift 上で稼働する AI Software Factory |
-| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) |  | Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP |
+| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) | エアドロが面倒？ウォレットとタスクを自動化 | Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP |
 | [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) | 誰がAI予算を使い切ったかと対策を調べる | Claude、ChatGPT、Claude Code、Cursor、または VS Code に、AI 予算を誰が消費したのか、何を修正すべきかを尋ねます。TraxAgent の読み取り専用 MCP サーバーおよび Claude Code プラグイン。 |
 | [hackclub/orchard](https://github.com/hackclub/orchard) | デプロイが面倒？Gitから自分のサーバーへコマンド1つで | オープンソースでセルフホスト型のデプロイプラットフォーム。1つのコマンドで Git から独自のサーバーにデプロイ。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート |
@@ -143,7 +143,7 @@
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxeデスクトップ財務管理版 | Quicken Deluxe: 予算管理とレポート機能を備えた包括的なデスクトップ財務管理 |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO デスクトップ作成ツール | Ultra ISO: デスクトップディスクイメージ作成、マウント、および変換ツールキット |
 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 画面複製 | Scrcpy Screen Mirroring: 低遅延 Android ディスプレイ複製と入力制御 |
-| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) |  | Rust External Trainer Tool: Confident Game Enhancement |
+| [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | ゲーム強化用 Rust 外部トレーナーツール | Rust External Trainer Tool: Confident Game Enhancement |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 配分管理ツール | Portfolio Rebalancer: デスクトップポートフォリオの設定および配分管理 |
 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader Bot Discord連携ツール | Rich を備えた Discord および Telegram 向けのコミュニティ主導型 NinjaTrader Bot |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 設計ツール | MicroStation Utility: インフラ設計のための包括的なデスクトップエンジニアリングツールセット |
@@ -154,10 +154,10 @@
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Better Discord Client デスクトップ | Better Discord Client: Modder 向けにリマスターされたデスクトップ体験 |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility デスクトップ管理ツール | Chimera Utility: システム管理とワークフローのための統合デスクトップ ツールチェーン |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 複数画面デスクトップ管理 | Display Fusion: ウィンドウのスナップとプロファイル自動化を備えたマルチモニターデスクトップ管理 |
-| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) |  | BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 向けデスクトップシェーダー調整ツール | BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls |
 | [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | Delta Force Trainer デスクトップ性能ツール | Delta Force Trainer: 戦術的デスクトップ パフォーマンス ツールキット |
-| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) |  | Daemon Pro: Complete Desktop Setup and Configuration Platform |
-| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) |  | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
+| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro デスクトップ設定プラットフォーム | Daemon Pro: Complete Desktop Setup and Configuration Platform |
+| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | PRD作成が大変？エージェントが構成と試作を出力 | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 中国特許書類の作成や文書チェックを行う専用ツール | 中国の特許作成向けプロフェッショナルエディタ。発明・実用新案の五書編集や意匠特許資料の整理に対応し、特許ライブラリ管理、2D CAD、ドキュメントチェック、AI 補助、Word/PDF 出力を提供。GPL-3.0 でオープンソース。 |
 | [replit/datacat](https://github.com/replit/datacat) | セルフホスト型で指標やログを一覧し異常に気づく | セルフホスト型オブザーバビリティ：メトリクス、ログ、トレース、ダッシュボード、アラート。PostgreSQL または ClickHouse にデータを保存。OpenTelemetry データを受け入れます。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube向けAI動画編集ワークフロー | ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー |

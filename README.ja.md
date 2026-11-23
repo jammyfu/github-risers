@@ -67,15 +67,15 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>アプリが遅い？遅い5%だけエージェントで書き換える | 2026-11-21<br><sub>2.2 日</sub> | 3,015 | 1,387.7 |
-| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups. | 2026-11-22<br><sub>1.1 日</sub> | 421 | 387.4 |
+| 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>誰かに突かれる前に、脆弱性をすばやく見つける | 2026-11-22<br><sub>1.1 日</sub> | 421 | 387.4 |
 | 3 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>デスクトップで動くオープンソースのローカルAIエージェント | 2026-11-21<br><sub>2.5 日</sub> | 494 | 197.9 |
 | 4 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>4枚のドット絵を回せる疑似3Dにする | 2026-11-20<br><sub>3.2 日</sub> | 625 | 196.7 |
-| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows,… | 2026-11-16<br><sub>7.0 日</sub> | 1,363 | 195.2 |
+| 5 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)<br>20台のスマホを20体のAIで同時にテストする | 2026-11-16<br><sub>7.0 日</sub> | 1,363 | 195.2 |
 | 6 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>トークンが足りない？LLMの往復と消費枠を削減 | 2026-11-19<br><sub>4.6 日</sub> | 769 | 168.0 |
 | 7 | [pritamux/gridlines](https://github.com/pritamux/gridlines)<br>UIがズレている？ガイド線を引いて余白を直す | 2026-11-21<br><sub>2.3 日</sub> | 213 | 92.8 |
 | 8 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>空き計算資源がもったいない？ローカルモデルを訓練する | 2026-11-20<br><sub>3.3 日</sub> | 291 | 87.5 |
 | 9 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact)<br>スライドやUI設計を普通のファイルでローカル保存 | 2026-11-17<br><sub>6.7 日</sub> | 431 | 64.5 |
-| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>Python building blocks for dense architecture diagrams that check their own layout | 2026-11-18<br><sub>5.0 日</sub> | 321 | 63.5 |
+| 10 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram)<br>自動でレイアウトを確認して密な構成図を描く | 2026-11-18<br><sub>5.0 日</sub> | 321 | 63.5 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -278,7 +278,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 4 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxeデスクトップ財務管理版 | 2026-11-21<br><sub>2.1 日</sub> | 338 | 163.3 |
 | 5 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO デスクトップ作成ツール | 2026-11-21<br><sub>2.1 日</sub> | 337 | 163.3 |
 | 6 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring 画面複製 | 2026-11-21<br><sub>2.1 日</sub> | 337 | 163.0 |
-| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>Rust External Trainer Tool: Confident Game Enhancement | 2026-11-21<br><sub>2.1 日</sub> | 337 | 162.9 |
+| 7 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>ゲーム強化用 Rust 外部トレーナーツール | 2026-11-21<br><sub>2.1 日</sub> | 337 | 162.9 |
 | 8 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer 配分管理ツール | 2026-11-21<br><sub>2.1 日</sub> | 338 | 159.6 |
 | 9 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot)<br>NinjaTrader Bot Discord連携ツール | 2026-11-21<br><sub>2.1 日</sub> | 338 | 158.2 |
 | 10 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility 設計ツール | 2026-11-21<br><sub>2.1 日</sub> | 337 | 157.0 |
@@ -596,7 +596,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… | 2026-11-19<br><sub>4.7 日</sub> | 151 | 32.0 |
+| 1 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>PRD作成が大変？エージェントが構成と試作を出力 | 2026-11-19<br><sub>4.7 日</sub> | 151 | 32.0 |
 | 2 | [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work)<br>中国特許書類の作成や文書チェックを行う専用ツール | 2026-11-17<br><sub>6.3 日</sub> | 203 | 32.4 |
 
 <details>
