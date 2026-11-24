@@ -8913,7 +8913,9 @@
         "hook": {
           "en": "Ashampoo WinOptimizer Pro Windows tuning suite",
           "ja": "Ashampoo WinOptimizer Pro 最適化ツール",
-          "ko": "Ashampoo WinOptimizer Pro 시스템 최적화 도구"
+          "ko": "Ashampoo WinOptimizer Pro 시스템 최적화 도구",
+          "zh-Hans": "Ashampoo WinOptimizer Pro 调优工具",
+          "zh-Hant": "Ashampoo WinOptimizer Pro 調校工具"
         }
       }
     },

@@ -156,7 +156,7 @@
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | 系統管理與工作流程的統一桌面工具鏈 | Chimera Utility: 用於系統管理與工作流程的統一桌面工具鏈 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多螢幕桌面管理工具 | Display Fusion: 具備視窗貼齊與設定檔自動化的多螢幕桌面管理 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面著色器控制增強套件 | 適用於 Roblox 的 BloxShade：帶有著色器控制項的桌面增強套件 |
-| [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) |  | Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件 |
+| [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 調校工具 | Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件 |
 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin) | Avast Premium Security 專案目錄列表 | Avast Premium Security Kacerin 專案的目錄列表。 |
 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架構難寫，讓代理集群直出原型 | 面向複雜軟件工程與產品設計的旗艦級跨廠商多 Agent 集群：架構層直出 PRD、技術架構與交互原型（完美適配產品經理任務），實現層跨廠互審與沙箱實證交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) | 自行架設 3D 德州撲克室，支援 AI 複盤 | Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… |
