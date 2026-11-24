@@ -232,7 +232,9 @@
         "hook": {
           "en": "Web pages look dull? Add hand-drawn crayon sticker SVGs",
           "ja": "Webが味気ない？手描きのクレヨン風SVGステッカー",
-          "ko": "웹이 밋밋할 때 손으로 그린 크레용 SVG 스티커"
+          "ko": "웹이 밋밋할 때 손으로 그린 크레용 SVG 스티커",
+          "zh-Hans": "页面太单调？给网页贴上手绘蜡笔贴纸",
+          "zh-Hant": "頁面太單調？為網頁貼上手繪蠟筆貼紙"
         }
       }
     },
@@ -1322,7 +1324,8 @@
           "en": "Run iOS simulators on Linux for your AI agents",
           "zh-Hant": "在 Linux 上為 AI 代理運行 iOS 模擬器",
           "ja": "Linux 上で AI エージェント用 iOS シミュレータを動かす",
-          "ko": "Linux 환경에서 AI 에이전트용 iOS 시뮬레이터를 구동"
+          "ko": "Linux 환경에서 AI 에이전트용 iOS 시뮬레이터를 구동",
+          "zh-Hans": "在Linux上为智能体运行iOS模拟环境"
         }
       }
     },
@@ -1436,7 +1439,8 @@
         "ko": "더 적은 코드로 동일한 테스트 통과: 모든 코드베이스에서 불필요한 코드, 파일, 종속성 및 에셋을 삭제하고 자체 테스트가 계속 통과하는 경우에만 각 삭제를 유지합니다.",
         "hook": {
           "ja": "テストが通る範囲で不要なコードやファイルを安全に削除",
-          "ko": "기존 테스트가 통과하는 선에서 불필요한 코드와 파일을 정리"
+          "ko": "기존 테스트가 통과하는 선에서 불필요한 코드와 파일을 정리",
+          "en": "Safely delete dead code as long as your tests pass"
         }
       }
     },
@@ -1903,7 +1907,9 @@
         "hook": {
           "en": "Avast Premium Security Kacerin project listing",
           "ja": "Avast Premium Security Kacerin ディレクトリ",
-          "ko": "Avast Premium Security Kacerin 프로젝트 목록"
+          "ko": "Avast Premium Security Kacerin 프로젝트 목록",
+          "zh-Hans": "Avast Premium Security 项目目录列表",
+          "zh-Hant": "Avast Premium Security 專案目錄列表"
         }
       }
     },
@@ -2312,7 +2318,8 @@
         "hook": {
           "en": "Have AI coding agents write and review Japanese line by line",
           "ja": "AI コーディングエージェントに日本語を一文ずつ執筆させる",
-          "ko": "AI 코딩 에이전트가 일본어 문장을 한 줄씩 작성하고 검토"
+          "ko": "AI 코딩 에이전트가 일본어 문장을 한 줄씩 작성하고 검토",
+          "zh-Hant": "讓AI代理一文一句地幫你推敲與審閱日文"
         }
       }
     },
@@ -4868,7 +4875,10 @@
         "ko": "LLM 에이전트를 위한 생체 신호 유도 강화 학습: Godot 생존 게임에서 오프라인 오가노이드 신경 기록을 정책 입력으로 활용하며, 쌍체 평가를 포함합니다.",
         "hook": {
           "ja": "脳オルガノイド信号で LLM エージェントを生息ゲームで誘導",
-          "ko": "뇌 오가노이드 신경 신호로 생존 게임 속 LLM 에이전트를 유도"
+          "ko": "뇌 오가노이드 신경 신호로 생존 게임 속 LLM 에이전트를 유도",
+          "en": "Train LLM agents using real organoid neural signals",
+          "zh-Hans": "用类脑神经信号训练智能体打生存游戏",
+          "zh-Hant": "用類腦神經訊號引導代理玩生存遊戲"
         }
       }
     },
@@ -6352,7 +6362,8 @@
         "hook": {
           "en": "Hard to review poker hands? Host a 3D club with AI review",
           "ja": "手札の振り返りに、セルフホスト型3DでAIレビュー",
-          "ko": "포커 복기가 어렵다면 셀프 호스팅 3D로 AI 리뷰"
+          "ko": "포커 복기가 어렵다면 셀프 호스팅 3D로 AI 리뷰",
+          "zh-Hans": "想开私人德扑室？自托管3D牌局带AI复盘"
         }
       }
     },
@@ -6412,7 +6423,8 @@
           "en": "Cinema 4D Bataven motion toolkit and workflow",
           "zh-Hans": "Cinema 4D Bataven 动态工具包与工作流",
           "ja": "Cinema 4D Bataven ツールとワークフロー",
-          "ko": "Cinema 4D Bataven 모션 툴킷 및 워크플로"
+          "ko": "Cinema 4D Bataven 모션 툴킷 및 워크플로",
+          "zh-Hant": "C4D 動態工具套件，Bataven 工作流程"
         },
         "seen": "2026-11-25"
       }
@@ -6478,7 +6490,10 @@
         "ko": "Microsoft Visio: 다이어그램 및 벡터 그래픽 데스크톱 애플리케이션",
         "hook": {
           "ja": "Microsoft Visio 作図・ベクターグラフィック作成アプリ",
-          "ko": "Microsoft Visio 다이어그램 및 벡터 그래픽 데스크톱 앱"
+          "ko": "Microsoft Visio 다이어그램 및 벡터 그래픽 데스크톱 앱",
+          "en": "Microsoft Visio desktop diagramming app installer",
+          "zh-Hans": "Microsoft Visio 桌面图表软件安装包",
+          "zh-Hant": "Microsoft Visio 桌面圖表軟體安裝檔"
         }
       }
     },
@@ -7690,7 +7705,8 @@
           "en": "A free open-source desktop cat that types along with you",
           "zh-Hans": "开源免费的置顶桌面打字小猫伴侣",
           "zh-Hant": "開源免費的置頂桌面打字小貓伴侶",
-          "ko": "타이핑에 맞춰 움직이는 무료 오픈 소스 데스크톱 고양이"
+          "ko": "타이핑에 맞춰 움직이는 무료 오픈 소스 데스크톱 고양이",
+          "ja": "タイピングに合わせて動く猫のデスクトップ相棒"
         }
       }
     },
@@ -9067,7 +9083,12 @@
         "seen": "2026-11-25",
         "zh-Hant": "提高快取命中率、自動保持快取預熱、保護上下文配額、顯示即時上下文用量、挽救崩潰工作階段的 Google Antigravity 外掛，…",
         "ja": "キャッシュヒット率の向上、キャッシュの自動ウォーム維持、コンテキストクォータの保護、リアルタイムのコンテキスト使用量表示、クラッシュしたセッションの救出を行う Google Antigravity プラグイン、…",
-        "ko": "캐시 적중률 향상, 캐시 자동 웜 유지, 컨텍스트 할당량 보호, 실시간 컨텍스트 사용량 표시, 충돌한 세션 복구 등을 제공하는 Google Antigravity 플러그인,…"
+        "ko": "캐시 적중률 향상, 캐시 자동 웜 유지, 컨텍스트 할당량 보호, 실시간 컨텍스트 사용량 표시, 충돌한 세션 복구 등을 제공하는 Google Antigravity 플러그인,…",
+        "hook": {
+          "en": "Keep Antigravity cache warm and save your context quota",
+          "ja": "Antigravityのキャッシュを維持し利用枠を節約",
+          "ko": "Antigravity 캐시를 유지해 사용 한도를 절약"
+        }
       }
     }
   }

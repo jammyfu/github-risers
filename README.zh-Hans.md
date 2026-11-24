@@ -71,10 +71,10 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>对话太耗Token？帮你减少额度消耗 | 2026-11-19<br><sub>5.6 天</sub> | 1,119 | 201.2 |
 | 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>开源免费的置顶桌面打字小猫伴侣 | 2026-11-21<br><sub>3.1 天</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四张像素画直接变能旋转的伪3D | 2026-11-20<br><sub>4.2 天</sub> | 761 | 182.9 |
-| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>适用于 Linux 上 AI 智能体的 iOS 模拟器。x86Sim 的智能体层。 | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
+| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>在Linux上为智能体运行iOS模拟环境 | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面运行开源的本地AI智能体团队 | 2026-11-21<br><sub>3.5 天</sub> | 553 | 158.9 |
 | 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>让 AI 智能体掌握靠证据推进研究的技能 | 2026-11-23<br><sub>1.0 天</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>用类脑神经信号训练智能体打生存游戏 | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>闲置算力浪费了？用来训练你的本地模型 | 2026-11-20<br><sub>4.3 天</sub> | 485 | 112.6 |
 
 <details>
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin 项目的目录列表。 | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security 项目目录列表 | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -607,8 +607,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 天</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架构难写，让智能体集群直出原型 | 2026-11-19<br><sub>5.7 天</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — 自托管 3D 多人 Texas Hold'em 俱乐部，配备纯 CPU GTO/CFR 求解器、贝叶斯对手画像与 AI 手牌复盘 / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>适用于 React 和 Web 的手绘蜡笔贴纸 SVG。 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>想开私人德扑室？自托管3D牌局带AI复盘 | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>页面太单调？给网页贴上手绘蜡笔贴纸 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

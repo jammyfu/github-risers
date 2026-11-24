@@ -134,7 +134,7 @@
 | [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | WorkBuddy 계정을 DeepSeek Harness로 가져오기 | WorkBuddy 계정을 모델 제공자로 DeepSeek Harness에 가져오기: 계정당 1개의 경로, 전체 모델 목록, 계정별 크레딧 잔액 및 자동 해결책… |
 | [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | Nest 프레임워크에 에이전트 스킬 더하기 | Nest 프레임워크(node.js)를 위한 에이전트 스킬 🕵️♂️ |
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | AI가 스스로 상태와 컨텍스트를 관리하도록 지원 | AI가 스스로를 관리하도록 지원 — 런타임 상태, 컨텍스트 갱신, 자가 복제 등을 위한 크로스 harness 키트 |
-| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) |  | 캐시 적중률 향상, 캐시 자동 웜 유지, 컨텍스트 할당량 보호, 실시간 컨텍스트 사용량 표시, 충돌한 세션 복구 등을 제공하는 Google Antigravity 플러그인,… |
+| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | Antigravity 캐시를 유지해 사용 한도를 절약 | 캐시 적중률 향상, 캐시 자동 웜 유지, 컨텍스트 할당량 보호, 실시간 컨텍스트 사용량 표시, 충돌한 세션 복구 등을 제공하는 Google Antigravity 플러그인,… |
 | [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 긴 GTA 6 방송을 인기 세로 영상으로 자동 편집 | 긴 GTA 6 스트리밍 영상을 바이럴 9:16 릴스로 자동 변환합니다. 무료, 로컬, Claude 및 ChatGPT에서 작동합니다. |
 | [replit/amuse](https://github.com/replit/amuse) | 내 컴퓨터에서 개인 AI 에이전트를 직접 실행 | 셀프 호스팅 개인 AI 에이전트: 리서치, 실시간 브라우저, 알림 및 소형 앱, 작업 전 승인 기능 포함. OpenAI 키로 사용자의 컴퓨터에서 실행됩니다. |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군 |

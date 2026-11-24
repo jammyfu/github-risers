@@ -69,7 +69,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>アプリが遅い？遅い5%だけエージェントで書き換える | 2026-11-21<br><sub>3.2 日</sub> | 3,541 | 1,121.9 |
 | 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>誰かに突かれる前に、脆弱性をすばやく見つける | 2026-11-22<br><sub>2.1 日</sub> | 606 | 292.7 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>トークンが足りない？LLMの往復と消費枠を削減 | 2026-11-19<br><sub>5.6 日</sub> | 1,119 | 201.2 |
-| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — 無料オープンソースデスクトップタイピング猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Tauri v2 + Rust + MCP）｜軽量・透明・最前面表示デスクトップタイピング黒猫コンパニオン（猫6種+クジラ娘・大肥魚 / パスワード入力覗き見防止 / OBS透… | 2026-11-21<br><sub>3.1 日</sub> | 594 | 191.1 |
+| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>タイピングに合わせて動く猫のデスクトップ相棒 | 2026-11-21<br><sub>3.1 日</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>4枚のドット絵を回せる疑似3Dにする | 2026-11-20<br><sub>4.2 日</sub> | 761 | 182.9 |
 | 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Linux 上で AI エージェント用 iOS シミュレータを動かす | 2026-11-21<br><sub>2.9 日</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>デスクトップで動くオープンソースのローカルAIエージェント | 2026-11-21<br><sub>3.5 日</sub> | 553 | 158.9 |

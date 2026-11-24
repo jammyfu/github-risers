@@ -120,7 +120,7 @@
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | アプリが遅い？遅い5%だけエージェントで書き換える | Rustで書き直さないでください。遅い5%を書き直す：Python、Node、Rubyアプリをプロファイリングし、コーディングエージェントでホット関数を移植し、同じように動作することを証明… |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 誰かに突かれる前に、脆弱性をすばやく見つける | 誰かに見つけられる前に脆弱性を発見。高速な 100% Rust 製の脆弱性スキャナー：XSS、SQLインジェクション、漏洩したシークレット、依存関係のCVE、AI エージェントの設定。 |
 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | トークンが足りない？LLMの往復と消費枠を削減 | Google Antigravity (CLI/Desktop/IDE)向けの非侵襲的MCPアクセラレータプラグイン：…に影響を与えることなくLLMターン数 (-34%)、トークンクォータ (-31%)、アップロードトラフィック (-40%) を削減 |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — 無料オープンソースデスクトップタイピング猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Tauri v2 + Rust + MCP）｜軽量・透明・最前面表示デスクトップタイピング黒猫コンパニオン（猫6種+クジラ娘・大肥魚 / パスワード入力覗き見防止 / OBS透… |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | タイピングに合わせて動く猫のデスクトップ相棒 | KuroCat — 無料オープンソースデスクトップタイピング猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Tauri v2 + Rust + MCP）｜軽量・透明・最前面表示デスクトップタイピング黒猫コンパニオン（猫6種+クジラ娘・大肥魚 / パスワード入力覗き見防止 / OBS透… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 4枚のドット絵を回せる疑似3Dにする | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | Linux 上で AI エージェント用 iOS シミュレータを動かす | Linux 上の AI エージェント向け iOS シミュレーター。x86Sim のエージェントレイヤー。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | デスクトップで動くオープンソースのローカルAIエージェント | デスクトップ向けのオープンソース、ローカル優先AIエージェントチーム：マルチエージェントグループチャット、コンピュータ使用、ブラウザ、MCP、ルーチン、承認。macOS、Windows、Linux + A… |
@@ -134,7 +134,7 @@
 | [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | WorkBuddyアカウントをDeepSeek Harnessに取り込む | WorkBuddy アカウントをモデルプロバイダーとして DeepSeek Harness にインポート：アカウントごとに1つのルート、完全なモデルリスト、アカウントごとのクレジット残高、自動ワークア… |
 | [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | Nestフレームワークにエージェントのスキルを追加 | Nest フレームワーク (node.js) 向けのエージェント スキル 🕵️♂️ |
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | AIに自身の状態やコンテキストを自動管理させる | AI に自己管理させる — ランタイムステータス、コンテキスト更新、自己複製などのためのクロス harness キット |
-| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) |  | キャッシュヒット率の向上、キャッシュの自動ウォーム維持、コンテキストクォータの保護、リアルタイムのコンテキスト使用量表示、クラッシュしたセッションの救出を行う Google Antigravity プラグイン、… |
+| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | Antigravityのキャッシュを維持し利用枠を節約 | キャッシュヒット率の向上、キャッシュの自動ウォーム維持、コンテキストクォータの保護、リアルタイムのコンテキスト使用量表示、クラッシュしたセッションの救出を行う Google Antigravity プラグイン、… |
 | [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 長いGTA 6の配信から縦型ショート動画を自動生成 | 長い GTA 6 配信をバイラルな 9:16 リール動画に自動変換。無料、ローカル、Claude および ChatGPT で動作。 |
 | [replit/amuse](https://github.com/replit/amuse) | 自宅のPCで自分専用のエージェントを動かす | セルフホスト型パーソナル AI エージェント：リサーチ、ライブブラウザ、リマインダー、小さなアプリ、アクション前の承認機能付き。OpenAI キーを使用して自身のコンピューター上で動作。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート |

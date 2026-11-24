@@ -74,7 +74,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Run iOS simulators on Linux for your AI agents | 2026-11-21<br><sub>2.9 d</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Run an open-source, local AI agent team on your desktop | 2026-11-21<br><sub>3.5 d</sub> | 553 | 158.9 |
 | 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Give AI agents the skill to run evidence-backed research | 2026-11-23<br><sub>1.0 d</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. | 2026-11-24<br><sub>1.0 d</sub> | 137 | 137.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Train LLM agents using real organoid neural signals | 2026-11-24<br><sub>1.0 d</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>Wasting idle compute? Use it to train your local model | 2026-11-20<br><sub>4.3 d</sub> | 485 | 112.6 |
 
 <details>

@@ -74,7 +74,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>在 Linux 上為 AI 代理運行 iOS 模擬器 | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面運行開源的本機AI代理團隊 | 2026-11-21<br><sub>3.5 天</sub> | 553 | 158.9 |
 | 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>讓 AI 代理掌握依據證據推進研究的技能 | 2026-11-23<br><sub>1.0 天</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>面向 LLM 代理的生物訊號引導強化學習：在 Godot 生存遊戲中將離線類器官神經記錄作為策略輸入，並進行配對評估。 | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>用類腦神經訊號引導代理玩生存遊戲 | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>閒置算力浪費了？用來訓練你的本機模型 | 2026-11-20<br><sub>4.3 天</sub> | 485 | 112.6 |
 
 <details>
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin 專案的目錄列表。 | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security 專案目錄列表 | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -608,7 +608,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 天</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架構難寫，讓代理集群直出原型 | 2026-11-19<br><sub>5.7 天</sub> | 165 | 28.9 |
 | 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>適用於 React 和 Web 的手繪蠟筆貼紙 SVG。 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>頁面太單調？為網頁貼上手繪蠟筆貼紙 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -921,7 +921,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
 | 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin 動態設計工具 | 2026-11-23<br><sub>1.0 天</sub> | 149 | 149.0 |
-| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D-driven motion toolkit — Bataven workflow, built for precision. | 2026-11-23<br><sub>1.0 天</sub> | 145 | 145.0 |
+| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D 動態工具套件，Bataven 工作流程 | 2026-11-23<br><sub>1.0 天</sub> | 145 | 145.0 |
 | 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Illustrator Bamar 向量設計工作流程 | 2026-11-23<br><sub>1.0 天</sub> | 143 | 143.0 |
 | 4 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI影片剪輯工作流程 | 2026-11-21<br><sub>3.0 天</sub> | 338 | 111.0 |
 
