@@ -1440,7 +1440,9 @@
         "hook": {
           "ja": "テストが通る範囲で不要なコードやファイルを安全に削除",
           "ko": "기존 테스트가 통과하는 선에서 불필요한 코드와 파일을 정리",
-          "en": "Safely delete dead code as long as your tests pass"
+          "en": "Safely delete dead code as long as your tests pass",
+          "zh-Hans": "删掉冗余代码，测试能通过才保留",
+          "zh-Hant": "刪掉多餘程式碼，測試通過才保留"
         }
       }
     },
@@ -2319,7 +2321,8 @@
           "en": "Have AI coding agents write and review Japanese line by line",
           "ja": "AI コーディングエージェントに日本語を一文ずつ執筆させる",
           "ko": "AI 코딩 에이전트가 일본어 문장을 한 줄씩 작성하고 검토",
-          "zh-Hant": "讓AI代理一文一句地幫你推敲與審閱日文"
+          "zh-Hant": "讓AI代理一文一句地幫你推敲與審閱日文",
+          "zh-Hans": "让 AI 带着写作意图逐句写日语"
         }
       }
     },
@@ -6363,7 +6366,8 @@
           "en": "Hard to review poker hands? Host a 3D club with AI review",
           "ja": "手札の振り返りに、セルフホスト型3DでAIレビュー",
           "ko": "포커 복기가 어렵다면 셀프 호스팅 3D로 AI 리뷰",
-          "zh-Hans": "想开私人德扑室？自托管3D牌局带AI复盘"
+          "zh-Hans": "想开私人德扑室？自托管3D牌局带AI复盘",
+          "zh-Hant": "自行架設 3D 德州撲克室，支援 AI 複盤"
         }
       }
     },
@@ -9087,7 +9091,9 @@
         "hook": {
           "en": "Keep Antigravity cache warm and save your context quota",
           "ja": "Antigravityのキャッシュを維持し利用枠を節約",
-          "ko": "Antigravity 캐시를 유지해 사용 한도를 절약"
+          "ko": "Antigravity 캐시를 유지해 사용 한도를 절약",
+          "zh-Hans": "抢救崩溃会话，省下上下文额度的插件",
+          "zh-Hant": "搶救崩潰對話，省下上下文額度的外掛"
         }
       }
     }

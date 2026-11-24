@@ -127,14 +127,14 @@
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | 讓 AI 代理掌握依據證據推進研究的技能 | 用於證據驅動型研究、實驗和有界最佳化的便攜式代理技能 |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 用類腦神經訊號引導代理玩生存遊戲 | 面向 LLM 代理的生物訊號引導強化學習：在 Godot 生存遊戲中將離線類器官神經記錄作為策略輸入，並進行配對評估。 |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 閒置算力浪費了？用來訓練你的本機模型 | 利用閒置運算能力為本機模型提供支援的訓練引擎 |
-| [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) |  | 程式碼更少，測試照樣通過：刪除任何程式碼庫中的無用程式碼、檔案、依賴項與資源，且僅在自身測試依然通過時保留每次刪減。 |
+| [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 刪掉多餘程式碼，測試通過才保留 | 程式碼更少，測試照樣通過：刪除任何程式碼庫中的無用程式碼、檔案、依賴項與資源，且僅在自身測試依然通過時保留每次刪減。 |
 | [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | 讓AI代理一文一句地幫你推敲與審閱日文 | 讓 Claude Code、Codex、Antigravity 等 AI 編碼代理附帶寫作意圖與句子功能逐句撰寫並審查日文文章的技能與瀏覽應用 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 介面沒對齊？畫參考線修正內邊距 | 用於對齊調整的代理技能：在介面上繪製參考線，找出每一個偏離參考線的元素，修復內邊距。 |
 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | 畫密集架構圖，讓圖表自己檢查排版 | 用於可自行檢查版面配置的密集架構圖的 Python 構建塊 |
 | [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | 帳號多難打理，接入輕鬆查餘額與模型 | 將 WorkBuddy 帳戶作為模型提供商匯入 DeepSeek Harness：每個帳戶一個路由、完整模型清單、個別帳戶積分餘額，以及自動工作區… |
 | [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | 為Nest框架快速接入代理技能 | 適用於 Nest 框架 (node.js) 的代理技能 🕵️♂️ |
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | 讓AI自己管理運行狀態、上下文與複製 | 讓 AI 自我管理 —— 一個用於執行時狀態、上下文更新、自我複製等的跨 harness 工具包 |
-| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) |  | 提高快取命中率、自動保持快取預熱、保護上下文配額、顯示即時上下文用量、挽救崩潰工作階段的 Google Antigravity 外掛，… |
+| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | 搶救崩潰對話，省下上下文額度的外掛 | 提高快取命中率、自動保持快取預熱、保護上下文配額、顯示即時上下文用量、挽救崩潰工作階段的 Google Antigravity 外掛，… |
 | [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 把GTA 6直播長影片自動剪成熱門短影音 | 自動將冗長的 GTA 6 直播片段轉換為病毒式傳播的 9:16 短片。免費、本機，可在 Claude 和 ChatGPT 中使用。 |
 | [replit/amuse](https://github.com/replit/amuse) | 在自己的電腦上運行自行架設個人AI代理 | 自行架設個人 AI 代理：研究、即時瀏覽器、提醒與小型應用程式，執行動作前需經批准。使用 OpenAI 金鑰在您自己的電腦上執行。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7發布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
@@ -159,7 +159,7 @@
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) |  | Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件 |
 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin) | Avast Premium Security 專案目錄列表 | Avast Premium Security Kacerin 專案的目錄列表。 |
 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架構難寫，讓代理集群直出原型 | 面向複雜軟件工程與產品設計的旗艦級跨廠商多 Agent 集群：架構層直出 PRD、技術架構與交互原型（完美適配產品經理任務），實現層跨廠互審與沙箱實證交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
-| [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) |  | Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… |
+| [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) | 自行架設 3D 德州撲克室，支援 AI 複盤 | Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… |
 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) | 頁面太單調？為網頁貼上手繪蠟筆貼紙 | 適用於 React 和 Web 的手繪蠟筆貼紙 SVG。 |
 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 建置軟體 | 在 Kubernetes / OpenShift 上搭配 Tekton 和 vLLM 運行的 AI Software Factory |
 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design) | After Effects Tadelin 動態設計工具 | After Effects Tadelin Motion Design 為 After Effects 提供結構化的動態設計工具集。 |

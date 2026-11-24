@@ -127,14 +127,14 @@
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | 让 AI 智能体掌握靠证据推进研究的技能 | 用于证据驱动型研究、实验和有界优化的便携式智能体技能 |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 用类脑神经信号训练智能体打生存游戏 | 面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 闲置算力浪费了？用来训练你的本地模型 | 利用闲置算力为本地模型提供支持的训练引擎 |
-| [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) |  | 代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。 |
-| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) |  | 让 Claude Code、Codex、Antigravity 等 AI 编码智能体附带写作意图与句子功能逐句撰写并审查日文文章的技能和浏览应用 |
+| [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 删掉冗余代码，测试能通过才保留 | 代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。 |
+| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | 让 AI 带着写作意图逐句写日语 | 让 Claude Code、Codex、Antigravity 等 AI 编码智能体附带写作意图与句子功能逐句撰写并审查日文文章的技能和浏览应用 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | 画密集架构图，让图表自己检查排版 | 用于可自行检查布局的密集架构图的 Python 构建块 |
 | [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | 账号多难打理，接入轻松查余额与模型 | 将 WorkBuddy 账户作为模型提供商导入 DeepSeek Harness：每个账户一个路由、完整模型列表、单账户积分余额，以及自动工作区… |
 | [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | 为Nest框架快速接入智能体技能 | 适用于 Nest 框架 (node.js) 的智能体技能 🕵️♂️ |
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | 让AI自己管理运行状态、上下文与复刻 | 让 AI 自我管理 —— 一个用于运行时状态、上下文更新、自我复制等的跨 harness 工具包 |
-| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) |  | 提升缓存命中率、自动保持缓存预热、保护上下文配额、显示实时上下文用量、挽救崩溃会话的 Google Antigravity 插件，… |
+| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | 抢救崩溃会话，省下上下文额度的插件 | 提升缓存命中率、自动保持缓存预热、保护上下文配额、显示实时上下文用量、挽救崩溃会话的 Google Antigravity 插件，… |
 | [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 把GTA 6直播长视频自动切成爆款短视频 | 自动将冗长的 GTA 6 直播切片转换为病毒式传播的 9:16 短视频。免费、本地，可在 Claude 和 ChatGPT 中使用。 |
 | [replit/amuse](https://github.com/replit/amuse) | 在自己的电脑上运行自托管个人AI智能体 | 自托管个人 AI 智能体：研究、实时浏览器、提醒和小应用，执行操作前需经批准。使用 OpenAI 密钥在您自己的计算机上运行。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |

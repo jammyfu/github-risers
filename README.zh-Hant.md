@@ -607,7 +607,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 天</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架構難寫，讓代理集群直出原型 | 2026-11-19<br><sub>5.7 天</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>自行架設 3D 德州撲克室，支援 AI 複盤 | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
 | 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>頁面太單調？為網頁貼上手繪蠟筆貼紙 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
 
 <details>
