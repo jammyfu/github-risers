@@ -69,12 +69,12 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>アプリが遅い？遅い5%だけエージェントで書き換える | 2026-11-21<br><sub>3.2 日</sub> | 3,541 | 1,121.9 |
 | 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>誰かに突かれる前に、脆弱性をすばやく見つける | 2026-11-22<br><sub>2.1 日</sub> | 606 | 292.7 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>トークンが足りない？LLMの往復と消費枠を削減 | 2026-11-19<br><sub>5.6 日</sub> | 1,119 | 201.2 |
-| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… | 2026-11-21<br><sub>3.1 日</sub> | 594 | 191.1 |
+| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — 無料オープンソースデスクトップタイピング猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Tauri v2 + Rust + MCP）｜軽量・透明・最前面表示デスクトップタイピング黒猫コンパニオン（猫6種+クジラ娘・大肥魚 / パスワード入力覗き見防止 / OBS透… | 2026-11-21<br><sub>3.1 日</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>4枚のドット絵を回せる疑似3Dにする | 2026-11-20<br><sub>4.2 日</sub> | 761 | 182.9 |
-| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>iOS simulators for AI agents, on Linux. The agent layer for x86Sim. | 2026-11-21<br><sub>2.9 日</sub> | 499 | 171.1 |
+| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Linux 上で AI エージェント用 iOS シミュレータを動かす | 2026-11-21<br><sub>2.9 日</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>デスクトップで動くオープンソースのローカルAIエージェント | 2026-11-21<br><sub>3.5 日</sub> | 553 | 158.9 |
-| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization | 2026-11-23<br><sub>1.0 日</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. | 2026-11-24<br><sub>1.0 日</sub> | 137 | 137.0 |
+| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>AI エージェントに根拠ある検証と研究を進めさせるスキル | 2026-11-23<br><sub>1.0 日</sub> | 141 | 141.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>脳オルガノイド信号で LLM エージェントを生息ゲームで誘導 | 2026-11-24<br><sub>1.0 日</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>空き計算資源がもったいない？ローカルモデルを訓練する | 2026-11-20<br><sub>4.3 日</sub> | 485 | 112.6 |
 
 <details>
@@ -452,7 +452,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Directory listing for the Avast Premium Security Kacerin project. | 2026-11-24<br><sub>1.0 日</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin ディレクトリ | 2026-11-24<br><sub>1.0 日</sub> | 177 | 177.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -607,8 +607,8 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 日</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>PRD作成が大変？エージェントが構成と試作を出力 | 2026-11-19<br><sub>5.7 日</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2 日</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Hand-drawn crayon sticker SVGs for React and the web. | 2026-11-19<br><sub>5.6 日</sub> | 103 | 18.5 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>手札の振り返りに、セルフホスト型3DでAIレビュー | 2026-11-20<br><sub>4.2 日</sub> | 113 | 27.1 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Webが味気ない？手描きのクレヨン風SVGステッカー | 2026-11-19<br><sub>5.6 日</sub> | 103 | 18.5 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -920,9 +920,9 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects. | 2026-11-23<br><sub>1.0 日</sub> | 149 | 149.0 |
-| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D-driven motion toolkit — Bataven workflow, built for precision. | 2026-11-23<br><sub>1.0 日</sub> | 145 | 145.0 |
-| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Design and refine Bamar vector artwork through structured Illustrator workflows. | 2026-11-23<br><sub>1.0 日</sub> | 143 | 143.0 |
+| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin モーションツール | 2026-11-23<br><sub>1.0 日</sub> | 149 | 149.0 |
+| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>Cinema 4D Bataven ツールとワークフロー | 2026-11-23<br><sub>1.0 日</sub> | 145 | 145.0 |
+| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Illustrator Bamar ベクターワークフロー | 2026-11-23<br><sub>1.0 日</sub> | 143 | 143.0 |
 | 4 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube向けAI動画編集ワークフロー | 2026-11-21<br><sub>3.0 日</sub> | 338 | 111.0 |
 
 <details>

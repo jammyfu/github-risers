@@ -69,11 +69,11 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>App running slow? Let an agent rewrite the slow 5% | 2026-11-21<br><sub>3.2 d</sub> | 3,541 | 1,121.9 |
 | 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find vulnerabilities before anyone else does | 2026-11-22<br><sub>2.1 d</sub> | 606 | 292.7 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Tokens running out? Cut LLM turns and token quota | 2026-11-19<br><sub>5.6 d</sub> | 1,119 | 201.2 |
-| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… | 2026-11-21<br><sub>3.1 d</sub> | 594 | 191.1 |
+| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>A free open-source desktop cat that types along with you | 2026-11-21<br><sub>3.1 d</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Turn four pixel views into 3D sprites you can spin | 2026-11-20<br><sub>4.2 d</sub> | 761 | 182.9 |
-| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>iOS simulators for AI agents, on Linux. The agent layer for x86Sim. | 2026-11-21<br><sub>2.9 d</sub> | 499 | 171.1 |
+| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Run iOS simulators on Linux for your AI agents | 2026-11-21<br><sub>2.9 d</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Run an open-source, local AI agent team on your desktop | 2026-11-21<br><sub>3.5 d</sub> | 553 | 158.9 |
-| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization | 2026-11-23<br><sub>1.0 d</sub> | 141 | 141.0 |
+| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Give AI agents the skill to run evidence-backed research | 2026-11-23<br><sub>1.0 d</sub> | 141 | 141.0 |
 | 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. | 2026-11-24<br><sub>1.0 d</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>Wasting idle compute? Use it to train your local model | 2026-11-20<br><sub>4.3 d</sub> | 485 | 112.6 |
 
@@ -452,7 +452,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Directory listing for the Avast Premium Security Kacerin project. | 2026-11-24<br><sub>1.0 d</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin project listing | 2026-11-24<br><sub>1.0 d</sub> | 177 | 177.0 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -607,8 +607,8 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 d</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>Tired of writing PRDs? Let AI agents draft prototypes | 2026-11-19<br><sub>5.7 d</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2 d</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Hand-drawn crayon sticker SVGs for React and the web. | 2026-11-19<br><sub>5.6 d</sub> | 103 | 18.5 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Hard to review poker hands? Host a 3D club with AI review | 2026-11-20<br><sub>4.2 d</sub> | 113 | 27.1 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Web pages look dull? Add hand-drawn crayon sticker SVGs | 2026-11-19<br><sub>5.6 d</sub> | 103 | 18.5 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -920,9 +920,9 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects. | 2026-11-23<br><sub>1.0 d</sub> | 149 | 149.0 |
-| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D-driven motion toolkit — Bataven workflow, built for precision. | 2026-11-23<br><sub>1.0 d</sub> | 145 | 145.0 |
-| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Design and refine Bamar vector artwork through structured Illustrator workflows. | 2026-11-23<br><sub>1.0 d</sub> | 143 | 143.0 |
+| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin motion design tooling | 2026-11-23<br><sub>1.0 d</sub> | 149 | 149.0 |
+| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>Cinema 4D Bataven motion toolkit and workflow | 2026-11-23<br><sub>1.0 d</sub> | 145 | 145.0 |
+| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Illustrator Bamar vector design workflow | 2026-11-23<br><sub>1.0 d</sub> | 143 | 143.0 |
 | 4 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>AI editing workflow for YouTube | 2026-11-21<br><sub>3.0 d</sub> | 338 | 111.0 |
 
 <details>

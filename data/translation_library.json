@@ -53,6 +53,23 @@
         }
       }
     },
+    "23080960124/ibm-spss-statistics": {
+      "d055e2720821": {
+        "src": "IBM SPSS Statistics: Feature Set for Advanced Data Analysis",
+        "zh-Hans": "IBM SPSS Statistics：用于高级数据分析的功能集",
+        "seen": "2026-11-25",
+        "zh-Hant": "IBM SPSS Statistics：用於進階資料分析的功能集",
+        "ja": "IBM SPSS Statistics: 高度なデータ分析のための機能セット",
+        "ko": "IBM SPSS Statistics: 고급 데이터 분석을 위한 기능 세트",
+        "hook": {
+          "en": "IBM SPSS Statistics data analysis feature set",
+          "zh-Hans": "IBM SPSS Statistics 数据分析功能集",
+          "zh-Hant": "IBM SPSS Statistics 數據分析功能集",
+          "ja": "IBM SPSS Statistics データ分析機能",
+          "ko": "IBM SPSS Statistics 데이터 분석 기능"
+        }
+      }
+    },
     "237Zidane/grand-tour-skill": {
       "d2476dcdf079": {
         "src": "Grand Tour Skill: orchestrated developer library for /grand-tour",
@@ -202,6 +219,21 @@
         "zh-Hant": "Studioonepro7 Release：包含所有功能的完整桌面套件",
         "ja": "Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート",
         "ko": "Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군"
+      }
+    },
+    "AdityaKodez/trazo": {
+      "aa1d60c85ab7": {
+        "src": "Hand-drawn crayon sticker SVGs for React and the web.",
+        "zh-Hans": "适用于 React 和 Web 的手绘蜡笔贴纸 SVG。",
+        "seen": "2026-11-25",
+        "zh-Hant": "適用於 React 和 Web 的手繪蠟筆貼紙 SVG。",
+        "ja": "React および Web 向けの手描きクレヨンステッカー SVG。",
+        "ko": "React 및 웹용 손으로 그린 크레용 스티커 SVG.",
+        "hook": {
+          "en": "Web pages look dull? Add hand-drawn crayon sticker SVGs",
+          "ja": "Webが味気ない？手描きのクレヨン風SVGステッカー",
+          "ko": "웹이 밋밋할 때 손으로 그린 크레용 SVG 스티커"
+        }
       }
     },
     "AdmiralEmporium/ai--manus": {
@@ -528,6 +560,23 @@
           "zh-Hant": "把公開頁面的人物搜尋彙成報告",
           "ja": "公開ページの人物検索を一つのレポートに",
           "ko": "공개 페이지 인물 검색을 보고서 하나로"
+        }
+      }
+    },
+    "AyushRajSinghParihar/weaponized-curiosity": {
+      "790f225de871": {
+        "src": "Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization",
+        "zh-Hans": "用于证据驱动型研究、实验和有界优化的便携式智能体技能",
+        "seen": "2026-11-25",
+        "zh-Hant": "用於證據驅動型研究、實驗和有界最佳化的便攜式代理技能",
+        "ja": "証拠に基づいた研究、実験、および有界最適化のためのポータブルエージェントスキル",
+        "ko": "증거 기반 연구, 실험 및 경계 최적화를 위한 휴대용 에이전트 스킬",
+        "hook": {
+          "en": "Give AI agents the skill to run evidence-backed research",
+          "zh-Hans": "让 AI 智能体掌握靠证据推进研究的技能",
+          "zh-Hant": "讓 AI 代理掌握依據證據推進研究的技能",
+          "ja": "AI エージェントに根拠ある検証と研究を進めさせるスキル",
+          "ko": "AI 에이전트가 근거 기반 연구와 실험을 수행하도록 돕는 스킬"
         }
       }
     },
@@ -1261,6 +1310,22 @@
         }
       }
     },
+    "Developing-Gamer/agent-sim": {
+      "c49ac3e9dadc": {
+        "src": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+        "zh-Hans": "适用于 Linux 上 AI 智能体的 iOS 模拟器。x86Sim 的智能体层。",
+        "seen": "2026-11-25",
+        "zh-Hant": "適用於 Linux 上 AI 代理的 iOS 模擬器。x86Sim 的代理層。",
+        "ja": "Linux 上の AI エージェント向け iOS シミュレーター。x86Sim のエージェントレイヤー。",
+        "ko": "Linux 환경의 AI 에이전트를 위한 iOS 시뮬레이터. x86Sim을 위한 에이전트 계층.",
+        "hook": {
+          "en": "Run iOS simulators on Linux for your AI agents",
+          "zh-Hant": "在 Linux 上為 AI 代理運行 iOS 模擬器",
+          "ja": "Linux 上で AI エージェント用 iOS シミュレータを動かす",
+          "ko": "Linux 환경에서 AI 에이전트용 iOS 시뮬레이터를 구동"
+        }
+      }
+    },
     "DiplomatHearth/roblox-ai-place-diff": {
       "4cceb0513b89": {
         "src": "Every change this Roblox Studio agent makes is a place diff you approve first. Rewind any turn with one Ctrl+Z, playtests run on a copy so live data never move…",
@@ -1358,6 +1423,20 @@
           "zh-Hant": "程式太慢？讓代理只重寫最慢的5%",
           "ja": "アプリが遅い？遅い5%だけエージェントで書き換える",
           "ko": "앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기"
+        }
+      }
+    },
+    "EL4CTEO/shrink-anything": {
+      "ce640d299049": {
+        "src": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+        "zh-Hans": "代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。",
+        "seen": "2026-11-25",
+        "zh-Hant": "程式碼更少，測試照樣通過：刪除任何程式碼庫中的無用程式碼、檔案、依賴項與資源，且僅在自身測試依然通過時保留每次刪減。",
+        "ja": "コードを減らし、同じテストを合格：あらゆるコードベースのデッドコード、ファイル、依存関係、アセットを削除し、自身のテストが合格し続ける場合のみ各削減を維持。",
+        "ko": "더 적은 코드로 동일한 테스트 통과: 모든 코드베이스에서 불필요한 코드, 파일, 종속성 및 에셋을 삭제하고 자체 테스트가 계속 통과하는 경우에만 각 삭제를 유지합니다.",
+        "hook": {
+          "ja": "テストが通る範囲で不要なコードやファイルを安全に削除",
+          "ko": "기존 테스트가 통과하는 선에서 불필요한 코드와 파일을 정리"
         }
       }
     },
@@ -1813,6 +1892,21 @@
         }
       }
     },
+    "HavocSaif/avast-premium-security-kacerin": {
+      "edb7c06e5ccc": {
+        "src": "Directory listing for the Avast Premium Security Kacerin project.",
+        "zh-Hans": "Avast Premium Security Kacerin 项目的目录列表。",
+        "seen": "2026-11-25",
+        "zh-Hant": "Avast Premium Security Kacerin 專案的目錄列表。",
+        "ja": "Avast Premium Security Kacerin プロジェクトのディレクトリ一覧。",
+        "ko": "Avast Premium Security Kacerin 프로젝트의 디렉터리 목록.",
+        "hook": {
+          "en": "Avast Premium Security Kacerin project listing",
+          "ja": "Avast Premium Security Kacerin ディレクトリ",
+          "ko": "Avast Premium Security Kacerin 프로젝트 목록"
+        }
+      }
+    },
     "HerdBuilderEstimate/roblox-studio-mcp": {
       "0056f0da57b2": {
         "src": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-sour…",
@@ -1928,6 +2022,23 @@
           "zh-Hant": "將設計與簡報以普通檔案儲存在本機",
           "ja": "スライドやUI設計を普通のファイルでローカル保存",
           "ko": "슬라이드와 디자인을 일반 파일로 로컬에 저장"
+        }
+      }
+    },
+    "JohnnyAPGO/illustrator-bamar-vector-design": {
+      "e9c29502536f": {
+        "src": "Design and refine Bamar vector artwork through structured Illustrator workflows.",
+        "zh-Hans": "通过结构化的 Illustrator 工作流设计和完善 Bamar 矢量艺术作品。",
+        "seen": "2026-11-25",
+        "zh-Hant": "透過結構化的 Illustrator 工作流程設計與完善 Bamar 向量藝術作品。",
+        "ja": "構造化された Illustrator ワークフローを通じて Bamar ベクターアートワークをデザインおよび改良します。",
+        "ko": "구조화된 Illustrator 워크플로를 통해 Bamar 벡터 아트워크를 디자인하고 개선합니다.",
+        "hook": {
+          "en": "Illustrator Bamar vector design workflow",
+          "zh-Hans": "Illustrator Bamar 矢量设计工作流",
+          "zh-Hant": "Illustrator Bamar 向量設計工作流程",
+          "ja": "Illustrator Bamar ベクターワークフロー",
+          "ko": "Illustrator Bamar 벡터 디자인 워크플로"
         }
       }
     },
@@ -2186,6 +2297,22 @@
           "ko": "활성화된 Robux-Generator 데스크톱 설치본",
           "zh-Hans": "Robux-Generator 桌面端完整安装包",
           "zh-Hant": "Robux-Generator 桌面端完整安裝程式"
+        }
+      }
+    },
+    "MaryCache/tsuzuri": {
+      "f68e167f7eac": {
+        "src": "Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ",
+        "zh-Hans": "让 Claude Code、Codex、Antigravity 等 AI 编码智能体附带写作意图与句子功能逐句撰写并审查日文文章的技能和浏览应用",
+        "seen": "2026-11-25",
+        "zh-Hant": "讓 Claude Code、Codex、Antigravity 等 AI 編碼代理附帶寫作意圖與句子功能逐句撰寫並審查日文文章的技能與瀏覽應用",
+        "ja": "Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ",
+        "ko": "Claude Code, Codex, Antigravity 등의 AI 코딩 에이전트가 집필 의도와 문장 기능을 바탕으로 한 문장씩 일본어 문장을 작성 및 검토하도록 하는 스킬과 뷰어 앱",
+        "en": "A skill and viewing app that lets AI coding agents such as Claude Code, Codex, and Antigravity write and review Japanese text sentence by sentence, with writing intent and sentence function",
+        "hook": {
+          "en": "Have AI coding agents write and review Japanese line by line",
+          "ja": "AI コーディングエージェントに日本語を一文ずつ執筆させる",
+          "ko": "AI 코딩 에이전트가 일본어 문장을 한 줄씩 작성하고 검토"
         }
       }
     },
@@ -3526,6 +3653,23 @@
         }
       }
     },
+    "Tenert007/after-effects-tadelin-motion-design": {
+      "b3ad0e2ef2d1": {
+        "src": "After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects.",
+        "zh-Hans": "After Effects Tadelin Motion Design 为 After Effects 提供结构化的动态设计工具集。",
+        "seen": "2026-11-25",
+        "zh-Hant": "After Effects Tadelin Motion Design 為 After Effects 提供結構化的動態設計工具集。",
+        "ja": "After Effects Tadelin Motion Design は、After Effects 向けの構造化されたモーションデザインツールを提供します。",
+        "ko": "After Effects Tadelin Motion Design은 After Effects용 구조화된 모션 디자인 툴링을 제공합니다.",
+        "hook": {
+          "en": "After Effects Tadelin motion design tooling",
+          "zh-Hans": "After Effects Tadelin 动效设计工具",
+          "zh-Hant": "After Effects Tadelin 動態設計工具",
+          "ja": "After Effects Tadelin モーションツール",
+          "ko": "After Effects Tadelin 모션 디자인 툴"
+        }
+      }
+    },
     "Thornthedefine/reason-14": {
       "048afd1dbfaf": {
         "src": "Reason 14: Optimized package deployment for enterprise desktop software utility, ensuring seamless local workstation environment setup in 2026.",
@@ -4711,6 +4855,20 @@
           "zh-Hant": "讓 AI 代理掌握 32 項免費行銷技能",
           "ja": "AIエージェントに32の無料マーケティングスキルを",
           "ko": "AI 에이전트에 32가지 무료 마케팅 스킬을 추가"
+        }
+      }
+    },
+    "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning": {
+      "48e40b724d90": {
+        "src": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+        "zh-Hans": "面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。",
+        "seen": "2026-11-25",
+        "zh-Hant": "面向 LLM 代理的生物訊號引導強化學習：在 Godot 生存遊戲中將離線類器官神經記錄作為策略輸入，並進行配對評估。",
+        "ja": "LLM エージェントのための生体信号誘導型強化学習：Godot サバイバルゲームにおいてオフラインのオルガノイド神経記録をポリシー入力として使用し、ペア評価を実施。",
+        "ko": "LLM 에이전트를 위한 생체 신호 유도 강화 학습: Godot 생존 게임에서 오프라인 오가노이드 신경 기록을 정책 입력으로 활용하며, 쌍체 평가를 포함합니다.",
+        "hook": {
+          "ja": "脳オルガノイド信号で LLM エージェントを生息ゲームで誘導",
+          "ko": "뇌 오가노이드 신경 신호로 생존 게임 속 LLM 에이전트를 유도"
         }
       }
     },
@@ -6182,6 +6340,22 @@
         }
       }
     },
+    "jianghao-jianghao-jianghao/newHoldem": {
+      "391be7b92013": {
+        "src": "Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（…",
+        "zh-Hans": "Velvet Hold'em — 自托管 3D 多人 Texas Hold'em 俱乐部，配备纯 CPU GTO/CFR 求解器、贝叶斯对手画像与 AI 手牌复盘 / 开源 3D 德州扑克私人牌室（…",
+        "seen": "2026-11-25",
+        "zh-Hant": "Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（…",
+        "ja": "Velvet Hold'em — セルフホスト型 3D マルチプレイヤー Texas Hold'em クラブ、CPU 専用 GTO/CFR ソルバー、ベイズ推定相手プロファイリング &amp; AI ハンドレビュー搭載 / 开源 3D 德州扑克私人牌室（…",
+        "ko": "Velvet Hold'em — 셀프 호스팅 3D 멀티플레이어 Texas Hold'em 클럽, CPU 전용 GTO/CFR 솔버, 베이즈 상대 프로파일링 &amp; AI 핸드 검토 탑재 / 开源 3D 德州扑克私人牌室（…",
+        "en": "Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（…",
+        "hook": {
+          "en": "Hard to review poker hands? Host a 3D club with AI review",
+          "ja": "手札の振り返りに、セルフホスト型3DでAIレビュー",
+          "ko": "포커 복기가 어렵다면 셀프 호스팅 3D로 AI 리뷰"
+        }
+      }
+    },
     "jianxinss/iching-64-motion": {
       "dd5cbe769420": {
         "src": "《易经》六十四卦结构动画 · I Ching 64 Hexagrams motion graphics, made entirely with code (Remotion + React)",
@@ -6229,6 +6403,18 @@
           "ja": "AI エージェントがリポジトリの脅威モデルを作成",
           "ko": "AI 에이전트가 저장소 위협 모델을 작성"
         }
+      }
+    },
+    "joe111487/cinema-4d-bataven-motion-studio": {
+      "675c3d75096f": {
+        "src": "C4D-driven motion toolkit — Bataven workflow, built for precision.",
+        "hook": {
+          "en": "Cinema 4D Bataven motion toolkit and workflow",
+          "zh-Hans": "Cinema 4D Bataven 动态工具包与工作流",
+          "ja": "Cinema 4D Bataven ツールとワークフロー",
+          "ko": "Cinema 4D Bataven 모션 툴킷 및 워크플로"
+        },
+        "seen": "2026-11-25"
       }
     },
     "johnampire818-dev/samfw-tool-desktop": {
@@ -6280,6 +6466,20 @@
         "zh-Hant": "Rust External Trainer Tool：自信的遊戲增強",
         "ja": "Rust External Trainer Tool: 自信に満ちたゲーム拡張",
         "ko": "Rust External Trainer Tool: 자신감 있는 게임 향상"
+      }
+    },
+    "jorgezaltoo-design/microsoft-visio": {
+      "48e00764ed68": {
+        "src": "Microsoft Visio: Diagramming and Vector Graphics Desktop Application",
+        "zh-Hans": "Microsoft Visio：图表绘制与矢量图形桌面应用程序",
+        "seen": "2026-11-25",
+        "zh-Hant": "Microsoft Visio：圖表繪製與向量圖形桌面應用程式",
+        "ja": "Microsoft Visio: 作図およびベクターグラフィックスデスクトップアプリケーション",
+        "ko": "Microsoft Visio: 다이어그램 및 벡터 그래픽 데스크톱 애플리케이션",
+        "hook": {
+          "ja": "Microsoft Visio 作図・ベクターグラフィック作成アプリ",
+          "ko": "Microsoft Visio 다이어그램 및 벡터 그래픽 데스크톱 앱"
+        }
       }
     },
     "jshami391-bit/scrcpy-screen-mirroring": {
@@ -7477,6 +7677,23 @@
         }
       }
     },
+    "qianyiai/kurocat": {
+      "3495d5eb8bcf": {
+        "src": "KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透…",
+        "zh-Hans": "KuroCat — 免费开源桌面打字猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Tauri v2 + Rust + MCP）｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透…",
+        "seen": "2026-11-25",
+        "zh-Hant": "KuroCat — 免費開源桌面打字貓咪寵物 &amp; OBS 疊加層（Bongo Cat 替代品，Tauri v2 + Rust + MCP）｜輕量級透明置頂桌面打字小黑貓伴侶（6款貓咪+鯨魚娘大肥魚 / 輸密碼防偷窺 / OBS透…",
+        "ja": "KuroCat — 無料オープンソースデスクトップタイピング猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Tauri v2 + Rust + MCP）｜軽量・透明・最前面表示デスクトップタイピング黒猫コンパニオン（猫6種+クジラ娘・大肥魚 / パスワード入力覗き見防止 / OBS透…",
+        "ko": "KuroCat — 무료 오픈 소스 데스크톱 타이핑 고양이 펫 &amp; OBS 오버레이 (Bongo Cat 대안, Tauri v2 + Rust + MCP)｜가볍고 투명한 항상 위 데스크톱 타이핑 검은 고양이 컴패니언 (6종 고양이+고래 소녀 대형 생선 / 비밀번호 입력 엿보기 방지 / OBS 투…",
+        "en": "KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜Lightweight transparent always-on-top desktop typing black cat companion (6 cat models + Whale Girl big fat fish / password anti-peeping / OBS trans…",
+        "hook": {
+          "en": "A free open-source desktop cat that types along with you",
+          "zh-Hans": "开源免费的置顶桌面打字小猫伴侣",
+          "zh-Hant": "開源免費的置頂桌面打字小貓伴侶",
+          "ko": "타이핑에 맞춰 움직이는 무료 오픈 소스 데스크톱 고양이"
+        }
+      }
+    },
     "qybaihe/bla": {
       "426182b4d222": {
         "src": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineerin…",
@@ -8665,6 +8882,21 @@
         }
       }
     },
+    "yrf15gamin-pixel/ashampoo-winoptimizer-pro": {
+      "ec0a26ad5210": {
+        "src": "Ashampoo WinOptimizer Pro: Advanced Windows Tuning and System Optimization Suite",
+        "zh-Hans": "Ashampoo WinOptimizer Pro：高级 Windows 调优与系统优化套件",
+        "seen": "2026-11-25",
+        "zh-Hant": "Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件",
+        "ja": "Ashampoo WinOptimizer Pro: 高度な Windows チューニングおよびシステム最適化スイート",
+        "ko": "Ashampoo WinOptimizer Pro: 고급 Windows 튜닝 및 시스템 최적화 제품군",
+        "hook": {
+          "en": "Ashampoo WinOptimizer Pro Windows tuning suite",
+          "ja": "Ashampoo WinOptimizer Pro 最適化ツール",
+          "ko": "Ashampoo WinOptimizer Pro 시스템 최적화 도구"
+        }
+      }
+    },
     "ysunyang4/Nexus": {
       "2f5e6c7fe5b7": {
         "src": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
@@ -8826,6 +9058,16 @@
           "ja": "プロンプトの管理に困ったら、ローカルで保存",
           "ko": "프롬프트 찾기 번거로울 때, 로컬에서 바로 보관"
         }
+      }
+    },
+    "zou172866/Antigravity-agy-dart": {
+      "e34561e14305": {
+        "src": "Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions,…",
+        "zh-Hans": "提升缓存命中率、自动保持缓存预热、保护上下文配额、显示实时上下文用量、挽救崩溃会话的 Google Antigravity 插件，…",
+        "seen": "2026-11-25",
+        "zh-Hant": "提高快取命中率、自動保持快取預熱、保護上下文配額、顯示即時上下文用量、挽救崩潰工作階段的 Google Antigravity 外掛，…",
+        "ja": "キャッシュヒット率の向上、キャッシュの自動ウォーム維持、コンテキストクォータの保護、リアルタイムのコンテキスト使用量表示、クラッシュしたセッションの救出を行う Google Antigravity プラグイン、…",
+        "ko": "캐시 적중률 향상, 캐시 자동 웜 유지, 컨텍스트 할당량 보호, 실시간 컨텍스트 사용량 표시, 충돌한 세션 복구 등을 제공하는 Google Antigravity 플러그인,…"
       }
     }
   }

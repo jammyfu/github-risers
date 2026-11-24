@@ -69,12 +69,12 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>代码太慢？让智能体只重写最慢的5% | 2026-11-21<br><sub>3.2 天</sub> | 3,541 | 1,121.9 |
 | 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>赶在别人发现前，快速找出系统漏洞 | 2026-11-22<br><sub>2.1 天</sub> | 606 | 292.7 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>对话太耗Token？帮你减少额度消耗 | 2026-11-19<br><sub>5.6 天</sub> | 1,119 | 201.2 |
-| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… | 2026-11-21<br><sub>3.1 天</sub> | 594 | 191.1 |
+| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>开源免费的置顶桌面打字小猫伴侣 | 2026-11-21<br><sub>3.1 天</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四张像素画直接变能旋转的伪3D | 2026-11-20<br><sub>4.2 天</sub> | 761 | 182.9 |
-| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>iOS simulators for AI agents, on Linux. The agent layer for x86Sim. | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
+| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>适用于 Linux 上 AI 智能体的 iOS 模拟器。x86Sim 的智能体层。 | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面运行开源的本地AI智能体团队 | 2026-11-21<br><sub>3.5 天</sub> | 553 | 158.9 |
-| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization | 2026-11-23<br><sub>1.0 天</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
+| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>让 AI 智能体掌握靠证据推进研究的技能 | 2026-11-23<br><sub>1.0 天</sub> | 141 | 141.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>闲置算力浪费了？用来训练你的本地模型 | 2026-11-20<br><sub>4.3 天</sub> | 485 | 112.6 |
 
 <details>
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Directory listing for the Avast Premium Security Kacerin project. | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin 项目的目录列表。 | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -607,8 +607,8 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 天</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架构难写，让智能体集群直出原型 | 2026-11-19<br><sub>5.7 天</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Hand-drawn crayon sticker SVGs for React and the web. | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — 自托管 3D 多人 Texas Hold'em 俱乐部，配备纯 CPU GTO/CFR 求解器、贝叶斯对手画像与 AI 手牌复盘 / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>适用于 React 和 Web 的手绘蜡笔贴纸 SVG。 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -920,9 +920,9 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects. | 2026-11-23<br><sub>1.0 天</sub> | 149 | 149.0 |
-| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D-driven motion toolkit — Bataven workflow, built for precision. | 2026-11-23<br><sub>1.0 天</sub> | 145 | 145.0 |
-| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Design and refine Bamar vector artwork through structured Illustrator workflows. | 2026-11-23<br><sub>1.0 天</sub> | 143 | 143.0 |
+| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin 动效设计工具 | 2026-11-23<br><sub>1.0 天</sub> | 149 | 149.0 |
+| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>Cinema 4D Bataven 动态工具包与工作流 | 2026-11-23<br><sub>1.0 天</sub> | 145 | 145.0 |
+| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Illustrator Bamar 矢量设计工作流 | 2026-11-23<br><sub>1.0 天</sub> | 143 | 143.0 |
 | 4 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI视频剪辑工作流 | 2026-11-21<br><sub>3.0 天</sub> | 338 | 111.0 |
 
 <details>

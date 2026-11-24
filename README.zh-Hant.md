@@ -69,12 +69,12 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>程式太慢？讓代理只重寫最慢的5% | 2026-11-21<br><sub>3.2 天</sub> | 3,541 | 1,121.9 |
 | 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>趕在別人發現前，快速找出系統漏洞 | 2026-11-22<br><sub>2.1 天</sub> | 606 | 292.7 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>對話太耗Token？幫你減少額度消耗 | 2026-11-19<br><sub>5.6 天</sub> | 1,119 | 201.2 |
-| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… | 2026-11-21<br><sub>3.1 天</sub> | 594 | 191.1 |
+| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>開源免費的置頂桌面打字小貓伴侶 | 2026-11-21<br><sub>3.1 天</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四張像素畫直接變能旋轉的偽3D | 2026-11-20<br><sub>4.2 天</sub> | 761 | 182.9 |
-| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>iOS simulators for AI agents, on Linux. The agent layer for x86Sim. | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
+| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>在 Linux 上為 AI 代理運行 iOS 模擬器 | 2026-11-21<br><sub>2.9 天</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面運行開源的本機AI代理團隊 | 2026-11-21<br><sub>3.5 天</sub> | 553 | 158.9 |
-| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization | 2026-11-23<br><sub>1.0 天</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
+| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>讓 AI 代理掌握依據證據推進研究的技能 | 2026-11-23<br><sub>1.0 天</sub> | 141 | 141.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>面向 LLM 代理的生物訊號引導強化學習：在 Godot 生存遊戲中將離線類器官神經記錄作為策略輸入，並進行配對評估。 | 2026-11-24<br><sub>1.0 天</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>閒置算力浪費了？用來訓練你的本機模型 | 2026-11-20<br><sub>4.3 天</sub> | 485 | 112.6 |
 
 <details>
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Directory listing for the Avast Premium Security Kacerin project. | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin 專案的目錄列表。 | 2026-11-24<br><sub>1.0 天</sub> | 177 | 177.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -607,8 +607,8 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0 天</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架構難寫，讓代理集群直出原型 | 2026-11-19<br><sub>5.7 天</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Hand-drawn crayon sticker SVGs for React and the web. | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… | 2026-11-20<br><sub>4.2 天</sub> | 113 | 27.1 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>適用於 React 和 Web 的手繪蠟筆貼紙 SVG。 | 2026-11-19<br><sub>5.6 天</sub> | 103 | 18.5 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -920,9 +920,9 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects. | 2026-11-23<br><sub>1.0 天</sub> | 149 | 149.0 |
+| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin 動態設計工具 | 2026-11-23<br><sub>1.0 天</sub> | 149 | 149.0 |
 | 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D-driven motion toolkit — Bataven workflow, built for precision. | 2026-11-23<br><sub>1.0 天</sub> | 145 | 145.0 |
-| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Design and refine Bamar vector artwork through structured Illustrator workflows. | 2026-11-23<br><sub>1.0 天</sub> | 143 | 143.0 |
+| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Illustrator Bamar 向量設計工作流程 | 2026-11-23<br><sub>1.0 天</sub> | 143 | 143.0 |
 | 4 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI影片剪輯工作流程 | 2026-11-21<br><sub>3.0 天</sub> | 338 | 111.0 |
 
 <details>

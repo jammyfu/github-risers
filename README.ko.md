@@ -69,12 +69,12 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>3.2일</sub> | 3,541 | 1,121.9 |
 | 2 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>2.1일</sub> | 606 | 292.7 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>토큰이 부족한가요? LLM 턴과 할당량을 절약 | 2026-11-19<br><sub>5.6일</sub> | 1,119 | 201.2 |
-| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… | 2026-11-21<br><sub>3.1일</sub> | 594 | 191.1 |
+| 4 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>타이핑에 맞춰 움직이는 무료 오픈 소스 데스크톱 고양이 | 2026-11-21<br><sub>3.1일</sub> | 594 | 191.1 |
 | 5 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>도트 그림 네 장을 회전하는 의사 3D로 변환 | 2026-11-20<br><sub>4.2일</sub> | 761 | 182.9 |
-| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>iOS simulators for AI agents, on Linux. The agent layer for x86Sim. | 2026-11-21<br><sub>2.9일</sub> | 499 | 171.1 |
+| 6 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Linux 환경에서 AI 에이전트용 iOS 시뮬레이터를 구동 | 2026-11-21<br><sub>2.9일</sub> | 499 | 171.1 |
 | 7 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀 | 2026-11-21<br><sub>3.5일</sub> | 553 | 158.9 |
-| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization | 2026-11-23<br><sub>1.0일</sub> | 141 | 141.0 |
-| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. | 2026-11-24<br><sub>1.0일</sub> | 137 | 137.0 |
+| 8 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity)<br>AI 에이전트가 근거 기반 연구와 실험을 수행하도록 돕는 스킬 | 2026-11-23<br><sub>1.0일</sub> | 141 | 141.0 |
+| 9 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning)<br>뇌 오가노이드 신경 신호로 생존 게임 속 LLM 에이전트를 유도 | 2026-11-24<br><sub>1.0일</sub> | 137 | 137.0 |
 | 10 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기 | 2026-11-20<br><sub>4.3일</sub> | 485 | 112.6 |
 
 <details>
@@ -452,7 +452,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Directory listing for the Avast Premium Security Kacerin project. | 2026-11-24<br><sub>1.0일</sub> | 177 | 177.0 |
+| 1 | [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin)<br>Avast Premium Security Kacerin 프로젝트 목록 | 2026-11-24<br><sub>1.0일</sub> | 177 | 177.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -607,8 +607,8 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.0일</sub> | 128 | 128.0 |
 | 2 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>PRD 작성이 막막할 때 에이전트가 프로토타입 출력 | 2026-11-19<br><sub>5.7일</sub> | 165 | 28.9 |
-| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（… | 2026-11-20<br><sub>4.2일</sub> | 113 | 27.1 |
-| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>Hand-drawn crayon sticker SVGs for React and the web. | 2026-11-19<br><sub>5.6일</sub> | 103 | 18.5 |
+| 3 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>포커 복기가 어렵다면 셀프 호스팅 3D로 AI 리뷰 | 2026-11-20<br><sub>4.2일</sub> | 113 | 27.1 |
+| 4 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo)<br>웹이 밋밋할 때 손으로 그린 크레용 SVG 스티커 | 2026-11-19<br><sub>5.6일</sub> | 103 | 18.5 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -920,9 +920,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects. | 2026-11-23<br><sub>1.0일</sub> | 149 | 149.0 |
-| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>C4D-driven motion toolkit — Bataven workflow, built for precision. | 2026-11-23<br><sub>1.0일</sub> | 145 | 145.0 |
-| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Design and refine Bamar vector artwork through structured Illustrator workflows. | 2026-11-23<br><sub>1.0일</sub> | 143 | 143.0 |
+| 1 | [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design)<br>After Effects Tadelin 모션 디자인 툴 | 2026-11-23<br><sub>1.0일</sub> | 149 | 149.0 |
+| 2 | [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio)<br>Cinema 4D Bataven 모션 툴킷 및 워크플로 | 2026-11-23<br><sub>1.0일</sub> | 145 | 145.0 |
+| 3 | [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design)<br>Illustrator Bamar 벡터 디자인 워크플로 | 2026-11-23<br><sub>1.0일</sub> | 143 | 143.0 |
 | 4 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube용 AI 동영상 편집 워크플로 | 2026-11-21<br><sub>3.0일</sub> | 338 | 111.0 |
 
 <details>
