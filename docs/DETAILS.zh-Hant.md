@@ -119,45 +119,50 @@
 |---|---|---|
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 程式太慢？讓代理只重寫最慢的5% | 不要用 Rust 重寫。重寫慢的 5%：分析 Python、Node 或 Ruby 應用程式的效能，用你的編程代理移植熱點函式，證明它們的行為相… |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 趕在別人發現前，快速找出系統漏洞 | 在別人之前找出漏洞。一款快速且 100% Rust 編寫的漏洞掃描器：支援 XSS、SQL 注入、外洩的密鑰、依賴項 CVE 以及 AI 代理設定。 |
-| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面運行開源的本機AI代理團隊 | 適用於桌面的開源、本機優先 AI 代理團隊：多代理群聊、電腦使用、瀏覽器、MCP、例程與審批。macOS、Windows、Linux + A… |
-| [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四張像素畫直接變能旋轉的偽3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
-| [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 用20個AI在不同手機上快速找出異常流程 | 在 GitHub 的免費執行器上，由 20 個 AI 測試員在 20 部不同的手機上並行測試：執行在 iOS 模擬器和 Android 模擬器上的 Claude Code 代理，用於發現損壞的流程，… |
 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 對話太耗Token？幫你減少額度消耗 | 適用於 Google Antigravity (CLI/Desktop/IDE) 的非侵入式 MCP 加速器外掛：在不影響…的情況下減少 LLM 輪次 (-34%)、Token 配額 (-31%) 和上傳流量 (-40%) |
-| [pritamux/gridlines](https://github.com/pritamux/gridlines) | 介面沒對齊？畫參考線修正內邊距 | 用於對齊調整的代理技能：在介面上繪製參考線，找出每一個偏離參考線的元素，修復內邊距。 |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… |
+| [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四張像素畫直接變能旋轉的偽3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
+| [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) |  | iOS simulators for AI agents, on Linux. The agent layer for x86Sim. |
+| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面運行開源的本機AI代理團隊 | 適用於桌面的開源、本機優先 AI 代理團隊：多代理群聊、電腦使用、瀏覽器、MCP、例程與審批。macOS、Windows、Linux + A… |
+| [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) |  | Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization |
+| [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) |  | Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation. |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 閒置算力浪費了？用來訓練你的本機模型 | 利用閒置運算能力為本機模型提供支援的訓練引擎 |
-| [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | 將設計與簡報以普通檔案儲存在本機 | 開放且獨立於代理和模型的工件，全部作為純文字檔案儲存在本機——編輯、評論並匯出投影片、UI 設計、設計系統、白板、試算… |
+| [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) |  | Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass. |
+| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) |  | Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ |
+| [pritamux/gridlines](https://github.com/pritamux/gridlines) | 介面沒對齊？畫參考線修正內邊距 | 用於對齊調整的代理技能：在介面上繪製參考線，找出每一個偏離參考線的元素，修復內邊距。 |
 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | 畫密集架構圖，讓圖表自己檢查排版 | 用於可自行檢查版面配置的密集架構圖的 Python 構建塊 |
 | [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | 帳號多難打理，接入輕鬆查餘額與模型 | 將 WorkBuddy 帳戶作為模型提供商匯入 DeepSeek Harness：每個帳戶一個路由、完整模型清單、個別帳戶積分餘額，以及自動工作區… |
 | [nestjs/agent-skills](https://github.com/nestjs/agent-skills) | 為Nest框架快速接入代理技能 | 適用於 Nest 框架 (node.js) 的代理技能 🕵️♂️ |
 | [AI4XE/ai4ai](https://github.com/AI4XE/ai4ai) | 讓AI自己管理運行狀態、上下文與複製 | 讓 AI 自我管理 —— 一個用於執行時狀態、上下文更新、自我複製等的跨 harness 工具包 |
-| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | 打不通仿真與真機？運行代理式工作流程 | 用於跨模擬與真實機器人的代理式機器人工作流程的 GDM Robotics 技能。 |
-| [replit/amuse](https://github.com/replit/amuse) | 在自己的電腦上運行自行架設個人AI代理 | 自行架設個人 AI 代理：研究、即時瀏覽器、提醒與小型應用程式，執行動作前需經批准。使用 OpenAI 金鑰在您自己的電腦上執行。 |
+| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) |  | Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions,… |
 | [beyondtahir/beyondgtaclips](https://github.com/beyondtahir/beyondgtaclips) | 把GTA 6直播長影片自動剪成熱門短影音 | 自動將冗長的 GTA 6 直播片段轉換為病毒式傳播的 9:16 短片。免費、本機，可在 Claude 和 ChatGPT 中使用。 |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 建置軟體 | 在 Kubernetes / OpenShift 上搭配 Tekton 和 vLLM 運行的 AI Software Factory |
-| [setyamickala/airdrop-agent](https://github.com/setyamickala/airdrop-agent) | 刷空投太繁瑣？自動處理錢包與任務 | 自主空投操作員：身分、錢包、社交、測試網、任務、雷達 —— 受保護的 CLI + MCP |
-| [ccarter01011/traxagent-claude-plugin](https://github.com/ccarter01011/traxagent-claude-plugin) | 查出誰花光了AI預算並獲知修復方案 | 詢問 Claude、ChatGPT、Claude Code、Cursor 或 VS Code 誰花費了您的 AI 預算以及該修復什麼。TraxAgent 的唯讀 MCP 伺服器和 Claude Code 外掛。 |
-| [hackclub/orchard](https://github.com/hackclub/orchard) | 部署太煩？一行指令從Git發到伺服器 | 開源、自行架設的部署平台。只需一條指令即可從 Git 部署到您自己的伺服器。 |
+| [replit/amuse](https://github.com/replit/amuse) | 在自己的電腦上運行自行架設個人AI代理 | 自行架設個人 AI 代理：研究、即時瀏覽器、提醒與小型應用程式，執行動作前需經批准。使用 OpenAI 金鑰在您自己的電腦上執行。 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7發布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
+| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面財務管理發布版 | Quicken Deluxe：具有預算和報告功能的綜合桌面財務管理 |
 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back 介面自訂桌面工具 | Startall Back Utility：具有介面自訂功能的桌面管理器 |
 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 裝置命令列設定工具 | SP Flash Tool：適用於受支援 MediaTek 裝置的命令列設定和配置實用工具 |
-| [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面財務管理發布版 | Quicken Deluxe：具有預算和報告功能的綜合桌面財務管理 |
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光碟映像製作與轉換工具 | Ultra ISO: 桌面光碟映像製作、掛載與轉換工具組 |
-| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Android 低延遲投螢與輸入控制 | Scrcpy Screen Mirroring: 低延遲 Android 顯示複製與輸入控制 |
 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | Rust 外部修改工具，標為遊戲增強 | Rust External Trainer Tool：自信的遊戲增強 |
+| [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Android 低延遲投螢與輸入控制 | Scrcpy Screen Mirroring: 低延遲 Android 顯示複製與輸入控制 |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | 桌面投資組合配置與分配管理工具 | Portfolio Rebalancer：桌面投資組合的配置與分配管理 |
 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | NinjaTrader 社群機器人 | 面向 Discord 和 Telegram 的社群驅動型 NinjaTrader Bot，具有 Rich |
-| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation 桌面工程工具 | MicroStation Utility: 用於基礎設施設計的綜合桌面工程工具組 |
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面機器人 | 面向 Discord 和 Telegram 的社群驅動型 MetaTrader 5 bot，包含對 deskto 友好 |
+| [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) |  | Microsoft Visio: Diagramming and Vector Graphics Desktop Application |
+| [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) |  | IBM SPSS Statistics: Feature Set for Advanced Data Analysis |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面資料傳輸與裝置管理套件 | FoneTrans Desktop Utility: 完整的資料傳輸與裝置管理套件 |
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面簡報與儀式規劃軟體 | Easy Worship Desktop: 精簡的簡報與禮拜規劃軟體 |
-| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | 桌面網路最佳化與路由管理主控台 | ExitLag Utility: 桌面網路最佳化與路由管理主控台 |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 針對模組開發者的重製桌面體驗 | Better Discord Client: 面向 Mod 製作者的重製桌面體驗 |
+| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | 桌面網路最佳化與路由管理主控台 | ExitLag Utility: 桌面網路最佳化與路由管理主控台 |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | 系統管理與工作流程的統一桌面工具鏈 | Chimera Utility: 用於系統管理與工作流程的統一桌面工具鏈 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多螢幕桌面管理工具 | Display Fusion: 具備視窗貼齊與設定檔自動化的多螢幕桌面管理 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面著色器控制增強套件 | 適用於 Roblox 的 BloxShade：帶有著色器控制項的桌面增強套件 |
-| [Speedydx/delta-force-trainer](https://github.com/Speedydx/delta-force-trainer) | 戰術桌面效能工具套件 | Delta Force Trainer: 戰術桌面效能工具套件 |
-| [WezTerp/daemon-pro](https://github.com/WezTerp/daemon-pro) | Daemon Pro 桌面安裝與配置平台 | Daemon Pro：完整的桌面設定與配置平台 |
+| [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) |  | Ashampoo WinOptimizer Pro: Advanced Windows Tuning and System Optimization Suite |
+| [HavocSaif/avast-premium-security-kacerin](https://github.com/HavocSaif/avast-premium-security-kacerin) |  | Directory listing for the Avast Premium Security Kacerin project. |
 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架構難寫，讓代理集群直出原型 | 面向複雜軟件工程與產品設計的旗艦級跨廠商多 Agent 集群：架構層直出 PRD、技術架構與交互原型（完美適配產品經理任務），實現層跨廠互審與沙箱實證交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
-| [chuxuan861119/zhichan-xiaozhan-work](https://github.com/chuxuan861119/zhichan-xiaozhan-work) | 用專業編輯器撰寫並檢查中國專利文件 | 面向中國專利撰寫的專業編輯器，支援發明、實用新型五書編輯和外觀設計專利材料整理，提供專利庫管理、二維 CAD、文件檢查、AI 輔助及 Word/PDF 匯出。GPL-3.0 開源。 |
-| [replit/datacat](https://github.com/replit/datacat) | 想自己做監控？自行架設儀表板與告警 | 自行架設可觀測性：指標、日誌、追蹤、儀表板和警報。將資料儲存在 PostgreSQL 或 ClickHouse 中。接收 OpenTelemetry 資料。 |
+| [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) |  | Velvet Hold'em — Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling &amp; AI hand review / 开源 3D 德州扑克私人牌室（… |
+| [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) |  | Hand-drawn crayon sticker SVGs for React and the web. |
+| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 建置軟體 | 在 Kubernetes / OpenShift 上搭配 Tekton 和 vLLM 運行的 AI Software Factory |
+| [Tenert007/after-effects-tadelin-motion-design](https://github.com/Tenert007/after-effects-tadelin-motion-design) |  | After Effects Tadelin Motion Design delivers structured motion-design tooling for After Effects. |
+| [joe111487/cinema-4d-bataven-motion-studio](https://github.com/joe111487/cinema-4d-bataven-motion-studio) |  | C4D-driven motion toolkit — Bataven workflow, built for precision. |
+| [JohnnyAPGO/illustrator-bamar-vector-design](https://github.com/JohnnyAPGO/illustrator-bamar-vector-design) |  | Design and refine Bamar vector artwork through structured Illustrator workflows. |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI影片剪輯工作流程 | 分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程 |
