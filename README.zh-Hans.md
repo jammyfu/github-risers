@@ -70,10 +70,10 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 2 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>开源免费的置顶桌面打字小猫伴侣 | 2026-11-21<br><sub>4.1 天</sub> | 938 | 230.1 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>对话太耗Token？帮你减少额度消耗 | 2026-11-19<br><sub>6.5 天</sub> | 1,482 | 227.0 |
 | 4 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>赶在别人发现前，快速找出系统漏洞 | 2026-11-22<br><sub>3.0 天</sub> | 687 | 226.1 |
-| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… | 2026-11-23<br><sub>2.7 天</sub> | 514 | 191.1 |
+| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>在桌面养一只随时互动的小萌猫 | 2026-11-23<br><sub>2.7 天</sub> | 514 | 191.1 |
 | 6 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四张像素画直接变能旋转的伪3D | 2026-11-20<br><sub>5.1 天</sub> | 884 | 172.3 |
 | 7 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>闲置算力浪费了？用来训练你的本地模型 | 2026-11-20<br><sub>5.3 天</sub> | 832 | 157.7 |
-| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado P… | 2026-11-24<br><sub>1.0 天</sub> | 154 | 154.0 |
+| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>从 Google Maps 到 Pix 的开源客户开拓：在 Maps 上寻找商家，为每家生成带名称的预览网站，在 WhatsApp 上沟通并通过 Pix、Mercado P… 收款 | 2026-11-24<br><sub>1.0 天</sub> | 154 | 154.0 |
 | 9 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>在Linux上为智能体运行iOS模拟环境 | 2026-11-21<br><sub>3.9 天</sub> | 590 | 151.9 |
 | 10 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面运行开源的本地AI智能体团队 | 2026-11-21<br><sub>4.5 天</sub> | 587 | 132.0 |
 
@@ -596,7 +596,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>StikSound — Ponle sonido de hasta 5 segundos a tus stickers PNG y GIFs animados para WhatsApp (Windows, macOS &amp; Chrome Extension, 100% local sin instalar n… | 2026-11-24<br><sub>1.0 天</sub> | 160 | 160.0 |
+| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>给表情贴纸加上最多5秒的专属声音 | 2026-11-24<br><sub>1.0 天</sub> | 160 | 160.0 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.8 天</sub> | 128 | 69.8 |
 | 3 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>需求架构难写，让智能体集群直出原型 | 2026-11-19<br><sub>6.7 天</sub> | 210 | 31.5 |
 | 4 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>想开私人德扑室？自托管3D牌局带AI复盘 | 2026-11-20<br><sub>5.1 天</sub> | 149 | 29.0 |
@@ -905,7 +905,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Figma Figjam for Windows 10/11. Builds collaborative whiteboards with sticky notes, shapes, connectors and live cursors, letting teams sketch flows, run brains… | 2026-11-24<br><sub>1.3 天</sub> | 122 | 96.8 |
+| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>适用于 Windows 10/11 的 Figma Figjam。构建包含便签、形状、连接线和实时光标的协作白板，让团队绘制流程图、进行头脑风… | 2026-11-24<br><sub>1.3 天</sub> | 122 | 96.8 |
 | 2 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI视频剪辑工作流 | 2026-11-21<br><sub>4.0 天</sub> | 338 | 84.2 |
 
 <details>
@@ -1061,7 +1061,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Microsoft Teams Rooms for Windows 10/11. Joins scheduled meetings, shares content and runs room audio and video on conference hardware, letting IT admins manag… | 2026-11-24<br><sub>1.2 天</sub> | 121 | 99.4 |
+| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管… | 2026-11-24<br><sub>1.2 天</sub> | 121 | 99.4 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

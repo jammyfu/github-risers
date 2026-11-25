@@ -70,10 +70,10 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 | 2 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>A free open-source desktop cat that types along with you | 2026-11-21<br><sub>4.1 d</sub> | 938 | 230.1 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>Tokens running out? Cut LLM turns and token quota | 2026-11-19<br><sub>6.5 d</sub> | 1,482 | 227.0 |
 | 4 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find vulnerabilities before anyone else does | 2026-11-22<br><sub>3.0 d</sub> | 687 | 226.1 |
-| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… | 2026-11-23<br><sub>2.7 d</sub> | 514 | 191.1 |
+| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>Keep a live native desktop pet on your screen | 2026-11-23<br><sub>2.7 d</sub> | 514 | 191.1 |
 | 6 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Turn four pixel views into 3D sprites you can spin | 2026-11-20<br><sub>5.1 d</sub> | 884 | 172.3 |
 | 7 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>Wasting idle compute? Use it to train your local model | 2026-11-20<br><sub>5.3 d</sub> | 832 | 157.7 |
-| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado P… | 2026-11-24<br><sub>1.0 d</sub> | 154 | 154.0 |
+| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>Find Maps leads and turn them into paying clients | 2026-11-24<br><sub>1.0 d</sub> | 154 | 154.0 |
 | 9 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Run iOS simulators on Linux for your AI agents | 2026-11-21<br><sub>3.9 d</sub> | 590 | 151.9 |
 | 10 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>Run an open-source, local AI agent team on your desktop | 2026-11-21<br><sub>4.5 d</sub> | 587 | 132.0 |
 
@@ -596,7 +596,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>StikSound — Ponle sonido de hasta 5 segundos a tus stickers PNG y GIFs animados para WhatsApp (Windows, macOS &amp; Chrome Extension, 100% local sin instalar n… | 2026-11-24<br><sub>1.0 d</sub> | 160 | 160.0 |
+| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>Add up to 5 seconds of sound to your stickers | 2026-11-24<br><sub>1.0 d</sub> | 160 | 160.0 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.8 d</sub> | 128 | 69.8 |
 | 3 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>Tired of writing PRDs? Let AI agents draft prototypes | 2026-11-19<br><sub>6.7 d</sub> | 210 | 31.5 |
 | 4 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>Hard to review poker hands? Host a 3D club with AI review | 2026-11-20<br><sub>5.1 d</sub> | 149 | 29.0 |
@@ -905,7 +905,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Figma Figjam for Windows 10/11. Builds collaborative whiteboards with sticky notes, shapes, connectors and live cursors, letting teams sketch flows, run brains… | 2026-11-24<br><sub>1.3 d</sub> | 122 | 96.8 |
+| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Figma Figjam installer for Windows 10/11 | 2026-11-24<br><sub>1.3 d</sub> | 122 | 96.8 |
 | 2 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>AI editing workflow for YouTube | 2026-11-21<br><sub>4.0 d</sub> | 338 | 84.2 |
 
 <details>
@@ -1061,7 +1061,7 @@ No new repo met the criteria in this run.
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Microsoft Teams Rooms for Windows 10/11. Joins scheduled meetings, shares content and runs room audio and video on conference hardware, letting IT admins manag… | 2026-11-24<br><sub>1.2 d</sub> | 121 | 99.4 |
+| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Microsoft Teams Rooms installer for Windows 10/11 | 2026-11-24<br><sub>1.2 d</sub> | 121 | 99.4 |
 
 <details>
 <summary>Star history charts for this board</summary>

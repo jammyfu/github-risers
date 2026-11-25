@@ -70,10 +70,10 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 2 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>タイピングに合わせて動く猫のデスクトップ相棒 | 2026-11-21<br><sub>4.1 日</sub> | 938 | 230.1 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>トークンが足りない？LLMの往復と消費枠を削減 | 2026-11-19<br><sub>6.5 日</sub> | 1,482 | 227.0 |
 | 4 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>誰かに突かれる前に、脆弱性をすばやく見つける | 2026-11-22<br><sub>3.0 日</sub> | 687 | 226.1 |
-| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… | 2026-11-23<br><sub>2.7 日</sub> | 514 | 191.1 |
+| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>画面上に常駐するデスクトップペット猫 | 2026-11-23<br><sub>2.7 日</sub> | 514 | 191.1 |
 | 6 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>4枚のドット絵を回せる疑似3Dにする | 2026-11-20<br><sub>5.1 日</sub> | 884 | 172.3 |
 | 7 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>空き計算資源がもったいない？ローカルモデルを訓練する | 2026-11-20<br><sub>5.3 日</sub> | 832 | 157.7 |
-| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado P… | 2026-11-24<br><sub>1.0 日</sub> | 154 | 154.0 |
+| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>マップから見込み客を探し自動提案して集金 | 2026-11-24<br><sub>1.0 日</sub> | 154 | 154.0 |
 | 9 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Linux 上で AI エージェント用 iOS シミュレータを動かす | 2026-11-21<br><sub>3.9 日</sub> | 590 | 151.9 |
 | 10 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>デスクトップで動くオープンソースのローカルAIエージェント | 2026-11-21<br><sub>4.5 日</sub> | 587 | 132.0 |
 
@@ -596,7 +596,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>StikSound — Ponle sonido de hasta 5 segundos a tus stickers PNG y GIFs animados para WhatsApp (Windows, macOS &amp; Chrome Extension, 100% local sin instalar n… | 2026-11-24<br><sub>1.0 日</sub> | 160 | 160.0 |
+| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>ステッカーに最大5秒の音声をローカル追加 | 2026-11-24<br><sub>1.0 日</sub> | 160 | 160.0 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.8 日</sub> | 128 | 69.8 |
 | 3 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>PRD作成が大変？エージェントが構成と試作を出力 | 2026-11-19<br><sub>6.7 日</sub> | 210 | 31.5 |
 | 4 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>手札の振り返りに、セルフホスト型3DでAIレビュー | 2026-11-20<br><sub>5.1 日</sub> | 149 | 29.0 |
@@ -905,7 +905,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Figma Figjam for Windows 10/11. Builds collaborative whiteboards with sticky notes, shapes, connectors and live cursors, letting teams sketch flows, run brains… | 2026-11-24<br><sub>1.3 日</sub> | 122 | 96.8 |
+| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Windows 10/11向け Figma Figjam インストーラー | 2026-11-24<br><sub>1.3 日</sub> | 122 | 96.8 |
 | 2 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube向けAI動画編集ワークフロー | 2026-11-21<br><sub>4.0 日</sub> | 338 | 84.2 |
 
 <details>
@@ -1061,7 +1061,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Microsoft Teams Rooms for Windows 10/11. Joins scheduled meetings, shares content and runs room audio and video on conference hardware, letting IT admins manag… | 2026-11-24<br><sub>1.2 日</sub> | 121 | 99.4 |
+| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Windows 10/11向け Microsoft Teams Rooms インストーラー | 2026-11-24<br><sub>1.2 日</sub> | 121 | 99.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>

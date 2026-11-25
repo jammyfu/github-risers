@@ -2233,6 +2233,21 @@
         }
       }
     },
+    "Liangsystems/microsoft-teams-rooms": {
+      "fd36675a861e": {
+        "src": "Microsoft Teams Rooms for Windows 10/11. Joins scheduled meetings, shares content and runs room audio and video on conference hardware, letting IT admins manag…",
+        "zh-Hans": "适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管…",
+        "seen": "2026-11-26",
+        "zh-Hant": "適用於 Windows 10/11 的 Microsoft Teams Rooms。加入排定的會議、共用內容並在會議硬體上執行會議室音訊與視訊，讓 IT 管理員管…",
+        "ja": "Windows 10/11 向け Microsoft Teams Rooms。スケジュールされた会議への参加、コンテンツの共有、会議ハードウェアでの会議室オーディオとビデオの実行を行い、IT 管理者が管…",
+        "ko": "Windows 10/11용 Microsoft Teams Rooms. 예약된 모임에 참여하고 콘텐츠를 공유하며 회의 하드웨어에서 회의실 오디오 및 비디오를 실행하여 IT 관리자가 관…",
+        "hook": {
+          "en": "Microsoft Teams Rooms installer for Windows 10/11",
+          "ja": "Windows 10/11向け Microsoft Teams Rooms インストーラー",
+          "ko": "Windows 10/11용 Microsoft Teams Rooms 설치 프로그램"
+        }
+      }
+    },
     "Lightningeuchant/ai--manus": {
       "9f0c6d8c2759": {
         "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
@@ -3338,6 +3353,23 @@
         }
       }
     },
+    "SilverFeit/StikSound": {
+      "79cbd968dcf3": {
+        "src": "StikSound — Ponle sonido de hasta 5 segundos a tus stickers PNG y GIFs animados para WhatsApp (Windows, macOS &amp; Chrome Extension, 100% local sin instalar n…",
+        "zh-Hans": "StikSound — 为你的 WhatsApp PNG 贴纸和 GIF 动图添加长达 5 秒的声音（Windows、macOS &amp; Chrome 扩展，100% 本地，无需安装任…",
+        "seen": "2026-11-26",
+        "zh-Hant": "StikSound — 為你的 WhatsApp PNG 貼圖和 GIF 動圖添加長達 5 秒的聲音（Windows、macOS &amp; Chrome 擴充功能，100% 本機，無需安裝任…",
+        "ja": "StikSound — WhatsApp 用 PNG ステッカーやアニメーション GIF に最大 5 秒の音声を追加（Windows、macOS &amp; Chrome 拡張機能、何もインストールせず 100% ローカル…",
+        "ko": "StikSound — WhatsApp용 PNG 스티커 및 애니메이션 GIF에 최대 5초 길이의 사운드를 추가하세요 (Windows, macOS &amp; Chrome 확장 프로그램, 설치 없이 100% 로컬…)",
+        "hook": {
+          "en": "Add up to 5 seconds of sound to your stickers",
+          "zh-Hans": "给表情贴纸加上最多5秒的专属声音",
+          "zh-Hant": "給貼圖加上最多5秒的專屬聲音",
+          "ja": "ステッカーに最大5秒の音声をローカル追加",
+          "ko": "스티커에 최대 5초 길이의 소리를 추가"
+        }
+      }
+    },
     "SirBonney/scrcpy-mirror-control": {
       "12469977d434": {
         "src": "Android Screen Mirroring and Control Workflow, Simplified",
@@ -4267,6 +4299,23 @@
         }
       }
     },
+    "abj-a11y/landr-plugin-bundle": {
+      "1facab40a7ef": {
+        "src": "Landr Plugin Bundle: Complete Config, Opinionated and",
+        "zh-Hans": "Landr Plugin Bundle：完整配置、独到见解与",
+        "seen": "2026-11-26",
+        "zh-Hant": "Landr Plugin Bundle：完整設定、獨到見解與",
+        "ja": "Landr Plugin Bundle：完全な設定、意見が反映された、そして",
+        "ko": "Landr Plugin Bundle: 완벽한 설정, 독자적 견해 및",
+        "hook": {
+          "en": "Landr Plugin Bundle configuration files",
+          "zh-Hans": "Landr 插件配置包",
+          "zh-Hant": "Landr 外掛設定套件",
+          "ja": "Landr プラグインバンドル設定一式",
+          "ko": "Landr 플러그인 번들 설정 파일"
+        }
+      }
+    },
     "agentes-chat/agentes-chat": {
       "e4b503c06287": {
         "src": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok…",
@@ -4790,6 +4839,22 @@
         }
       }
     },
+    "blotato/contentskills": {
+      "38ae5155eccc": {
+        "src": "Content Skills for AI Agents: create videos, edit videos, full video editor, write scripts, 100+ themes &amp; effects, post to social media, and create DM auto…",
+        "zh-Hans": "适用于 AI 智能体的 Content Skills：创建视频、编辑视频、完整视频编辑器、编写脚本、100+ 主题 &amp; 特效、发布到社交媒体，以及创建私信自动…",
+        "seen": "2026-11-26",
+        "zh-Hant": "適用於 AI 代理的 Content Skills：建立影片、編輯影片、完整影片編輯器、撰寫腳本、100+ 主題 &amp; 特效、發布到社群媒體，以及建立私訊自動…",
+        "ja": "AI エージェント向け Content Skills：動画の作成、動画の編集、完全な動画エディタ、スクリプトの作成、100+ のテーマ &amp; エフェクト、ソーシャルメディアへの投稿、DM 自動…の作成",
+        "ko": "AI 에이전트를 위한 Content Skills: 비디오 제작, 비디오 편집, 풀 비디오 에디터, 스크립트 작성, 100+ 테마 &amp; 효과, 소셜 미디어 게시, DM 자동… 생성",
+        "hook": {
+          "en": "Give AI agents video editing and posting skills",
+          "zh-Hant": "讓代理學會全套影片剪輯與社群發布技能",
+          "ja": "AIエージェントに動画制作と投稿スキルを追加",
+          "ko": "AI 에이전트에 영상 편집과 SNS 게시 스킬 추가"
+        }
+      }
+    },
     "boardshogunfluctuate/Capri-AI": {
       "e99cedbef74b": {
         "src": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows insta…",
@@ -5043,6 +5108,24 @@
           "zh-Hant": "讓 AI 代理在沙箱中執行各種工具",
           "ja": "サンドボックスでAIエージェントにツールを実行させる",
           "ko": "샌드박스에서 AI 에이전트로 각종 툴을 실행하세요"
+        }
+      }
+    },
+    "chanke17/KuroCat": {
+      "3404e6bf6ac9": {
+        "src": "KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /…",
+        "zh-Hans": "KuroCat — 免费开源原生桌面猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Swift/C++，802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /…",
+        "seen": "2026-11-26",
+        "zh-Hant": "KuroCat — 免費開源原生桌面貓咪寵物 &amp; OBS 疊加層（Bongo Cat 替代品，Swift/C++，802 KB）｜開源免費原生桌面萌貓（全平台 macOS·Win·Linux·UOS / 2.5D轉頭捕獵 /…",
+        "ja": "KuroCat — 無料オープンソースネイティブデスクトップ猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Swift/C++、802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /…",
+        "ko": "KuroCat — 무료 오픈 소스 네이티브 데스크톱 고양이 펫 &amp; OBS 오버레이 (Bongo Cat 대안, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /…",
+        "en": "KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /…",
+        "hook": {
+          "en": "Keep a live native desktop pet on your screen",
+          "zh-Hans": "在桌面养一只随时互动的小萌猫",
+          "zh-Hant": "在桌面養一隻隨時互動的小萌貓",
+          "ja": "画面上に常駐するデスクトップペット猫",
+          "ko": "화면에 띄워두고 함께하는 데스크톱 고양이"
         }
       }
     },
@@ -5521,6 +5604,23 @@
           "ja": "エージェントが作った画面、デザイン崩れを点検する",
           "ko": "에이전트가 만든 화면의 디자인 규칙 위반을 점검한다",
           "zh-Hans": "AI 智能体写的界面，帮你检查设计规范"
+        }
+      }
+    },
+    "erkamyaman/rea-games": {
+      "7d031fdaf3dc": {
+        "src": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md…",
+        "zh-Hans": "逆向工程任何游戏，在任何引擎中重建它（web、Rust、Godot），并逐帧证明重建版本具有相同的玩法。在公开的 GAME.md… 中提供行为规范",
+        "seen": "2026-11-26",
+        "zh-Hant": "逆向工程任何遊戲，在任何引擎中重建它（web、Rust、Godot），並逐幀證明重建版本具有相同的玩法。在公開的 GAME.md… 中提供行為規範",
+        "ja": "あらゆるゲームをリバースエンジニアリングし、任意のエンジン（web、Rust、Godot）で再構築して、再構築版がフレームごとに同じ挙動であることを証明。オープンな GAME.md… の動作仕様",
+        "ko": "모든 게임을 리버스 엔지니어링하고, 모든 엔진(web, Rust, Godot)으로 재구축하며, 프레임 단위로 동일하게 작동함을 입증합니다. 오픈 GAME.md…의 동작 사양",
+        "hook": {
+          "en": "Rebuild any game in another engine with identical play",
+          "zh-Hans": "把任何游戏逆向移植并保证每帧手感一致",
+          "zh-Hant": "把任何遊戲逆向移植並保證每幀手感一致",
+          "ja": "あらゆるゲームを別エンジンに完全再現移植",
+          "ko": "어떤 게임이든 다른 엔진으로 똑같이 재구현"
         }
       }
     },
@@ -6535,6 +6635,21 @@
         "ko": "Better Discord Client: 모더를 위한 리마스터된 데스크톱 경험"
       }
     },
+    "kennethkumar05/figma-figjam": {
+      "837619fb75f1": {
+        "src": "Figma Figjam for Windows 10/11. Builds collaborative whiteboards with sticky notes, shapes, connectors and live cursors, letting teams sketch flows, run brains…",
+        "zh-Hans": "适用于 Windows 10/11 的 Figma Figjam。构建包含便签、形状、连接线和实时光标的协作白板，让团队绘制流程图、进行头脑风…",
+        "seen": "2026-11-26",
+        "zh-Hant": "適用於 Windows 10/11 的 Figma Figjam。建立包含便簽、形狀、連接線和即時游標的協作白板，讓團隊繪製流程圖、進行腦力激…",
+        "ja": "Windows 10/11 向け Figma Figjam。付箋、図形、コネクタ、ライブカーソルを備えたコラボレーション用ホワイトボードを構築し、チームがフローをスケッチしたり、ブレインストーミング…",
+        "ko": "Windows 10/11용 Figma Figjam. 스티커 메모, 도형, 커넥터, 실시간 커서가 있는 협업 화이트보드를 구축하여 팀이 흐름도를 그리고, 브레인스토밍…",
+        "hook": {
+          "en": "Figma Figjam installer for Windows 10/11",
+          "ja": "Windows 10/11向け Figma Figjam インストーラー",
+          "ko": "Windows 10/11용 Figma Figjam 설치 프로그램"
+        }
+      }
+    },
     "kevinraymond/florilegium": {
       "56540e653ad7": {
         "src": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
@@ -6948,6 +7063,21 @@
           "zh-Hant": "Codex CLI儲存庫管理與檢查本機工作區",
           "ja": "Codex CLIリポジトリ管理と検査のローカル作業場",
           "ko": "Codex CLI 저장소 관리 및 점검용 로컬 작업대"
+        }
+      }
+    },
+    "matheusmongarde/garimpo": {
+      "3948e88e26d7": {
+        "src": "Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado P…",
+        "zh-Hans": "从 Google Maps 到 Pix 的开源客户开拓：在 Maps 上寻找商家，为每家生成带名称的预览网站，在 WhatsApp 上沟通并通过 Pix、Mercado P… 收款",
+        "seen": "2026-11-26",
+        "zh-Hant": "從 Google Maps 到 Pix 的開源客戶開拓：在 Maps 上尋找商家，為每家生成帶名稱的預覽網站，在 WhatsApp 上溝通並透過 Pix、Mercado P… 收款",
+        "ja": "Google Maps から Pix までのオープンソース見込み顧客開拓：Maps でビジネスを見つけ、それぞれの名前でプレビューサイトを生成し、WhatsApp でチャットして Pix、Mercado P… で請求",
+        "ko": "Google Maps부터 Pix까지의 오픈 소스 잠재 고객 발굴: Maps에서 업체를 찾아 각각의 이름으로 미리보기 사이트를 생성하고, WhatsApp에서 대화하여 Pix, Mercado P…로 결제 수취",
+        "hook": {
+          "en": "Find Maps leads and turn them into paying clients",
+          "ja": "マップから見込み客を探し自動提案して集金",
+          "ko": "지도에서 업체를 찾아 사이트를 만들고 입금 유치"
         }
       }
     },

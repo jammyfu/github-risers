@@ -70,10 +70,10 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 2 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>타이핑에 맞춰 움직이는 무료 오픈 소스 데스크톱 고양이 | 2026-11-21<br><sub>4.1일</sub> | 938 | 230.1 |
 | 3 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)<br>토큰이 부족한가요? LLM 턴과 할당량을 절약 | 2026-11-19<br><sub>6.5일</sub> | 1,482 | 227.0 |
 | 4 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>3.0일</sub> | 687 | 226.1 |
-| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… | 2026-11-23<br><sub>2.7일</sub> | 514 | 191.1 |
+| 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>화면에 띄워두고 함께하는 데스크톱 고양이 | 2026-11-23<br><sub>2.7일</sub> | 514 | 191.1 |
 | 6 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>도트 그림 네 장을 회전하는 의사 3D로 변환 | 2026-11-20<br><sub>5.1일</sub> | 884 | 172.3 |
 | 7 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기 | 2026-11-20<br><sub>5.3일</sub> | 832 | 157.7 |
-| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado P… | 2026-11-24<br><sub>1.0일</sub> | 154 | 154.0 |
+| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>지도에서 업체를 찾아 사이트를 만들고 입금 유치 | 2026-11-24<br><sub>1.0일</sub> | 154 | 154.0 |
 | 9 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>Linux 환경에서 AI 에이전트용 iOS 시뮬레이터를 구동 | 2026-11-21<br><sub>3.9일</sub> | 590 | 151.9 |
 | 10 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀 | 2026-11-21<br><sub>4.5일</sub> | 587 | 132.0 |
 
@@ -596,7 +596,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>StikSound — Ponle sonido de hasta 5 segundos a tus stickers PNG y GIFs animados para WhatsApp (Windows, macOS &amp; Chrome Extension, 100% local sin instalar n… | 2026-11-24<br><sub>1.0일</sub> | 160 | 160.0 |
+| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>스티커에 최대 5초 길이의 소리를 추가 | 2026-11-24<br><sub>1.0일</sub> | 160 | 160.0 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>1.8일</sub> | 128 | 69.8 |
 | 3 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster)<br>PRD 작성이 막막할 때 에이전트가 프로토타입 출력 | 2026-11-19<br><sub>6.7일</sub> | 210 | 31.5 |
 | 4 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem)<br>포커 복기가 어렵다면 셀프 호스팅 3D로 AI 리뷰 | 2026-11-20<br><sub>5.1일</sub> | 149 | 29.0 |
@@ -905,7 +905,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Figma Figjam for Windows 10/11. Builds collaborative whiteboards with sticky notes, shapes, connectors and live cursors, letting teams sketch flows, run brains… | 2026-11-24<br><sub>1.3일</sub> | 122 | 96.8 |
+| 1 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam)<br>Windows 10/11용 Figma Figjam 설치 프로그램 | 2026-11-24<br><sub>1.3일</sub> | 122 | 96.8 |
 | 2 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube용 AI 동영상 편집 워크플로 | 2026-11-21<br><sub>4.0일</sub> | 338 | 84.2 |
 
 <details>
@@ -1061,7 +1061,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Microsoft Teams Rooms for Windows 10/11. Joins scheduled meetings, shares content and runs room audio and video on conference hardware, letting IT admins manag… | 2026-11-24<br><sub>1.2일</sub> | 121 | 99.4 |
+| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Windows 10/11용 Microsoft Teams Rooms 설치 프로그램 | 2026-11-24<br><sub>1.2일</sub> | 121 | 99.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
