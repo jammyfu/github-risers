@@ -135,7 +135,7 @@
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
 | [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | 抢救崩溃会话，省下上下文额度的插件 | 提升缓存命中率、自动保持缓存预热、保护上下文配额、显示实时上下文用量、挽救崩溃会话的 Google Antigravity 插件，… |
 | [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | 账号多难打理，接入轻松查余额与模型 | 将 WorkBuddy 账户作为模型提供商导入 DeepSeek Harness：每个账户一个路由、完整模型列表、单账户积分余额，以及自动工作区… |
-| [blotato/contentskills](https://github.com/blotato/contentskills) |  | 适用于 AI 智能体的 Content Skills：创建视频、编辑视频、完整视频编辑器、编写脚本、100+ 主题 &amp; 特效、发布到社交媒体，以及创建私信自动… |
+| [blotato/contentskills](https://github.com/blotato/contentskills) | 让AI智能体包办做视频写脚本 | 适用于 AI 智能体的 Content Skills：创建视频、编辑视频、完整视频编辑器、编写脚本、100+ 主题 &amp; 特效、发布到社交媒体，以及创建私信自动… |
 | [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 构建软件 | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe：具有预算和报告功能的综合桌面财务管理 |
@@ -161,6 +161,6 @@
 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架构难写，让智能体集群直出原型 | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) | 想开私人德扑室？自托管3D牌局带AI复盘 | Velvet Hold'em — 自托管 3D 多人 Texas Hold'em 俱乐部，配备纯 CPU GTO/CFR 求解器、贝叶斯对手画像与 AI 手牌复盘 / 开源 3D 德州扑克私人牌室（… |
 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) | 页面太单调？给网页贴上手绘蜡笔贴纸 | 适用于 React 和 Web 的手绘蜡笔贴纸 SVG。 |
-| [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) |  | 适用于 Windows 10/11 的 Figma Figjam。构建包含便签、形状、连接线和实时光标的协作白板，让团队绘制流程图、进行头脑风… |
+| [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) | 适用于Windows的Figma Figjam白板工具 | 适用于 Windows 10/11 的 Figma Figjam。构建包含便签、形状、连接线和实时光标的协作白板，让团队绘制流程图、进行头脑风… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms) |  | 适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管… |

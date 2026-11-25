@@ -4851,7 +4851,8 @@
           "en": "Give AI agents video editing and posting skills",
           "zh-Hant": "讓代理學會全套影片剪輯與社群發布技能",
           "ja": "AIエージェントに動画制作と投稿スキルを追加",
-          "ko": "AI 에이전트에 영상 편집과 SNS 게시 스킬 추가"
+          "ko": "AI 에이전트에 영상 편집과 SNS 게시 스킬 추가",
+          "zh-Hans": "让AI智能体包办做视频写脚本"
         }
       }
     },
@@ -6646,7 +6647,9 @@
         "hook": {
           "en": "Figma Figjam installer for Windows 10/11",
           "ja": "Windows 10/11向け Figma Figjam インストーラー",
-          "ko": "Windows 10/11용 Figma Figjam 설치 프로그램"
+          "ko": "Windows 10/11용 Figma Figjam 설치 프로그램",
+          "zh-Hans": "适用于Windows的Figma Figjam白板工具",
+          "zh-Hant": "適用於Windows的Figma Figjam白板工具"
         }
       }
     },

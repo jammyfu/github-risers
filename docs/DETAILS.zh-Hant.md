@@ -161,6 +161,6 @@
 | [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架構難寫，讓代理集群直出原型 | 面向複雜軟件工程與產品設計的旗艦級跨廠商多 Agent 集群：架構層直出 PRD、技術架構與交互原型（完美適配產品經理任務），實現層跨廠互審與沙箱實證交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
 | [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) | 自行架設 3D 德州撲克室，支援 AI 複盤 | Velvet Hold'em — 自行架設 3D 多人 Texas Hold'em 俱樂部，配備純 CPU GTO/CFR 求解器、貝氏對手畫像與 AI 手牌復盤 / 開源 3D 德州撲克私人牌室（… |
 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) | 頁面太單調？為網頁貼上手繪蠟筆貼紙 | 適用於 React 和 Web 的手繪蠟筆貼紙 SVG。 |
-| [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) |  | 適用於 Windows 10/11 的 Figma Figjam。建立包含便簽、形狀、連接線和即時游標的協作白板，讓團隊繪製流程圖、進行腦力激… |
+| [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) | 適用於Windows的Figma Figjam白板工具 | 適用於 Windows 10/11 的 Figma Figjam。建立包含便簽、形狀、連接線和即時游標的協作白板，讓團隊繪製流程圖、進行腦力激… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI影片剪輯工作流程 | 分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程 |
 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms) |  | 適用於 Windows 10/11 的 Microsoft Teams Rooms。加入排定的會議、共用內容並在會議硬體上執行會議室音訊與視訊，讓 IT 管理員管… |
