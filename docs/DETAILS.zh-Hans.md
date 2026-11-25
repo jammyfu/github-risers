@@ -163,4 +163,4 @@
 | [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) | 页面太单调？给网页贴上手绘蜡笔贴纸 | 适用于 React 和 Web 的手绘蜡笔贴纸 SVG。 |
 | [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) | 适用于Windows的Figma Figjam白板工具 | 适用于 Windows 10/11 的 Figma Figjam。构建包含便签、形状、连接线和实时光标的协作白板，让团队绘制流程图、进行头脑风… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
-| [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms) |  | 适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管… |
+| [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms) | Win10/11 会议室系统部署工具 | 适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管… |

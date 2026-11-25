@@ -2244,7 +2244,9 @@
         "hook": {
           "en": "Microsoft Teams Rooms installer for Windows 10/11",
           "ja": "Windows 10/11向け Microsoft Teams Rooms インストーラー",
-          "ko": "Windows 10/11용 Microsoft Teams Rooms 설치 프로그램"
+          "ko": "Windows 10/11용 Microsoft Teams Rooms 설치 프로그램",
+          "zh-Hans": "Win10/11 会议室系统部署工具",
+          "zh-Hant": "Win10/11 會議室系統部署工具"
         }
       }
     },

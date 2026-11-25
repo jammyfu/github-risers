@@ -1061,7 +1061,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管… | 2026-11-24<br><sub>1.2 天</sub> | 121 | 99.4 |
+| 1 | [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms)<br>Win10/11 会议室系统部署工具 | 2026-11-24<br><sub>1.2 天</sub> | 121 | 99.4 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
