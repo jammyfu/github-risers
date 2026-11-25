@@ -124,7 +124,7 @@
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 在桌面養一隻隨時互動的小萌貓 | KuroCat — 免費開源原生桌面貓咪寵物 &amp; OBS 疊加層（Bongo Cat 替代品，Swift/C++，802 KB）｜開源免費原生桌面萌貓（全平台 macOS·Win·Linux·UOS / 2.5D轉頭捕獵 /… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四張像素畫直接變能旋轉的偽3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 閒置算力浪費了？用來訓練你的本機模型 | 利用閒置運算能力為本機模型提供支援的訓練引擎 |
-| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) |  | 從 Google Maps 到 Pix 的開源客戶開拓：在 Maps 上尋找商家，為每家生成帶名稱的預覽網站，在 WhatsApp 上溝通並透過 Pix、Mercado P… 收款 |
+| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 找不到客戶？開源從地圖搜店到談單收款 | 從 Google Maps 到 Pix 的開源客戶開拓：在 Maps 上尋找商家，為每家生成帶名稱的預覽網站，在 WhatsApp 上溝通並透過 Pix、Mercado P… 收款 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | 在 Linux 上為 AI 代理運行 iOS 模擬器 | 適用於 Linux 上 AI 代理的 iOS 模擬器。x86Sim 的代理層。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面運行開源的本機AI代理團隊 | 適用於桌面的開源、本機優先 AI 代理團隊：多代理群聊、電腦使用、瀏覽器、MCP、例程與審批。macOS、Windows、Linux + A… |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 刪掉多餘程式碼，測試通過才保留 | 程式碼更少，測試照樣通過：刪除任何程式碼庫中的無用程式碼、檔案、依賴項與資源，且僅在自身測試依然通過時保留每次刪減。 |

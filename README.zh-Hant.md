@@ -73,7 +73,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 5 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>在桌面養一隻隨時互動的小萌貓 | 2026-11-23<br><sub>2.7 天</sub> | 514 | 191.1 |
 | 6 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四張像素畫直接變能旋轉的偽3D | 2026-11-20<br><sub>5.1 天</sub> | 884 | 172.3 |
 | 7 | [sous-labs/songe](https://github.com/sous-labs/songe)<br>閒置算力浪費了？用來訓練你的本機模型 | 2026-11-20<br><sub>5.3 天</sub> | 832 | 157.7 |
-| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>從 Google Maps 到 Pix 的開源客戶開拓：在 Maps 上尋找商家，為每家生成帶名稱的預覽網站，在 WhatsApp 上溝通並透過 Pix、Mercado P… 收款 | 2026-11-24<br><sub>1.0 天</sub> | 154 | 154.0 |
+| 8 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo)<br>找不到客戶？開源從地圖搜店到談單收款 | 2026-11-24<br><sub>1.0 天</sub> | 154 | 154.0 |
 | 9 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)<br>在 Linux 上為 AI 代理運行 iOS 模擬器 | 2026-11-21<br><sub>3.9 天</sub> | 590 | 151.9 |
 | 10 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)<br>在桌面運行開源的本機AI代理團隊 | 2026-11-21<br><sub>4.5 天</sub> | 587 | 132.0 |
 
