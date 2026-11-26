@@ -3132,7 +3132,9 @@
         "hook": {
           "en": "Avid Media Composer alternative setup and access tool",
           "ja": "Avid Media Composer代替セットアップおよび設定ツール",
-          "ko": "Avid Media Composer 대체 설치 및 설정 도구"
+          "ko": "Avid Media Composer 대체 설치 및 설정 도구",
+          "zh-Hans": "标为备用访问的桌面设置与运行配置",
+          "zh-Hant": "標為備用存取的桌面設定與運行配置"
         }
       }
     },

@@ -156,7 +156,7 @@
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面簡報與儀式規劃軟體 | Easy Worship Desktop: 精簡的簡報與禮拜規劃軟體 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面著色器控制增強套件 | 適用於 Roblox 的 BloxShade：帶有著色器控制項的桌面增強套件 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 調校工具 | Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件 |
-| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer 替代訪問工具 - 精簡的桌面設定和執行階段配置 |
+| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | 標為備用存取的桌面設定與運行配置 | Avid Media Composer 替代訪問工具 - 精簡的桌面設定和執行階段配置 |
 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | 排查程式資安，精準檢測金鑰與污點 | 高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 給貼圖加上最多5秒的專屬聲音 | StikSound — 為你的 WhatsApp PNG 貼圖和 GIF 動圖添加長達 5 秒的聲音（Windows、macOS &amp; Chrome 擴充功能，100% 本機，無需安裝任… |
 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | 讓 Muse 安全存取你的本機檔案 | MuseLink 將 Muse 連接到授權的 Windows 檔案和可選的沙盒本機命令，具有引導式設定、按工作區 ACL 隔離、本機核准對話方塊… |
