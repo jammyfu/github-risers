@@ -117,50 +117,47 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
+| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) |  | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 代码太慢？让智能体只重写最慢的5% | 不要用 Rust 重写。重写慢的 5%：分析 Python、Node 或 Ruby 应用的性能，用你的编程智能体移植热点函数，证明它们的行为相… |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | 开源免费的置顶桌面打字小猫伴侣 | KuroCat — 免费开源桌面打字猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Tauri v2 + Rust + MCP）｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透… |
-| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 对话太耗Token？帮你减少额度消耗 | 适用于 Google Antigravity (CLI/Desktop/IDE) 的非侵入式 MCP 加速器插件：在不影响…的情况下减少 LLM 轮次 (-34%)、Token 配额 (-31%) 和上传流量 (-40%) |
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) |  | The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… |
+| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) |  | Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 把任何游戏逆向移植并保证每帧手感一致 | 逆向工程任何游戏，在任何引擎中重建它（web、Rust、Godot），并逐帧证明重建版本具有相同的玩法。在公开的 GAME.md… 中提供行为规范 |
+| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) |  | Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 赶在别人发现前，快速找出系统漏洞 | 在别人之前找出漏洞。一款快速且 100% Rust 编写的漏洞扫描器：支持 XSS、SQL 注入、泄露的密钥、依赖 CVE 以及 AI 智能体配置。 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 在桌面养一只随时互动的小萌猫 | KuroCat — 免费开源原生桌面猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Swift/C++，802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四张像素画直接变能旋转的伪3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 闲置算力浪费了？用来训练你的本地模型 | 利用闲置算力为本地模型提供支持的训练引擎 |
-| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 找不到客户？开源从地图搜店到聊单收款 | 从 Google Maps 到 Pix 的开源客户开拓：在 Maps 上寻找商家，为每家生成带名称的预览网站，在 WhatsApp 上沟通并通过 Pix、Mercado P… 收款 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | 在Linux上为智能体运行iOS模拟环境 | 适用于 Linux 上 AI 智能体的 iOS 模拟器。x86Sim 的智能体层。 |
+| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 找不到客户？开源从地图搜店到聊单收款 | 从 Google Maps 到 Pix 的开源客户开拓：在 Maps 上寻找商家，为每家生成带名称的预览网站，在 WhatsApp 上沟通并通过 Pix、Mercado P… 收款 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面运行开源的本地AI智能体团队 | 适用于桌面的开源、本地优先 AI 智能体团队：多智能体群聊、计算机使用、浏览器、MCP、例程与审批。macOS、Windows、Linux + A… |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 删掉冗余代码，测试能通过才保留 | 代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。 |
-| [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 把任何游戏逆向移植并保证每帧手感一致 | 逆向工程任何游戏，在任何引擎中重建它（web、Rust、Godot），并逐帧证明重建版本具有相同的玩法。在公开的 GAME.md… 中提供行为规范 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | 让 AI 智能体掌握靠证据推进研究的技能 | 用于证据驱动型研究、实验和有界优化的便携式智能体技能 |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 用类脑神经信号训练智能体打生存游戏 | 面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 |
-| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | 让 AI 带着写作意图逐句写日语 | 让 Claude Code、Codex、Antigravity 等 AI 编码智能体附带写作意图与句子功能逐句撰写并审查日文文章的技能和浏览应用 |
+| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) |  | Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news. |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
-| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | 抢救崩溃会话，省下上下文额度的插件 | 提升缓存命中率、自动保持缓存预热、保护上下文配额、显示实时上下文用量、挽救崩溃会话的 Google Antigravity 插件，… |
-| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | 账号多难打理，接入轻松查余额与模型 | 将 WorkBuddy 账户作为模型提供商导入 DeepSeek Harness：每个账户一个路由、完整模型列表、单账户积分余额，以及自动工作区… |
-| [blotato/contentskills](https://github.com/blotato/contentskills) | 让AI智能体包办做视频写脚本 | 适用于 AI 智能体的 Content Skills：创建视频、编辑视频、完整视频编辑器、编写脚本、100+ 主题 &amp; 特效、发布到社交媒体，以及创建私信自动… |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | 在 Kubernetes 上直接用 AI 构建软件 | 在 Kubernetes / OpenShift 上结合 Tekton 和 vLLM 运行的 AI Software Factory |
+| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | 让 AI 带着写作意图逐句写日语 | 让 Claude Code、Codex、Antigravity 等 AI 编码智能体附带写作意图与句子功能逐句撰写并审查日文文章的技能和浏览应用 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe桌面财务管理发布版 | Quicken Deluxe：具有预算和报告功能的综合桌面财务管理 |
 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back 界面定制桌面工具 | Startall Back Utility：具有界面自定义功能的桌面管理器 |
 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | MediaTek 设备命令行配置工具 | SP Flash Tool：适用于受支持 MediaTek 设备的命令行设置和配置实用工具 |
-| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光盘映像制作与转换工具 | Ultra ISO: 桌面光盘映像制作、挂载与转换工具包 |
 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | Rust 外部修改工具，标为游戏增强 | Rust External Trainer Tool：自信的游戏增强 |
 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Android 低延迟投屏与输入控制 | Scrcpy Screen Mirroring: 低延迟 Android 显示复制与输入控制 |
+| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 桌面光盘映像制作与转换工具 | Ultra ISO: 桌面光盘映像制作、挂载与转换工具包 |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | 桌面投资组合配置与分配管理工具 | Portfolio Rebalancer：桌面投资组合的配置与分配管理 |
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面机器人 | 面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好 |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation 桌面工程工具 | MicroStation Utility: 用于基础设施设计的综合桌面工程工具集 |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 桌面图表软件安装包 | Microsoft Visio：图表绘制与矢量图形桌面应用程序 |
-| [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Landr 插件配置包 | Landr Plugin Bundle：完整配置、独到见解与 |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics 数据分析功能集 | IBM SPSS Statistics：用于高级数据分析的功能集 |
+| [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Landr 插件配置包 | Landr Plugin Bundle：完整配置、独到见解与 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面数据传输与设备管理套件 | FoneTrans Desktop Utility: 完整的数据传输与设备管理套件 |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 面向模组开发者的重制桌面体验 | Better Discord Client: 面向 Mod 制作者的重制桌面体验 |
-| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面演示与仪式规划软件 | Easy Worship Desktop: 精简的演示与礼拜规划软件 |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | 系统管理与工作流的统一桌面工具链 | Chimera Utility: 用于系统管理和工作流的统一桌面工具链 |
-| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag 桌面网络优化与路由管理控制台 | ExitLag Utility: 桌面网络优化与路由管理控制台 |
+| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面演示与仪式规划软件 | Easy Worship Desktop: 精简的演示与礼拜规划软件 |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面着色器控制增强套件 | 适用于 Roblox 的 BloxShade：带有着色器控制的桌面增强套件 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 调优工具 | Ashampoo WinOptimizer Pro：高级 Windows 调优与系统优化套件 |
-| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
+| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer Alternative Access Tool - Streamlined Desktop Setup and Runtime Configuration |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 给表情贴纸加上最多5秒的专属声音 | StikSound — 为你的 WhatsApp PNG 贴纸和 GIF 动图添加长达 5 秒的声音（Windows、macOS &amp; Chrome 扩展，100% 本地，无需安装任… |
-| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | 需求架构难写，让智能体集群直出原型 | 面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
-| [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) | 想开私人德扑室？自托管3D牌局带AI复盘 | Velvet Hold'em — 自托管 3D 多人 Texas Hold'em 俱乐部，配备纯 CPU GTO/CFR 求解器、贝叶斯对手画像与 AI 手牌复盘 / 开源 3D 德州扑克私人牌室（… |
-| [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) | 页面太单调？给网页贴上手绘蜡笔贴纸 | 适用于 React 和 Web 的手绘蜡笔贴纸 SVG。 |
-| [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) | 适用于Windows的Figma Figjam白板工具 | 适用于 Windows 10/11 的 Figma Figjam。构建包含便签、形状、连接线和实时光标的协作白板，让团队绘制流程图、进行头脑风… |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
-| [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms) | Win10/11 会议室系统部署工具 | 适用于 Windows 10/11 的 Microsoft Teams Rooms。加入预定的会议、共享内容并在会议硬件上运行会议室音频和视频，让 IT 管理员管… |

@@ -117,50 +117,47 @@
 
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
+| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) |  | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | アプリが遅い？遅い5%だけエージェントで書き換える | Rustで書き直さないでください。遅い5%を書き直す：Python、Node、Rubyアプリをプロファイリングし、コーディングエージェントでホット関数を移植し、同じように動作することを証明… |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | タイピングに合わせて動く猫のデスクトップ相棒 | KuroCat — 無料オープンソースデスクトップタイピング猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Tauri v2 + Rust + MCP）｜軽量・透明・最前面表示デスクトップタイピング黒猫コンパニオン（猫6種+クジラ娘・大肥魚 / パスワード入力覗き見防止 / OBS透… |
-| [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | トークンが足りない？LLMの往復と消費枠を削減 | Google Antigravity (CLI/Desktop/IDE)向けの非侵襲的MCPアクセラレータプラグイン：…に影響を与えることなくLLMターン数 (-34%)、トークンクォータ (-31%)、アップロードトラフィック (-40%) を削減 |
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) |  | The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… |
+| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) |  | Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | あらゆるゲームを別エンジンに完全再現移植 | あらゆるゲームをリバースエンジニアリングし、任意のエンジン（web、Rust、Godot）で再構築して、再構築版がフレームごとに同じ挙動であることを証明。オープンな GAME.md… の動作仕様 |
+| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) |  | Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 誰かに突かれる前に、脆弱性をすばやく見つける | 誰かに見つけられる前に脆弱性を発見。高速な 100% Rust 製の脆弱性スキャナー：XSS、SQLインジェクション、漏洩したシークレット、依存関係のCVE、AI エージェントの設定。 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 画面上に常駐するデスクトップペット猫 | KuroCat — 無料オープンソースネイティブデスクトップ猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Swift/C++、802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 4枚のドット絵を回せる疑似3Dにする | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
 | [sous-labs/songe](https://github.com/sous-labs/songe) | 空き計算資源がもったいない？ローカルモデルを訓練する | アイドルの計算リソースを活用した、ローカルモデル用トレーニングエンジン |
-| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | マップから見込み客を探し自動提案して集金 | Google Maps から Pix までのオープンソース見込み顧客開拓：Maps でビジネスを見つけ、それぞれの名前でプレビューサイトを生成し、WhatsApp でチャットして Pix、Mercado P… で請求 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | Linux 上で AI エージェント用 iOS シミュレータを動かす | Linux 上の AI エージェント向け iOS シミュレーター。x86Sim のエージェントレイヤー。 |
+| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | マップから見込み客を探し自動提案して集金 | Google Maps から Pix までのオープンソース見込み顧客開拓：Maps でビジネスを見つけ、それぞれの名前でプレビューサイトを生成し、WhatsApp でチャットして Pix、Mercado P… で請求 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | デスクトップで動くオープンソースのローカルAIエージェント | デスクトップ向けのオープンソース、ローカル優先AIエージェントチーム：マルチエージェントグループチャット、コンピュータ使用、ブラウザ、MCP、ルーチン、承認。macOS、Windows、Linux + A… |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | テストが通る範囲で不要なコードやファイルを安全に削除 | コードを減らし、同じテストを合格：あらゆるコードベースのデッドコード、ファイル、依存関係、アセットを削除し、自身のテストが合格し続ける場合のみ各削減を維持。 |
-| [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | あらゆるゲームを別エンジンに完全再現移植 | あらゆるゲームをリバースエンジニアリングし、任意のエンジン（web、Rust、Godot）で再構築して、再構築版がフレームごとに同じ挙動であることを証明。オープンな GAME.md… の動作仕様 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | AI エージェントに根拠ある検証と研究を進めさせるスキル | 証拠に基づいた研究、実験、および有界最適化のためのポータブルエージェントスキル |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 脳オルガノイド信号で LLM エージェントを生息ゲームで誘導 | LLM エージェントのための生体信号誘導型強化学習：Godot サバイバルゲームにおいてオフラインのオルガノイド神経記録をポリシー入力として使用し、ペア評価を実施。 |
-| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | AI コーディングエージェントに日本語を一文ずつ執筆させる | Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ |
+| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) |  | Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news. |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | UIがズレている？ガイド線を引いて余白を直す | アライメント調整用のエージェントスキル：インターフェースにガイド線を引き、線から外れているすべての項目を見つけ、パディングを修正します。 |
-| [zou172866/Antigravity-agy-dart](https://github.com/zou172866/Antigravity-agy-dart) | Antigravityのキャッシュを維持し利用枠を節約 | キャッシュヒット率の向上、キャッシュの自動ウォーム維持、コンテキストクォータの保護、リアルタイムのコンテキスト使用量表示、クラッシュしたセッションの救出を行う Google Antigravity プラグイン、… |
-| [LIUFelix2004/dsh-workbuddy](https://github.com/LIUFelix2004/dsh-workbuddy) | WorkBuddyアカウントをDeepSeek Harnessに取り込む | WorkBuddy アカウントをモデルプロバイダーとして DeepSeek Harness にインポート：アカウントごとに1つのルート、完全なモデルリスト、アカウントごとのクレジット残高、自動ワークア… |
-| [blotato/contentskills](https://github.com/blotato/contentskills) | AIエージェントに動画制作と投稿スキルを追加 | AI エージェント向け Content Skills：動画の作成、動画の編集、完全な動画エディタ、スクリプトの作成、100+ のテーマ &amp; エフェクト、ソーシャルメディアへの投稿、DM 自動…の作成 |
-| [piomin/ai-software-factory](https://github.com/piomin/ai-software-factory) | KubernetesでAIソフトウェア工場を動かす | Tekton および vLLM とともに Kubernetes / OpenShift 上で稼働する AI Software Factory |
+| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | AI コーディングエージェントに日本語を一文ずつ執筆させる | Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート |
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxeデスクトップ財務管理版 | Quicken Deluxe: 予算管理とレポート機能を備えた包括的なデスクトップ財務管理 |
 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility デスクトップ管理 | Startall Back Utility: インターフェースのカスタマイズ機能を備えたデスクトップマネージャー |
 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | SP Flash Tool MediaTek設定ツール | SP Flash Tool: サポートされている MediaTek デバイス向けのコマンドラインセットアップおよび構成ユーティリティ |
-| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO デスクトップ作成ツール | Ultra ISO: デスクトップディスクイメージ作成、マウント、および変換ツールキット |
 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | ゲーム強化用 Rust 外部トレーナーツール | Rust External Trainer Tool: 自信に満ちたゲーム拡張 |
 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring) | Scrcpy Screen Mirroring 画面複製 | Scrcpy Screen Mirroring: 低遅延 Android ディスプレイ複製と入力制御 |
+| [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO デスクトップ作成ツール | Ultra ISO: デスクトップディスクイメージ作成、マウント、および変換ツールキット |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 配分管理ツール | Portfolio Rebalancer: デスクトップポートフォリオの設定および配分管理 |
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 bot Discord連携 | Discord および Telegram 向けのコミュニティ主導型 MetaTrader 5 bot、deskto への親しみやすさを搭載 |
 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 設計ツール | MicroStation Utility: インフラ設計のための包括的なデスクトップエンジニアリングツールセット |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 作図・ベクターグラフィック作成アプリ | Microsoft Visio: 作図およびベクターグラフィックスデスクトップアプリケーション |
-| [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Landr プラグインバンドル設定一式 | Landr Plugin Bundle：完全な設定、意見が反映された、そして |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics データ分析機能 | IBM SPSS Statistics: 高度なデータ分析のための機能セット |
+| [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Landr プラグインバンドル設定一式 | Landr Plugin Bundle：完全な設定、意見が反映された、そして |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans デスクトップデータ転送スイート | FoneTrans Desktop Utility: 完全なデータ転送およびデバイス管理スイート |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Better Discord Client デスクトップ | Better Discord Client: Modder 向けにリマスターされたデスクトップ体験 |
-| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship デスクトッププレゼンソフト | Easy Worship Desktop: 合理化されたプレゼンテーションおよび礼拝計画ソフトウェア |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility デスクトップ管理ツール | Chimera Utility: システム管理とワークフローのための統合デスクトップ ツールチェーン |
-| [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | ExitLag デスクトップネットワーク最適化ツール | ExitLag Utility: デスクトップネットワーク最適化およびルート管理コンソール |
+| [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship デスクトッププレゼンソフト | Easy Worship Desktop: 合理化されたプレゼンテーションおよび礼拝計画ソフトウェア |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 向けデスクトップシェーダー調整ツール | Roblox 向け BloxShade: シェーダー制御を備えたデスクトップ強化スイート |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 最適化ツール | Ashampoo WinOptimizer Pro: 高度な Windows チューニングおよびシステム最適化スイート |
-| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 複数画面デスクトップ管理 | Display Fusion: ウィンドウのスナップとプロファイル自動化を備えたマルチモニターデスクトップ管理 |
+| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer Alternative Access Tool - Streamlined Desktop Setup and Runtime Configuration |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | ステッカーに最大5秒の音声をローカル追加 | StikSound — WhatsApp 用 PNG ステッカーやアニメーション GIF に最大 5 秒の音声を追加（Windows、macOS &amp; Chrome 拡張機能、何もインストールせず 100% ローカル… |
-| [Johnson-Durui/ApexCluster](https://github.com/Johnson-Durui/ApexCluster) | PRD作成が大変？エージェントが構成と試作を出力 | 複雑なソフトウェアエンジニアリングと製品設計に向けたフラッグシップマルチベンダー多エージェントクラスタ：アーキテクチャ層でPRD、技術アーキテクチャ、インタラクティブプロトタイプを直接出力（プロダクトマネージャーのタスクに最適）、実装層でクロスベンダー相互レビューとサンドボックス実証納品 / Multi-vendor AI cluster: Architecture layer outputs PRDs &amp; prototypes (buil… |
-| [jianghao-jianghao-jianghao/newHoldem](https://github.com/jianghao-jianghao-jianghao/newHoldem) | 手札の振り返りに、セルフホスト型3DでAIレビュー | Velvet Hold'em — セルフホスト型 3D マルチプレイヤー Texas Hold'em クラブ、CPU 専用 GTO/CFR ソルバー、ベイズ推定相手プロファイリング &amp; AI ハンドレビュー搭載 / 开源 3D 德州扑克私人牌室（… |
-| [AdityaKodez/trazo](https://github.com/AdityaKodez/trazo) | Webが味気ない？手描きのクレヨン風SVGステッカー | React および Web 向けの手描きクレヨンステッカー SVG。 |
-| [kennethkumar05/figma-figjam](https://github.com/kennethkumar05/figma-figjam) | Windows 10/11向け Figma Figjam インストーラー | Windows 10/11 向け Figma Figjam。付箋、図形、コネクタ、ライブカーソルを備えたコラボレーション用ホワイトボードを構築し、チームがフローをスケッチしたり、ブレインストーミング… |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube向けAI動画編集ワークフロー | ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー |
-| [Liangsystems/microsoft-teams-rooms](https://github.com/Liangsystems/microsoft-teams-rooms) | Windows 10/11向け Microsoft Teams Rooms インストーラー | Windows 10/11 向け Microsoft Teams Rooms。スケジュールされた会議への参加、コンテンツの共有、会議ハードウェアでの会議室オーディオとビデオの実行を行い、IT 管理者が管… |

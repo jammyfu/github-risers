@@ -6,6 +6,7 @@
 
 | 日期 | 时段 | 获取时间（UTC） | 新仓库第 1 名（7 天） | 本周第 1 名 | 本月第 1 名 | 今年第 1 名 | 快照 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-26 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-26T17:23:08Z | alesha-pro/llm.asm (890/天) | morluto/rea (1,504/天) | morluto/rea (2,928/天) | deepseek-ai/deepseek-harness (2,736/天) | [2026-11-26/pt-0000](2026-11-26/pt-0000/rankings.zh-Hans.md) · [json](2026-11-26/pt-0000/stats.json) |
 | 2026-11-25 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-25T17:40:15Z | EL4CTEO/fast-anything (943/天) | morluto/rea (1,586/天) | morluto/rea (3,116/天) | deepseek-ai/deepseek-harness (2,757/天) | [2026-11-25/pt-0000](2026-11-25/pt-0000/rankings.zh-Hans.md) · [json](2026-11-25/pt-0000/stats.json) |
 | 2026-11-24 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-24T18:25:37Z | EL4CTEO/fast-anything (1,122/天) | morluto/rea (1,683/天) | morluto/rea (3,281/天) | deepseek-ai/deepseek-harness (2,779/天) | [2026-11-24/pt-0000](2026-11-24/pt-0000/rankings.zh-Hans.md) · [json](2026-11-24/pt-0000/stats.json) |
 | 2026-11-23 | 洛杉矶时间 00:00 (`pt-0000`) | 2026-11-23T18:49:05Z | EL4CTEO/fast-anything (1,388/天) | morluto/rea (1,782/天) | morluto/rea (3,417/天) | deepseek-ai/deepseek-harness (2,801/天) | [2026-11-23/pt-0000](2026-11-23/pt-0000/rankings.zh-Hans.md) · [json](2026-11-23/pt-0000/stats.json) |
