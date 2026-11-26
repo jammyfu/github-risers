@@ -66,7 +66,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>基於 100% 純 x86-64 NASM 組合語言的 Qwen3-0.6B 推論 (12 KB)、裸機可開機 OS (22 KB)，以及帶有即時點字 TUI 的從零開始 Mini-GPT 訓練器 (32 KB)… | 2026-11-25<br><sub>1.4 天</sub> | 1,257 | 889.8 |
+| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>在裸機上用純組合語言跑模型推理 | 2026-11-25<br><sub>1.4 天</sub> | 1,257 | 889.8 |
 | 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>程式太慢？讓代理只重寫最慢的5% | 2026-11-21<br><sub>5.1 天</sub> | 4,186 | 818.7 |
 | 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>讓程式碼代理直接幫你做遊戲 | 2026-11-25<br><sub>1.3 天</sub> | 596 | 464.6 |
 | 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>像工程圖紙一樣畫出互動式3D說明頁 | 2026-11-25<br><sub>1.3 天</sub> | 406 | 305.0 |
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi… | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>排查程式資安，精準檢測金鑰與污點 | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

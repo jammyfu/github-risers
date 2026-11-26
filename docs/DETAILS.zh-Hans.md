@@ -157,7 +157,7 @@
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面着色器控制增强套件 | 适用于 Roblox 的 BloxShade：带有着色器控制的桌面增强套件 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 调优工具 | Ashampoo WinOptimizer Pro：高级 Windows 调优与系统优化套件 |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer 替代访问工具 - 简化的桌面设置和运行时配置 |
-| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | 高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | 排查代码安全，精准检测密钥与污点 | 高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 给表情贴纸加上最多5秒的专属声音 | StikSound — 为你的 WhatsApp PNG 贴纸和 GIF 动图添加长达 5 秒的声音（Windows、macOS &amp; Chrome 扩展，100% 本地，无需安装任… |
 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | 让 Muse 安全访问你的本地文件 | MuseLink 将 Muse 连接到授权的 Windows 文件和可选的沙盒本地命令，具有向导式设置、按工作区 ACL 隔离、本地审批对话框… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |

@@ -117,7 +117,7 @@
 
 | 專案 | 表裡的一句話 | 完整介紹 |
 |---|---|---|
-| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) |  | 基於 100% 純 x86-64 NASM 組合語言的 Qwen3-0.6B 推論 (12 KB)、裸機可開機 OS (22 KB)，以及帶有即時點字 TUI 的從零開始 Mini-GPT 訓練器 (32 KB)… |
+| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 在裸機上用純組合語言跑模型推理 | 基於 100% 純 x86-64 NASM 組合語言的 Qwen3-0.6B 推論 (12 KB)、裸機可開機 OS (22 KB)，以及帶有即時點字 TUI 的從零開始 Mini-GPT 訓練器 (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 程式太慢？讓代理只重寫最慢的5% | 不要用 Rust 重寫。重寫慢的 5%：分析 Python、Node 或 Ruby 應用程式的效能，用你的編程代理移植熱點函式，證明它們的行為相… |
 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | 讓程式碼代理直接幫你做遊戲 | 超級遊戲代理 —— 面向 AI 代理的 Unity &amp; Unreal，擁有 100+ 款可二創的熱門遊戲。將 20+ 個編程代理 (Claude Code, Codex, DeepSeek, etc.) 轉變為… |
 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 像工程圖紙一樣畫出互動式3D說明頁 | Inkworks：一個用於生成類似工程圖紙風格的互動式 3D 原理展示頁面的代理技能。 |
@@ -157,7 +157,7 @@
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面著色器控制增強套件 | 適用於 Roblox 的 BloxShade：帶有著色器控制項的桌面增強套件 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 調校工具 | Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件 |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer 替代訪問工具 - 精簡的桌面設定和執行階段配置 |
-| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | 高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi… |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | 排查程式資安，精準檢測金鑰與污點 | 高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 給貼圖加上最多5秒的專屬聲音 | StikSound — 為你的 WhatsApp PNG 貼圖和 GIF 動圖添加長達 5 秒的聲音（Windows、macOS &amp; Chrome 擴充功能，100% 本機，無需安裝任… |
 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | 讓 Muse 安全存取你的本機檔案 | MuseLink 將 Muse 連接到授權的 Windows 檔案和可選的沙盒本機命令，具有引導式設定、按工作區 ACL 隔離、本機核准對話方塊… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI影片剪輯工作流程 | 分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程 |

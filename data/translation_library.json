@@ -3164,7 +3164,9 @@
         "hook": {
           "en": "Spot leaks and security flaws across your code with Semgrep",
           "ja": "Semgrepでコード内の資安リスクや機密漏洩を検知",
-          "ko": "Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지"
+          "ko": "Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지",
+          "zh-Hans": "排查代码安全，精准检测密钥与污点",
+          "zh-Hant": "排查程式資安，精準檢測金鑰與污點"
         }
       }
     },
@@ -4429,7 +4431,8 @@
           "en": "Run and train an LLM directly in pure assembly",
           "zh-Hans": "用纯汇编直接运行和训练大模型",
           "ja": "純粋なアセンブリでLLMを直接動かして学習",
-          "ko": "순수 어셈블리로 LLM을 직접 실행하고 학습"
+          "ko": "순수 어셈블리로 LLM을 직접 실행하고 학습",
+          "zh-Hant": "在裸機上用純組合語言跑模型推理"
         }
       }
     },

@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>排查代码安全，精准检测密钥与污点 | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
