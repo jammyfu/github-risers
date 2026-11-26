@@ -272,6 +272,23 @@
         }
       }
     },
+    "Aenvo/MuseLink": {
+      "e3e0dad971f2": {
+        "src": "MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog…",
+        "zh-Hans": "MuseLink 将 Muse 连接到授权的 Windows 文件和可选的沙盒本地命令，具有向导式设置、按工作区 ACL 隔离、本地审批对话框…",
+        "seen": "2026-11-27",
+        "zh-Hant": "MuseLink 將 Muse 連接到授權的 Windows 檔案和可選的沙盒本機命令，具有引導式設定、按工作區 ACL 隔離、本機核准對話方塊…",
+        "ja": "MuseLink は Muse を承認された Windows ファイルおよびオプションのサンドボックス化されたローカルコマンドに接続し、ガイド付きセットアップ、ワークスペースごとの ACL 分離、ローカル承認ダイアログ…",
+        "ko": "MuseLink는 안내형 설정, 워크스페이스별 ACL 격리, 로컬 승인 대화상자를 통해 Muse를 승인된 Windows 파일 및 선택적 샌드박스 로컬 명령에 연결합니다…",
+        "hook": {
+          "en": "Let Muse access your Windows files with safe approval",
+          "zh-Hans": "让 Muse 安全访问你的本地文件",
+          "zh-Hant": "讓 Muse 安全存取你的本機檔案",
+          "ja": "MuseからWindowsファイルを安全に操作する",
+          "ko": "Muse가 안전하게 승인받고 로컬 파일을 다루게 하세요"
+        }
+      }
+    },
     "AgentLobster/ai--manus": {
       "9f0c6d8c2759": {
         "src": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
@@ -2484,6 +2501,23 @@
         }
       }
     },
+    "Moh4696/inkworks-skill": {
+      "b8c4e1c493fa": {
+        "src": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+        "zh-Hans": "Inkworks：一个用于生成类似工程图纸风格的交互式 3D 原理展示页面的智能体技能。",
+        "seen": "2026-11-27",
+        "zh-Hant": "Inkworks：一個用於生成類似工程圖紙風格的互動式 3D 原理展示頁面的代理技能。",
+        "ja": "Inkworks: 設計図のように描かれたインタラクティブな 3D 仕組み解説ページを作成するためのエージェントスキル。",
+        "ko": "Inkworks: 엔지니어링 도면처럼 그려진 인터랙티브 3D 작동 원리 페이지를 위한 에이전트 스킬.",
+        "hook": {
+          "en": "Draw interactive 3D explainers like engineering blueprints",
+          "zh-Hans": "像工程图纸一样画出交互式3D说明页",
+          "zh-Hant": "像工程圖紙一樣畫出互動式3D說明頁",
+          "ja": "設計図のように動く3D解説ページを描くスキル",
+          "ko": "설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬"
+        }
+      }
+    },
     "Moh4696/open-3d-skills": {
       "412bdce021dc": {
         "src": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, bro…",
@@ -3087,6 +3121,21 @@
         }
       }
     },
+    "Redwannn/avid-media-composer": {
+      "b3d434a04049": {
+        "src": "Avid Media Composer Alternative Access Tool - Streamlined Desktop Setup and Runtime Configuration",
+        "zh-Hans": "Avid Media Composer 替代访问工具 - 简化的桌面设置和运行时配置",
+        "seen": "2026-11-27",
+        "zh-Hant": "Avid Media Composer 替代訪問工具 - 精簡的桌面設定和執行階段配置",
+        "ja": "Avid Media Composer 代替アクセスツール - 合理化されたデスクトップ設定とランタイム構成",
+        "ko": "Avid Media Composer 대안 액세스 도구 - 간소화된 데스크톱 설정 및 런타임 구성",
+        "hook": {
+          "en": "Avid Media Composer alternative setup and access tool",
+          "ja": "Avid Media Composer代替セットアップおよび設定ツール",
+          "ko": "Avid Media Composer 대체 설치 및 설정 도구"
+        }
+      }
+    },
     "RescuerDevelop/CapCut-AI-PC-Latest": {
       "5d12cc342b0d": {
         "src": "How to get CapCut 2026",
@@ -3101,6 +3150,21 @@
           "zh-Hant": "CapCut 2026 獲取教學",
           "ja": "CapCut 2026の入手ガイド",
           "ko": "CapCut 2026 획득 가이드"
+        }
+      }
+    },
+    "RobustaStudio/semsec": {
+      "f6590a039a29": {
+        "src": "High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi…",
+        "zh-Hans": "高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi…",
+        "seen": "2026-11-27",
+        "zh-Hant": "高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi…",
+        "ja": "高精度な Semgrep セキュリティルール — Python、JavaScript、Java、PHP 向けの 146 の汚染追跡およびシークレット検出ルールで、75 のプロバイダーをカバー。By Robusta Studi…",
+        "ko": "고정밀 Semgrep 보안 규칙 — 75개 공급업체를 포괄하는 Python, JavaScript, Java, PHP용 146개 오염 추적 및 비밀 탐지 규칙. By Robusta Studi…",
+        "hook": {
+          "en": "Spot leaks and security flaws across your code with Semgrep",
+          "ja": "Semgrepでコード内の資安リスクや機密漏洩を検知",
+          "ko": "Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지"
         }
       }
     },
@@ -4350,6 +4414,22 @@
           "zh-Hant": "找鳥類貼紙太難？集齊 11,064 種鳥",
           "ja": "鳥の素材が見つからない？11,064種の鳥を網羅",
           "ko": "새 스티커가 필요할 때, 11,064종의 조류 모음"
+        }
+      }
+    },
+    "alesha-pro/llm.asm": {
+      "b95ae443959f": {
+        "src": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly…",
+        "zh-Hans": "基于 100% 纯 x86-64 NASM 汇编的 Qwen3-0.6B 推理 (12 KB)、裸机可引导 OS (22 KB)，以及带有实时盲文 TUI 的从零开始 Mini-GPT 训练器 (32 KB)…",
+        "seen": "2026-11-27",
+        "zh-Hant": "基於 100% 純 x86-64 NASM 組合語言的 Qwen3-0.6B 推論 (12 KB)、裸機可開機 OS (22 KB)，以及帶有即時點字 TUI 的從零開始 Mini-GPT 訓練器 (32 KB)…",
+        "ja": "100% 純粋な x86-64 NASM アセンブリによる Qwen3-0.6B 推論 (12 KB)、ベアメタル起動可能 OS (22 KB)、およびライブ点字 TUI を備えたゼロからの Mini-GPT トレーナー (32 KB)…",
+        "ko": "100% 순수 x86-64 NASM 어셈블리로 구현된 Qwen3-0.6B 추론 (12 KB), 베어메탈 부팅 가능 OS (22 KB), 실시간 점자 TUI가 포함된 밑바닥부터 시작하는 Mini-GPT 트레이너 (32 KB)…",
+        "hook": {
+          "en": "Run and train an LLM directly in pure assembly",
+          "zh-Hans": "用纯汇编直接运行和训练大模型",
+          "ja": "純粋なアセンブリでLLMを直接動かして学習",
+          "ko": "순수 어셈블리로 LLM을 직접 실행하고 학습"
         }
       }
     },
@@ -7409,6 +7489,23 @@
         }
       }
     },
+    "nexu-io/opengame": {
+      "642217eda9a7": {
+        "src": "The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a…",
+        "zh-Hans": "超级游戏智能体 —— 面向 AI 智能体的 Unity &amp; Unreal，拥有 100+ 款可二创的爆款游戏。将 20+ 个编程智能体 (Claude Code, Codex, DeepSeek, etc.) 转化为…",
+        "seen": "2026-11-27",
+        "zh-Hant": "超級遊戲代理 —— 面向 AI 代理的 Unity &amp; Unreal，擁有 100+ 款可二創的熱門遊戲。將 20+ 個編程代理 (Claude Code, Codex, DeepSeek, etc.) 轉變為…",
+        "ja": "スーパーゲームエージェント — 100+ 以上のバイラルゲームをリミックスできる、AI エージェントのための Unity &amp; Unreal。20+ 以上のコーディングエージェント (Claude Code, Codex, DeepSeek, etc.) を…",
+        "ko": "슈퍼 게임 에이전트 — 100+ 개 이상의 입소문 게임을 리믹스할 수 있는 AI 에이전트용 Unity &amp; Unreal. 20+ 개 이상의 코딩 에이전트 (Claude Code, Codex, DeepSeek, etc.)를…",
+        "hook": {
+          "en": "Turn your coding agents into game developers",
+          "zh-Hans": "让代码智能体直接帮你做游戏",
+          "zh-Hant": "讓程式碼代理直接幫你做遊戲",
+          "ja": "コーディングエージェントをゲーム開発者に変える",
+          "ko": "코딩 에이전트를 게임 개발자로 전환"
+        }
+      }
+    },
     "nforst/fagus": {
       "3c4af9c2fbbb": {
         "src": "HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.",
@@ -7834,6 +7931,21 @@
       }
     },
     "qianyiai/kurocat": {
+      "07eb768de666": {
+        "src": "KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/…",
+        "zh-Hans": "KuroCat —— 免费开源的 3D/2D 桌面打字猫 &amp; AI 编程伴侣 (Bongo Cat 替代品 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/…",
+        "seen": "2026-11-27",
+        "zh-Hant": "KuroCat —— 免費開源的 3D/2D 桌面打字貓 &amp; AI 編程伴侶 (Bongo Cat 替代品 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/…",
+        "ja": "KuroCat — 無料のオープンソース 3D/2D デスクトップタイピング猫 &amp; AI コーディングコンパニオン (Bongo Cat の代替 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/…",
+        "ko": "KuroCat — 무료 오픈 소스 3D/2D 데스크톱 타이핑 고양이 &amp; AI 코딩 동반자 (Bongo Cat 대체재 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/…",
+        "hook": {
+          "en": "A free open-source typing cat companion on your desktop",
+          "zh-Hans": "在桌面陪伴你敲代码的免费开源打字猫",
+          "zh-Hant": "在桌面陪伴你敲程式碼的免費開源打字貓",
+          "ja": "デスクトップで一緒にタイピングする無料のオープンソース猫",
+          "ko": "데스크톱에서 타이핑을 함께하는 무료 오픈 소스 고양이"
+        }
+      },
       "3495d5eb8bcf": {
         "src": "KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透…",
         "zh-Hans": "KuroCat — 免费开源桌面打字猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Tauri v2 + Rust + MCP）｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透…",
@@ -8526,6 +8638,23 @@
         }
       }
     },
+    "sthamann/awesome-agentic-commerce": {
+      "4d23e9451e00": {
+        "src": "Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news.",
+        "zh-Hans": "每日精选与更新：智能体式商业协议 (UCP, ACP, AP2, MCP, x402)、SDK、支付提供商、开源实现以及最新资讯。",
+        "seen": "2026-11-27",
+        "zh-Hant": "每日精選與更新：代理式商業協議 (UCP, ACP, AP2, MCP, x402)、SDK、支付提供商、開源實現以及最新資訊。",
+        "ja": "毎日厳選・更新: エージェント型コマースプロトコル (UCP, ACP, AP2, MCP, x402)、SDK、決済プロバイダー、オープンソース実装、最新ニュース。",
+        "ko": "매일 선별 및 업데이트: 에이전틱 커머스 프로토콜 (UCP, ACP, AP2, MCP, x402), SDK, 결제 제공업체, 오픈 소스 구현 및 최신 뉴스.",
+        "hook": {
+          "en": "Find all the protocols and tools for agentic commerce",
+          "zh-Hans": "一站查全智能体式商业协议与支付工具",
+          "zh-Hant": "一站查全代理式商務協定與支付工具",
+          "ja": "エージェント型コマースのプロトコルとツールを一覧",
+          "ko": "에이전틱 커머스 프로토콜과 도구를 한눈에 확인"
+        }
+      }
+    },
     "supercli-site/awesome-coding-plan": {
       "5516fd396f9d": {
         "src": "TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding plans, API pricing and model value comparisons.",
@@ -8785,6 +8914,23 @@
           "zh-Hant": "Soundpad 2023 部署管線",
           "ja": "Soundpad 2023導入パイプライン",
           "ko": "Soundpad 2023 배포 파이프라인"
+        }
+      }
+    },
+    "uxpilot-ai/frontend-design-skill": {
+      "b2cdeed4db0b": {
+        "src": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
+        "zh-Hans": "适用于 Claude Code、Codex 和 Cursor 的免费前端设计技能：在 UX Pilot 画布上设计您的 UI，然后在代码中构建它",
+        "seen": "2026-11-27",
+        "zh-Hant": "適用於 Claude Code、Codex 和 Cursor 的免費前端設計技能：在 UX Pilot 畫布上設計您的 UI，然後在程式碼中構建它",
+        "ja": "Claude Code、Codex、Cursor 向けの無料フロントエンド設計スキル: UX Pilot キャンバス上で UI をデザインし、コード内でそれを構築します",
+        "ko": "Claude Code, Codex 및 Cursor용 무료 프론트엔드 디자인 스킬: UX Pilot 캔버스에서 UI를 디자인한 후 코드에서 빌드합니다",
+        "hook": {
+          "en": "Design your UI on canvas and turn it into real code",
+          "zh-Hans": "在画布上画好界面直接变成前端代码",
+          "zh-Hant": "在畫布上畫好介面直接變成前端程式碼",
+          "ja": "キャンバスでUIを描いてそのままコードに変換するスキル",
+          "ko": "캔버스에서 UI를 그리고 바로 코드로 만드는 스킬"
         }
       }
     },

@@ -117,13 +117,13 @@
 
 | プロジェクト | 表の 1 行 | 完全な説明 |
 |---|---|---|
-| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) |  | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… |
+| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 純粋なアセンブリでLLMを直接動かして学習 | 100% 純粋な x86-64 NASM アセンブリによる Qwen3-0.6B 推論 (12 KB)、ベアメタル起動可能 OS (22 KB)、およびライブ点字 TUI を備えたゼロからの Mini-GPT トレーナー (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | アプリが遅い？遅い5%だけエージェントで書き換える | Rustで書き直さないでください。遅い5%を書き直す：Python、Node、Rubyアプリをプロファイリングし、コーディングエージェントでホット関数を移植し、同じように動作することを証明… |
-| [nexu-io/opengame](https://github.com/nexu-io/opengame) |  | The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… |
-| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) |  | Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) | コーディングエージェントをゲーム開発者に変える | スーパーゲームエージェント — 100+ 以上のバイラルゲームをリミックスできる、AI エージェントのための Unity &amp; Unreal。20+ 以上のコーディングエージェント (Claude Code, Codex, DeepSeek, etc.) を… |
+| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 設計図のように動く3D解説ページを描くスキル | Inkworks: 設計図のように描かれたインタラクティブな 3D 仕組み解説ページを作成するためのエージェントスキル。 |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | デスクトップで一緒にタイピングする無料のオープンソース猫 | KuroCat — 無料のオープンソース 3D/2D デスクトップタイピング猫 &amp; AI コーディングコンパニオン (Bongo Cat の代替 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | あらゆるゲームを別エンジンに完全再現移植 | あらゆるゲームをリバースエンジニアリングし、任意のエンジン（web、Rust、Godot）で再構築して、再構築版がフレームごとに同じ挙動であることを証明。オープンな GAME.md… の動作仕様 |
-| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) |  | Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code |
+| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | キャンバスでUIを描いてそのままコードに変換するスキル | Claude Code、Codex、Cursor 向けの無料フロントエンド設計スキル: UX Pilot キャンバス上で UI をデザインし、コード内でそれを構築します |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 誰かに突かれる前に、脆弱性をすばやく見つける | 誰かに見つけられる前に脆弱性を発見。高速な 100% Rust 製の脆弱性スキャナー：XSS、SQLインジェクション、漏洩したシークレット、依存関係のCVE、AI エージェントの設定。 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 画面上に常駐するデスクトップペット猫 | KuroCat — 無料オープンソースネイティブデスクトップ猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Swift/C++、802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 4枚のドット絵を回せる疑似3Dにする | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
@@ -134,7 +134,7 @@
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | テストが通る範囲で不要なコードやファイルを安全に削除 | コードを減らし、同じテストを合格：あらゆるコードベースのデッドコード、ファイル、依存関係、アセットを削除し、自身のテストが合格し続ける場合のみ各削減を維持。 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | AI エージェントに根拠ある検証と研究を進めさせるスキル | 証拠に基づいた研究、実験、および有界最適化のためのポータブルエージェントスキル |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 脳オルガノイド信号で LLM エージェントを生息ゲームで誘導 | LLM エージェントのための生体信号誘導型強化学習：Godot サバイバルゲームにおいてオフラインのオルガノイド神経記録をポリシー入力として使用し、ペア評価を実施。 |
-| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) |  | Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news. |
+| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) | エージェント型コマースのプロトコルとツールを一覧 | 毎日厳選・更新: エージェント型コマースプロトコル (UCP, ACP, AP2, MCP, x402)、SDK、決済プロバイダー、オープンソース実装、最新ニュース。 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | UIがズレている？ガイド線を引いて余白を直す | アライメント調整用のエージェントスキル：インターフェースにガイド線を引き、線から外れているすべての項目を見つけ、パディングを修正します。 |
 | [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | AI コーディングエージェントに日本語を一文ずつ執筆させる | Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 全機能を含むStudioonepro7デスクトップ版 | Studioonepro7 Release: すべての機能が含まれた完全なデスクトップスイート |
@@ -156,8 +156,8 @@
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship デスクトッププレゼンソフト | Easy Worship Desktop: 合理化されたプレゼンテーションおよび礼拝計画ソフトウェア |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 向けデスクトップシェーダー調整ツール | Roblox 向け BloxShade: シェーダー制御を備えたデスクトップ強化スイート |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 最適化ツール | Ashampoo WinOptimizer Pro: 高度な Windows チューニングおよびシステム最適化スイート |
-| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer Alternative Access Tool - Streamlined Desktop Setup and Runtime Configuration |
-| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… |
+| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | Avid Media Composer代替セットアップおよび設定ツール | Avid Media Composer 代替アクセスツール - 合理化されたデスクトップ設定とランタイム構成 |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | Semgrepでコード内の資安リスクや機密漏洩を検知 | 高精度な Semgrep セキュリティルール — Python、JavaScript、Java、PHP 向けの 146 の汚染追跡およびシークレット検出ルールで、75 のプロバイダーをカバー。By Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | ステッカーに最大5秒の音声をローカル追加 | StikSound — WhatsApp 用 PNG ステッカーやアニメーション GIF に最大 5 秒の音声を追加（Windows、macOS &amp; Chrome 拡張機能、何もインストールせず 100% ローカル… |
-| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | MuseからWindowsファイルを安全に操作する | MuseLink は Muse を承認された Windows ファイルおよびオプションのサンドボックス化されたローカルコマンドに接続し、ガイド付きセットアップ、ワークスペースごとの ACL 分離、ローカル承認ダイアログ… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube向けAI動画編集ワークフロー | ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー |

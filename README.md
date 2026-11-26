@@ -66,13 +66,13 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… | 2026-11-25<br><sub>1.4 d</sub> | 1,257 | 889.8 |
+| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>Run and train an LLM directly in pure assembly | 2026-11-25<br><sub>1.4 d</sub> | 1,257 | 889.8 |
 | 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>App running slow? Let an agent rewrite the slow 5% | 2026-11-21<br><sub>5.1 d</sub> | 4,186 | 818.7 |
-| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… | 2026-11-25<br><sub>1.3 d</sub> | 596 | 464.6 |
-| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. | 2026-11-25<br><sub>1.3 d</sub> | 406 | 305.0 |
-| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>5.1 d</sub> | 1,317 | 260.0 |
+| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>Turn your coding agents into game developers | 2026-11-25<br><sub>1.3 d</sub> | 596 | 464.6 |
+| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>Draw interactive 3D explainers like engineering blueprints | 2026-11-25<br><sub>1.3 d</sub> | 406 | 305.0 |
+| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>A free open-source typing cat companion on your desktop | 2026-11-21<br><sub>5.1 d</sub> | 1,317 | 260.0 |
 | 6 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>Rebuild any game in another engine with identical play | 2026-11-25<br><sub>1.4 d</sub> | 292 | 202.3 |
-| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code | 2026-11-25<br><sub>1.0 d</sub> | 196 | 196.0 |
+| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>Design your UI on canvas and turn it into real code | 2026-11-25<br><sub>1.0 d</sub> | 196 | 196.0 |
 | 8 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>Find vulnerabilities before anyone else does | 2026-11-22<br><sub>4.0 d</sub> | 771 | 191.5 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>Keep a live native desktop pet on your screen | 2026-11-23<br><sub>3.7 d</sub> | 659 | 179.2 |
 | 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>Turn four pixel views into 3D sprites you can spin | 2026-11-20<br><sub>6.1 d</sub> | 1,024 | 167.4 |
@@ -452,7 +452,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 
 | # | Project | Created (UTC) | Total stars | Stars/day |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… | 2026-11-25<br><sub>1.3 d</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Spot leaks and security flaws across your code with Semgrep | 2026-11-25<br><sub>1.3 d</sub> | 125 | 99.3 |
 
 <details>
 <summary>Star history charts for this board</summary>
@@ -607,7 +607,7 @@ Read the boards below, or the full top 20 in latest/. To add a tracked project, 
 |---|---|---|---:|---:|
 | 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>Add up to 5 seconds of sound to your stickers | 2026-11-24<br><sub>1.8 d</sub> | 238 | 131.4 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>2.8 d</sub> | 128 | 45.3 |
-| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… | 2026-11-24<br><sub>2.5 d</sub> | 115 | 45.2 |
+| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>Let Muse access your Windows files with safe approval | 2026-11-24<br><sub>2.5 d</sub> | 115 | 45.2 |
 
 <details>
 <summary>Star history charts for this board</summary>

@@ -117,13 +117,13 @@
 
 | 项目 | 表里的一句话 | 完整介绍 |
 |---|---|---|
-| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) |  | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… |
+| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 用纯汇编直接运行和训练大模型 | 基于 100% 纯 x86-64 NASM 汇编的 Qwen3-0.6B 推理 (12 KB)、裸机可引导 OS (22 KB)，以及带有实时盲文 TUI 的从零开始 Mini-GPT 训练器 (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 代码太慢？让智能体只重写最慢的5% | 不要用 Rust 重写。重写慢的 5%：分析 Python、Node 或 Ruby 应用的性能，用你的编程智能体移植热点函数，证明它们的行为相… |
-| [nexu-io/opengame](https://github.com/nexu-io/opengame) |  | The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… |
-| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) |  | Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) | 让代码智能体直接帮你做游戏 | 超级游戏智能体 —— 面向 AI 智能体的 Unity &amp; Unreal，拥有 100+ 款可二创的爆款游戏。将 20+ 个编程智能体 (Claude Code, Codex, DeepSeek, etc.) 转化为… |
+| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 像工程图纸一样画出交互式3D说明页 | Inkworks：一个用于生成类似工程图纸风格的交互式 3D 原理展示页面的智能体技能。 |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | 在桌面陪伴你敲代码的免费开源打字猫 | KuroCat —— 免费开源的 3D/2D 桌面打字猫 &amp; AI 编程伴侣 (Bongo Cat 替代品 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 把任何游戏逆向移植并保证每帧手感一致 | 逆向工程任何游戏，在任何引擎中重建它（web、Rust、Godot），并逐帧证明重建版本具有相同的玩法。在公开的 GAME.md… 中提供行为规范 |
-| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) |  | Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code |
+| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 在画布上画好界面直接变成前端代码 | 适用于 Claude Code、Codex 和 Cursor 的免费前端设计技能：在 UX Pilot 画布上设计您的 UI，然后在代码中构建它 |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 赶在别人发现前，快速找出系统漏洞 | 在别人之前找出漏洞。一款快速且 100% Rust 编写的漏洞扫描器：支持 XSS、SQL 注入、泄露的密钥、依赖 CVE 以及 AI 智能体配置。 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 在桌面养一只随时互动的小萌猫 | KuroCat — 免费开源原生桌面猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Swift/C++，802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 四张像素画直接变能旋转的伪3D | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
@@ -134,7 +134,7 @@
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 删掉冗余代码，测试能通过才保留 | 代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | 让 AI 智能体掌握靠证据推进研究的技能 | 用于证据驱动型研究、实验和有界优化的便携式智能体技能 |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 用类脑神经信号训练智能体打生存游戏 | 面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 |
-| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) |  | Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news. |
+| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) | 一站查全智能体式商业协议与支付工具 | 每日精选与更新：智能体式商业协议 (UCP, ACP, AP2, MCP, x402)、SDK、支付提供商、开源实现以及最新资讯。 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
 | [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | 让 AI 带着写作意图逐句写日语 | 让 Claude Code、Codex、Antigravity 等 AI 编码智能体附带写作意图与句子功能逐句撰写并审查日文文章的技能和浏览应用 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Studioonepro7发布，含全功能桌面套件 | Studioonepro7 Release：包含所有功能的完整桌面套件 |
@@ -156,8 +156,8 @@
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 桌面演示与仪式规划软件 | Easy Worship Desktop: 精简的演示与礼拜规划软件 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面着色器控制增强套件 | 适用于 Roblox 的 BloxShade：带有着色器控制的桌面增强套件 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 调优工具 | Ashampoo WinOptimizer Pro：高级 Windows 调优与系统优化套件 |
-| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer Alternative Access Tool - Streamlined Desktop Setup and Runtime Configuration |
-| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… |
+| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer 替代访问工具 - 简化的桌面设置和运行时配置 |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | 高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 给表情贴纸加上最多5秒的专属声音 | StikSound — 为你的 WhatsApp PNG 贴纸和 GIF 动图添加长达 5 秒的声音（Windows、macOS &amp; Chrome 扩展，100% 本地，无需安装任… |
-| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | 让 Muse 安全访问你的本地文件 | MuseLink 将 Muse 连接到授权的 Windows 文件和可选的沙盒本地命令，具有向导式设置、按工作区 ACL 隔离、本地审批对话框… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |

@@ -66,13 +66,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… | 2026-11-25<br><sub>1.4일</sub> | 1,257 | 889.8 |
+| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>순수 어셈블리로 LLM을 직접 실행하고 학습 | 2026-11-25<br><sub>1.4일</sub> | 1,257 | 889.8 |
 | 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>5.1일</sub> | 4,186 | 818.7 |
-| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… | 2026-11-25<br><sub>1.3일</sub> | 596 | 464.6 |
-| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. | 2026-11-25<br><sub>1.3일</sub> | 406 | 305.0 |
-| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>5.1일</sub> | 1,317 | 260.0 |
+| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>코딩 에이전트를 게임 개발자로 전환 | 2026-11-25<br><sub>1.3일</sub> | 596 | 464.6 |
+| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬 | 2026-11-25<br><sub>1.3일</sub> | 406 | 305.0 |
+| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>데스크톱에서 타이핑을 함께하는 무료 오픈 소스 고양이 | 2026-11-21<br><sub>5.1일</sub> | 1,317 | 260.0 |
 | 6 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>어떤 게임이든 다른 엔진으로 똑같이 재구현 | 2026-11-25<br><sub>1.4일</sub> | 292 | 202.3 |
-| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code | 2026-11-25<br><sub>1.0일</sub> | 196 | 196.0 |
+| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>캔버스에서 UI를 그리고 바로 코드로 만드는 스킬 | 2026-11-25<br><sub>1.0일</sub> | 196 | 196.0 |
 | 8 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>4.0일</sub> | 771 | 191.5 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>화면에 띄워두고 함께하는 데스크톱 고양이 | 2026-11-23<br><sub>3.7일</sub> | 659 | 179.2 |
 | 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>도트 그림 네 장을 회전하는 의사 3D로 변환 | 2026-11-20<br><sub>6.1일</sub> | 1,024 | 167.4 |
@@ -452,7 +452,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… | 2026-11-25<br><sub>1.3일</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지 | 2026-11-25<br><sub>1.3일</sub> | 125 | 99.3 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -607,7 +607,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 |---|---|---|---:|---:|
 | 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>스티커에 최대 5초 길이의 소리를 추가 | 2026-11-24<br><sub>1.8일</sub> | 238 | 131.4 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>2.8일</sub> | 128 | 45.3 |
-| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… | 2026-11-24<br><sub>2.5일</sub> | 115 | 45.2 |
+| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>Muse가 안전하게 승인받고 로컬 파일을 다루게 하세요 | 2026-11-24<br><sub>2.5일</sub> | 115 | 45.2 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

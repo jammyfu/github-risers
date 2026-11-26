@@ -66,13 +66,13 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… | 2026-11-25<br><sub>1.4 天</sub> | 1,257 | 889.8 |
+| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>用纯汇编直接运行和训练大模型 | 2026-11-25<br><sub>1.4 天</sub> | 1,257 | 889.8 |
 | 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>代码太慢？让智能体只重写最慢的5% | 2026-11-21<br><sub>5.1 天</sub> | 4,186 | 818.7 |
-| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… | 2026-11-25<br><sub>1.3 天</sub> | 596 | 464.6 |
-| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. | 2026-11-25<br><sub>1.3 天</sub> | 406 | 305.0 |
-| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>5.1 天</sub> | 1,317 | 260.0 |
+| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>让代码智能体直接帮你做游戏 | 2026-11-25<br><sub>1.3 天</sub> | 596 | 464.6 |
+| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>像工程图纸一样画出交互式3D说明页 | 2026-11-25<br><sub>1.3 天</sub> | 406 | 305.0 |
+| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>在桌面陪伴你敲代码的免费开源打字猫 | 2026-11-21<br><sub>5.1 天</sub> | 1,317 | 260.0 |
 | 6 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>把任何游戏逆向移植并保证每帧手感一致 | 2026-11-25<br><sub>1.4 天</sub> | 292 | 202.3 |
-| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code | 2026-11-25<br><sub>1.0 天</sub> | 196 | 196.0 |
+| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>在画布上画好界面直接变成前端代码 | 2026-11-25<br><sub>1.0 天</sub> | 196 | 196.0 |
 | 8 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>赶在别人发现前，快速找出系统漏洞 | 2026-11-22<br><sub>4.0 天</sub> | 771 | 191.5 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>在桌面养一只随时互动的小萌猫 | 2026-11-23<br><sub>3.7 天</sub> | 659 | 179.2 |
 | 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四张像素画直接变能旋转的伪3D | 2026-11-20<br><sub>6.1 天</sub> | 1,024 | 167.4 |
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -607,7 +607,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>给表情贴纸加上最多5秒的专属声音 | 2026-11-24<br><sub>1.8 天</sub> | 238 | 131.4 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>2.8 天</sub> | 128 | 45.3 |
-| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… | 2026-11-24<br><sub>2.5 天</sub> | 115 | 45.2 |
+| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>让 Muse 安全访问你的本地文件 | 2026-11-24<br><sub>2.5 天</sub> | 115 | 45.2 |
 
 <details>
 <summary>本榜星标历史曲线</summary>

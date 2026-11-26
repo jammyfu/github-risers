@@ -66,13 +66,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… | 2026-11-25<br><sub>1.4 日</sub> | 1,257 | 889.8 |
+| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>純粋なアセンブリでLLMを直接動かして学習 | 2026-11-25<br><sub>1.4 日</sub> | 1,257 | 889.8 |
 | 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>アプリが遅い？遅い5%だけエージェントで書き換える | 2026-11-21<br><sub>5.1 日</sub> | 4,186 | 818.7 |
-| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… | 2026-11-25<br><sub>1.3 日</sub> | 596 | 464.6 |
-| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. | 2026-11-25<br><sub>1.3 日</sub> | 406 | 305.0 |
-| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>5.1 日</sub> | 1,317 | 260.0 |
+| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>コーディングエージェントをゲーム開発者に変える | 2026-11-25<br><sub>1.3 日</sub> | 596 | 464.6 |
+| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>設計図のように動く3D解説ページを描くスキル | 2026-11-25<br><sub>1.3 日</sub> | 406 | 305.0 |
+| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>デスクトップで一緒にタイピングする無料のオープンソース猫 | 2026-11-21<br><sub>5.1 日</sub> | 1,317 | 260.0 |
 | 6 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>あらゆるゲームを別エンジンに完全再現移植 | 2026-11-25<br><sub>1.4 日</sub> | 292 | 202.3 |
-| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code | 2026-11-25<br><sub>1.0 日</sub> | 196 | 196.0 |
+| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>キャンバスでUIを描いてそのままコードに変換するスキル | 2026-11-25<br><sub>1.0 日</sub> | 196 | 196.0 |
 | 8 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>誰かに突かれる前に、脆弱性をすばやく見つける | 2026-11-22<br><sub>4.0 日</sub> | 771 | 191.5 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>画面上に常駐するデスクトップペット猫 | 2026-11-23<br><sub>3.7 日</sub> | 659 | 179.2 |
 | 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>4枚のドット絵を回せる疑似3Dにする | 2026-11-20<br><sub>6.1 日</sub> | 1,024 | 167.4 |
@@ -452,7 +452,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… | 2026-11-25<br><sub>1.3 日</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Semgrepでコード内の資安リスクや機密漏洩を検知 | 2026-11-25<br><sub>1.3 日</sub> | 125 | 99.3 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -607,7 +607,7 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 |---|---|---|---:|---:|
 | 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>ステッカーに最大5秒の音声をローカル追加 | 2026-11-24<br><sub>1.8 日</sub> | 238 | 131.4 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>2.8 日</sub> | 128 | 45.3 |
-| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… | 2026-11-24<br><sub>2.5 日</sub> | 115 | 45.2 |
+| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseからWindowsファイルを安全に操作する | 2026-11-24<br><sub>2.5 日</sub> | 115 | 45.2 |
 
 <details>
 <summary>このランキングのスター推移</summary>

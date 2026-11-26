@@ -66,13 +66,13 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… | 2026-11-25<br><sub>1.4 天</sub> | 1,257 | 889.8 |
+| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>基於 100% 純 x86-64 NASM 組合語言的 Qwen3-0.6B 推論 (12 KB)、裸機可開機 OS (22 KB)，以及帶有即時點字 TUI 的從零開始 Mini-GPT 訓練器 (32 KB)… | 2026-11-25<br><sub>1.4 天</sub> | 1,257 | 889.8 |
 | 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>程式太慢？讓代理只重寫最慢的5% | 2026-11-21<br><sub>5.1 天</sub> | 4,186 | 818.7 |
-| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… | 2026-11-25<br><sub>1.3 天</sub> | 596 | 464.6 |
-| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. | 2026-11-25<br><sub>1.3 天</sub> | 406 | 305.0 |
-| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>5.1 天</sub> | 1,317 | 260.0 |
+| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>讓程式碼代理直接幫你做遊戲 | 2026-11-25<br><sub>1.3 天</sub> | 596 | 464.6 |
+| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>像工程圖紙一樣畫出互動式3D說明頁 | 2026-11-25<br><sub>1.3 天</sub> | 406 | 305.0 |
+| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>在桌面陪伴你敲程式碼的免費開源打字貓 | 2026-11-21<br><sub>5.1 天</sub> | 1,317 | 260.0 |
 | 6 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>把任何遊戲逆向移植並保證每幀手感一致 | 2026-11-25<br><sub>1.4 天</sub> | 292 | 202.3 |
-| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code | 2026-11-25<br><sub>1.0 天</sub> | 196 | 196.0 |
+| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>在畫布上畫好介面直接變成前端程式碼 | 2026-11-25<br><sub>1.0 天</sub> | 196 | 196.0 |
 | 8 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>趕在別人發現前，快速找出系統漏洞 | 2026-11-22<br><sub>4.0 天</sub> | 771 | 191.5 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>在桌面養一隻隨時互動的小萌貓 | 2026-11-23<br><sub>3.7 天</sub> | 659 | 179.2 |
 | 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>四張像素畫直接變能旋轉的偽3D | 2026-11-20<br><sub>6.1 天</sub> | 1,024 | 167.4 |
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
+| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi… | 2026-11-25<br><sub>1.3 天</sub> | 125 | 99.3 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -607,7 +607,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 |---|---|---|---:|---:|
 | 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>給貼圖加上最多5秒的專屬聲音 | 2026-11-24<br><sub>1.8 天</sub> | 238 | 131.4 |
 | 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>2.8 天</sub> | 128 | 45.3 |
-| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… | 2026-11-24<br><sub>2.5 天</sub> | 115 | 45.2 |
+| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>讓 Muse 安全存取你的本機檔案 | 2026-11-24<br><sub>2.5 天</sub> | 115 | 45.2 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

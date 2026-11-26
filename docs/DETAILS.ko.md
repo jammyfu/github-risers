@@ -117,13 +117,13 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
-| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) |  | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly… |
+| [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 순수 어셈블리로 LLM을 직접 실행하고 학습 | 100% 순수 x86-64 NASM 어셈블리로 구현된 Qwen3-0.6B 추론 (12 KB), 베어메탈 부팅 가능 OS (22 KB), 실시간 점자 TUI가 포함된 밑바닥부터 시작하는 Mini-GPT 트레이너 (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | Rust로 다시 작성하지 마세요. 느린 5%를 다시 작성하세요: Python, Node 또는 Ruby 앱을 프로파일링하고, 코딩 에이전트로 핫 함수를 포팅하고, 동일하게 동작함을 증… |
-| [nexu-io/opengame](https://github.com/nexu-io/opengame) |  | The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a… |
-| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) |  | Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet. |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) | 코딩 에이전트를 게임 개발자로 전환 | 슈퍼 게임 에이전트 — 100+ 개 이상의 입소문 게임을 리믹스할 수 있는 AI 에이전트용 Unity &amp; Unreal. 20+ 개 이상의 코딩 에이전트 (Claude Code, Codex, DeepSeek, etc.)를… |
+| [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬 | Inkworks: 엔지니어링 도면처럼 그려진 인터랙티브 3D 작동 원리 페이지를 위한 에이전트 스킬. |
+| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | 데스크톱에서 타이핑을 함께하는 무료 오픈 소스 고양이 | KuroCat — 무료 오픈 소스 3D/2D 데스크톱 타이핑 고양이 &amp; AI 코딩 동반자 (Bongo Cat 대체재 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 어떤 게임이든 다른 엔진으로 똑같이 재구현 | 모든 게임을 리버스 엔지니어링하고, 모든 엔진(web, Rust, Godot)으로 재구축하며, 프레임 단위로 동일하게 작동함을 입증합니다. 오픈 GAME.md…의 동작 사양 |
-| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) |  | Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code |
+| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 캔버스에서 UI를 그리고 바로 코드로 만드는 스킬 | Claude Code, Codex 및 Cursor용 무료 프론트엔드 디자인 스킬: UX Pilot 캔버스에서 UI를 디자인한 후 코드에서 빌드합니다 |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 남들이 찾기 전에 취약점을 빠르게 찾아내기 | 다른 사람이 찾기 전에 취약점을 찾아내세요. 빠른 100% Rust 취약점 스캐너: XSS, SQL 삽입, 유출된 비밀, 의존성 CVE 및 AI 에이전트 설정. |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 화면에 띄워두고 함께하는 데스크톱 고양이 | KuroCat — 무료 오픈 소스 네이티브 데스크톱 고양이 펫 &amp; OBS 오버레이 (Bongo Cat 대안, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 도트 그림 네 장을 회전하는 의사 3D로 변환 | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
@@ -134,7 +134,7 @@
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 기존 테스트가 통과하는 선에서 불필요한 코드와 파일을 정리 | 더 적은 코드로 동일한 테스트 통과: 모든 코드베이스에서 불필요한 코드, 파일, 종속성 및 에셋을 삭제하고 자체 테스트가 계속 통과하는 경우에만 각 삭제를 유지합니다. |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | AI 에이전트가 근거 기반 연구와 실험을 수행하도록 돕는 스킬 | 증거 기반 연구, 실험 및 경계 최적화를 위한 휴대용 에이전트 스킬 |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 뇌 오가노이드 신경 신호로 생존 게임 속 LLM 에이전트를 유도 | LLM 에이전트를 위한 생체 신호 유도 강화 학습: Godot 생존 게임에서 오프라인 오가노이드 신경 기록을 정책 입력으로 활용하며, 쌍체 평가를 포함합니다. |
-| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) |  | Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news. |
+| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) | 에이전틱 커머스 프로토콜과 도구를 한눈에 확인 | 매일 선별 및 업데이트: 에이전틱 커머스 프로토콜 (UCP, ACP, AP2, MCP, x402), SDK, 결제 제공업체, 오픈 소스 구현 및 최신 뉴스. |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | UI 정렬이 어긋날 때 가이드선으로 여백 수정 | 정렬 패스를 위한 에이전트 스킬: 인터페이스에 가이드 라인을 그리고, 라인을 벗어난 모든 항목을 찾아 패딩을 수정합니다. |
 | [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | AI 코딩 에이전트가 일본어 문장을 한 줄씩 작성하고 검토 | Claude Code, Codex, Antigravity 등의 AI 코딩 에이전트가 집필 의도와 문장 기능을 바탕으로 한 문장씩 일본어 문장을 작성 및 검토하도록 하는 스킬과 뷰어 앱 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군 |
@@ -156,8 +156,8 @@
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 데스크톱 프레젠테이션 소프트웨어 | Easy Worship Desktop: 간소화된 프레젠테이션 및 예배 계획 소프트웨어 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | 셰이더 제어 지원 Roblox 데스크톱 향상 도구 | Roblox용 BloxShade: 셰이더 제어 기능을 갖춘 데스크톱 향상 스위트 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 시스템 최적화 도구 | Ashampoo WinOptimizer Pro: 고급 Windows 튜닝 및 시스템 최적화 제품군 |
-| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) |  | Avid Media Composer Alternative Access Tool - Streamlined Desktop Setup and Runtime Configuration |
-| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) |  | High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, JavaScript, Java, PHP covering 75 providers. By Robusta Studi… |
+| [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | Avid Media Composer 대체 설치 및 설정 도구 | Avid Media Composer 대안 액세스 도구 - 간소화된 데스크톱 설정 및 런타임 구성 |
+| [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지 | 고정밀 Semgrep 보안 규칙 — 75개 공급업체를 포괄하는 Python, JavaScript, Java, PHP용 146개 오염 추적 및 비밀 탐지 규칙. By Robusta Studi… |
 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 스티커에 최대 5초 길이의 소리를 추가 | StikSound — WhatsApp용 PNG 스티커 및 애니메이션 GIF에 최대 5초 길이의 사운드를 추가하세요 (Windows, macOS &amp; Chrome 확장 프로그램, 설치 없이 100% 로컬…) |
-| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized Windows files and optional sandboxed local commands, with guided setup, per-workspace ACL isolation, local approval dialog… |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | Muse가 안전하게 승인받고 로컬 파일을 다루게 하세요 | MuseLink는 안내형 설정, 워크스페이스별 ACL 격리, 로컬 승인 대화상자를 통해 Muse를 승인된 Windows 파일 및 선택적 샌드박스 로컬 명령에 연결합니다… |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube용 AI 동영상 편집 워크플로 | 스토리보드, 캡처 및 애니메이션: YouTube용 AI 편집 워크플로 |
