@@ -69,13 +69,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 | 1 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>코딩 에이전트를 게임 개발자로 전환 | 2026-11-25<br><sub>2.3일</sub> | 2,008 | 885.4 |
 | 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>순수 어셈블리로 LLM을 직접 실행하고 학습 | 2026-11-25<br><sub>2.4일</sub> | 1,958 | 816.6 |
 | 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>6.1일</sub> | 4,417 | 724.3 |
-| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. | 2026-11-26<br><sub>1.0일</sub> | 529 | 529.0 |
-| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>6.0일</sub> | 1,746 | 288.6 |
+| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>데이터 브로커에게 개인정보 삭제 요청을 대신 발송 | 2026-11-26<br><sub>1.0일</sub> | 529 | 529.0 |
+| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>타이핑할 때 함께하는 오픈 소스 데스크톱 고양이 | 2026-11-21<br><sub>6.0일</sub> | 1,746 | 288.6 |
 | 6 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬 | 2026-11-25<br><sub>2.3일</sub> | 522 | 225.4 |
 | 7 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>5.0일</sub> | 818 | 163.2 |
 | 8 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>어떤 게임이든 다른 엔진으로 똑같이 재구현 | 2026-11-25<br><sub>2.4일</sub> | 395 | 162.6 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>화면에 띄워두고 함께하는 데스크톱 고양이 | 2026-11-23<br><sub>4.7일</sub> | 753 | 161.5 |
-| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code | 2026-11-23<br><sub>4.2일</sub> | 599 | 141.0 |
+| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>프롬프트를 정식 검증된 상용 수준 코드로 완성하는 스킬 | 2026-11-23<br><sub>4.2일</sub> | 599 | 141.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -452,11 +452,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>Deploy Avast Premium Security Fadalan, then document configuration and runtime status. | 2026-11-27<br><sub>1.0일</sub> | 138 | 138.0 |
+| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>Avast 프리미엄 보안 배포 및 실행 상태 기록 | 2026-11-27<br><sub>1.0일</sub> | 138 | 138.0 |
 | 2 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지 | 2026-11-25<br><sub>2.2일</sub> | 153 | 68.2 |
-| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>Agentic ASPM, the open source Snyk alternative. A full security audit in one command | 2026-11-23<br><sub>4.1일</sub> | 117 | 28.8 |
-| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… | 2026-11-21<br><sub>6.0일</sub> | 138 | 22.8 |
-| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. | 2026-11-22<br><sub>5.4일</sub> | 105 | 19.4 |
+| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>명령어 하나로 끝내는 오픈 소스 앱 보안 감사 | 2026-11-23<br><sub>4.1일</sub> | 117 | 28.8 |
+| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>Claude Code로 모의 침투를 자동 수행 | 2026-11-21<br><sub>6.0일</sub> | 138 | 22.8 |
+| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>유출된 개인정보를 로컬에서 찾아 안전하게 삭제 | 2026-11-22<br><sub>5.4일</sub> | 105 | 19.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -617,11 +617,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>交互式电子电路学堂：用可以动手拨弄的仿真学电路 | 2026-11-24<br><sub>3.5일</sub> | 510 | 145.9 |
-| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… | 2026-11-24<br><sub>3.5일</sub> | 228 | 64.6 |
+| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>직접 만져보는 시뮬레이션으로 배우는 전자 회로 | 2026-11-24<br><sub>3.5일</sub> | 510 | 145.9 |
+| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>Muse를 승인된 로컬 파일과 안전하게 연결 | 2026-11-24<br><sub>3.5일</sub> | 228 | 64.6 |
 | 3 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>3.8일</sub> | 128 | 33.6 |
-| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. | 2026-11-23<br><sub>4.6일</sub> | 109 | 23.6 |
-| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… | 2026-11-23<br><sub>4.1일</sub> | 116 | 28.5 |
+| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>잔여 파일을 지우고 복구하는 오픈 소스 프로그램 | 2026-11-23<br><sub>4.6일</sub> | 109 | 23.6 |
+| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>스크롤 인터랙션 웹용 Claude 스킬 | 2026-11-23<br><sub>4.1일</sub> | 116 | 28.5 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -926,13 +926,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. | 2026-11-27<br><sub>1.0일</sub> | 138 | 138.0 |
-| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>A hands-on gallery of interactive UI and motion | 2026-11-26<br><sub>1.3일</sub> | 121 | 92.8 |
-| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>Build modular motion design workflows in After Effects with structured node-based composition. | 2026-11-27<br><sub>1.0일</sub> | 146 | 146.0 |
-| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>Vector design tools refined for precision workflows - built to accelerate complex illustration | 2026-11-27<br><sub>1.0일</sub> | 146 | 146.0 |
-| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. | 2026-11-27<br><sub>1.0일</sub> | 143 | 143.0 |
+| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>디지털 드로잉을 위한 맞춤형 Krita 작업 공간 | 2026-11-27<br><sub>1.0일</sub> | 138 | 138.0 |
+| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>직접 체험하는 인터랙티브 UI와 모션 갤러리 | 2026-11-26<br><sub>1.3일</sub> | 121 | 92.8 |
+| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>After Effects 노드 기반 모션 워크플로 | 2026-11-27<br><sub>1.0일</sub> | 146 | 146.0 |
+| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>정밀 워크플로를 위한 벡터 디자인 도구 | 2026-11-27<br><sub>1.0일</sub> | 146 | 146.0 |
+| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>Illustrator용 Kalin 벡터 워크플로 | 2026-11-27<br><sub>1.0일</sub> | 143 | 143.0 |
 | 6 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube용 AI 동영상 편집 워크플로 | 2026-11-21<br><sub>6.0일</sub> | 338 | 56.5 |
-| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>Real-time 3D texture painting with layer-based material workflows. | 2026-11-21<br><sub>6.7일</sub> | 151 | 22.6 |
+| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>레이어 워크플로 기반 실시간 3D 텍스처 페인팅 | 2026-11-21<br><sub>6.7일</sub> | 151 | 22.6 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>

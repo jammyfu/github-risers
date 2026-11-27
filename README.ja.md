@@ -69,13 +69,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 | 1 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>コーディングエージェントをゲーム開発者に変える | 2026-11-25<br><sub>2.3 日</sub> | 2,008 | 885.4 |
 | 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>純粋なアセンブリでLLMを直接動かして学習 | 2026-11-25<br><sub>2.4 日</sub> | 1,958 | 816.6 |
 | 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>アプリが遅い？遅い5%だけエージェントで書き換える | 2026-11-21<br><sub>6.1 日</sub> | 4,417 | 724.3 |
-| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. | 2026-11-26<br><sub>1.0 日</sub> | 529 | 529.0 |
-| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>6.0 日</sub> | 1,746 | 288.6 |
+| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>データ業者への個人情報削除申請を自動で代行 | 2026-11-26<br><sub>1.0 日</sub> | 529 | 529.0 |
+| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>タイピングに合わせて動くオープンソース桌面の猫 | 2026-11-21<br><sub>6.0 日</sub> | 1,746 | 288.6 |
 | 6 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>設計図のように動く3D解説ページを描くスキル | 2026-11-25<br><sub>2.3 日</sub> | 522 | 225.4 |
 | 7 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>誰かに突かれる前に、脆弱性をすばやく見つける | 2026-11-22<br><sub>5.0 日</sub> | 818 | 163.2 |
 | 8 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>あらゆるゲームを別エンジンに完全再現移植 | 2026-11-25<br><sub>2.4 日</sub> | 395 | 162.6 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>画面上に常駐するデスクトップペット猫 | 2026-11-23<br><sub>4.7 日</sub> | 753 | 161.5 |
-| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code | 2026-11-23<br><sub>4.2 日</sub> | 599 | 141.0 |
+| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>プロンプトを検証済みの本番向けコードに変換するスキル | 2026-11-23<br><sub>4.2 日</sub> | 599 | 141.0 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -452,11 +452,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>Deploy Avast Premium Security Fadalan, then document configuration and runtime status. | 2026-11-27<br><sub>1.0 日</sub> | 138 | 138.0 |
+| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>Avast プレミアムセキュリティの配備と状態記録 | 2026-11-27<br><sub>1.0 日</sub> | 138 | 138.0 |
 | 2 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Semgrepでコード内の資安リスクや機密漏洩を検知 | 2026-11-25<br><sub>2.2 日</sub> | 153 | 68.2 |
-| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>Agentic ASPM, the open source Snyk alternative. A full security audit in one command | 2026-11-23<br><sub>4.1 日</sub> | 117 | 28.8 |
-| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… | 2026-11-21<br><sub>6.0 日</sub> | 138 | 22.8 |
-| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. | 2026-11-22<br><sub>5.4 日</sub> | 105 | 19.4 |
+| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>コマンド一発でアプリのオープンソースセキュリティ監査 | 2026-11-23<br><sub>4.1 日</sub> | 117 | 28.8 |
+| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>Claude Codeで自律ペネトレーションテストを実行 | 2026-11-21<br><sub>6.0 日</sub> | 138 | 22.8 |
+| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>流出した個人プライバシーをローカルで削除 | 2026-11-22<br><sub>5.4 日</sub> | 105 | 19.4 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -617,11 +617,11 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>交互式电子电路学堂：用可以动手拨弄的仿真学电路 | 2026-11-24<br><sub>3.5 日</sub> | 510 | 145.9 |
-| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… | 2026-11-24<br><sub>3.5 日</sub> | 228 | 64.6 |
+| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>いじって学べるシミュレーション電子回路 | 2026-11-24<br><sub>3.5 日</sub> | 510 | 145.9 |
+| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>Museを承認済みローカルファイルと安全に接続 | 2026-11-24<br><sub>3.5 日</sub> | 228 | 64.6 |
 | 3 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>3.8 日</sub> | 128 | 33.6 |
-| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. | 2026-11-23<br><sub>4.6 日</sub> | 109 | 23.6 |
-| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… | 2026-11-23<br><sub>4.1 日</sub> | 116 | 28.5 |
+| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>削除残しも消せて復元できるオープンソースツール | 2026-11-23<br><sub>4.6 日</sub> | 109 | 23.6 |
+| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>スクロール演出Web向けClaudeスキル | 2026-11-23<br><sub>4.1 日</sub> | 116 | 28.5 |
 
 <details>
 <summary>このランキングのスター推移</summary>
@@ -926,13 +926,13 @@ GitHub Trending は GitHub 公式のページです。GitHub Risers は独立し
 
 | # | プロジェクト | 作成日（UTC） | 総スター数 | スター/日 |
 |---|---|---|---:|---:|
-| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. | 2026-11-27<br><sub>1.0 日</sub> | 138 | 138.0 |
-| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>A hands-on gallery of interactive UI and motion | 2026-11-26<br><sub>1.3 日</sub> | 121 | 92.8 |
-| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>Build modular motion design workflows in After Effects with structured node-based composition. | 2026-11-27<br><sub>1.0 日</sub> | 146 | 146.0 |
-| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>Vector design tools refined for precision workflows - built to accelerate complex illustration | 2026-11-27<br><sub>1.0 日</sub> | 146 | 146.0 |
-| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. | 2026-11-27<br><sub>1.0 日</sub> | 143 | 143.0 |
+| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>デジタル作画のための厳選Krita環境 | 2026-11-27<br><sub>1.0 日</sub> | 138 | 138.0 |
+| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>実際に触って試せるUIとモーション集 | 2026-11-26<br><sub>1.3 日</sub> | 121 | 92.8 |
+| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>After Effects用ノード式ワークフロー | 2026-11-27<br><sub>1.0 日</sub> | 146 | 146.0 |
+| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>精密ワークフロー向けベクター設計ツール | 2026-11-27<br><sub>1.0 日</sub> | 146 | 146.0 |
+| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>Illustrator用Kalinベクターワークフロー | 2026-11-27<br><sub>1.0 日</sub> | 143 | 143.0 |
 | 6 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube向けAI動画編集ワークフロー | 2026-11-21<br><sub>6.0 日</sub> | 338 | 56.5 |
-| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>Real-time 3D texture painting with layer-based material workflows. | 2026-11-21<br><sub>6.7 日</sub> | 151 | 22.6 |
+| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>レイヤーワークフローによるリアルタイム3D描画 | 2026-11-21<br><sub>6.7 日</sub> | 151 | 22.6 |
 
 <details>
 <summary>このランキングのスター推移</summary>

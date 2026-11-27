@@ -120,20 +120,20 @@
 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | コーディングエージェントをゲーム開発者に変える | スーパーゲームエージェント — 100+ 以上のバイラルゲームをリミックスできる、AI エージェントのための Unity &amp; Unreal。20+ 以上のコーディングエージェント (Claude Code, Codex, DeepSeek, etc.) を… |
 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 純粋なアセンブリでLLMを直接動かして学習 | 100% 純粋な x86-64 NASM アセンブリによる Qwen3-0.6B 推論 (12 KB)、ベアメタル起動可能 OS (22 KB)、およびライブ点字 TUI を備えたゼロからの Mini-GPT トレーナー (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | アプリが遅い？遅い5%だけエージェントで書き換える | Rustで書き直さないでください。遅い5%を書き直す：Python、Node、Rubyアプリをプロファイリングし、コーディングエージェントでホット関数を移植し、同じように動作することを証明… |
-| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) |  | fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. |
-| [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) | データ業者への個人情報削除申請を自動で代行 | fck_data_brokers.py は、あなたに代わってデータブローカーにオプトアウトおよび削除リクエストを送信する、無料のオープンソース Python スクリプトです。 |
+| [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) | タイピングに合わせて動くオープンソース桌面の猫 | KuroCat — 無料のオープンソース 3D/2D デスクトップタイピングキャット &amp; AI コーディングコンパニオン（Bongo Cat の代替 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 設計図のように動く3D解説ページを描くスキル | Inkworks: 設計図のように描かれたインタラクティブな 3D 仕組み解説ページを作成するためのエージェントスキル。 |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 誰かに突かれる前に、脆弱性をすばやく見つける | 誰かに見つけられる前に脆弱性を発見。高速な 100% Rust 製の脆弱性スキャナー：XSS、SQLインジェクション、漏洩したシークレット、依存関係のCVE、AI エージェントの設定。 |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | あらゆるゲームを別エンジンに完全再現移植 | あらゆるゲームをリバースエンジニアリングし、任意のエンジン（web、Rust、Godot）で再構築して、再構築版がフレームごとに同じ挙動であることを証明。オープンな GAME.md… の動作仕様 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 画面上に常駐するデスクトップペット猫 | KuroCat — 無料オープンソースネイティブデスクトップ猫ペット &amp; OBS オーバーレイ（Bongo Cat 代替、Swift/C++、802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
-| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) |  | 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code |
-| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) |  | Agent skill that draws an original icon library matching your design system (React, Vue, Svelte, React Native, SVG). |
+| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | プロンプトを検証済みの本番向けコードに変換するスキル | 100x は元 Cursor エンジニアによるスキルで、プロンプトを形式検証済みの本番環境対応コードに変換します |
+| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) | デザインシステムに合わせた独自アイコン一式を描画 | デザインシステムに一致する独自のアイコンライブラリを描画するエージェントスキル（React、Vue、Svelte、React Native、SVG）。 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | Linux 上で AI エージェント用 iOS シミュレータを動かす | Linux 上の AI エージェント向け iOS シミュレーター。x86Sim のエージェントレイヤー。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | デスクトップで動くオープンソースのローカルAIエージェント | デスクトップ向けのオープンソース、ローカル優先AIエージェントチーム：マルチエージェントグループチャット、コンピュータ使用、ブラウザ、MCP、ルーチン、承認。macOS、Windows、Linux + A… |
 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | キャンバスでUIを描いてそのままコードに変換するスキル | Claude Code、Codex、Cursor 向けの無料フロントエンド設計スキル: UX Pilot キャンバス上で UI をデザインし、コード内でそれを構築します |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | テストが通る範囲で不要なコードやファイルを安全に削除 | コードを減らし、同じテストを合格：あらゆるコードベースのデッドコード、ファイル、依存関係、アセットを削除し、自身のテストが合格し続ける場合のみ各削減を維持。 |
 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | マップから見込み客を探し自動提案して集金 | Google Maps から Pix までのオープンソース見込み顧客開拓：Maps でビジネスを見つけ、それぞれの名前でプレビューサイトを生成し、WhatsApp でチャットして Pix、Mercado P… で請求 |
-| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) |  | Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of to… |
+| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) | 常駐して目標に向かい自律行動する企業向けエージェント | Persistent Agent は、プロアクティブで常時稼働する目標指向のエージェントです。企業向けの Muse や Instinct のようなものです。メモリ、ブラウザの使用、数百ものツ…を備えています |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 脳オルガノイド信号で LLM エージェントを生息ゲームで誘導 | LLM エージェントのための生体信号誘導型強化学習：Godot サバイバルゲームにおいてオフラインのオルガノイド神経記録をポリシー入力として使用し、ペア評価を実施。 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | AI エージェントに根拠ある検証と研究を進めさせるスキル | 証拠に基づいた研究、実験、および有界最適化のためのポータブルエージェントスキル |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | UIがズレている？ガイド線を引いて余白を直す | アライメント調整用のエージェントスキル：インターフェースにガイド線を引き、線から外れているすべての項目を見つけ、パディングを修正します。 |
@@ -148,7 +148,7 @@
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 bot Discord連携 | Discord および Telegram 向けのコミュニティ主導型 MetaTrader 5 bot、deskto への親しみやすさを搭載 |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 作図・ベクターグラフィック作成アプリ | Microsoft Visio: 作図およびベクターグラフィックスデスクトップアプリケーション |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics データ分析機能 | IBM SPSS Statistics: 高度なデータ分析のための機能セット |
-| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) |  | iOS Unlocker Pro: Desktop Setup for Device Access Management |
+| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) | iOS Unlocker Pro デスクトップ端末管理設定ツール | iOS Unlocker Pro：デバイスアクセス管理のためのデスクトップセットアップ |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Better Discord Client デスクトップ | Better Discord Client: Modder 向けにリマスターされたデスクトップ体験 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 向けデスクトップシェーダー調整ツール | Roblox 向け BloxShade: シェーダー制御を備えたデスクトップ強化スイート |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans デスクトップデータ転送スイート | FoneTrans Desktop Utility: 完全なデータ転送およびデバイス管理スイート |
@@ -157,19 +157,19 @@
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 最適化ツール | Ashampoo WinOptimizer Pro: 高度な Windows チューニングおよびシステム最適化スイート |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | Avid Media Composer代替セットアップおよび設定ツール | Avid Media Composer 代替アクセスツール - 合理化されたデスクトップ設定とランタイム構成 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 複数画面デスクトップ管理 | Display Fusion: ウィンドウのスナップとプロファイル自動化を備えたマルチモニターデスクトップ管理 |
-| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) |  | Deploy Avast Premium Security Fadalan, then document configuration and runtime status. |
+| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) | Avast プレミアムセキュリティの配備と状態記録 | Avast Premium Security Fadalan をデプロイし、設定とランタイムステータスを記録します。 |
 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | Semgrepでコード内の資安リスクや機密漏洩を検知 | 高精度な Semgrep セキュリティルール — Python、JavaScript、Java、PHP 向けの 146 の汚染追跡およびシークレット検出ルールで、75 のプロバイダーをカバー。By Robusta Studi… |
-| [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) |  | Agentic ASPM, the open source Snyk alternative. A full security audit in one command |
-| [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) |  | Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… |
-| [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search) |  | Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. |
-| [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) |  | 交互式电子电路学堂：用可以动手拨弄的仿真学电路 |
-| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… |
-| [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller) |  | Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. |
-| [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) |  | Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… |
-| [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) |  | Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. |
-| [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) |  | A hands-on gallery of interactive UI and motion |
-| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) |  | Build modular motion design workflows in After Effects with structured node-based composition. |
-| [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) |  | Vector design tools refined for precision workflows - built to accelerate complex illustration |
-| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. |
+| [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) | コマンド一発でアプリのオープンソースセキュリティ監査 | エージェント型 ASPM、オープンソースの Snyk 代替品。1つのコマンドで完全なセキュリティ監査を実行 |
+| [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) | Claude Codeで自律ペネトレーションテストを実行 | Claude Code 向けの自律型ペネトレーションテストプラットフォーム。65個の MCP ツール、デュアルグラフアーキテクチャ、マルチインスタンス協調、Web UI、記録プロキシ、および証拠… |
+| [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search) | 流出した個人プライバシーをローカルで削除 | ストーカーに見つかる前に、ネット上に流出した個人データ、ドキュメント、連絡先の漏洩を検出して削除するローカル OSINT プライバシー スキャナー。 |
+| [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) | いじって学べるシミュレーション電子回路 | インタラクティブな電子回路教室：実際に触って動かせるシミュレーションで回路を学ぶ |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | Museを承認済みローカルファイルと安全に接続 | MuseLink は、ガイド付きセットアップ、ローカル承認、f… により、Windows、Linux、macOS 上の承認されたローカルファイル（およびオプションの Windows サンドボックスコマンド）に Muse を接続します。 |
+| [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller) | 削除残しも消せて復元できるオープンソースツール | オープンソース の Windows アンインストーラー：残骸とともにプログラムを削除し、各残骸が検出された理由を表示し、削除したものをすべて復元できます。Rust + Tauri。 |
+| [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) | スクロール演出Web向けClaudeスキル | スクロールに合わせて動くウェブサイトのための無料 Claude スキル：スクロールフィルム、レイヤード視差効果、自己描画パス。Scrolltide ビルドの実際のソースから構築され a… |
+| [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) | デジタル作画のための厳選Krita環境 | Krita Dadelan Art Studio：デジタルペインティングとイラストレーションのための厳選されたワークスペース。 |
+| [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) | 実際に触って試せるUIとモーション集 | インタラクティブな UI とモーションの体験型ギャラリー |
+| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) | After Effects用ノード式ワークフロー | 構造化されたノードベースのコンポジションにより、After Effects でモジュール式のモーションデザインワークフローを構築します。 |
+| [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) | 精密ワークフロー向けベクター設計ツール | 精密なワークフローのために洗練されたベクターデザインツール - 複雑なイラストレーションを加速するために構築 |
+| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) | Illustrator用Kalinベクターワークフロー | 構造化されたアートワークのための Illustrator ワークフローである Kalin でベクターイラストをデザインします。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube向けAI動画編集ワークフロー | ストーリーボード、キャプチャ、アニメーション：YouTube向けAI編集ワークフロー |
-| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) |  | Real-time 3D texture painting with layer-based material workflows. |
+| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) | レイヤーワークフローによるリアルタイム3D描画 | レイヤーベースのマテリアルワークフローを備えたリアルタイム 3D テクスチャペイント。 |

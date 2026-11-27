@@ -69,13 +69,13 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 1 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>讓程式碼代理直接幫你做遊戲 | 2026-11-25<br><sub>2.3 天</sub> | 2,008 | 885.4 |
 | 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>在裸機上用純組合語言跑模型推理 | 2026-11-25<br><sub>2.4 天</sub> | 1,958 | 816.6 |
 | 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>程式太慢？讓代理只重寫最慢的5% | 2026-11-21<br><sub>6.1 天</sub> | 4,417 | 724.3 |
-| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. | 2026-11-26<br><sub>1.0 天</sub> | 529 | 529.0 |
-| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>6.0 天</sub> | 1,746 | 288.6 |
+| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>fck_data_brokers.py 是一個免費的開源 Python 指令碼，代表你向資料經紀商傳送選擇退出和刪除請求。 | 2026-11-26<br><sub>1.0 天</sub> | 529 | 529.0 |
+| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>寫程式時，讓開源桌面貓咪在螢幕上陪你 | 2026-11-21<br><sub>6.0 天</sub> | 1,746 | 288.6 |
 | 6 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>像工程圖紙一樣畫出互動式3D說明頁 | 2026-11-25<br><sub>2.3 天</sub> | 522 | 225.4 |
 | 7 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>趕在別人發現前，快速找出系統漏洞 | 2026-11-22<br><sub>5.0 天</sub> | 818 | 163.2 |
 | 8 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>把任何遊戲逆向移植並保證每幀手感一致 | 2026-11-25<br><sub>2.4 天</sub> | 395 | 162.6 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>在桌面養一隻隨時互動的小萌貓 | 2026-11-23<br><sub>4.7 天</sub> | 753 | 161.5 |
-| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code | 2026-11-23<br><sub>4.2 天</sub> | 599 | 141.0 |
+| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>100x 是由前 Cursor 工程師製作的技能，可將提示詞轉換為經過形式化驗證、可用於生產環境的程式碼 | 2026-11-23<br><sub>4.2 天</sub> | 599 | 141.0 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -452,11 +452,11 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>Deploy Avast Premium Security Fadalan, then document configuration and runtime status. | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
+| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>部署 Avast Premium Security Fadalan，然後記錄設定和執行狀態。 | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
 | 2 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>排查程式資安，精準檢測金鑰與污點 | 2026-11-25<br><sub>2.2 天</sub> | 153 | 68.2 |
-| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>Agentic ASPM, the open source Snyk alternative. A full security audit in one command | 2026-11-23<br><sub>4.1 天</sub> | 117 | 28.8 |
-| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… | 2026-11-21<br><sub>6.0 天</sub> | 138 | 22.8 |
-| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. | 2026-11-22<br><sub>5.4 天</sub> | 105 | 19.4 |
+| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>一條指令完成開源應用程式資安稽核 | 2026-11-23<br><sub>4.1 天</sub> | 117 | 28.8 |
+| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>讓 Claude Code 自動完成滲透測試 | 2026-11-21<br><sub>6.0 天</sub> | 138 | 22.8 |
+| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>本機掃描並清理網上外洩的個人隱私 | 2026-11-22<br><sub>5.4 天</sub> | 105 | 19.4 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -617,11 +617,11 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>交互式电子电路学堂：用可以动手拨弄的仿真学电路 | 2026-11-24<br><sub>3.5 天</sub> | 510 | 145.9 |
-| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… | 2026-11-24<br><sub>3.5 天</sub> | 228 | 64.6 |
+| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>動手撥弄模擬，輕鬆搞懂電子電路 | 2026-11-24<br><sub>3.5 天</sub> | 510 | 145.9 |
+| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>將 Muse 安全連接到已授權的本機檔案 | 2026-11-24<br><sub>3.5 天</sub> | 228 | 64.6 |
 | 3 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>3.8 天</sub> | 128 | 33.6 |
-| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. | 2026-11-23<br><sub>4.6 天</sub> | 109 | 23.6 |
-| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… | 2026-11-23<br><sub>4.1 天</sub> | 116 | 28.5 |
+| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>開源徹底清理軟體殘留，支援隨時還原 | 2026-11-23<br><sub>4.6 天</sub> | 109 | 23.6 |
+| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>用於滾動動效網頁的 Claude 技能 | 2026-11-23<br><sub>4.1 天</sub> | 116 | 28.5 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>
@@ -926,13 +926,13 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 
 | # | 專案 | 建立時間（UTC） | 總星號 | 星號/天 |
 |---|---|---|---:|---:|
-| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
-| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>A hands-on gallery of interactive UI and motion | 2026-11-26<br><sub>1.3 天</sub> | 121 | 92.8 |
-| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>Build modular motion design workflows in After Effects with structured node-based composition. | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
-| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>Vector design tools refined for precision workflows - built to accelerate complex illustration | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
-| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. | 2026-11-27<br><sub>1.0 天</sub> | 143 | 143.0 |
+| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>精選數位繪畫與插畫的 Krita 工作區 | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
+| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>親手體驗互動 UI 與動態設計的畫廊 | 2026-11-26<br><sub>1.3 天</sub> | 121 | 92.8 |
+| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>在 After Effects 中透過結構化的節點式合成建構模組化動態設計工作流程。 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
+| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>適用於精密工作流程的向量設計工具 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
+| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>使用 Kalin 設計向量插畫，這是一個用於結構化藝術作品的 Illustrator 工作流程。 | 2026-11-27<br><sub>1.0 天</sub> | 143 | 143.0 |
 | 6 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI影片剪輯工作流程 | 2026-11-21<br><sub>6.0 天</sub> | 338 | 56.5 |
-| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>Real-time 3D texture painting with layer-based material workflows. | 2026-11-21<br><sub>6.7 天</sub> | 151 | 22.6 |
+| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>基於圖層的材質工作流程實現即時 3D 紋理繪製。 | 2026-11-21<br><sub>6.7 天</sub> | 151 | 22.6 |
 
 <details>
 <summary>本榜星號歷史曲線</summary>

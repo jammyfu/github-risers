@@ -120,20 +120,20 @@
 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | 让代码智能体直接帮你做游戏 | 超级游戏智能体 —— 面向 AI 智能体的 Unity &amp; Unreal，拥有 100+ 款可二创的爆款游戏。将 20+ 个编程智能体 (Claude Code, Codex, DeepSeek, etc.) 转化为… |
 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 用纯汇编直接运行和训练大模型 | 基于 100% 纯 x86-64 NASM 汇编的 Qwen3-0.6B 推理 (12 KB)、裸机可引导 OS (22 KB)，以及带有实时盲文 TUI 的从零开始 Mini-GPT 训练器 (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 代码太慢？让智能体只重写最慢的5% | 不要用 Rust 重写。重写慢的 5%：分析 Python、Node 或 Ruby 应用的性能，用你的编程智能体移植热点函数，证明它们的行为相… |
-| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) |  | fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. |
-| [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
+| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) | 自动帮向数据贩子发删除请求，保护隐私 | fck_data_brokers.py 是一个免费的开源 Python 脚本，代表你向数据经纪商发送退出和删除请求。 |
+| [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) | 敲代码时，让开源桌面猫咪在屏幕上陪你 | KuroCat — 免费开源 3D/2D 桌面打字猫 &amp; AI 编程伴侣（Bongo Cat 替代品 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 像工程图纸一样画出交互式3D说明页 | Inkworks：一个用于生成类似工程图纸风格的交互式 3D 原理展示页面的智能体技能。 |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 赶在别人发现前，快速找出系统漏洞 | 在别人之前找出漏洞。一款快速且 100% Rust 编写的漏洞扫描器：支持 XSS、SQL 注入、泄露的密钥、依赖 CVE 以及 AI 智能体配置。 |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 把任何游戏逆向移植并保证每帧手感一致 | 逆向工程任何游戏，在任何引擎中重建它（web、Rust、Godot），并逐帧证明重建版本具有相同的玩法。在公开的 GAME.md… 中提供行为规范 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 在桌面养一只随时互动的小萌猫 | KuroCat — 免费开源原生桌面猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Swift/C++，802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
-| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) |  | 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code |
-| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) |  | Agent skill that draws an original icon library matching your design system (React, Vue, Svelte, React Native, SVG). |
+| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) |  | 100x 是由前 Cursor 工程师制作的技能，可将提示词转化为经过形式化验证、可用于生产环境的代码 |
+| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) |  | 绘制与你的设计系统相匹配的原创图标库的智能体技能（React、Vue、Svelte、React Native、SVG）。 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | 在Linux上为智能体运行iOS模拟环境 | 适用于 Linux 上 AI 智能体的 iOS 模拟器。x86Sim 的智能体层。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面运行开源的本地AI智能体团队 | 适用于桌面的开源、本地优先 AI 智能体团队：多智能体群聊、计算机使用、浏览器、MCP、例程与审批。macOS、Windows、Linux + A… |
 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 在画布上画好界面直接变成前端代码 | 适用于 Claude Code、Codex 和 Cursor 的免费前端设计技能：在 UX Pilot 画布上设计您的 UI，然后在代码中构建它 |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 删掉冗余代码，测试能通过才保留 | 代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。 |
 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 找不到客户？开源从地图搜店到聊单收款 | 从 Google Maps 到 Pix 的开源客户开拓：在 Maps 上寻找商家，为每家生成带名称的预览网站，在 WhatsApp 上沟通并通过 Pix、Mercado P… 收款 |
-| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) |  | Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of to… |
+| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) |  | Persistent Agent 是一个主动的、始终在线的、面向目标的智能体。类似 Muse 或 Instinct，但面向企业。配备记忆、浏览器使用、数百种工… |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 用类脑神经信号训练智能体打生存游戏 | 面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | 让 AI 智能体掌握靠证据推进研究的技能 | 用于证据驱动型研究、实验和有界优化的便携式智能体技能 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
@@ -148,7 +148,7 @@
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面机器人 | 面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好 |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 桌面图表软件安装包 | Microsoft Visio：图表绘制与矢量图形桌面应用程序 |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics 数据分析功能集 | IBM SPSS Statistics：用于高级数据分析的功能集 |
-| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) |  | iOS Unlocker Pro: Desktop Setup for Device Access Management |
+| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) |  | iOS Unlocker Pro：用于设备访问管理的桌面设置 |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 面向模组开发者的重制桌面体验 | Better Discord Client: 面向 Mod 制作者的重制桌面体验 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面着色器控制增强套件 | 适用于 Roblox 的 BloxShade：带有着色器控制的桌面增强套件 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面数据传输与设备管理套件 | FoneTrans Desktop Utility: 完整的数据传输与设备管理套件 |
@@ -157,19 +157,19 @@
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 调优工具 | Ashampoo WinOptimizer Pro：高级 Windows 调优与系统优化套件 |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | 标为备用访问的桌面设置与运行配置 | Avid Media Composer 替代访问工具 - 简化的桌面设置和运行时配置 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
-| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) |  | Deploy Avast Premium Security Fadalan, then document configuration and runtime status. |
+| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) |  | 部署 Avast Premium Security Fadalan，然后记录配置和运行状态。 |
 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | 排查代码安全，精准检测密钥与污点 | 高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… |
-| [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) |  | Agentic ASPM, the open source Snyk alternative. A full security audit in one command |
-| [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) |  | Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… |
-| [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search) |  | Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. |
-| [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) |  | 交互式电子电路学堂：用可以动手拨弄的仿真学电路 |
-| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… |
-| [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller) |  | Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. |
-| [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) |  | Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… |
-| [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) |  | Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. |
-| [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) |  | A hands-on gallery of interactive UI and motion |
-| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) |  | Build modular motion design workflows in After Effects with structured node-based composition. |
-| [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) |  | Vector design tools refined for precision workflows - built to accelerate complex illustration |
-| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. |
+| [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) | 一条命令搞定全套开源应用安全审计 | 智能体式 ASPM，开源 Snyk 替代品。一条命令完成全面安全审计 |
+| [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) | 让 Claude Code 自动完成渗透测试 | 面向 Claude Code 的自主渗透测试平台。65 个 MCP 工具、双图架构、多实例协同、Web UI、录制代理与证据… |
+| [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search) | 本地扫描并清理网上泄露的个人隐私 | 本地 OSINT 隐私扫描器，用于在跟踪者发现之前，查找并清除你在网上暴露的个人数据、文档和联系方式泄露。 |
+| [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) | 动手拨弄仿真，轻松搞懂电子电路 | 交互式电子电路学堂：用可以动手拨弄的仿真学电路 |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | 将 Muse 安全连接到已授权的本地文件 | MuseLink 可将 Muse 连接到 Windows、Linux 和 macOS 上授权的本地文件（以及可选的 Windows 沙盒命令），具有引导式设置、本地审批、f… |
+| [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller) | 开源彻底清理软件残留，支持随时恢复 | 开源 Windows 卸载器：清除程序及其残留、显示发现每个残留的原因，并可恢复其删除的任何内容。Rust + Tauri。 |
+| [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) | 用于滚动动效网页的 Claude 技能 | 用于随滚动而动态变化的网站的免费 Claude 技能：滚动影片、分层视差、自绘制路径。基于 Scrolltide 构建的真实源代码构建 a… |
+| [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) | 精选数字绘画与插画的 Krita 工作区 | Krita Dadelan Art Studio：专为数字绘画和插画精心打造的工作区。 |
+| [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) | 亲手体验交互 UI 与动效设计的画廊 | 交互式 UI 与动效的实操画廊 |
+| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) |  | 在 After Effects 中通过结构化的基于节点的合成构建模块化动态设计工作流。 |
+| [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) | 适用于精密工作流的矢量设计工具 | 专为高精度工作流精炼的矢量设计工具 - 旨在加速复杂插画创作 |
+| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | 使用 Kalin 设计矢量插画，这是一个用于结构化艺术作品的 Illustrator 工作流。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
-| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) |  | Real-time 3D texture painting with layer-based material workflows. |
+| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) | 基于图层材质工作流的实时 3D 纹理绘制 | 基于图层的材质工作流实现实时 3D 纹理绘制。 |
