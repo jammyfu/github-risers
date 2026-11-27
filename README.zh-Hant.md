@@ -930,7 +930,7 @@ GitHub Trending 是 GitHub 官方頁面；GitHub 漲星榜是獨立的開源專�
 | 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>親手體驗互動 UI 與動態設計的畫廊 | 2026-11-26<br><sub>1.3 天</sub> | 121 | 92.8 |
 | 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>After Effects 模組化節點動效工作流程 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
 | 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>適用於精密工作流程的向量設計工具 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
-| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>使用 Kalin 設計向量插畫，這是一個用於結構化藝術作品的 Illustrator 工作流程。 | 2026-11-27<br><sub>1.0 天</sub> | 143 | 143.0 |
+| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>基於Illustrator的Kalin向量圖工作流程 | 2026-11-27<br><sub>1.0 天</sub> | 143 | 143.0 |
 | 6 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI影片剪輯工作流程 | 2026-11-21<br><sub>6.0 天</sub> | 338 | 56.5 |
 | 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>即時3D紋理繪製與圖層材質工作流程 | 2026-11-21<br><sub>6.7 天</sub> | 151 | 22.6 |
 

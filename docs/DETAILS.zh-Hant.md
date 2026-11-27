@@ -148,7 +148,7 @@
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面機器人 | 面向 Discord 和 Telegram 的社群驅動型 MetaTrader 5 bot，包含對 deskto 友好 |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 桌面圖表軟體安裝檔 | Microsoft Visio：圖表繪製與向量圖形桌面應用程式 |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics 數據分析功能集 | IBM SPSS Statistics：用於進階資料分析的功能集 |
-| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) |  | iOS Unlocker Pro：用於裝置存取管理的桌面設定 |
+| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) | iOS裝置存取管理的桌面端安裝程式 | iOS Unlocker Pro：用於裝置存取管理的桌面設定 |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 針對模組開發者的重製桌面體驗 | Better Discord Client: 面向 Mod 製作者的重製桌面體驗 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面著色器控制增強套件 | 適用於 Roblox 的 BloxShade：帶有著色器控制項的桌面增強套件 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面資料傳輸與裝置管理套件 | FoneTrans Desktop Utility: 完整的資料傳輸與裝置管理套件 |
@@ -170,6 +170,6 @@
 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) | 親手體驗互動 UI 與動態設計的畫廊 | 互動式 UI 與動態效果的實操展示廊 |
 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) | After Effects 模組化節點動效工作流程 | 在 After Effects 中透過結構化的節點式合成建構模組化動態設計工作流程。 |
 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) | 適用於精密工作流程的向量設計工具 | 專為高精度工作流程精煉的向量設計工具 - 旨在加速複雜插畫創作 |
-| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | 使用 Kalin 設計向量插畫，這是一個用於結構化藝術作品的 Illustrator 工作流程。 |
+| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) | 基於Illustrator的Kalin向量圖工作流程 | 使用 Kalin 設計向量插畫，這是一個用於結構化藝術作品的 Illustrator 工作流程。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI影片剪輯工作流程 | 分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程 |
 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) | 即時3D紋理繪製與圖層材質工作流程 | 基於圖層的材質工作流程實現即時 3D 紋理繪製。 |

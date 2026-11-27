@@ -148,7 +148,7 @@
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | MetaTrader 5 桌面机器人 | 面向 Discord 和 Telegram 的社区驱动型 MetaTrader 5 bot，包含对 deskto 友好 |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 桌面图表软件安装包 | Microsoft Visio：图表绘制与矢量图形桌面应用程序 |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics 数据分析功能集 | IBM SPSS Statistics：用于高级数据分析的功能集 |
-| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) |  | iOS Unlocker Pro：用于设备访问管理的桌面设置 |
+| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) | iOS设备访问管理的桌面端安装程序 | iOS Unlocker Pro：用于设备访问管理的桌面设置 |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 面向模组开发者的重制桌面体验 | Better Discord Client: 面向 Mod 制作者的重制桌面体验 |
 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Roblox 桌面着色器控制增强套件 | 适用于 Roblox 的 BloxShade：带有着色器控制的桌面增强套件 |
 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 桌面数据传输与设备管理套件 | FoneTrans Desktop Utility: 完整的数据传输与设备管理套件 |
@@ -170,6 +170,6 @@
 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) | 亲手体验交互 UI 与动效设计的画廊 | 交互式 UI 与动效的实操画廊 |
 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) | After Effects 模块化节点动效工作流 | 在 After Effects 中通过结构化的基于节点的合成构建模块化动态设计工作流。 |
 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) | 适用于精密工作流的矢量设计工具 | 专为高精度工作流精炼的矢量设计工具 - 旨在加速复杂插画创作 |
-| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | 使用 Kalin 设计矢量插画，这是一个用于结构化艺术作品的 Illustrator 工作流。 |
+| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) | 基于Illustrator的Kalin矢量图工作流 | 使用 Kalin 设计矢量插画，这是一个用于结构化艺术作品的 Illustrator 工作流。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) | 基于图层材质工作流的实时 3D 纹理绘制 | 基于图层的材质工作流实现实时 3D 纹理绘制。 |

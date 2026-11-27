@@ -2327,7 +2327,9 @@
         "hook": {
           "en": "Kalin vector illustration workflow for Illustrator",
           "ja": "Illustrator用Kalinベクターワークフロー",
-          "ko": "Illustrator용 Kalin 벡터 워크플로"
+          "ko": "Illustrator용 Kalin 벡터 워크플로",
+          "zh-Hans": "基于Illustrator的Kalin矢量图工作流",
+          "zh-Hant": "基於Illustrator的Kalin向量圖工作流程"
         }
       }
     },
@@ -6718,7 +6720,9 @@
         "hook": {
           "en": "iOS Unlocker Pro desktop device access setup tool",
           "ja": "iOS Unlocker Pro デスクトップ端末管理設定ツール",
-          "ko": "iOS Unlocker Pro 데스크톱 기기 접근 설정 도구"
+          "ko": "iOS Unlocker Pro 데스크톱 기기 접근 설정 도구",
+          "zh-Hans": "iOS设备访问管理的桌面端安装程序",
+          "zh-Hant": "iOS裝置存取管理的桌面端安裝程式"
         }
       }
     },
