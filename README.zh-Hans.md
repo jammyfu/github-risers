@@ -75,7 +75,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 | 7 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>赶在别人发现前，快速找出系统漏洞 | 2026-11-22<br><sub>5.0 天</sub> | 818 | 163.2 |
 | 8 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>把任何游戏逆向移植并保证每帧手感一致 | 2026-11-25<br><sub>2.4 天</sub> | 395 | 162.6 |
 | 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>在桌面养一只随时互动的小萌猫 | 2026-11-23<br><sub>4.7 天</sub> | 753 | 161.5 |
-| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>100x 是由前 Cursor 工程师制作的技能，可将提示词转化为经过形式化验证、可用于生产环境的代码 | 2026-11-23<br><sub>4.2 天</sub> | 599 | 141.0 |
+| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>写好的提示词，直接变成可用正式代码 | 2026-11-23<br><sub>4.2 天</sub> | 599 | 141.0 |
 
 <details>
 <summary>本榜星标历史曲线</summary>
@@ -452,7 +452,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 
 | # | 项目 | 创建时间（UTC） | 总星标 | 星标/天 |
 |---|---|---|---:|---:|
-| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>部署 Avast Premium Security Fadalan，然后记录配置和运行状态。 | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
+| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>部署安全防护，记录配置与运行状态 | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
 | 2 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>排查代码安全，精准检测密钥与污点 | 2026-11-25<br><sub>2.2 天</sub> | 153 | 68.2 |
 | 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>一条命令搞定全套开源应用安全审计 | 2026-11-23<br><sub>4.1 天</sub> | 117 | 28.8 |
 | 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>让 Claude Code 自动完成渗透测试 | 2026-11-21<br><sub>6.0 天</sub> | 138 | 22.8 |
@@ -928,7 +928,7 @@ GitHub Trending 是 GitHub 官方页面；GitHub 涨星榜是独立的开源项�
 |---|---|---|---:|---:|
 | 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>精选数字绘画与插画的 Krita 工作区 | 2026-11-27<br><sub>1.0 天</sub> | 138 | 138.0 |
 | 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>亲手体验交互 UI 与动效设计的画廊 | 2026-11-26<br><sub>1.3 天</sub> | 121 | 92.8 |
-| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>在 After Effects 中通过结构化的基于节点的合成构建模块化动态设计工作流。 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
+| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>After Effects 模块化节点动效工作流 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
 | 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>适用于精密工作流的矢量设计工具 | 2026-11-27<br><sub>1.0 天</sub> | 146 | 146.0 |
 | 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>使用 Kalin 设计矢量插画，这是一个用于结构化艺术作品的 Illustrator 工作流。 | 2026-11-27<br><sub>1.0 天</sub> | 143 | 143.0 |
 | 6 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube的AI视频剪辑工作流 | 2026-11-21<br><sub>6.0 天</sub> | 338 | 56.5 |

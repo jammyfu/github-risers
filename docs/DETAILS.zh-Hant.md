@@ -120,14 +120,14 @@
 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | 讓程式碼代理直接幫你做遊戲 | 超級遊戲代理 —— 面向 AI 代理的 Unity &amp; Unreal，擁有 100+ 款可二創的熱門遊戲。將 20+ 個編程代理 (Claude Code, Codex, DeepSeek, etc.) 轉變為… |
 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 在裸機上用純組合語言跑模型推理 | 基於 100% 純 x86-64 NASM 組合語言的 Qwen3-0.6B 推論 (12 KB)、裸機可開機 OS (22 KB)，以及帶有即時點字 TUI 的從零開始 Mini-GPT 訓練器 (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 程式太慢？讓代理只重寫最慢的5% | 不要用 Rust 重寫。重寫慢的 5%：分析 Python、Node 或 Ruby 應用程式的效能，用你的編程代理移植熱點函式，證明它們的行為相… |
-| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) |  | fck_data_brokers.py 是一個免費的開源 Python 指令碼，代表你向資料經紀商傳送選擇退出和刪除請求。 |
+| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) | 受夠個資被倒賣，自動幫你寄信刪除 | fck_data_brokers.py 是一個免費的開源 Python 指令碼，代表你向資料經紀商傳送選擇退出和刪除請求。 |
 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) | 寫程式時，讓開源桌面貓咪在螢幕上陪你 | KuroCat — 免費開源 3D/2D 桌面打字貓 &amp; AI 程式設計伴侶（Bongo Cat 替代品 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 像工程圖紙一樣畫出互動式3D說明頁 | Inkworks：一個用於生成類似工程圖紙風格的互動式 3D 原理展示頁面的代理技能。 |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 趕在別人發現前，快速找出系統漏洞 | 在別人之前找出漏洞。一款快速且 100% Rust 編寫的漏洞掃描器：支援 XSS、SQL 注入、外洩的密鑰、依賴項 CVE 以及 AI 代理設定。 |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 把任何遊戲逆向移植並保證每幀手感一致 | 逆向工程任何遊戲，在任何引擎中重建它（web、Rust、Godot），並逐幀證明重建版本具有相同的玩法。在公開的 GAME.md… 中提供行為規範 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 在桌面養一隻隨時互動的小萌貓 | KuroCat — 免費開源原生桌面貓咪寵物 &amp; OBS 疊加層（Bongo Cat 替代品，Swift/C++，802 KB）｜開源免費原生桌面萌貓（全平台 macOS·Win·Linux·UOS / 2.5D轉頭捕獵 /… |
-| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) |  | 100x 是由前 Cursor 工程師製作的技能，可將提示詞轉換為經過形式化驗證、可用於生產環境的程式碼 |
-| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) |  | 繪製與你的設計系統相符合的自創圖示庫的代理技能（React、Vue、Svelte、React Native、SVG）。 |
+| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | 寫好的提示詞，直接變成可用正式程式碼 | 100x 是由前 Cursor 工程師製作的技能，可將提示詞轉換為經過形式化驗證、可用於生產環境的程式碼 |
+| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) | 缺一套圖示，按你的設計風格畫整套 | 繪製與你的設計系統相符合的自創圖示庫的代理技能（React、Vue、Svelte、React Native、SVG）。 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | 在 Linux 上為 AI 代理運行 iOS 模擬器 | 適用於 Linux 上 AI 代理的 iOS 模擬器。x86Sim 的代理層。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面運行開源的本機AI代理團隊 | 適用於桌面的開源、本機優先 AI 代理團隊：多代理群聊、電腦使用、瀏覽器、MCP、例程與審批。macOS、Windows、Linux + A… |
 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 在畫布上畫好介面直接變成前端程式碼 | 適用於 Claude Code、Codex 和 Cursor 的免費前端設計技能：在 UX Pilot 畫布上設計您的 UI，然後在程式碼中構建它 |
@@ -157,7 +157,7 @@
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 調校工具 | Ashampoo WinOptimizer Pro：進階 Windows 調校與系統最佳化套件 |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | 標為備用存取的桌面設定與運行配置 | Avid Media Composer 替代訪問工具 - 精簡的桌面設定和執行階段配置 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多螢幕桌面管理工具 | Display Fusion: 具備視窗貼齊與設定檔自動化的多螢幕桌面管理 |
-| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) |  | 部署 Avast Premium Security Fadalan，然後記錄設定和執行狀態。 |
+| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) | 部署資安防護，記錄設定與運作狀態 | 部署 Avast Premium Security Fadalan，然後記錄設定和執行狀態。 |
 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | 排查程式資安，精準檢測金鑰與污點 | 高精度 Semgrep 資安規則——適用於 Python、JavaScript、Java、PHP 的 146 條污點追蹤和機密檢測規則，涵蓋 75 個提供者。由 Robusta Studi… |
 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) | 一條指令完成開源應用程式資安稽核 | 代理式 ASPM，開源 Snyk 替代品。一條指令完成全面資安稽核 |
 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) | 讓 Claude Code 自動完成滲透測試 | 面向 Claude Code 的自主滲透測試平台。65 個 MCP 工具、雙圖架構、多實例協同、Web UI、錄製代理與證據… |
@@ -168,8 +168,8 @@
 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) | 用於滾動動效網頁的 Claude 技能 | 用於隨滾動而動態變化的網站的免費 Claude 技能：滾動膠卷、分層視差、自繪路徑。基於 Scrolltide 構建的真實原始碼構建 a… |
 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) | 精選數位繪畫與插畫的 Krita 工作區 | Krita Dadelan Art Studio：專為數位繪畫和插畫精心打造的工作區。 |
 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) | 親手體驗互動 UI 與動態設計的畫廊 | 互動式 UI 與動態效果的實操展示廊 |
-| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) |  | 在 After Effects 中透過結構化的節點式合成建構模組化動態設計工作流程。 |
+| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) | After Effects 模組化節點動效工作流程 | 在 After Effects 中透過結構化的節點式合成建構模組化動態設計工作流程。 |
 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) | 適用於精密工作流程的向量設計工具 | 專為高精度工作流程精煉的向量設計工具 - 旨在加速複雜插畫創作 |
 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | 使用 Kalin 設計向量插畫，這是一個用於結構化藝術作品的 Illustrator 工作流程。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI影片剪輯工作流程 | 分鏡、擷取與動效製作：面向 YouTube 的 AI 剪輯工作流程 |
-| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) |  | 基於圖層的材質工作流程實現即時 3D 紋理繪製。 |
+| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) | 即時3D紋理繪製與圖層材質工作流程 | 基於圖層的材質工作流程實現即時 3D 紋理繪製。 |

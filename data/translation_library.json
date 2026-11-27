@@ -1333,7 +1333,9 @@
         "hook": {
           "en": "Turn your prompts into formally verified production code",
           "ja": "プロンプトを検証済みの本番向けコードに変換するスキル",
-          "ko": "프롬프트를 정식 검증된 상용 수준 코드로 완성하는 스킬"
+          "ko": "프롬프트를 정식 검증된 상용 수준 코드로 완성하는 스킬",
+          "zh-Hans": "写好的提示词，直接变成可用正式代码",
+          "zh-Hant": "寫好的提示詞，直接變成可用正式程式碼"
         }
       }
     },
@@ -4882,7 +4884,9 @@
         "hook": {
           "en": "Node-based motion design workflow for After Effects",
           "ja": "After Effects用ノード式ワークフロー",
-          "ko": "After Effects 노드 기반 모션 워크플로"
+          "ko": "After Effects 노드 기반 모션 워크플로",
+          "zh-Hans": "After Effects 模块化节点动效工作流",
+          "zh-Hant": "After Effects 模組化節點動效工作流程"
         }
       }
     },
@@ -5017,7 +5021,8 @@
           "en": "Real-time 3D texture painting with layer workflows",
           "zh-Hans": "基于图层材质工作流的实时 3D 纹理绘制",
           "ja": "レイヤーワークフローによるリアルタイム3D描画",
-          "ko": "레이어 워크플로 기반 실시간 3D 텍스처 페인팅"
+          "ko": "레이어 워크플로 기반 실시간 3D 텍스처 페인팅",
+          "zh-Hant": "即時3D紋理繪製與圖層材質工作流程"
         }
       }
     },
@@ -6132,7 +6137,8 @@
           "en": "Stop data brokers by sending deletion requests for you",
           "zh-Hans": "自动帮向数据贩子发删除请求，保护隐私",
           "ja": "データ業者への個人情報削除申請を自動で代行",
-          "ko": "데이터 브로커에게 개인정보 삭제 요청을 대신 발송"
+          "ko": "데이터 브로커에게 개인정보 삭제 요청을 대신 발송",
+          "zh-Hant": "受夠個資被倒賣，自動幫你寄信刪除"
         }
       }
     },
@@ -7087,7 +7093,8 @@
           "en": "An always-on enterprise agent that works toward your goals",
           "zh-Hant": "常時在線的企業代理，主動幫你緊盯目標",
           "ja": "常駐して目標に向かい自律行動する企業向けエージェント",
-          "ko": "항상 켜져서 목표를 향해 자율 작동하는 기업용 에이전트"
+          "ko": "항상 켜져서 목표를 향해 자율 작동하는 기업용 에이전트",
+          "zh-Hans": "企业级智能体一直在线，盯紧目标做事"
         }
       }
     },
@@ -8601,7 +8608,9 @@
         "hook": {
           "en": "Draw an original icon library that fits your design system",
           "ja": "デザインシステムに合わせた独自アイコン一式を描画",
-          "ko": "디자인 시스템에 꼭 맞는 오리지널 아이콘 세트 제작"
+          "ko": "디자인 시스템에 꼭 맞는 오리지널 아이콘 세트 제작",
+          "zh-Hans": "缺一套图标，按你的设计风格画整套",
+          "zh-Hant": "缺一套圖示，按你的設計風格畫整套"
         }
       }
     },
@@ -9124,7 +9133,9 @@
         "hook": {
           "en": "Deploy Avast Premium Security and log its runtime status",
           "ja": "Avast プレミアムセキュリティの配備と状態記録",
-          "ko": "Avast 프리미엄 보안 배포 및 실행 상태 기록"
+          "ko": "Avast 프리미엄 보안 배포 및 실행 상태 기록",
+          "zh-Hans": "部署安全防护，记录配置与运行状态",
+          "zh-Hant": "部署資安防護，記錄設定與運作狀態"
         }
       }
     },

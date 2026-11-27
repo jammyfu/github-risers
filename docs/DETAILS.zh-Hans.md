@@ -126,14 +126,14 @@
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 赶在别人发现前，快速找出系统漏洞 | 在别人之前找出漏洞。一款快速且 100% Rust 编写的漏洞扫描器：支持 XSS、SQL 注入、泄露的密钥、依赖 CVE 以及 AI 智能体配置。 |
 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 把任何游戏逆向移植并保证每帧手感一致 | 逆向工程任何游戏，在任何引擎中重建它（web、Rust、Godot），并逐帧证明重建版本具有相同的玩法。在公开的 GAME.md… 中提供行为规范 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 在桌面养一只随时互动的小萌猫 | KuroCat — 免费开源原生桌面猫咪宠物 &amp; OBS 叠加层（Bongo Cat 替代品，Swift/C++，802 KB）｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
-| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) |  | 100x 是由前 Cursor 工程师制作的技能，可将提示词转化为经过形式化验证、可用于生产环境的代码 |
-| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) |  | 绘制与你的设计系统相匹配的原创图标库的智能体技能（React、Vue、Svelte、React Native、SVG）。 |
+| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | 写好的提示词，直接变成可用正式代码 | 100x 是由前 Cursor 工程师制作的技能，可将提示词转化为经过形式化验证、可用于生产环境的代码 |
+| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) | 缺一套图标，按你的设计风格画整套 | 绘制与你的设计系统相匹配的原创图标库的智能体技能（React、Vue、Svelte、React Native、SVG）。 |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | 在Linux上为智能体运行iOS模拟环境 | 适用于 Linux 上 AI 智能体的 iOS 模拟器。x86Sim 的智能体层。 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 在桌面运行开源的本地AI智能体团队 | 适用于桌面的开源、本地优先 AI 智能体团队：多智能体群聊、计算机使用、浏览器、MCP、例程与审批。macOS、Windows、Linux + A… |
 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 在画布上画好界面直接变成前端代码 | 适用于 Claude Code、Codex 和 Cursor 的免费前端设计技能：在 UX Pilot 画布上设计您的 UI，然后在代码中构建它 |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 删掉冗余代码，测试能通过才保留 | 代码更少，测试照样通过：删除任何代码库中的无用代码、文件、依赖项和资源，且仅在自身测试依然通过时保留每次删减。 |
 | [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 找不到客户？开源从地图搜店到聊单收款 | 从 Google Maps 到 Pix 的开源客户开拓：在 Maps 上寻找商家，为每家生成带名称的预览网站，在 WhatsApp 上沟通并通过 Pix、Mercado P… 收款 |
-| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) |  | Persistent Agent 是一个主动的、始终在线的、面向目标的智能体。类似 Muse 或 Instinct，但面向企业。配备记忆、浏览器使用、数百种工… |
+| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) | 企业级智能体一直在线，盯紧目标做事 | Persistent Agent 是一个主动的、始终在线的、面向目标的智能体。类似 Muse 或 Instinct，但面向企业。配备记忆、浏览器使用、数百种工… |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 用类脑神经信号训练智能体打生存游戏 | 面向 LLM 智能体的生物信号引导强化学习：在 Godot 生存游戏中将离线类器官神经记录作为策略输入，并进行配对评估。 |
 | [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | 让 AI 智能体掌握靠证据推进研究的技能 | 用于证据驱动型研究、实验和有界优化的便携式智能体技能 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | 界面没对齐？画参考线修正内边距 | 用于对齐调整的智能体技能：在界面上绘制参考线，找出每一个偏离参考线的元素，修复内边距。 |
@@ -157,7 +157,7 @@
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 调优工具 | Ashampoo WinOptimizer Pro：高级 Windows 调优与系统优化套件 |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | 标为备用访问的桌面设置与运行配置 | Avid Media Composer 替代访问工具 - 简化的桌面设置和运行时配置 |
 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 多显示器桌面管理工具 | Display Fusion: 具备窗口贴靠与配置文件自动化的多显示器桌面管理 |
-| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) |  | 部署 Avast Premium Security Fadalan，然后记录配置和运行状态。 |
+| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) | 部署安全防护，记录配置与运行状态 | 部署 Avast Premium Security Fadalan，然后记录配置和运行状态。 |
 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | 排查代码安全，精准检测密钥与污点 | 高精度 Semgrep 安全规则——适用于 Python、JavaScript、Java、PHP 的 146 条污点追踪和机密检测规则，覆盖 75 个提供商。由 Robusta Studi… |
 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) | 一条命令搞定全套开源应用安全审计 | 智能体式 ASPM，开源 Snyk 替代品。一条命令完成全面安全审计 |
 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) | 让 Claude Code 自动完成渗透测试 | 面向 Claude Code 的自主渗透测试平台。65 个 MCP 工具、双图架构、多实例协同、Web UI、录制代理与证据… |
@@ -168,7 +168,7 @@
 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) | 用于滚动动效网页的 Claude 技能 | 用于随滚动而动态变化的网站的免费 Claude 技能：滚动影片、分层视差、自绘制路径。基于 Scrolltide 构建的真实源代码构建 a… |
 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) | 精选数字绘画与插画的 Krita 工作区 | Krita Dadelan Art Studio：专为数字绘画和插画精心打造的工作区。 |
 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) | 亲手体验交互 UI 与动效设计的画廊 | 交互式 UI 与动效的实操画廊 |
-| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) |  | 在 After Effects 中通过结构化的基于节点的合成构建模块化动态设计工作流。 |
+| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) | After Effects 模块化节点动效工作流 | 在 After Effects 中通过结构化的基于节点的合成构建模块化动态设计工作流。 |
 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) | 适用于精密工作流的矢量设计工具 | 专为高精度工作流精炼的矢量设计工具 - 旨在加速复杂插画创作 |
 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | 使用 Kalin 设计矢量插画，这是一个用于结构化艺术作品的 Illustrator 工作流。 |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube的AI视频剪辑工作流 | 分镜、捕获与动效制作：面向 YouTube 的 AI 剪辑工作流 |
