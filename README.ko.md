@@ -8,7 +8,7 @@
 
 총 스타 수가 아니라 하루에 늘어난 스타 수로 GitHub 저장소를 줄 세웁니다. AI가 맨 앞이고 개발자 도구, 보안, Web / 프론트엔드, 인프라, 디자인 / 크리에이티브, 데이터가 뒤따릅니다. 매일 갱신합니다.
 
-데이터 시각 2026-11-26 17:23(UTC). 매일 갱신합니다.
+데이터 시각 2026-11-27 17:01(UTC). 매일 갱신합니다.
 
 **온라인 랭킹:** [웹사이트](https://jammyfu.github.io/github-risers/) · [최신 스냅샷](latest/rankings.ko.md)
 
@@ -24,13 +24,13 @@
 
 | 카테고리 | 신규 1위(7일) | 이번 주 1위 | 이번 달 1위 | 올해 1위 | 총 스타 1위 |
 |---|---|---|---|---|---|
-| **[AI](#ai)** ★ 메인 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>890/일 | [morluto/rea](https://github.com/morluto/rea)<br>1,504/일 | [morluto/rea](https://github.com/morluto/rea)<br>2,928/일 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>2,736/일 | [morluto/rea](https://github.com/morluto/rea)<br>479,491 ★ |
-| **[개발자 도구](#개발자-도구)** | 없음 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>73.1/일 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>126/일 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>75.2/일 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>96,989 ★ |
-| **[보안](#보안)** | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>99.3/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>34.6/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>35.2/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>29.2/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>39,787 ★ |
-| **[Web / 프론트엔드](#web--프론트엔드)** | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>131/일 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>90.6/일 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>90.8/일 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>83.4/일 | [facebook/react](https://github.com/facebook/react)<br>252,987 ★ |
-| **[인프라](#인프라)** | 없음 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>50.3/일 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>41.7/일 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>33.9/일 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>129,372 ★ |
-| **[디자인 / 크리에이티브](#디자인--크리에이티브)** | 없음 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>61.6/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>64.1/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>73.1/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>136,356 ★ |
-| **[데이터](#데이터)** | 없음 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>29.1/일 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>28.3/일 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/일 | [apache/superset](https://github.com/apache/superset)<br>75,697 ★ |
+| **[AI](#ai)** ★ 메인 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>885/일 | [stablyai/orca](https://github.com/stablyai/orca)<br>1,607/일 | [morluto/rea](https://github.com/morluto/rea)<br>2,790/일 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>2,715/일 | [morluto/rea](https://github.com/morluto/rea)<br>480,794 ★ |
+| **[개발자 도구](#개발자-도구)** | 없음 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>73.3/일 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>126/일 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>75.1/일 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>97,006 ★ |
+| **[보안](#보안)** | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>138/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>36.3/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>35.4/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>29.3/일 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>39,822 ★ |
+| **[Web / 프론트엔드](#web--프론트엔드)** | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>146/일 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>91.6/일 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>89.9/일 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>83.4/일 | [facebook/react](https://github.com/facebook/react)<br>252,979 ★ |
+| **[인프라](#인프라)** | 없음 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>47.7/일 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>41.4/일 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>33.9/일 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>129,374 ★ |
+| **[디자인 / 크리에이티브](#디자인--크리에이티브)** | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>138/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>60.4/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>63.8/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>73.0/일 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>136,401 ★ |
+| **[데이터](#데이터)** | 없음 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>30.3/일 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>27.9/일 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>25.9/일 | [apache/superset](https://github.com/apache/superset)<br>75,713 ★ |
 
 여기에는 랭킹마다 상위 10개만 싣습니다. 상위 20개 전체는 [latest/rankings.ko.md](latest/rankings.ko.md)에 있습니다.
 
@@ -66,39 +66,39 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>순수 어셈블리로 LLM을 직접 실행하고 학습 | 2026-11-25<br><sub>1.4일</sub> | 1,257 | 889.8 |
-| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>5.1일</sub> | 4,186 | 818.7 |
-| 3 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>코딩 에이전트를 게임 개발자로 전환 | 2026-11-25<br><sub>1.3일</sub> | 596 | 464.6 |
-| 4 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬 | 2026-11-25<br><sub>1.3일</sub> | 406 | 305.0 |
-| 5 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat)<br>데스크톱에서 타이핑을 함께하는 무료 오픈 소스 고양이 | 2026-11-21<br><sub>5.1일</sub> | 1,317 | 260.0 |
-| 6 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>어떤 게임이든 다른 엔진으로 똑같이 재구현 | 2026-11-25<br><sub>1.4일</sub> | 292 | 202.3 |
-| 7 | [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill)<br>캔버스에서 UI를 그리고 바로 코드로 만드는 스킬 | 2026-11-25<br><sub>1.0일</sub> | 196 | 196.0 |
-| 8 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>4.0일</sub> | 771 | 191.5 |
-| 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>화면에 띄워두고 함께하는 데스크톱 고양이 | 2026-11-23<br><sub>3.7일</sub> | 659 | 179.2 |
-| 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking)<br>도트 그림 네 장을 회전하는 의사 3D로 변환 | 2026-11-20<br><sub>6.1일</sub> | 1,024 | 167.4 |
+| 1 | [nexu-io/opengame](https://github.com/nexu-io/opengame)<br>코딩 에이전트를 게임 개발자로 전환 | 2026-11-25<br><sub>2.3일</sub> | 2,008 | 885.4 |
+| 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)<br>순수 어셈블리로 LLM을 직접 실행하고 학습 | 2026-11-25<br><sub>2.4일</sub> | 1,958 | 816.6 |
+| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | 2026-11-21<br><sub>6.1일</sub> | 4,417 | 724.3 |
+| 4 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)<br>fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. | 2026-11-26<br><sub>1.0일</sub> | 529 | 529.0 |
+| 5 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat)<br>KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… | 2026-11-21<br><sub>6.0일</sub> | 1,746 | 288.6 |
+| 6 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill)<br>설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬 | 2026-11-25<br><sub>2.3일</sub> | 522 | 225.4 |
+| 7 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)<br>남들이 찾기 전에 취약점을 빠르게 찾아내기 | 2026-11-22<br><sub>5.0일</sub> | 818 | 163.2 |
+| 8 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)<br>어떤 게임이든 다른 엔진으로 똑같이 재구현 | 2026-11-25<br><sub>2.4일</sub> | 395 | 162.6 |
+| 9 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat)<br>화면에 띄워두고 함께하는 데스크톱 고양이 | 2026-11-23<br><sub>4.7일</sub> | 753 | 161.5 |
+| 10 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)<br>100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code | 2026-11-23<br><sub>4.2일</sub> | 599 | 141.0 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
+
+<a href="https://www.star-history.com/#nexu-io/opengame&Date"><img src="https://api.star-history.com/svg?repos=nexu-io/opengame&type=Date" width="260" alt="nexu-io/opengame 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#alesha-pro/llm.asm&Date"><img src="https://api.star-history.com/svg?repos=alesha-pro/llm.asm&type=Date" width="260" alt="alesha-pro/llm.asm 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#EL4CTEO/fast-anything&Date"><img src="https://api.star-history.com/svg?repos=EL4CTEO/fast-anything&type=Date" width="260" alt="EL4CTEO/fast-anything 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#nexu-io/opengame&Date"><img src="https://api.star-history.com/svg?repos=nexu-io/opengame&type=Date" width="260" alt="nexu-io/opengame 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#gary23w/f-ck_data_brokers&Date"><img src="https://api.star-history.com/svg?repos=gary23w/f-ck_data_brokers&type=Date" width="260" alt="gary23w/f-ck_data_brokers 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#qianyiai/KuroCat&Date"><img src="https://api.star-history.com/svg?repos=qianyiai/KuroCat&type=Date" width="260" alt="qianyiai/KuroCat 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#Moh4696/inkworks-skill&Date"><img src="https://api.star-history.com/svg?repos=Moh4696/inkworks-skill&type=Date" width="260" alt="Moh4696/inkworks-skill 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#qianyiai/kurocat&Date"><img src="https://api.star-history.com/svg?repos=qianyiai/kurocat&type=Date" width="260" alt="qianyiai/kurocat 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#erkamyaman/safe-anything&Date"><img src="https://api.star-history.com/svg?repos=erkamyaman/safe-anything&type=Date" width="260" alt="erkamyaman/safe-anything 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#erkamyaman/rea-games&Date"><img src="https://api.star-history.com/svg?repos=erkamyaman/rea-games&type=Date" width="260" alt="erkamyaman/rea-games 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#uxpilot-ai/frontend-design-skill&Date"><img src="https://api.star-history.com/svg?repos=uxpilot-ai/frontend-design-skill&type=Date" width="260" alt="uxpilot-ai/frontend-design-skill 스타 추이 그래프"></a>
-
-<a href="https://www.star-history.com/#erkamyaman/safe-anything&Date"><img src="https://api.star-history.com/svg?repos=erkamyaman/safe-anything&type=Date" width="260" alt="erkamyaman/safe-anything 스타 추이 그래프"></a>
-
 <a href="https://www.star-history.com/#chanke17/KuroCat&Date"><img src="https://api.star-history.com/svg?repos=chanke17/KuroCat&type=Date" width="260" alt="chanke17/KuroCat 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#danielwh2/sprite-stacking&Date"><img src="https://api.star-history.com/svg?repos=danielwh2/sprite-stacking&type=Date" width="260" alt="danielwh2/sprite-stacking 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#DeadInternetStudios/100x-engineer-skill&Date"><img src="https://api.star-history.com/svg?repos=DeadInternetStudios/100x-engineer-skill&type=Date" width="260" alt="DeadInternetStudios/100x-engineer-skill 스타 추이 그래프"></a>
 
 </details>
 
@@ -106,23 +106,23 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | +10,526 | 1,503.7 | 479,491 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>AI 여러 개가 함께 쓰니 뭐가 나은지 한눈에<br>`AI` | +10,057 | 1,436.7 | 140,033 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | +4,735 | 676.4 | 199,231 |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | +4,355 | 622.1 | 311,165 |
-| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>편집 몰라도 웹페이지처럼 쓰면 영상이 된다<br>`AI` | +3,755 | 536.4 | 90,671 |
-| 6 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | +3,650 | 521.4 | 287,529 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 스킬 작성법은 공식 예제로 배운다<br>`AI` | +3,453 | 493.3 | 200,916 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>너무 커서 못 읽겠다면 이 지도부터 보자<br>`AI` | +3,321 | 474.4 | 153,748 |
-| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI가 똑같은 페이지만 만들지 않게<br>`AI` | +3,204 | 457.7 | 121,897 |
-| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI가 취약점을 찾고, 다른 AI가 하나씩 검증<br>`AI` | +3,059 | 437.0 | 78,704 |
+| 1 | [stablyai/orca](https://github.com/stablyai/orca)<br>AI 여러 개가 함께 쓰니 뭐가 나은지 한눈에<br>`AI` | +11,246 | 1,606.6 | 142,163 |
+| 2 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | +10,176 | 1,453.7 | 480,794 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | +4,633 | 661.9 | 199,877 |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | +4,280 | 611.4 | 311,672 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>편집 몰라도 웹페이지처럼 쓰면 영상이 된다<br>`AI` | +3,988 | 569.7 | 91,356 |
+| 6 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | +3,632 | 518.9 | 287,990 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 스킬 작성법은 공식 예제로 배운다<br>`AI` | +3,508 | 501.1 | 201,370 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>너무 커서 못 읽겠다면 이 지도부터 보자<br>`AI` | +3,308 | 472.6 | 154,162 |
+| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI가 똑같은 페이지만 만들지 않게<br>`AI` | +3,169 | 452.7 | 122,247 |
+| 10 | [yetone/magpie](https://github.com/yetone/magpie)<br>코딩 AI의 모델을 바꾸고, 한도가 차도 이어서<br>`AI` | +3,085 | 440.7 | 42,456 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
 
-<a href="https://www.star-history.com/#morluto/rea&Date"><img src="https://api.star-history.com/svg?repos=morluto/rea&type=Date" width="260" alt="morluto/rea 스타 추이 그래프"></a>
-
 <a href="https://www.star-history.com/#stablyai/orca&Date"><img src="https://api.star-history.com/svg?repos=stablyai/orca&type=Date" width="260" alt="stablyai/orca 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#morluto/rea&Date"><img src="https://api.star-history.com/svg?repos=morluto/rea&type=Date" width="260" alt="morluto/rea 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#DietrichGebert/ponytail&Date"><img src="https://api.star-history.com/svg?repos=DietrichGebert/ponytail&type=Date" width="260" alt="DietrichGebert/ponytail 스타 추이 그래프"></a>
 
@@ -138,7 +138,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 <a href="https://www.star-history.com/#Leonxlnx/taste-skill&Date"><img src="https://api.star-history.com/svg?repos=Leonxlnx/taste-skill&type=Date" width="260" alt="Leonxlnx/taste-skill 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#cloudflare/security-audit-skill&Date"><img src="https://api.star-history.com/svg?repos=cloudflare/security-audit-skill&type=Date" width="260" alt="cloudflare/security-audit-skill 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie 스타 추이 그래프"></a>
 
 </details>
 
@@ -146,16 +146,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | +87,840 | 2,928.0 | 479,491 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>AI 여러 개가 함께 쓰니 뭐가 나은지 한눈에<br>`AI` | +32,389 | 1,079.6 | 140,033 |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI가 취약점을 찾고, 다른 AI가 하나씩 검증<br>`AI` | +29,884 | 996.1 | 78,704 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | +25,584 | 852.8 | 287,529 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | +22,256 | 741.9 | 199,231 |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | +21,938 | 731.3 | 311,165 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>코딩 AI의 모델을 바꾸고, 한도가 차도 이어서<br>`AI` | +19,127 | 637.6 | 41,966 |
-| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI가 똑같은 페이지만 만들지 않게<br>`AI` | +18,954 | 631.8 | 121,897 |
-| 9 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>너무 커서 못 읽겠다면 이 지도부터 보자<br>`AI` | +17,688 | 589.6 | 153,748 |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>편집 몰라도 웹페이지처럼 쓰면 영상이 된다<br>`AI` | +17,361 | 578.7 | 90,671 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | +83,714 | 2,790.5 | 480,794 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca)<br>AI 여러 개가 함께 쓰니 뭐가 나은지 한눈에<br>`AI` | +33,698 | 1,123.3 | 142,163 |
+| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>AI가 취약점을 찾고, 다른 AI가 하나씩 검증<br>`AI` | +28,711 | 957.0 | 79,151 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | +24,951 | 831.7 | 287,990 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | +21,911 | 730.4 | 199,877 |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | +21,455 | 715.2 | 311,672 |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>AI가 똑같은 페이지만 만들지 않게<br>`AI` | +18,679 | 622.6 | 122,247 |
+| 8 | [yetone/magpie](https://github.com/yetone/magpie)<br>코딩 AI의 모델을 바꾸고, 한도가 차도 이어서<br>`AI` | +18,570 | 619.0 | 42,456 |
+| 9 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 스킬 작성법은 공식 예제로 배운다<br>`AI` | +17,400 | 580.0 | 201,370 |
+| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>너무 커서 못 읽겠다면 이 지도부터 보자<br>`AI` | +17,337 | 577.9 | 154,162 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -172,13 +172,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 <a href="https://www.star-history.com/#affaan-m/ECC&Date"><img src="https://api.star-history.com/svg?repos=affaan-m/ECC&type=Date" width="260" alt="affaan-m/ECC 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie 스타 추이 그래프"></a>
-
 <a href="https://www.star-history.com/#Leonxlnx/taste-skill&Date"><img src="https://api.star-history.com/svg?repos=Leonxlnx/taste-skill&type=Date" width="260" alt="Leonxlnx/taste-skill 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#Graphify-Labs/graphify&Date"><img src="https://api.star-history.com/svg?repos=Graphify-Labs/graphify&type=Date" width="260" alt="Graphify-Labs/graphify 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#yetone/magpie&Date"><img src="https://api.star-history.com/svg?repos=yetone/magpie&type=Date" width="260" alt="yetone/magpie 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#heygen-com/hyperframes&Date"><img src="https://api.star-history.com/svg?repos=heygen-com/hyperframes&type=Date" width="260" alt="heygen-com/hyperframes 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#anthropics/skills&Date"><img src="https://api.star-history.com/svg?repos=anthropics/skills&type=Date" width="260" alt="anthropics/skills 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#Graphify-Labs/graphify&Date"><img src="https://api.star-history.com/svg?repos=Graphify-Labs/graphify&type=Date" width="260" alt="Graphify-Labs/graphify 스타 추이 그래프"></a>
 
 </details>
 
@@ -186,16 +186,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | +287,246 | 2,735.7 †<br><sub>÷105일</sub> | 287,529 |
-| 2 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | +478,842 | 2,118.8 †<br><sub>÷226일</sub> | 479,491 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | +198,900 | 1,191.0 †<br><sub>÷167일</sub> | 199,231 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>일을 끝내는 AI 비서, 내 기기에서 돌아간다<br>`AI` | +395,182 | 1,082.7 | 395,279 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | +310,876 | 996.4 †<br><sub>÷312일</sub> | 311,165 |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>쓸수록 일을 더 잘하는 AI 도우미<br>`AI` | +266,173 | 729.2 | 266,322 |
-| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>코딩 AI의 모델을 바꾸고, 한도가 차도 이어서<br>`AI` | +41,723 | 651.9 †<br><sub>÷64일</sub> | 41,966 |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>너무 커서 못 읽겠다면 이 지도부터 보자<br>`AI` | +153,503 | 647.7 †<br><sub>÷237일</sub> | 153,748 |
-| 9 | [stablyai/orca](https://github.com/stablyai/orca)<br>AI 여러 개가 함께 쓰니 뭐가 나은지 한눈에<br>`AI` | +138,951 | 547.1 †<br><sub>÷254일</sub> | 140,033 |
-| 10 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>터미널에서 오픈 소스 AI가 코드를 쓴다<br>`AI` | +196,689 | 538.9 | 229,364 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | +287,777 | 2,714.9 †<br><sub>÷106일</sub> | 287,990 |
+| 2 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | +480,214 | 2,115.5 †<br><sub>÷227일</sub> | 480,794 |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | +199,538 | 1,187.7 †<br><sub>÷168일</sub> | 199,877 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>일을 끝내는 AI 비서, 내 기기에서 돌아간다<br>`AI` | +395,244 | 1,082.9 | 395,344 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | +311,430 | 995.0 †<br><sub>÷313일</sub> | 311,672 |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>쓸수록 일을 더 잘하는 AI 도우미<br>`AI` | +266,466 | 730.0 | 266,588 |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie)<br>코딩 AI의 모델을 바꾸고, 한도가 차도 이어서<br>`AI` | +42,252 | 650.0 †<br><sub>÷65일</sub> | 42,456 |
+| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br>너무 커서 못 읽겠다면 이 지도부터 보자<br>`AI` | +153,955 | 646.9 †<br><sub>÷238일</sub> | 154,162 |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca)<br>AI 여러 개가 함께 쓰니 뭐가 나은지 한눈에<br>`AI` | +141,228 | 553.8 †<br><sub>÷255일</sub> | 142,163 |
+| 10 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>터미널에서 오픈 소스 AI가 코드를 쓴다<br>`AI` | +196,785 | 539.1 | 229,599 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -228,16 +228,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | 479,491 |
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>일을 끝내는 AI 비서, 내 기기에서 돌아간다<br>`AI` | 395,279 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | 311,165 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | 287,529 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>쓸수록 일을 더 잘하는 AI 도우미<br>`AI` | 266,322 |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>터미널에서 오픈 소스 AI가 코드를 쓴다<br>`AI` | 229,364 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 스킬 작성법은 공식 예제로 배운다<br>`AI` | 200,916 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | 199,231 |
-| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>설정 파일 안 고치고 원클릭으로 전환<br>`AI` | 157,407 |
-| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>AI가 만든 화면을 전문가 디자인처럼<br>`AI` | 154,560 |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br>AI가 어떤 소프트웨어든 클론해 준다<br>`AI` | 480,794 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>일을 끝내는 AI 비서, 내 기기에서 돌아간다<br>`AI` | 395,344 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>코딩 AI에 기억, 스킬, 보안 점검을 더한다<br>`AI` | 311,672 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>원하는 에이전트를 플러그인으로 직접 조립<br>`AI` | 287,990 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>쓸수록 일을 더 잘하는 AI 도우미<br>`AI` | 266,588 |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>터미널에서 오픈 소스 AI가 코드를 쓴다<br>`AI` | 229,599 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br>Claude 스킬 작성법은 공식 예제로 배운다<br>`AI` | 201,370 |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>AI의 쓸데없는 코드는 줄이고 필요한 건 정확히<br>`AI` | 199,877 |
+| 9 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>설정 파일 안 고치고 원클릭으로 전환<br>`AI` | 157,646 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>AI가 만든 화면을 전문가 디자인처럼<br>`AI` | 155,008 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -272,16 +272,16 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>모든 기능을 포함한 Studioonepro7 데스크톱 버전 | 2026-11-21<br><sub>5.0일</sub> | 340 | 67.9 |
-| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe 데스크톱 금융 관리 버전 | 2026-11-21<br><sub>5.0일</sub> | 338 | 67.5 |
-| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility 데스크톱 관리 도구 | 2026-11-21<br><sub>5.0일</sub> | 337 | 67.3 |
-| 4 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>MediaTek 지원 SP Flash Tool 명령줄 도구 | 2026-11-21<br><sub>5.0일</sub> | 337 | 67.3 |
-| 5 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>게임 향상용 Rust 외부 트레이너 툴 | 2026-11-21<br><sub>5.0일</sub> | 336 | 67.1 |
-| 6 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring 화면 미러링 도구 | 2026-11-21<br><sub>5.0일</sub> | 336 | 67.1 |
-| 7 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 데스크톱 디스크 이미지 도구 | 2026-11-21<br><sub>5.0일</sub> | 336 | 67.1 |
-| 8 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer 데스크톱 자산 배분 도구 | 2026-11-21<br><sub>5.1일</sub> | 338 | 66.8 |
-| 9 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Discord 및 Telegram용 MetaTrader 5 bot | 2026-11-21<br><sub>5.1일</sub> | 338 | 66.3 |
-| 10 | [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility)<br>MicroStation Utility 데스크톱 엔지니어링 도구 | 2026-11-21<br><sub>5.1일</sub> | 336 | 66.1 |
+| 1 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release)<br>모든 기능을 포함한 Studioonepro7 데스크톱 버전 | 2026-11-21<br><sub>6.0일</sub> | 340 | 56.7 |
+| 2 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe)<br>Quicken Deluxe 데스크톱 금융 관리 버전 | 2026-11-21<br><sub>6.0일</sub> | 338 | 56.4 |
+| 3 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility)<br>Startall Back Utility 데스크톱 관리 도구 | 2026-11-21<br><sub>6.0일</sub> | 337 | 56.2 |
+| 4 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool)<br>MediaTek 지원 SP Flash Tool 명령줄 도구 | 2026-11-21<br><sub>6.0일</sub> | 337 | 56.2 |
+| 5 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool)<br>게임 향상용 Rust 외부 트레이너 툴 | 2026-11-21<br><sub>6.0일</sub> | 337 | 56.2 |
+| 6 | [jshami391-bit/scrcpy-screen-mirroring](https://github.com/jshami391-bit/scrcpy-screen-mirroring)<br>Scrcpy Screen Mirroring 화면 미러링 도구 | 2026-11-21<br><sub>6.0일</sub> | 336 | 56.1 |
+| 7 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso)<br>Ultra ISO 데스크톱 디스크 이미지 도구 | 2026-11-21<br><sub>6.0일</sub> | 336 | 56.1 |
+| 8 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer)<br>Portfolio Rebalancer 데스크톱 자산 배분 도구 | 2026-11-21<br><sub>6.0일</sub> | 338 | 55.9 |
+| 9 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot)<br>Discord 및 Telegram용 MetaTrader 5 bot | 2026-11-21<br><sub>6.1일</sub> | 338 | 55.6 |
+| 10 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio)<br>Microsoft Visio 다이어그램 및 벡터 그래픽 데스크톱 앱 | 2026-11-21<br><sub>6.1일</sub> | 336 | 55.3 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -304,7 +304,7 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 <a href="https://www.star-history.com/#ayux777/metatrader-5-bot&Date"><img src="https://api.star-history.com/svg?repos=ayux777/metatrader-5-bot&type=Date" width="260" alt="ayux777/metatrader-5-bot 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#njoniktu5/microstation-utility&Date"><img src="https://api.star-history.com/svg?repos=njoniktu5/microstation-utility&type=Date" width="260" alt="njoniktu5/microstation-utility 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#jorgezaltoo-design/microsoft-visio&Date"><img src="https://api.star-history.com/svg?repos=jorgezaltoo-design/microsoft-visio&type=Date" width="260" alt="jorgezaltoo-design/microsoft-visio 스타 추이 그래프"></a>
 
 </details>
 
@@ -312,14 +312,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | +512 | 73.1 | 95,787 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | +389 | 55.6 | 92,711 |
-| 3 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | +323 | 46.1 | 70,374 |
-| 4 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | +264 | 37.7 | 96,989 |
-| 5 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | +252 | 36.0 | 36,547 |
-| 6 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | +153 | 21.9 | 47,234 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | +117 | 16.7 | 47,032 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | +96 | 13.7 | 26,221 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | +513 | 73.3 | 95,842 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | +335 | 47.9 | 92,731 |
+| 3 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | +327 | 46.7 | 70,402 |
+| 4 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | +247 | 35.3 | 36,578 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | +244 | 34.9 | 97,006 |
+| 6 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | +176 | 25.1 | 47,262 |
+| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | +136 | 19.4 | 47,065 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | +87 | 12.4 | 26,232 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -330,9 +330,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 <a href="https://www.star-history.com/#BurntSushi/ripgrep&Date"><img src="https://api.star-history.com/svg?repos=BurntSushi/ripgrep&type=Date" width="260" alt="BurntSushi/ripgrep 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#oven-sh/bun&Date"><img src="https://api.star-history.com/svg?repos=oven-sh/bun&type=Date" width="260" alt="oven-sh/bun 스타 추이 그래프"></a>
-
 <a href="https://www.star-history.com/#jdx/mise&Date"><img src="https://api.star-history.com/svg?repos=jdx/mise&type=Date" width="260" alt="jdx/mise 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#oven-sh/bun&Date"><img src="https://api.star-history.com/svg?repos=oven-sh/bun&type=Date" width="260" alt="oven-sh/bun 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#cli/cli&Date"><img src="https://api.star-history.com/svg?repos=cli/cli&type=Date" width="260" alt="cli/cli 스타 추이 그래프"></a>
 
@@ -346,14 +346,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | +3,784 | 126.1 | 95,787 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | +1,660 | 55.3 | 92,711 |
-| 3 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | +1,183 | 39.4 | 36,547 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | +1,030 | 34.3 | 70,374 |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | +736 | 24.5 | 96,989 |
-| 6 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | +513 | 17.1 | 47,234 |
-| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | +433 | 14.4 | 47,032 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | +259 | 8.6 | 26,221 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | +3,786 | 126.2 | 95,842 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | +1,651 | 55.0 | 92,731 |
+| 3 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | +1,169 | 39.0 | 36,578 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | +1,022 | 34.1 | 70,402 |
+| 5 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | +727 | 24.2 | 97,006 |
+| 6 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | +534 | 17.8 | 47,262 |
+| 7 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | +454 | 15.1 | 47,065 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | +258 | 8.6 | 26,232 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -380,14 +380,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | +27,445 | 75.2 | 95,787 |
-| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | +20,585 | 56.4 | 92,711 |
-| 3 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | +16,605 | 45.5 | 96,989 |
-| 4 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | +15,340 | 42.0 | 36,547 |
-| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | +13,473 | 36.9 | 70,374 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | +6,426 | 17.6 | 47,032 |
-| 7 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | +6,395 | 17.5 | 47,234 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | +4,350 | 11.9 | 26,221 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | +27,429 | 75.1 | 95,842 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | +20,535 | 56.3 | 92,731 |
+| 3 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | +16,603 | 45.5 | 97,006 |
+| 4 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | +15,335 | 42.0 | 36,578 |
+| 5 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | +13,470 | 36.9 | 70,402 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | +6,436 | 17.6 | 47,065 |
+| 7 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | +6,422 | 17.6 | 47,262 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | +4,351 | 11.9 | 26,232 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -414,14 +414,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | 96,989 |
-| 2 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | 95,787 |
-| 3 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | 92,711 |
-| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | 70,374 |
-| 5 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | 47,234 |
-| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | 47,032 |
-| 7 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | 36,547 |
-| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | 26,221 |
+| 1 | [oven-sh/bun](https://github.com/oven-sh/bun)<br>실행·번들·테스트·설치를 도구 하나로<br>`개발자 도구` | 97,006 |
+| 2 | [zed-industries/zed](https://github.com/zed-industries/zed)<br>열자마자 빠르고, 함께 코딩도 된다<br>`개발자 도구` | 95,842 |
+| 3 | [astral-sh/uv](https://github.com/astral-sh/uv)<br>Python 패키지 설치, 더 이상 기다리지 않는다<br>`개발자 도구` | 92,731 |
+| 4 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)<br>폴더 전체의 글자 검색, grep보다 빠르다<br>`개발자 도구` | 70,402 |
+| 5 | [cli/cli](https://github.com/cli/cli)<br>브라우저 없이 명령줄에서 GitHub 처리<br>`개발자 도구` | 47,262 |
+| 6 | [helix-editor/helix](https://github.com/helix-editor/helix)<br>구문 강조와 언어 서버가 내장된 텍스트 편집기<br>`개발자 도구` | 47,065 |
+| 7 | [jdx/mise](https://github.com/jdx/mise)<br>개발 도구·환경 변수·작업을 도구 하나로<br>`개발자 도구` | 36,578 |
+| 8 | [biomejs/biome](https://github.com/biomejs/biome)<br>웹 코드 정리와 점검을 도구 하나로<br>`개발자 도구` | 26,232 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -452,12 +452,24 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지 | 2026-11-25<br><sub>1.3일</sub> | 125 | 99.3 |
+| 1 | [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan)<br>Deploy Avast Premium Security Fadalan, then document configuration and runtime status. | 2026-11-27<br><sub>1.0일</sub> | 138 | 138.0 |
+| 2 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec)<br>Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지 | 2026-11-25<br><sub>2.2일</sub> | 153 | 68.2 |
+| 3 | [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend)<br>Agentic ASPM, the open source Snyk alternative. A full security audit in one command | 2026-11-23<br><sub>4.1일</sub> | 117 | 28.8 |
+| 4 | [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)<br>Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… | 2026-11-21<br><sub>6.0일</sub> | 138 | 22.8 |
+| 5 | [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search)<br>Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. | 2026-11-22<br><sub>5.4일</sub> | 105 | 19.4 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
 
+<a href="https://www.star-history.com/#testcompupa-sketch/avast-premium-security-fadalan&Date"><img src="https://api.star-history.com/svg?repos=testcompupa-sketch/avast-premium-security-fadalan&type=Date" width="260" alt="testcompupa-sketch/avast-premium-security-fadalan 스타 추이 그래프"></a>
+
 <a href="https://www.star-history.com/#RobustaStudio/semsec&Date"><img src="https://api.star-history.com/svg?repos=RobustaStudio/semsec&type=Date" width="260" alt="RobustaStudio/semsec 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#CybeDefend/cybedefend&Date"><img src="https://api.star-history.com/svg?repos=CybeDefend/cybedefend&type=Date" width="260" alt="CybeDefend/cybedefend 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#sresarehumantoo/ARTEX-CC&Date"><img src="https://api.star-history.com/svg?repos=sresarehumantoo/ARTEX-CC&type=Date" width="260" alt="sresarehumantoo/ARTEX-CC 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#Venky7514/Stalker-Search&Date"><img src="https://api.star-history.com/svg?repos=Venky7514/Stalker-Search&type=Date" width="260" alt="Venky7514/Stalker-Search 스타 추이 그래프"></a>
 
 </details>
 
@@ -465,14 +477,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | +242 | 34.6 | 39,787 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | +222 | 31.7 | 33,323 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | +155 | 22.1 | 17,980 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | +88 | 12.6 | 34,211 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | +72 | 10.3 | 11,638 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | +57 | 8.1 | 13,352 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | +25 | 3.6 | 9,616 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | +13 | 1.9 | 9,026 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | +254 | 36.3 | 39,822 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | +227 | 32.4 | 33,367 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | +165 | 23.6 | 18,009 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | +91 | 13.0 | 34,221 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | +74 | 10.6 | 11,645 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | +54 | 7.7 | 13,359 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | +25 | 3.6 | 9,620 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | +14 | 2.0 | 9,027 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -499,14 +511,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | +1,055 | 35.2 | 39,787 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | +1,013 | 33.8 | 33,323 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | +684 | 22.8 | 17,980 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | +491 | 16.4 | 34,211 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | +368 | 12.3 | 11,638 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | +252 | 8.4 | 13,352 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | +95 | 3.2 | 9,616 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | +40 | 1.3 | 9,026 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | +1,063 | 35.4 | 39,822 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | +1,027 | 34.2 | 33,367 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | +709 | 23.6 | 18,009 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | +490 | 16.3 | 34,221 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | +361 | 12.0 | 11,645 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | +241 | 8.0 | 13,359 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | +92 | 3.1 | 9,620 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | +42 | 1.4 | 9,027 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -533,14 +545,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | +10,667 | 29.2 | 39,787 |
-| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | +8,033 | 22.0 | 33,323 |
-| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | +4,713 | 12.9 | 17,980 |
-| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | +3,727 | 10.2 | 34,211 |
-| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | +3,655 | 10.0 | 11,638 |
-| 6 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | +2,427 | 6.6 | 13,352 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | +1,275 | 3.5 | 9,616 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | +562 | 1.5 | 9,026 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | +10,700 | 29.3 | 39,822 |
+| 2 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | +8,058 | 22.1 | 33,367 |
+| 3 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | +4,741 | 13.0 | 18,009 |
+| 4 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | +3,730 | 10.2 | 34,221 |
+| 5 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | +3,661 | 10.0 | 11,645 |
+| 6 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | +2,429 | 6.7 | 13,359 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | +1,274 | 3.5 | 9,620 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | +562 | 1.5 | 9,027 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -567,14 +579,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | 39,787 |
-| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | 34,211 |
-| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | 33,323 |
-| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | 17,980 |
-| 5 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | 13,352 |
-| 6 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | 11,638 |
-| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | 9,616 |
-| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | 9,026 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)<br>컨테이너와 코드 저장소 보안 점검을 한 번에<br>`보안` | 39,822 |
+| 2 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>앱 보안은 이 간결한 가이드로<br>`보안` | 34,221 |
+| 3 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br>템플릿 하나로 취약점을 한꺼번에 스캔<br>`보안` | 33,367 |
+| 4 | [semgrep/semgrep](https://github.com/semgrep/semgrep)<br>코드의 문제는 커밋 전에 찾아낸다<br>`보안` | 18,009 |
+| 5 | [anchore/grype](https://github.com/anchore/grype)<br>컨테이너 이미지에 취약점이 있는지 스캔으로 확인<br>`보안` | 13,359 |
+| 6 | [google/osv-scanner](https://github.com/google/osv-scanner)<br>쓰는 의존성이 안전한지, 스캔하면 안다<br>`보안` | 11,645 |
+| 7 | [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>클라우드의 이상 징후를 바로 안다<br>`보안` | 9,620 |
+| 8 | [securego/gosec](https://github.com/securego/gosec)<br>Go 코드의 보안 문제를 스캔으로 찾는다<br>`보안` | 9,027 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -605,18 +617,24 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound)<br>스티커에 최대 5초 길이의 소리를 추가 | 2026-11-24<br><sub>1.8일</sub> | 238 | 131.4 |
-| 2 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>2.8일</sub> | 128 | 45.3 |
-| 3 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>Muse가 안전하게 승인받고 로컬 파일을 다루게 하세요 | 2026-11-24<br><sub>2.5일</sub> | 115 | 45.2 |
+| 1 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork)<br>交互式电子电路学堂：用可以动手拨弄的仿真学电路 | 2026-11-24<br><sub>3.5일</sub> | 510 | 145.9 |
+| 2 | [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink)<br>MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… | 2026-11-24<br><sub>3.5일</sub> | 228 | 64.6 |
+| 3 | [terry-holmes71/devlabs](https://github.com/terry-holmes71/devlabs) | 2026-11-23<br><sub>3.8일</sub> | 128 | 33.6 |
+| 4 | [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller)<br>Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. | 2026-11-23<br><sub>4.6일</sub> | 109 | 23.6 |
+| 5 | [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill)<br>Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… | 2026-11-23<br><sub>4.1일</sub> | 116 | 28.5 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
 
-<a href="https://www.star-history.com/#SilverFeit/StikSound&Date"><img src="https://api.star-history.com/svg?repos=SilverFeit/StikSound&type=Date" width="260" alt="SilverFeit/StikSound 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#linjiejim/ohmwork&Date"><img src="https://api.star-history.com/svg?repos=linjiejim/ohmwork&type=Date" width="260" alt="linjiejim/ohmwork 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#Aenvo/MuseLink&Date"><img src="https://api.star-history.com/svg?repos=Aenvo/MuseLink&type=Date" width="260" alt="Aenvo/MuseLink 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#terry-holmes71/devlabs&Date"><img src="https://api.star-history.com/svg?repos=terry-holmes71/devlabs&type=Date" width="260" alt="terry-holmes71/devlabs 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#Aenvo/MuseLink&Date"><img src="https://api.star-history.com/svg?repos=Aenvo/MuseLink&type=Date" width="260" alt="Aenvo/MuseLink 스타 추이 그래프"></a>
+<a href="https://www.star-history.com/#Buggo404/RID-Uninstaller&Date"><img src="https://api.star-history.com/svg?repos=Buggo404/RID-Uninstaller&type=Date" width="260" alt="Buggo404/RID-Uninstaller 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#scrolltide/ai-studio-skill&Date"><img src="https://api.star-history.com/svg?repos=scrolltide/ai-studio-skill&type=Date" width="260" alt="scrolltide/ai-studio-skill 스타 추이 그래프"></a>
 
 </details>
 
@@ -624,14 +642,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | +634 | 90.6 | 129,160 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | +386 | 55.1 | 252,987 |
-| 3 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | +357 | 51.0 | 89,949 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | +242 | 34.6 | 98,849 |
-| 5 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | +212 | 30.3 | 143,740 |
-| 6 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | +184 | 26.3 | 64,230 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | +137 | 19.6 | 55,147 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | +84 | 12.0 | 50,656 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | +641 | 91.6 | 129,253 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | +351 | 50.1 | 252,979 |
+| 3 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | +302 | 43.1 | 89,954 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | +233 | 33.3 | 98,862 |
+| 5 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | +216 | 30.9 | 143,751 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | +186 | 26.6 | 64,260 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | +150 | 21.4 | 55,183 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | +94 | 13.4 | 50,677 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -658,14 +676,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | +2,724 | 90.8 | 129,160 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | +1,711 | 57.0 | 252,987 |
-| 3 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | +1,618 | 53.9 | 89,949 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | +1,043 | 34.8 | 98,849 |
-| 5 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | +812 | 27.1 | 64,230 |
-| 6 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | +788 | 26.3 | 143,740 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | +468 | 15.6 | 55,147 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | +220 | 7.3 | 50,656 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | +2,696 | 89.9 | 129,253 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | +1,646 | 54.9 | 252,979 |
+| 3 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | +1,605 | 53.5 | 89,954 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | +1,041 | 34.7 | 98,862 |
+| 5 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | +805 | 26.8 | 64,260 |
+| 6 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | +789 | 26.3 | 143,751 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | +480 | 16.0 | 55,183 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | +234 | 7.8 | 50,677 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -692,14 +710,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | +30,439 | 83.4 | 129,160 |
-| 2 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | +15,782 | 43.2 | 252,987 |
-| 3 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | +10,643 | 29.2 | 64,230 |
-| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | +10,410 | 28.5 | 143,740 |
-| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | +8,992 | 24.6 | 98,849 |
-| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | +6,251 | 17.1 | 89,949 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | +3,738 | 10.2 | 55,147 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | +3,694 | 10.1 | 50,656 |
+| 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | +30,457 | 83.4 | 129,253 |
+| 2 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | +15,731 | 43.1 | 252,979 |
+| 3 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | +10,645 | 29.2 | 64,260 |
+| 4 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | +10,396 | 28.5 | 143,751 |
+| 5 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | +8,984 | 24.6 | 98,862 |
+| 6 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | +6,240 | 17.1 | 89,954 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | +3,755 | 10.3 | 55,183 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | +3,690 | 10.1 | 50,677 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -726,14 +744,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | 252,987 |
-| 2 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | 143,740 |
-| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | 129,160 |
-| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | 98,849 |
-| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | 89,949 |
-| 6 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | 64,230 |
-| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | 55,147 |
-| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | 50,656 |
+| 1 | [facebook/react](https://github.com/facebook/react)<br>웹과 네이티브 앱 화면을 이걸로 만든다<br>`Web / 프론트엔드` | 252,979 |
+| 2 | [vercel/next.js](https://github.com/vercel/next.js)<br>React로 사이트 전체를 앞뒤까지 완성<br>`Web / 프론트엔드` | 143,751 |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>예쁜 컴포넌트, 코드는 내 것이니 마음대로 고친다<br>`Web / 프론트엔드` | 129,253 |
+| 4 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>CSS를 잔뜩 안 써도 맞춤 디자인<br>`Web / 프론트엔드` | 98,862 |
+| 5 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>작성한 컴포넌트를 컴파일러가 효율적인 웹 코드로<br>`Web / 프론트엔드` | 89,954 |
+| 6 | [withastro/astro](https://github.com/withastro/astro)<br>가벼운 결과물로 만드는 콘텐츠 중심 사이트<br>`Web / 프론트엔드` | 64,260 |
+| 7 | [vuejs/core](https://github.com/vuejs/core)<br>작은 페이지부터, 쓰는 만큼만 배운다<br>`Web / 프론트엔드` | 55,183 |
+| 8 | [tanstack/query](https://github.com/tanstack/query)<br>데이터 요청과 캐시는 이 도구에 맡긴다<br>`Web / 프론트엔드` | 50,677 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -768,14 +786,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | +352 | 50.3 | 79,575 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | +287 | 41.0 | 129,372 |
-| 3 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | +238 | 34.0 | 39,123 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | +237 | 33.9 | 67,913 |
-| 5 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | +231 | 33.0 | 78,208 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | +129 | 18.4 | 65,723 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | +71 | 10.1 | 50,345 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | +36 | 5.1 | 25,944 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | +334 | 47.7 | 79,631 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | +262 | 37.4 | 129,374 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | +227 | 32.4 | 78,225 |
+| 4 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | +211 | 30.1 | 39,116 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | +210 | 30.0 | 67,923 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | +130 | 18.6 | 65,760 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | +65 | 9.3 | 50,364 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | +29 | 4.1 | 25,948 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -784,11 +802,11 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 <a href="https://www.star-history.com/#kubernetes/kubernetes&Date"><img src="https://api.star-history.com/svg?repos=kubernetes/kubernetes&type=Date" width="260" alt="kubernetes/kubernetes 스타 추이 그래프"></a>
 
+<a href="https://www.star-history.com/#grafana/grafana&Date"><img src="https://api.star-history.com/svg?repos=grafana/grafana&type=Date" width="260" alt="grafana/grafana 스타 추이 그래프"></a>
+
 <a href="https://www.star-history.com/#docker/compose&Date"><img src="https://api.star-history.com/svg?repos=docker/compose&type=Date" width="260" alt="docker/compose 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#prometheus/prometheus&Date"><img src="https://api.star-history.com/svg?repos=prometheus/prometheus&type=Date" width="260" alt="prometheus/prometheus 스타 추이 그래프"></a>
-
-<a href="https://www.star-history.com/#grafana/grafana&Date"><img src="https://api.star-history.com/svg?repos=grafana/grafana&type=Date" width="260" alt="grafana/grafana 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#traefik/traefik&Date"><img src="https://api.star-history.com/svg?repos=traefik/traefik&type=Date" width="260" alt="traefik/traefik 스타 추이 그래프"></a>
 
@@ -802,14 +820,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | +1,252 | 41.7 | 79,575 |
-| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | +1,220 | 40.7 | 67,913 |
-| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | +1,088 | 36.3 | 129,372 |
-| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | +818 | 27.3 | 78,208 |
-| 5 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | +697 | 23.2 | 39,123 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | +417 | 13.9 | 65,723 |
-| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | +345 | 11.5 | 50,345 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | +157 | 5.2 | 25,944 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | +1,241 | 41.4 | 79,631 |
+| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | +1,202 | 40.1 | 67,923 |
+| 3 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | +1,053 | 35.1 | 129,374 |
+| 4 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | +808 | 26.9 | 78,225 |
+| 5 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | +675 | 22.5 | 39,116 |
+| 6 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | +426 | 14.2 | 65,760 |
+| 7 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | +350 | 11.7 | 50,364 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | +159 | 5.3 | 25,948 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -836,14 +854,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | +12,369 | 33.9 | 79,575 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | +11,882 | 32.6 | 129,372 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | +8,081 | 22.1 | 78,208 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | +7,156 | 19.6 | 67,913 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | +7,151 | 19.6 | 65,723 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | +3,842 | 10.5 | 50,345 |
-| 7 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | +3,042 | 8.3 | 39,123 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | +2,081 | 5.7 | 25,944 |
+| 1 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | +12,383 | 33.9 | 79,631 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | +11,858 | 32.5 | 129,374 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | +8,082 | 22.1 | 78,225 |
+| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | +7,142 | 19.6 | 67,923 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | +7,055 | 19.3 | 65,760 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | +3,851 | 10.6 | 50,364 |
+| 7 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | +3,023 | 8.3 | 39,116 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | +2,076 | 5.7 | 25,948 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -870,14 +888,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | 129,372 |
-| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | 79,575 |
-| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | 78,208 |
-| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | 67,913 |
-| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | 65,723 |
-| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | 50,345 |
-| 7 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | 39,123 |
-| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | 25,944 |
+| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>컨테이너가 늘어도 배포와 확장은 맡긴다<br>`인프라` | 129,374 |
+| 2 | [caddyserver/caddy](https://github.com/caddyserver/caddy)<br>웹 서버를 세우면 HTTPS는 자동 설정<br>`인프라` | 79,631 |
+| 3 | [grafana/grafana](https://github.com/grafana/grafana)<br>지표·로그·트레이스를 한 대시보드에<br>`인프라` | 78,225 |
+| 4 | [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>시스템에 문제가 생기면 알림이 먼저 찾아온다<br>`인프라` | 67,923 |
+| 5 | [traefik/traefik](https://github.com/traefik/traefik)<br>서비스가 늘어도 트래픽은 자동 분배<br>`인프라` | 65,760 |
+| 6 | [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>클라우드 자원을 코드로, 검토도 버전 관리도<br>`인프라` | 50,364 |
+| 7 | [docker/compose](https://github.com/docker/compose)<br>여러 컨테이너를 파일 하나로 함께 실행<br>`인프라` | 39,116 |
+| 8 | [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>익숙한 프로그래밍 언어로 클라우드 자원 관리<br>`인프라` | 25,948 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -908,12 +926,30 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 생성일 (UTC) | 총 스타 | 스타/일 |
 |---|---|---|---:|---:|
-| 1 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube용 AI 동영상 편집 워크플로 | 2026-11-21<br><sub>5.0일</sub> | 338 | 67.6 |
+| 1 | [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio)<br>Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. | 2026-11-27<br><sub>1.0일</sub> | 138 | 138.0 |
+| 2 | [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments)<br>A hands-on gallery of interactive UI and motion | 2026-11-26<br><sub>1.3일</sub> | 121 | 92.8 |
+| 3 | [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design)<br>Build modular motion design workflows in After Effects with structured node-based composition. | 2026-11-27<br><sub>1.0일</sub> | 146 | 146.0 |
+| 4 | [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren)<br>Vector design tools refined for precision workflows - built to accelerate complex illustration | 2026-11-27<br><sub>1.0일</sub> | 146 | 146.0 |
+| 5 | [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design)<br>Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. | 2026-11-27<br><sub>1.0일</sub> | 143 | 143.0 |
+| 6 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system)<br>YouTube용 AI 동영상 편집 워크플로 | 2026-11-21<br><sub>6.0일</sub> | 338 | 56.5 |
+| 7 | [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan)<br>Real-time 3D texture painting with layer-based material workflows. | 2026-11-21<br><sub>6.7일</sub> | 151 | 22.6 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
 
+<a href="https://www.star-history.com/#prasathrathnayaka/krita-dadelan-art-studio&Date"><img src="https://api.star-history.com/svg?repos=prasathrathnayaka/krita-dadelan-art-studio&type=Date" width="260" alt="prasathrathnayaka/krita-dadelan-art-studio 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#guanmo-ai/ui-moments&Date"><img src="https://api.star-history.com/svg?repos=guanmo-ai/ui-moments&type=Date" width="260" alt="guanmo-ai/ui-moments 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#azzeddinemaadane3-eng/after-effects-nodemar-motion-design&Date"><img src="https://api.star-history.com/svg?repos=azzeddinemaadane3-eng/after-effects-nodemar-motion-design&type=Date" width="260" alt="azzeddinemaadane3-eng/after-effects-nodemar-motion-design 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#Marvin-poma/illustrator-pro-2026-jasaren&Date"><img src="https://api.star-history.com/svg?repos=Marvin-poma/illustrator-pro-2026-jasaren&type=Date" width="260" alt="Marvin-poma/illustrator-pro-2026-jasaren 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#Leandrojps7/illustrator-kalin-vector-design&Date"><img src="https://api.star-history.com/svg?repos=Leandrojps7/illustrator-kalin-vector-design&type=Date" width="260" alt="Leandrojps7/illustrator-kalin-vector-design 스타 추이 그래프"></a>
+
 <a href="https://www.star-history.com/#praseesh369/youtube-ai-video-editing-system&Date"><img src="https://api.star-history.com/svg?repos=praseesh369/youtube-ai-video-editing-system&type=Date" width="260" alt="praseesh369/youtube-ai-video-editing-system 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#bientoel-ctrl/substance-3d-painter-tacelan&Date"><img src="https://api.star-history.com/svg?repos=bientoel-ctrl/substance-3d-painter-tacelan&type=Date" width="260" alt="bientoel-ctrl/substance-3d-painter-tacelan 스타 추이 그래프"></a>
 
 </details>
 
@@ -921,13 +957,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | +431 | 61.6 | 136,356 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | +246 | 35.1 | 62,783 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | +161 | 23.0 | 26,016 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | +125 | 17.9 | 9,597 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | +123 | 17.6 | 43,012 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | +76 | 10.9 | 32,600 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | +34 | 4.9 | 7,861 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | +423 | 60.4 | 136,401 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | +263 | 37.6 | 62,823 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | +169 | 24.1 | 26,039 |
+| 4 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | +129 | 18.4 | 43,026 |
+| 5 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | +128 | 18.3 | 9,619 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | +82 | 11.7 | 32,611 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | +37 | 5.3 | 7,869 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects 애니메이션을 그대로 iOS에<br>`디자인 / 크리에이티브` | +0 | 0.0 | 43 |
 
 <details>
@@ -939,9 +975,9 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 <a href="https://www.star-history.com/#lucide-icons/lucide&Date"><img src="https://api.star-history.com/svg?repos=lucide-icons/lucide&type=Date" width="260" alt="lucide-icons/lucide 스타 추이 그래프"></a>
 
-<a href="https://www.star-history.com/#jgraph/drawio&Date"><img src="https://api.star-history.com/svg?repos=jgraph/drawio&type=Date" width="260" alt="jgraph/drawio 스타 추이 그래프"></a>
-
 <a href="https://www.star-history.com/#saadeghi/daisyui&Date"><img src="https://api.star-history.com/svg?repos=saadeghi/daisyui&type=Date" width="260" alt="saadeghi/daisyui 스타 추이 그래프"></a>
+
+<a href="https://www.star-history.com/#jgraph/drawio&Date"><img src="https://api.star-history.com/svg?repos=jgraph/drawio&type=Date" width="260" alt="jgraph/drawio 스타 추이 그래프"></a>
 
 <a href="https://www.star-history.com/#airbnb/lottie-web&Date"><img src="https://api.star-history.com/svg?repos=airbnb/lottie-web&type=Date" width="260" alt="airbnb/lottie-web 스타 추이 그래프"></a>
 
@@ -955,13 +991,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | +1,924 | 64.1 | 136,356 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | +1,163 | 38.8 | 62,783 |
-| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | +740 | 24.7 | 26,016 |
-| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | +602 | 20.1 | 9,597 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | +411 | 13.7 | 43,012 |
-| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | +342 | 11.4 | 32,600 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | +148 | 4.9 | 7,861 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | +1,913 | 63.8 | 136,401 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | +1,165 | 38.8 | 62,823 |
+| 3 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | +738 | 24.6 | 26,039 |
+| 4 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | +604 | 20.1 | 9,619 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | +421 | 14.0 | 43,026 |
+| 6 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | +357 | 11.9 | 32,611 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | +150 | 5.0 | 7,869 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects 애니메이션을 그대로 iOS에<br>`디자인 / 크리에이티브` | +0 | 0.0 | 43 |
 
 <details>
@@ -989,13 +1025,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | +26,689 | 73.1 | 136,356 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | +21,869 | 59.9 | 62,783 |
-| 3 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | +6,759 | 18.5 | 9,597 |
-| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | +6,501 | 17.8 | 26,016 |
-| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | +4,305 | 11.8 | 43,012 |
-| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | +2,173 | 6.0 | 7,861 |
-| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | +1,318 | 3.6 | 32,600 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | +26,662 | 73.0 | 136,401 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | +21,707 | 59.5 | 62,823 |
+| 3 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | +6,774 | 18.6 | 9,619 |
+| 4 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | +6,500 | 17.8 | 26,039 |
+| 5 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | +4,314 | 11.8 | 43,026 |
+| 6 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | +2,165 | 5.9 | 7,869 |
+| 7 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | +1,334 | 3.7 | 32,611 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects 애니메이션을 그대로 iOS에<br>`디자인 / 크리에이티브` | +1 | 0.0 | 43 |
 
 <details>
@@ -1023,13 +1059,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | 136,356 |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | 62,783 |
-| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | 43,012 |
-| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | 32,600 |
-| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | 26,016 |
-| 6 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | 9,597 |
-| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | 7,861 |
+| 1 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>열자마자 그린다, 종이에 낙서하듯<br>`디자인 / 크리에이티브` | 136,401 |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot)<br>팀이 함께 디자인, 오픈 소스 플랫폼에서<br>`디자인 / 크리에이티브` | 62,823 |
+| 3 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>Tailwind용 컴포넌트가 이미 준비돼 있다<br>`디자인 / 크리에이티브` | 43,026 |
+| 4 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>After Effects 애니메이션을 그대로 웹에<br>`디자인 / 크리에이티브` | 32,611 |
+| 5 | [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>스타일이 통일된 아이콘 세트, 바로 쓴다<br>`디자인 / 크리에이티브` | 26,039 |
+| 6 | [jgraph/drawio](https://github.com/jgraph/drawio)<br>다이어그램도 화이트보드도 에디터 하나로<br>`디자인 / 크리에이티브` | 9,619 |
+| 7 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>누구나 쓸 수 있는 유연한 아이콘 패밀리<br>`디자인 / 크리에이티브` | 7,869 |
 | 8 | [lottiefiles/lottie-ios](https://github.com/lottiefiles/lottie-ios)<br>After Effects 애니메이션을 그대로 iOS에<br>`디자인 / 크리에이티브` | 43 |
 
 <details>
@@ -1065,14 +1101,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | +204 | 29.1 | 43,381 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | +159 | 22.7 | 51,166 |
-| 3 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | +155 | 22.1 | 40,524 |
-| 4 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | +140 | 20.0 | 75,697 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | +136 | 19.4 | 34,360 |
-| 6 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | +39 | 5.6 | 17,354 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | +29 | 4.1 | 14,218 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>브라우저에서 코드를 쓰고 결과를 바로 확인<br>`데이터` | +11 | 1.6 | 13,486 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | +212 | 30.3 | 43,420 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | +169 | 24.1 | 51,195 |
+| 3 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | +159 | 22.7 | 40,541 |
+| 4 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | +135 | 19.3 | 75,713 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | +120 | 17.1 | 34,343 |
+| 6 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | +43 | 6.1 | 17,361 |
+| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | +34 | 4.9 | 14,221 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>브라우저에서 코드를 쓰고 결과를 바로 확인<br>`데이터` | +10 | 1.4 | 13,486 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -1099,13 +1135,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | +848 | 28.3 | 43,381 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | +604 | 20.1 | 51,166 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | +465 | 15.5 | 75,697 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | +367 | 12.2 | 40,524 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | +343 | 11.4 | 34,360 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | +147 | 4.9 | 14,218 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | +131 | 4.4 | 17,354 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | +838 | 27.9 | 43,420 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | +615 | 20.5 | 51,195 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | +461 | 15.4 | 75,713 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | +379 | 12.6 | 40,541 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | +318 | 10.6 | 34,343 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | +150 | 5.0 | 14,221 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | +131 | 4.4 | 17,361 |
 | 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>브라우저에서 코드를 쓰고 결과를 바로 확인<br>`데이터` | +34 | 1.1 | 13,486 |
 
 <details>
@@ -1133,14 +1169,14 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 증가 스타 | 스타/일 | 총 스타 |
 |---|---|---:|---:|---:|
-| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | +9,469 | 25.9 | 43,381 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | +7,539 | 20.7 | 51,166 |
-| 3 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | +7,406 | 20.3 | 75,697 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | +4,787 | 13.1 | 40,524 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | +3,369 | 9.2 | 34,360 |
-| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | +2,465 | 6.8 | 14,218 |
-| 7 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | +1,320 | 3.6 | 17,354 |
-| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>브라우저에서 코드를 쓰고 결과를 바로 확인<br>`데이터` | +852 | 2.3 | 13,486 |
+| 1 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | +9,471 | 25.9 | 43,420 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | +7,548 | 20.7 | 51,195 |
+| 3 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | +7,408 | 20.3 | 75,713 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | +4,785 | 13.1 | 40,541 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | +3,347 | 9.2 | 34,343 |
+| 6 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | +2,466 | 6.8 | 14,221 |
+| 7 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | +1,322 | 3.6 | 17,361 |
+| 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>브라우저에서 코드를 쓰고 결과를 바로 확인<br>`데이터` | +849 | 2.3 | 13,486 |
 
 <details>
 <summary>이 랭킹의 스타 추이 그래프</summary>
@@ -1167,13 +1203,13 @@ GitHub Trending은 GitHub 공식 페이지입니다. GitHub Risers는 독립적�
 
 | # | 프로젝트 | 총 스타 |
 |---|---|---:|
-| 1 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | 75,697 |
-| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | 51,166 |
-| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | 43,381 |
-| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | 40,524 |
-| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | 34,360 |
-| 6 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | 17,354 |
-| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | 14,218 |
+| 1 | [apache/superset](https://github.com/apache/superset)<br>데이터가 안 읽히면 차트로 만들면 보인다<br>`데이터` | 75,713 |
+| 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>대용량 데이터 실시간 분석, 오픈 소스로<br>`데이터` | 51,195 |
+| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>DB 서버 없이도 SQL 분석을 돌린다<br>`데이터` | 43,420 |
+| 4 | [pola-rs/polars](https://github.com/pola-rs/polars)<br>표 데이터 처리가 빨라 기다릴 일 없다<br>`데이터` | 40,541 |
+| 5 | [apache/kafka](https://github.com/apache/kafka)<br>시스템 간 이벤트 흐름을 분산 플랫폼으로 전달<br>`데이터` | 34,343 |
+| 6 | [apache/arrow](https://github.com/apache/arrow)<br>언어가 달라도 데이터가 그대로 통한다<br>`데이터` | 17,361 |
+| 7 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)<br>데이터 변환을 소프트웨어 개발 방식으로<br>`데이터` | 14,221 |
 | 8 | [jupyter/notebook](https://github.com/jupyter/notebook)<br>브라우저에서 코드를 쓰고 결과를 바로 확인<br>`데이터` | 13,486 |
 
 <details>

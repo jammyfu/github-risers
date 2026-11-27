@@ -6,6 +6,7 @@
 
 | 날짜 | 슬롯 | 가져온 시각(UTC) | 신규 1위(7일) | 이번 주 1위 | 이번 달 1위 | 올해 1위 | 스냅샷 |
 |---|---|---|---|---|---|---|---|
+| 2026-11-27 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-27T17:01:41Z | nexu-io/opengame (885/일) | stablyai/orca (1,607/일) | morluto/rea (2,790/일) | deepseek-ai/deepseek-harness (2,715/일) | [2026-11-27/pt-0000](2026-11-27/pt-0000/rankings.ko.md) · [json](2026-11-27/pt-0000/stats.json) |
 | 2026-11-26 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-26T17:23:08Z | alesha-pro/llm.asm (890/일) | morluto/rea (1,504/일) | morluto/rea (2,928/일) | deepseek-ai/deepseek-harness (2,736/일) | [2026-11-26/pt-0000](2026-11-26/pt-0000/rankings.ko.md) · [json](2026-11-26/pt-0000/stats.json) |
 | 2026-11-25 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-25T17:40:15Z | EL4CTEO/fast-anything (943/일) | morluto/rea (1,586/일) | morluto/rea (3,116/일) | deepseek-ai/deepseek-harness (2,757/일) | [2026-11-25/pt-0000](2026-11-25/pt-0000/rankings.ko.md) · [json](2026-11-25/pt-0000/stats.json) |
 | 2026-11-24 | 로스앤젤레스 00:00 (`pt-0000`) | 2026-11-24T18:25:37Z | EL4CTEO/fast-anything (1,122/일) | morluto/rea (1,683/일) | morluto/rea (3,281/일) | deepseek-ai/deepseek-harness (2,779/일) | [2026-11-24/pt-0000](2026-11-24/pt-0000/rankings.ko.md) · [json](2026-11-24/pt-0000/stats.json) |

@@ -117,26 +117,26 @@
 
 | 프로젝트 | 표의 한 줄 | 전체 설명 |
 |---|---|---|
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) | 코딩 에이전트를 게임 개발자로 전환 | 슈퍼 게임 에이전트 — 100+ 개 이상의 입소문 게임을 리믹스할 수 있는 AI 에이전트용 Unity &amp; Unreal. 20+ 개 이상의 코딩 에이전트 (Claude Code, Codex, DeepSeek, etc.)를… |
 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | 순수 어셈블리로 LLM을 직접 실행하고 학습 | 100% 순수 x86-64 NASM 어셈블리로 구현된 Qwen3-0.6B 추론 (12 KB), 베어메탈 부팅 가능 OS (22 KB), 실시간 점자 TUI가 포함된 밑바닥부터 시작하는 Mini-GPT 트레이너 (32 KB)… |
 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 앱이 느릴 때, 에이전트에게 느린 5%만 다시 맡기기 | Rust로 다시 작성하지 마세요. 느린 5%를 다시 작성하세요: Python, Node 또는 Ruby 앱을 프로파일링하고, 코딩 에이전트로 핫 함수를 포팅하고, 동일하게 동작함을 증… |
-| [nexu-io/opengame](https://github.com/nexu-io/opengame) | 코딩 에이전트를 게임 개발자로 전환 | 슈퍼 게임 에이전트 — 100+ 개 이상의 입소문 게임을 리믹스할 수 있는 AI 에이전트용 Unity &amp; Unreal. 20+ 개 이상의 코딩 에이전트 (Claude Code, Codex, DeepSeek, etc.)를… |
+| [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) |  | fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf. |
+| [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) |  | KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | 설계도처럼 움직이는 3D 설명 페이지를 그리는 스킬 | Inkworks: 엔지니어링 도면처럼 그려진 인터랙티브 3D 작동 원리 페이지를 위한 에이전트 스킬. |
-| [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | 데스크톱에서 타이핑을 함께하는 무료 오픈 소스 고양이 | KuroCat — 무료 오픈 소스 3D/2D 데스크톱 타이핑 고양이 &amp; AI 코딩 동반자 (Bongo Cat 대체재 · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/… |
-| [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 어떤 게임이든 다른 엔진으로 똑같이 재구현 | 모든 게임을 리버스 엔지니어링하고, 모든 엔진(web, Rust, Godot)으로 재구축하며, 프레임 단위로 동일하게 작동함을 입증합니다. 오픈 GAME.md…의 동작 사양 |
-| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 캔버스에서 UI를 그리고 바로 코드로 만드는 스킬 | Claude Code, Codex 및 Cursor용 무료 프론트엔드 디자인 스킬: UX Pilot 캔버스에서 UI를 디자인한 후 코드에서 빌드합니다 |
 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 남들이 찾기 전에 취약점을 빠르게 찾아내기 | 다른 사람이 찾기 전에 취약점을 찾아내세요. 빠른 100% Rust 취약점 스캐너: XSS, SQL 삽입, 유출된 비밀, 의존성 CVE 및 AI 에이전트 설정. |
+| [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | 어떤 게임이든 다른 엔진으로 똑같이 재구현 | 모든 게임을 리버스 엔지니어링하고, 모든 엔진(web, Rust, Godot)으로 재구축하며, 프레임 단위로 동일하게 작동함을 입증합니다. 오픈 GAME.md…의 동작 사양 |
 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | 화면에 띄워두고 함께하는 데스크톱 고양이 | KuroCat — 무료 오픈 소스 네이티브 데스크톱 고양이 펫 &amp; OBS 오버레이 (Bongo Cat 대안, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 /… |
-| [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 도트 그림 네 장을 회전하는 의사 3D로 변환 | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. |
-| [sous-labs/songe](https://github.com/sous-labs/songe) | 쉬는 컴퓨터 자원으로 내 로컬 모델 훈련하기 | 유휴 컴퓨팅을 활용한 로컬 모델용 학습 엔진 |
+| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) |  | 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code |
+| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) |  | Agent skill that draws an original icon library matching your design system (React, Vue, Svelte, React Native, SVG). |
 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | Linux 환경에서 AI 에이전트용 iOS 시뮬레이터를 구동 | Linux 환경의 AI 에이전트를 위한 iOS 시뮬레이터. x86Sim을 위한 에이전트 계층. |
-| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 지도에서 업체를 찾아 사이트를 만들고 입금 유치 | Google Maps부터 Pix까지의 오픈 소스 잠재 고객 발굴: Maps에서 업체를 찾아 각각의 이름으로 미리보기 사이트를 생성하고, WhatsApp에서 대화하여 Pix, Mercado P…로 결제 수취 |
 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 데스크톱에서 쓰는 오픈 소스 로컬 AI 에이전트 팀 | 데스크톱을 위한 오픈 소스, 로컬 우선 AI 에이전트 팀: 멀티 에이전트 그룹 채팅, 컴퓨터 사용, 브라우저, MCP, 루틴 및 승인. macOS, Windows, Linux + A… |
+| [uxpilot-ai/frontend-design-skill](https://github.com/uxpilot-ai/frontend-design-skill) | 캔버스에서 UI를 그리고 바로 코드로 만드는 스킬 | Claude Code, Codex 및 Cursor용 무료 프론트엔드 디자인 스킬: UX Pilot 캔버스에서 UI를 디자인한 후 코드에서 빌드합니다 |
 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | 기존 테스트가 통과하는 선에서 불필요한 코드와 파일을 정리 | 더 적은 코드로 동일한 테스트 통과: 모든 코드베이스에서 불필요한 코드, 파일, 종속성 및 에셋을 삭제하고 자체 테스트가 계속 통과하는 경우에만 각 삭제를 유지합니다. |
-| [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | AI 에이전트가 근거 기반 연구와 실험을 수행하도록 돕는 스킬 | 증거 기반 연구, 실험 및 경계 최적화를 위한 휴대용 에이전트 스킬 |
+| [matheusmongarde/garimpo](https://github.com/matheusmongarde/garimpo) | 지도에서 업체를 찾아 사이트를 만들고 입금 유치 | Google Maps부터 Pix까지의 오픈 소스 잠재 고객 발굴: Maps에서 업체를 찾아 각각의 이름으로 미리보기 사이트를 생성하고, WhatsApp에서 대화하여 Pix, Mercado P…로 결제 수취 |
+| [langchain-samples/Persistent-Agent](https://github.com/langchain-samples/Persistent-Agent) |  | Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of to… |
 | [brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) | 뇌 오가노이드 신경 신호로 생존 게임 속 LLM 에이전트를 유도 | LLM 에이전트를 위한 생체 신호 유도 강화 학습: Godot 생존 게임에서 오프라인 오가노이드 신경 기록을 정책 입력으로 활용하며, 쌍체 평가를 포함합니다. |
-| [sthamann/awesome-agentic-commerce](https://github.com/sthamann/awesome-agentic-commerce) | 에이전틱 커머스 프로토콜과 도구를 한눈에 확인 | 매일 선별 및 업데이트: 에이전틱 커머스 프로토콜 (UCP, ACP, AP2, MCP, x402), SDK, 결제 제공업체, 오픈 소스 구현 및 최신 뉴스. |
+| [AyushRajSinghParihar/weaponized-curiosity](https://github.com/AyushRajSinghParihar/weaponized-curiosity) | AI 에이전트가 근거 기반 연구와 실험을 수행하도록 돕는 스킬 | 증거 기반 연구, 실험 및 경계 최적화를 위한 휴대용 에이전트 스킬 |
 | [pritamux/gridlines](https://github.com/pritamux/gridlines) | UI 정렬이 어긋날 때 가이드선으로 여백 수정 | 정렬 패스를 위한 에이전트 스킬: 인터페이스에 가이드 라인을 그리고, 라인을 벗어난 모든 항목을 찾아 패딩을 수정합니다. |
-| [MaryCache/tsuzuri](https://github.com/MaryCache/tsuzuri) | AI 코딩 에이전트가 일본어 문장을 한 줄씩 작성하고 검토 | Claude Code, Codex, Antigravity 등의 AI 코딩 에이전트가 집필 의도와 문장 기능을 바탕으로 한 문장씩 일본어 문장을 작성 및 검토하도록 하는 스킬과 뷰어 앱 |
 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | 모든 기능을 포함한 Studioonepro7 데스크톱 버전 | Studioonepro7 Release: 모든 기능이 포함된 완전한 데스크톱 제품군 |
 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Quicken Deluxe 데스크톱 금융 관리 버전 | Quicken Deluxe: 예산 관리 및 보고 기능을 갖춘 종합 데스크톱 재무 관리 |
 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Startall Back Utility 데스크톱 관리 도구 | Startall Back Utility: 인터페이스 사용자 지정 기능이 있는 데스크톱 관리자 |
@@ -146,18 +146,30 @@
 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Ultra ISO 데스크톱 디스크 이미지 도구 | Ultra ISO: 데스크톱 디스크 이미지 제작, 마운트 및 변환 툴킷 |
 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Portfolio Rebalancer 데스크톱 자산 배분 도구 | Portfolio Rebalancer: 데스크톱 포트폴리오를 위한 구성 및 배분 관리 |
 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | Discord 및 Telegram용 MetaTrader 5 bot | Discord 및 Telegram용 커뮤니티 주도형 MetaTrader 5 bot, deskto에 친화적인 |
-| [njoniktu5/microstation-utility](https://github.com/njoniktu5/microstation-utility) | MicroStation Utility 데스크톱 엔지니어링 도구 | MicroStation Utility: 인프라 설계를 위한 포괄적인 데스크톱 엔지니어링 툴셋 |
 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Microsoft Visio 다이어그램 및 벡터 그래픽 데스크톱 앱 | Microsoft Visio: 다이어그램 및 벡터 그래픽 데스크톱 애플리케이션 |
 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | IBM SPSS Statistics 데이터 분석 기능 | IBM SPSS Statistics: 고급 데이터 분석을 위한 기능 세트 |
-| [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Landr 플러그인 번들 설정 파일 | Landr Plugin Bundle: 완벽한 설정, 독자적 견해 및 |
-| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 데스크톱 데이터 전송 및 기기 관리 | FoneTrans Desktop Utility: 완전한 데이터 전송 및 기기 관리 제품군 |
+| [jbondoc02/ios-unlocker-pro](https://github.com/jbondoc02/ios-unlocker-pro) |  | iOS Unlocker Pro: Desktop Setup for Device Access Management |
 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | 모더용 Better Discord Client 데스크톱 | Better Discord Client: 모더를 위한 리마스터된 데스크톱 경험 |
+| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | 셰이더 제어 지원 Roblox 데스크톱 향상 도구 | Roblox용 BloxShade: 셰이더 제어 기능을 갖춘 데스크톱 향상 스위트 |
+| [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | FoneTrans 데스크톱 데이터 전송 및 기기 관리 | FoneTrans Desktop Utility: 완전한 데이터 전송 및 기기 관리 제품군 |
 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Chimera Utility 데스크톱 워크플로 도구 | Chimera Utility: 시스템 관리 및 워크플로를 위한 통합 데스크톱 툴체인 |
 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Easy Worship 데스크톱 프레젠테이션 소프트웨어 | Easy Worship Desktop: 간소화된 프레젠테이션 및 예배 계획 소프트웨어 |
-| [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | 셰이더 제어 지원 Roblox 데스크톱 향상 도구 | Roblox용 BloxShade: 셰이더 제어 기능을 갖춘 데스크톱 향상 스위트 |
 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Ashampoo WinOptimizer Pro 시스템 최적화 도구 | Ashampoo WinOptimizer Pro: 고급 Windows 튜닝 및 시스템 최적화 제품군 |
 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | Avid Media Composer 대체 설치 및 설정 도구 | Avid Media Composer 대안 액세스 도구 - 간소화된 데스크톱 설정 및 런타임 구성 |
+| [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Display Fusion 다중 모니터 데스크톱 관리 도구 | Display Fusion: 창 스냅 및 프로필 자동화 기능을 갖춘 다중 모니터 데스크톱 관리 |
+| [testcompupa-sketch/avast-premium-security-fadalan](https://github.com/testcompupa-sketch/avast-premium-security-fadalan) |  | Deploy Avast Premium Security Fadalan, then document configuration and runtime status. |
 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | Semgrep으로 코드 속 보안 취약점과 비밀 유출 탐지 | 고정밀 Semgrep 보안 규칙 — 75개 공급업체를 포괄하는 Python, JavaScript, Java, PHP용 146개 오염 추적 및 비밀 탐지 규칙. By Robusta Studi… |
-| [SilverFeit/StikSound](https://github.com/SilverFeit/StikSound) | 스티커에 최대 5초 길이의 소리를 추가 | StikSound — WhatsApp용 PNG 스티커 및 애니메이션 GIF에 최대 5초 길이의 사운드를 추가하세요 (Windows, macOS &amp; Chrome 확장 프로그램, 설치 없이 100% 로컬…) |
-| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) | Muse가 안전하게 승인받고 로컬 파일을 다루게 하세요 | MuseLink는 안내형 설정, 워크스페이스별 ACL 격리, 로컬 승인 대화상자를 통해 Muse를 승인된 Windows 파일 및 선택적 샌드박스 로컬 명령에 연결합니다… |
+| [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) |  | Agentic ASPM, the open source Snyk alternative. A full security audit in one command |
+| [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) |  | Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evide… |
+| [Venky7514/Stalker-Search](https://github.com/Venky7514/Stalker-Search) |  | Local OSINT privacy scanner to find and remove your exposed personal data, documents, and contact leaks online before stalkers can find them. |
+| [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) |  | 交互式电子电路学堂：用可以动手拨弄的仿真学电路 |
+| [Aenvo/MuseLink](https://github.com/Aenvo/MuseLink) |  | MuseLink connects Muse to authorized local files on Windows, Linux, and macOS (plus optional Windows sandboxed commands), with guided setup, local approvals, f… |
+| [Buggo404/RID-Uninstaller](https://github.com/Buggo404/RID-Uninstaller) |  | Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri. |
+| [scrolltide/ai-studio-skill](https://github.com/scrolltide/ai-studio-skill) |  | Free Claude skill for websites that move when you scroll: scroll films, layered parallax, self-drawing paths. Built from the real source of Scrolltide builds a… |
+| [prasathrathnayaka/krita-dadelan-art-studio](https://github.com/prasathrathnayaka/krita-dadelan-art-studio) |  | Krita Dadelan Art Studio: a curated workspace for digital painting and illustration. |
+| [guanmo-ai/ui-moments](https://github.com/guanmo-ai/ui-moments) |  | A hands-on gallery of interactive UI and motion |
+| [azzeddinemaadane3-eng/after-effects-nodemar-motion-design](https://github.com/azzeddinemaadane3-eng/after-effects-nodemar-motion-design) |  | Build modular motion design workflows in After Effects with structured node-based composition. |
+| [Marvin-poma/illustrator-pro-2026-jasaren](https://github.com/Marvin-poma/illustrator-pro-2026-jasaren) |  | Vector design tools refined for precision workflows - built to accelerate complex illustration |
+| [Leandrojps7/illustrator-kalin-vector-design](https://github.com/Leandrojps7/illustrator-kalin-vector-design) |  | Design vector illustrations with Kalin, an Illustrator workflow for structured artwork. |
 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | YouTube용 AI 동영상 편집 워크플로 | 스토리보드, 캡처 및 애니메이션: YouTube용 AI 편집 워크플로 |
+| [bientoel-ctrl/substance-3d-painter-tacelan](https://github.com/bientoel-ctrl/substance-3d-painter-tacelan) |  | Real-time 3D texture painting with layer-based material workflows. |

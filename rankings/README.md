@@ -6,6 +6,7 @@ Latest: [`latest/rankings.md`](../latest/rankings.md) · [`latest/stats.json`](.
 
 | Date | Slot | Fetched (UTC) | #1 new (7 days) | #1 this week | #1 this month | #1 this year | Snapshot |
 |---|---|---|---|---|---|---|---|
+| 2026-11-27 | Los Angeles 00:00 (`pt-0000`) | 2026-11-27T17:01:41Z | nexu-io/opengame (885/day) | stablyai/orca (1,607/day) | morluto/rea (2,790/day) | deepseek-ai/deepseek-harness (2,715/day) | [2026-11-27/pt-0000](2026-11-27/pt-0000/rankings.md) · [json](2026-11-27/pt-0000/stats.json) |
 | 2026-11-26 | Los Angeles 00:00 (`pt-0000`) | 2026-11-26T17:23:08Z | alesha-pro/llm.asm (890/day) | morluto/rea (1,504/day) | morluto/rea (2,928/day) | deepseek-ai/deepseek-harness (2,736/day) | [2026-11-26/pt-0000](2026-11-26/pt-0000/rankings.md) · [json](2026-11-26/pt-0000/stats.json) |
 | 2026-11-25 | Los Angeles 00:00 (`pt-0000`) | 2026-11-25T17:40:15Z | EL4CTEO/fast-anything (943/day) | morluto/rea (1,586/day) | morluto/rea (3,116/day) | deepseek-ai/deepseek-harness (2,757/day) | [2026-11-25/pt-0000](2026-11-25/pt-0000/rankings.md) · [json](2026-11-25/pt-0000/stats.json) |
 | 2026-11-24 | Los Angeles 00:00 (`pt-0000`) | 2026-11-24T18:25:37Z | EL4CTEO/fast-anything (1,122/day) | morluto/rea (1,683/day) | morluto/rea (3,281/day) | deepseek-ai/deepseek-harness (2,779/day) | [2026-11-24/pt-0000](2026-11-24/pt-0000/rankings.md) · [json](2026-11-24/pt-0000/stats.json) |
